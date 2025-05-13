@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Samo\u0142yk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T15:48:01.280337+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T14:58:11+00:00",
+        "description": "W dzisiejszym odcinku robi\u0119 przegl\u0105d kandydat\u00f3w na prezydenta przed pierwsz\u0105 tur\u0105 wybor\u00f3w, kt\u00f3ra odb\u0119dzie si\u0119 ju\u017c 18 maja. Ujawniam swoje pogl\u0105dy i g\u0142os w I i II turze. Zapraszam do dyskusji w komentarzach!\n\n#wybory #wyboryprezydenckie #18maja\n\n\ud83d\udc49 Takie filmy jak ten s\u0105 mo\u017cliwe dzi\u0119ki moim Patronom i Darczy\u0144com. Je\u015bli chcesz, aby ten kana\u0142 istnia\u0142 i dalej si\u0119 rozwija\u0142, mo\u017cesz do\u0142\u0105czy\u0107 do wspieraj\u0105cych! Mo\u017cna to zrobi\u0107 na 3 sposoby:\n- Patronite: https://patronite.pl/Samolyk\n- Przycisk \"wesprzyj\" \u2013 znajduje si\u0119 tu\u017c pod filmem\n- Darowizna na konto Banku Pekao SA: 08 1240 2786 1111 0010 1984 8265 Tytu\u0142em: \"darowizna\"",
+        "id": 2659779,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EhI7SWnPgXU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 372,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj5Ug7sV0Id9g-NEfFa1psg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EhI7SWnPgXU/hqdefault.jpg",
+        "title": "Czy zag\u0142osuj\u0119 na Brauna? Ujawniam moje pogl\u0105dy i g\u0142os w I i II turze",
+        "vote": 0
+    }
+]

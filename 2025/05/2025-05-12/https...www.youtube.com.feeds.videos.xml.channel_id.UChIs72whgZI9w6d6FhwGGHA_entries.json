@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T01:12:53.122491+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T00:31:36+00:00",
+        "description": "Sponsor: Thermaltake TR100 mini-ITX Travel Case on Amazon https://geni.us/Yn9DXb\nThe heat pipe was originally investigated by NASA (after its invention by George Grover) in the 1960s, potentially proving useful in space. Heat pipes have become ubiquitous in CPU and GPU coolers, with some displacement from vapor chambers and 3D vapor chambers, and now Cooler Master is trying to reinvent the heatpipe into a \"3D heatpipe,\" which uses a stem protruding from a standard copper heatpipe. The new 3DHP uses sintered copper powder in the outer pipes at 8mm diameter, with a grooved central 6mm diameter pipe that uses a sintered base to aid capillary action across the channel. This quick and dirty science experiment isn't an end-all to testing, but provides a feature test and case study on what Cooler Master says is rolling out to its new coolers -- including a Hyper 212 replacement (likely the V4).\n\nGrab a discounted B-STOCK MODMAT for PC building: https://store.gamersnexus.net/products/modmat-v",
+        "id": 2654868,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Sq0VRBAqnU4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sq0VRBAqnU4/hqdefault.jpg",
+        "title": "Reinventing the Heat Pipe | \"3D\" Heatpipes & Cooler Master Hyper 212 Remade",
+        "vote": 0
+    }
+]

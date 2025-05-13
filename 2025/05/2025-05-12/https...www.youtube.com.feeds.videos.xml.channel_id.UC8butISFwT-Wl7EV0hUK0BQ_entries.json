@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T14:28:22.657786+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T13:22:06+00:00",
+        "description": "This massive Kotlin and Android course takes you from the fundamentals to advanced concepts with hands-on practice. Throughout this course for beginners, @programmingwithalex.585  will teach you to build multiple real-world applications, including an impressive Uber clone that demonstrates professional-grade development techniques. \nThe course covers Firestore, SQLite, MVVM, Retrofit, Navigation Component, Jetpack Compose and more.\n\nAlex's Python course: https://www.udemy.com/course/learn-python-from-zero-to-expert/?referralCode=42090420F4BB05718386\nAlex's Java course: https://www.udemy.com/course/the-complete-java-course/?referralCode=022EBD61D8A97DB18E22\nYouTube Channel: https://youtube.com/@programmingwithalex.585?si=nF0-5uS1XAyq9Xg0\n\n- 00:00:00 Introduction to the Course\n- 00:20:07 Downloading and Installing IntelliJ IDEA\n- 00:27:47 Creating Your First Project\n- 00:44:47 Working with Variables and Data Types\n- 01:36:58 Operators and Operations\n- 01:56:17 Control Flow\n- 02:08:11 Co",
+        "id": 2659062,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=blKkRoZPxLc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/blKkRoZPxLc/hqdefault.jpg",
+        "title": "Android & Kotlin Development Masterclass \u2013 Full Course",
+        "vote": 0
+    }
+]

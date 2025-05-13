@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Guttag",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T04:27:56.513131+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T03:52:26+00:00",
+        "description": "Meta and Google are both working on AR/AI glasses that are Monocular, Full Color, and using LCOS MicroDisplays (rather than MicroLEDs). It looks to me like Meta has chosen Lumus for its reflective waveguide while Google is using Applied Materials Diffractive Waveguide with an Avegant projector engine.",
+        "id": 2655467,
+        "language": "en-US",
+        "link": "https://kguttag.com/2025/05/11/meta-hypernova-and-google-ar-ai-glasses-lumus-avegant-inside-both-using-lcos-microdisplays/?utm_source=rss&utm_medium=rss&utm_campaign=meta-hypernova-and-google-ar-ai-glasses-lumus-avegant-inside-both-using-lcos-microdisplays",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 487,
+        "source_url": "https://www.kguttag.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Meta Hypernova and Google AR/AI Glasses \u2013 Lumus & Avegant Inside, Both Using LCOS MicroDisplays",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Mac and Mark Walker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T22:31:37.229088+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T22:25:50+00:00",
+        "description": "The Federal Railroad Administration has brought in the tunneling company to help with a multibillion-dollar rail project.",
+        "id": 2662732,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/05/12/business/00BORING-TUNNEL/00BORING-TUNNEL-mediumSquareAt3X.jpg",
+        "title": "Elon Musk\u2019s Boring Company Is in Talks With Government Over Amtrak Project",
+        "vote": 0
+    }
+]

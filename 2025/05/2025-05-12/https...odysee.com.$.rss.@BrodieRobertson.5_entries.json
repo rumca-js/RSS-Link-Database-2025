@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T21:43:06.208001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T21:00:06+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/51L6QMDlc-U\" width=\"480\" alt=\"thumbnail\" title=\"Servo Browser Answers The AI Question\" /></p>The AI question is one that more software project are going to have to answer, this is not a problem that you can just put to the side and ignore and Servo has decided to go and confirm there stance on this tooling<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Andreas Kling Post: https://x.com/awesomekling/status/1914601332750639429<br />Servo Issue: https://github.com/servo/servo/discussions/36379<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br ",
+        "id": 2662455,
+        "language": "en",
+        "link": "https://odysee.com/servo-browser-answers-the-ai-question:481f514cc9e2a223b8ffb60692e93c3954fd0d65",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Servo Browser Answers The AI Question",
+        "vote": 0
+    }
+]

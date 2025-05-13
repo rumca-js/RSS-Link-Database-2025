@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T20:45:33.485976+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T18:01:01+00:00",
+        "description": "JMP offers a 30-day free trial for anyone, anywhere. Go to https://www.jmp.com/scishow to see the benefits of visual statistics for yourself. \n\nA huge number of vehicular fatalities are people who aren't in cars at all. Pedestrians are dying more than they used to and more in America than other comparable parts of the world. Here's why.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mckishen, Kaitlyn O'Callaghan, Reed Spilmann, Garrett Galloway, Friso, kickinwasabi, Gizmo, Jeremy Mattern, Blood Doctor Kelly, Eric Jensen, Jaap West",
+        "id": 2662111,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pvUa7q6BvbE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pvUa7q6BvbE/hqdefault.jpg",
+        "title": "Why Do So Many More Pedestrians Die in America?",
+        "vote": 0
+    }
+]

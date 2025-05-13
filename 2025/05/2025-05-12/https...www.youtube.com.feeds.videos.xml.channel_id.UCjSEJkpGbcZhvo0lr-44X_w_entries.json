@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T17:54:57.165675+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T16:21:30+00:00",
+        "description": "The first 500 people to use my link https://skl.sh/techhut05251  will get a 1 month free trial of Skillshare!\n\nWe are building the foundations for our ULTIMATE media server. Creating a VM in Proxmox, getting Ubuntu running, Docker, Hardware Transcoding, shares, and more!\n\n\ud83d\udcd6 RESOURCES\nJellyfin Homelab Docs: https://github.com/TechHutTV/homelab/tree/main/media/jellyfin\nMedia Server Docs: https://github.com/TechHutTV/homelab/tree/main/media\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.org/?referred_by=673908\n\n\ud83d\udcf7 MY GEAR \nHARD DRIVES: https://serverpartdeals.com/techhut\nMinisForum Tablet: https://amz",
+        "id": 2661038,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Vwtx_dfYrtA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vwtx_dfYrtA/hqdefault.jpg",
+        "title": "DITCH Netflix and Disney - the ULTIMATE Home Server Setup - Full Walkthrough Guide Pt.2",
+        "vote": 0
+    }
+]

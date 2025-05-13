@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T14:16:46.523177+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T14:00:53+00:00",
+        "description": "SMIC is China\u2019s main bet against Taiwan\u2019s TSMC and South Korea\u2019s Samsung in the global AI race. But the U.S.\u2019s efforts to keep Beijing\u2019s biggest chipmaker in check appear to have had the opposite effect. Huawei recently unveiled a new line of SMIC manufactured semiconductors that rival Nvidia\u2019s.\n\nWSJ explains how rise of SMIC in China and how the U.S. is trying to keep the company in check.\n\nChapters:\n0:00 U.S.-China tech war\n1:07 SMIC\u2019s origins\n2:49 Should the U.S. be concerned by SMIC?\n4:35 The impact of tariffs\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#China #SMIC #WSJ",
+        "id": 2658810,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=b88mOUwxyJk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b88mOUwxyJk/hqdefault.jpg",
+        "title": "This Company Is China\u2019s Main Bet Against TSMC and Samsung | WSJ",
+        "vote": 0
+    }
+]

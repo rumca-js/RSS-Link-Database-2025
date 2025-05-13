@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T22:58:21.951893+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T22:45:00+00:00",
+        "description": "Find them on Amazon: https://lon.tv/msa5v (compensated affiliate link) - Asus has a new line of Wi-Fi 7 mesh units for their mesh networking system, including one with support for 10 gig ethernet networks. See more networking: https://www.youtube.com/playlist?list=PLCZHp4d1HnIsjVNQfNZwRHgB0CESn9UVJ and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:17 - Product line overview\n02:04 - How Asus Mesh Works\n03:19 - Wired backhaul option\n04:29 - How to choose the right mesh unit\n05:18 - Mesh Peformance: BT10 (high end unit)\n06:30 - Mesh Performance: BD5 (low end unit)\n07:14 - BT8 vs BT10\n08:06 - Wi-Fi Performance to / from iPhone & PC\n09:52 - Internet Routing Performance with a 10 Gig ISP\n10:44 - BD5 Outdoor Overview\n12:46 - Adding Additional Mesh Units\n15:08 - Mobile App Overview\n18:45 - Web configuration interface\n19:22 - Conclusion\n20:33 - Price Info\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDa",
+        "id": 2662965,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EBV0VAq3iRM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EBV0VAq3iRM/hqdefault.jpg",
+        "title": "Asus ZenWifi Wi-Fi 7 Mesh System Overview: BD5, BD5 Outdoor, BT8 & BT10",
+        "vote": 0
+    }
+]

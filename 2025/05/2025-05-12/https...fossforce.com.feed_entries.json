@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marco Fioretti",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T20:30:35.431773+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T18:31:24+00:00",
+        "description": "<p><em>Some sage advice for EU nations attempting to get a handle on the vast volumes of EU citizens' data being held in US-owned and operated clouds.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/05/european-data-sovereignty-and-american-clouds-a-brewing-storm/\">European Data Sovereignty and American Clouds: A Brewing Storm</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2661738,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/05/european-data-sovereignty-and-american-clouds-a-brewing-storm",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "European Data Sovereignty and American Clouds: A Brewing Storm",
+        "vote": 0
+    }
+]

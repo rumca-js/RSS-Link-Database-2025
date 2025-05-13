@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kelsey Piper",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T10:38:04.065784+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T06:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A pointillistic drawing of a gridded surface lit up by the moon and stars. Various painterly portraits, calculations, and handwritten notes appear and disappear in a checkered pattern atop the scene.\" data-caption=\"\" data-portal-copyright=\"Paige Vickers/Vox; Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/05/AI_final_78e0bb.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption></figcaption>\n</figure>\n<p class=\"has-text-align-none\">Staying on top of AI developments is a full-time job.&nbsp;</p>\n\n<p class=\"has-text-align-none\">I would know, because it\u2019s my full-time job. I subscribe to Anthropic\u2019s Pro mode for <a href=\"https://www.vox.com/future-perfect/23794855/anthropic-ai-openai-claude-2\">access to their latest model, Claude 3.7</a>, in \u201cextended thinking\u201d mode; I have a complementary subscription to <a href=\"https://www.vox.com/future-perfect/380117/openai-microsoft-sam-altman-nonprofit-fo",
+        "id": 2657128,
+        "language": null,
+        "link": "https://www.vox.com/future-perfect/411924/artificial-intelligence-chatbots-openai-chatgpt-anthropic-google-gemini-claude-grok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I pushed AI assistants to their limits, so you don&#8217;t have to. Here\u2019s what really works.",
+        "vote": 0
+    }
+]

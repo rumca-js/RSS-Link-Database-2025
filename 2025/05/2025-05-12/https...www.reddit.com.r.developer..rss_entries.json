@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/capn-hunch",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T07:00:39.656850+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T06:15:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks,</p> <p>I see lot of engineers get frustrated when they propose a system improvement\u2014like a refactor, redesign, or infrastructure change\u2014and leadership says no. The idea might be solid. But the way it\u2019s framed usually isn\u2019t. If you want buy-in, especially from product or execs, you need to speak their language: which is business value.</p> <p>Here&#39;s what has worked for me,<a href=\"https://shipvalue.substack.com/p/making-your-case\"> I also wrote an entire post about it here</a>:</p> <p><strong>1. Frame it around outcomes that matter to the business</strong><br/> Instead of saying, \u201cthis will make the code cleaner,\u201d say things like:</p> <ul> <li>\u201cThis change will reduce infra costs by $3K/month.\u201d</li> <li>\u201cThis cuts page load time by 15%, which helps reduce churn.\u201d</li> <li>\u201cThis eliminates 25% of support tickets, which frees up CS time.\u201d</li> </ul> <p>If you can link your work to cost reduction, improved performance, or efficiency gains, ",
+        "id": 2656060,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1kklisa/if_your_refactors_keep_getting_rejected_youre",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "If your refactors keep getting rejected, you're probably pitching them the wrong way.",
+        "vote": 0
+    }
+]

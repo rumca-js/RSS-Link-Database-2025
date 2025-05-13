@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T09:23:36.058117+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T09:03:00+00:00",
+        "description": "Little kids get confused about this&#8230; just add a few more to a very big number, and you have infinity. Actually, infinity is a feeling and a concept built on the presumption that it can never be reached. In a metrics-driven world, infinity is a dangerous thing to wish for, because it can never be [&#8230;]",
+        "id": 2656755,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/infinity-is-not-a-number",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Infinity is not a number",
+        "vote": 0
+    }
+]

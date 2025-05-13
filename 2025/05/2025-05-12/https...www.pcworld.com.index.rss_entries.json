@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T15:48:41.015564+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T15:43:47+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>OLED gaming monitors are fantastic (I\u2019m typing this up on one right now), but they aren\u2019t perfect. Aside from the higher prices, they still have lower brightness than older, less colorful panels, and they\u2019re nowhere near as fast as gaming LCDs. Samsung is closing that gap with its latest OLED monitor\u2026 but you\u2019ll have to pay for it. And then pay some more. It\u2019s expensive is what I\u2019m saying.</p>\n\n\n\n<p><a href=\"https://news.samsung.com/global/samsung-launches-worlds-first-500hz-oled-gaming-monitor-odyssey-oled-g6\">The new Odyssey G60F</a> is a 27-inch, 1440p display, which is arguably the standard for PC gaming at the moment. But Samsung claims that this is the \u201cworld\u2019s first 500Hz OLED gaming monitor,\u201d a claim I\u2019m not going to dispute. Indeed, 360Hz was the highest OLED value I\u2019d seen <a href=\"https://www.pcworld.com/search?q=360hz+oled#gsc.tab=0&gsc.q=360hz%",
+        "id": 2659798,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2778419/samsungs-new-oled-gaming-monitor-is-500hz-and-crazy-expensive.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Samsung\u2019s new OLED gaming monitor is 500Hz and crazy expensive",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T11:53:43.907820+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T11:11:42+00:00",
+        "description": "<p>Makop to rodzina ransomware tworzona jako Ransomware as a Service (\u201cRaaS\u201d) szeroko wykorzystywane w kampaniach skierowanych przeciwko przer\u00f3\u017cnym organizacjom, w tym z sektora krytycznego. Niedawno mia\u0142em okazj\u0119 przyjrze\u0107 si\u0119 jednemu z jego nowszych wariant\u00f3w oraz dokona\u0107 do\u015b\u0107 szczeg\u00f3\u0142owej analizy dzia\u0142ania. Analiza statyczna pliku wykonywalnego Sama binarka ma niewielki rozmiar, bo...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/jak-skutecznie-i-lokalnie-zaszyfrowac-caly-dysk-studium-przypadku-ransomware-makop/\">Jak skutecznie i lokalnie zaszyfrowa\u0107 ca\u0142y dysk &#8211; studium przypadku ransomware MAKOP</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2657746,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/jak-skutecznie-i-lokalnie-zaszyfrowac-caly-dysk-studium-przypadku-ransomware-makop",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jak skutecznie i lokalnie zaszyfrowa\u0107 ca\u0142y dysk \u2013 studium przypadku ransomware MAKOP",
+        "vote": 0
+    }
+]

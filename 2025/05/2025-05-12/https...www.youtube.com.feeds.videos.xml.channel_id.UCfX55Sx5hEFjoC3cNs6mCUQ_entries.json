@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-12T20:29:49.723741+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-12T17:53:07+00:00",
+        "description": "The European Union's Cyber Resilience Act (CRA) is a regulation that applies to products with digital elements, including software and hardware. In this video, David A. Wheeler, Director of Open Source Supply Chain Security at OpenSSF, explains the CRA and its implications for software developers and organizations.\n\nThe CRA mandates risk identification, vulnerability management, and documentation, making it a significant shift from the status quo. Penalties for non-compliance can reach up to 15 million euros or 15% of annual revenue. OpenSSF has released a free, self-paced course to help software developers and managers understand and comply with the CRA.\n\nWatch to learn more about the CRA and how to prepare for its enforcement in 2026 and 2027. Understand the importance of early preparation and how to ensure compliance with the CRA.",
+        "id": 2661688,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_JecX7a1DXI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_JecX7a1DXI/hqdefault.jpg",
+        "title": "The CRA Explained\u2014Why It Matters to Open Source Developers and Vendors",
+        "vote": 0
+    }
+]
