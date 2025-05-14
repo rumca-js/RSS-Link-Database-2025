@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-13T13:20:15.870301+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-13T11:01:03+00:00",
+        "description": "Read more about Terzo here \u2192 https://ibm.biz/Bdnmpr\n\nLearn more about Intelligent Data Extraction here \u2192 https://ibm.biz/BdnqSX\n\nAre AI agents the new assembly line for data? \ud83e\udd16 Join Eric Pritchett from Terzo as he explores how LLMs, GPT models, and AI agents turn unstructured data into actionable insights. Discover how OCR, NLP, and agentic workflows reshape document intelligence and solve real-world challenges! \u2728\n\nDiscover more about Terzo \u2192 https://ibm.biz/Bdnmps\n\n#ai #llm #unstructureddata #aiagents",
+        "id": 2667442,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_pEEJu-2KKM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_pEEJu-2KKM/hqdefault.jpg",
+        "title": "LLMs and AI Agents: Transforming Unstructured Data",
+        "vote": 0
+    }
+]

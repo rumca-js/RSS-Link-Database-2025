@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-13T17:22:45.572050+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-13T16:47:04+00:00",
+        "description": "Sponsored by: vCluster\n\nModern platform engineering requires more than just Kubernetes \u2013 it\u2019s about building a cohesive ecosystem that supports developer autonomy and operational scalability. In this session, we\u2019ll walk through how to build a self-service Kubernetes catalog using Helm, GitOps, and vCluster, while integrating CI pipelines and composable infrastructure tools like Terraform, Helm, Kro, Kratix, etc. Learn how to connect these components into a seamless platform experience that\u2019s ready for real-world, day-2 operations.\n\nTopics we\u2019ll cover include:\n\n- How can you build a Helm-based catalog that empowers teams to deploy services on their own?\n- What does it mean to \u201ccompose\u201d infrastructure using tools like Terraform, Kratix, and Score?\n- How does label-based deployment work in Argo CD, especially across multiple vClusters?\n- How can Go-based templates and CI pipelines generate deploy-ready manifests for GitOps?\n- What does a fully integrated GitOps workflow look like from CI",
+        "id": 2669766,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=U4AgmEo3oV8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U4AgmEo3oV8/hqdefault.jpg",
+        "title": "LF Live Webinar: From CI to Kubernetes Catalog: A Practical Guide to vCluster and GitOps",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ku Bogu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-13T22:37:25.399788+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-13T22:31:05+00:00",
+        "description": null,
+        "id": 2672126,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EiIbeVkGfTI",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 178,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL0WiIwugwTXU5YBFvatbNg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EiIbeVkGfTI/hqdefault.jpg",
+        "title": "W jaki spos\u00f3b z\u0142o niepostrze\u017cenie wchodzi do twojego \u017cycia? #podcast #kubogu",
+        "vote": 0
+    }
+]

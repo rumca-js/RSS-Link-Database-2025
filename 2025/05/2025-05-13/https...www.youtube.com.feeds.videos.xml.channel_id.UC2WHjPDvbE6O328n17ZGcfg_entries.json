@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-13T19:53:02.505576+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-13T19:00:37+00:00",
+        "description": "Make sure you attend Snyk Launch 2025 on May 28th: https://snyk.plug.dev/nZdYkWM\n\nAll modern JavaScript frameworks - React, Vue, Svelte, Solid, Qwik, Angular - exist for one reason... to stop you from manually updating the DOM like it\u2019s 2004. In this video, we break down the one idea they all revolve around, how we got here, and why everything feels kinda\u2026 the same.\n\nYou\u2019ll see how we went from JavaScript to jQuery to dirty checking to signals and resumability - and why, underneath all the fancy syntax, every framework is solving the exact same problem.\n\nNOTE: Angular started with dirty checking but now uses change detection. I meant to mention this in the video.\n\nYou\u2019ll Never Manually Update the DOM Again \u2014 Here\u2019s Why\nAll Modern JS Frameworks Are Lying to You (But in a Good Way)\nWhy Modern JS Frameworks Exist\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstuden",
+        "id": 2671114,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=gNta-P4Vf7Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gNta-P4Vf7Q/hqdefault.jpg",
+        "title": "All Modern JS Frameworks Are Lying to You (But in a Good Way)",
+        "vote": 0
+    }
+]

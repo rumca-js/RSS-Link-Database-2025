@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brandon Bryson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-13T13:05:56.719979+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-13T13:03:00+00:00",
+        "description": "<img width=\"640\" height=\"640\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/04/Nyakuza-1024x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Nyakuza\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/04/Nyakuza-1024x1024.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/04/Nyakuza-300x300.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/04/Nyakuza-150x150.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/04/Nyakuza-768x768.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/04/Nyakuza-640x640.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/04/Nyakuza-1280x1280.jpg 1280w, https://www.boardgamequest.com/wp-content/uploads/2025/04/Nyakuza.jpg 1500w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Everyone\u2019s trying to muscle in on some territory these days",
+        "id": 2667320,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/nyakuza-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nyakuza Review",
+        "vote": 0
+    }
+]

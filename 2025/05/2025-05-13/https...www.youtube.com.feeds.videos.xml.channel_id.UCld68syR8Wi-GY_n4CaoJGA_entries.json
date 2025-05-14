@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-13T22:00:35.492670+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-13T21:01:02+00:00",
+        "description": "I've been worried for the GNOME Foundation for a long time now, it's been miss step after miss step but with the new Executive Director, I actually have hope for the foundation and for the change that needs to happen to occur.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nOfficial Announcement: https://foundation.gnome.org/2025/05/09/gnome-foundation-welcomes-steven-deobald-as-executive-director/\nSteven Blog Post: https://blogs.gnome.org/steven/2025/05/06/introducing-myself/\nRichard Blog Post: https://blogs.gnome.org/richardlitt/2025/05/02/so-long-and-thanks-for-all-the-fish/\nHolly Quits: https://www.phoronix.com/news/GNOME-Holly-Million-Leaving\nFoundation Report: https://blogs.gnome.org/steven/2025/05/09/2025-05-09-foundation-report/\n\n=========Video Platforms========",
+        "id": 2671961,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vA-UwuwrO9E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vA-UwuwrO9E/hqdefault.jpg",
+        "title": "GNOME's Future Looks Bright For Once",
+        "vote": 0
+    }
+]

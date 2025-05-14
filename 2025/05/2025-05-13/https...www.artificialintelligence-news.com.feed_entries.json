@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-13T16:08:31.336152+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-13T15:07:09+00:00",
+        "description": "<p>Google&#8217;s recent announcement of an AI Futures Fund shows the company wants to invest in AI startups. It sees itself as providing capital, early access to AI models yet to reach production, and support for startups from experts at the company. This is not Google&#8217;s first rodeo. To date, Alphabet (Google&#8217;s parent company) has invested [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/google-ai-futures-fund-doj-ruling-unclear-undecided/\">Google&#8217;s AI Futures Fund may have to tread carefully</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2668990,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/google-ai-futures-fund-doj-ruling-unclear-undecided",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google\u2019s AI Futures Fund may have to tread carefully",
+        "vote": 0
+    }
+]

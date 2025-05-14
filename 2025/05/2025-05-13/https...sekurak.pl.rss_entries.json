@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-13T09:43:22.435049+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-13T09:01:55+00:00",
+        "description": "<p>S\u0105 tu jacy\u015b fani sztucznej inteligencji? Z poprzednich szkole\u0144 z tego tematu wiemy, \u017ce jest Was ju\u017c ponad 120 000, wi\u0119c nie zwalniamy tempa i 20 maja br. wracamy ponownie z naszym topowym szkoleniem Poznaj AI. Praktyka, narz\u0119dzia, ciekawostki! Mo\u017cesz wbi\u0107 na szkolenie ca\u0142kowicie za darmo, mo\u017cesz nas wesprze\u0107 jak\u0105\u015b...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/szkolenie-poznaj-ai-powraca-dolacz-do-ponad-100-000-osob-ktore-zlapaly-z-nami-bakcyla-ai/\">Szkolenie Poznaj AI powraca! Do\u0142\u0105cz do ponad 120 000 os\u00f3b, kt\u00f3re z\u0142apa\u0142y z nami bakcyla AI.</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2665795,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/szkolenie-poznaj-ai-powraca-dolacz-do-ponad-100-000-osob-ktore-zlapaly-z-nami-bakcyla-ai",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Szkolenie Poznaj AI powraca! Do\u0142\u0105cz do ponad 120 000 os\u00f3b, kt\u00f3re z\u0142apa\u0142y z nami bakcyla AI.",
+        "vote": 0
+    }
+]
