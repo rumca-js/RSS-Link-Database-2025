@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T15:04:54.996086+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T14:00:35+00:00",
+        "description": "This week in open source: things are moving fast and in all directions.\nCNCF and Synadia resolve a high-stakes governance dispute, OpenSearch keeps shipping, and the PyTorch Foundation expands its mission. Meanwhile, we\u2019ve got new standards emerging, trust frameworks evolving, and mapping tech getting a serious speed boost.\n\nCatch the key moves in under a minute watch this week\u2019s LF Quick Hits.\n#OpenSource #PyTorch #OpenSearch #CNCF #AI",
+        "id": 2677705,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=JUue3jnxPRk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JUue3jnxPRk/hqdefault.jpg",
+        "title": "Open Source Just Leveled Up \u2013 Here\u2019s What\u2019s New!",
+        "vote": 0
+    }
+]

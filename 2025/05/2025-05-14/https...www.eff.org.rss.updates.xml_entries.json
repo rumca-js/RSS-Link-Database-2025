@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Guariglia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T23:18:39.999116+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T23:04:10+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>Montana has done something that many states and the United States Congress have debated but failed to do: it has just enacted the first attempt to close the dreaded, invasive, unconstitutional, but easily fixed \u201c</span><a href=\"https://www.eff.org/deeplinks/2020/12/law-enforcement-purchasing-commercially-available-geolocation-data\"><span>data broker loophole</span></a><span>.\u201d This is a very good step in the right direction because right now, across the country, law enforcement routinely purchases information on individuals it would otherwise need a warrant to obtain. <br /></span></p>\n<p><span>What does that mean? In every state other than Montana, if police want to know where you have been, rather than presenting evidence and sending a warrant signed by a judge to a company like Verizon or Google to get your geolocation data for a par",
+        "id": 2681900,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/05/montana-becomes-first-state-close-law-enforcement-data-broker-loophole",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Montana Becomes First State to Close the Law Enforcement Data Broker Loophole",
+        "vote": 0
+    }
+]

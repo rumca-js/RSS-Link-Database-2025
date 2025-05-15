@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T22:06:28.543355+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T21:00:31+00:00",
+        "description": "Rust rewrites are kind of a long running joke in the world of Linux but soon you're not going to be able to escape them no matter how hard you try, Ubuntu 25.10 is looking to adopt sudo-rs and the adoption of uutils is still on the table as well\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nOxiding Ubuntu: https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995\nuutils: https://github.com/uutils/coreutils\nsudo-rs: https://github.com/trifectatechfoundation/sudo-rs\nAdopting sudo-rs: https://discourse.ubuntu.com/t/adopting-sudo-rs-by-default-in-ubuntu-25-10/60583\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social ",
+        "id": 2681467,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Le4iacgPl8w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Le4iacgPl8w/hqdefault.jpg",
+        "title": "You Will Never Escape Rust Rewrites On Linux",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T19:30:02.283222+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T18:02:28+00:00",
+        "description": "This video was made in partnership with Ecovacs. Checkout the mower here! A3000: https://bit.ly/3G0PAxN\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.org/?referred_by=673908\n\n\ud83d\udcf7 MY GEAR \nHARD DRIVES: https://serverpartdeals.com/techhut\nMinisForum Tablet: https://amzn.to/3SeMmds\nBeelink N200: https://amzn.to/3xZjeQs\nRaspberry Pi 5: https://amzn.to/4f3yUCN\nQ1 HE QMK Custom Keyboard: https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboar?ref=techhut\nASUS ProArt Display: https://amzn.to/4i4cAKz\n\n00:00 - Intro\n01:10 - Unboxing and Specs\n02:28 - App and Setup\n04:25 - Mowing\n05:24 -",
+        "id": 2680303,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ftu54aiG5Is",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Ftu54aiG5Is/hqdefault.jpg",
+        "title": "Ecovacs A3000 is a CRAZY Lawn Mowing Robot",
+        "vote": 0
+    }
+]

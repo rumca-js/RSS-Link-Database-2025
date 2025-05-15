@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T17:28:09.832209+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T17:05:55+00:00",
+        "description": "<p>Chainguard Libraries for Python isn&#8217;t just another repository; it\u2019s an index of Python dependencies engineered to be resistant to malware. The secret sauce? Building every single one securely from its original source code within a robust SLSA L2 compliant infrastructure. The promise is straightforward: a newfound confidence that malicious code hasn\u2019t been sneakily injected during<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/chainguard-rebuilds-python-libraries-slam-door-on-malware/\" title=\"ReadChainguard rebuilds Python libraries to slam the door on malware\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/chainguard-rebuilds-python-libraries-slam-door-on-malware/\">Chainguard rebuilds Python libraries to slam the door on malware</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2679314,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/chainguard-rebuilds-python-libraries-slam-door-on-malware",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Chainguard rebuilds Python libraries to slam the door on malware",
+        "vote": 0
+    }
+]

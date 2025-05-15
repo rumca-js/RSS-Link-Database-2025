@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T16:24:26.841652+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T15:39:33+00:00",
+        "description": "NEW COURSES: https://www.bradsartschool.com/brad-colbow-courses\nMy Super Easy Blender Tutorial https://youtu.be/nESaz92SJ0w?si=6qNub2Axjcyc5pBp\n\n00:00 Intro\n00:25 Adobe Fresco\n04:04 Ibis Paint X\n05:46 Krita\n08:01 Apps that didn't make the Cut - GIMP, Medibang, Paint.net, Sketchbook\n10:02 Blender\n11:36 HiPaint\n12:34 LightBrush\n\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradsartschool.com\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 2678662,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=imlsPOof69k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/imlsPOof69k/hqdefault.jpg",
+        "title": "Rating The Best Free Drawing Apps for Beginners",
+        "vote": 0
+    }
+]

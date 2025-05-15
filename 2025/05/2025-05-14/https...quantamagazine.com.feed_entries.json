@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zack Savitsky",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T14:25:10.998344+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T13:57:23+00:00",
+        "description": "From living matter to molecules to elementary particles, the world is made of \u201cchiral\u201d objects that differ from their reflected forms.            <p>The post <a href=\"https://www.quantamagazine.org/how-the-universe-differs-from-its-mirror-image-20250514/\" target=\"_blank\">How the Universe Differs From Its Mirror Image</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2677442,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-the-universe-differs-from-its-mirror-image-20250514",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/05/Chirality-byCelsius-Pictor-Default.webp",
+        "title": "How the Universe Differs From Its Mirror Image",
+        "vote": 0
+    }
+]

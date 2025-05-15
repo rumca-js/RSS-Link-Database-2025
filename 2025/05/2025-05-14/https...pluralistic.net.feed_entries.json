@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T18:50:04.125030+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T18:07:12+00:00",
+        "description": "Today's links Are the means of computation even seizable?: Magic Saran Wrap is a mind-game. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Are the means of computation even seizable? (permalink) Something's very different in tech. Once upon a time, every bad choice by tech companies &#8211; taking away features, locking out mods or plugins, nerfing the API &#8211; was countered, nearly instantaneously, by someone writing a program that overrode that choice. Bad clients would be muscled aside by third-party clients. Locked bootloaders would be hacked and replaced. Code that confirmed you were using OEM parts, consumables or adapters would be found and nuked from orbit. Weak APIs would be replaced with muscular, unofficial APIs built out of uns",
+        "id": 2680064,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/05/14/pregnable",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pluralistic: Are the means of computation even seizable? (14 May 2025)",
+        "vote": 0
+    }
+]

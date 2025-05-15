@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T09:04:03.656434+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T09:04:03+00:00",
+        "description": "Zab\u00f3jstwo na UW to incydent. Uczelnie s\u0105 bezpieczne, ale trzeba wzmocni\u0107 pracuj\u0105cych tam ochroniarzy. I uwra\u017cliwia\u0107 student\u00f3w \u2013 m\u00f3wi w podca\u015bcie \u201eSzko\u0142a na nowo\u201d dr Pawe\u0142 Moczyd\u0142owski, kryminolog, socjolog, by\u0142y szef wi\u0119ziennictwa.",
+        "id": 2674843,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/uczelnie-wyzsze/art42276211-pawel-moczydlowski-trzeba-wzmocnic-systemy-ochrony-uczelni-mord-na-uw-pokazal-luki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pawe\u0142 Moczyd\u0142owski: trzeba wzmocni\u0107 systemy ochrony uczelni. Mord na UW pokaza\u0142 luki",
+        "vote": 0
+    }
+]

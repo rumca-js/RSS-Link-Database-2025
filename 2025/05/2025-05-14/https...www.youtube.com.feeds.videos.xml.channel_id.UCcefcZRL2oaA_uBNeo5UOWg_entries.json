@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T00:56:43.210764+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T00:03:14+00:00",
+        "description": "There are still many unsolved problems in AI and we think the world needs more AI research labs working on them.  Some people think that YC doesn't fund open-ended research, but as the first investors in OpenAI, we are extremely comfortable doing exactly that.\n\nApply to YC Summer 2025 at https://ycombinator.com/apply.",
+        "id": 2672851,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Xzu8BuxMHHw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Xzu8BuxMHHw/hqdefault.jpg",
+        "title": "AI Research Labs",
+        "vote": 0
+    }
+]

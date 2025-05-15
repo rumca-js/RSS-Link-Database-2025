@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T03:17:54.145753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T03:17:53+00:00",
+        "description": "W kwietniu w sklepach by\u0142o dro\u017cej \u015brednio o 5,6 proc., podczas gdy jeszcze przed miesi\u0105cem by\u0142o to 6,7 proc. r./r. Takie wyhamowanie to w du\u017cym stopniu efekt promocji i innych akcji, jakie przed \u015bwi\u0119tami organizowa\u0142y sieci handlowe.",
+        "id": 2673421,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/handel/art42273861-ceny-rosna-najwolniej-w-tym-roku-dzieki-sieciom-handlowym",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ceny rosn\u0105 najwolniej w tym roku. Dzi\u0119ki sieciom handlowym",
+        "vote": 0
+    }
+]

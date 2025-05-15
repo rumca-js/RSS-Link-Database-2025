@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T14:15:26.791238+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T13:01:22+00:00",
+        "description": "Become a lightning-fast developer with Vite, the speed-focussed build tool that makes working with modern frameworks smooth, efficient, and enjoyable.\n\n\u270f\ufe0f Study this course interactively on Scrimba: https://scrimba.com/intro-to-vite-c03p6pbbdq?utm_source=youtube&utm_medium=video&utm_campaign=fcc-intro-to-vite \n\nCode is available on the Scrimba course page for each lesson.\n\n\u26a1\ufe0fWant to build high-performance, modern web apps? Vite is your answer!\nNo matter the size of your project, Vite delivers a lightning-fast development experience with minimal setup and maximum efficiency.\n\n\n\ud83e\udd14What is Vite?\nVite is a build tool that allows you to start up your project instantly and see changes you make immediately.\nWith Vite, there\u2019s no more re-running your code all the time, wasting valuable seconds, which turn into minutes and hours. Instead, you immediately see the changes you make, no matter the size of your code base. The result: You become a faster, more efficient, and happier developer!\n\n\n\ud83d\udca1What",
+        "id": 2677403,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=do62-z3z6FM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/do62-z3z6FM/hqdefault.jpg",
+        "title": "Vite Crash Course \u2013 Frontend Build Tool",
+        "vote": 0
+    }
+]

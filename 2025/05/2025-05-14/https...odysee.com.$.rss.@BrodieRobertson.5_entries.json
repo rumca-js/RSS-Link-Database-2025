@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T23:02:52.332157+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T21:00:31+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Le4iacgPl8w\" width=\"480\" alt=\"thumbnail\" title=\"You Will Never Escape Rust Rewrites On Linux\" /></p>Rust rewrites are kind of a long running joke in the world of Linux but soon you're not going to be able to escape them no matter how hard you try, Ubuntu 25.10 is looking to adopt sudo-rs and the adoption of uutils is still on the table as well<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Oxiding Ubuntu: https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995<br />uutils: https://github.com/uutils/coreutils<br />sudo-rs: https://github.com/trifectatechfoundation/sudo-rs<br />Adopting sudo-rs: https://discourse.ubuntu.com/t/adopting-sudo-rs-by-default-in-ubunt",
+        "id": 2681771,
+        "language": "en",
+        "link": "https://odysee.com/you-will-never-escape-rust-rewrites-on:9a80d8bf5797ac1262ad683a3099ee9c2b6ac2e8",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "You Will Never Escape Rust Rewrites On Linux",
+        "vote": 0
+    }
+]

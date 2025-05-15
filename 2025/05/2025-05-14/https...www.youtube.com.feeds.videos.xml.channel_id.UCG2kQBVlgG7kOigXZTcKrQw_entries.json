@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ko\u0142em Si\u0119 Toczy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-14T17:32:04.576663+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-14T16:58:53+00:00",
+        "description": "Otrzyma\u0142em od widza przer\u00f3bk\u0119 kultowego utworu \"Rower to jest \u015awiat\" pod k\u0105tem nowej ksi\u0105\u017cki \"G\u00f3ry to jest \u015bwiat\". Dorobi\u0142em tylko \"teledysk\" i pyk. Mi\u0142ego s\u0142uchania \ud83e\udd23\ud83e\udd23\ud83e\udd23\nhttps://gorytojestswiat.pl/\n\n#gorytojestswiat",
+        "id": 2679367,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vMGW58bb2R4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 176,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG2kQBVlgG7kOigXZTcKrQw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vMGW58bb2R4/hqdefault.jpg",
+        "title": "OFICJALNY HYMN G\u00d3RO\u0141AZ\u00d3W \ud83c\udfb6\ud83e\udd23 \"G\u00f3ry to jest \u015awiat\" przer\u00f3bka utworu \"Rower to jest Swiat\"",
+        "vote": 0
+    }
+]
