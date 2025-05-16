@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-15T18:24:40.586398+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-15T17:33:53+00:00",
+        "description": "Tom and Dave talk about how AI is pushing software engineers higher up the abstraction ladder\u2014transforming them from code writers into code wranglers. It won't be the end of the job, but the start of a very different one.",
+        "id": 2689227,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=awj6Ez4LAnA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/awj6Ez4LAnA/hqdefault.jpg",
+        "title": "Software engineering as we know it will look much different in 5-10 years.",
+        "vote": 0
+    }
+]

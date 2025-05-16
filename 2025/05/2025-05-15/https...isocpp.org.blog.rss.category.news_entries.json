@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-15T23:43:41.880921+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-15T23:33:55+00:00",
+        "description": "<p>\n\t<img alt=\"2025-05-08_16-35-43.png\" src=\"https://isocpp.org/files/img/2025-05-08_16-35-43.png\" style=\"width: 400px; margin: 10px; float: right;\" />In the December issue of&nbsp;<em>Overload</em>&nbsp;[<a href=\"https://accu.org/journals/overload/33/186/teodorescu/#_idTextAnchor005\">Teodorescu24</a>], we provided a gentle introduction to senders/receivers, arguing that it is easy to write programs with senders/receivers. Then, in the February issue [<a href=\"https://accu.org/journals/overload/33/186/teodorescu/#_idTextAnchor006\">Teodorescu25a</a>], we had an article that walked the reader through some examples showing how senders/receivers can be used to introduce concurrency in an application. Both of these articles focused on the end users of senders/receivers. This article focuses on the implementer&rsquo;s side: what does it take to implement senders?</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/33/186/teodorescu/\">Writing Senders</a></h3>\n\t<p>\n\t\tby Lucia",
+        "id": 2691445,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/05/writing-senders-lucian-radu-teodorescu",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Writing Senders -- Lucian Radu Teodorescu",
+        "vote": 0
+    }
+]

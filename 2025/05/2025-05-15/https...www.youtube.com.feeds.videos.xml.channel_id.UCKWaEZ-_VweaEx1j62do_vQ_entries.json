@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-15T17:26:46.935552+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-15T14:48:07+00:00",
+        "description": "Ready to become a certified Architect on Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://www.ibm.com/training/certification/ibm-certified-architect-cloud-pak-for-data-v47-C9006000\n\nLearn more about Agentic AI here \u2192 [Topic Page on .com]\n\nAgentic AI is transforming technology\u2014but autonomy brings big risks \ud83e\udd16. Phaedra Boinodiris & Matt Bellio explore risks like misinformation, security gaps, and decision-making errors, and share strategies for AI governance and responsible deployment \ud83d\ude80. Learn how to navigate the future of autonomous AI!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://www.ibm.com/account/reg/us-en/signup?formid=news-urx-52120\n\n#agenticai #autonomousai #airisks #technologyinnovation",
+        "id": 2688660,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=v07Y4fmSi6Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v07Y4fmSi6Y/hqdefault.jpg",
+        "title": "Risks of Agentic AI: What You Need to Know About Autonomous AI",
+        "vote": 0
+    }
+]

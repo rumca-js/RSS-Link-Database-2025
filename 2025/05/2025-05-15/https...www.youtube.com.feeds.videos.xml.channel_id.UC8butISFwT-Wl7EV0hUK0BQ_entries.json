@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-15T14:28:58.832495+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-15T13:37:04+00:00",
+        "description": "This is a step by step Spanish language course for complete beginners. This A1 level course follows the book Aula Internacional 1.\n\nCourse created by @masterspanishacademy.\n\n\ud83d\udcda Get a free Spanish short stories eBook\nLeave a positive review on Google and email a screenshot to info@masterspanishacademy.com\nhttps://www.google.com/maps/place/Master+Spanish/@51.5286416,-0.1015987,11z/data=!4m8!3m7!1s0x4876156d708662b9:0x950e7e8e1eaa9398!8m2!3d51.5286416!4d-0.1015987!9m1!1b1!16s%2Fg%2F11jnnm8rcn?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D\n\n\ud83c\udf93 Unlock the full Spanish course, beginner to advanced\nGet lifetime access to all lessons and materials\nhttps://www.masterspanishacademy.com/fromzerotohero\n\n\ud83d\udde3\ufe0f Book a 1:1 Spanish lesson with a native teacher\nChoose structured lessons or conversation practice\nhttps://www.masterspanishacademy.com/private-classes\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n00:00:00 Introduction\n00:16:32 Learn To Introduce Yourself\n00:45:33 Ser, Tener, Llamarse\n01:09:14 How To Use Por, Para & Por",
+        "id": 2687016,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bp9OZoQu3A0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bp9OZoQu3A0/hqdefault.jpg",
+        "title": "Complete Spanish Language Beginners Course \u2013 Learn A1 Level Spanish",
+        "vote": 0
+    }
+]

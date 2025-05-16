@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-15T13:29:06.140175+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-15T13:29:05+00:00",
+        "description": "Bezpiecze\u0144stwo dzieci w polskich metropoliach ogranicza dominacja kultury samochodowej i brak pe\u0142nej kontroli samorz\u0105d\u00f3w nad ograniczeniami pr\u0119dko\u015bci i parkowaniem.",
+        "id": 2686395,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art42289991-bezpieczenstwo-dzieci-na-drogach-polskie-miasta-daleko-w-europejskim-rankingu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bezpiecze\u0144stwo dzieci na drogach. Polskie miasta daleko w europejskim rankingu",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Awkward-Issue-2062",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-15T02:08:15.072768+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-15T01:19:47+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I built a fun little page called /random where the community creates a never-ending chain of links.</p> <p>Here\u2019s how it works: \u2022 You don\u2019t need an account or anything \u2014 just visit the page. \u2022 Before you get taken to a random last user\u2019s link, you have to submit a new link that the next person will be redirected to. \u2022 It\u2019s a wild, community-driven game of link roulette that\u2019s equal parts chaotic and addictive.</p> <p>It starts with a default link (TikTok), but every link you add sends the next user somewhere new and unexpected.</p> <p>Try it out and add your own link to keep the chaos going Let\u2019s see how wild this chain can get!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Awkward-Issue-2062\"> /u/Awkward-Issue-2062 </a> <br/> <span><a href=\"https://shortenr.me/random\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1kmvzm7/try_random_a_neverending_chain_of/\"",
+        "id": 2682660,
+        "language": null,
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1kmvzm7/try_random_a_neverending_chain_of",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Try /random \u2014 a never-ending chain of community-submitted links, no signup needed",
+        "vote": 0
+    }
+]

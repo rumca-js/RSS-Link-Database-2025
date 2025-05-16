@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-15T23:07:26.502973+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-15T22:42:27+00:00",
+        "description": "Big thanks to Falcon Northwest for sponsoring this video and this amazing PC giveaway: https://gleam.io/88Dkj/win-the-doom-the-dark-ages-talon #rRTXON\n\nDOOM: The Dark Ages (PC, PS5, Xbox Series X/S) is a great return to form, with a few missteps and a lot of fun surprises. Let's talk about it.",
+        "id": 2691306,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BpFAfqeGI_A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BpFAfqeGI_A/hqdefault.jpg",
+        "title": "DOOM still rules",
+        "vote": 0
+    }
+]

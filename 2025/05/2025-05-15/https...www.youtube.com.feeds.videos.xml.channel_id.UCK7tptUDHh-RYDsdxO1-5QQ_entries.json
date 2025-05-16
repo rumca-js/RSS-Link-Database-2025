@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-15T16:27:18.226656+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-15T15:19:50+00:00",
+        "description": "Los Angeles had one of the best mass transit systems in the U.S. about 100 years ago. But today, driving in L.A. traffic can still be faster than taking the train. The city\u2019s mono-centric design ends most of the rail lines in downtown L.A., similar to New York City\u2019s subway system that has most MTA and commuter lines connecting or ending in Manhattan. But L.A.\u2019s population is too spread out for this kind of design. \n\nWSJ spoke with the former chief innovation officer at L.A. Metro to find out how he would fix the city\u2019s transit system. \n\nChapters:\n0:00 L.A.\u2019s transit system\n0:46 The problems with the design\n2:03 The solution\n3:39 Local connections\n4:45 The problem building rail today\n6:06 What\u2019s next?\n\nPro Perfected\nExperts in engineering and design break down a ubiquitous problem, examining how the world is built and what can make it better.\n\n#LA #Traffic #WSJ",
+        "id": 2688141,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Zcm5nsc1XvU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Zcm5nsc1XvU/hqdefault.jpg",
+        "title": "Why L.A.\u2019s Metro Will Never Be Like NYC\u2019s Subway | WSJ Pro Perfected",
+        "vote": 0
+    }
+]
