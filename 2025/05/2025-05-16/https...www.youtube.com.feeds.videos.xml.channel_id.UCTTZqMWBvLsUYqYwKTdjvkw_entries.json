@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T16:17:06.011513+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T16:01:47+00:00",
+        "description": "\ud83d\uddf3\ufe0f\u00a0Na temat wybor\u00f3w prezydenckich pojawia si\u0119 w mediach coraz wi\u0119cej materia\u0142\u00f3w. Niestety cz\u0119sto przekazuj\u0105cych p\u00f3\u0142prawdy, czy wr\u0119cz k\u0142amstwa, a w najlepszym wypadku po prostu b\u0119d\u0105cych zwyk\u0142ym clickbaitem pr\u00f3buj\u0105cym gra\u0107\u00a0na naszych emocjach. Przede wszystkim strasz\u0105c. Czym?\n \n\u0179r\u00f3d\u0142a:\n\ud83e\udeaa\u00a0mObywatel i fa\u0142szowanie wybor\u00f3w prezydenckich przez masowe oddawanie g\u0142os\u00f3w\nhttps://niebezpiecznik.pl/post/mobywatel-i-falszowanie-wyborow-prezydenckich-przez-masowe-oddawanie-glosow/\n\n\ud83d\udcf8\u00a0Jak potwierdza\u0107 dokumenty w mObywatelu 2.0?\nhttps://info.mobywatel.gov.pl/assets/download/Jak potwierdza\u0107 dokumenty w mObywatelu 2.0.pdf\n\n\ud83d\udc26\u00a0twitter @ InfZakladowy\nhttps://x.com/InfZakladowy/status/1922369748718764345\n\n\u2757\ufe0fKomunikat w sprawie nieprawdziwych informacji dotycz\u0105cych wybor\u00f3w Prezydenta Rzeczypospolitej Polskiej rozpowszechnianych w przestrzeni publicznej\nhttps://wybory.gov.pl/prezydent2025/pl/pkw_aktualnosci/69686\n\n\u2757\ufe0fKomunikat Pe\u0142nomocnika Rz\u0105du do spraw Cyberbezpiecze\u0144stwa ws. wycieku danych w wyniku cyberata",
+        "id": 2697015,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5ezuPxCP1IE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5ezuPxCP1IE/hqdefault.jpg",
+        "title": "Manipulowanie wyborami nie jest wcale takie proste",
+        "vote": 0
+    }
+]

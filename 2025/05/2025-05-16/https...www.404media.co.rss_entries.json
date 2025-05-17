@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samantha Cole",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T16:21:35.516250+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T16:19:33+00:00",
+        "description": "This week, we discuss Star Wars' weird little guys, catharticles, and spectacular views.",
+        "id": 2697108,
+        "language": null,
+        "link": "https://www.404media.co/behind-the-blog-the-art-of-the-catharticle",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/05/nl516-1.png",
+        "title": "Behind the Blog: The Art of the 'Catharticle'",
+        "vote": 0
+    }
+]

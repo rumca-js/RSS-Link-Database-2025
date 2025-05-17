@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T14:11:53.852751+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T14:03:10+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Using GPS for the most accurate time possible on a Mac</span>\n\n            <p></p>\n\n<p>I'm deep in the rabbit hole of all things time and timing. One step on any modern horologist's journey is GPS time.</p>\n\n<p>NIST just <a href=\"https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time\">put NIST-F4 online</a>, accurate to within 2.2e-16 ppm (that's <code>0.00000000000000022</code> seconds. The clock is <a href=\"https://iopscience.iop.org/article/10.1088/1681-7575/adc7bd\">described in Metrologia</a> thusly:</p>\n\n<blockquote>\n  <p>The fountain uses optical molasses to laser cool a cloud of cesium atoms and launch it vertically in a fountain geometry.</p></blockquote>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<span class=\"field field--name-created field--type-created field--label-h",
+        "id": 2695800,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/using-gps-most-accurate-time-possible-on-mac",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Using GPS for the most accurate time possible on a Mac",
+        "vote": 0
+    }
+]

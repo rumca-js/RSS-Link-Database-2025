@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T15:17:21.398059+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T14:00:54+00:00",
+        "description": "In this video, we unbox and test out the all-new ZIMA Board 2 X86 SBC! Small form factor with a PCIe slot allows you to connect a real graphics card for GPU-accelerated AI like LLMs, image, and video generation! We had to test some gaming on this single-board computer; it supports Windows and Linux operating systems, so the choice is yours. Create a home lab, media server, NAS, AI machine. The possibilities are endless with the ZIMA Board 2. #zimaboard2 #SBC #linux #windows #etaprime \n\nLear more Here: https://www.zimaspace.com/products/single-board2-server\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% coupon code for software\uff1aETA\nWindows 10 Pro OEM Key($17): https://biitt.ly/KpEmf\nWindows 11 Pro Key($23):https://biitt.ly/RUZiX\nWindows10 Home Key($16):https://biitt.ly/2tPi1\nOffice 2019 pro key($51):https://biitt.ly/o0OQT\n2016 pro key($28): https://biitt.ly/xWmvn\nBuy Windows 11 CDkeys at https://www.vi",
+        "id": 2696487,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=c-_172ye2hE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c-_172ye2hE/hqdefault.jpg",
+        "title": "Zima Board 2 Hands-On: The Future of X86 SBC's with GPU Support!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T15:27:28.439969+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T12:54:41+00:00",
+        "description": "We sponsored ourselves! Support our ability to independently buy parts for review and get a B-STOCK GN Modmat! https://store.gamersnexus.net/products/modmat-volt-bstock-large or grab one of our high-quality GN15 mats here: https://store.gamersnexus.net/products/large-modmat-gn15-anniversary\nIn this review of the Corsair / Origin Genesis Pre-Built Gaming PC with an RTX 5090, we're tearing down the computer, running a cost comparison, benchmarking thermals, acoustics, power, and frequency, and looking at the overall build quality. Unfortunately for Origin and Corsair (which owns Origin), this build is another that fails in our testing. The GPU hits 100 degrees Celsius for the memory not because of the FE design, but because Origin decided to have fans follow liquid and pump temperatures and not spin them for several minutes of load. There are numerous other issues as well, such as discoloration of the tubing that has contacted the coolant.\n\nThe * asterisk is because the price changes re",
+        "id": 2696676,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mW5WQY7Ym0I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mW5WQY7Ym0I/hqdefault.jpg",
+        "title": "$8000* Disaster Prebuilt PC - Corsair & Origin Fail Again",
+        "vote": 0
+    }
+]

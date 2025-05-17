@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T18:37:20.187368+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T18:19:05+00:00",
+        "description": "Air traffic controllers for Newark Liberty International Airport recently experienced several frightening incidents. Their radars and radios have gone dark, potentially risking the lives of hundreds of passengers.\u2060\n\u2060\nUnited Airlines CEO Scott Kirby said that workers taking trauma leave had made the staffing situation at Newark worse. He described controllers as having \"walked off the job.\"\u2060\n\u2060\nIn an exclusive interview with WSJ, one veteran air-traffic controller opens up about his own close call and the reasons for stress-related trauma leave.\u2060\n\n#ATC #Aviation #Shorts",
+        "id": 2698247,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fk46qNvHNak",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fk46qNvHNak/hqdefault.jpg",
+        "title": "Air-Traffic Controller Opens Up About Trauma on the Job",
+        "vote": 0
+    }
+]

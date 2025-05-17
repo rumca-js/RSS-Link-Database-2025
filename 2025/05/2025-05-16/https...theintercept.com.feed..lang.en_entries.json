@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Intercept Briefing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T10:21:08.075408+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T10:00:00+00:00",
+        "description": "<p>Attorneys Mark Lemley and Shawn Musgrave discuss the legal challenges of taking on the Trump administration\u2019s executive overreach.</p>\n<p>The post <a href=\"https://theintercept.com/2025/05/16/briefing-podcast-doge-trump-lawsuits-courts/\">The Last Line of Defense: The Courts vs. Trump</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2694212,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/05/16/briefing-podcast-doge-trump-lawsuits-courts",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/05/GettyImages-2213049139-e1747087447458.jpg",
+        "title": "The Last Line of Defense: The Courts vs. Trump",
+        "vote": 0
+    }
+]

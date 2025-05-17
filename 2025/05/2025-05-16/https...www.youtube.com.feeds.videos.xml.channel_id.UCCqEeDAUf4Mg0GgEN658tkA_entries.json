@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T14:05:27.572661+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T13:30:38+00:00",
+        "description": "Thanks to Displate for sponsoring this video. Use my code STUCKMANN to get 33% OFF 1-2 Displates, 37% off 3 Displates, or 42% OFF 4+, or click on my link https://displate.com/@stuckmann to get the discount automatically applied at checkout.\n\nChris Stuckmann reviews Final Destination: Bloodlines, starring Brec Bassinger, Kaitlyn Santa Juana, Anna Lore, Max Lloyd-Jones, Teo Briones, Tony Todd. Directed by Zach Lipovsky, Adam B. Stein.",
+        "id": 2695650,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hj0Qo4eanDY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hj0Qo4eanDY/hqdefault.jpg",
+        "title": "Final Destination: Bloodlines - Movie Review",
+        "vote": 0
+    }
+]

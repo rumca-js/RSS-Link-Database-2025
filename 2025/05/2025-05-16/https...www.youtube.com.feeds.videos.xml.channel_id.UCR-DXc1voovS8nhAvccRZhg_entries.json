@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T14:22:29.348714+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T14:00:30+00:00",
+        "description": "Horology is hard. It's even harder on a Mac. Yes, even the $7000 Mac Pro.\n\nResources mentioned and products referenced in this video (some links are affiliate links):\n\n  - Blog post with all the gory details: https://www.jeffgeerling.com/blog/2025/using-gps-most-accurate-time-possible-on-mac\n  - The USB GPS module I was using: https://amzn.to/4j08we1\n  - Decent little GPS antenna with U.FL adapter: https://amzn.to/43dxctt\n  - NIST-F4 Clock video: https://www.youtube.com/watch?v=CYpBaUgxGl4\n  - ChronyControl: https://www.whatroute.net/chronycontrol.html\n  - GPSDConfig: https://www.whatroute.net/gpsdconfig.html\n  - Precision Clock by mitxela: https://www.youtube.com/watch?v=SNqm5T5syTM\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - Horology is hard on a",
+        "id": 2696079,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AtmQGMwF_M8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AtmQGMwF_M8/hqdefault.jpg",
+        "title": "It's hard to have a good time on a Mac",
+        "vote": 0
+    }
+]

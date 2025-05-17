@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T16:35:59.466568+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T15:16:12+00:00",
+        "description": "Support the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nBandcamp: http://bit.ly/2Kq617o\nSpotify: https://spoti.fi/2N40SoX\nYouTube Music: https://bit.ly/3PZQ4ol\niTunes: https://apple.co/2pqh3SK\nAmazon Music: https://amzn.to/2O9q1fe\n\nConnect:\nBluesky: https://bit.ly/3ZGYhom\nWebsite: http://bit.ly/rmrmedia",
+        "id": 2697341,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dmreojCcKrg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dmreojCcKrg/hqdefault.jpg",
+        "title": "Planning a Hybrid Elektron / Ableton Live Set",
+        "vote": 0
+    }
+]

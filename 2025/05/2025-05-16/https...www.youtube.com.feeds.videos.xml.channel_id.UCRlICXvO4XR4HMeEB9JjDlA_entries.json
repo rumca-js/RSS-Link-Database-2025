@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T20:41:51.780147+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T20:00:38+00:00",
+        "description": "When we talk about the first human flight, most of us think of the Wright brothers. But humans have been hurling themselves off towers with wings strapped to their arms long before 1903. Abbas ibn Firnas tried it in 875 AD, wrapped in vulture feathers, and managed to sort-of fly before crash-landing. He survived, which already makes him more successful than Icarus.\n\nFast forward to 1783 and the Montgolfier brothers sent a sheep, duck, and rooster into the Parisian skies in a hot air balloon to see if the air was safe. It was. So next up, humans.\n\nSoon we had airships, dirigibles, and eventually heavier-than-air flight, which is fancy talk for planes that don't just float like balloons. The big breakthrough came with George Cayley, who figured out the physics of flight but didn\u2019t have a light enough engine. Then the Wright brothers came along, built a flying lawn chair with an engine, and took off in 1903.\n\nAfter that, flight took off\u2014literally. Within decades we were dogfighting in WW",
+        "id": 2699033,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=n2I2LQOhHuc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n2I2LQOhHuc/hqdefault.jpg",
+        "title": "Before Planes: Tower Jumps and Humanity\u2019s First Flights",
+        "vote": 0
+    }
+]

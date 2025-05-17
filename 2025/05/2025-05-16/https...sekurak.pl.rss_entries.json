@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T12:24:24.947538+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T12:13:50+00:00",
+        "description": "<p>Nowe luki w procesorach Intel umo\u017cliwiaj\u0105ce wycieki pami\u0119ci i ataki Spectre v2 zosta\u0142y ujawnione przez badaczy z ETH Z\u00fcrich i Vrije Universiteit Amsterdam. Odkrycia te pokazuj\u0105, \u017ce pomimo siedmiu lat od ujawnienia podatno\u015bci Spectre i Meltdown, problemy zwi\u0105zane ze spekulacyjnym wykonaniem instrukcji wci\u0105\u017c stanowi\u0105 powa\u017cne zagro\u017cenie. Badacze zidentyfikowali trzy kluczowe...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/nowe-luki-w-procesorach-intel-powrot-do-problemow-spectre-i-meltdown-w-nowej-odslonie/\">Nowe luki w procesorach Intel: powr\u00f3t do problem\u00f3w Spectre i Meltdown w nowej ods\u0142onie</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2695049,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/nowe-luki-w-procesorach-intel-powrot-do-problemow-spectre-i-meltdown-w-nowej-odslonie",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowe luki w procesorach Intel: powr\u00f3t do problem\u00f3w Spectre i Meltdown w nowej ods\u0142onie",
+        "vote": 0
+    }
+]

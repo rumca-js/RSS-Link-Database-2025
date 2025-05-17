@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T15:11:37.368753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T14:00:24+00:00",
+        "description": "There's never been a better time to start an AI company. Not just because there are new ideas, but because the tech finally makes old ones actually work.\n\nOn the Lightcone, Garry, Harj, Diana and Jared talk through the kinds of startups that are suddenly viable thanks to LLMs\u2014from full-stack law firms to personalized tutors to recruiting platforms that can finally scale. They share the patterns they're seeing, the ideas they're excited about, and what it means to live at the edge of the future, where breakthroughs often look like second chances.\n\nIf you've been waiting for the right moment to build, this is it.\n\n0:00 Intro\n00:41 What startup ideas could not work before AI? \n06:06 Technical screening products\n07:35 Truly personalized education tools\n09:48 Do better products automatically get better distribution? \n14:41 Moats\n16:08 The need for platform neutrality\n17:40 Big Tech and AI \n23:24 AI horseless carriages\n25:14 Gross margins \n30:03 Full stack companies\n32:30 ML ops \n37:14 Upda",
+        "id": 2696404,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=K4s6Cgicw_A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K4s6Cgicw_A/hqdefault.jpg",
+        "title": "Startups You Can Now Build With AI",
+        "vote": 0
+    }
+]

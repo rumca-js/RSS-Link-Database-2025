@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T14:15:35.532158+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T14:01:16+00:00",
+        "description": "Audible is officially giving publishers access to its powerful AI narration tools, marking a major shift in the audiobook industry. In this video, I break down what this move means for authors, narrators, indie publishers, and listeners. Will this democratize audiobook creation, or threaten human narration jobs? How good is Audible\u2019s AI tech really? Let\u2019s dig into the potential impacts\u2014both promising and concerning.\n\n\ud83c\udfa7 Source: https://www.theverge.com/news/666136/amazon-audible-ai-narration-audiobooks-translation \n\ud83d\udcda Support the channel & get bonus content: https://www.patreon.com/DanielBGreene\n\ud83d\udc55 Merch, signed books, & more: https://www.danielbgreene.com\n\ud83d\udcd6 My novels: https://tinyurl.com/BoPTLT & https://tinyurl.com/RCTLTDG",
+        "id": 2695912,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mwhUs7a6I0k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mwhUs7a6I0k/hqdefault.jpg",
+        "title": "Audible Just Gave AI to Publishers \u2013 Is Human Narration Dead?",
+        "vote": 0
+    }
+]

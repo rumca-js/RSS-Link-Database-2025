@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T14:59:49.279216+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T13:47:55+00:00",
+        "description": "Sunday's first-round is expected to set up a run-off between Warsaw's liberal mayor and a conservative historian.",
+        "id": 2696286,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cn8zxn9xg2ro",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3fc/live/47cd6690-323e-11f0-99e4-1f881fd90e09.jpg",
+        "title": "Polish voters set for tight presidential race after 10 years of Duda",
+        "vote": 0
+    }
+]

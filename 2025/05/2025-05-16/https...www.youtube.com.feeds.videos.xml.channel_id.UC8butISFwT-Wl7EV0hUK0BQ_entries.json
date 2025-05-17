@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T11:30:02.322140+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T11:01:50+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews software engineer and live coding streamer Code;Life.\n\nFor those of you watching the video version of this interview, she lives in Iraq and she uses a 3D avatar to protect her identity.\n\nWe talk about:\nTraining language models to work well with low-resource languages from Africa and the Middle East\nGrowing up in Iraq and her early experiences with computers and the internet\nHow streaming yourself coding can be a good way to practice your skills, update your knowledge, and motivate fellow devs\nHow to participate in coding competitions and hackathons even if you feel intimidated\n\nSupport for freeCodeCamp comes from the 11,384 kind folks who support our charity through a monthly donation. You can join these chill human beings and aid us in our mission by going to donate.freecodecamp.org\n\nSupport for also comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites wi",
+        "id": 2694783,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yx1ri8X37S4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yx1ri8X37S4/hqdefault.jpg",
+        "title": "Making Developer Friends Anywhere, with Iraqi Engineer Code;Life [Podcast #172]",
+        "vote": 0
+    }
+]

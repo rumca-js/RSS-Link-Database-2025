@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T17:26:44.322750+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T16:50:56+00:00",
+        "description": "Michael Lieberman, CTO and Co-Founder of Kusari, breaks down the European Union's Cyber Resilience Act (CRA) and explains its impact on open source maintainers, stewards, and manufacturers. In this insightful interview, discover:\n\nWhy open source maintainers are \"off the hook\" for CRA compliance\nHow commercial product manufacturers bear primary responsibility\nWhat practical tools like OpenSSF Security Baseline can help with compliance\nWhich types of digital products fall under CRA jurisdiction (and which don't)\nHow the CRA might positively reshape security practices in open source\nLieberman clarifies: \"The obligation will be on ACME Corp to do the right things\u2014adding patches themselves if necessary, and working with me.\" He highlights how organizations like the Linux Foundation serve as \"open source stewards\" to help foster community-driven security solutions.\nWant to improve your project's security posture? Lieberman recommends tools like OpenSSF Scorecard that \"can help  apply basel",
+        "id": 2697579,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6in8reiDPPg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6in8reiDPPg/hqdefault.jpg",
+        "title": "Should Open Source Developers Worry About EU Cyber Resilience Act?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-16T17:44:02.125057+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T17:00:10+00:00",
+        "description": "JRE #2323 w/Guy Fieri\nYouTube: https://youtu.be/NzBNVGNY_FA\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 2697853,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=82u_gIWAYP4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/82u_gIWAYP4/hqdefault.jpg",
+        "title": "How Guy Fieri Started Hosting Diners, Drive-Ins, and Dives",
+        "vote": 0
+    }
+]
