@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T00:50:05.018757+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T00:12:46+00:00",
+        "description": "<p>Scheduled to drop Monday, but you can click-through to <a href=\"https://apps.apple.com/us/app/puzzmo-solve-smile-share/id6714482734\">pre-download it now</a>. If you\u2019re not familiar, Puzzmo is sort of a collection of \u201c<a href=\"https://www.theverge.com/23929222/puzzmo-newspaper-games-crossword-zach-gage\">newspaper puzzle games for the online age</a>\u201d. (Which is also a good description for <a href=\"https://daringfireball.net/linked/2025/03/30/lex-games\">recent DF sponsor</a> <a href=\"https://lex.games/df\">Lex.Games</a>.) One of Puzzmo\u2019s cofounders is <a href=\"http://stfj.net/\">Zach Gage</a>, whose hits include <a href=\"http://www.reallybadchess.com/\">Really Bad Chess</a> and <a href=\"https://playknotwords.com/\">Knotwords</a>, and who was <a href=\"https://daringfireball.net/thetalkshow/2022/05/09/ep-346\">my guest on The Talk Show back in 2022</a>.</p>\n\n<p>Anyway, if casual puzzle games are your jam, you should check out Puzzmo. My suggestion is check them out now, see how you like it a",
+        "id": 2700361,
+        "language": null,
+        "link": "https://www.theverge.com/games/668478/puzzmo-is-finally-getting-an-app",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Puzzmo Is Getting a Native iOS App Monday",
+        "vote": 0
+    }
+]

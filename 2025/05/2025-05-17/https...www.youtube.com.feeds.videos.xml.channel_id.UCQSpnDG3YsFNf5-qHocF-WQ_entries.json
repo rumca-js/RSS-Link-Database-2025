@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T17:25:22.316708+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T17:02:23+00:00",
+        "description": "Sponsored: Get your personal information removed from the web and search results by visiting \u21e8 https://joindeleteme.com/ThioJoe and use code THIOJOE for 20% off\n\nWhen you get a new computer, it usually takes a while to get it set up just the way you want. In this video I talk about stuff that is easy to miss, or you weren't aware of. I go over some specific and general settings that apply regardless of the operating system, as well as several Windows-specific settings. These also include both security settings and user preferences, and finally I talk about some more general tips and stuff to do beyond just changing settings.\n\nMentioned Links:\n\u2022 Microsoft article to enable long file paths: https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=powershell#registry-setting-to-enable-long-paths\n\u2022 WinUtil: https://github.com/ChrisTitusTech/winutil\n\u2022 O&O ShutUp10: https://www.oo-software.com/en/shutup10\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:16 - ~~ Settings For ",
+        "id": 2704384,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fXE0AiI7LaA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fXE0AiI7LaA/hqdefault.jpg",
+        "title": "What You MUST Do When You Get a New PC (Or Right Now)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/tnavda",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T12:10:27.560408+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T11:51:15+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tnavda\"> /u/tnavda </a> <br/> <span><a href=\"https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1kor4m2/oracle_vm_virtualbox_vm_escape_via_vga_device/\">[comments]</a></span>",
+        "id": 2702775,
+        "language": null,
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1kor4m2/oracle_vm_virtualbox_vm_escape_via_vga_device",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Oracle VM VirtualBox - VM escape via VGA device",
+        "vote": 0
+    }
+]

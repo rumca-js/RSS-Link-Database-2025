@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tripp Mickle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T09:24:52.450398+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T09:01:00+00:00",
+        "description": "The Trump administration and congressional officials have raised concerns about a deal to put a Chinese company\u2019s artificial intelligence on iPhones.",
+        "id": 2701983,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/05/17/technology/apple-alibaba-ai-tool-china.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/05/17/multimedia/17biz-apple-alibaba-2-tmvk/17biz-apple-alibaba-2-tmvk-mediumSquareAt3X.jpg",
+        "title": "Apple\u2019s Alibaba A.I. Deal Provokes Washington\u2019s Resistance",
+        "vote": 0
+    }
+]

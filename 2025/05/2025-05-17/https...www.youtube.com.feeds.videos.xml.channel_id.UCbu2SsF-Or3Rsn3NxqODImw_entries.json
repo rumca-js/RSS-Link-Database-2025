@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T15:19:30.201867+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T15:01:22+00:00",
+        "description": "We did not expect Crimson Desert's combat to be this in-depth, and now this game is on our radar.\n\n0:00 - 45 Minutes of Hands-On Time With Crimson Desert\n2:55 - Tons Of Combos In Crimson Desert\n\n#gaming #crimsondesert",
+        "id": 2703752,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mujacaDan6M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mujacaDan6M/hqdefault.jpg",
+        "title": "Crimson Desert Is For Fighting Game Sickos Like Me",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T21:57:16.899433+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T21:00:50+00:00",
+        "description": "The other day I put out a video on sudo-rs and I saw a few people complaining about moving from sudo to sudo-rs is a move from GPL to MIT software, but the reality of the situation is that sudo never used a GPL style license.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nISC License: https://opensource.org/license/isc-license-txt\nMIT License: https://opensource.org/license/mit\nSudo License: https://www.sudo.ws/about/license/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f ",
+        "id": 2705719,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=rwwL1ZQvMIU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rwwL1ZQvMIU/hqdefault.jpg",
+        "title": "Setting The Record Straight On Linux Sudo",
+        "vote": 0
+    }
+]

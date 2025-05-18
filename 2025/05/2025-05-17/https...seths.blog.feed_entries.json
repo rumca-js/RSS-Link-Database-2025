@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T09:42:36.194432+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T09:03:00+00:00",
+        "description": "There&#8217;s a difference between &#8216;rich&#8217; and &#8216;richer&#8217;. And &#8216;fit&#8217; and &#8216;fitter&#8217;. The problem with a pre-amp that goes all the way to 11 isn&#8217;t that it&#8217;s louder. The problem is that very soon, the person who bought one of these will want one that goes to 12. Living in the liminal space is unstable. When [&#8230;]",
+        "id": 2702052,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/getting-to-next",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Getting to next",
+        "vote": 0
+    }
+]

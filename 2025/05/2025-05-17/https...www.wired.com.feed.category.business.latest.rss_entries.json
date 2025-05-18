@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lauren Goode, Michael Calore, Katie Drummond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T11:54:44.510003+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T11:00:00+00:00",
+        "description": "Elon Musk is apparently turning his attention away from Washington and back to Tesla. On this episode of Uncanny Valley, the hosts unpack what Musk\u2019s pivot means for the future of DOGE.",
+        "id": 2702632,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-elon-musk-stepping-back-from-doge",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/682279f7e190eec66cfdf775/master/pass/Uncanny-Valley-Elon-DOGE-Politics.jpg",
+        "title": "Is Elon Musk Really Stepping Back from DOGE?",
+        "vote": 0
+    }
+]

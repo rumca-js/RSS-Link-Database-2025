@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-17T14:12:04.499036+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-17T13:01:38+00:00",
+        "description": "Newark Liberty International Airport has faced two weeks of technology and air-traffic control staffing issues that have plagued the New Jersey transit hub. After multiple radar and radio outages, air-traffic controllers are taking trauma leave, further fueling flight disruptions in the area. \n\nIn an exclusive interview with WSJ, one ATC supervisor based out of Philadelphia details the ongoing problems at the airport. \n\nChapters:\n0:00 Newark-area disruptions\n0:37 Controllers taking trauma leave\n1:46 Recounting close call for collision\n3:25 Why Jonathan Stewart came forward\n4:10 Controller pay and sacrifices\n4:45 How to improve controller jobs\n5:34 Why Stewart enjoys the job\n6:37 FAA on Newark issues\n\n#Newark #Flights #WSJ",
+        "id": 2703388,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vqpIkqs0O-0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vqpIkqs0O-0/hqdefault.jpg",
+        "title": "'You Play God:\u2019 Air-Traffic Controller on Why He Took Trauma Leave | WSJ",
+        "vote": 0
+    }
+]
