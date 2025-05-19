@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T12:04:46.220608+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T12:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Alongside the latest security fixes, Microsoft just added a number of new features to Windows 11 via the <a href=\"https://support.microsoft.com/en-us/topic/may-13-2025-kb5058411-os-build-26100-4061-356568c2-c730-469e-819d-b680d43b1265\">KB5058411 update</a>.</p>\n\n\n\n<p>The new <a href=\"https://www.pcworld.com/article/2739587/windows-recall-is-too-risky-for-your-copilot-pc-turn-it-off-now.html\">Copilot+ AI feature known as Windows Recall</a> and the ability to <a href=\"https://www.pcworld.com/article/2774531/windows-11-new-start-menu-adds-a-nifty-phone-companion-panel.html\">use Phone Link in the Start menu</a> have been mentioned in previous articles, so we don\u2019t need to mention them again.</p>\n\n\n\n<p>One of the best improvements in the update is that Windows Search now supports AI, which means\u2014among other things\u2014that you can now use <a href=\"https://www.pcworl",
+        "id": 2708432,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2781816/windows-11s-may-update-brings-a-smorgasbord-of-new-features.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Windows 11\u2019s May update brings a smorgasbord of new features",
+        "vote": 0
+    }
+]

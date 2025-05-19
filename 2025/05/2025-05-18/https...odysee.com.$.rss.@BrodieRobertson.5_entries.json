@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T22:44:57.927265+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T21:00:57+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/u3hBpYQFvhs\" width=\"480\" alt=\"thumbnail\" title=\"Linux Mint Just Forked Libadwaita\" /></p>A while back I discussed Linux Mint moving away from libadwaita apps back to older GTK3 apps and possibly forking GTK3 into a whole new direction.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Linux Mint News: https://blog.linuxmint.com/?p=4840<br />Linux XApps: https://linuxmint-developer-guide.readthedocs.io/en/latest/xapps.html<br />Stop Theming Our Apps: https://stopthemingmy.app/<br />libadapta: https://github.com/xapp-project/libadapta<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming",
+        "id": 2711831,
+        "language": "en",
+        "link": "https://odysee.com/linux-mint-just-forked-libadwaita:3e9720cd5d3aa12871dd79e745ca3cbeed9862af",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Linux Mint Just Forked Libadwaita",
+        "vote": 0
+    }
+]

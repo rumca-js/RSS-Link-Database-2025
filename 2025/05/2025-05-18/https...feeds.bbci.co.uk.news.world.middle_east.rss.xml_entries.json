@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T09:50:34.736689+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T09:04:31+00:00",
+        "description": "The BBC's Analysis Editor Ros Atkins examines President Trump's trip to the Gulf.",
+        "id": 2707803,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/clyzn0zwy32o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70e7/live/e99f65f0-329c-11f0-8519-3b5a01ebe413.jpg",
+        "title": "Ros Atkins on... Trump's deals in the Gulf",
+        "vote": 0
+    }
+]

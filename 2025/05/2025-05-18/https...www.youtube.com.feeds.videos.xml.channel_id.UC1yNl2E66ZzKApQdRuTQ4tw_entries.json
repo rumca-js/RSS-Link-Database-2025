@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T16:09:57.485917+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T15:00:05+00:00",
+        "description": "Check out my quantum physics course on Brilliant! First 30 days are free and 20% off the annual premium subscription when you use our link \u279c  https://brilliant.org/sabine. \n\nGerard \u2018t Hooft won the Nobel Prize in 1999, and the recent Breakthrough Prize, for his work on the Standard Model of Particle physics. He also thinks that quantum mechanics is nonsense. Indeed, he has an alternative theory for quantum mechanics that he says is how the world really works. This theory has been almost entirely ignored by physicists. Which is unfortunate, because he predicts a limit for what quantum computers can do.\n\nToday I want to tell you about \u2018t Hooft\u2019s ideas about quantum physics, to the extent that I understand them.\n\nThis video comes with a quiz which you can take here: https://quizwithit.com/start_thequiz/1747385725057x663057937383817200\n\nForgot to mention it, but the book is open access here: https://link.springer.com/book/10.1007/978-3-319-41285-6\n\n00:00 Intro\n01:07 Quantum Mechanics Back",
+        "id": 2709664,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=2kxoq5UzAEQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2kxoq5UzAEQ/hqdefault.jpg",
+        "title": "Why This  Nobel Prize Winner Thinks Quantum Mechanics is Nonsense",
+        "vote": 0
+    }
+]

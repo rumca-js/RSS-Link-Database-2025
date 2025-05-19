@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Pullan and Sarah Jane McKechnie",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T12:40:03.428057+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T12:00:55+00:00",
+        "description": "David Pullan and Sarah Jane McKechnie, co-authors of 'The DNA of Engagement,' dissect the underrated leadership of Mark Carney\u2014whose track record across finance, diplomacy and public service shows how technical mastery, strategic stillness and calibrated communication can outperform bravado. As consultants to global organizations, they draw out actionable lessons for CEOs confronting today\u2019s high-stakes volatility.",
+        "id": 2708557,
+        "language": "en",
+        "link": "https://observer.com/2025/05/what-ceos-can-learn-from-mark-carneys-leadership-style",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What CEOs Can Learn from the Boring Power of Mark Carney",
+        "vote": 0
+    }
+]

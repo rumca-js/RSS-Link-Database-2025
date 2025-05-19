@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andreas Spiess",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T07:10:30.930307+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T07:00:19+00:00",
+        "description": "Did you ever wish your projects had access to precise time \u2014 without relying on the internet?\nIn video #503, we built a solid GPS-based time server using a Raspberry Pi. It worked, but let\u2019s be honest \u2014 it was bulky.\nNow imagine: The same functionality, but packed into a tiny ESP32 Super Mini board.\nToday, we\u2019ll build a precision NTP server that easily fits in your palm \u2014 and along the way, we\u2019ll uncover why some \u201chigh quality\u201d GPS modules on AliExpress are suspiciously cheap. Intrigued? Let\u2019s dive in.\n\nMy second channel: https://www.youtube.com/HB9BLAWireless\n\nLinks:\nESP32-C3 OLED: https://s.click.aliexpress.com/e/_oogjJl1\nWT32-ETH01 with Ethernet: https://s.click.aliexpress.com/e/_onMEVoX\nSmall GPS module: https://s.click.aliexpress.com/e/_oDC7GUL\n\"u-blox\" modules: https://s.click.aliexpress.com/e/_okxP85l\nGPS \"mouse\" with Serial connection: https://s.click.aliexpress.com/e/_oppxUlN\nGPS active antenna: https://s.click.aliexpress.com/e/_on99Hdt\nCeramic GPS Antennas: https://s.click.a",
+        "id": 2707206,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BGb2t5FT-zw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 17,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BGb2t5FT-zw/hqdefault.jpg",
+        "title": "Create a Wireless NTP Server with ESP32 and GNSS (Wi-Fi & Ethernet)",
+        "vote": 0
+    }
+]

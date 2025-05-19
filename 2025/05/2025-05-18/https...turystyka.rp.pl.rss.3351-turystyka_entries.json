@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T20:00:19.610054+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T20:00:19+00:00",
+        "description": "Miniony rok by\u0142 dla polskiej bran\u017cy turystycznej i jej samorz\u0105du, Polskiej Izby Turystyki, udany. List\u0119 sukces\u00f3w przytoczy\u0142 w sprawozdaniu przedstawionym podczas Walnego Zgromadzenia Cz\u0142onk\u00f3w PIT, prezes organizacji Pawe\u0142 Niewiadomski.",
+        "id": 2710940,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art42312241-rok-w-polskiej-izbie-turystyki-prezes-pawel-niewiadomski-wymienia-najwieksze-sukcesy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rok w Polskiej Izbie Turystyki. Prezes Pawe\u0142 Niewiadomski wymienia najwi\u0119ksze sukcesy",
+        "vote": 0
+    }
+]

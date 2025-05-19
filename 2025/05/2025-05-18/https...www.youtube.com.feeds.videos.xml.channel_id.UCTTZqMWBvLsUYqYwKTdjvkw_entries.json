@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T17:04:43.759817+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T16:00:14+00:00",
+        "description": "\ud83c\udf40\u00a0Dzi\u015b opowiem Wam w jaki spos\u00f3b zdemaskowano jednego z administrator\u00f3w 4chana, kt\u00f3ry chcia\u0142 pewnie pozosta\u0107 anonimowy. Ale wysz\u0142o jak zawsze, bo o OPSEC trzeba dba\u0107, a nie liczy\u0107\u00a0na \u0142ut szcz\u0119\u015bcia.\n\nLinki:\nNie chcesz przegapi\u0107 mo\u017cliwo\u015bci wykupienia subskrypcji? Zapisz si\u0119 do newslettera: https://newsletter.uczmnie.pl/\n\n\u0179r\u00f3d\u0142a:\n\ud83d\udc40\u00a04chan Operator unmasked - The Admin Behind the Curtain\nhttps://leakd.com/exclusives/4chan-operator-unmasked-the-admin-behind-the-curtain/\n\n\ud83d\udcc7\u00a0Still Standing - 4chan Blog\nhttps://blog.4chan.org/post/781845918774394880/still-standing\n\n\ud83d\uddd1\ufe0f\u00a04chan, the 'internet\u2019s litter box,' appears to have been pillaged by rival forum\nhttps://www.theregister.com/2025/04/15/4chan_breached/\n\n\ud83d\uddc4\ufe0f\u00a04chan/Staff - Bibliotheca Anonoma \nhttps://wiki.bibanon.org/4chan/Staff\n\n\ud83c\udf2a\ufe0f\u00a0Inside the Chaos: Unmasking 4chan\u2019s Hidden Power Structure After the 2025 Breach\nhttps://www.osinord.com/post/inside-the-chaos-unmasking-4chan-s-hidden-power-structure-after-the-2025-breach\n\n\ud83c\udf11\u00a0How Gamergate foreshadow",
+        "id": 2709954,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4XqAVhZRSNg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4XqAVhZRSNg/hqdefault.jpg",
+        "title": "Nie jeste\u015b anonimowy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/indolering",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T06:07:45.374132+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T05:14:29+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: Arm is breaking internal financial records thanks to the ARMv9 price hike.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/indolering\"> /u/indolering </a> <br/> <span><a href=\"https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1kpcdzt/armv9_architecture_helps_lift_arm_to_new/\">[comments]</a></span>",
+        "id": 2707055,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1kpcdzt/armv9_architecture_helps_lift_arm_to_new",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Armv9 Architecture Helps Lift Arm To New Financial Heights",
+        "vote": 0
+    }
+]

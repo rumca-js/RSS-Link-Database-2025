@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rafly Wibowo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T07:20:38.776258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T06:45:42+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://www.keengamer.com/wp-content/uploads/2025/05/StarVaders-Review-A-Mesh-of-Roguelike-Deckbuilding-and-Tile-Combat-Cover.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-image-748395 wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" data-mwl-img-id=\"748395\" /></p>\n<p><span style=\"font-weight: 400\"><em><a href=\"https://www.keengamer.com/wp-content/uploads/2025/05/StarVaders-Review-A-Mesh-of-Roguelike-Deckbuilding-and-Tile-Combat-Cover.jpg\"><img class=\"aligncenter wp-image-748395 size-medium\" src=\"https://www.keengamer.com/wp-content/uploads/2025/05/StarVaders-Review-A-Mesh-of-Roguelike-Deckbuilding-and-Tile-Combat-Cover-780x439.jpg\" alt=\"StarVaders Review | A Mesh of Roguelike Deckbuilding and Tile Combat\" width=\"780\" height=\"439\"></a>StarVaders</em>, developed by <a href=\"https://pengonauts.com/\" target=\"_blank\" rel=\"noopener\">Pengonauts</a>, brings the fun challenge of a turn-based strategy game to card decks. The gam",
+        "id": 2707253,
+        "language": "en-US",
+        "link": "https://www.keengamer.com/articles/reviews/pc-reviews/starvaders-review-a-mesh-of-roguelike-deckbuilding-and-tile-combat",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 474,
+        "source_url": "https://www.keengamer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "StarVaders Review | A Mesh of Roguelike Deckbuilding and Tile Combat",
+        "vote": 0
+    }
+]

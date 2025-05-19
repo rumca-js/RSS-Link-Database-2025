@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Donlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T09:35:46.426591+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T09:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/head_EUyAZpf.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Stop me if you've heard this before. We say \"uncanny\", but in Germany it's \"unheimlich\". The unheimlich was a big deal for people like Freud, and it's hard not to love the term, just a little bit. Unheimlich means, well, it means uncanny - weird, eerie, unsettling. But more specifically, it translates as \"unhomely.\" Unhomely. Now that is a word that carries a chill, a creep of the flesh, a word that registers an arachnid skittering in the corner of your vision. When something is familiar and unfamiliar all at once! You should feel like you're at home, but...</p> <p><a href=\"https://www.eurogamer.net/control-is-still-the-goat-when-it-comes-to-uncanny-beauty-in-video-games\">Read more</a></p>",
+        "id": 2707704,
+        "language": "en",
+        "link": "https://www.eurogamer.net/control-is-still-the-goat-when-it-comes-to-uncanny-beauty-in-video-games",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/head_EUyAZpf.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Control is still the GOAT when it comes to uncanny beauty in video games",
+        "vote": 0
+    }
+]

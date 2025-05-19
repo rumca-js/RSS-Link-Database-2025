@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T18:00:03.987863+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T17:01:47+00:00",
+        "description": "<p>There\u2019s <a href=\"https://www.topgear.com/car-news/tech/new-apple-carplay-ultra-tested-hands-every-new-feature\">an accompanying blog</a> post too, but the video (around 18 minutes) is (unsurprisingly, from Top Gear) better. It\u2019s just a great tour of everything from how you set it up to what it offers, and what the various \u201cthemes\u201d look like\u2009\u2014\u2009and how you switch between them.</p>\n\n<p>The DBX doesn\u2019t have a ton of screen space, so we\u2019re still left to wonder what the experience will be like in a car that has door-to-door screens spanning the dashboard, but Rix does a great job showing the driver\u2019s perspective of the main instrument cluster. One thing Aston did right is that they still have a lot of physical controls\u2009\u2014\u2009clicking buttons and twisting dials\u2009\u2014\u2009for the most essential features like climate control. As you\u2019d hope, the CarPlay Ultra interface updates live as you manipulate those physical controls in the car.</p>\n\n<p>I don\u2019t know if CarPlay Ultra came out of Apple\u2019s abandoned \u201cT",
+        "id": 2710257,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EQlLjVraA9g",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jack Rix at Top Gear Reviews CarPlay Ultra in the Aston Martin DBX",
+        "vote": 0
+    }
+]

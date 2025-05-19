@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-18T17:00:02.144359+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-18T16:00:17+00:00",
+        "description": "Shipping of BraX3 has been delayed to June 2025. We will talk about a significant issue that we were unaware of with iODE OS and the solution planned. This problem prevented the final production of phones at the factory. I will explain the specific problem which has to do with IMEI and how it will be handled. So bear with us a moment more and we will get through this!\n\n----------------------------------\nBraX3 can be ordered soon on Braxtech.net\nhttps://braxtech.net\nPre-Orders ending soon on Indiegogo\nhttps://www.indiegogo.com/projects/brax3-the-most-privacy-friendly-smartphone#/\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me. \n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm here to educate. You are losing your Internet privacy and Internet secu",
+        "id": 2709919,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=70BYBK29kBI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/70BYBK29kBI/hqdefault.jpg",
+        "title": "Honest Explanation of the BraX3 Shipping Delay",
+        "vote": 0
+    }
+]
