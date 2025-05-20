@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T17:45:49.467218+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T16:46:20+00:00",
+        "description": "The two sides have struck a new post-Brexit deal but this so-called 'reset' of the relationship is just the beginning.",
+        "id": 2718599,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cn4gwvezvvko",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88e5/live/19ed25f0-34c1-11f0-96c3-cf669419a2b0.jpg",
+        "title": "Brussels hails UK deal as 'new chapter' - but much is yet to be written",
+        "vote": 0
+    }
+]

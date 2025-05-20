@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T08:10:43.518779+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T08:01:39+00:00",
+        "description": "<p>\n\t<strong>Thank you </strong>to everyone who reponded to&nbsp;<a href=\"https://isocpp.org/blog/2025/04/2025-annual-cpp-developer-survey-lite\">our 2025 annual global C++ developer survey</a>. As promised, here is a summary of the results, including one-page AI-generated summaries of your answers to the free-form questions:</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://isocpp.org/files/papers/CppDevSurvey-2025-summary.pdf\">CppDevSurvey-2025-summary.pdf</a></h3>\n</blockquote>\n<p>\n\tA 100-page version of this report that also includes all individual write-in responses has now been forwarded to the C++ standards committee and C++ product vendors, to help inform C++ evolution and tooling.</p>\n<p>\n\tYour feedback is valuable, and appreciated.</p>",
+        "id": 2713891,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/05/results-summary-2025-annual-cpp-developer-survey-lite",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Results summary: 2025 Annual C++ Developer Survey &quot;Lite&quot;",
+        "vote": 0
+    }
+]

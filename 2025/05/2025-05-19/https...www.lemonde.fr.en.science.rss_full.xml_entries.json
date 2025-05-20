@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T22:51:00.791879+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T22:51:00+00:00",
+        "description": "Amid a widespread decline in development aid, 2025 could see the merger of several major health agencies into a 'single humanitarian entity.' The merger of the Global Fund to Fight AIDS, Tuberculosis and Malaria with the Global Alliance for Vaccines is also under consideration.",
+        "id": 2720636,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/05/20/un-agencies-could-be-merged-to-improve-effectiveness-of-humanitarian-and-health-action_6741433_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/05/15/49/0/1080/540/644/322/60/0/d260d30_sirius-fs-upload-1-biky56k3amyp-1747316114505-rs50201-community-outreach-in-makindye-kampala-007-jjum7967-h2.jpg",
+        "title": "UN agencies could be merged to improve effectiveness of humanitarian and health action",
+        "vote": 0
+    }
+]

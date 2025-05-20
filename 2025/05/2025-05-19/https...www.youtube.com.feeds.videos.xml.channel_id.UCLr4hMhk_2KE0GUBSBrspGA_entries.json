@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T18:18:39.184589+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T17:30:31+00:00",
+        "description": "By\u0142em w Chinach, sprawdzi\u0142em roboty. I jeden z nich uzna\u0142, \u017ce m\u00f3j ko\u0144 to jele\u0144.Zrobi\u0142o si\u0119 niezr\u0119cznie, ale i tak by\u0142o ciekawie. \nW tym odcinku Tech Week:- odwiedzam chi\u0144skie firmy, kt\u00f3re naprawd\u0119 buduj\u0105 humanoidy (Engine AI, UBTech)- sprawdzam czy rob\u00f3t potrafi rozpozna\u0107 jab\u0142ko, nawet jak si\u0119 zmieni jego po\u0142o\u017cenie- zagl\u0105dam do stacji wymiany baterii NIO \u2013 i pr\u00f3buj\u0119 zrozumie\u0107, kto tu kogo oszukuje- por\u00f3wnuj\u0119 nowego Samsunga S25 Edge z dwuletnim S23 \u2013 czy cienko\u015b\u0107 to przysz\u0142o\u015b\u0107?- s\u0142ucham Sony XM6 i sprawdzam, czy po 3 latach warto wymienia\u0107 XM5\nA na koniec \u2013 kilka s\u0142\u00f3w o chi\u0144skich kratach na 15. pi\u0119trze i... poniedzia\u0142ku.Zno\u015bnego tygodnia!",
+        "id": 2718792,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_eVWMR7dVeI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_eVWMR7dVeI/hqdefault.jpg",
+        "title": "Tech Week: Robot uzna\u0142, \u017ce to jele\u0144. Jestem ura\u017cony.",
+        "vote": 0
+    }
+]

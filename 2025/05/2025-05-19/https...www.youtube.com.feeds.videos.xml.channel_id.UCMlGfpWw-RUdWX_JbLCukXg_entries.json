@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T15:32:34.546842+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T15:00:11+00:00",
+        "description": "Registration for CppCon: https://cppcon.org/registration/\nhttps://cppcon.org/\n---\n\nAnnouncing CppCon 2025 - Join C++ Developers, C++ Programmers and C++ Experts for the C++ Conference September 13\u201319 2025\n---\n\nCppCon 2025 September 13-19: The Premier C++ Conference for the C++ Community!\n\nCppCon is the ultimate gathering for C++ developers, bringing together C++ experts, C++ enthusiasts, and C++ newcomers for a week of learning, networking, and innovation. Held annually in Aurora, Colorado, near Denver, this C++ conference features insightful keynotes by legends like Bjarne Stroustrup and Herb Sutter, as well as talks covering a diverse range of domains\u2014including embedded systems, game development, finance, and more!\n\nWhat to Expect at CppCon:\n-  Keynotes and panels by leading C++ experts\n-  Technical presentations on cutting-edge C++ techniques\n-  Lightning talks\u2014quick, engaging, and thought-provoking! .\n-  Social events and \u201cunconference\u201d sessions for casual discussions and networki",
+        "id": 2717118,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eGnoCjgSMtk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eGnoCjgSMtk/hqdefault.jpg",
+        "title": "Announcing CppCon 2025 - Join C++ Developers, C++ Programmers and C++ Experts for the C++ Conference",
+        "vote": 0
+    }
+]

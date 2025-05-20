@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T16:25:36.520778+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T16:12:07+00:00",
+        "description": "<p>The folks behind Rust-based AV1 video decoder rav1d are looking for developers to get it running as fast as its C-based cousin, dav1d. It all kicked off back in March 2023. The plan? Build a high-performance AV1 decoder, but with all the memory safety goodness Rust brings. They teamed up with Immunant for the heavy<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/rust-developers-offered-20k-rav1d-to-reach-c-performance/\" title=\"ReadRust developers offered $20k for rav1d to reach C performance\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/rust-developers-offered-20k-rav1d-to-reach-c-performance/\">Rust developers offered $20k for rav1d to reach C performance</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2717738,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/rust-developers-offered-20k-rav1d-to-reach-c-performance",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rust developers offered $20k for rav1d to reach C performance",
+        "vote": 0
+    }
+]

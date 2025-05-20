@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T09:42:39.794930+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T09:00:03+00:00",
+        "description": "Mitra I. Arthur | May 19, 2025\nIn Death Becomes Her, the main characters kill each other multiple times \u2026 for laughs! Robert Zemeckis' 1992 film is a cult classic; its stage adaptation \u2014 with a book by Marco Pennette and lyrics and music by Julia Mattison and Noel Carey \u2014 is a delightfully unhinged musical that I knew needed the Tiny Desk treatment. But If you're wondering if the performers recreate any of the physical comedy gags in the NPR Music office, you'll have to head to the theater.\n\nMattison and Carey were on hand to shepherd the Tiny Desk audience through the world they helped create. Michelle Williams (of Destiny's Child fame) plays Viola Van Horn, the potion slinging sorceress, with enticing mystique; she performs \"If You Want Perfection\" and reminds us that actions have consequences in the grooving \"Don't Say I Didn't (Warn You).\" In \"Tell Me, Ernest,\" Megan Hilty (Madeline Ashton), Jennifer Simard (Helen Sharp) and Christopher Sieber (Dr. Ernest Menville) bring the weird",
+        "id": 2714459,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aR5AU3azhyc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aR5AU3azhyc/hqdefault.jpg",
+        "title": "Death Becomes Her: Tiny Desk Concert",
+        "vote": 0
+    }
+]

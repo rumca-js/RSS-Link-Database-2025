@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Epoch Video",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T03:13:57.151388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T03:01:00+00:00",
+        "description": "Nvidia&#8217;s CEO, Jensen Huang, gives a speech and announces new AI technology on the sidelines of the annual Computex in Taipei, Taiwan, at 10:45 p.m. ET on May 18.",
+        "id": 2712859,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/epochtv/live-now-nvidias-jensen-huang-gives-speech-on-ai-in-taiwan-5859649",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/01/31/id5802360-GettyImages-2192215566-LSedit-1080x720.jpg",
+        "title": "LIVE NOW: Nvidia\u2019s Jensen Huang Gives Speech on AI in Taiwan",
+        "vote": 0
+    }
+]

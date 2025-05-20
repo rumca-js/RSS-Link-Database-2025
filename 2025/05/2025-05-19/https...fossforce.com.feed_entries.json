@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marco Fioretti",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-19T13:50:14.381941+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-19T12:00:20+00:00",
+        "description": "<p><em>Our Marco Fioretti shares his thoughts on Google's (and others') bad boy behavior against Nextcloud (and others).</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/05/googles-and-others-approach-to-vendor-lock-in/\">Google&#8217;s (and Others) Approach to Vendor Lock-In</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2716165,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/05/googles-and-others-approach-to-vendor-lock-in",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google\u2019s (and Others) Approach to Vendor Lock-In",
+        "vote": 0
+    }
+]
