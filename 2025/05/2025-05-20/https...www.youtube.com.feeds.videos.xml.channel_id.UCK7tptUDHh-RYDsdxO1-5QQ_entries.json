@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T20:22:59.181093+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T19:30:07+00:00",
+        "description": "President Trump plans to announce that Space Force Gen. Michael Guetlein will oversee development of the ambitious Golden Dome antimissile shield, envisioned to protect the U.S. from high-tech threats. \n\nLast year, WSJ\u2019s Shelby Holliday sat down with Space Force chief Gen. B. Chance Saltzman to learn more about why space is becoming an increasingly important domain for the U.S. military, and how adversaries like Russia and China might use space to launch attacks.  \n\nChapters:\n0:00 U.S.\u2019s Space Force\n0:49 Threats in space\n3:06 Space weapons\n4:29 What Space Force does \n7:00 What\u2019s next?\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Military #Space #WSJ",
+        "id": 2729288,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=u2eS41HczeQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u2eS41HczeQ/hqdefault.jpg",
+        "title": "Space Force Chief on Why China, Russia Are a \u2018Substantial\u2019 Threat | WSJ",
+        "vote": 0
+    }
+]

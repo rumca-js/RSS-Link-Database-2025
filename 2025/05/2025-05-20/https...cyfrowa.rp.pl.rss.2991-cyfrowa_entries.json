@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T21:27:33.258147+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T21:27:33+00:00",
+        "description": "\u201eGooglanie\u201d w sieci nie b\u0119dzie ju\u017c takie samo. Internetowy gigant rusza z rewolucj\u0105 i uruchamia AI Mode. Znalezienie jakiejkolwiek odpowiedzi w sieci ma by\u0107 teraz banalnie proste. Ale nowo\u015bci od Google'a jest znacznie wi\u0119cej.",
+        "id": 2729711,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42326291-google-zmieni-wyszukiwarke-nie-do-poznania-ai-juz-na-kazdym-kroku",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google zmieni wyszukiwark\u0119 nie do poznania. AI ju\u017c na ka\u017cdym kroku",
+        "vote": 0
+    }
+]

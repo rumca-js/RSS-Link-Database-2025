@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T15:06:48.638545+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T13:54:30+00:00",
+        "description": "The latest release of Spot & Orbit allows users to unlocks insights from maintenance and beyond, helping you understand the full health of your operations. It also includes the capabilities you need for enterprise-grade scale, so you can deploy and manage your fleet across multiple sites with less friction than ever.\n\nRead more in our announcement: https://bostondynamics.com/blog/see-your-facility/\n\nSign-up for our webinar to learn about all the latest in 5.0: https://bostondynamics.com/webinars/plant-of-the-future-unlocking-full-facility-insights-with-ai/",
+        "id": 2726145,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vTgTAe53YdM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vTgTAe53YdM/hqdefault.jpg",
+        "title": "New in Spot & Orbit 5.0 | Boston Dynamics",
+        "vote": 0
+    }
+]

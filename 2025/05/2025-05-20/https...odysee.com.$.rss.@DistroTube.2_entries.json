@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T14:18:09.885356+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T13:01:13+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/dJi3L781pIk\" width=\"480\" alt=\"thumbnail\" title=\"Hey, DT! Without The Internet, I Wouldn't Know What's Going On!\" /></p>On this edition of HEY DT:<br /><br />0:00 Intro<br />0:19 Why not have a look at Nobara?<br />1:32 You showed how to swap out sudo with doas, but you didn't tell us why we should do this. <br />3:22 Am I you or are you me?<br />4:43 Have you considered hooking into the tail end of archinstall and applying all your non-installation configurations at the end?<br />7:31 I am very glad to hear your plan to create a \"video man pages\" project.<br />9:17 Absolutely love this! Would be great if you also add an option for Artix linux repos to turn DTOS to an artix-based distro as well.<br />11:49 Without the news, I wouldn't know what's really going on.<br />15:57 I agree we need to reduce doomscrolling but I think the opposite is as dangerous when people have NO idea what's going on the world.<br />24:34 Thanks to Patrons<br /><br />W",
+        "id": 2725662,
+        "language": "en",
+        "link": "https://odysee.com/hey%2C-dt!-without-the-internet%2C-i:e40d34d4d2bdc6277d7c65fa51c7e81b03c1804b",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hey, DT! Without The Internet, I Wouldn't Know What's Going On!",
+        "vote": 0
+    }
+]

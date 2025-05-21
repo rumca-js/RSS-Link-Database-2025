@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T16:11:47.692207+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T15:19:19+00:00",
+        "description": "<p>During the Microsoft Build conference, GitHub announced they&#8217;re giving Copilot agent capabilities to automate DevOps loops.\u00a0 When needed, Copilot will be able to essentially take the wheel \u2013 that\u2019s the gist of their new asynchronous coding agent, now embedded directly within GitHub and chattable from VS Code. It\u2019s all about creating what they\u2019re calling a<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/github-copilot-automates-devops-loops-agent-capabilities/\" title=\"ReadGitHub Copilot automates DevOps loops with agent capabilities\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/github-copilot-automates-devops-loops-agent-capabilities/\">GitHub Copilot automates DevOps loops with agent capabilities</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2726876,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/github-copilot-automates-devops-loops-agent-capabilities",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GitHub Copilot automates DevOps loops with agent capabilities",
+        "vote": 0
+    }
+]

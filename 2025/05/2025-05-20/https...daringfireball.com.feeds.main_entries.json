@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T17:36:31.771225+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T16:51:13+00:00",
+        "description": "<p>Taegan Goddard:</p>\n\n<blockquote>\n  <p>When Sen. Maggie Hassan (D-NH) <a href=\"https://x.com/ErnestScribblr/status/1924835528173658492\">asked</a> Secretary of Homeland Security Kristi Noem for the definition of \u201chabeas corpus,\u201d Noem incorrectly described it as a right that the President of the United States has to deport people.</p>\n</blockquote>\n\n<p>You can go the Latin route (\u201cproduce the body\u201d) or the English <a href=\"https://www.britannica.com/topic/habeas-corpus\">common-law route</a> (the accused have a right to be shown the evidence against them and defend themselves in court). Noem went the \u201cbiggest clown of the clown-car Trump 2.0 administration\u201d route.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Kristi Noem Doesn\u2019t Know What \u2018Habeas Corpus\u2019 Is\u2019\"  href=\"https://daringfireball.net/linked/2025/05/20/noem-habeas-corpus\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 2727761,
+        "language": null,
+        "link": "https://politicalwire.com/2025/05/20/kristi-noem-doesnt-know-what-habeus-corpus-is",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kristi Noem Doesn\u2019t Know What \u2018Habeas Corpus\u2019 Is",
+        "vote": 0
+    }
+]

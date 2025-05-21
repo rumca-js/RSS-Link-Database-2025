@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T08:53:05.958755+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T08:53:05+00:00",
+        "description": "Rok po wprowadzeniu kontrowersyjnych przepis\u00f3w dotycz\u0105cych prac domowych, Ministerstwo Edukacji Narodowej zapowiada ewaluacj\u0119 ich skuteczno\u015bci. Czy reforma przynios\u0142a oczekiwane efekty? Decyzje zapadn\u0105 po analizie danych zebranych przez Instytut Bada\u0144 Edukacyjnych.",
+        "id": 2723113,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/szkoly-podstawowe-i-srednie/art42321361-prace-domowe-pod-lupa-men-zapowiada-ewaluacje-i-mozliwe-zmiany",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prace domowe pod lup\u0105. MEN zapowiada ewaluacj\u0119 i mo\u017cliwe zmiany",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T13:52:24.840644+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T13:01:13+00:00",
+        "description": "On this edition of HEY DT:\n\n0:00 Intro\n0:19 Why not have a look at Nobara?\n1:32 You showed how to swap out sudo with doas, but you didn't tell us why we should do this. \n3:22 Am I you or are you me?\n4:43 Have you considered hooking into the tail end of archinstall and applying all your non-installation configurations at the end?\n7:31 I am very glad to hear your plan to create a \"video man pages\" project.\n9:17 Absolutely love this! Would be great if you also add an option for Artix linux repos to turn DTOS to an artix-based distro as well.\n11:49 Without the news, I wouldn't know what's really going on.\n15:57 I agree we need to reduce doomscrolling but I think the opposite is as dangerous when people have NO idea what's going on the world.\n24:34 Thanks to Patrons\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2Jqb",
+        "id": 2725335,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dJi3L781pIk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dJi3L781pIk/hqdefault.jpg",
+        "title": "Hey, DT! Without The Internet, I Wouldn't Know What's Going On!",
+        "vote": 0
+    }
+]

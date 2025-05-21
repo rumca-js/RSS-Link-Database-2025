@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Appropriate-Hunt-897",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T14:48:36.864084+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-20T14:15:52+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>This was not a zero day. There was no exotic exploit. Coinbase got breached because a third-party support vendor was compromised through social engineering. Someone got bribed and full customer datasets including names, addresses, and government-issued IDs are now circulating.</p> <p>We are already seeing identity fraud reports. People are dealing with account takeovers and fake registrations using their leaked documents.</p> <p>This is a clear example of failed vendor risk management and lack of internal controls. No continuous control testing. No social engineering defense. No segmentation to isolate vendor access. Just broad trust assumptions and zero enforcement.</p> <p>A company called CyberCatch recently launched a platform that focuses on this exact area - compliance automation, internal control testing, and continuous validation for crypto firms. It is not a silver bullet but it targets the exact breakdowns that led to this breach.</p> <p>Coin",
+        "id": 2725873,
+        "language": null,
+        "link": "https://www.reddit.com/r/hackers/comments/1kr5y98/the_coinbase_breach_was_preventable_and",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Coinbase breach was preventable and highlights a major ops failure",
+        "vote": 0
+    }
+]
