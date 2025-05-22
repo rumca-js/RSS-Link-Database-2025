@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T18:08:24.843625+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T17:01:10+00:00",
+        "description": "To try Brilliant for free, visit brilliant.org/scishow or scan the QR code onscreen\u2014or you can click on the link in the description. You\u2019ll also get 20% off an annual premium subscription.\n\nHow would you deal with sewage waste pollution? Here in Missoula, the answer was.... poplar trees. Here's the weird reason that these poplar trees are some of nature's best cleaners, and why our hometown heroes might not be so awesome for forever.\n\nHosted by: Hank Green (he/him)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mckishen, Kaitlyn O'Callaghan, Reed Spilmann, Garrett Gal",
+        "id": 2737642,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=t5vqVxnuKJ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t5vqVxnuKJ4/hqdefault.jpg",
+        "title": "Why Some Trees in SciShow's Hometown Are Full of Poop",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Josh Richman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T09:00:40.677790+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T07:01:46+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span data-contrast=\"auto\">There\u2019s a weird belief out there that tech critics hate technology. But do movie critics hate movies? Do food critics hate food? No! The most effective, insightful critics do what they do because they love something so deeply that they want to see it made even better. The most effective tech critics have had transformative, positive online experiences, and now unflinchingly call out the surveilled, commodified, enshittified landscape that exists today because they know there has been \u2013 and still can be \u2013 something better.</span></p>\n<p><div class=\"mytube\" style=\"width: 100%px;\">\n  <div class=\"mytubetrigger\" tabindex=\"0\">\n\n    <img src=\"https://www.eff.org/sites/all/modules/custom/mytube/play.png\" class=\"mytubeplay\" alt=\"play\" style=\"top: -4px; left: 20px;\" />\n    <div hidden class=\"mytubeembedcode\">%3Ciframe%20heigh",
+        "id": 2732888,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/05/podcast-episode-love-internet-you-hate-it",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podcast Episode: Love the Internet Before You Hate On It",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T14:45:51.790108+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T14:31:57+00:00",
+        "description": "President Trump\u2019s tariffs are designed, in part, to motivate companies to manufacture in the U.S. But many small businesses, like puzzle maker Le Puzz, are finding that to be nearly impossible. Like many companies in the toy and game industry, their product is manufactured in China and they\u2019re finding switching to a U.S. manufacturer isn\u2019t just a different in costs: it\u2019s a difference in quality. \n\nWSJ explains why completely moving manufacturing to the U.S. is so difficult for small businesses in the U.S. \n\nChapters:\n0:00 Tariffs and manufacturing \n0:57 Supply chains\n2:14 The learning curve\n3:53 Uncertainty in trade policy\n4:44 Employment in the game industry\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Tariffs #China #WSJ",
+        "id": 2735637,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vbYIk5a4irQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vbYIk5a4irQ/hqdefault.jpg",
+        "title": "Why America\u2019s Small Businesses Can\u2019t Quit China | WSJ",
+        "vote": 0
+    }
+]

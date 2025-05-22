@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T18:04:46.564273+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T18:04:46+00:00",
+        "description": "Odkrycie chi\u0144skich naukowc\u00f3w mo\u017ce znacz\u0105co wp\u0142yn\u0105\u0107 na przysz\u0142o\u015b\u0107 bezza\u0142ogowych statk\u00f3w powietrznych, zw\u0142aszcza tych lataj\u0105cych na du\u017cych wysoko\u015bciach i przez d\u0142ugi czas. Ta technologia zwi\u0119ksza ich efektywno\u015b\u0107 a\u017c o 88 proc.",
+        "id": 2737543,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art42335821-ta-technologia-da-chinskim-dronom-wielka-przewage-wysokosc-nie-bedzie-problemem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ta technologia da chi\u0144skim dronom wielk\u0105 przewag\u0119. Wysoko\u015b\u0107 nie b\u0119dzie problemem",
+        "vote": 0
+    }
+]

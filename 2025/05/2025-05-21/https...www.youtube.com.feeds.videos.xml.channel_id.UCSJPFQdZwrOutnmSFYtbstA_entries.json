@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T18:05:35.429049+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T17:00:34+00:00",
+        "description": "You know the score - a bunch of people cheat death, and death decides to fight back. But does Bloodlines recapture the old magic of the Final Destination franchise, or is it a lame cash grab rehash? Let's find out. \n\nCheck out our new comic, Saints and Sinners over at Rippaverse: https://rippaverse.com/",
+        "id": 2737563,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Lq_dGEt5sYc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Lq_dGEt5sYc/hqdefault.jpg",
+        "title": "Final Destination Bloodlines - Its Ridiculous Slop, And I Love It",
+        "vote": 0
+    }
+]

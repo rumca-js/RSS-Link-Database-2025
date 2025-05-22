@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/noone_4077",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T12:11:15.756205+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T11:47:09+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So, Netvibes is slowly coming to an end. My friend and I have made something :) We took FreshRSS and changed the global view (since we didn\u2019t really have a use for it) and made it very similar to Netvibes. We\u2019re Linux/DB admins, so the code isn\u2019t perfect. The core is pure FreshRSS, but the global view has been completely rebuilt to be Netvibes-like. Even importing feeds from Netvibes works, which is great!</p> <p>Anyone can use it for free, and if you like it, you can support us (mainly for operate). If you have any issues or feature requests, just DM me. It\u2019s our small project, so we can do pretty much anything :)</p> <p>The URL is: <a href=\"http://inufeed.com\">inufeed.com</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/noone_4077\"> /u/noone_4077 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1krvsdy/alternative_for_netvibes/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/r",
+        "id": 2733703,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1krvsdy/alternative_for_netvibes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Alternative for Netvibes",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uwaga! Naukowy Be\u0142kot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T19:04:46.350763+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T18:30:26+00:00",
+        "description": "\ud83d\udc49 Patronite \u25ba https://patronite.pl/NaukowyBelkot \n\ud83d\udcda Moja ksi\u0105\u017cka \u25ba https://altenberg.pl/geny/\n\ud83d\udcda E-book \u25ba https://tinyurl.com/pnp-ebook\n\nKilka \u017ar\u00f3de\u0142:\n\nhttps://historia.interia.pl/ciekawostki/news-epidemie-to-nic-nowego-z-jakimi-chorobami-zmagano-sie-w-czas,nId,7179099\nhttps://szczepienia.pzh.gov.pl/szczepionki/poliomyelitis/\nhttps://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-17-pneumococcal-disease.html\nhttps://www.vax-before-travel.com/tuberculosis-killed-125-million-people-globally-2024-10-30\nna-zbierac-zniwo-w-polsce--co-sie-dzieje--sa-dwa-problemy,artykul,34105541.html",
+        "id": 2738032,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=d1UYoYE6wmM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 377,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7PqixGIdE-jjoHKMPYpGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d1UYoYE6wmM/hqdefault.jpg",
+        "title": "Dlaczego obowi\u0105zkowe szczepienia s\u0105 w Polsce obowi\u0105zkowe?",
+        "vote": 0
+    }
+]

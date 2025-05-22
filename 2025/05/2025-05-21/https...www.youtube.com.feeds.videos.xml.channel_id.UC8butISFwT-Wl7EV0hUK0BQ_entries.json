@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T14:05:50.114679+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T13:03:10+00:00",
+        "description": "This relational Database Management System (DBMS) course serves as a comprehensive resource for mastering database concepts, design, and querying, and is tailored for both academic success and technical interviews.  You will explore essential topics such as ER modeling, relational algebra, SQL, normalization, and transaction management, progressing from foundational principles to advanced applications.\n\nCourse resources: https://rdbms-resource-pack-650qinf.gamma.site/\n\n\u270f\ufe0f Course created by Kshitij Sharma.\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 00:00:00 Introduction to the Relational DBMS Course\n- 00:06:02 Data vs. Information\n- 00:08:40 What is a Database?\n- 00:09:51 What is DBMS (Database Management System)?\n- 00:10:25 DBMS vs. File Systems: Advantages of DBMS \n- 00:27:26 Levels of Data: Real-world, Metadata, Occurrences \n- 00:39:37 DBMS Three-Schem",
+        "id": 2735152,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NdeeSEknp58",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NdeeSEknp58/hqdefault.jpg",
+        "title": "Relational DBMS Course \u2013 Concepts, Design & Querying",
+        "vote": 0
+    }
+]

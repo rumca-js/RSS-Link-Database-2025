@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T16:42:47.810398+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T16:00:55+00:00",
+        "description": "Search Engines, Voice Assistants like SIRI, AI Models now have gravitated to having Wikipedia be their primary source of knowledge. This makes Wikipedia dangerously overly significant and is thus subject to influence.\n\nCan it be influenced? Is it a neutral source of information? Is it an accurate source of information? As a basic source of AI knowledge, will AI make correct decisions if it's info is based on this one source predominantly?\n\n----------------------------------\nBraX3 Privacy Phone is on \nhttps://braxtech.net\n\nBraX3 is Temporarily on pre-order on Indiegogo\nhttps://www.indiegogo.com/projects/brax3-the-most-privacy-friendly-smartphone#/\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me. \n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm he",
+        "id": 2736611,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bJ8079kg7oY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bJ8079kg7oY/hqdefault.jpg",
+        "title": "Can You Trust Wikipedia? The Now De-Facto Source of Online Intelligence",
+        "vote": 0
+    }
+]

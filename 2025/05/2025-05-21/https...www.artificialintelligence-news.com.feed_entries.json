@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T10:11:20.920796+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T10:00:03+00:00",
+        "description": "<p>The Linux Foundation and Meta are putting some numbers behind how open-source AI (OSAI) is driving innovation and adoption. The adoption of AI tools is pretty much everywhere now, with 94% of organisations surveyed already using them. And get this: within that crowd, 89% are tapping into open-source AI for some part of their tech [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/linux-foundation-slash-costs-boost-growth-with-open-source-ai/\">Linux Foundation: Slash costs, boost growth with open-source AI</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2733297,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/linux-foundation-slash-costs-boost-growth-with-open-source-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Linux Foundation: Slash costs, boost growth with open-source AI",
+        "vote": 0
+    }
+]

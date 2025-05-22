@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T09:30:34.182175+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T09:03:03+00:00",
+        "description": "<p>Google unveiled a flood of AI announcements during I/O 2025 designed to arm developers with next-generation models and tools. Mat Velloso, VP of Product for the AI Developer Platform at Google DeepMind, said: &#8220;We believe developers are the architects of the future. That&#8217;s why Google I/O is our most anticipated event of the year, and<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/io-2025-google-arms-developers-with-fresh-ai-models-and-tools/\" title=\"ReadI/O 2025: Google arms developers with fresh AI models and tools\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/io-2025-google-arms-developers-with-fresh-ai-models-and-tools/\">I/O 2025: Google arms developers with fresh AI models and tools</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2733167,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/io-2025-google-arms-developers-with-fresh-ai-models-and-tools",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I/O 2025: Google arms developers with fresh AI models and tools",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T22:23:32.134483+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T21:00:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/-91mNo3RN68\" width=\"480\" alt=\"thumbnail\" title=\"RHEL 10 Is A Turning Point For Linux Desktop\" /></p>RHEL 10 is here now and with that release we see the Xorg finally being removed from a major distribution, this is a turning point in the world of Wayland adoption.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Removed Features: https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/10.0_release_notes/removed-features<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord:",
+        "id": 2739475,
+        "language": "en",
+        "link": "https://odysee.com/rhel-10-is-a-turning-point-for-linux:6a2662f0bcec5d9cab0eaa3b5b2b9e8b3b0438aa",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RHEL 10 Is A Turning Point For Linux Desktop",
+        "vote": 0
+    }
+]

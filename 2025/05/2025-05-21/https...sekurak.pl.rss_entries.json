@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T01:43:17.225270+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T01:24:09+00:00",
+        "description": "<p>Badacze z firmy Imperva odkryli i opisali interesuj\u0105c\u0105&#160;podatno\u015b\u0107 w popularnym silniku blogowym WordPress. Luka&#160;umo\u017cliwia osobom postronnym poznanie tytu\u0142\u00f3w prywatnych wpis\u00f3w oraz szkic\u00f3w. Na pierwszy rzut oka nie brzmi dramatycznie, bo dotyczy tylko tytu\u0142\u00f3w, ale w niekt\u00f3rych sytuacjach ju\u017c samo przedwczesne ujawnienie tytu\u0142u mo\u017ce mie\u0107&#160;powa\u017cne konsekwencje. Jako przyk\u0142ad podawane s\u0105&#160;tu wpisy...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/wyciek-tytulow-szkicow-i-prywatnych-wpisow-w-silniku-wordpress/\">Wyciek tytu\u0142\u00f3w szkic\u00f3w i prywatnych wpis\u00f3w w silniku WordPress</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2731107,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/wyciek-tytulow-szkicow-i-prywatnych-wpisow-w-silniku-wordpress",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wyciek tytu\u0142\u00f3w szkic\u00f3w i prywatnych wpis\u00f3w w silniku WordPress",
+        "vote": 0
+    }
+]

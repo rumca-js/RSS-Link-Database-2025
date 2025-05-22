@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/NumeroInutile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-21T01:11:51.619562+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-21T00:35:41+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1krktoh/new_riscv_mcu_wch_ch32h417_with_usb_30_384mhz/\"> <img src=\"https://a.thumbs.redditmedia.com/epnkBd5gn8PVeseSdkbeZ0c5UTV62u8ggLxZQRF5j88.jpg\" alt=\"New RISC-V MCU: WCH CH32H417 with USB 3.0, 384MHz + 144MHz, 896KB of RAM\" title=\"New RISC-V MCU: WCH CH32H417 with USB 3.0, 384MHz + 144MHz, 896KB of RAM\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NumeroInutile\"> /u/NumeroInutile </a> <br/> <span><a href=\"/r/embedded/comments/1kqz7ft/new_interesting_uc_in_the_market_wch_ch32h417/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1krktoh/new_riscv_mcu_wch_ch32h417_with_usb_30_384mhz/\">[comments]</a></span> </td></tr></table>",
+        "id": 2731020,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1krktoh/new_riscv_mcu_wch_ch32h417_with_usb_30_384mhz",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://a.thumbs.redditmedia.com/epnkBd5gn8PVeseSdkbeZ0c5UTV62u8ggLxZQRF5j88.jpg",
+        "title": "New RISC-V MCU: WCH CH32H417 with USB 3.0, 384MHz + 144MHz, 896KB of RAM",
+        "vote": 0
+    }
+]
