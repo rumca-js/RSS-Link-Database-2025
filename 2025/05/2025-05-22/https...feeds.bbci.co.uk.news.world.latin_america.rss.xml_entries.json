@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T12:22:27.218506+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T11:17:58+00:00",
+        "description": "He was seized by masked armed men at his home in what is believed to have been a kidnapping for ransom.",
+        "id": 2743877,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/clynlnlxw03o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c892/live/528253e0-36ec-11f0-b490-816b02568d6f.jpg",
+        "title": "Joy as Colombian boy, 11, freed after 18 days in rebel captivity",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T23:49:22.051338+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T22:45:03+00:00",
+        "description": "Find one at Heltec: https://lon.tv/gjcq4 and use code wxwc8hd3 for 10% off (affiliate link). In the US you need the 902-928mhz version. Heltec put together an out of the box Meshtastic radio that doubles as a Qi 2 wireless charger! See my original Meshtastic video: https://www.youtube.com/watch?v=GS2OgeiK_2s and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:43 - Supporter thank yous\n01:20 - Pricing for the Heltec Meshpocket\n01:36 - Hardware overview\n03:41 - Ports and Meshtastic Battery life\n04:37 - Firmware updates\n05:38 - Demo\n07:26 - LoRa Radio Specs\n07:59 - New York City Meshtastic Experience!\n10:39 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/amazonshop\n\nJoin the Facebook group to connect with me and other viewers",
+        "id": 2749709,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Wfi_Xm-piG8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Wfi_Xm-piG8/hqdefault.jpg",
+        "title": "Out of the Box Meshtastic! Heltec Pocket Mesh Powerbank & My NYC Mesh Experience!",
+        "vote": 0
+    }
+]

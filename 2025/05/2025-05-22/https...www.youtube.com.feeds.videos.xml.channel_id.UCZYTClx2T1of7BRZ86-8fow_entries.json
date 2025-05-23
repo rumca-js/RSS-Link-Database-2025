@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T17:13:46.938876+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T17:00:06+00:00",
+        "description": "Are you old enough for your childhood to be filled with the threat of acid rain? Are you now thinking \"Wait, why haven't I heard about the threat of acid rain in forever?\". Well it's because scientists and policymakers around the world got together and did something about it.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mckishen, Kaitlyn O'Callaghan, Reed Spilmann, Garrett Galloway, Friso, kickinwasabi, Gizmo, Jeremy Mattern, Blood Doctor Kelly, Eric Jensen, Jaap Westera, Matt Curls, Jp Lynch, Wesus, Chris Curry, Cye Stoner, Kev",
+        "id": 2746636,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=atQjdaTZsPY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/atQjdaTZsPY/hqdefault.jpg",
+        "title": "Why Don't We Talk About Acid Rain Anymore?",
+        "vote": 0
+    }
+]

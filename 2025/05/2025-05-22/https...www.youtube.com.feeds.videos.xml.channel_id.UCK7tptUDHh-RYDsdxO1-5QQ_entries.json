@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T14:54:22.513894+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T14:01:04+00:00",
+        "description": "Air-traffic control staffing issues and technology failures at the Newark Airport have resulted in some close collision calls and flight disruptions. In an exclusive interview with WSJ, one veteran air-traffic controller breaks down how tough the job is, how he deals with radar outages, why he is taking a stress-related trauma leave and more. \n\nChapters:\n0:00 Newark-area disruptions\n1:30 The day-to-day job and why Stewart enjoys it\n3:30 What ATC\u2019s do in aviation safety\n6:30 The biggest challenges \n8:09 Newark airspace, radar vector and staffing issues\n13:46 Dealing with radar outages\n17:00 Other layers of safety if radars and radio go out\n19:52 Trauma on the job and taking leave\n23:18 Stewart walks through a close collision call\n30:22 Stress and pay for ATC\u2019s\n32:52 How to improve the job\n\n#Newark #Aviation #WSJ",
+        "id": 2745085,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dFEZLlBscU8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dFEZLlBscU8/hqdefault.jpg",
+        "title": "Newark Area Air-Traffic Controller Explains How Complex the Job Is | WSJ",
+        "vote": 0
+    }
+]

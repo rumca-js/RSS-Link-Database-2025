@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T11:08:55.014947+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T11:00:27+00:00",
+        "description": "HoldRite acoustic thru-stud isolators help reduce water pipe noise. I drill 1-1/4-inch holes through the bottom plate, then install PEX A. The Isolators wrap around the tubing and are fastened to wood framing. They absorb noise when the tubing expands and contracts. This is a great way to make bathrooms quieter and more private. Many thanks to SharkBite for sponsoring this video.",
+        "id": 2743271,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=IghpQvyvC_g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IghpQvyvC_g/hqdefault.jpg",
+        "title": "Water Pipe Noise Reduction Tips - #shorts #plumbing #sharkbiteparter #brandpartner",
+        "vote": 0
+    }
+]

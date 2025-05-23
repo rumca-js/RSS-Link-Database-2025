@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T14:10:54.051388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T12:54:56+00:00",
+        "description": "Partnerem odcinka jest SkyShowtime. Skorzystaj z oferty: https://www.skyshowtime.com/pl\n\nJest jeden film akcji, kt\u00f3ry zupe\u0142nie odmieni\u0142 to, jak realizowane s\u0105 tego typu produkcje. Kt\u00f3ry pokaza\u0142, \u017ce mo\u017cna zastosowa\u0107 agresywne techniki i mo\u017cna to zrobi\u0107 skutecznie. Kt\u00f3ry p\u00f3\u017aniej, przez wiele lat by\u0142 na\u015bladowany i - cz\u0119sto nieumiej\u0119tnie - powielany. Zapraszam na analiz\u0119 serii o Jasonie Bournie.\n\nOferta SkyShowtime wa\u017cna do 30.06.25. 40% zni\u017cki na pe\u0142n\u0105 cen\u0119 miesi\u0119cznego planu Standard przez 12 miesi\u0119cy, a nast\u0119pnie automatyczne odnawianie w regularnej miesi\u0119cznej cenie (cena sprzed 30 dni przed obni\u017ck\u0105: 24,99 z\u0142) do momentu anulowania. Anuluj w dowolnym momencie. Tylko nowi i uprawnieni powracaj\u0105cy klienci. Obowi\u0105zuj\u0105 warunki.",
+        "id": 2744571,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oxIgvg0G6mQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oxIgvg0G6mQ/hqdefault.jpg",
+        "title": "Jak nakr\u0119cono jeden z najlepszych film\u00f3w akcji?",
+        "vote": 0
+    }
+]

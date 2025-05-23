@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T09:11:48.070918+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T09:03:00+00:00",
+        "description": "All sufficiently advanced technology is now widespread. Batman used to have gadgets that gave him an advantage over his adversaries. And Henry Ford had machines that allowed him to produce items far cheaper than the competition. Now, almost all technology magic is widely available and cheap. Technology has been the engine of cultural and economic [&#8230;]",
+        "id": 2742430,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/clarkes-law-part-2",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Clarke\u2019s Law (part 2)",
+        "vote": 0
+    }
+]

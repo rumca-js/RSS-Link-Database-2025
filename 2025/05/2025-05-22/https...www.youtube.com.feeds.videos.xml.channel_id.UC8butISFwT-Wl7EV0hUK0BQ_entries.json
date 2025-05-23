@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T15:08:08.420410+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T14:03:44+00:00",
+        "description": "Welcome to the comprehensive Vue.js course, designed to take you from beginner to proficient Vue developer. This course covers everything from Vue fundamentals and reactivity to advanced topics like component communication, routing, and state management with Pinia. Through hands-on examples and practical projects, you'll learn how to build dynamic and interactive web applications using Vue.\n\nAccess code and course resources here: https://www.dotnetmastery.com/Home/Details?courseId=33\n\nCourse developed by Bhrugen Patel.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Introduction - YT\n\u2328\ufe0f (0:11:09) Vue Fundamentals\n\u2328\ufe0f (0:30:03) Reactivity in Vue\n\u2328\ufe0f (0:40:40) Directives in Vue\n\u2328\ufe0f (1:09:31) Styles in Vue\n\u2328\ufe0f (1:26:19) Events in Vue\n\u2328\ufe0f (1:40:18) Data binding\n\u2328\ufe0f (2:18:03) Forms\n\u2328\ufe0f (2:37:15) Create Project\n\u2328\ufe0f (2:59:56) Components\n\u2328\ufe0f (3:15:00) Component communication\n\u2328\ufe0f (3:46:29) Provide and Inject\n\u2328\ufe0f (4:13:36) Slots and Lifecycle\n\u2328\ufe0f (4:57:12) Routing\n\u2328\ufe0f (5:52:13) API Requests\n\u2328\ufe0f (6:15:57) Pinia\n\n\u2764\ufe0f Try interact",
+        "id": 2745295,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8pn9KEuXG28",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8pn9KEuXG28/hqdefault.jpg",
+        "title": "Vue.js Course for Beginners",
+        "vote": 0
+    }
+]

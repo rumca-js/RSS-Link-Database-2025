@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T21:25:56.932470+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T20:12:09+00:00",
+        "description": "Jake and the GameSpot crew revisit what makes the Witcher 3: Wild Hunt so special a full decade after the landmark game first released.\n\n0:00 - 10 Years Since The Witcher 3 Came Out\n1:25 - How Side Quests Changed In RPGs\n3:51 - Side Quests In Witcher 3 Work Better\n6:00 - \"Carnal Sins\" Side Quest\n8:33 - \"Possession\" Side Quest\n9:10 - DLC \"Hearts Of Stone\"\n\n#TheWitcher #TheWitcher3",
+        "id": 2748851,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Sa0Zf-Nrxew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sa0Zf-Nrxew/hqdefault.jpg",
+        "title": "The Witcher 3 Was Magic (And Still Is)",
+        "vote": 0
+    }
+]

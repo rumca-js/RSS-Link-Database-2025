@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PomplamooseMusic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T21:40:59.856123+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T20:46:28+00:00",
+        "description": "Our French bossa-pop album \u201cPhotog\u00e9nique\u201d comes out JULY 16!!! Also we\u2019re playing shows in PARIS (Nov. 4 & 5) with Larry Goldings. In case you needed an excuse to go to Paris this year\u2026 Tickets here: https://www.pomplamoose.com/paris",
+        "id": 2748978,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nEmnOFTBegI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 259,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSiPjfAJBgbFlIUsxOWpK0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nEmnOFTBegI/hqdefault.jpg",
+        "title": "The announcement you\u2019ve all been waiting for\u2026 \ud83c\uddeb\ud83c\uddf7\u00a0\ud83e\udd42",
+        "vote": 0
+    }
+]

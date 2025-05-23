@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Luke Smith",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T17:52:45.983063+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T17:01:08+00:00",
+        "description": "My presentation at Southeast Linuxfest in 2023. I also presented in 2024, but the talk was never uploaded to SELF's YouTube channel, so I'm assuming the recording didn't make it. Unfortunately, I won't be able to attend this year's Linuxfest (2025), but plan to come in the future.\n\nMy website: https://lukesmith.info\nClassical books reprinted by me: https://lindypress.net\n\nBTC: bc1qd20r7phdct3t0e0z6jqs55ulectg25pngt7hyl\nXMR: 89yML3AtqnTNdo3wNuoaW44D94Zx1kBZNSBc9SyNxGdaKEZwZNdVzvy9zpbzJMzysiWZEU3b5LwjQ3XwWuQsknCF8JK73yv\n\nGet a VPS and host a website or server for anything else:\nhttps://www.vultr.com/?ref=8384069-6G",
+        "id": 2747095,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=slIxE8oYzus",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 205,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/slIxE8oYzus/hqdefault.jpg",
+        "title": "Suckless Software for Everyone: You too can LARP as a good programer! (SELF 2023)",
+        "vote": 0
+    }
+]

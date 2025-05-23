@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Billy Perrigo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T17:46:22.337740+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T13:45:00+00:00",
+        "description": "Anthropic's latest model, Claude Opus 4, launched under new measures intended to prevent the AI from assisting would-be biological terrorists.",
+        "id": 2746995,
+        "language": "en-UK",
+        "link": "https://time.com/7287806/anthropic-claude-4-opus-safety-bio-risk",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Exclusive: New Claude Model Triggers Stricter Safeguards at Anthropic",
+        "vote": 0
+    }
+]

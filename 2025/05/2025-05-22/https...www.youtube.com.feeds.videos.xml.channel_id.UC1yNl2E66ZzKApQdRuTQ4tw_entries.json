@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T15:33:22.032610+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-22T15:00:29+00:00",
+        "description": "Strengthen your quantum physics knowledge with Brilliant! First 30 days are free and 20% off the annual premium subscription when you use our link \u279c  https://brilliant.org/sabine. \n\nEinstein taught us that gravity is not a force. But in a recently published paper, researchers claim that we might have had it wrong this whole time, arguing that gravity is a force after all. They say that when treated correctly as a force, gravity can more easily be made into a quantum theory. I\u2019ve had a look.\n\nPaper: https://iopscience.iop.org/article/10.1088/1361-6633/adc82e\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.spotify.com/show/0MkNfXlKnMPEUMEeKQYmYC\n\ud83d\udd17 Join thi",
+        "id": 2745648,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MA75uYUF5oc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MA75uYUF5oc/hqdefault.jpg",
+        "title": "Gravity might be a force after all",
+        "vote": 0
+    }
+]
