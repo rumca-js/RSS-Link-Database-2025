@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-23T16:37:56.814452+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-23T16:10:00+00:00",
+        "description": "<p>Here\u2019s a bit of an eye-opener from Anthropic\u2019s \u201cSystem Card\u201d for its new Claude 4 Opus and Sonnet models:</p>\n\n<blockquote>\n  <p>We conducted testing continuously throughout finetuning and here\nreport both on the final Claude Opus 4 and on trends we observed\nearlier in training. We found:</p>\n\n<ul>\n<li><p><em>Little evidence of systematic, coherent deception:</em> None of the\nsnapshots we tested showed significant signs of systematic\ndeception or coherent hidden goals. We don\u2019t believe that Claude\nOpus 4 is acting on any goal or plan that we can\u2019t readily\nobserve.</p></li>\n<li><p><em>Little evidence of sandbagging:</em> None of the snapshots we\ntested showed significant signs of <em>sandbagging</em>, or\nstrategically hiding capabilities during evaluation.</p></li>\n<li><p><em>Self-preservation attempts in extreme circumstances:</em> When\nprompted in ways that encourage certain kinds of strategic\nreasoning and placed in extreme situations, all of the snapshots\nwe tested can be made t",
+        "id": 2755628,
+        "language": null,
+        "link": "https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Anthropic\u2019s \u2018System Card\u2019 for Claude 4 (Opus and Sonnet)",
+        "vote": 0
+    }
+]

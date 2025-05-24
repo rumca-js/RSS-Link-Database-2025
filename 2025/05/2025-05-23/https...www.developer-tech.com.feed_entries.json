@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-23T10:39:04.167674+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-23T10:13:44+00:00",
+        "description": "<p>The npm registry is once again in the spotlight, this time battling a malware campaign using malicious packages to map developer networks. Expert threat intelligence analysts over at Socket have flagged a coordinated attack involving at least three publisher accounts. These aren&#8217;t your run-of-the-mill malicious efforts; these actors have managed to distribute 60 different packages,<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/60-malicious-npm-packages-mapping-developer-networks/\" title=\"Read60 malicious npm packages caught mapping developer networks\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/60-malicious-npm-packages-mapping-developer-networks/\">60 malicious npm packages caught mapping developer networks</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2752638,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/60-malicious-npm-packages-mapping-developer-networks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "60 malicious npm packages caught mapping developer networks",
+        "vote": 0
+    }
+]

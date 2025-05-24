@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-23T21:50:56.892383+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-23T21:35:43+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/05/nxos255.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"NixOS 25.05\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/05/nxos255.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/05/nxos255.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/05/nxos255.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>NixOS 25.05 independent distribution is now available for download with Linux 6.12 LTS and 6.14 kernels, GNOME 48, and more. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/nixos-25-05-released-with-linux-6-12-lts-and-6-14-kernels-gnome-48-and-more\">NixOS 25.05 Released with Linux 6.12 LTS and 6.14 Kernels, GNOME 48, and More</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> -",
+        "id": 2758041,
+        "language": "en-US",
+        "link": "https://9to5linux.com/nixos-25-05-released-with-linux-6-12-lts-and-6-14-kernels-gnome-48-and-more",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NixOS 25.05 Released with Linux 6.12 LTS and 6.14 Kernels, GNOME 48, and More",
+        "vote": 0
+    }
+]

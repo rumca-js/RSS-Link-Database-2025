@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-23T04:58:14.098567+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-23T04:24:20+00:00",
+        "description": "<p>Operatorzy GSM, dla poprawienia jako\u015bci rozm\u00f3w, mog\u0105 wykorzysta\u0107 standard VoLTE czy Voice over LTE, pozwalaj\u0105cy na realizacj\u0119 po\u0142\u0105cze\u0144 g\u0142osowych z u\u017cyciem sieci 4G LTE. Zwykle do rozm\u00f3w telefonicznych oraz SMS\u00f3w wykorzystywane by\u0142y starsze (i mniej bezpieczne) standardy jak 2G i 3G, a nowsze technologie zapewnia\u0142y tylko szybsz\u0105 wymian\u0119 danych. VoLTE...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/o2-uk-lata-podatnosc-pozwalajaca-na-geolokalizacje-uzytkownikow-smartfonow-z-technologia-volte/\">O2 UK \u0142ata podatno\u015b\u0107 pozwalaj\u0105c\u0105 na geolokalizacj\u0119 u\u017cytkownik\u00f3w smartfon\u00f3w z technologi\u0105 VoLTE</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2750875,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/o2-uk-lata-podatnosc-pozwalajaca-na-geolokalizacje-uzytkownikow-smartfonow-z-technologia-volte",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "O2 UK \u0142ata podatno\u015b\u0107 pozwalaj\u0105c\u0105 na geolokalizacj\u0119 u\u017cytkownik\u00f3w smartfon\u00f3w z technologi\u0105 VoLTE",
+        "vote": 0
+    }
+]
