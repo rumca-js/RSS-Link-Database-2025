@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T17:02:15.824987+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T16:55:10+00:00",
+        "description": "Zed: code at the speed of thought: https://zed.dev/\n\nI coded with Anthropic's Claude Sonnet 4 and Claude Opus 4, and unlike 3.7 was to 3.5, this is definitely an upgrade.\n\n0:00 claude 4 + benchmarks\n1:47 zed is awesome\n2:53 how i'm testing claude 4\n4:29 sonnet 4 coding a small project (tsx + convex)\n8:35 why vibe coding?\n8:55 first impression of claude 4\n9:08 p5.js kitten cannon clone\n9:46 coding in rust (sonnet 4)\n12:08 claude opus 4 rate limit issue via API\n12:50 coding in rust (sonnet 4 again)\n13:15 coding in rust (opus 4)\n16:16 final thoughts (first impression)\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com\n\nDon't know why you'd want to follow me on other socials. I don't even post. But here you go.\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight\n\ud83d\udc26 Twitter: https://www.twitter.com/forrestpknight\n\ud83d\udcbc LinkedIn: https://www.linkedin.com/in/forrestpknight\n",
+        "id": 2762915,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=lhjGDKqutB0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lhjGDKqutB0/hqdefault.jpg",
+        "title": "Coding with Claude 4 is actually insane",
+        "vote": 0
+    }
+]

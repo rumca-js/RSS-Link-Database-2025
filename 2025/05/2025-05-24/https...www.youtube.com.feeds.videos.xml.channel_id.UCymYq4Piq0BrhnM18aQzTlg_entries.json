@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T23:58:56.644160+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T22:45:00+00:00",
+        "description": "Buy one on Amazon: https://lon.tv/28nxp (compensated affiliate link) - Unifi's Flex 2.5G POE network switch is a more prosumer/small office focused device that has a huge power budget and tight integration with the rest of Unifi's eco system. See more networking: https://www.youtube.com/playlist?list=PLCZHp4d1HnIsjVNQfNZwRHgB0CESn9UVJ and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:13 - Why this switch / how I'll use it\n02:15 - Supporter thank yous\n02:53 - Price & Non POE Option\n03:02 - Powering the Switch with POE\n03:48 - Power budget\n04:47 - Build Quality / Temperature\n05:25 - 10 Gig combo port\n05:58 - Configuration\n06:26 - Network performance test\n08:01 - POE test\n09:19 - Unifi Control Panel\n11:31 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me",
+        "id": 2764629,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9hF_-rv5jyU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9hF_-rv5jyU/hqdefault.jpg",
+        "title": "Unifi Flex 2.5G POE Switch Review : 8x 2.5 Gig Power over Ethernet Ports",
+        "vote": 0
+    }
+]

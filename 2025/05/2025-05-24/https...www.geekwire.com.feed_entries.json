@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Todd Bishop",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T15:19:14.305786+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T14:57:35+00:00",
+        "description": "<img width=\"1260\" height=\"818\" src=\"https://cdn.geekwire.com/wp-content/uploads/2020/05/200530-musk1-1260x818.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Elon Musk in VAB\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.geekwire.com/wp-content/uploads/2020/05/200530-musk1-1260x818.jpeg 1260w, https://cdn.geekwire.com/wp-content/uploads/2020/05/200530-musk1-768x498.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2020/05/200530-musk1-1536x997.jpeg 1536w, https://cdn.geekwire.com/wp-content/uploads/2020/05/200530-musk1-630x409.jpeg 630w, https://cdn.geekwire.com/wp-content/uploads/2020/05/200530-musk1.jpeg 2048w\" sizes=\"(max-width: 1260px) 100vw, 1260px\"><br>This week on the GeekWire Podcast: Satya Nadella\u2019s offhand remark at Microsoft Build, about Elon Musk once interning at Microsoft, sparked a mystery that sent us digging through biographies and transcripts in search of confirmation. The comment came during a pre-recorded conversation between Nadella and M",
+        "id": 2762209,
+        "language": "en-US",
+        "link": "https://www.geekwire.com/2025/did-elon-musk-really-intern-at-microsoft-plus-ai-agents-job-cuts-and-an-economic-warning",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 131,
+        "source_url": "https://www.geekwire.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Did Elon Musk really intern at Microsoft? Plus: AI agents, job cuts, and an economic warning",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T04:02:55.799130+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T04:00:43+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Looking to make <a href=\"https://www.infoworld.com/article/2256390/what-is-kotlin-the-java-alternative-explained.html\">Kotlin</a> a first-class language for AI, JetBrains has introduced <a href=\"https://docs.koog.ai/\">Koog</a>, an open source agentic framework for building AI agents within the <a href=\"https://www.infoworld.com/article/2269370/what-is-the-jvm-introducing-the-java-virtual-machine.html\">Java virtual machine (JVM)</a> ecosystem\u00a0via a Kotlin domain-specific language (DSL).</p>\n\n\n\n<p>Introduced <a href=\"https://blog.jetbrains.com/ai/2025/05/meet-koog-empowering-kotlin-developers-to-build-ai-agents/\">May 22</a> and found on <a href=\"https://github.com/JetBrains/koog/\">GitHub</a>, Kotl",
+        "id": 2759448,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3994312/kotlin-gets-a-new-ai-agent-framework.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kotlin gets a new AI agent framework",
+        "vote": 0
+    }
+]

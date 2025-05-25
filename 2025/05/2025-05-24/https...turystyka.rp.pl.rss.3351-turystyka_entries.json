@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T21:59:24.244609+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T21:59:23+00:00",
+        "description": "Rz\u0105d Wielkiej Brytanii og\u0142osi\u0142 porozumienie w sprawie korzystania z e-bramek przez obywateli tego kraju podr\u00f3\u017cuj\u0105cych do kraj\u00f3w Unii Europejskiej. Okazuje si\u0119 jednak, \u017ce z tradycyjnej odprawy b\u0119d\u0105 musieli korzysta\u0107 jeszcze p\u00f3\u0142 roku.",
+        "id": 2764196,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/nowe-trendy/art42365721-brytyjczycy-maja-porozumienie-z-unia-europejska-ich-podroze-maja-byc-latwiejsze",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Brytyjczycy maj\u0105 porozumienie z Uni\u0105 Europejsk\u0105. Ich podr\u00f3\u017ce maj\u0105 by\u0107 \u0142atwiejsze",
+        "vote": 0
+    }
+]

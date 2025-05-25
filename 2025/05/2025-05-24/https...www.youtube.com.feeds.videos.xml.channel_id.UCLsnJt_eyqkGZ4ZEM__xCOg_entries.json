@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vlog Casha",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T09:15:41.160983+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T08:12:58+00:00",
+        "description": "\ud83d\uddfa\ufe0f Brazylia #06. Kontrasty Brazylii - od \u017cycia na fawelach po loty \u015bmig\u0142owcami nad Rio de Janeiro. Ostatni odcinek z tego kraju jak i z ca\u0142ego wyjazdu.\n\n\u2757 Zosta\u0144 Patronem kana\u0142u!\nhttps://patronite.pl/vlogcasha\n\nInstagram Paw\u0142a: https://www.instagram.com/paul_goes_global/\nNak\u0142adka na Google Maps: https://maps.app.goo.gl/k2mT9L5NRyeTKzRT6?g_st=iwb\n\n\u25b8 Instagram: https://www.instagram.com/vlogcasha\n\u25b8 Facebook: https://www.facebook.com/vlogcasha/\n\n#Podr\u00f3\u017ceCasha #Brazylia",
+        "id": 2760497,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RQMkBV5JM78",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 382,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLsnJt_eyqkGZ4ZEM__xCOg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RQMkBV5JM78/hqdefault.jpg",
+        "title": "Kontrasty Brazylii - \u017cycie na fawelach w Rio de Janeiro",
+        "vote": 0
+    }
+]

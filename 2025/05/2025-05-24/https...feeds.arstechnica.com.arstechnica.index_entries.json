@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jonathan M. Gitlin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T17:41:00.090429+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T15:30:19+00:00",
+        "description": "Andretti Global's Kyle Kirkwood and Marcus Ericsson talk to us about the Indy 500.",
+        "id": 2763021,
+        "language": "en-US",
+        "link": "https://arstechnica.com/features/2025/05/how-to-try-to-win-the-indianapolis-500",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2214687733-500x500-1748012200.jpg",
+        "title": "200 mph for 500 miles: How IndyCar drivers prepare for the big race",
+        "vote": 0
+    }
+]

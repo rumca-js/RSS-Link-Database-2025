@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T20:42:53.822191+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T20:16:44+00:00",
+        "description": "<p>The New York Times ran a really dumb Tripp Mickle piece yesterday under the headline \u201c<a href=\"https://www.nytimes.com/2025/05/23/technology/apple-iphone-trump-india-china.html\">Is Trump\u2019s \u2018Made in America\u2019 iPhone a Fantasy?</a>\u201d The answer should have simply been \u201c<em>Yes, it\u2019s sheer fantasy</em>\u201d, perhaps with explanations why. Instead, Mickle twists the piece into pretzels to make it seem like the answer is <em>maybe</em>, even though there\u2019s not a single fact to back that up. Not one. The only thing that backs up any answer other than \u201c<em>It\u2019s a fantasy, can\u2019t happen, makes no sense</em>\u201d are comments from analysts\u2009\u2014\u2009named and unnamed\u2009\u2014\u2009and the bizarre old-school news media practice of treating as fact any nonsense and/or bullshit that comes out of the lips of anyone with the world \u201canalyst\u201d on their business card.</p>\n\n<blockquote>\n  <p><em>Could Apple make iPhones in the United States?</em></p>\n\n<p>Yes. Apple could make iPhones in the United States. But doing so\nwould be exp",
+        "id": 2763873,
+        "language": null,
+        "link": "https://daringfireball.net/2025/05/idiocy_or_jackassery_you_make_the_call_made_in_america_iphone",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Idiocy or Jackassery, You Make the Call: Tripp Mickle on Whether Trump\u2019s \u2018Made in America\u2019 iPhone Is a Fantasy",
+        "vote": 0
+    }
+]

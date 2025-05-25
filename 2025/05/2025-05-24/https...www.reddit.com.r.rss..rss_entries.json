@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/marcialg2024",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-24T18:05:02.528818+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-24T17:53:06+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>New to the sub, happy Inoreader free user (I was a happy Feedly user, but Inoreader gives me more for free).</p> <p>A doubt about Inoreader, though: What&#39;s the difference between a tagged article and an archived one?</p> <p>afaik, tagged articles are, somehow, archived. I can access them whenever I want.</p> <p>Any insight?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marcialg2024\"> /u/marcialg2024 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1kuhl1s/inoreader_tagged_vs_archived/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1kuhl1s/inoreader_tagged_vs_archived/\">[comments]</a></span>",
+        "id": 2763223,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1kuhl1s/inoreader_tagged_vs_archived",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Inoreader: tagged vs. archived",
+        "vote": 0
+    }
+]
