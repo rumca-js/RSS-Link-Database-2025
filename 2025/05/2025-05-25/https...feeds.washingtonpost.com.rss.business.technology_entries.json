@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tatum Hunter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T13:58:47.524039+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T13:00:00+00:00",
+        "description": "An online trend has people asking ChatGPT how they could be more attractive. It\u2019s not pulling punches.",
+        "id": 2767507,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/05/25/chatgpt-ai-beauty-advice",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Am I hot or not? People are asking ChatGPT for the harsh truth.",
+        "vote": 0
+    }
+]

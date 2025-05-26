@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T11:56:11.876830+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T11:32:59+00:00",
+        "description": "Claims of sponsored militant attacks are intensifying, even as a fragile ceasefire holds.",
+        "id": 2766895,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cx27nx0j1kjo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca9/live/3a7a96f0-3943-11f0-9cbf-0f8de7be0cc5.jpg",
+        "title": "School bus attack caught in tensions between Pakistan and India",
+        "vote": 0
+    }
+]

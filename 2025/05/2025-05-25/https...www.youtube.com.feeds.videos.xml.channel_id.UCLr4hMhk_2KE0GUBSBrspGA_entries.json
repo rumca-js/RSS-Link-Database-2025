@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T19:13:38.658049+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T18:00:05+00:00",
+        "description": "Film zawiera fragment sponsorowany Vinted - nasz profil z elektronik\u0105 znajdziesz tutaj - https://vinted.shop/25-jeszczedobre \n\nDzi\u015b nietypowo.\nZamiast news\u00f3w i przegl\u0105du nowinek, w tym odcinku skupiam si\u0119 na jednej rzeczy: jak zacz\u0105\u0107 korzysta\u0107 z AI, je\u015bli do tej pory Ci\u0119 to omija\u0142o.\nBo wielu ludzi w Polsce \u2014 mimo szumu wok\u00f3\u0142 AI \u2014 wci\u0105\u017c nie wie, jak si\u0119 za to zabra\u0107. Albo si\u0119 boi, albo my\u015bli, \u017ce to nie dla nich.\n\nTen film nie jest kursem. Nie ucz\u0119 promptowania, nie b\u0119d\u0119 pokazywa\u0142 wykres\u00f3w. Po prostu t\u0142umacz\u0119 po ludzku:\n- co to jest,\n- do czego si\u0119 mo\u017ce przyda\u0107,\n- jak zacz\u0105\u0107 w minut\u0119.\n\nJe\u015bli ten temat dla Ciebie za prosty \u2014 mo\u017cesz przes\u0142a\u0107 ten film komu\u015b, kto potrzebuje takiego wprowadzenia.\nA je\u015bli jeste\u015b tu co niedziel\u0119 to nadal Tech Week. Tylko inny. I d\u0142uuuuuuugi.\n\n00:00 Wst\u0119p\n00:46 Dobry wiecz\u00f3r!\n00:51 ChatGPT i inne modele j\u0119zykowe\n01:15 W czym pomo\u017ce ChatGPT?\n09:52 Jak zadawa\u0107 w\u0142a\u015bciwe pytania?\n12:04 REKLAMA \u2013 Vinted\n13:13 Czy AI jest w stanie zast\u0105pi\u0107 kursy?\n15:40 Czy modele j\u0119z",
+        "id": 2769420,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TVHYl-MVugQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TVHYl-MVugQ/hqdefault.jpg",
+        "title": "AI od zera. Jak zacz\u0105\u0107, nie trac\u0105c czasu i nerw\u00f3w?",
+        "vote": 0
+    }
+]

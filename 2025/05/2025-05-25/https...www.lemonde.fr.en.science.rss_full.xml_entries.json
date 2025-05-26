@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T01:39:19.171645+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T01:39:18+00:00",
+        "description": "Females of this species are capable of using information that includes the three elements of the 'what happened, where, and when' paradigm to plan parental care, reveals a study conducted by a team from the University of Exeter in England who filmed them in their natural habitat.",
+        "id": 2764972,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/05/25/the-digger-wasp-tackles-complex-questions-to-feed-its-offspring_6741628_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/05/15/1655/0/5504/2752/644/322/60/0/2f6c0fd_sirius-fs-upload-1-d9fauawukttp-1747310800681-ammophila-pubescens-kulna.jpg",
+        "title": "The digger wasp tackles complex questions to feed its offspring",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T19:12:44.674799+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T18:08:28+00:00",
+        "description": "It\u2019s a topic that isn\u2019t discussed as often as it should be.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1",
+        "id": 2769417,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hCByTZ_h3Tc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hCByTZ_h3Tc/hqdefault.jpg",
+        "title": "What The HELL is Going On With Video Game Prices?",
+        "vote": 0
+    }
+]

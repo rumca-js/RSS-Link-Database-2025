@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Arick Wierson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T13:18:42.347589+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T12:30:52+00:00",
+        "description": "Observer spoke with dozens of retail CEOs and founders, consumer experts and supply chain strategists about how they are navigating tariffs.",
+        "id": 2767305,
+        "language": "en",
+        "link": "https://observer.com/2025/05/trump-tariff-retailer-impact",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How American Retailers Are Navigating Trump\u2019s Volatile Trade Policy",
+        "vote": 0
+    }
+]

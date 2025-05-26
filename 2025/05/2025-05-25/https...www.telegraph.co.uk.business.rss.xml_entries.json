@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eir Nolsoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T23:44:29.458000+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T23:25:14+00:00",
+        "description": "US president extends EU\u2019s deadline to agree a trade deal to 9 July as initially planned under the 90-day tariff pause",
+        "id": 2770581,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/05/26/trump-delays-plans-to-hit-eu-50pc-tariffs",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump delays plans to hit EU with 50pc tariffs",
+        "vote": 0
+    }
+]

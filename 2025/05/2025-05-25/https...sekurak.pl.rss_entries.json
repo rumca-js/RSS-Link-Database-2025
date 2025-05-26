@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T22:31:31.848868+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T21:34:10+00:00",
+        "description": "<p>W ostatnich tygodniach badacze bezpiecze\u0144stwa zaobserwowali nietypow\u0105, skuteczn\u0105 kampani\u0119 malware, w kt\u00f3rej cyberprzest\u0119pcy wykorzystuj\u0105 popularno\u015b\u0107 TikToka do dystrybucji z\u0142o\u015bliwego oprogramowania typu infostealer (m.in. Vidar, StealC, Latrodectus). Atak opiera si\u0119 na tzw. technice ClickFix, polegaj\u0105cej na nak\u0142anianiu u\u017cytkownik\u00f3w do samodzielnego uruchamiania z\u0142o\u015bliwych polece\u0144 PowerShell. Poni\u017cej przedstawiamy szczeg\u00f3\u0142ow\u0105 analiz\u0119 tej kampanii oraz...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/infostealery-rozprzestrzeniaja-sie-przez-tiktok-i-technike-clickfix-szczegoly-techniczne-kampanii/\">Infostealery rozprzestrzeniaj\u0105 si\u0119 przez TikTok i technik\u0119 ClickFix \u2013 szczeg\u00f3\u0142y techniczne kampanii</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2770272,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/infostealery-rozprzestrzeniaja-sie-przez-tiktok-i-technike-clickfix-szczegoly-techniczne-kampanii",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Infostealery rozprzestrzeniaj\u0105 si\u0119 przez TikTok i technik\u0119 ClickFix \u2013 szczeg\u00f3\u0142y techniczne kampanii",
+        "vote": 0
+    }
+]

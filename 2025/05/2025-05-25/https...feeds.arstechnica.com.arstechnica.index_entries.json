@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lela Nargi, Knowable Magazine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T13:26:11.302032+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T11:05:54+00:00",
+        "description": "Bird-friendly agriculture can assist in helping waterbirds with rest stops along their seasonal migration routes.",
+        "id": 2767350,
+        "language": "en-US",
+        "link": "https://arstechnica.com/science/2025/05/how-farmers-can-help-rescue-water-loving-birds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1772638975-500x500.jpg",
+        "title": "How farmers can help rescue water-loving birds",
+        "vote": 0
+    }
+]

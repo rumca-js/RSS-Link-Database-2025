@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T16:26:12.482404+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T16:26:11+00:00",
+        "description": "Przepowiednia ostrzegaj\u0105ca przed katastrof\u0105, kt\u00f3ra - jak twierdzi autorka japo\u0144skiego komiksu - wydarzy si\u0119 w Japonii w lipcu tego roku, spowodowa\u0142a spadek liczby rezerwacji wycieczek z Chin i Hongkongu w miesi\u0105cach letnich.",
+        "id": 2768417,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art42367711-turysci-boja-sie-podrozowac-do-japonii-powodem-przepowiednia-z-komiksu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tury\u015bci boj\u0105 si\u0119 podr\u00f3\u017cowa\u0107 do Japonii. Powodem przepowiednia z komiksu",
+        "vote": 0
+    }
+]

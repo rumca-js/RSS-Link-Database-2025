@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PlayStation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T20:12:45.170797+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T19:00:46+00:00",
+        "description": "This psychological horror game explores the disturbing effects of social media on mental health\u2014focusing on cyberbullying, identity loss, and emotional isolation in a connected world.\n\n#ps5 #ps5games",
+        "id": 2769718,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pu84KA_LDWo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 576,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pu84KA_LDWo/hqdefault.jpg",
+        "title": "BrokenLore: Unfollow - Announcement Trailer | PS5 Games",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T09:05:03.953144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T09:03:00+00:00",
+        "description": "The reason that most memos, speeches and edicts fall flat is simple: we get stuck on the idea that we&#8217;re talking to a crowd. When we&#8217;re speaking or writing, the crowd is just an illusion. What&#8217;s actually happening is that there is one person over there, another over there, repeated again and again until it&#8217;s [&#8230;]",
+        "id": 2766173,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/the-11-method",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The 1:1 method",
+        "vote": 0
+    }
+]

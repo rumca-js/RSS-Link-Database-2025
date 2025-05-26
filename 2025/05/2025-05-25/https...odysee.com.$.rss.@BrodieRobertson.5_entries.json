@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T22:34:55.781362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T21:01:02+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/yW3mRpkgpW4\" width=\"480\" alt=\"thumbnail\" title=\"Steam Deck Compatibility Got A Whole Lot More Useful\" /></p>Valve has provided Steam Deck compatibility ratings for quite a while now but this has just been expanded out to SteamOS in general, but it would be amazing to see what ProtonDB does brought in as well.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />SteamOS Compatibility: https://store.steampowered.com/news/group/4145017/view/532097310616717410<br />ProtonDB: https://www.protondb.com/<br />DeckyLoader: https://github.com/SteamDeckHomebrew/decky-loader<br />Steam Deck Compatibility: https://partner.steamgames.com/doc/steamdeck/compat<br /><br />=========Video Platforms==========<",
+        "id": 2770278,
+        "language": "en",
+        "link": "https://odysee.com/steam-deck-compatibility-got-a-whole-lot:1985640471dd276f9eed964c6e7018e87ad46437",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Steam Deck Compatibility Got A Whole Lot More Useful",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew Schrank",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T18:13:33.628515+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T18:00:55+00:00",
+        "description": "<p><p><a href=\"https://spikeybits.com/wp-content/uploads/2025/05/new-releases-pre-orders-games-workshop-week-of-may-25-2025-product-image-of-spearheads-for-aos-and-generals-handbook-with-new-text.png\"><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-483642\" src=\"https://spikeybits.com/wp-content/uploads/2025/05/new-releases-pre-orders-games-workshop-week-of-may-25-2025-product-image-of-spearheads-for-aos-and-generals-handbook-with-new-text.png\" alt=\"new releases pre-orders games workshop week of may 25 2025 product image of spearheads for aos and generals handbook with new text\" width=\"1200\" height=\"1200\"></a></p>\n<p>GW revealed their latest Warhammer new releases featuring Age</p>\n<a href=\"https://spikeybits.com/pre-order/new-aos-spearhead-old-world-beastmen-pre-orders/\">Read More</a>",
+        "id": 2769185,
+        "language": "en-US",
+        "link": "https://spikeybits.com/pre-order/new-aos-spearhead-old-world-beastmen-pre-orders",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 311,
+        "source_url": "https://spikeybits.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GW Reveals New AoS Spearhead & Old World Beastmen Pre-Orders",
+        "vote": 0
+    }
+]

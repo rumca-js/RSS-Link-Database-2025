@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/kekePower",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T16:56:38.264973+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T16:08:02+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>After many late nights and a lot of caffeine, I\u2019m proud to share something I\u2019ve been quietly building for a while: <a href=\"https://github.com/kekePower/cognito-ai-search\"><strong>Cognito AI Search</strong></a>, a self-hosted, local-first tool that combines <strong>private AI chat</strong> (via Ollama) with <strong>anonymous web search</strong> (via SearXNG) in one clean interface.</p> <p>I wanted something that would let me:</p> <ul> <li>Ask questions to a fast, local LLM without my data ever leaving my machine</li> <li>Search the web anonymously without all the bloat, tracking, or noise</li> <li>Use a single, simple UI, not two disconnected tabs or systems</li> </ul> <p>So I built it.<br/> No ads, no logging, no cloud dependencies, just pure function. The blog post dives a little deeper into the thinking behind it and shows a screenshot:<br/> \ud83d\udc49 <a href=\"https://blog.kekepower.com/blog/2025/may/25/cognito_ai_search_110_-_where_pr",
+        "id": 2768666,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1kv65s7/localfirst_ai_searxng_in_one_place_reclaim_your",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Local-first AI + SearXNG in one place - reclaim your autonomy (Cognito AI Search v1.1.0)",
+        "vote": 0
+    }
+]

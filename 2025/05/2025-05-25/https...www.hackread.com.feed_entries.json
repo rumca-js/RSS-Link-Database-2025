@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T21:10:18.231399+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T20:18:21+00:00",
+        "description": "FBI warns law firms: Silent Ransom Group uses phishing emails and fake IT calls to steal data, demanding ransom to prevent public leaks. The agency is also urges victims to share ransom evidence.",
+        "id": 2769899,
+        "language": "en-US",
+        "link": "https://hackread.com/fbi-silent-ransom-group-law-firms-via-scam-calls",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FBI Warns of Silent Ransom Group Targeting Law Firms via Scam Calls",
+        "vote": 0
+    }
+]

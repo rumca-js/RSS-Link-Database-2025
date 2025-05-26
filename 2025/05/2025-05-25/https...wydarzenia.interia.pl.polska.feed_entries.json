@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T15:37:02.618082+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T15:29:03+00:00",
+        "description": null,
+        "id": 2768110,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/wybory/prezydenckie/news-prezydent-elekt-na-marszu-w-warszawie-wygralem-w-zeszla-nied,nId,21821641",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prezydent elekt na marszu w Warszawie. \"Wygra\u0142em w zesz\u0142\u0105 niedziel\u0119\"",
+        "vote": 0
+    }
+]

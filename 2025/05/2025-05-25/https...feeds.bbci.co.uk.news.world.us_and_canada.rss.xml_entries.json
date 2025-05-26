@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T18:58:55.405513+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T18:34:52+00:00",
+        "description": "Officials say a 28-year-old with US citizenship had Molotov cocktails in his backpack and called for \"death to America\".",
+        "id": 2769279,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c780n71rr24o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ef/live/e053cbe0-398f-11f0-9622-11e0d330cba3.jpg",
+        "title": "US arrests man for allegedly trying to  firebomb embassy in Israel",
+        "vote": 0
+    }
+]

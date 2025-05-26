@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T20:04:57.083196+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T18:42:46+00:00",
+        "description": "<p>Przed skutkami ransomware maj\u0105 nas chroni\u0107 kopie zapasowe, ale te nie zawsze s\u0105 aktualne i bywaj\u0105&#8230; celem atak\u00f3w ransomware. Najlepiej by\u0142oby zrobi\u0107 bezpieczne kopie na chwil\u0119 przed atakiem i c\u00f3\u017c&#8230; w pewnym sensie jest to mo\u017cliwe.</p>\n<p><span id=\"more-26399\"></span></p>\n<p>W Polsce niebawem przyb\u0119dzie firm, kt\u00f3re wejd\u0105 do tzw. krajowego systemu cyberbezpiecze\u0144stwa. Stanie si\u0119 tak za spraw\u0105 <a href=\"https://niebezpiecznik.pl/post/scieki-wejda-do-systemu-cyberbezpieczenstwa-i-nie-tylko-one/\">nowelizacji Ustawy o Krajowym Systemie Cyberbezpiecze\u0144stwa</a>, kt\u00f3ra zaimplementuje unijn\u0105 dyrektyw\u0119 NIS2. Te akty prawne sprawi\u0105, \u017ce dla wielu firm <strong>analiza ryzyka</strong> i proaktywne podej\u015bcie do bezpiecze\u0144stwa nie b\u0119d\u0105 ju\u017c tylko opcj\u0105. B\u0119d\u0105 obowi\u0105zkowe, a ich zaniedbanie b\u0119dzie wi\u0105za\u0107 si\u0119 z karami. Jednak nawet dla mniejszych podmiot\u00f3w, kt\u00f3re pozostan\u0105 poza tym systemem, cyberbezpiecze\u0144stwo b\u0119dzie niezwykle istotne. Cho\u0107by dlatego, \u017ce w przypadku tych mniejszych podmiot\u00f3w ",
+        "id": 2769644,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/backupy-trzeba-robic-dobrze-bo-inaczej-bedzie-zle",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Backupy trzeba robi\u0107 dobrze. Bo inaczej b\u0119dzie \u017ale.",
+        "vote": 0
+    }
+]

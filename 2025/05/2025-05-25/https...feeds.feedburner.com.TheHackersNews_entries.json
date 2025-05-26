@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T08:57:51.374550+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T08:57:50+00:00",
+        "description": "Cybersecurity researchers have disclosed a malware campaign that uses fake software installers masquerading as popular tools like LetsVPN and QQ Browser to deliver the Winos 4.0 framework.\nThe campaign, first detected by Rapid7 in February 2025, involves the use of a multi-stage, memory-resident loader called Catena.\n\"Catena uses embedded shellcode and configuration switching logic to stage",
+        "id": 2766140,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware",
+        "vote": 0
+    }
+]

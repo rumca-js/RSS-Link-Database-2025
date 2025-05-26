@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brian X. Chen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T09:59:00.143559+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T09:01:01+00:00",
+        "description": "Resort fees, cleaning fees, service fees: Those charges now must be disclosed upfront. But the fight against \u201cjunk fees\u201d is far from over.",
+        "id": 2766378,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/05/25/technology/personaltech/hotel-ticket-fees-changes.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/05/26/business/00techfix/00techfix-mediumSquareAt3X.jpg",
+        "title": "Hotel and Ticket Sites Now Show the Full Price, but Hidden Fees Still Lurk",
+        "vote": 0
+    }
+]

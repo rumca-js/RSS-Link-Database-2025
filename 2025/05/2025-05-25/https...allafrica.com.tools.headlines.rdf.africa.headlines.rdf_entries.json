@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-25T16:36:12.028574+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-25T15:56:37+00:00",
+        "description": "[Daily Maverick] US President Donald Trump dramatically ambushed President Cyril Ramaphosa with a multimedia presentation in the Oval Office encompassing Julius Malema, the MK party and farm murders. But how much of it was real?",
+        "id": 2768488,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202505250145.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Trump's Oval Office Drama - Unpacking the Misleading Claims About South Africa's 'White Genocide'",
+        "vote": 0
+    }
+]
