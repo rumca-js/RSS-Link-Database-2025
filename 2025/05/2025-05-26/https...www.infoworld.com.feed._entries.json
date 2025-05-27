@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T09:10:04.896876+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T09:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Developers are increasingly turning to <a href=\"https://www.infoworld.com/article/2335213/large-language-models-the-foundations-of-generative-ai.html\">large language models</a> (LLMs) to crank out code at astonishing volumes. As much as <a href=\"https://www.elitebrains.com/blog/aI-generated-code-statistics-2025\">41% of all code is now written by machines</a>, totaling 256 billion lines in 2024 alone. Even Google, which employs some of the best and brightest developers in the industry, now relies on AI to write upwards of 25% of its code. If this sounds like the promised land of software development\u2014more code, faster, while developers sip Mai Tais on the beach\u2014the truth is not so rosy. After all,",
+        "id": 2772620,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3994519/the-tough-task-of-making-ai-code-production-ready.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The tough task of making AI code production-ready",
+        "vote": 0
+    }
+]

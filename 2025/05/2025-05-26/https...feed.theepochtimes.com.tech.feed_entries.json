@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Naveen Athrappully",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T15:09:20.306627+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T14:41:58+00:00",
+        "description": "The company announced a $5 million bounty on the culprit and asked the hacker to cooperate to prevent further legal action.",
+        "id": 2774972,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/hacker-steals-223-million-from-crypto-platform-cetus-5863560",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/05/06/id5853408-Bybit-AP25053001683893KO-1080x720.jpg",
+        "title": "Hacker Steals $223 Million From Crypto Platform Cetus",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Timothy Linward",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T10:54:27.293701+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T10:00:47+00:00",
+        "description": "<p>A lot of <strong>Warhammer 40k</strong> armies have earnt affectionate nicknames from the fandom: Custards for the Custodes, Nuns with Guns for the Sisters of Battle, impolite references to Toasters for the Adeptus Mechanicus. One popular nickname for the T\u2019au Empire is \u2018fish people\u2019 - but where did it come from?</p>\n \t\t\t\t<div>\n\t\t\t\tContinue reading <a href=\"https://www.wargamer.com/warhammer-40k/fish-men-tau\">Why do Warhammer 40k fans call the T&#039;au Empire &#039;fish people&#039;?</a>\n\t\t\t\t</div>\n\t\t\t\tMORE FROM WARGAMER: <a href=\"https://www.wargamer.com/warhammer-40k/starter-set\">Best Warhammer 40k starter sets</a>, <a href=\"https://www.wargamer.com/warhammer-40k/games\">Best Warhammer 40k games</a>, <a href=\"https://www.wargamer.com/warhammer-40k/factions\">All Warhammer 40k factions</a>",
+        "id": 2773123,
+        "language": "en-US",
+        "link": "https://www.wargamer.com/warhammer-40k/fish-men-tau",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 384,
+        "source_url": "https://www.wargamer.com/mainrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.wargamer.com/wp-content/sites/wargamer/2025/05/warhammer-40k-tau-empire-fishmen.jpg",
+        "title": "Why do Warhammer 40k fans call the T'au Empire 'fish people'?",
+        "vote": 0
+    }
+]

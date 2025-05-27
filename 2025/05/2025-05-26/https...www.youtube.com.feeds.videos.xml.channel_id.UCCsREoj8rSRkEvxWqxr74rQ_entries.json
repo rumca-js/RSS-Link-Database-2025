@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cybernews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T16:55:19.186513+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T14:31:01+00:00",
+        "description": "In this video, we're bringing you the biggest cybersecurity stories of the week.\n\ud83d\udcf0 For more insightful stories, check out https://cybernews.com\n\n\u2705 Start growing your brand today \u27a1\ufe0f https://cnews.link/get-wix/hR8mShVFMlg/\n\n\ud83d\udc8c Stay up-to-date on the latest cybersecurity trends and news by subscribing to our Cybernews newsletter: https://cnews.link/newsletter/\n\n\ud83c\udf10 Looking for even more cybersecurity insights and resources? Visit our website for exclusive content, expert advice, and more: https://cnews.link/website/\n\n\ud83d\udcac Stay connected with us on social media for the latest news, insights, and discussions around cybersecurity: https://linktr.ee/Cybernews\n\n//TIMESTAMPS//\n0:00 - Intro\n0:28 - Russia wants to monitor you\n1:55 - Marks & Spencer update\n3:03 - French govt institutions\u2019 emails leaked\n4:06 - Malware gets pwned update\n5:24 - Vietnam wants Telegram gone\n6:42 - 23andMe update\n7:09 - TeleMessage update\n\nSources: \nhttps://www.bleepingcomputer.com/news/government/russia-to-enforce-location-",
+        "id": 2775711,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hR8mShVFMlg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 433,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsREoj8rSRkEvxWqxr74rQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hR8mShVFMlg/hqdefault.jpg",
+        "title": "Russia's Tracking App, Vietnam Vs Telegram & French Government Leak | Weekly News",
+        "vote": 0
+    }
+]

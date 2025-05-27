@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T17:17:14.642459+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T17:01:18+00:00",
+        "description": "This video was inspired by the episode from Wild Hope: Mission Impossible. Watch that episode now, and many more from Wild Hope, right here on YouTube \u2013 or follow @wildhopetv on Instagram to discover countless more stories of changemakers working to restore biodiversity around the globe. Change is closer than you think.\n\nPlant-based meat alternatives have come a long way, but scientists continue to look for sources of protein that will improve on them. Here are five of the most promising plants being researched. \n\nHosted by: Stefan Chin (he/him)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay B",
+        "id": 2775941,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=wWwcAMydo-g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wWwcAMydo-g/hqdefault.jpg",
+        "title": "The Meatless Meats of the Future",
+        "vote": 0
+    }
+]

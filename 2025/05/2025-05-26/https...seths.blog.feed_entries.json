@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T09:11:43.108857+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T09:03:00+00:00",
+        "description": "Data becomes information when at least one of two related things are true: If you&#8217;re not getting one of these things, then the data is simply noise. A distraction that wastes our time and confuses us. Breaking news is up to the recipient.",
+        "id": 2772633,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/worthless-noise-isnt-information",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Worthless noise isn\u2019t information",
+        "vote": 0
+    }
+]

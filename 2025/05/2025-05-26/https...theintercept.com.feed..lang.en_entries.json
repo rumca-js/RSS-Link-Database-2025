@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jonah Valdez",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T16:12:14.607431+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T15:52:54+00:00",
+        "description": "<p>Amid Israel's blockade on Gaza, death can come from the lack of food -- or from trying to find food.</p>\n<p>The post <a href=\"https://theintercept.com/2025/05/26/gaza-famine-aid-israel-palestine-ghf/\">In Gaza, Famine is the Weapon &#8212; and so is Aid</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2775455,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/05/26/gaza-famine-aid-israel-palestine-ghf",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/05/8852586-e1747939447273.jpg-e1748012936581.webp",
+        "title": "In Gaza, Famine is the Weapon -- and so is Aid",
+        "vote": 0
+    }
+]

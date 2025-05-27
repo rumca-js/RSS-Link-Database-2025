@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T22:47:20.598229+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T15:01:52+00:00",
+        "description": "Flowers grow stems, leaves and petals in a perfect pattern again and again. A new study shows that even in this precise, patterned formation in plants, gene activity inside individual cells is far more chaotic than it appears.",
+        "id": 2777593,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/05/250526150152.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Flowers unfold with surprising precision, despite unruly genes",
+        "vote": 0
+    }
+]

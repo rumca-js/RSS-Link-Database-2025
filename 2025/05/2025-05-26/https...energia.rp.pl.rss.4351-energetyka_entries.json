@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T15:06:01.003918+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T15:06:00+00:00",
+        "description": "W miar\u0119 jak ubywa ch\u0119tnych na rosyjski gaz, ro\u015bnie zni\u017cka, kt\u00f3r\u0105 Gazprom kusi klient\u00f3w. Serbia to jeden z ostatnich bastion\u00f3w Rosjan. I dostanie nagrod\u0119 za wierno\u015b\u0107 rosyjskiemu surowcowi.",
+        "id": 2774948,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/gaz/art42372911-sowita-znizka-gazpromu-dla-serbii-to-nagroda-za-wiernosc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sowita zni\u017cka Gazpromu dla Serbii. To nagroda za wierno\u015b\u0107",
+        "vote": 0
+    }
+]

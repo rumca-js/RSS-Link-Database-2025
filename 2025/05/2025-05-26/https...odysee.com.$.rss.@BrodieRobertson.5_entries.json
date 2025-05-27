@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-26T22:34:23.384955+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-26T21:00:43+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/iGQL7JjToj4\" width=\"480\" alt=\"thumbnail\" title=\"Is Linux Finally Killing 35 Year Old x86 CPUs\" /></p>Back in 2012 support for i386 CPUs were dropped and back a few years ago there was talk to drop i486 support but that didn't end up going through so now there's another shot at making this happen.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />2022 Article: https://www.tomshardware.com/news/linux-removes-486-cpu-support<br />Prior Video: https://www.youtube.com/watch?v=M4EPXwUV3aQ<br />LKML Post 2022: https://lore.kernel.org/lkml/CAHk-=wikUaRM5H_y1Bc+QyvGi40dKDL8fnCTyz7ECbwK7aHNPQ@mail.gmail.com/<br />LML 2025 Post: https://lore.kernel.org/lkml/20250425084216.3913608-1-mingo@kernel.org",
+        "id": 2777510,
+        "language": "en",
+        "link": "https://odysee.com/is-linux-finally-killing-35-year-old-x86:08d31d68af146d7732f728b40f7da36e4358ca48",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Is Linux Finally Killing 35 Year Old x86 CPUs",
+        "vote": 0
+    }
+]
