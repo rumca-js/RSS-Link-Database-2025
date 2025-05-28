@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Be Smart",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:46:17.932523+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T14:41:09+00:00",
+        "description": "Go to https://mondly.app/besmart to get 96% off lifetime access to 41 languages and start learning today.\n\u2193\u2193\u2193 More info and sources below \u2193\u2193\u2193\n\nThe James Webb Telescope just took a photo of a newly discovered exoplanet. Exciting stuff but the raw image just looks like a small, faint dot\u2014not a fully detailed world. The question is, just how big would a telescope need to be to actually see an alien world in detail? Let\u2019s explore diffraction, resolution, wild telescope tech, and one mind-blowing idea that could change everything.\n\nReferences: \n\n-----------\n\nHigh fives to all our Brain Trust Patrons:\n\nMarcus Pingel\nOlivia Ruiz\nMike and Patty Loftis\nEd Eyden\nJennifer Burton\nHolly, Brett, and Ashe Bullion\nJaap Westera\nBarbora Bei\ndani bowman\nDavid Johnston\nBaerbel Winkler\nEric Meer\nKaren Haskell\n\n\nSUBSCRIBE so you don\u2019t miss a video! \u25ba\u25ba http://bit.ly/iotbs_sub \n\nJoin us on Patreon! \nhttps://patreon.com/itsokaytobesmart\n\nInstagram \nhttp://www.instagram.com/DrJoeHanson \nhttp://www.instagram.co",
+        "id": 2780919,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9tI7V4hYHaI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 33,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9tI7V4hYHaI/hqdefault.jpg",
+        "title": "What could we see with a planet-sized telescope?",
+        "vote": 0
+    }
+]

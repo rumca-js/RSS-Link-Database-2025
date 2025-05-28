@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/IndependentWay7964",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:40:05.218543+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T17:19:49+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I have always slow download speeds with <a href=\"http://newsgroup.ninja\">newsgroup.ninja</a> at the evening (~6 MB/s), whereas during the day, the download speed is around ~30 MB/s. No issues with direct downloads (~55 MB/s) and with another Usenet provider (Frugal, ~30 MB/s). Is there someone who is facing a similar issue? I like <a href=\"http://newsgroup.ninja\">newsgroup.ninja</a> due to high retention days (6129, comparing to Frugal, which has only 3000+ days, and I am experiencing failed downloads, which with <a href=\"http://newsgroup.ninja\">newsgroup.ninja</a> no issues).</p> <p>I already changed DNS server on my network adapter, issue remains</p> <p>The issue with slow download speed is only with <a href=\"http://newsgroup.ninja\">newsgroup.ninja</a>, so it has nothing do with possible high congestion on my ISP or network settings on my computer.</p> <p>So my question is: Is there someone who is facing a similar issue and maybe could solve it?</p>",
+        "id": 2780515,
+        "language": null,
+        "link": "https://www.reddit.com/r/usenet/comments/1kwt1pr/slow_download_speeds_with_newsgroupninja_at_the",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "slow download speeds with newsgroup.ninja at the evening",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:34:28.470276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T09:00:47+00:00",
+        "description": "Felix Contreras | May 27, 2025\nBased on real-life events and people, Buena Vista Social Club features many characters and lots of great Cuban music. It takes such skill to reflect music of a bygone era, even more to sound fresh and vibrant night after night for months at a time. Scaled down for the Tiny Desk, the show is no less magical.\n\nBefore it was a Broadway musical racking up Tony Award nominations, the Buena Vista Social Club was a second chance. After the Cuban Revolution, many of the country's beloved musicians were lost to time, but in 1996, an ensemble was formed to reclaim their spotlight. To tell their story, the musical goes back and forth between the 1940s and the recording sessions that produced a masterpiece.\n\nAfter the band warms up the Tiny Desk crowd with \"El Cuarto de Tula,\" we meet young versions of the central characters: Compay Segundo (Da'Von Moody), Ibrahim Ferrer (Wesley Wray) and Omara Portuondo (Isa Antonetti) \u2014 their harmonies shine together on \"La Negra ",
+        "id": 2780069,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=X1bx9_TL20A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X1bx9_TL20A/hqdefault.jpg",
+        "title": "The Cast of Buena Vista Social Club: Tiny Desk Concert",
+        "vote": 0
+    }
+]

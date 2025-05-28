@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:59:45.211982+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T15:01:11+00:00",
+        "description": "To learn more about artificial intelligence, check out Brilliant! First 30 days are free and 20% off the annual premium subscription when you use our link \u279c  https://brilliant.org/sabine. \n\nAI slop has already become prevalent across the internet (and in the classroom). But according to multiple reports, artificial intelligence is posing an increasingly serious threat to scientific literature, too. Researchers have uncovered a concerning number of AI-generated papers published in reputable journals, even experts can no longer identify AI-generated \u201cscience\u201d images, and the amount of AI slop submitted to publishers will only increase as the technology continues to improve. Let\u2019s take a look at what this means for the future of science.\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patr",
+        "id": 2781779,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hVkCfn6kSqE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hVkCfn6kSqE/hqdefault.jpg",
+        "title": "AI Is Flooding Science With Fake Research",
+        "vote": 0
+    }
+]

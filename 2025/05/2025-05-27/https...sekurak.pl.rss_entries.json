@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T18:03:39.232819+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T08:36:54+00:00",
+        "description": "<p>Microsoft do\u015b\u0107 zawzi\u0119cie stara si\u0119 wdro\u017cy\u0107 funkcj\u0119 Recall, kt\u00f3ra ju\u017c od momentu og\u0142oszenia sta\u0142a si\u0119 mocno kontrowersyjnym rozwi\u0105zaniem. Zapisywanie co kilka sekund zrzut\u00f3w z ekranu a nast\u0119pnie wykorzystanie du\u017cych modeli j\u0119zykowych (LLM), aby u\u0142atwi\u0107 odzyskiwanie informacji utrwalonych na screenshotach budzi wiele w\u0105tpliwo\u015bci u\u017cytkownik\u00f3w zainteresowanych prywatno\u015bci\u0105 oraz przede wszystkim specjalist\u00f3w bezpiecze\u0144stwa....</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/signal-wlaczyl-drm-w-aplikacji-w-windows-microsoft-recall-nie-bedzie-mogl-podgladac/\">Signal w\u0142\u0105czy\u0142 DRM w aplikacji w Windows. Microsoft Recall nie b\u0119dzie m\u00f3g\u0142 podgl\u0105da\u0107</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2782079,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/signal-wlaczyl-drm-w-aplikacji-w-windows-microsoft-recall-nie-bedzie-mogl-podgladac",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Signal w\u0142\u0105czy\u0142 DRM w aplikacji w Windows. Microsoft Recall nie b\u0119dzie m\u00f3g\u0142 podgl\u0105da\u0107",
+        "vote": 0
+    }
+]

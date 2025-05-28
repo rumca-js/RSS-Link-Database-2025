@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:18:06.909493+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T15:00:55+00:00",
+        "description": "Kurt Indovina and Max Blumenthal got hands-on with Street Fighter 6's new modes exclusive for the Switch 2 version.",
+        "id": 2778893,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_aCbNEE1i6A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_aCbNEE1i6A/hqdefault.jpg",
+        "title": "Street Fighter 6 On The Switch 2 Is A Good Port with Some Dumb (Fun) Gimmicks",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/SubstanceOk884",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T03:05:53.090047+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T02:12:18+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve always loved reading tech blogs, subreddits, and industry news \u2014 but over time, I realized I was drowning in open tabs, newsletters, and feeds.</p> <p>I\u2019d check constantly, skim endlessly, and still feel like I was missing something.</p> <p>So I built a simple tool to help me <strong>read more intentionally</strong>, not endlessly:</p> <ul> <li>I choose the sources (blogs, subreddits, Google alerts, etc.)</li> <li>It delivers a <strong>daily digest</strong> to my email \u2014 so I only check once a day</li> <li>Everything is readable in-app, distraction-free</li> <li><strong>AI summaries</strong> for each post and an overall summary to save time</li> </ul> <p>It\u2019s been helping me stay updated without feeling overwhelmed. Still a work in progress \u2014 but if you care about digital balance or productivity, I\u2019d love your thoughts.</p> <p><em>I\u2019ll drop the link in the comments.</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddi",
+        "id": 2778497,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1kwbzph/built_a_simple_app_that_sends_daily_summaries",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Built a simple app that sends daily summaries from my favourite tech sources",
+        "vote": 0
+    }
+]

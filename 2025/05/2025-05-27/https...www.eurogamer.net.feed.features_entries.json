@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Donlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:55:11.114799+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T13:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Valley-view.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>There's a moment in one of F. Scott Fitzgerald's Pat Hobby stories that I think about quite a lot. Pat Hobby's a character Fitzgerald came up with when he was knocking about Hollywood and trying to make money writing for the movies. As a result, Hobby is a somewhat desiccated scriptwriter himself. Over the course of a handful of lightly sketched narratives, Hobby loses jobs, squanders opportunities and gets in at least one fight with Orson Welles.</p> <p><a href=\"https://www.eurogamer.net/when-it-comes-to-the-elden-ring-movie-i-hope-alex-garland-writes-from-memory\">Read more</a></p>",
+        "id": 2781469,
+        "language": "en",
+        "link": "https://www.eurogamer.net/when-it-comes-to-the-elden-ring-movie-i-hope-alex-garland-writes-from-memory",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Valley-view.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "When it comes to the Elden Ring movie, I hope Alex Garland writes from memory",
+        "vote": 0
+    }
+]

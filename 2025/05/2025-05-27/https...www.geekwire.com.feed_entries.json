@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Taylor Soper",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:45:41.822323+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T14:45:00+00:00",
+        "description": "<img width=\"1260\" height=\"1260\" src=\"https://cdn.geekwire.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-8.23.32%E2%80%AFPM-1260x1260.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.geekwire.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-8.23.32%E2%80%AFPM-1260x1260.png 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-8.23.32%E2%80%AFPM-150x150.png 150w, https://cdn.geekwire.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-8.23.32%E2%80%AFPM-768x768.png 768w, https://cdn.geekwire.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-8.23.32%E2%80%AFPM-100x100.png 100w, https://cdn.geekwire.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-8.23.32%E2%80%AFPM-630x630.png 630w, https://cdn.geekwire.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-8.23.32%E2%80%AFPM.png 1280w\" sizes=\"(max-width: 1260px) 100vw, 1260px\"><br>For college graduates walki",
+        "id": 2780855,
+        "language": "en-US",
+        "link": "https://www.geekwire.com/2025/how-to-land-a-tech-job-in-the-ai-era-founders-recruiters-professors-share-advice-for-grads",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 131,
+        "source_url": "https://www.geekwire.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How to land a tech job in the AI era: Founders, recruiters, professors share advice for grads",
+        "vote": 0
+    }
+]

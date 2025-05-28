@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:54:59.693280+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T09:03:00+00:00",
+        "description": "We notice the current most when we&#8217;re headed against it. It&#8217;s easy to take our advantage for granted when we&#8217;re headed the other way and it&#8217;s helping us. Related: When I&#8217;m on my bike, I generally hope that drivers will cut me some slack&#8211;a lesson that&#8217;s easy to forget when I&#8217;m the one who&#8217;s driving.",
+        "id": 2781450,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/paddling-upstream",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Paddling upstream",
+        "vote": 0
+    }
+]

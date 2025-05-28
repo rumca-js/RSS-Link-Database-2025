@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:34:41.107432+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T13:39:47+00:00",
+        "description": "Learn to build a Vision Transformer (ViT) from scratch using PyTorch! This hands-on course guides you through each component, from patch embedding to the Transformer Encoder. Train your custom ViT model on CIFAR-10 and gain practical experience in image classification. Transition from CNNs to transformers in this efficient, end-to-end tutorial. \n\nCode: https://github.com/MOHAMMEDFAHD/pytorch-collections/blob/main/Building_Vision_Transformer_on_CIFAR_10_From_Scratch_Pytorch.ipynb\n\nCourse developed by @programmingoceanacademy \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Intro\n\u2328\ufe0f (0:28:23) Theoretical Explanation of Vision Transformers\n\u2328\ufe0f (0:47:40) Environment Setup and Library Imports\n\u2328\ufe0f (0:55:14) Configurations and Hyperparameter Setup\n\u2328\ufe0f (0:58:28) Image Transformation Operations\n\u2328\ufe0f (1:00:28) Downloading the CIFAR-10 Dataset\n\u2328\ufe0f (1:04:22) Creatin",
+        "id": 2780077,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7o1jpvapaT0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7o1jpvapaT0/hqdefault.jpg",
+        "title": "Building a Vision Transformer Model from Scratch with PyTorch",
+        "vote": 0
+    }
+]

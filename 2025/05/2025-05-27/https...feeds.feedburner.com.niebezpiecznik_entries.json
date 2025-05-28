@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T20:00:12.124139+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T17:11:31+00:00",
+        "description": "<p>Karol Nawrocki opublikowa\u0142\u00a0dzi\u015b na Twitterze zdj\u0119cie, na kt\u00f3rym pokazuje wyniki bada\u0144, jakie wykona\u0142 w laboratorium Diagnostyka. Kandydat na prezydenta postanowi\u0142 ocenzurowa\u0107 na dokumencie sw\u00f3j adres zamieszkania oraz numer PESEL. Problem w tym, \u017ce <strong>nie zamaskowa\u0142 numeru zlecenia</strong>. Dzi\u0119ki temu ka\u017cdy mo\u017ce pobra\u0107 oryginalne, nieocenzurowany wyniki bada\u0144 z widocznym adresem, wprost ze strony internetowej laboratorium.<span id=\"more-26461\"></span></p>\n<div class=\"info\">Odradzamy pr\u00f3b\u0119 pobierania wynik\u00f3w &#8212; nieuprawniony dost\u0119p do cudzych danych medycznych to przest\u0119pstwo.</div>\n<p><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/05/nawrocki-wyniki.jpg\"><img fetchpriority=\"high\" decoding=\"async\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2025/05/nawrocki-wyniki-600x349.jpg\" alt=\"\" width=\"600\" height=\"349\" class=\"aligncenter size-large wp-image-26462\" srcset=\"https://niebezpiecznik.pl/wp-content/uploads/2025/05/nawrocki-wyniki-600x349.jpg 600w, https:",
+        "id": 2783456,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/potkniecie-karola-nawrockiego-podczas-publikacji-wynikow-badan",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Potkni\u0119cie Karola Nawrockiego podczas publikacji wynik\u00f3w bada\u0144",
+        "vote": 0
+    }
+]

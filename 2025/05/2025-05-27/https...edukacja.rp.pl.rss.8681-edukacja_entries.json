@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T17:40:12.283588+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T17:40:11+00:00",
+        "description": "Od 1 lipca 2025 roku podstawowym dokumentem potwierdzaj\u0105cym status studenta b\u0119dzie mobilna legitymacja dost\u0119pna w aplikacji mObywatel - og\u0142osi\u0142o we wtorek Ministerstwo Cyfryzacji.",
+        "id": 2780522,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/prawo-w-polsce/art42381701-nadchodzi-wazna-zmiana-dla-studentow-w-polsce-ministerstwo-cyfryzacji-podalo-date",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nadchodzi wa\u017cna zmiana dla student\u00f3w w Polsce. Ministerstwo Cyfryzacji poda\u0142o dat\u0119",
+        "vote": 0
+    }
+]

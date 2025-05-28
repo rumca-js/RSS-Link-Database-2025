@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-27T19:05:09.139146+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-27T18:25:31+00:00",
+        "description": "<p><em>You don't have to use Fedora to attend the Fedora 42 Release Party, but you will have to get up early if you live in the US. The party starts on Thursday at 9 am on the east coast, and at 6 am for those overlooking the Pacific.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/05/fedora-42-release-party-join-the-celebration-on-thursday/\">Fedora 42 Release Party: Join the Celebration on Thursday</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2782960,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/05/fedora-42-release-party-join-the-celebration-on-thursday",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fedora 42 Release Party: Join the Celebration on Thursday",
+        "vote": 0
+    }
+]
