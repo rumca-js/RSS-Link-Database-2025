@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Molly Herring",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T15:37:51.805904+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T15:00:54+00:00",
+        "description": "Manu Prakash works on the world\u2019s most urgent problems and seemingly frivolous questions at the same time. They add up to a philosophy he calls \u201crecreational biology.\u201d            <p>The post <a href=\"https://www.quantamagazine.org/how-paradoxical-questions-and-simple-wonder-lead-to-great-science-20250528/\" target=\"_blank\">How Paradoxical Questions and Simple Wonder Lead to Great Science</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2790123,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-paradoxical-questions-and-simple-wonder-lead-to-great-science-20250528",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/05/ManuPrakash-cr.RachelBujalski-Default.webp",
+        "title": "How Paradoxical Questions and Simple Wonder Lead to Great Science",
+        "vote": 0
+    }
+]

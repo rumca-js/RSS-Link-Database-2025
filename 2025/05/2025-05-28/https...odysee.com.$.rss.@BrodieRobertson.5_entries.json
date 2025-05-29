@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T21:26:40.574974+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T21:00:19+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/JJVyIhsxd5w\" width=\"480\" alt=\"thumbnail\" title=\"SteamOS Is Not a Replacement For Windows\" /></p>Valve finally updated the SteamOS page after 3 years of the Steam Deck being released and it looks like they're getting ready for more devices to use it but keep in mind, that SteamOS is not a replacement for Windows and they explicitly say that.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Zotac Gaming Zone: https://www.gamingonlinux.com/2025/05/zotac-gaming-zone-handheld-getting-a-ryzen-ai-9-hx-370-prototype-with-a-manjaro-linux-based-os/<br />SteamOS Archive: https://web.archive.org/web/20250514/https://store.steampowered.com/steamos/<br />New SteamOS Page: https://store.steampowered.c",
+        "id": 2793388,
+        "language": "en",
+        "link": "https://odysee.com/steamos-is-not-a-replacement-for-windows:bdf6c7a1b32e2de74cb35ff71f8e4c7f55ff6a36",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SteamOS Is Not a Replacement For Windows",
+        "vote": 0
+    }
+]

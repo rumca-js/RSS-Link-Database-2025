@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T12:33:26.211461+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T11:01:37+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdngMV\n\n\ud83d\ude80 Try GraphRAG now! Access the code here \u2192 https://ibm.biz/BdngaC\n\nLearn more about GraphRAG here \u2192 https://ibm.biz/BdngM9\n\n\ud83e\udd16 Can AI turn text into structured knowledge? Discover how GraphRAG leverages knowledge graphs, graph databases, and Cypher queries to transform unstructured data into actionable insights. See how LLMs enable intelligent retrieval and automation, reshaping workflows across industries. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdngMU\n\n#knowledgegraph #cypher #ai",
+        "id": 2787828,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tTwBKXHIiMg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tTwBKXHIiMg/hqdefault.jpg",
+        "title": "GraphRAG Explained: AI Retrieval with Knowledge Graphs & Cypher",
+        "vote": 0
+    }
+]

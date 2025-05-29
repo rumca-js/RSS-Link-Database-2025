@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T13:22:38.614466+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T13:01:34+00:00",
+        "description": "For a humanoid robot to be successful and generalizable in a factory, warehouse, or even at home requires a comprehensive understanding of the world around it\u2014both the shape and the context of the objects and environments the robot interacts with. To do those tasks with agility and adaptability, Atlas needs an equally agile and adaptable perception system. \n\nLearn more: https://bostondynamics.com/blog/making-atlas-see-the-world/",
+        "id": 2788054,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oe1dke3Cf7I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oe1dke3Cf7I/hqdefault.jpg",
+        "title": "Perception and Adaptability | Inside the Lab with Atlas",
+        "vote": 0
+    }
+]

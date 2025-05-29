@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T09:12:41.732145+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T09:03:00+00:00",
+        "description": "Pop songs are 200 seconds long because the mechanical properties of 78 and 45 rpm records can deliver one song with decent fidelity of that length. They can&#8217;t handle ten minutes, and one minute is too short to charge for. The number of books carried by a local bookstore was the right amount to balance [&#8230;]",
+        "id": 2787279,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/just-the-right-length",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Just the right length",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T10:00:20.084275+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T09:00:42+00:00",
+        "description": "Lara Downes | May 28, 2025\nVijay Iyer\u2019s mind is a little bit terrifying. A MacArthur-certified \u201cgenius,\u201d he earned degrees in mathematics and physics from Yale and Berkeley before committing to a career as a pianist and composer. His STEM background profoundly informs his music-making, from using the sequence of Fibonacci numbers to structure his work, to applying theories of embodied and situated cognition in his study of the music of the African diaspora. The New York Times has called Iyer a \"social conscience, multimedia collaborator, system builder, rhapsodist, historical thinker and multicultural gateway.\"\n\nBut when I sat down with Vijay for this conversation at the Big Ears Festival in Knoxville, Tenn., (where we each performed during a weekend of music representing a breathtaking array of traditions and aesthetics), I wasn\u2019t really focused on the intimidating power of his remarkable mind. Instead, I was acutely aware of the heart and soul in music \u2014 its capacity to create under",
+        "id": 2787511,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QKubRtKguv4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QKubRtKguv4/hqdefault.jpg",
+        "title": "Vijay Iyer\u2019s art of listening | Amplify with Lara Downes",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T06:46:04.345748+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T06:00:14+00:00",
+        "description": "The Public Labour Prosecutor's Office in the state of Bahia says 220 Chinese workers were rescued.",
+        "id": 2786577,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c3v5n7w55kpo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a41/live/7c7dbb00-3b81-11f0-864e-f9e10943d317.jpg",
+        "title": "Brazil sues China carmaker BYD over 'slave-like' conditions",
+        "vote": 0
+    }
+]

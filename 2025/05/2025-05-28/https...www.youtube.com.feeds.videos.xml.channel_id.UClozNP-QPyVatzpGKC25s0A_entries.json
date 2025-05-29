@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T13:22:55.026597+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T13:01:18+00:00",
+        "description": "NEW COURSES: http://bradsartschool.com\nTablet Rankings: https://www.bradsartschool.com/drawing-tablet-rankings\n\nThe Surface Pro used to be one of the best mobile tablets to draw on but as other tablets got better the Surface pro just kinda stayed the same with only incremental improvements. In comes the Surface Pro 12\" a slightly smaller Surface that feel more like a tablet in the hand. But how is the drawing experience?\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradsartschool.com\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 2788058,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=gqliiMdruys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gqliiMdruys/hqdefault.jpg",
+        "title": "2025 Surface Pro 12\"  Review",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Trisha Thadani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T19:54:15.258622+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T19:47:29+00:00",
+        "description": "Some skeptical backers of the EV company have asked its board to add a \u2018new, truly independent\u2019 member.",
+        "id": 2792588,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/05/28/musk-tesla-board-succession-plan",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tesla investors ask board to make Musk work full-time",
+        "vote": 0
+    }
+]

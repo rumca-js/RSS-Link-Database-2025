@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T13:24:44.461028+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T13:00:05+00:00",
+        "description": "Learn how to code REST APIs in .net 9 as an Absolute Beginner. This step-by-step guide from @codeafuture is for those new to ASP.NET Core. It covers everything from what REST APIs are to handling CRUD operations and connecting to a SQL Server database.\n\n\ud83d\udd17 Source Code: https://github.com/codeafuture/FirstAPI\n\nLearn .NET faster with real support & practical guidance: https://www.skool.com/dotnetsquad\n\n\u26a1\ufe0f Free .NET Developer Roadmap: https://dotnetdeveloperroadmap.com/\n\ud83d\udcda ASP.NET Core MVC Blueprint: https://payhip.com/codeafuture\n\ud83d\udcd9 Check out my C# eBook: https://payhip.com/b/FQ58o\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n00:00 Overview\n00:54 What are REST APIs?\n02:02 Getting started in ASP.NET Core\n07:17 REST API Models\n10:00 Creating the Controller\n10:39 Creating a list with data \n12:40 HTTP Methods\n32:42 Installing SQL Server & SSMS \n34:29 Creating a datab",
+        "id": 2788134,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=38GNKtclDdE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/38GNKtclDdE/hqdefault.jpg",
+        "title": "Build REST APIs in .NET 9 \u2013 Full Course for Beginners",
+        "vote": 0
+    }
+]

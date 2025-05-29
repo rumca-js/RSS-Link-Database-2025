@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Romero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T17:50:22.082781+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T17:45:14+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>School is\u00a0<em>almost</em> out for summer! You know what that means? Plenty of time to catch up on the latest digital rights news! Don't worry, though\u2014EFF has you covered with our EFFector newsletter.</p>\n<p>This edition of EFFector explains why efforts to <a href=\"https://www.eff.org/deeplinks/2025/05/fcc-must-reject-broadcast-drm#effector\">privatize public airwaves</a> would harm American TV viewers; goes over how KOSA is\u00a0<em>still</em> a <a href=\"https://www.eff.org/deeplinks/2025/05/kids-online-safety-act-will-make-internet-worse-everyone#effector\">very bad censorship bill</a>, especially for young people; and covers how Signal, WhatsApp, and other <a href=\"https://www.eff.org/deeplinks/2025/05/back-it-back-it-let-us-begin-explain-encrypted-chat-backups#effector\">encrypted chat apps back up</a> your conversations.</p>\n<p>You can<span>\u00a0</sp",
+        "id": 2791553,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/05/incidious-effort-privatize-public-airwaves-effector-375",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Insidious Effort to Privatize Public Airwaves | EFFector 37.5",
+        "vote": 0
+    }
+]

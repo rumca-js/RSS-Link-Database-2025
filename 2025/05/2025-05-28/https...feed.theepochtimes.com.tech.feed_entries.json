@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Victoria Friedman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T14:28:59.139399+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T13:59:06+00:00",
+        "description": "The ambassador also addressed the need for Europe to increase its own defence spending and to rely less on the United States.",
+        "id": 2789452,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/mandelson-calls-for-uk-us-alliance-centred-on-ai-to-counter-china-threat-5864370",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/05/28/id5864378-Peter-Mandelson-1080x720.png",
+        "title": "Mandelson Calls for UK\u2013US Alliance Centred on AI to Counter China Threat",
+        "vote": 0
+    }
+]

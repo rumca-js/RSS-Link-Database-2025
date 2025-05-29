@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-28T13:22:21.438633+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-28T11:22:45+00:00",
+        "description": "The UN Human Rights Office says most of the injuries were due to Israeli gunfire, but the Israeli military says troops fired into the air.",
+        "id": 2788046,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/clyz4mzww1ro",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a15a/live/59e9b750-3baf-11f0-91a0-abc9c23352d4.jpg",
+        "title": "Dozens injured by Israeli gunfire as crowds overwhelmed Gaza aid site, UN says",
+        "vote": 0
+    }
+]
