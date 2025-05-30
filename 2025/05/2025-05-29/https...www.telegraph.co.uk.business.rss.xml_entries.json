@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eir Nolsoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T20:26:14.634205+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T19:53:14+00:00",
+        "description": "Trump wins right to keep tariffs after \u2018activist judges\u2019 ban",
+        "id": 2801919,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/05/29/stock-markets-surge-after-us-court-blocks-trump-tariffs",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump wins right to keep tariffs after \u2018activist judges\u2019 ban",
+        "vote": 0
+    }
+]

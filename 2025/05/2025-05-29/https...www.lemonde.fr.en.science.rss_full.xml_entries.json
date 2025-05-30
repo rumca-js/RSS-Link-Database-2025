@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T23:41:43.261798+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T23:41:42+00:00",
+        "description": "The site is believed to have been 'one of the most ancient and important ceremonial centers' of the Mayan civilization, located in the jungle area of Peten near the Mexican border, Guatemala's culture ministry announced on Thursday.",
+        "id": 2803242,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/05/30/archaeologists-unearth-remains-of-3000-year-old-mayan-city-in-guatemala_6741823_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/05/29/500/0/4000/2000/644/322/60/0/9697301_ftp-import-images-1-x4p1whq1awlc-5048197-01-06.jpg",
+        "title": "Archaeologists unearth remains of 3000 year-old-Mayan city in Guatemala",
+        "vote": 0
+    }
+]

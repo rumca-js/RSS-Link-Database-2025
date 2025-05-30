@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T23:39:04.919835+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T21:00:18+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Aod7oOjW-Wg\" width=\"480\" alt=\"thumbnail\" title=\"The Linux Audio Stack Is A Mess\" /></p>The other week I covered part one of Fireborn's accessibility series and today we're back here for part 2, the section on the audio stack, something I am personally quite familiar with.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Accessibility Part 2: https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media====",
+        "id": 2803233,
+        "language": "en",
+        "link": "https://odysee.com/the-linux-audio-stack-is-a-mess:3057eb1b7eb8da6fecd3759edcfe2f33657c20e2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Linux Audio Stack Is A Mess",
+        "vote": 0
+    }
+]

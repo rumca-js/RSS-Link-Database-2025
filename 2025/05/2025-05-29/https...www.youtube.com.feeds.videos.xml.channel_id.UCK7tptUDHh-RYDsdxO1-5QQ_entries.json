@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T14:48:15.273561+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T14:00:46+00:00",
+        "description": "With Russia and China racing to develop missiles that can evade U.S. defenses, President Trump announced ambitious plans to create a $175 billion Golden Dome defense shield to counter new threats. In order for it to work, the U.S. will have to deploy complex technology into space. \n\nWSJ\u2019s Shelby Holliday breaks down what it might look like, and why Trump wants it. \n\nChapters:\n0:00 Trump\u2019s plan\n1:00 The weapons posing threats, explained \n2:28 Space sensor network\n3:21 Space interceptors \n4:32 What\u2019s next?\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Trump #GoldenDome #WSJ",
+        "id": 2799164,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SDazMp60SfY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SDazMp60SfY/hqdefault.jpg",
+        "title": "How Trump's Golden Dome Missile Defense Will Work | WSJ",
+        "vote": 0
+    }
+]

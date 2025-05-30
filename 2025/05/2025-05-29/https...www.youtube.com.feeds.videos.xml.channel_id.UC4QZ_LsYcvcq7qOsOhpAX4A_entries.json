@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ColdFusion",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T23:40:55.363307+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T23:16:03+00:00",
+        "description": "Go to https://brilliant.org/coldfusion to get started on your STEM learning journey.\nTheranos and Elizabeth Holmes promised the world. The end result was lies, fraud and Silicon Valley's greatest disaster. But now she's back, kind of. Let's take a look.\n\nWatch or listen to ColdFusion on Spotify: https://open.spotify.com/show/1YEwCKoRz8fEDqheXB6UJ1\n\nShow notes:\nhttps://docs.google.com/document/d/1gzOl04JdsAwL-eMOGjkCcwDUApfnOTbZmt-y1kSaU5A/edit?tab=t.0\n\nColdFusion Music: \n\nhttps://www.youtube.com/@ColdFusionmusic\nhttp://burnwater.bandcamp.com   \n\nGet my book: \n\nhttp://bit.ly/NewThinkingbook \n\nColdFusion Socials: \n\nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nCreated by: Dagogo Altraide\nProducers: Tawsif Akkas, Dagogo Altraide",
+        "id": 2803240,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=JluDqVJC4kg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 76,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JluDqVJC4kg/hqdefault.jpg",
+        "title": "Theranos is Back!... Kind of",
+        "vote": 0
+    }
+]

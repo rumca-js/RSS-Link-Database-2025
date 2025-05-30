@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T10:59:46.797960+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T09:03:00+00:00",
+        "description": "&#8220;AI is brilliant and it can do everything.&#8221; &#8220;AI hallucinates sometimes and it can&#8217;t be trusted.&#8221; &#8220;AI is a trick, a clever way to induce people to believe it&#8217;s human-like, but it&#8217;s not.&#8221; It turns out that AI hallucinates all the time. Sometimes, these hallucinations are useful, worth interpreting as helpful contributions, and sometimes, not [&#8230;]",
+        "id": 2797220,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/hallucinations-and-human-work",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hallucinations and human work",
+        "vote": 0
+    }
+]

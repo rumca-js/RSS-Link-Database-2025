@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Samo\u0142yk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T19:23:01.041970+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T18:43:09+00:00",
+        "description": "Mo\u017ce zamiast opisywa\u0107 Wam o czym ten odcinek jest (cho\u0107 z tytu\u0142u du\u017co jest jasne), zerknijcie na rozdzia\u0142y poni\u017cej:\n\n0:00 - co jest w odcinku\n0:59 - istotne zastrze\u017cenie\n1:57 - dlaczego by\u0142em na wiecu Trzaskowskiego\n4:25 - o spotkaniu z panem z Wyborczej na marszu Nawrockiego\n6:08 - po co m\u00f3wi\u0119 o tym m\u00f3wi\u0119? \u015bwiadectwo.\n7:27 - dlaczego zag\u0142osuj\u0119 na Nawrockiego\n18:26 - przerwa na chrze\u015bcija\u0144skie gruzowanie Donalda Tuska i medi\u00f3w\n25:24 - dlaczego zag\u0142osuj\u0119 na Nawrockiego (ci\u0105g dalszy)\n41:52 - zako\u0144czenie i podzi\u0119kowanie dla Patron\u00f3w\n\nM\u00f3j pierwszy film o pogl\u0105dach i wyborach, do kt\u00f3rej tu kilka razy si\u0119 odwo\u0142uj\u0119: https://youtu.be/EhI7SWnPgXU?si=ET3AP7mSigQt77p8\n\nRozmowa Bogdana Rymanowskiego z Donaldem Tuskiem: https://youtu.be/Tz5o8DXtwKA?si=eJ8H6XDMh4qf7Pt8\n\nZbi\u00f3rka dla Adasia: https://www.siepomaga.pl/adam-orlik\n\nTu film o akcji w Ko\u0142obrzegu: https://youtu.be/0pM6IFDTLgU?si=c6R__z02ZbPIxGxG\nTu m\u00f3wi\u0119 jak b\u0119d\u0119 g\u0142osowa\u0142 w II turze: https://youtu.be/EhI7SWnPgXU?si=5q9TAps-AS0VXyhW\n\nJak w\u0142\u0105",
+        "id": 2801418,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=drLM-G0hnRE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 372,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj5Ug7sV0Id9g-NEfFa1psg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/drLM-G0hnRE/hqdefault.jpg",
+        "title": "Dlaczego zag\u0142osuj\u0119 na Karola Nawrockiego",
+        "vote": 0
+    }
+]

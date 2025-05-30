@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T14:14:35.820930+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T13:55:27+00:00",
+        "description": "<p>Factory\u2019s new \u2018Droids\u2019 aren\u2019t typical AI coding assistants, they&#8217;re billed as full-blown software development agents. Instead of just focusing on code completion or simple generation tasks, Factory claims to have built AI agents that can handle the often messy reality of the entire development lifecycle. Maybe Factory\u2019s AI agents are the droids you\u2019re looking for<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/factory-droids-ai-agents-tackle-entire-development-lifecycle/\" title=\"ReadFactory \u2018Droids\u2019 AI agents tackle entire development lifecycle\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/factory-droids-ai-agents-tackle-entire-development-lifecycle/\">Factory \u2018Droids\u2019 AI agents tackle entire development lifecycle</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2798520,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/factory-droids-ai-agents-tackle-entire-development-lifecycle",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Factory \u2018Droids\u2019 AI agents tackle entire development lifecycle",
+        "vote": 0
+    }
+]

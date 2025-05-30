@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T15:48:45.534555+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T15:01:20+00:00",
+        "description": "As a viewer of my channel, you will get a special 20% off discount at the Economist! Head over to https://www.economist.com/Sabine to get started.\n\nYou might associate lasers with things like destroying planets or melting through steel. But researchers are working on a way to do something more productive with the technology: cooling computer chips. It could solve a big problem because overheating is currently the major obstacle in the way of cramming more transistors onto microchips. Let\u2019s take a look at how laser cooling works and why it might just be the cooling technology of the future.\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.spotify.com/show/",
+        "id": 2799684,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=j4H-nK6WMzo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/j4H-nK6WMzo/hqdefault.jpg",
+        "title": "This New Laser Tech Might Be the Future of Computing",
+        "vote": 0
+    }
+]

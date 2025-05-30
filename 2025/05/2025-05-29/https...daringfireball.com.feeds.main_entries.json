@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T16:47:09.677140+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T16:08:11+00:00",
+        "description": "<p>Tony Romm and Ana Swanson, reporting for The New York Times (paywall-busting gift link):</p>\n\n<blockquote>\n  <p>A panel of federal judges on Wednesday blocked President Trump\nfrom imposing some of his steepest tariffs on China and other U.S.\ntrading partners, finding that federal law did not grant him\n\u201cunbounded authority\u201d to tax imports from nearly every country\naround the world.</p>\n\n<p>The ruling, by the U.S. Court of International Trade, delivered an\nearly yet significant setback to Mr. Trump, undercutting his\nprimary leverage as he looks to pressure other nations into\nstriking trade deals more beneficial to the United States.</p>\n\n<p>Before Mr. Trump took office, no president had sought to invoke\nthe International Emergency Economic Powers Act, a 1977 law, to\nimpose tariffs on other nations. The law, which primarily concerns\ntrade embargoes and sanctions, does not even mention tariffs.</p>\n\n<p>But Mr. Trump adopted a novel interpretation of its powers as he\nannounced, and then",
+        "id": 2800385,
+        "language": null,
+        "link": "https://www.nytimes.com/2025/05/28/business/trump-tariffs-blocked-federal-court.html?unlocked_article_code=1.K08.Dopk.xjccPnSSgb59&smid=url-share",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump\u2019s Entire Tariff Endeavor Ruled Illegal by U.S. Court of International Trade",
+        "vote": 0
+    }
+]

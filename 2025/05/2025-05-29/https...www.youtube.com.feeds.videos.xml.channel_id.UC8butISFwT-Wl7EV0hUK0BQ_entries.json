@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T14:15:05.084911+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T13:44:02+00:00",
+        "description": "Get started with data science using Python! This course covers essential tools like Pandas and NumPy, plus data visualization, cleaning, and machine learning techniques. Perfect for beginners, you'll gain the skills to analyze and interpret data effectively.\n\nYouTube Channel: https://www.youtube.com/@ThePyCoach\nSource Code & Datasets: https://github.com/thepycoach/python-for-data-science\nPython for Data Science Cheat Sheet (Free PDF): https://artificialcorner.com/p/redeem-my-udemy-courses-for-free\nCourse in Spanish: https://youtu.be/Rgag-Clu5L4\n\n\u2764\ufe0f Try interactive Python courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Python (Made possible by a grant from our friends at Scrimba)\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Installation and Setup\n\u2328\ufe0f (0:27:23) Python Basics\n\u2328\ufe0f (1:41:41) Introduction to Pandas and Numpy\n\u2328\ufe0f (3:26:15) Project #1 - Web Scraping with Pandas\n\u2328\ufe0f (4:05:36) Filtering Data\n\u2328\ufe0f (5:34:46) Data Extraction \n\u2328\ufe0f (7:31:57) Reshaping and Pivoting Dataframes\n\u2328\ufe0f (7",
+        "id": 2798524,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=CMEWVn1uZpQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CMEWVn1uZpQ/hqdefault.jpg",
+        "title": "Python for Data Science \u2013 Course for Beginners",
+        "vote": 0
+    }
+]

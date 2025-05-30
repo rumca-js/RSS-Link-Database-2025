@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T11:09:41.635442+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T08:00:00+00:00",
+        "description": "<p><span>\n\nHistorically people kept up with blogs via RSS, but it's been on its\nway out for over a decade.  These days receiving posts via email is\npopular, and I should probably make my posts available this way.  I\nconsidered implementing my own emailing system, but bulk email is (or\nat least was, I'm not up to date here) a pain.  Instead I decided to\nstart cross-posting to Substack: </span>\n\n<a href=\"https://jefftkaufman.substack.com/\">jefftkaufman.substack.com</a>.\nThis will be yet another way to read my posts, similar to the \n\n<a href=\"https://www.lesswrong.com/users/jkaufman\">LessWrong mirror</a>\nand my \n\n<a href=\"https://www.facebook.com/jefftk\">text-only FB\ncross-posts</a>.\n\n\n\n<p>\n\nI have a full RSS feed of all my posts, and Substack imported it fine.\nIt doesn't look like there's an option to do ongoing RSS-based\nimports, but copy-paste seems to work well enough; I did this post and\nthe <a href=\"https://jefftkaufman.substack.com/p/quick-minimal-playhouse\">previous\none</a> that ",
+        "id": 2797297,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/cross-posting-to-substack",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cross-posting to Substack",
+        "vote": 0
+    }
+]

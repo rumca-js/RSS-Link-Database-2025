@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T16:29:45.089934+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T14:14:17+00:00",
+        "description": "Support GN's work and travel on the store! Use code \"IDGAF\" for 10% off while it lasts. https://store.gamersnexus.net/ Consider grabbing a GN Modmat, B-Stock Modmat for a discount, Paper Launch T-Shirt, E-Waste inductor tabletop gaming dice kit, and more.\nWe met with ASRock unannounced during Computex 2025 to try and learn about the ASRock motherboard failures, which seem to be particularly prevalent with X3D CPUs like the 9800X3D (and to a lesser extent, maybe due to lower volume, the 9950X3D). ASRock gave some answers in our meeting, although upon returning home, we still saw failures being posted online even with the newest BIOS. We'll continue to keep the ASRock investigation active in the background while we work on other content. In the very least, we got on-camera commitments from ASRock's VP of Motherboards to pay for warranty shipping both ways.\n\nWatch our original video about ASRock's motherboard issues: https://www.youtube.com/watch?v=IDX0l5kaYsc\n\nGrab a GN Large Modmat! ht",
+        "id": 2799929,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EpEJRa_Rxo0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EpEJRa_Rxo0/hqdefault.jpg",
+        "title": "ASRock Failures Face-to-Face: Motherboards, BIOS, & Burned 9800X3D CPUs",
+        "vote": 0
+    }
+]

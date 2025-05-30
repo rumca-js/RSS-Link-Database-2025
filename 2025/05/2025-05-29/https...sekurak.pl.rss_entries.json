@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T10:52:25.857906+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T08:40:25+00:00",
+        "description": "<p>W naszym ostatnim tek\u015bcie przybli\u017cyli\u015bmy problemy opisane przez firm\u0119 Legit, kt\u00f3re pozwala\u0142y na wykorzystanie asystenta Duo do kradzie\u017cy poufnych informacji z prywatnych repozytori\u00f3w lub zmuszania modelu LLM do wykonywania niepo\u017c\u0105danych przez prawowitego w\u0142a\u015bciciela projektu dzia\u0142a\u0144. Jak mo\u017cna si\u0119 by\u0142o domy\u015bli\u0107, poruszana tematyka jest zwi\u0105zana raczej z architektur\u0105 rozwi\u0105za\u0144 ni\u017c z...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/github-mcp-pomaga-wykradac-dane-z-prywatnych-repozytoriow-kolejna-sprytna-technika-prompt-injection-w-wydaniu-indirect/\">GitHub MCP pomaga wykrada\u0107 dane z prywatnych repozytori\u00f3w &#8211; kolejna sprytna technika prompt injection w wydaniu indirect</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2796740,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/github-mcp-pomaga-wykradac-dane-z-prywatnych-repozytoriow-kolejna-sprytna-technika-prompt-injection-w-wydaniu-indirect",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GitHub MCP pomaga wykrada\u0107 dane z prywatnych repozytori\u00f3w \u2013 kolejna sprytna technika prompt injection w wydaniu indirect",
+        "vote": 0
+    }
+]

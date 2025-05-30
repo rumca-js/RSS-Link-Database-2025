@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hayley Tsukayama",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T16:45:14.514573+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T16:25:34+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>\u201cThe right to privacy is being threatened by the indiscriminate collection, maintenance, and dissemination of personal information and the lack of effective laws and legal remedies,\u201d some astute California lawmakers once <a href=\"https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.1.&amp;nodeTreePath=8.4.33.1.1&amp;lawCode=CIV\">wrote</a>. \u201cThe increasing use of computers and other sophisticated information technology has greatly magnified the potential risk to individual privacy that can occur from the maintenance of personal information.\u201d</p>\n<p>Sound familiar? These words may sound like a recent push back on programs that want to <a href=\"https://www.eff.org/deeplinks/2025/05/no-postal-service-data-sharing-deport-immigrants\">slurp up the information</a> sitting in ever-swelling government databases. But they\u2019",
+        "id": 2800378,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/05/californias-cities-and-counties-must-step-their-privacy-game-ab-1337-can-do",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "California\u2019s Cities and Counties Must Step Up Their Privacy Game. A.B. 1337 Can Do That.",
+        "vote": 0
+    }
+]

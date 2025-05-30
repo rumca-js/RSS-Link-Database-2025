@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T15:48:48.832078+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T15:24:41+00:00",
+        "description": "Is it worth bothering upgrading to Windows 11? \ud83e\udd14\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\nMicrosoft really wants you to upgrade to Windows 11. But with over half of people still using Windows 10, apparently not everyone is convinced. In this video we go over the reasons you might want to upgrade or not, including new features both big and small. I also go over how to tell if you actually can upgrade even if it says you can't, and the process for doing so. And your options if you truly can't upgrade.\n\nMentioned Links:\n\u2022 Microsoft How to Enable TPM: https://support.microsoft.com/en-us/windows/enable-tpm-2-0-on-your-pc-1fd5a332-360d-4f46-a1e7-ae6b0c90645c\n\u2022 Add \"Compress To\" Menu Option: https://gist.github.com/ThioJoe/f4b0799e2f0d95466f4c2bd4e46d1e67\n\u2022 Removed Features List: https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1#table3 \n\n\u2022 Command to use old context menu:\nreg.exe add \"HK",
+        "id": 2799685,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cIFU_3WcbY4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cIFU_3WcbY4/hqdefault.jpg",
+        "title": "Should You Upgrade To Windows 11?",
+        "vote": 0
+    }
+]

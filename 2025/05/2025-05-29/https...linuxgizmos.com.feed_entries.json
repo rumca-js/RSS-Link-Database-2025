@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T03:58:45.021209+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T03:18:17+00:00",
+        "description": "Terasic has introduced the Atum A3 Nano on Crowd Supply, offering a compact FPGA development board based on Altera&#8217;s Agilex 3 series. It provides a capable platform for embedded applications requiring high-speed logic and moderate compute performance. Measuring just 85 mm by 70 mm, the board features the Agilex 3 A3CZ135BB18AE7S FPGA, delivering 135,110 logic [&#8230;]",
+        "id": 2795338,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/terasic-atum-a3-nano-integrates-altera-agilex-3-fpga",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Terasic Atum A3 Nano Integrates Altera Agilex 3 FPGA",
+        "vote": 0
+    }
+]

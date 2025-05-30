@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Clark Estes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-29T11:13:17.039345+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-29T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"It\u2019s unnerving for me to admit that I like the new Google. | Vox/Getty Images\" data-portal-copyright=\"Vox/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/05/Google-AI.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>It\u2019s unnerving for me to admit that I like the new Google. | Vox/Getty Images</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Somewhere between asking Google\u2019s new advanced AI to explain, in detail, how to become an expert birdwatcher in my neighborhood and using Google\u2019s new AI moviemaking tool to create cartoons of my 4-pound Chihuahua fighting crime, I realized something. Either Google is having a midlife crisis or I am. It could be both.\u00a0</p>\n\n<p class=\"has-text-align-none\">Google has been quite publicly freaking out since the <a href=\"https://www.theverge.com/2024/12/12/24318650/chatgpt-openai-history-two-year-anniversary\">launch of ChatGPT</a> in ",
+        "id": 2797306,
+        "language": null,
+        "link": "https://www.vox.com/technology/414673/google-search-ai-mode-chatgpt-gemini",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What is Google even for anymore?",
+        "vote": 0
+    }
+]
