@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T10:57:31.500051+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T10:57:30+00:00",
+        "description": "Centrum obs\u0142ugi klienta Ryanaira, kt\u00f3re powstaje w Warszawie, b\u0119dzie obs\u0142ugiwa\u0107 pasa\u017cer\u00f3w z ca\u0142ej Europy. Prac\u0119 znajdzie w nim 200 specjalist\u00f3w z zakresu obs\u0142ugi klienta, IT i administracji.",
+        "id": 2806506,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/linie-lotnicze/art42414581-200-osob-do-pomocy-pasazerom-ryanair-tworzy-pierwsze-w-europie-centrum-obslugi-klientow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "200 os\u00f3b do pomocy pasa\u017cerom. Ryanair tworzy pierwsze w Europie centrum obs\u0142ugi klient\u00f3w",
+        "vote": 0
+    }
+]

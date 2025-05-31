@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Phil Nash & Timur Doumler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T12:29:05.231721+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T09:00:00+00:00",
+        "description": "Kristen Shaker joins Timur and Phil. Kristen talks to us about her C++ on Sea keynote about the C++ interview process, her previous work at Google, and why she has made a slightly unusual career change.\n        <h3>News</h3>\n<ul>\n<li><a href=\"https://www.reddit.com/r/cpp/comments/1konb0q/apple_removed_base_template_for_stdchar_traits_in/\">libc++ removed the base template for std::char_traits</a></li>\n<li><a href=\"https://vittorioromeo.com/index/blog/controlflow.html\">\"how to break or continue from a lambda loop?\" - Vittoria Romeo</a> </li>\n<li><a href=\"https://isocpp.org/files/papers/CppDevSurvey-2025-summary.pdf\">Results from the 2025 Annual C++ Developer Survey \"Lite\" (pdf)</a></li>\n</ul>\n<h3>Links</h3>\n<ul>\n<li><a href=\"https://cpponsea.uk/2025/schedule\">C++ on Sea schedule (with Kristen and Timur's keynotes)</a></li>\n<li><a href=\"https://brontosource.dev\">BrontoSource</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=9Rn5UOWIeQA\">\"What Can We Learn From the Results of C++ Comm",
+        "id": 2807025,
+        "language": "en",
+        "link": "https://cppcast.com/from_refactoring_to_physical_relocation",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 80,
+        "source_url": "https://cppcast.com/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "From Refactoring to (physical) Relocation",
+        "vote": 0
+    }
+]

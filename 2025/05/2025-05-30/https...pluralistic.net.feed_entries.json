@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T14:39:18.792228+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T14:13:32+00:00",
+        "description": "Today's links Farewell (for the moment): See you in mid-June! Object permanence: 2005, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Farewell (for the moment) (permalink) I'm about to take a two-ish week sabbatical so I can (once again!) rewrite the Trump chapter of my Enshittification book (October 2025), and so that I can get my (thankfully very treatable) cancer irradiated: https://pluralistic.net/2024/11/05/carcinoma-angels/#squeaky-nail While I'm away, here are some things I'd like to call your attention to. First, some good news: the Washington Post Tech Guild just won a historic union vote with a giant majority, despite the vicious union-hating owner of the Post, a Mr Jeffrey Preston Bezos: https://newsguild.org/washington-post-tech-guild-overwhelmingly-votes-to-certify-union-in-historic-election/ E",
+        "id": 2808246,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/05/30/gone-fission",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pluralistic: Farewell (for the moment) (30 May 2025)",
+        "vote": 0
+    }
+]

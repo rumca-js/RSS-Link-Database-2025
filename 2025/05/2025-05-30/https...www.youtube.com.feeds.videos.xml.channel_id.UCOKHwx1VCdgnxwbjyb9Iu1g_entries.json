@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T21:31:52.770548+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T20:53:11+00:00",
+        "description": "10 render hacks I learned after 20 years of using Blender.\n\nDownload the Poliigon addon: https://www.poliigon.com/blender?utm_campaign=renderhacks&utm_source=youtube&utm_medium=bg\n\nJoin the Blender Guru Discord: https://blenderguru.com/discord\n\n=== Chapter Marks \u2702\ufe0f===\n0:00 Intro\n0:19 Instancing\n1:05 Frustum Culling\n1:55 Light Clamping\n2:23 Simplify Window Glass\n3:01 Persistent Data\n3:42 Noise Threshold\n4:39 Use Smaller Textures\n6:07 Fast GI Approximation\n6:53 Switch to GPU\n7:44 Simplify Geometry\n\n\n===Follow me\ud83e\udef0===\n\nX: https://x.com/andrewpprice\nInstagram: http://instagram.com/andrewpprice\nArtStation: http://artstation.com/artist/andrewprice\nLinkedIn: www.linkedin.com/in/andrew-price-17678911\nThis Week in 3D Newsletter: https://www.blenderguru.com/thisweekin3d",
+        "id": 2811554,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=kIW648Cfo18",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kIW648Cfo18/hqdefault.jpg",
+        "title": "10 Hacks to Render Faster in Blender",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Guttag",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T03:58:14.320755+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T02:58:30+00:00",
+        "description": "Several technology demonstrations stood out to me at Display Week (DW) 2025. This article will cover Playnitride's Quantum Dot (QD) based full-color MicroLED, combined with Lumus's geometric (also known as reflective waveguide) technology. \n\nAs I wrote in may last article, Lumus showed me a \"fantastically tiny projector\" connected to their waveguide.",
+        "id": 2804237,
+        "language": "en-US",
+        "link": "https://kguttag.com/2025/05/29/exclusive-playnitride-single-chip-full-color-microled-lumus-waveguide-with-a-fantasically-tiny-projector/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-playnitride-single-chip-full-color-microled-lumus-waveguide-with-a-fantasically-tiny-projector",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 487,
+        "source_url": "https://www.kguttag.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Exclusive \u2013 Playnitride Single Chip Full Color MicroLED & Lumus Waveguide with a \u201cFantasically Tiny Projector\u201d",
+        "vote": 0
+    }
+]

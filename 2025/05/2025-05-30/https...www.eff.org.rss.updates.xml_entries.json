@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rindala Alajaji",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T18:59:31.778253+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T18:36:08+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>In a chilling sign of how far law enforcement surveillance has encroached on personal liberties, </span><a href=\"https://www.404media.co/a-texas-cop-searched-license-plate-cameras-nationwide-for-a-woman-who-got-an-abortion/\" target=\"_blank\" rel=\"noopener noreferrer\"><i><span>404 Media </span></i><span>recently revealed</span></a><span> that a sheriff\u2019s office in Texas searched data from more than 83,000 </span><a href=\"https://sls.eff.org/technologies/automated-license-plate-readers-alprs\" target=\"_blank\" rel=\"noopener noreferrer\"><span>automated license plate reader (ALPR)</span></a><span> cameras to track down a woman suspected of self-managing an abortion. The officer searched 6,809 different camera networks maintained by surveillance tech company <a href=\"https://www.eff.org/deeplinks/2025/02/anti-surveillance-mapmaker-refuses-flock",
+        "id": 2810548,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "She Got an Abortion. So A Texas Cop Used 83,000 Cameras to Track Her Down.",
+        "vote": 0
+    }
+]

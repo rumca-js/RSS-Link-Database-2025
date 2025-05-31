@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T14:24:44.852558+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T14:01:20+00:00",
+        "description": "How well does a 13-year-old Raspberry Pi run modern Linux?\n\nAnd why is that Raspberry Pi blue?\n\nMore resources:\n\n  - Blue Pi! https://www.raspberrypi.com/news/blue-pi/\n  - leepspvideo on Blue Pi: https://www.youtube.com/watch?v=zqyG5ssUvdk\n  - Brazilian Raspberry Pi: https://www.raspberrypi.com/news/raspberry-pi-brazil/\n  - All Pi models from Raspi.TV: https://raspi.tv/rpifamily\n  - Pi-hole: https://pi-hole.net\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - 13 year old Raspberry better than 7 year old Apple\n00:41 - 1 in 1000\n02:26 - Case and evolution of a Pi\n05:04 - The Blue Raspberry Pi\n07:15 - Encased\n08:08 - First boot with modern Debian\n10:20 - History while we wait\n14:08 - It booted; let's get WiFi\n15:56 - Browser conundrum\n17:44 - Midori runs, ",
+        "id": 2808225,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vBqDCH_Yx4w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vBqDCH_Yx4w/hqdefault.jpg",
+        "title": "How useful is an original Raspberry Pi in 2025? (ft Blue Raspberry)",
+        "vote": 0
+    }
+]

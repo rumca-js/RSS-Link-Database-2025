@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T15:01:24.939468+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T14:00:19+00:00",
+        "description": "At first, prompting seemed to be a temporary workaround for getting the most out of large language models. But over time, it's become critical to the way we interact with AI.\n\nOn the Lightcone, Garry, Harj, Diana, and Jared break down what they've learned from working with hundreds of founders building with LLMs: why prompting still matters, where it breaks down, and how teams are making it more reliable in production.\n\nThey share real examples of prompts that failed, how companies are testing for quality, and what the best teams are doing to make LLM outputs useful and predictable.\n\nThe prompt from Parahelp (S24) discussed in the episode: https://parahelp.com/blog/prompt-design\n\n0:00 Intro\n0:58 Parahelp\u2019s prompt example\n4:59 Different types of prompts\n6:51 Metaprompting \n7:58 Using examples\n12:10 Some tricks for longer prompts\n14:18 Findings on evals\n17:25 Every founder has become a forward deployed engineer (FDE)\n23:18 Vertical AI agents are closing big deals with the FDE model \n26:",
+        "id": 2808266,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DL82mGde6wo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DL82mGde6wo/hqdefault.jpg",
+        "title": "How To Prompt AI To Build The Next Billion Dollar Startup",
+        "vote": 0
+    }
+]

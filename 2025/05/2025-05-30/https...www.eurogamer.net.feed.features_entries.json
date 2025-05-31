@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ed Nightingale",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T09:47:04.963132+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T09:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/IMG_6794.JPG?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>FromSoftware's Dark Souls games all included multiplayer in some form, but with <a data-keyword=\"true\" href=\"https://www.eurogamer.net/elden-ring-walkthrough-8042\">Elden Ring</a> spin-off <a data-keyword=\"true\" href=\"https://www.eurogamer.net/games/elden-ring-nightreign\">Nightreign</a> it's turned the soulslike genre into a true co-operative online experience. Players team up in groups of three to take on fearsome Nightlord bosses, able to seamlessly share in its exhilarating thrills together.</p> <p><a href=\"https://www.eurogamer.net/should-you-play-elden-ring-nightreign-solo\">Read more</a></p>",
+        "id": 2806010,
+        "language": "en",
+        "link": "https://www.eurogamer.net/should-you-play-elden-ring-nightreign-solo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/IMG_6794.JPG?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Should you play Elden Ring Nightreign solo?",
+        "vote": 0
+    }
+]

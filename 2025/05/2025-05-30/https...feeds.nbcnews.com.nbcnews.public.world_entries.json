@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Evelyn Cheng, CNBC",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T05:17:48.598666+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T05:08:09+00:00",
+        "description": "U.S.-China trade talks \u201care a bit stalled,\u201d requiring the two countries\u2019 leaders to speak directly, Treasury Secretary Scott Bessent said Thursday.",
+        "id": 2804610,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/asia/us-china-talks-bit-stalled-need-trump-xi-weigh-treasury-secretary-bess-rcna209894",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/20250530-scott-bessent-jj-107a-bd3c3d.jpg",
+        "title": "U.S.-China trade talks \u2018a bit stalled\u2019 and need Trump and Xi to weigh in, Bessent says",
+        "vote": 0
+    }
+]

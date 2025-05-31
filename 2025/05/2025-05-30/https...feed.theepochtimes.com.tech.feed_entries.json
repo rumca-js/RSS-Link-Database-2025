@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Katabella Roberts",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T17:27:36.889232+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T17:15:20+00:00",
+        "description": "The legislation would have prohibited minors from creating accounts on social media sites such as Instagram, TikTok, Facebook, and Snapchat.",
+        "id": 2809581,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/texas-ban-on-social-media-for-under-18s-fails-to-pass-senate-5865473",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/03/03/id5819023-01JNAZ83YFKSEHSVC15GPQAM6T-1080x720.jpg",
+        "title": "Texas Ban on Social Media for Under 18s Fails to Pass Senate",
+        "vote": 0
+    }
+]

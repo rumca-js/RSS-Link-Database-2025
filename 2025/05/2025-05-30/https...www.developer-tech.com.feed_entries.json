@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-30T16:20:07.660974+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T16:16:23+00:00",
+        "description": "<p>Socket&#8217;s threat researchers have uncovered a package lurking in npm for six years that awaits a remote command to wipe projects. The culprit? A package called xlsx-to-json-lh, which mimics the legitimate xlsx-to-json-lc package. Notice the difference? Just one letter separates them, a &#8216;h&#8217; instead of a &#8216;c&#8217; \u2013 an easy mistake for even careful developers<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/package-lurking-npm-six-years-waits-destroy-your-work/\" title=\"ReadPackage lurking in npm for six years waits to destroy your work\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/package-lurking-npm-six-years-waits-destroy-your-work/\">Package lurking in npm for six years waits to destroy your work</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2808965,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/package-lurking-npm-six-years-waits-destroy-your-work",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Package lurking in npm for six years waits to destroy your work",
+        "vote": 0
+    }
+]
