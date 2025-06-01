@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Wiley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T17:49:31.765667+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T16:46:27+00:00",
+        "description": "The photojournalist documented some of the greatest human horrors of the past century, but he said, \u201cI never, I never, photograph the misery.\u201d",
+        "id": 2816897,
+        "language": "en-US",
+        "link": "https://www.newyorker.com/culture/photo-booth/sebastiao-salgados-view-of-humanity",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 351,
+        "source_url": "https://www.newyorker.com/feed/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.newyorker.com/photos/683a20a8269248d2cce75d3d/master/pass/Wiley-Salgado-Kuwait-1991.jpg",
+        "title": "Sebasti\u00e3o Salgado\u2019s View of Humanity",
+        "vote": 0
+    }
+]

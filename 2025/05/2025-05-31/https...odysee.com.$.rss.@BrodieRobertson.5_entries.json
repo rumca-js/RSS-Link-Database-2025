@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T22:39:02.220728+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T21:00:30+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Ke3iUqu1HX8\" width=\"480\" alt=\"thumbnail\" title=\"AMD Pro Drivers Suck Slightly Less On Linux\" /></p>We love AMD on Linux, it's simply just easy to get this hardware working on Linux and now even with AMD Pro drivers which most don't really need are getting a little bit better.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />AMD Pro Release Notes: https://www.amd.com/en/resources/support-articles/release-notes/RN-AMDGPU-UNIFIED-LINUX-25-10-1.html<br />OBS Change: https://ideas.obsproject.com/posts/2591/please-enable-amf-amd-hw-encoding-options-on-linux<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/y",
+        "id": 2818102,
+        "language": "en",
+        "link": "https://odysee.com/amd-pro-drivers-suck-slightly-less-on:5ce003f3c479410f21b372acbba8fe0bef59f598",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AMD Pro Drivers Suck Slightly Less On Linux",
+        "vote": 0
+    }
+]

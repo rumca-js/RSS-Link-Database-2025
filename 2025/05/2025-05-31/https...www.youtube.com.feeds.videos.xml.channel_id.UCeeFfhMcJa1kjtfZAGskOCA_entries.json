@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechLinked",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T04:08:00.606324+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T03:52:27+00:00",
+        "description": "RGB is messy and SignalRGB fixes that. One app for 100+ brands with epic lighting effects and game sync\u2014all in one place. Get it at https://bit.ly/signalrgb-TL\n\nNEWS SOURCES: https://lmg.gg/2pUGp\n\n\u25ba GET MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba GET A VPN: https://www.piavpn.com/TechLinked\n\u25ba LISTEN TO THE TECH NEWS: https://lmg.gg/TLPodcast\n\u25ba SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\u25ba OUR PODCAST GEAR: https://lmg.gg/podcastgear\n\n---------------------------------------------------\nTimestamps:\n0:00 we all got a guy\n0:12 Xbox handheld delayed, SteamOS threat\n2:08 Google AI wins, failtures\n3:35 Meta, Palmer Luckey collab\n5:18 SignalRGB!\n5:58 QUICK BITS INTRO\n6:08 NYT AI deal with Amazon\n6:46 RX 9060 XT 8GB, 16GB differences\n7:27 Hugging Face open-source robots\n8:01 E-tattoos detect mental strain",
+        "id": 2813193,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=LpjUKQNTLlE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 326,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LpjUKQNTLlE/hqdefault.jpg",
+        "title": "Microsoft Is Actually Scared Now",
+        "vote": 0
+    }
+]

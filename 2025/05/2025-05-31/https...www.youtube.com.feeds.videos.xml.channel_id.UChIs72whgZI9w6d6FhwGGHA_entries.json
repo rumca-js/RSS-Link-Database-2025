@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T12:37:22.623001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T11:47:38+00:00",
+        "description": "Sponsor: Thermaltake TR100 mini-ITX Travel Case on Amazon https://geni.us/Yn9DXb\nThis special episode of HW News features a collection of show floor reports on the ground at Computex, closing out the remainder of our (non-interview, non-special-feature) coverage. We talk about our upcoming tour around all of Taiwan to visit different computer recycling places, stores, second hand shops, and more. We also cover AI sucking up all the storage, potentially creating shortages in the future between AI use cases and data centers for more 'traditional' storage use. Further, NVIDIA's AI obsession dominates 98% of its keynote from Computex 2025 (and we recap the NVIDIA keynote announcements). be quiet! has new liquid coolers, Arctic has its first case in years, MSI responds to ASUS' Apex with the new MPOWER, and more.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com",
+        "id": 2815161,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0inAOVCI1K8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0inAOVCI1K8/hqdefault.jpg",
+        "title": "HW News - NVIDIA's 98% AI Plans, Storage Shortage from AI Use, Arctic Case, Intel B60 GPU",
+        "vote": 0
+    }
+]

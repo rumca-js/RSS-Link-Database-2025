@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T19:15:22.199425+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T19:00:26+00:00",
+        "description": "Humanity is drowning in data. We\u2019ve gone from a few measly zetabytes in 2015 to over 200 today. And by 2035? We\u2019ll be hoarding more than 19,000 zetabytes\u2014assuming we\u2019ve not paved the planet in data centres by then. Most of this digital deluge is video, from TikToks to cat fails, and our storage methods\u2014hard drives, tapes, flash\u2014are starting to hit physical limits and decay over time.\n\nEnter DNA. Yes, your body\u2019s instruction manual is nature\u2019s original storage device. A single human already holds 90 zetabytes of data in their cells\u2014nearly half the planet\u2019s digital total. It\u2019s durable, dense, and lasts for thousands of years. Scientists have even stored books and Wikipedia in a single DNA vial. The catch? It\u2019s ruinously expensive\u2014for now.",
+        "id": 2817274,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cuELU6kPykI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cuELU6kPykI/hqdefault.jpg",
+        "title": "Storage Then vs Now",
+        "vote": 0
+    }
+]

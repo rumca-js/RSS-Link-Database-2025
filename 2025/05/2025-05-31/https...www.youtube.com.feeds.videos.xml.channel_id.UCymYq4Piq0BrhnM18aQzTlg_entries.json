@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T23:09:45.207362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T22:45:01+00:00",
+        "description": "Sign up for a Plex Pass - http://lon.tv/plexpass (compensated affiliate link) - ErsatzTV is an open source project that lets you schedule your own streaming live TV channel! Build out time slots, schedule programming, and recreate the TV experience of your youth. See more Plex - https://www.youtube.com/playlist?list=PLCZHp4d1HnIvqJPAmMooCKOHieLdi3I7o and subscribe! http://lon.tv/s\n\nErsatzTV - https://ersatztv.org/\n\nVIDEO INDEX:\n00:00 - Intro\n03:11 - Download Options\n05:05 - Hardware Acceleration\n06:12 - Connect ErsatzTV to Plex\n08:21 - Setting up filler media\n09:42 - Understanding Media Collections\n12:33 - Making a Channel\n14:07 - Scheduling\n17:59 - Last step: Build a playout\n18:26 - Setting up channel on Plex\n19:53 - Watching our TV channel\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/ex",
+        "id": 2818141,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=G9J9QcrDlC0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G9J9QcrDlC0/hqdefault.jpg",
+        "title": "Make Your Own Streaming TV Channel with Plex and ErsatzTV !",
+        "vote": 0
+    }
+]

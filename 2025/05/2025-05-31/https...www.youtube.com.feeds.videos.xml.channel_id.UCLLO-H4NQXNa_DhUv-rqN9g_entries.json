@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T11:04:36.437109+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T10:38:53+00:00",
+        "description": "Wojtek sprawdza, jak odbierali\u015bmy Wied\u017amin 3: Dziki Gon dziesi\u0119\u0107 lat temu... oraz jak gra CD Projekt Red spisuje si\u0119 dzisiaj.\n\nProwadzenie i scenariusz: Wojtek W\u00f3jcicki (http://twitter.com/wojtek_wojcicki)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 2814600,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vq7An9v8daA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vq7An9v8daA/hqdefault.jpg",
+        "title": "WIED\u0179MIN 3: Sprawdzi\u0142em, co zestarza\u0142o si\u0119\u00a0przez 10 lat",
+        "vote": 0
+    }
+]

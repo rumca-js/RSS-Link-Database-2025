@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pierluigi Paganini",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T16:00:16.294026+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T15:35:13+00:00",
+        "description": "Qualys warns of two information disclosure flaws in\u00a0apport\u00a0and\u00a0systemd-coredump, the\u00a0core dump\u00a0handlers in Ubuntu, Red Hat Enterprise Linux, and Fedora distros. Researchers discovered a vulnerability in Apport (Ubuntu\u2019s core dump handler) and another bug in systemd-coredump, which is used in the default configuration of Red Hat Enterprise Linux 9 and the Fedora distribution. systemd-coredump automatically captures &#8220;core [&#8230;]",
+        "id": 2816255,
+        "language": "en-US",
+        "link": "https://securityaffairs.com/178464/hacking/two-linux-flaws-can-lead-to-the-disclosure-of-sensitive-data.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 298,
+        "source_url": "https://securityaffairs.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Two Linux flaws can lead to the disclosure of sensitive data",
+        "vote": 0
+    }
+]

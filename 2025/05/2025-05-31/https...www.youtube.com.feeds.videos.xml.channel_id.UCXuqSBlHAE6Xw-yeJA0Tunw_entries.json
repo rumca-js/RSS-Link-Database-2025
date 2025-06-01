@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T17:29:18.145955+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T16:59:47+00:00",
+        "description": "Thanks to ASUS for sponsoring this video!\nASUS is celebrating 30 years of graphics card innovation with a global campaign honoring the community that made it all possible. \nTo mark the occasion, ASUS is hosting a global charity auction from June 9\u201313. One lucky winner will take home a limited-edition RTX 5090 Dhahab Edition, signed by NVIDIA's CEO Jensen Huang.\n\nLearn more here: http://www.asus.com/us/site/rogastralcharity (If redirected, a new link will be available soon!) \n\nLinus returns to 'random Asian tech mall\u2019 in Taipei to challenge PC Builders from 3 shops to build him a custom watercooled gaming PC worthy of his new ROG Astral GeForce RTX\u2122 5090 Dhahab Edition graphics card. The results? Good lord\u2026\n\nGo check out the video where we got the gold GPU: https://www.youtube.com/watch?v=eiGd1wcgk7M\n\nDiscuss on the forum: https://linustechtips.com/topic/1613659-challenging-3-pc-builders-in-a-random-asian-tech-mall/\n\nCheck out the Build: \n\nASUS ROG Astral Dhahab GeForce RTX 5090 OC Edi",
+        "id": 2816643,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ADSNLvZ67tk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ADSNLvZ67tk/hqdefault.jpg",
+        "title": "Challenging 3 PC Builders in a Random Asian Tech Mall",
+        "vote": 0
+    }
+]

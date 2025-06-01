@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T15:25:10.444424+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T15:00:06+00:00",
+        "description": "My live set for FWA 2025 played on Digitakt 2, Digitone 2, and Ableton.\nGet the album free here: https://soundvision.bandcamp.com/album/live-at-fwa-2025\nWatch the making of here: https://youtu.be/dmreojCcKrg\nWatch the live performance here: https://www.youtube.com/watch?v=patp0rgbOyo\nArt by Hyenablood: https://bsky.app/profile/hyenablood.yeen.world\nGet the original tracks from the artists direct: \n\ndeerxing - Bright - https://deerxing.bandcamp.com/album/sutured-self\nPsyware - Blind - https://psyware.bandcamp.com/album/blind\nAaron Cherof - DT - https://cherof.bandcamp.com/music\nLEASHES - Instinct \njan Usawi - Omekalikante - https://janusawi.bandcamp.com/\ncaseJackal - LOVE YOU LIKE A DOG - https://hiimcase.bandcamp.com/album/chakra-monster\nwangleline vs. Caroline Polachek - Curse of the Sun x Door https://wangleline.bandcamp.com/album/disaster-field\nFauxx - Tether - https://soundcloud.com/fauxdot\nGOJII - GLACIERS ft. WHSPRS - https://gojii.bandcamp.com/\nr u s s e l b u c k vs. Lil Nas X",
+        "id": 2815903,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7_UxRo2sPjI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7_UxRo2sPjI/hqdefault.jpg",
+        "title": "Live at Furry Weekend Atlanta 2025 - Full Set Visualizer with Lyrics",
+        "vote": 0
+    }
+]

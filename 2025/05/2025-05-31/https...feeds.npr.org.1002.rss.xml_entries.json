@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linda Holmes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T13:27:44.538353+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T07:00:00+00:00",
+        "description": "Four super-rich tech leaders gather for a poker weekend in a mountain mansion while AI technology leads to global chaos in the new HBO film from <em>Succession </em>creator Jesse Armstrong.",
+        "id": 2815472,
+        "language": "en",
+        "link": "https://www.npr.org/2025/05/31/nx-s1-5413129/mountainhead-review-hbo-movie-steve-carell",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "'Mountainhead' skewers the tech elite \u2014 and it's very satisfying",
+        "vote": 0
+    }
+]

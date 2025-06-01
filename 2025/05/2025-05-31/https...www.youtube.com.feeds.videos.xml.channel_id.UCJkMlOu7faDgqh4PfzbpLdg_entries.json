@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdwriter1",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T15:43:07.037828+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T15:30:12+00:00",
+        "description": "Go to https://www.squarespace.com/nerdwriter for 10% off your first purchase.\nSUPPORT THE SHOW ON PATREON: https://patreon.com/nerdwriter\n\nMY BOOK: https://amzn.to/3ymfQPV \n\nSOURCES\n\nTim Riley, \"Lennon: The Man, the Myth, the Music\"\nhttps://www.amazon.com/Lennon-Myth-Music-Tim-Riley/dp/0753540193\n\nNicholas Dawidoff, \"How the Beatles Wrote \u2018A Day in the Life\u2019\"\nhttps://www.theatlantic.com/entertainment/archive/2017/05/how-the-beatles-wrote-a-day-in-the-life/527001/\n\nhttp://www.beatlesebooks.com/a-day-in-the-life\n\nhttps://blog.wfmu.org/freeform/2006/12/john_lennons_19.html\n\nMUSIC (via Epidemic Sound)\n\nStreet Groovin' - grip city cronies\nebb - bomull \nparlemor - bomull",
+        "id": 2816240,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RB4_ygW9owg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 496,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RB4_ygW9owg/hqdefault.jpg",
+        "title": "How John Lennon Wrote \"A Day In The Life\"",
+        "vote": 0
+    }
+]

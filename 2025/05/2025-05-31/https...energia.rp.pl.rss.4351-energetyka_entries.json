@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T08:54:45.649103+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T08:54:44+00:00",
+        "description": "Prezydent Donald Trump zapowiedzia\u0142, \u017ce zamierza podnie\u015b\u0107 c\u0142a na importowan\u0105 stal i aluminium z 25 proc. do 50 proc. Ekonomi\u015bci prognozuj\u0105, \u017ce decyzja ta zwi\u0119kszy presj\u0119 na globalnych producent\u00f3w stali i pog\u0142\u0119bi wojn\u0119 handlow\u0105.",
+        "id": 2814018,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art42431101-donald-trump-planuje-podwoic-cla-na-stal-i-aluminium-do-50-procent",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Donald Trump planuje podwoi\u0107 c\u0142a na stal i aluminium do 50 procent",
+        "vote": 0
+    }
+]

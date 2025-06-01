@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-31T15:31:34.003484+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-31T08:00:00+00:00",
+        "description": "<img src=\"https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4504243-cop-gta.jpg\" width=\"480\" height=\"480\" /> The Precinct is an open world cop simulator that gives the player GTA level of freedom. So what happens when you try to play it like it's Grand Theft Auto?",
+        "id": 2816028,
+        "language": "en-US",
+        "link": "https://www.gamespot.com/videos/what-happens-when-you-play-this-cop-sim-like-its-gta/2300-6466032",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 126,
+        "source_url": "https://www.gamespot.com/feeds/mashup",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamespot.com/a/uploads/screen_medium/1574/15746725/4504243-cop-gta.jpg",
+        "title": "What Happens When You Play This Cop Sim Like It's GTA?",
+        "vote": 0
+    }
+]
