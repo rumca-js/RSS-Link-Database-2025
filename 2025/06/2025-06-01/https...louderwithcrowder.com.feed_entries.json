@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Danielle Berjikian",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T11:44:21.530520+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T10:40:54+00:00",
+        "description": "<img src=\"https://www.louderwithcrowder.com/media-library/image.png?id=60350479&width=1200&height=800&coordinates=282%2C0%2C283%2C0\"/><br/><br/><p>It's one thing to enter this country illegally, and another to commit crimes afterward\u2014but to threaten the President of the United States after doing <em><em>all </em></em>of that is utterly asinine. </p><p>And the worst part? He\u2019s entered this country <em><em>nine times</em></em>. Fortunately, if he even thinks about trying again, he \u201cwon\u2019t win this,\u201d according to Border Czar Tom Homan.</p><div class=\"rm-embed embed-media\"><script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src=\"https://rumble.com/embedJS/u46w6tn\"+(arguments[1].video?'.'+arguments[1].video:'')+\"/?url=\"+encodeURIComponent(location.href)+\"&args=\"+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(",
+        "id": 2820841,
+        "language": "en-US",
+        "link": "https://www.louderwithcrowder.com/homan-potus-threat",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 200,
+        "source_url": "https://louderwithcrowder.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.louderwithcrowder.com/media-library/image.png?id=60350479&width=980",
+        "title": "Tom Homan drops BLUNT warning to criminal alien who made a violent threat against Donald Trump",
+        "vote": 0
+    }
+]

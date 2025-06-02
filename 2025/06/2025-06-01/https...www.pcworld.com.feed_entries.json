@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T12:36:36.646538+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T12:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>As a longtime advocate of Chromebooks, I\u2019ve repeatedly heard the same old myths and misconceptions about Google\u2019s laptops time and time again. It\u2019s been a while since <a href=\"https://www.pcworld.com/article/2500763/i-switched-from-windows-pcs-to-chromebooks-and-havent-looked-back.html\">I switched from Windows to ChromeOS</a>, and I can say a lot of those once-true objections are now outdated.</p>\n\n\n\n<p>Here are some of the most common Chromebook misconceptions that still get passed around yet can be safely ignored.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"myth-chromebooks-always-have-to-be-connected-to-the-internet\">Myth: Chromebooks always have to be connected to the internet</h2>\n\n\n<div class=\"extendedBlock-wrapper block-coreImage undefined\"><figure data-wp-context='{\"uploadedSrc\":false,\"figureClassNames\":\"wp-block-image size-large\",\"figureStyles\":null,\"i",
+        "id": 2820861,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2795577/8-common-chromebook-myths-that-simply-arent-true.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2025/05/Chromebook-download-Netflix-media-episodes-screenshot.jpg?quality=50&strip=all&w=1200",
+        "title": "8 common Chromebook myths that simply aren\u2019t true",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T04:08:28.892012+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T03:19:01+00:00",
+        "description": "The ESP32-P4 Smart 86 Box is a compact development board with a 4-inch capacitive touchscreen, designed for HMI, smart control panels, and edge processing. Its 86 mm form factor allows it to be easily installed in wall-mounted enclosures for use in embedded automation and smart terminal applications. As the name implies, this board is built [&#8230;]",
+        "id": 2819108,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/touchscreen-smart-box-based-on-esp32-p4-with-wi-fi-6-or-ethernet",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Touchscreen Smart Box Based on ESP32-P4 with Wi-Fi 6 or Ethernet",
+        "vote": 0
+    }
+]

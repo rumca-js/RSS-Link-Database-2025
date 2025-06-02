@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T16:01:56.703496+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T15:58:25+00:00",
+        "description": null,
+        "id": 2822211,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-glosna-dymisja-w-ukrainskim-wojsku-w-tle-tragedia-na-poligon,nId,21823674",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 402,
+        "source_url": "https://wydarzenia.interia.pl/swiat/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "G\u0142o\u015bna dymisja w ukrai\u0144skiej armii. W tle tragedia na poligonie",
+        "vote": 0
+    }
+]

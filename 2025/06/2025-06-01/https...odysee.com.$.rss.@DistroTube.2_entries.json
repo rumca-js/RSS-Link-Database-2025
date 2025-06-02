@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T14:01:22.364408+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T12:09:35+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/1RhQrMNltns\" width=\"480\" alt=\"thumbnail\" title=\"Are MacOS Users That Different Than Linux Users? (with @Linkarzu)\" /></p>I'm chatting with a YouTube content creator that mostly uses MacOS user.  @linkarzu isn't your typical MacOS user though.  He uses a lot of FOSS apps including: neovim, ghostty, tmux, fzf, zsh, etc.  He even uses a window manager in MacOS!  <br /><br />0:00 Welcome to Christian (@linkarzu)...introduce yourself!<br />2:24 Background and how you ended up in Tech?<br />4:44 Why did you start making content on Youtube?<br />7:59 Do you script your video or use a teleprompter?<br />9:27 Favorite music<br />11:37 Favorite movies<br />12:40 What OS are you using and why? <br />14:19 Thoughts on Windows?<br />16:04 Text editor/IDE<br />19:52 Note taking<br />23:59 Window manager in MacOS<br />26:13 File sync<br />27:06 Password manager<br />27:12 Browser of choice (please tell me it's not Safari!)<br />29:42 His colorscheme selector ",
+        "id": 2821656,
+        "language": "en",
+        "link": "https://odysee.com/are-macos-users-that-different-than:62fbac8ab794b6248289435fac652763ba83fbcc",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/1RhQrMNltns",
+        "title": "Are MacOS Users That Different Than Linux Users? (with @Linkarzu)",
+        "vote": 0
+    }
+]

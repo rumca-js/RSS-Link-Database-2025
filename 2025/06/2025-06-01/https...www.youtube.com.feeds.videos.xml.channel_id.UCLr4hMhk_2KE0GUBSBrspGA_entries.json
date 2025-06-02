@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T17:30:02.565267+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T16:59:52+00:00",
+        "description": "Polityka powinna by\u0107 nudna. Tak nudna, jak arkusz Excela z projektem ustawy, kt\u00f3rej nikt nie przeczyta. Ale nie jest - bo social media, algorytmy, AI i nasze w\u0142asne emocje zrobi\u0142y z niej widowisko. Kibicujemy, zamiast my\u015ble\u0107. Bijemy brawo, zamiast rozlicza\u0107.\nW tym filmie zastanawiam si\u0119, czy to technologia zepsu\u0142a polityk\u0119 - i czy mo\u017ce te\u017c pom\u00f3c j\u0105 naprawi\u0107.\nB\u0119dzie o deepfake\u2019ach, botach, sztabach wyborczych generuj\u0105cych influencer\u00f3w, o politykach, kt\u00f3rzy powinni siedzie\u0107 na dupie przez 8 godzin dziennie, i o tym dlaczego prezydent w formie awatara mo\u017ce mie\u0107 wi\u0119cej sensu ni\u017c cz\u0142owiek lataj\u0105cy po \u015bwiecie na koszt podatnika.\nNie wszystko, co tu m\u00f3wi\u0119, da si\u0119 wprowadzi\u0107 od jutra. Ale mo\u017ce wreszcie pora przesta\u0107 traktowa\u0107 polityk\u0119 jak freak fight.\n\nZno\u015bne kawki - https://znosne.pl",
+        "id": 2822747,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aPsPG1TeCWA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aPsPG1TeCWA/hqdefault.jpg",
+        "title": "Technologia zepsu\u0142a nam polityk\u0119. Czy jest w stanie j\u0105 naprawi\u0107?",
+        "vote": 0
+    }
+]

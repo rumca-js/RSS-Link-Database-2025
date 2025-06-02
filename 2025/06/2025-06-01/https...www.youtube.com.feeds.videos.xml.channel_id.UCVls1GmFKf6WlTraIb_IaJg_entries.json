@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T13:11:28.981622+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T12:09:35+00:00",
+        "description": "I'm chatting with a YouTube content creator that mostly uses MacOS user.  @linkarzu isn't your typical MacOS user though.  He uses a lot of FOSS apps including: neovim, ghostty, tmux, fzf, zsh, etc.  He even uses a window manager in MacOS!  \n\n0:00 Welcome to Christian (@linkarzu)...introduce yourself!\n2:24 Background and how you ended up in Tech?\n4:44 Why did you start making content on Youtube?\n7:59 Do you script your video or use a teleprompter?\n9:27 Favorite music\n11:37 Favorite movies\n12:40 What OS are you using and why? \n14:19 Thoughts on Windows?\n16:04 Text editor/IDE\n19:52 Note taking\n23:59 Window manager in MacOS\n26:13 File sync\n27:06 Password manager\n27:12 Browser of choice (please tell me it's not Safari!)\n29:42 His colorscheme selector script\n31:36 What shell do you use?\n32:12 Do you consider yourself a minimalist?\n34:30 How is Vim emulation in VSCode?\n38:36 Keyboard and mouse\n42:15 Your thoughts on the Linux community?\n45:21 How do you use AI in your workflow?\n51:49 Do you",
+        "id": 2821348,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1RhQrMNltns",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1RhQrMNltns/hqdefault.jpg",
+        "title": "Are MacOS Users That Different Than Linux Users? (with @Linkarzu)",
+        "vote": 0
+    }
+]

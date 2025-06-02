@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T06:00:04.616417+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T05:31:02+00:00",
+        "description": "Even the GOAT Tom Brady can\u2019t throw a perfect spiral. Here\u2019s why. \ud83c\udf0f Get exclusive NordVPN deal here \u27b5  https://NordVPN.com/veritasium It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\u270c\n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n\u2580\u2580\u2580\nA huge thank you to Tom Brady for coming and throwing some footballs with us and letting us analyse his throw.  You can check out his channel here: https://www.youtube.com/@tombrady \n\nAlso thank you to Kevin Bonner and the team at Shadow Lion for helping make this happen!\n\nA big thanks to Daniel Hare and Wilson for all their help collecting and analyzing the data. \n\nA massive thank you to Prof. Philip Ansell, David Attig, Matt Brotnow, Sam Hince and Derrick Wiberg at the University of Illinois at Urbana-Champaign for all their work testing out footballs in their wind tunnel (more of that to come in our second video).  \n\nWe\u2019d also like to shout o",
+        "id": 2819480,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=J3i3F2e4IYs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J3i3F2e4IYs/hqdefault.jpg",
+        "title": "Why it's Impossible to Throw a Perfect Spiral (ft. Tom Brady)",
+        "vote": 0
+    }
+]

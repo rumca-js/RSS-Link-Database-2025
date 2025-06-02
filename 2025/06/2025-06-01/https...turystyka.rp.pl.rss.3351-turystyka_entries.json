@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T18:23:50.036220+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T18:23:49+00:00",
+        "description": "Biuro podr\u00f3\u017cy Rainbow sprzeda\u0142o na lato 369,4 tysi\u0105ca wycieczek. To o 9,8 procent wi\u0119cej ni\u017c rok temu w tym samym czasie \u2013 informuje sp\u00f3\u0142ka w raporcie dla akcjonariuszy.",
+        "id": 2823072,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art42436171-rainbow-najnowsze-wyniki-zapowiadaja-rekordowy-rok-jest-miejsce-na-nizsze-ceny",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rainbow \u2013 najnowsze wyniki zapowiadaj\u0105 rekordowy rok. \u201eJest miejsce na ni\u017csze ceny\"",
+        "vote": 0
+    }
+]

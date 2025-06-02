@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T15:18:45.430900+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T15:01:16+00:00",
+        "description": "Learn more about physics and mathematics on Brilliant! Get your first 30 days free as well as 20% off an annual premium subscription when you use my link \u279c https://brilliant.org/sabine.\n\nThere are a whole lot of people with \u201ctheories of everything\u201d \u2013 theories which supposedly explain how the whole universe works. Most of the time, these theories fall very short of that goal. Causal Fermion Systems are an approach that actually seems promising\u2026 though it still has its flaws. Today I have a brief summary of what might be the most underreported theory of everything out there.\n\nThis video comes with a quiz which you can take here: https://quizwithit.com/start_thequiz/1748503905512x717520344445091800\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science new",
+        "id": 2821995,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pzHuncBh_eo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pzHuncBh_eo/hqdefault.jpg",
+        "title": "The Theory Of Everything That Nobody Talks About",
+        "vote": 0
+    }
+]

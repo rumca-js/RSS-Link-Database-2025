@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-01T19:56:59.477431+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-01T18:37:38+00:00",
+        "description": "Support GN's work on Patreon! https://www.patreon.com/gamersnexus\nThis is a round-up of the best PC cases we saw at Computex, launching mostly throughout the rest of 2025. These will be coming out over the next several months and this round-up of the best of the show helps us get the most interesting ones into the queue for in-depth testing and reviews. If you see any you're interested in us testing, or know of some we didn't list, post them in the comments so we know what everyone wants to see throughout the year. We've been running a lot of case reviews lately and have more coming! There are a ton of airflow cases again, but this time, more of the companies have managed to mix looks with performance to try and achieve a stronger balance. The fishtank style is less prevalent than it was in 2024, but still popular. \n\nCases we're looking at include the Thermalright TR M10 ultra-budget case, SilverStone's FLP02 and LD05, Cooler Master's modular MF600, MF500, and MF400 cases, Hyte's X50 ",
+        "id": 2823487,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=gnv2spLqGss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gnv2spLqGss/hqdefault.jpg",
+        "title": "Best PC Cases for 2025 So Far | Computex Round-Up & New Designs",
+        "vote": 0
+    }
+]
