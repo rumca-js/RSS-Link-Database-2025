@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T22:55:27.683701+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T21:01:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/tw-Qyp5qfTg\" width=\"480\" alt=\"thumbnail\" title=\"Ubuntu Linux And The GNOME Wayland Problem\" /></p>Ubuntu's flagship version is powered by GNOME but coming soon the project wants to drop X11 support, however Ubuntu isn't ready to do so, at this stage what is going to happen is completely up in the air<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Wayland Significant Issues: https://community.kde.org/Plasma/Wayland_Known_Significant_Issues<br />GDM Change: https://gitlab.gnome.org/GNOME/gdm/-/merge_requests/277<br />Fedora Cleared To Ship: https://pagure.io/fesco/issue/3408<br />Dropping X11: https://gitlab.gnome.org/GNOME/gnome-session/-/merge_requests/99<br /><br />=========Video Pla",
+        "id": 2832965,
+        "language": "en",
+        "link": "https://odysee.com/ubuntu-linux-and-the-gnome-wayland:77f8116d4d62d5c73909f36aa847d41df20e79eb",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/tw-Qyp5qfTg",
+        "title": "Ubuntu Linux And The GNOME Wayland Problem",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T14:36:21.308624+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T13:48:31+00:00",
+        "description": "Odprawa na lotnisku, przej\u015bcie przez kontrol\u0119 bezpiecze\u0144stwa i oczekiwanie na wej\u015bcie do samolotu cz\u0119sto decyduje, z jakim nastawieniem klienci polec\u0105 na wakacje. Dlatego tak chcemy zorganizowa\u0107 podr\u00f3\u017c, \u017ceby zwi\u0119kszy\u0107 ich wygod\u0119 i poczucie bezpiecze\u0144stwa - og\u0142osi\u0142o biuro podr\u00f3\u017cy Join UP! Polska.",
+        "id": 2829069,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art42439491-join-up-nasza-obecnosc-na-kazdym-lotnisku-sprawi-ze-klienci-unikna-stresu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Join UP!: Nasza obecno\u015b\u0107 na ka\u017cdym lotnisku sprawi, \u017ce klienci unikn\u0105 stresu",
+        "vote": 0
+    }
+]

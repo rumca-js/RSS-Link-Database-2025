@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T10:39:32.470363+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T10:39:31+00:00",
+        "description": "PZU i Bank Pekao podpisa\u0142y memorandum o wsp\u00f3\u0142pracy w celu przeprowadzenia potencjalnej transakcji po\u0142\u0105czenia do 30 czerwca 2026 roku - poinformowa\u0142y sp\u00f3\u0142ki w poniedzia\u0142kowym komunikacie prasowym.",
+        "id": 2827461,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/pzu-i-bank-pekao-zaczynaja-rozmowy-o-fuzji-podpisano-memorandum",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PZU i Bank Pekao b\u0119d\u0105 rozmawia\u0107 o fuzji. Co dalej z ich markami?",
+        "vote": 0
+    }
+]

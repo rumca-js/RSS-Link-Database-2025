@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Left_Entertainer_356",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T09:17:34.824808+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T08:56:33+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I&#39;m an indie developer and long-time RSS enthusiast. I recently launched <a href=\"https://feedlane.app\"><strong>Feedlane</strong></a> \u2013 a fast, clean, and privacy-friendly RSS reader built for people who love full control over their news consumption.</p> <p>\ud83d\udcf0 <strong>Key features:</strong></p> <ul> <li>Clean, responsive interface (desktop, tablet, mobile)</li> <li><strong>Smart reading lists</strong> that auto-organize articles based on your own rules</li> <li><strong>Advanced filters</strong> to hide paywalled articles, skip unwanted topics, or mute feeds temporarily</li> <li><strong>Works with Reeder, Unread, Fiery Feeds, Feedme, FocusReader</strong> via the <strong>Fever API</strong></li> <li><strong>Public API available</strong> \u2013 great if you want to build custom tools or integrations</li> <li>No tracking, no AI-algorithms \u2014 just your feeds, your rules</li> </ul> <p>\ud83d\udca1 If you&#39;re a developer working on an RSS app, I&#39",
+        "id": 2826703,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1l1d4sg/i_built_feedlaneapp_a_modern_privacyfriendly_rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built Feedlane.app \u2013 a modern, privacy-friendly RSS reader with Fever API support & public API for devs",
+        "vote": 0
+    }
+]

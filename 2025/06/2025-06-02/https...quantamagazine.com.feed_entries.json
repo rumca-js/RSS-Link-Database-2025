@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joseph Howlett",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T14:33:39.284096+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T14:15:06+00:00",
+        "description": "By extending the scope of the key insight behind Fermat\u2019s Last Theorem, four mathematicians have made great strides toward building a \u201cgrand unified theory\u201d of math.            <p>The post <a href=\"https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/\" target=\"_blank\">The Core of Fermat\u2019s Last Theorem Just Got Superpowered</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2829000,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Next-level-FLT_crNash-Weerasekera-Default.webp",
+        "title": "The Core of Fermat\u2019s Last Theorem Just Got Superpowered",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T09:29:18.174546+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T08:26:00+00:00",
+        "description": "The unexpected happens. Systems fail, humans are unpredictable, interfaces aren&#8217;t perfect&#8230; The customer service professional demonstrates their strategic insight when they plan for eventual failure instead of denying it&#8217;s possible. The first step, of course, is to design things with resilience and care so they don&#8217;t break. Then what? One option is to save the [&#8230;]",
+        "id": 2827008,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/what-do-we-do-when-it-breaks",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What do we do when it breaks?",
+        "vote": 0
+    }
+]

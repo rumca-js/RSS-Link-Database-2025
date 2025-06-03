@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T16:52:12.516210+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T16:17:13+00:00",
+        "description": "<p>IBM and Roche are teaming up on an AI solution to a challenge faced by millions worldwide: the relentless daily grind of diabetes management. Their new brainchild, the Accu-Chek SmartGuide Predict app, provides AI-powered glucose forecasting capabilities to users.\u00a0 The app doesn&#8217;t just track where your glucose levels are\u2014it tells you where they&#8217;re heading. Imagine [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/diabetes-management-ibm-roche-use-ai-forecast-blood-sugar-levels/\">Diabetes management: IBM and Roche use AI to forecast blood sugar levels</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2830351,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/diabetes-management-ibm-roche-use-ai-forecast-blood-sugar-levels",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "Diabetes management: IBM and Roche use AI to forecast blood sugar levels",
+        "vote": 0
+    }
+]

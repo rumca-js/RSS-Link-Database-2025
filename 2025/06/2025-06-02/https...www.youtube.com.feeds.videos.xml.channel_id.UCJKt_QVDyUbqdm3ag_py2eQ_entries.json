@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuokka77",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T07:39:41.562831+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T07:27:13+00:00",
+        "description": "\"Plastique Machinery\" (1997) by Raze (aka Mad-E)/Nah-kolor. Unranked at Spoletium 1998 4ch music compo.\nAtari art \"Stay Strong\" by Vasyl/Joker^SWEET16, 3rd at Silly Venture 2023 WE Atari ST/E gfx compo.\n\nA1200 r1D.4 audio. DeliTracker 2.34 with Paula-NotePlayer output (internal ProTracker replayer).",
+        "id": 2826376,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Phjniwu85x4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 180,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Phjniwu85x4/hqdefault.jpg",
+        "title": "Amiga music: Raze - Plastique Machinery (A1200\ud83c\udfa7Dolbyfied)",
+        "vote": 0
+    }
+]

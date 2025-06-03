@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T18:26:34.427051+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T18:14:00+00:00",
+        "description": "Scientists have discovered a star behaving like no other seen before, giving fresh clues about the origin of a new class of mysterious objects.",
+        "id": 2831045,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/lprt-lg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A Star Like No Other",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T17:09:15.846347+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T16:43:10+00:00",
+        "description": "Discord Monthly Challenge\n\nSupport the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nBandcamp: http://bit.ly/2Kq617o\nSpotify: https://spoti.fi/2N40SoX\nYouTube Music: https://bit.ly/3PZQ4ol\niTunes: https://apple.co/2pqh3SK\nAmazon Music: https://amzn.to/2O9q1fe\n\nConnect:\nBluesky: https://bit.ly/3ZGYhom\nWebsite: http://bit.ly/rmrmedia",
+        "id": 2830396,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=K1dA_klwrsc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K1dA_klwrsc/hqdefault.jpg",
+        "title": "Discord Monthly Challenge Listening Party: May 2025 (Underwater Music)",
+        "vote": 0
+    }
+]

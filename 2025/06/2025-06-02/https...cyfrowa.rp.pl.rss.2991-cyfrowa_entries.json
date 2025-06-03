@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T12:04:56.824917+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T12:04:56+00:00",
+        "description": "\u017bona wybranego w\u0142a\u015bnie w drugiej turze wybor\u00f3w nowego prezydenta RP niespodziewanie przyku\u0142a uwag\u0119. W sieci a\u017c wrze. Dlaczego przysz\u0142a pierwsza dama to jedno z najgor\u0119tszych dzi\u015b nazwisk w internecie?",
+        "id": 2827957,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/it/art42439361-rozgrzala-internet-do-czerwonosci-kim-jest-marta-nawrocka",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rozgrza\u0142a internet do czerwono\u015bci. Kim jest Marta Nawrocka?",
+        "vote": 0
+    }
+]

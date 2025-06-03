@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T14:55:26.498252+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T14:55:25+00:00",
+        "description": "Koncerny b\u0119d\u0105 kooperowa\u0107 przy projektach wydobywczych i rafineryjnych oraz wzmacnia\u0107 relacje transgraniczne i handlowe. Dzi\u0119ki temu w naszym regionie powinno wzrosn\u0105\u0107 bezpiecze\u0144stwo energetyczne.",
+        "id": 2829232,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art42440501-orlen-i-naftogaz-zaciesniaja-wspolprace-w-biznesie-ropy-i-gazu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Orlen i Naftogaz zacie\u015bniaj\u0105 wsp\u00f3\u0142prac\u0119 w biznesie ropy i gazu",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T12:26:22.167520+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T11:00:45+00:00",
+        "description": "Ready to become a certified Analyst - Security QRadar? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdneFG\n\nLearn more about Quishing here \u2192 https://ibm.biz/BdneFe\n\n\ud83d\udea8 QR codes are everywhere, but are they safe? Distinguished Engineer Jeff Crume uncovers 'quishing,' a phishing attack using malicious QR codes to steal sensitive data like passwords and credit card info. Learn tips to protect yourself with malware prevention, trusted scanner apps, and MFA. \ud83d\udd12\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdneFp\n\n#cybersecurity #qrcode #phishing",
+        "id": 2827960,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RVF6NVnJvd8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RVF6NVnJvd8/hqdefault.jpg",
+        "title": "What Is Quishing? How Hackers Use QR Codes to Steal Your Data",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T15:59:19.861595+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T15:03:19+00:00",
+        "description": "Space debris landing on Earth have sparked safety concerns on the ground about where it is going to land. In February, an upper stage of a SpaceX Falcon 9 rocket was breaking up as it made re-entry over Europe and debris scattered across multiple locations in western Poland. The European Space Agency believes up to 200 tons of space hardware re-enters the earth\u2019s atmosphere uncontrolled every year. \n\nAs space launch traffic reaches all time highs, WSJ spoke with space industry experts, who explain whether uncontrolled re-entries could be an accident waiting to happen.\n\nChapters:\n0:00 Space debris\u2019s record numbers\n0:39 Incident in Poland\n1:28 The danger\n3:15 Incident in Florida \n4:53 What survives upon re-entry \n5:59 Crowded space and orbital decay\n6:53 China \n7:39 Potential solutions\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the n",
+        "id": 2829777,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=drRaLMI0SI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/drRaLMI0SI4/hqdefault.jpg",
+        "title": "Your Chances of Being Hit By Junk From Space Is Low, But Never Zero | WSJ",
+        "vote": 0
+    }
+]

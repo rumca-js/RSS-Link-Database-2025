@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-02T16:03:23.449006+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-02T15:01:09+00:00",
+        "description": "Ogarnij sobie mobilny internet na czas urlopu: https://saily.com/cdsaily\n\nSwitch 2 to temat, na kt\u00f3ry jeszcze przed premier\u0105 powiedziano ju\u017c\u00a0wszystko. Ale jest jedna rzecz, o kt\u00f3rej nie rozmawia w\u0142a\u015bciwie nikt. A dla samego Nintendo jest niezwykle istotna.\n\nProwadzenie i scenariusz: Dawid \u201espikain\" Bojarski (http://dawid.omg.lol)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 2829799,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=E-QIIkiKs4Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E-QIIkiKs4Y/hqdefault.jpg",
+        "title": "SWITCH 2: Genialna funkcja, o kt\u00f3rej nikt nie m\u00f3wi",
+        "vote": 0
+    }
+]
