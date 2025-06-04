@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warhammer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T10:56:44.082388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T10:01:27+00:00",
+        "description": "Watch along as Adam takes you through the steps to working with Warhammer resin. He\u2019ll go over some basic principles that you can apply to building and prepping your first resin character models for your army! \n\nIf you're new to painting, our Citadel Colour Painting Essentials playlist hosts an array of beginner-friendly videos to help you get started.\n\nFollow for more Warhammer, more often:\n\n- Instagram: https://www.instagram.com/warhammerofficial/\n- Threads: https://www.threads.net/@warhammerofficial\n- Facebook: https://www.facebook.com/WarhammerOfficial/\n- Warhammer Community: https://www.warhammer-community.com/\n- Get Warhammer in your inbox: https://ow.ly/6SJq50T3NL1",
+        "id": 2836107,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pFaaTr-WBuU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 385,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwdh3MTrFq3sXlB4ct8B-Fg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pFaaTr-WBuU/hqdefault.jpg",
+        "title": "Introduction to Cleaning Your Warhammer Resin | Warhammer",
+        "vote": 0
+    }
+]

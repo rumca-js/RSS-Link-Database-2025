@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T09:25:39.248959+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T08:53:00+00:00",
+        "description": "It&#8217;s easier than ever to fall into an inbox mindset. There are things to do, and we do them. Inbox zero is the unattainable goal that fills our days. But it avoids the real question, which is: which inbox are we emptying? There&#8217;s the inbox of urgent texts. Or the inbox of slightly less urgent [&#8230;]",
+        "id": 2835588,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/which-inbox",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Which inbox?",
+        "vote": 0
+    }
+]

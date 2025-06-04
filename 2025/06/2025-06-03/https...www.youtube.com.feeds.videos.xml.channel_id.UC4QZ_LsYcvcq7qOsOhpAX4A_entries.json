@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ColdFusion",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T15:23:31.208287+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T15:07:15+00:00",
+        "description": "Go to https://ground.news/coldfusion to stay fully informed on every side of every story. \n\nIn the year 2000, once signature by Bill Clinton changed the course of history. In this episode, we'll explore what exactly happened.\n\nWatch or listen to ColdFusion on Spotify: https://open.spotify.com/show/1YEwCKoRz8fEDqheXB6UJ1\n\nShow notes:\nhttps://docs.google.com/document/d/1i6hB6MlOxVFnXCum-p7bjk8MT20Im4vOMX0qamXvFb0/edit?tab=t.0\n\nColdFusion Music: \n\nhttps://www.youtube.com/@ColdFusionmusic\nhttp://burnwater.bandcamp.com   \n\nGet my book: \n\nhttp://bit.ly/NewThinkingbook \n\nColdFusion Socials: \n\nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nCreated by: Dagogo Altraide\nProducers: Tawsif Akkas, Dagogo Altraide",
+        "id": 2838352,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_uNdC4ryd8g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 76,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_uNdC4ryd8g/hqdefault.jpg",
+        "title": "The Moment America Changed Forever",
+        "vote": 0
+    }
+]

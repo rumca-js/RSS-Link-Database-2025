@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T15:21:47.543406+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T14:01:12+00:00",
+        "description": "Renewable energy has created a hidden infrastructure challenge. While solar and wind power now make up a larger share of the electricity supply, the power grid wasn\u2019t designed to handle them.\n\nWSJ asked a power grid engineer to break down the mechanics of renewable energy to explain three ways to make the grid more resilient to disruptions. \n\nChapters:\n0:00 Renewable energy\u2019s hidden problem\n0:35 Why the power grid needs inertia\n2:01 Solution #1: grid-forming inverter\n3:55 Solution #2: synchronous condenser\n4:51 Solution #3: battery energy storage systems\n5:53 The power grid\u2019s future\n\nPro Perfected\nExperts in engineering and design break down a ubiquitous problem, examining how the world is built and what can make it better.\n\n#Solar #RenewableEnergy #WSJ",
+        "id": 2838351,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Sq-y-wiZduE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sq-y-wiZduE/hqdefault.jpg",
+        "title": "Engineer Explains Three Key Issues in Renewable Grid Design | WSJ Pro Perfected",
+        "vote": 0
+    }
+]

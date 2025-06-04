@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T14:17:51.361208+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T13:39:40+00:00",
+        "description": "Learn college-level Chemistry in this course from @ChadsPrep.\n\nCheck out Chad's premium course for study guides, quizzes, and practice exams: https://school.chadsprep.com/subscription/general-chemistry-master-course-monthly\n\nContents\n- 0:00:00 Intro\n- 0:00:37 1.1 Matter\n- 0:27:16 1.2 Scientific Notation & Significant Figures\n- 0:49:59 1.3 Units and Conversions\n- 1:21:26 2.1 Atomic Theory and Structure & Introduction to the Periodic Table of the Elements\n- 1:50:46 2.2 Naming Ionic Compounds\n- 2:09:35 2.3 Naming Molecular Compounds\n- 2:17:35 2.4 How to Name Acids\n- 2:30:06 3.1 Chemical Reactions & Chemical Equations\n- 2:48:07 3.2 Calculations with Moles\n- 3:18:26 3.3 Mass Percent and Empirical and Molecular Formulas\n- 3:32:09 3.4 Limiting Reactant Problems\n- 3:56:31 4.1 Solutions and Electrolytes\n- 4:17:21 4.2 Double Displacement Reactions\n- 4:40:10 4.3 Oxidation Reduction Reactions\n- 5:06:33 4.4 Molarity and Dilutions\n- 5:22:45 4.5 Solution Stoichiometry\n- 5:33:20 5.1 First Law of Ther",
+        "id": 2837698,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6OV3tmt9uhs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6OV3tmt9uhs/hqdefault.jpg",
+        "title": "General Chemistry \u2013 Full University Course",
+        "vote": 0
+    }
+]

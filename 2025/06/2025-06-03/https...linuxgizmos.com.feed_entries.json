@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T17:36:11.230050+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T17:15:28+00:00",
+        "description": "FriendlyElec has introduced the NanoPi M5, a compact single-board computer based on the Rockchip RK3576 processor. It features a 6 TOPS INT8 NPU, supports LPDDR4X or LPDDR5 memory, and offers UFS 2.0 storage along with dual Gigabit Ethernet and MIPI-CSI/DSI interfaces. Compared to recently launched boards such as the NanoPi Zero2 (RK3528A), NanoPi M6 (RK3588S), [&#8230;]",
+        "id": 2839706,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/friendlyelec-introduces-nanopi-m5-with-rk3576-6-tops-npu-and-multi-os-ai-capabilities",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FriendlyElec NanoPi M5 Offers RK3576, Dual LAN, MIPI-CSI, and 6 TOPS NPU",
+        "vote": 0
+    }
+]

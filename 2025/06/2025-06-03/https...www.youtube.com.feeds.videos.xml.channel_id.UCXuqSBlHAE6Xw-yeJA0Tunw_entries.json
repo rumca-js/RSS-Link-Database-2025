@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T18:43:08.165371+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T17:15:46+00:00",
+        "description": "Thanks to AMD for being a great partner and keeping this series going! Check out their latest offerings at https://lmg.gg/f6PMg and head over to https://bit.ly/45EAB7k to enter for a chance to win an AMD Ultimate Gaming Bundle for you and a friend!\n\nVance is the executive assistant to the higher ups here at Linus Media Group, but today its his time to shine having Linus build him a new computer, a new NAS, and even installing posters! Linus also attempts to make coffee, but we will just tell him he did a good job even though it turned out\u2026 not great!\n\nCheck out the items from the Vance's upgrade: \n\nAMD Ryzen 7 9800X3D 5.2 GHz 8-core CPU: https://geni.us/6YDkXO\nGIGABYTE Gaming Radeon RX 9070 XT 16GB GPU: https://geni.us/oE7n4w\nLG 65\" C4 OLED TV: https://geni.us/sBqe\nFractal Design Node 804 Micro ATX Case: https://geni.us/nGQjxv\nRoborock QX Revo Robot Vacuum and Mop: https://lmg.gg/75mOe\nSamsung Galaxy S25 256GB Icyblue: https://geni.us/SfmMi\nASUS TUF B-650-PLUS Motherboard: https://gen",
+        "id": 2840343,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=g3Y0lBoOrEg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g3Y0lBoOrEg/hqdefault.jpg",
+        "title": "My Assistant became my Boss for the Day - AMD $5000 Ultimate Tech Upgrade",
+        "vote": 0
+    }
+]

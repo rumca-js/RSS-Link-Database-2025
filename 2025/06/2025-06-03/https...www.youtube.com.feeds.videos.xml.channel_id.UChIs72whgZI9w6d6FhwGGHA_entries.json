@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T13:23:50.124208+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T12:49:28+00:00",
+        "description": "Sponsor: Thermalright Frozen Prism 360 on Amazon - https://geni.us/FUqbQC\nThis review of the NVIDIA GeForce RTX 5060 benchmarks the GPU vs. alternatives like the RTX 4060, RTX 3060, RTX 2060, and even GTX 1060 6GB. The tests of the RTX 5060 Ti (16GB) and RTX 4060 Ti (16GB) also show that the 5060 is overall surrounded by cards with more VRAM, including older cards like the RX 6700 XT. The next benchmarks will look at the AMD RX 9060 XT, so we're keeping this one a bit lighter today as the 9060 XT review will post in short order. We'd encourage checking back for that. For now, this looks at the RTX 5060's performance despite NVIDIA's best efforts to bury it during a Computex launch.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nRELATED PRODUCTS [Affiliate Links]\n\nNVIDIA RTX 5060 on Amazon: https://geni.us/NZQX\nAMD RX 9070 on Amazon (when it ",
+        "id": 2837371,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Z0jjxWRcp_0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z0jjxWRcp_0/hqdefault.jpg",
+        "title": "Forbidden Review: NVIDIA RTX 5060 GPU Benchmarks",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T09:36:30.044074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T09:31:43+00:00",
+        "description": "Investigators accuse the man of having given the order to kill the members of Grupo Fugitivo.",
+        "id": 2835615,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/clygr1v6z2mo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/630f/live/1a98d3b0-4050-11f0-bace-e1270fc31f5e.jpg",
+        "title": "Mexican police arrest suspect in killing of five band members",
+        "vote": 0
+    }
+]

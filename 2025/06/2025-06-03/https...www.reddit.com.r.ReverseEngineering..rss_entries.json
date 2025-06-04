@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Bright-Dependent2648",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T12:45:27.002853+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T12:36:36+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><strong>iOS Activation Accepts Custom XML Provisioning \u2013 Configs Persist Across DFU, Plist Shows Bird Auth Mod</strong></p> <p>While inspecting iOS activation behavior, I submitted a raw XML plist payload to Apple&#39;s <a href=\"https://humb.apple.com/humbug/baa\"><code>https://humb.apple.com/humbug/baa</code></a> endpoint during provisioning.</p> <p>What I observed:</p> <ul> <li>The <strong>endpoint responds with 200 OK</strong> and issues a <strong>valid Apple-signed certificate</strong></li> <li>The payload was accepted <strong>without MDM, jailbreak, or malware</strong></li> <li>Device was new, DFU-restored, and unsigned</li> <li><strong>Provisioned settings (CloudKit, modem policy, coordination keys)</strong> persisted even after full erase + restore</li> </ul> <p>What caught my eye later was a key entry in <code>defaults-com.apple.bird</code>:</p> <pre><code>&lt;key&gt;CKPerBootTasks&lt;/key&gt; &lt;array&gt; &lt;string&gt;CKAccountInfoCacheReset",
+        "id": 2837019,
+        "language": null,
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1l2aro6/ios_activation_accepts_custom_xml_provisioning",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "iOS Activation Accepts Custom XML Provisioning \u2013 Configs Persist Across DFU, Plist Shows Bird Auth Mod",
+        "vote": 0
+    }
+]

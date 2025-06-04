@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T16:07:32.534515+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T13:49:23+00:00",
+        "description": "Learn more about Big Data here \u2192 https://ibm.biz/BdnJQ7\n\nBig data or fast data? \ud83d\ude80 Ellie Najewicz breaks down their key differences, exploring how they shape AI, automation, and real-time analytics. Learn about data architectures, maturity models, and how to align your strategy for scalable, AI-driven success!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdnJQW\n\n#bigdata #data #ai",
+        "id": 2838909,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vWVOMV_vxxs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vWVOMV_vxxs/hqdefault.jpg",
+        "title": "Big Data vs Fast Data: Optimize Your AI Strategy",
+        "vote": 0
+    }
+]

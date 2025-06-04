@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T07:21:23.737811+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T07:21:23+00:00",
+        "description": "Komisja Europejska na\u0142o\u017cy\u0142a w poniedzia\u0142ek 329 mln euro kary na dostawc\u00f3w \u017cywno\u015bci Delivery Hero i Glovo za udzia\u0142 w kartelu. W post\u0119powaniu antymonopolowym KE stwierdzi\u0142a, \u017ce przedsi\u0119biorstwa podzieli\u0142y si\u0119 rynkami i zgodzi\u0142y si\u0119 nie konkurowa\u0107 o pracownik\u00f3w.",
+        "id": 2834973,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/wlasciciel-glovo-ma-zaplacic-ogromna-kare-chodzi-o-pracownikow-i-promocje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Glovo i jego w\u0142a\u015bciciel maj\u0105 zap\u0142aci\u0107 ogromn\u0105 kar\u0119. Chodzi o pracownik\u00f3w i promocje",
+        "vote": 0
+    }
+]

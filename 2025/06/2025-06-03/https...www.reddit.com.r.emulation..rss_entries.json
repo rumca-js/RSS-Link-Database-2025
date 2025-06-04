@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Shonumi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-03T16:17:49.031912+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T16:16:26+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1l2g323/edge_of_emulation_gbkiss_link/\"> <img src=\"https://external-preview.redd.it/pATgJ7oDQFUgEBHURMQGG_tvzg2RSG9uAjSJYIHD3_Y.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=67a3fce70c7fe9ae10d493044caeb7a0ca091be2\" alt=\"Edge of Emulation: GBKISS LINK\" title=\"Edge of Emulation: GBKISS LINK\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Shonumi\"> /u/Shonumi </a> <br/> <span><a href=\"https://shonumi.github.io/articles/art38.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1l2g323/edge_of_emulation_gbkiss_link/\">[comments]</a></span> </td></tr></table>",
+        "id": 2839005,
+        "language": null,
+        "link": "https://www.reddit.com/r/emulation/comments/1l2g323/edge_of_emulation_gbkiss_link",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/pATgJ7oDQFUgEBHURMQGG_tvzg2RSG9uAjSJYIHD3_Y.jpg?width=320&crop=smart&auto=webp&s=67a3fce70c7fe9ae10d493044caeb7a0ca091be2",
+        "title": "Edge of Emulation: GBKISS LINK",
+        "vote": 0
+    }
+]
