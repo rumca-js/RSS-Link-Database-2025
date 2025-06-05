@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T17:17:55.871015+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T17:01:33+00:00",
+        "description": "Trump\u2019s \u2018big beautiful bill\u2019 to add $2.4 trillion to US debt",
+        "id": 2848548,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/06/04/trump-tariffs-china-xi-trade-deal-deadline-ftse-100-markets",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump\u2019s \u2018big beautiful bill\u2019 to add $2.4 trillion to US debt",
+        "vote": 0
+    }
+]

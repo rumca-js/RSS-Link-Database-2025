@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Hour-Ad7177",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T22:34:16.035454+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T21:59:11+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Alright, look. I\u2019ve been around. I\u2019ve seen some shit. And the more I dig, the more I realize\u2014Tor isn\u2019t what they tell you it is.</p> <p>I used to believe in it, too. &quot;Total anonymity!&quot; Bullshit.</p> <p>Think about it:</p> <p>Who the hell actually pays for Tor? You really think the US government is funding this out of the goodness of their hearts?</p> <p>Exit nodes are a joke. Half of them are run by the same people trying to catch you. Your data\u2019s getting snatched the second it leaves the network.</p> <p>Ever notice how some darknet sites stay up for years while others get busted in months? Almost like\u2026 some are allowed to stay?</p> <p>And don\u2019t even get me started on the updates. &quot;Oh, just download the latest version, it\u2019s more secure!&quot; Sure. Or maybe it\u2019s patching the holes they don\u2019t want exploited.</p> <p>I\u2019m not saying I have proof. But I\u2019ve been in this game long enough to know when something smells off.</p> <p>Stay safe. Or ",
+        "id": 2851135,
+        "language": null,
+        "link": "https://www.reddit.com/r/deepweb/comments/1l3idxm/okay_i_need_to_say_this_about_tor",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 543,
+        "source_url": "https://www.reddit.com/r/deepweb/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Okay, I need to say this about Tor",
+        "vote": 0
+    }
+]

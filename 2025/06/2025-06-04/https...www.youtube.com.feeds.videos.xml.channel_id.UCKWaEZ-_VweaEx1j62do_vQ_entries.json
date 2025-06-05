@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T13:48:31.178578+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T11:00:56+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdnJta\n\nLearn more about AI Inference here \u2192 https://ibm.biz/BdnJtG\n\nWant faster large language models? \ud83d\ude80 Isaac Ke explains speculative decoding, a technique that accelerates LLM inference speeds by 2-4x without compromising output quality. Learn how \"draft and verify\" pairs smaller and larger models to optimize token generation, GPU usage, and resource efficiency.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdnJtn\n\n#llm #aioptimization #machinelearning",
+        "id": 2845257,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VkWlLSTdHs8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VkWlLSTdHs8/hqdefault.jpg",
+        "title": "Faster LLMs: Accelerate Inference with Speculative Decoding",
+        "vote": 0
+    }
+]

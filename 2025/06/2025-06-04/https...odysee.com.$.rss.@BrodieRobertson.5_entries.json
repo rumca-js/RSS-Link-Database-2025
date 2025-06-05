@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T21:37:00.482067+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T21:00:23+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/GBV27hMM2RU\" width=\"480\" alt=\"thumbnail\" title=\"Microsoft New Terminal Text Editor Is Good??\" /></p>Recently Microsoft dropped a new terminal text editor and to my surprise it's actually not bad, in fact, if you're ok with the Microsoft way of designing things it's actually somewhat ok or even good.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Edit Github: https://github.com/microsoft/edit<br />MS DOS Editor: https://en.wikipedia.org/wiki/MS-DOS_Editor<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media=======",
+        "id": 2850587,
+        "language": "en",
+        "link": "https://odysee.com/microsoft-new-terminal-text-editor-is:02a7328c56ecd7592fa1e520530e24aca5b10331",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/GBV27hMM2RU",
+        "title": "Microsoft New Terminal Text Editor Is Good??",
+        "vote": 0
+    }
+]

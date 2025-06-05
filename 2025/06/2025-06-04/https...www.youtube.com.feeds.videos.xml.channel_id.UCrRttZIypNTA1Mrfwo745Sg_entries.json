@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paramount Plus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T16:14:47.162901+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T16:01:37+00:00",
+        "description": "Stream Freedom Writers on #ParamountPlus. #HilarySwank",
+        "id": 2847869,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zeH7H8TqSZQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 572,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrRttZIypNTA1Mrfwo745Sg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zeH7H8TqSZQ/hqdefault.jpg",
+        "title": "Teachers that believe in you \ud83d\udc99 #FreedomWriters",
+        "vote": 0
+    }
+]

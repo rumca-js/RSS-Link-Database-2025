@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T15:08:58.605704+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T06:00:00+00:00",
+        "description": "Edmund White, the American writer, playwright and essayist who attracted acclaim for his semi-autobiographical novels such as A Boy's Own Story &#8211; and literally wrote the book on gay sex, with the pioneering The Joy of Gay Sex &#8211; has died aged 85.",
+        "id": 2847193,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3435",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Edmund White, novelist and great chronicler of gay life, dies aged 85",
+        "vote": 0
+    }
+]

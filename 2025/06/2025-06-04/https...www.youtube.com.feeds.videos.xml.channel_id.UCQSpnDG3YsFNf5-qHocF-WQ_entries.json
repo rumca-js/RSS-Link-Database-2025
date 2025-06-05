@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T16:06:07.286990+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T15:35:11+00:00",
+        "description": "Did you know about these before?\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:32 - Universal \u201cMMI\u201d Codes\n1:05 - Android-Specific Codes\n1:40 - 4636 (Testing Menu)\n4:01 - 225 (Calendar Info)\n4:23 - 426 (FCM Diagnostics)\n4:56 - 886266344 (Visual Voicemail Config)\n5:43 - 729 (Pet Mode)\n6:23 - 2627 (Cell Broadcast Testing Mode)\n6:54 - 828282 (Telecom Developer Menu)\n7:33 - 8477 (Pro Tips)\n7:53 - Carrier-Specifc Codes\n9:15 - There Are More Out There\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 2847819,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=o0LdeUnjFr4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o0LdeUnjFr4/hqdefault.jpg",
+        "title": "Secret Android Phone Codes You Didn't Know Existed",
+        "vote": 0
+    }
+]

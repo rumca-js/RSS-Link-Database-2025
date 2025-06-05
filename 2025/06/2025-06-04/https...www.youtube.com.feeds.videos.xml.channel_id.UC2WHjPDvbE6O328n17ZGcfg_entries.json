@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T16:35:11.361206+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T16:00:14+00:00",
+        "description": "Augment Code is awesome for large codebases (try it out for free): https://www.augmentcode.com/?utm_source=forrestknight&utm_medium=youtube&utm_campaign=influencer\n\nI often have to learn new codebases, so I figured I'd share how I actually do it after years of chaos. And now that I have a bit of a method to my madness, hopping into an existing 100k+ line codebase is more so organized chaos.\n\n0:00 overview\n0:58 read the docs\n3:42 poke around the codebase\n4:12 make docs with augment code\n5:26 use the software\n6:02 quick recap\n6:15 what code does a specific thing (a user interaction)\n7:29 ask augment code to explain\n8:55 mental model\n9:08 official augment code integration\n10:24 have teammates assign you tasks\n11:05 if no teammates, have augment code make a task for you\n12:28 write tests for the codebase\n12:43 recap\n12:58 pair programming\n14:16 take notes\n14:41 don\u2019t only casually learn the codebase\n15:26 rinse and repeat\n16:26 contribute to docs\n16:48 understand the domain\n17:30 understa",
+        "id": 2848362,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=jqHXJ3O7WGw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jqHXJ3O7WGw/hqdefault.jpg",
+        "title": "How I Learn New Codebases",
+        "vote": 0
+    }
+]

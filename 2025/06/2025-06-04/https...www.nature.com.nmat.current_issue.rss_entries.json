@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Yufen Xiao",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T14:23:31.742537+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T00:00:00+00:00",
+        "description": null,
+        "id": 2847093,
+        "language": null,
+        "link": "https://www.nature.com/articles/s41563-025-02270-2",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 231,
+        "source_url": "https://www.nature.com/nmat/current_issue/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Publisher Correction: High-density brush-shaped polymer lipids reduce anti-PEG antibody binding for repeated administration of mRNA therapeutics",
+        "vote": 0
+    }
+]

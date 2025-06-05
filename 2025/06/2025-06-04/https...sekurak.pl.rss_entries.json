@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T14:09:33.332270+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T10:59:59+00:00",
+        "description": "<p>Builder.ai, startup z Londynu wspierany przez Microsoft i wyceniony na 1,5 miliarda dolar\u00f3w, og\u0142osi\u0142 bankructwo po ujawnieniu, \u017ce jego platforma &#8222;nap\u0119dzana sztuczn\u0105 inteligencj\u0105&#8221; by\u0142a w rzeczywisto\u015bci obs\u0142ugiwana przez oko\u0142o 700 in\u017cynier\u00f3w z Indii udaj\u0105cych chatboty. Sprawa ta jest obecnie okre\u015blana jako jeden z najwi\u0119kszych przypadk\u00f3w tzw. &#8222;AI washing&#8221; w historii...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/700-inzynierow-z-indii-udawalo-chatboty-historia-upadku-builder-ai/\">700 in\u017cynier\u00f3w z Indii udawa\u0142o chatboty &#8211; historia upadku Builder.ai</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2846042,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/700-inzynierow-z-indii-udawalo-chatboty-historia-upadku-builder-ai",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "700 in\u017cynier\u00f3w z Indii udawa\u0142o chatboty \u2013 historia upadku Builder.ai",
+        "vote": 0
+    }
+]

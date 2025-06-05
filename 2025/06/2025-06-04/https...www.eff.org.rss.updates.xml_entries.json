@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Josh Richman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T13:42:56.171244+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T07:08:50+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span data-contrast=\"auto\">Many in Silicon Valley, and in U.S. business at large, seem to believe innovation springs only from competition, a race to build the next big thing first, cheaper, better, best. But what if collaboration and community breeds innovation just as well as adversarial competition?</span></p>\n<p><div class=\"mytube\" style=\"width: 100%px;\">\n  <div class=\"mytubetrigger\" tabindex=\"0\">\n\n    <img src=\"https://www.eff.org/sites/all/modules/custom/mytube/play.png\" class=\"mytubeplay\" alt=\"play\" style=\"top: -4px; left: 20px;\" />\n    <div hidden class=\"mytubeembedcode\">%3Ciframe%20height%3D%2252px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2Ffb16baef-bf64-4c2b-9069-ad1dfaade04b%3Fdark%3Dtrue%26amp%3Bcolor%3D000000%22%20allow%3D%22autopl",
+        "id": 2845175,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/05/podcast-episode-why-three-tors-magic-number",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/sites/all/modules/custom/mytube/play.png",
+        "title": "Podcast Episode: Why Three is Tor's Magic Number",
+        "vote": 0
+    }
+]

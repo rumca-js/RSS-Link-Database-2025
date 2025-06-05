@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T23:04:06.228724+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T22:25:55+00:00",
+        "description": "Bigger screen. Bigger Joycons. Bigger price.\n\nSave $35 on a dbrand Killswitch case for your Nintendo Switch 2 at https://dbrand.com/shop/switch-2\n\nNintendo Switch 2: https://geni.us/1UAHv\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nSwitch provided by Nintendo for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 2851511,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=N_ZmHYF6-xM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N_ZmHYF6-xM/hqdefault.jpg",
+        "title": "Nintendo Switch 2 Unboxing & First Gameplay!",
+        "vote": 0
+    }
+]

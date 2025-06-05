@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T09:19:08.351072+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T09:03:00+00:00",
+        "description": "Brad Feld has been contributing to and leading the tech community for more than thirty years. His books have always been inspiring and useful, but his new book takes it to a higher level. Adam Becker has written two books that I recently devoured. The first is philosophy, history and political drama, all woven together [&#8230;]",
+        "id": 2845129,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/books-and-more",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/seths.blog/wp-content/uploads/2025/06/give-first.jpg?resize=200%2C300&ssl=1",
+        "title": "Books (and more)",
+        "vote": 0
+    }
+]

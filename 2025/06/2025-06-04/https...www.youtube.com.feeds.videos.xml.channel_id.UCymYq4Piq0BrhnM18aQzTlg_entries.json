@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T23:51:33.666987+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T22:45:02+00:00",
+        "description": "Thanks to our sponsor Oclean! https://lon.tv/oclean - Public Knowledge, the EFF, Consumer Reports and a number of other organizations filed a very strong argument with the FCC opposing DRM encryption of the public airwaves! I'll take a look at their report and talk about what's next as the public comment period nears the end. See more: https://www.youtube.com/watch?v=1fgV-Z1RllQ&list=PLCZHp4d1HnItSSUpA-DskfKKKrQ_LQYwP and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:29 - Sponsor: Oclean A10 Flosser - https://lon.tv/oclean\n02:18 - Public Knowledge Filing Intro\n03:46 - The Broadcast Flag Argument\n05:33 - \"Not a Private Fiefdom\"\n06:15 - Marketplace concerns\n07:06 - Fair Use : Sony vs. Universal Argument\n09:49 - DRM is privately regulated\n11:17 - What's Next?\n11:58 - Can you still file with the FCC?\n12:46 - FCC Timeline\n14:50 - Interview next week\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDail",
+        "id": 2851649,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oTuOM_O3kFU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oTuOM_O3kFU/hqdefault.jpg",
+        "title": "Public Knowledge, the EFF Fighting ATSC 3 DRM for Over the Air Television!",
+        "vote": 0
+    }
+]

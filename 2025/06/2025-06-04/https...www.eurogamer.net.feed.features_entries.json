@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Donlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T09:19:11.539913+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T09:01:02+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/burnout-switch-final.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>There comes a time when all consoles must make that final journey to the Grey Havens. Sometimes the Havens are the loft. Other times they're eBay or the eager clutches of a younger sibling. That's the idea, anyway. There's something new on the way. One in, one out.</p> <p><a href=\"https://www.eurogamer.net/in-the-week-the-switch-2-launches-is-it-too-late-to-buy-one-last-switch-game-not-if-its-burnout\">Read more</a></p>",
+        "id": 2845130,
+        "language": "en",
+        "link": "https://www.eurogamer.net/in-the-week-the-switch-2-launches-is-it-too-late-to-buy-one-last-switch-game-not-if-its-burnout",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/burnout-switch-final.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "In the week the Switch 2 launches, is it too late to buy one last Switch game? Not if it's Burnout",
+        "vote": 0
+    }
+]

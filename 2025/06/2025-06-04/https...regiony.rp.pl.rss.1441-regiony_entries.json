@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T17:40:54.267543+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T17:40:53+00:00",
+        "description": "Resort finans\u00f3w przeliczy dochody samorz\u0105d\u00f3w za lata 2024 i 2025 wed\u0142ug nowej bazy podatkowej CIT wolnej od b\u0142\u0119d\u00f3w. Zani\u017cone dochody zostan\u0105 gminom zwr\u00f3cone najp\u00f3\u017aniej na pocz\u0105tku 2026 r. Je\u015bli gminy otrzyma\u0142y zawy\u017cone dochody \u2013 nie b\u0119d\u0105 ich zwraca\u0142y.",
+        "id": 2848997,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/podatki/art42468701-ministerstwo-finansow-zwroci-gminom-zanizone-dochody-przez-bledy-w-bazie-cit",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ministerstwo Finans\u00f3w zwr\u00f3ci gminom zani\u017cone dochody. Przez b\u0142\u0119dy w bazie CIT",
+        "vote": 0
+    }
+]

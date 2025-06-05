@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-04T14:03:08.117880+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-04T13:20:00+00:00",
+        "description": "What if you could detect, diagnose, and act\u2014before issues even arise? With Spot and Orbit, you can.\n\nOrbit provides a real-time digital record of your facility\u2014capturing everything from hot motors and hidden air leaks to compliance and regulatory risks. That means your team can see what\u2019s happening, understand why, and predict when it might happen again.\n\nFrom preventive maintenance to overall site health, this is the smarter way to run your operations.\n\nLearn more: https://bostondynamics.com/products/orbit/\nSee all the latest updates: https://bostondynamics.com/blog/see-your-facility/",
+        "id": 2845502,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xWmWmhRt-fs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xWmWmhRt-fs/hqdefault.jpg",
+        "title": "Check it off the list, with Spot & Orbit | Boston Dynamics",
+        "vote": 0
+    }
+]
