@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T10:05:03.699467+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T10:05:03+00:00",
+        "description": "LOT uruchomi\u0142 sprzeda\u017c bilet\u00f3w do fi\u0144skiego Rovaniemi. Przewo\u017anik b\u0119dzie lata\u0142 na tej trasie od ko\u0144ca listopada do pocz\u0105tku lutego.",
+        "id": 2854530,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/linie-lotnicze/art42476491-laponia-nowy-kierunek-w-zimowej-siatce-lot-u",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Laponia - nowy kierunek w zimowej siatce LOT-u",
+        "vote": 0
+    }
+]

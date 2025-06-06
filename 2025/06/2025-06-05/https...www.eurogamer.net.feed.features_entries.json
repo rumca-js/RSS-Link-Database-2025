@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Orry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T13:57:15.669029+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T13:34:51+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Fast-Fusion-3.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>If, like me, you were excited about the <a href=\"https://www.eurogamer.net/platforms/switch-2\">Switch 2</a> but also couldn't see much truly new stuff beyond <a href=\"https://www.eurogamer.net/games/mario-kart-world\">Mario Kart World</a>, then I hope you like racing games as I'm currently having a jolly good time with one of the few Switch 2 exclusives that isn't from Nintendo.</p> <p><a href=\"https://www.eurogamer.net/switch-2-best-launch-exclusive-mario-kart-world-fast-fusion\">Read more</a></p>",
+        "id": 2856273,
+        "language": "en",
+        "link": "https://www.eurogamer.net/switch-2-best-launch-exclusive-mario-kart-world-fast-fusion",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Fast-Fusion-3.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "The Switch 2's best launch exclusive might not be Mario Kart World, but another racing game (and it's under \u00a315)",
+        "vote": 0
+    }
+]

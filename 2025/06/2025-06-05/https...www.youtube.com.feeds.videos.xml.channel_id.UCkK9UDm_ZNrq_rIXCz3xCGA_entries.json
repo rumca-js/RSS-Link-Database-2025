@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T22:00:07.986767+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T21:49:07+00:00",
+        "description": "The XLibre fork of the ubiquitous open source X11 implementation, Xorg, plans first release with \"about 3,000 commits\" and no \"DEI\".\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 2860486,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=iwaaSatk0pI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iwaaSatk0pI/hqdefault.jpg",
+        "title": "Non-DEI Fork of Xorg by Most Active Xorg Developer",
+        "vote": 0
+    }
+]

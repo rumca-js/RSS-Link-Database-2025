@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T15:31:59.267944+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T15:00:46+00:00",
+        "description": "Check out courses in science, computer science, and mathematics on Brilliant! Get your first 30 days free as well as 20% off an annual premium subscription when you use my link \u279c https://brilliant.org/sabine.\n\nFor decades, researchers have assumed that qualia \u2013 each person\u2019s subjective experiences \u2013 can\u2019t be measured. Indeed, the idea of qualia has long been thought to be outside of science. But a few weeks ago, a group of researchers went and measured qualia for the first time. Let\u2019s take a look at what this means for consciousness research.\n\nPaper: https://www.cell.com/iscience/fulltext/S2589-0042(25)00289-5\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://o",
+        "id": 2857110,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NCD2A_bhDTI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NCD2A_bhDTI/hqdefault.jpg",
+        "title": "Scientists Measure Qualia for First Time \u2013 It was thought to be impossible",
+        "vote": 0
+    }
+]

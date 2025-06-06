@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T12:40:08.665851+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T12:28:35+00:00",
+        "description": "<p>Reddit is accusing Anthropic of building its Claude AI models on the back of Reddit&#8217;s users, without permission and without paying for it. Anyone who uses Reddit, even a web-crawling bot, agrees to the site&#8217;s user agreement. That agreement is clear: you cannot just take content from the site and use it for your own [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/reddit-sues-anthropic-over-ai-data-scraping/\">Reddit sues Anthropic over AI data scraping</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2855595,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/reddit-sues-anthropic-over-ai-data-scraping",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/06/anthropic-reddit-data-claude-ai-deleted-data-artificial-intelligence-1024x858.jpg",
+        "title": "Reddit sues Anthropic over AI data scraping",
+        "vote": 0
+    }
+]

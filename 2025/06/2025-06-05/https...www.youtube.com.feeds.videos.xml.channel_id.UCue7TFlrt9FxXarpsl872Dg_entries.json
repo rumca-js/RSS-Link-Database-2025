@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Sensei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T15:34:20.379514+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T14:21:44+00:00",
+        "description": "Unreal Engine 5.6 launched and it revolutionizes character creation with the new Metahuman creator and Nanite characters for video games, animations and movies.\n\nCheck out the Unreal Masterclass:\nhttps://www.unrealmasterclass.com\n\nWatch the UE5 Beginner Tutorial:\nhttps://youtu.be/k-zMkzmduqI\n\nLearn how to create your first game:\nhttps://youtu.be/1XjgLKrb4_M\n\nFollow on Twitter: https://x.com/unrealsensei\n\nStay up-to-date with the Unreal Newsletter:\nhttps://www.unrealsenseinewsletter.com\n\nChapters\n0:00 - New Metahuman Creator\n2:53 - Live Metahuman Animator\n4:38 - Nanite Characters\n8:51 - Rendering Optimizations\n10:08 - Animation Improvements",
+        "id": 2857129,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HotEq_0XMSo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 542,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCue7TFlrt9FxXarpsl872Dg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HotEq_0XMSo/hqdefault.jpg",
+        "title": "Why Unreal Engine 5.6 is a Huge Deal",
+        "vote": 0
+    }
+]

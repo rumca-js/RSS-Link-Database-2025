@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T14:13:50.296452+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T14:05:08+00:00",
+        "description": "W po\u0142owie czerwca kolej wprowadza korekt\u0119 rozk\u0142adu jazdy maj\u0105c\u0105 obowi\u0105zywa\u0107 do ko\u0144ca sierpnia. Na cz\u0119\u015bci tras poci\u0105gi pojad\u0105 szybciej, pojawi\u0105 si\u0119 nowe po\u0142\u0105czenia.",
+        "id": 2856330,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/transport/art42477481-w-wakacje-czesc-pociagow-bedzie-juz-jechac-szybciej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W wakacje cz\u0119\u015b\u0107 poci\u0105g\u00f3w b\u0119dzie ju\u017c jecha\u0107 szybciej",
+        "vote": 0
+    }
+]

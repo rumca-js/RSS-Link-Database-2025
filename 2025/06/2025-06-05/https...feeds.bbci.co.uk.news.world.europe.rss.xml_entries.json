@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T14:17:29.637599+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T12:32:25+00:00",
+        "description": "The flight's captain called ahead for medical assistance and the plane \"landed normally\" in southern Germany.",
+        "id": 2856350,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c5y67qp4g83o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f14/live/69c9a780-41fd-11f0-bace-e1270fc31f5e.jpg",
+        "title": "Eight injured on Ryanair flight hit by 'severe turbulence', police say",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T02:01:47.496836+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T01:01:35+00:00",
+        "description": "PlayStation hosted a new State of Play event revealing new Capcom games, Nioh 3, 007 Bond First Light, Silent Hill, and a few more surprises. Let's talk about my favorite moments.\n\nfollow me on Instagram: https://bit.ly/3uUh9Ot\nfollow me on Bluesky: https://bsky.app/profile/jakebaldino....\nfollow me on X: https://x.com/JakeBaldino\n\ncheck out my new Friends Per Second Podcast: https://linktr.ee/friendspersecond",
+        "id": 2852236,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Y_2na7UjJ5s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y_2na7UjJ5s/hqdefault.jpg",
+        "title": "about THAT State of Play...",
+        "vote": 0
+    }
+]

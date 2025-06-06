@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T12:33:11.992503+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T12:33:11+00:00",
+        "description": "W\u0142ochy rozszerzaj\u0105 obowi\u0105zuj\u0105cy w podstaw\u00f3wkach i gimnazjach zakaz korzystania przez uczni\u00f3w ze smartfon\u00f3w. Jak zaznaczy\u0142 w\u0142oski minister o\u015bwiaty, chc\u0105 w ten spos\u00f3b przyzwyczai\u0107 uczni\u00f3w \u201edo powrotu do korzystania z ksi\u0105\u017cki, z kartki i d\u0142ugopisu\u201d.",
+        "id": 2855569,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/edukacja-i-wychowanie/art42477471-zakaz-korzystania-z-telefonow-w-szkolach-srednich-wlochy-rozszerzaja-przepisy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zakaz korzystania z telefon\u00f3w w szko\u0142ach \u015brednich. W\u0142ochy rozszerzaj\u0105 przepisy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T13:43:36.170144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T13:38:14+00:00",
+        "description": "<p>A US appeals court on Wednesday rejected Apple&#8217;s attempts to delay changes to its App Store practices demanded by Epic Games. The 9th US Circuit Court of Appeals wasn&#8217;t having any of Apple&#8217;s arguments as it denied the company&#8217;s request to pause a judicial order requiring immediate changes to how the iPhone maker runs its<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/epic-games-win-court-rejects-apple-app-store-appeal/\" title=\"ReadEpic Games notches win as court rejects Apple&#8217;s App Store appeal\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/epic-games-win-court-rejects-apple-app-store-appeal/\">Epic Games notches win as court rejects Apple&#8217;s App Store appeal</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2855658,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/epic-games-win-court-rejects-apple-app-store-appeal",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Epic Games notches win as court rejects Apple\u2019s App Store appeal",
+        "vote": 0
+    }
+]

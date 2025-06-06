@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T14:37:35.184985+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T14:03:30+00:00",
+        "description": "Learn more about Five Open-Source AI tools to know here \u2192 https://ibm.biz/BdnJ62\n\nWhat does open source AI really mean? \ud83e\udd14 Cedric Clyburn breaks down the essentials of transparency, licensing, and data openness in AI, exploring how models can be fine-tuned, customized, and deployed efficiently. Learn the benefits, challenges, and what makes AI truly 'open source.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdnJ6z\n\n#opensourceai #aitransparency #machinelearning",
+        "id": 2856495,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=P-BUZViHK4o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P-BUZViHK4o/hqdefault.jpg",
+        "title": "What Open Source AI Really Means: Transparency, Freedom, & Impact",
+        "vote": 0
+    }
+]

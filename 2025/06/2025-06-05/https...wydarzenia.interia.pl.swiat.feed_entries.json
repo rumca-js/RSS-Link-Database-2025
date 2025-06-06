@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T13:53:26.221664+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T13:51:32+00:00",
+        "description": null,
+        "id": 2856046,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rosjanie-uderzyli-w-cherson-siedziba-administracji-w-gruzach,nId,21825036",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 402,
+        "source_url": "https://wydarzenia.interia.pl/swiat/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rosjanie uderzyli w Cherso\u0144. Siedziba administracji w gruzach",
+        "vote": 0
+    }
+]

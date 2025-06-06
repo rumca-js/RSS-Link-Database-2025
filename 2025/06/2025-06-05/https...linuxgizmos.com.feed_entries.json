@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T01:57:14.546259+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T01:03:43+00:00",
+        "description": "Avalue Technology has introduced two industrial single-board computers designed to match the Raspberry Pi form factor while addressing the requirements of edge computing and IoT integration. The new models, ACP-3566-PI and ACP-IMX8-PI, offer ARM-based platforms for different embedded applications and performance demands. The ACP-3566-PI is based on the Rockchip RK3566 quad-core Cortex-A55 processor operating at [&#8230;]",
+        "id": 2852233,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/avalue-introduces-acp-pi-boards-as-raspberry-pi-alternatives",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Avalue Introduces ACP-PI Boards as Raspberry Pi Alternatives",
+        "vote": 0
+    }
+]

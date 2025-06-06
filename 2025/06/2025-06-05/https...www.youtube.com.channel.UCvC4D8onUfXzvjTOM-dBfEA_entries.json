@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marvel Entertainment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-05T13:43:40.276693+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-05T13:01:36+00:00",
+        "description": "Jonathan Hickman, Iban Coello, and Federico Vicentini present the end of the beginning in IMPERIAL, the #MarvelComics event series that will reshape the Marvel cosmos.\n\nIssue #1 is available now at your local comic shop. \n\n\u25ba Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n\u25ba Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: \u202ahttps://twitter.com/marvel\nLike Marvel on Facebook: \u202ahttps://www.facebook.com/marvel",
+        "id": 2855660,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=qElxK1lIiMY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 626,
+        "source_url": "https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qElxK1lIiMY/hqdefault.jpg",
+        "title": "Imperial | Official Trailer | Marvel Comics",
+        "vote": 0
+    }
+]
