@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T10:19:05.148211+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T09:00:13+00:00",
+        "description": "This Black Music Month, Tiny Desk honors the anniversaries of landmark albums that have shaped the course of music and culture.\n\nAlant\u00e9 Serene | June 6, 2025\nWhen Amerie arrived at the Tiny Desk, her enthusiastic energy and bright smile was an instant mood boost. The warm entrance felt fitting for an artist whose music embodies the soul of summer: bold percussion, breezy vocals and the feeling of endless possibilities.\n\nWhen her sophomore album Touch dropped in 2005, it introduced a national audience to the infectious rhythms of go-go. Rooted in Washington, D.C., go-go is known for its layered percussion, funky basslines and live instrumentation made to hype the crowd. These sounds pulse through Amerie's music and helped to make \"1 Thing\" a standout in a year overflowing with R&B hits.\n\nAmerie, who once lived in Washington, D.C. for several years, returns to the city with a reimagined set accompanied by go-go legends Backyard Band. Together, they open the show with songs from her debu",
+        "id": 2863908,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8PizSSUfetg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8PizSSUfetg/hqdefault.jpg",
+        "title": "Amerie: Tiny Desk Concert",
+        "vote": 0
+    }
+]

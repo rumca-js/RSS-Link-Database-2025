@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T15:23:34.016610+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T14:00:51+00:00",
+        "description": "Fusion may still sound like science fiction\u2014but it might not be for much longer. With AI pushing demand for clean power to new highs, a breakthrough may finally be close.\n\nIn this episode of YC Decoded, General Partner Gustaf Alstr\u00f6mer explains the history of fusion, the physics behind it, and the engineering challenges that stalled it for nearly a century. \n\nHe also looks at how Helion Energy is approaching the problem differently, as they develop a new fusion system expected to deliver power to Microsoft by 2028.",
+        "id": 2866349,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XdigD0LOXx0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XdigD0LOXx0/hqdefault.jpg",
+        "title": "How Fusion Energy Could Power The AI Boom | YC Decoded",
+        "vote": 0
+    }
+]

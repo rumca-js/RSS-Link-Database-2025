@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T14:31:23.484443+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T14:00:50+00:00",
+        "description": "One of the core issues between Elon Musk and President Donald Trump\u2019s feud is over Republican\u2019s \u201cbig, beautiful bill\u201d in Congress. Musk is concerned about how much it raises the national debt. \n\nThe U.S. national debt is on its way to $30 trillion dollars and is projected to be more than 100% of GDP at the end of this year. So is that\u2026 bad? Let\u2019s look at what the debt is, how it affects the economy and how much is too much.\n\nChapters:\n0:00 Nerves about U.S. assets\n0:55 How the debt works\n1:53 How much debt is bad?\n3:06 The interest payment problem \n3:40 When the debt becomes unsustainable\n6:14 How to fix it\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Trump #Economy #WSJ",
+        "id": 2865830,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Xi7RvweuIUk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Xi7RvweuIUk/hqdefault.jpg",
+        "title": "When Does US Debt Become Genuinely Bad? | WSJ",
+        "vote": 0
+    }
+]

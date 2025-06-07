@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "G.F. Darwin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T13:11:56.926572+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T12:19:29+00:00",
+        "description": "Czy ktokolwiek z was odk\u0142ada\u0142 kiedy\u015b grosz do grosza i uda\u0142o mu si\u0119 w ko\u0144cu uzbiera\u0107 na kokosz\u0119? A pami\u0119tacie Pogromc\u00f3w Przys\u0142\u00f3w i Ludwika Montgomerego? Ludwik nie ma \u0142atwego zadania, poniewa\u017c jego go\u015bciem jest Adam Mickiewicz z programu \"Pogromcy Przys\u0142\u00f3w\". Z kolei, \"Pogromcy Przys\u0142\u00f3w\" nie maj\u0105 lekko, bo liczba istniej\u0105cych przys\u0142\u00f3w jest ograniczona. Dlatego ING Bank \u015al\u0105ski, wraz z wasz\u0105 pomoc\u0105 chce temu zaradzi\u0107. Rozwi\u0105\u017c Quiz i dowiedz si\u0119 wi\u0119cej! @ingpolska",
+        "id": 2865304,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8ugcFUDsD8Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 123,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkPjHTuNd_ycm__29dXM3Nw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8ugcFUDsD8Y/hqdefault.jpg",
+        "title": "Adam Mickiewicz u Ludwika M - quiz ING.",
+        "vote": 0
+    }
+]

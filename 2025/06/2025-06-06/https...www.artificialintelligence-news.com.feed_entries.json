@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T13:05:47.705231+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T12:26:38+00:00",
+        "description": "<p>Anthropic has unveiled a custom collection of Claude AI models designed for US national security customers. The announcement represents a potential milestone in the application of AI within classified government environments. The \u2018Claude Gov\u2019 models have already been deployed by agencies operating at the highest levels of US national security, with access strictly limited to [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/anthropic-launches-claude-ai-models-for-us-national-security/\">Anthropic launches Claude AI models for US national security</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2865293,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/anthropic-launches-claude-ai-models-for-us-national-security",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "Anthropic launches Claude AI models for US national security",
+        "vote": 0
+    }
+]

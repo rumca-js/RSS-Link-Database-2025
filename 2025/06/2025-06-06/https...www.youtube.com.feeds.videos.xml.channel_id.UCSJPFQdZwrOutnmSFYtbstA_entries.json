@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T17:45:28.414252+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T17:01:05+00:00",
+        "description": "Now that the 15th and hopefully final season is over, I'm going to examine how and why this show became the absolute joke we ended up with, and why the BBC should let it rest in peace. \n\nGrab your copy of Saints & Sinners now: https://rippaverse.com/collections/saints-sinners-1/",
+        "id": 2867545,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=lNip3ktaRak",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lNip3ktaRak/hqdefault.jpg",
+        "title": "Doctor Who Is Finally Dead - Let It Rest In Peace",
+        "vote": 0
+    }
+]

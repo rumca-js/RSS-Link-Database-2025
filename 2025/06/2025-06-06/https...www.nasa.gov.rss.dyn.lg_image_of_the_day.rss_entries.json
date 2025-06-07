@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T18:38:40.310104+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T18:04:00+00:00",
+        "description": "NASA\u2019s James Webb Space Telescope recently imaged the Sombrero Galaxy with its NIRCam (Near-Infrared Camera), which shows dust from the galaxy\u2019s outer ring blocking stellar light from stars within the galaxy. In the central region of the galaxy, the roughly 2,000 globular clusters, or collections of hundreds of thousands of old stars held together by gravity, glow in the near-infrared. The Sombrero Galaxy is around 30 million light-years from Earth in the constellation Virgo. From Earth, we see this galaxy nearly \u201cedge-on,\u201d or from the side.",
+        "id": 2868012,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/54565613170-7e8bef5479-o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Webb Sees Sombrero Galaxy in Near-Infrared",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/gadimus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T04:20:53.686410+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T03:36:30+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I see a lot of files are exceptionally large like people wanted to have the most raw, uncompressed bits. I&#39;m old and don&#39;t mind potatoe quality files as it saves space and lags less... But it seems that I can only get these large files to work... Is there a way to auto downgrade the RAW/200gb/9168p stuff to a reasonable size?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gadimus\"> /u/gadimus </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1l4iomk/new_to_usenets_and_i_have_questions/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1l4iomk/new_to_usenets_and_i_have_questions/\">[comments]</a></span>",
+        "id": 2862355,
+        "language": null,
+        "link": "https://www.reddit.com/r/usenet/comments/1l4iomk/new_to_usenets_and_i_have_questions",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New to usenets and I have questions",
+        "vote": 0
+    }
+]

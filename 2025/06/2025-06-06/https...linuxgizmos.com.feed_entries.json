@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T04:43:54.105862+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T04:03:26+00:00",
+        "description": "Morse Micro and Gateworks Corporation have partnered to bring Wi-Fi HaLow (IEEE 802.11ah) to industrial environments. In collaboration with Silex Technology, they offer a hardware and software ecosystem for long-range, low-power, and secure wireless networking across manufacturing, energy, and transportation sectors. Wi-Fi HaLow operates in the sub-GHz frequency band, offering a communication range of over [&#8230;]",
+        "id": 2862379,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/morse-micro-and-gateworks-launch-wi-fi-halow-solution-for-industrial-connectivity",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Morse Micro and Gateworks Launch Wi-Fi HaLow Solution for Industrial Connectivity",
+        "vote": 0
+    }
+]

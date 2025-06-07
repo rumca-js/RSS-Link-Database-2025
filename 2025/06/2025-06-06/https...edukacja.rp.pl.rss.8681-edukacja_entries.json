@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T08:40:25.013867+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T08:40:24+00:00",
+        "description": "Przed 3. urodzinami potrafi\u0142a czyta\u0107. Kilka miesi\u0119cy p\u00f3\u017aniej opanowa\u0142a tabliczk\u0119 mno\u017cenia, a jako 5-latka wykonywa\u0142a skomplikowane zadania matematyczne. 11-letnia Alisa Perales jest najm\u0142odsz\u0105 absolwentk\u0105 college\u2019u w USA. Jakie ma plany na przysz\u0142o\u015b\u0107?",
+        "id": 2863502,
+        "language": "pl-PL",
+        "link": "https://kobieta.rp.pl/nauka/art42477201-11-letnia-alisa-perales-jest-najmlodsza-absolwentka-college-u-w-historii-usa",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "11-letnia Alisa Perales jest najm\u0142odsz\u0105 absolwentk\u0105 college\u2019u w historii USA",
+        "vote": 0
+    }
+]

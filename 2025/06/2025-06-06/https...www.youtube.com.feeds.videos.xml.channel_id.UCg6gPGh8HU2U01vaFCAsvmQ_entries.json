@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T12:28:20.730273+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T11:15:00+00:00",
+        "description": "This goes over how to setup Windows 11 in 2025. This method is the fastest method and uses only Microsoft and open source tools.\n\nLTT Video: https://www.youtube.com/watch?v=MBCiMK4AmEI\nWindows Utility: https://github.com/christitustech/winutil\n\nChapters:\n00:00 Downloading Windows 11\n01:11 Windows Utility\n03:12 MicroWin ISO Creation\n10:00 Rufus\n11:05 Installing Windows 11\n12:53 First Steps on New Installs\n15:20 Tweaks.\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Reddit \u279c https://www.reddit.com/r/ChrisTitusTech/\n\u25ba\u25ba Titus Tech Talk \u279c https://www.youtube.com/c/TitusTechTalk\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech",
+        "id": 2864831,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0PA1wgdMeeI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0PA1wgdMeeI/hqdefault.jpg",
+        "title": "How To Setup Windows",
+        "vote": 0
+    }
+]

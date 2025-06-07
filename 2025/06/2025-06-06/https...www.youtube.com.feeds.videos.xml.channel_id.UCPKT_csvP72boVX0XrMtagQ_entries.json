@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cercle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T17:35:23.833188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T16:50:25+00:00",
+        "description": "We wanted to take a moment to thank you, our dear community.\n\nThank you to the over 100,000 of you for dancing, for crying, for sharing your incomparable energy on our dancefloors in Mexico, the US, and France.\nWe've tirelessly worked on this project for years, and seeing your eyes full of emotions, your smiles, your happiness made us feel alive, connected to the music of all the amazing artists we've had the chance to work with. This gave us a lot of energy for the future.\n\nWe will never forget what we lived with you on the dancefloor.\n\nDerek, Cercle founder and creative director",
+        "id": 2867502,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QGAnTxq6MYc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 65,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPKT_csvP72boVX0XrMtagQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QGAnTxq6MYc/hqdefault.jpg",
+        "title": "Thank you for dancing with us, night after night.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T12:33:27.773658+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T10:01:25+00:00",
+        "description": "Subscribe for AI updates \u2192 https://ibm.biz/BdnuK4\n\nIs open source winning the AI race? In episode 58 of Mixture of Experts, host Tim Hwang is joined by Anthony Annunziata, Ash Minhas and Sarah Amos live from New York Tech Week. First, we dive into the various themes coming out of NY Tech Week, specifically practical uses of AI. Next, we analyze a couple of different reports about the impact of open source on AI. Finally, Claude 4 has some really weird behaviors. What does this teach us about AI safety and model development? All that and more on this week\u2019s Mixture of Experts. \n\n00:00 -- Intro \n01:09 -- New York Tech Week 2025 \n11:36 -- Open source AI reports \n31:33 -- Weird behaviors from Claude 4 \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\nDiscover the AI Alliance \u2192 https://ibm.biz/BdnuKr",
+        "id": 2864868,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tU9Jal1-E6c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tU9Jal1-E6c/hqdefault.jpg",
+        "title": "NY Tech Week, open source AI reports and Claude 4 behaviors",
+        "vote": 0
+    }
+]

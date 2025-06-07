@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T11:15:22.918513+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T11:15:22+00:00",
+        "description": "Kosmiczne plany Stan\u00f3w Zjednoczonych i wycena motoryzacyjnego giganta z USA \u2013 to one jak na razie najmocniej ucierpia\u0142y na ostrym spi\u0119ciu mi\u0119dzy prezydentem Donaldem Trumpem a miliarderem Elonem Muskiem.",
+        "id": 2864346,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42484331-sa-juz-ofiary-konfliktu-trumpa-z-muskiem-wymiana-ognia-miedzy-x-a-truth-social-i-fox",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "S\u0105 ju\u017c ofiary konfliktu Trumpa z Muskiem. Wymiana ognia mi\u0119dzy X a Truth Social i Fox",
+        "vote": 0
+    }
+]

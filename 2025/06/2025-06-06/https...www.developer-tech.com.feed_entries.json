@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T16:48:42.015079+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T15:45:55+00:00",
+        "description": "<p>In a somewhat overdue move, Apple plans to open up the Apple Watch Control Centre to widgets from third-party developers with watchOS 26. After years of keeping the Control Centre strictly limited to its own toggles and tools, Apple appears ready to loosen its notorious grip with watchOS 26 by introducing third-party widgets. I&#8217;ve been<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/apple-to-open-garden-for-developers-building-watch-widgets/\" title=\"ReadApple to open its garden for developers building Watch widgets\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/apple-to-open-garden-for-developers-building-watch-widgets/\">Apple to open its garden for developers building Watch widgets</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2867042,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/apple-to-open-garden-for-developers-building-watch-widgets",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple to open its garden for developers building Watch widgets",
+        "vote": 0
+    }
+]

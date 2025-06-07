@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T07:11:03.490798+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T07:05:18+00:00",
+        "description": "<p>CERT Polska ostrzega o aktywnym ataku, celuj\u0105cym w niezaktualizowane oprogramowanie Roundcube (webmail &#8211; czyli klient poczty elektronicznej w przegl\u0105darce). Podatno\u015b\u0107 CVE-2024-42009 wykorzystywana jest grup\u0119 hackersk\u0105 zwi\u0105zan\u0105 z rz\u0105dem Bia\u0142orusi. Do udanego ataku wystarczy otworzenie z\u0142o\u015bliwego maila w przegl\u0105darce (Roundcube). Nie trzeba nawet otwiera\u0107 / pobiera\u0107 \u017cadnych za\u0142\u0105cznik\u00f3w. CERT Polska ostrzega...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/uwaga-na-ataki-na-polskie-serwery-poczty-mozna-jednym-zlosliwym-mailem-przejac-caly-serwer-roundcube/\">Uwaga na ataki na polskie serwery ~poczty. Mo\u017cna jednym z\u0142o\u015bliwym mailem przej\u0105\u0107 ca\u0142y serwer (Roundcube)</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2863096,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/uwaga-na-ataki-na-polskie-serwery-poczty-mozna-jednym-zlosliwym-mailem-przejac-caly-serwer-roundcube",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Uwaga na ataki na polskie serwery ~poczty. Mo\u017cna jednym z\u0142o\u015bliwym mailem przej\u0105\u0107 ca\u0142y serwer (Roundcube)",
+        "vote": 0
+    }
+]

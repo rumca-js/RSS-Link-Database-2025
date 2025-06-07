@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T09:31:20.346976+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T09:03:00+00:00",
+        "description": "Building a bridge is far more difficult than maintaining one. While it&#8217;s tempting to imagine that we&#8217;re always racing forward, it&#8217;s far more likely we&#8217;ll benefit from traveling over this bridge again one day soon.",
+        "id": 2863834,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/on-burning-bridges",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "On burning bridges",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T18:53:47.687286+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T17:34:58+00:00",
+        "description": "Django has the data. LangGraph coordinates the Ai Agents. Permit gives us the guardrails to ensure data is safe.\n\nIn this course, I'll take you step-by-step so you can build Ai Agents with Django, LangGraph, and Permit so you can:\n\n\u2705 Save user-data with minimal overhead\n\u2705 Talk to the data you or your users care about\n\u2705 Integrate third-party rest API services\n\u2705 Turn any Python functions into tools an Ai Agent can run with queries like 'what are my recent documents?' or 'What new movies are out?'\n\u2705 Chat with Django User data through standard Django queries and without the need for vector embeddings (although you *can* use them)\n\u2705 Easily switch LLMs to upgrade the effectiveness of your agents\n\u2705 Leverage RBAC (role-based access control) within any Django or Python project\n\u2705 Create a Super(visor) Agent that controls other agents\n\u2705 Lock down access to what a User can or cannot do\n\u2705 Add guardrails to ensure an Agent can't do anything it shouldn't (e.g. create, update, read, search, list, sha",
+        "id": 2868048,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=rir9B0ZShug",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rir9B0ZShug/hqdefault.jpg",
+        "title": "Build an Ai Agent with Python, Django, LangGraph, and Permit",
+        "vote": 0
+    }
+]

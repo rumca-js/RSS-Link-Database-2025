@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T04:54:09.997118+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T04:29:49+00:00",
+        "description": "Arc browser just died, joining a graveyard of services that promised to compete with Big Tech but disappeared overnight. From Skiff email to CTemplar to Mozilla's killed projects, this pattern is creating a \"trust destruction cycle\" that makes people afraid to try alternatives - and it's exactly what Big Tech wants. Here's what we can do. Techlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources. Discover how to protect your online data and regain control of your digital identity.\n\nTake back control of your online history with Redact.dev, the tool that lets you automate the deletion of your posts and messages across major platforms, all while archiving your data locally. Use Code TECHLORE10 for a discount: https://redact.dev/techlore\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://youtu.be/lRJjsw-NXKo\n\u2022 https://youtu.be/W6cKFliWW6Q\n\n\ud83d\udcfa RELATED CHANNELS:\n\u2022 Surveillance Report: https://www.youtube.com/@surveillancereport\n\u2022 Techlore Clips: https://www.you",
+        "id": 2862383,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=IZKYZByXtRY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IZKYZByXtRY/hqdefault.jpg",
+        "title": "Why Alt-Tech Services Keep Dying",
+        "vote": 0
+    }
+]

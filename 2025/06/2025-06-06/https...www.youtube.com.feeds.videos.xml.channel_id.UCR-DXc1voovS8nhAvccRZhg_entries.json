@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-06T15:05:35.815330+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-06T14:00:30+00:00",
+        "description": "Sipeed sent a NanoCluster - up to 7 nodes in the palm of your hand!\n\nAt least, that's what the photos show. Does it run when you put in seven Raspberry Pi Compute Module 5s? And how are thermals, power, and performance?\n\nSipeed did not pay for this video nor have any say in its content (or a chance to review it before it went live). But because they sent this early review sample to me for my testing, I put the 'Includes Paid Sponsorship' tag on the video. See my review and sponsorship policies here: https://github.com/geerlingguy/youtube?tab=readme-ov-file#sponsorships\n\nLinks to things I mentioned in this video:\n\n  - Sipeed NanoCluster: https://sipeed.com/nanocluster\n  - Review data on Pi PCIe site: https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/739\n  - Ansible Pi Cluster playbook: https://github.com/geerlingguy/pi-cluster\n  - Top500 HPL benchmark results: https://github.com/geerlingguy/top500-benchmark/issues/63\n  - SBC Reviews website: https://sbc-reviews.jeffgeerli",
+        "id": 2866312,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=UEtpaiODNs0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UEtpaiODNs0/hqdefault.jpg",
+        "title": "Cute, but powerful: meet NanoCluster, a tiny supercomputer",
+        "vote": 0
+    }
+]
