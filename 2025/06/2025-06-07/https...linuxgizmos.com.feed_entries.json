@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T02:24:01.201458+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T01:55:02+00:00",
+        "description": "Luckfox has released the Pico 2 Micro Development Board, a compact module designed around Raspberry Pi&#8217;s RP2350A microcontroller. It targets embedded development and experimentation with both ARM and RISC-V instruction sets, offering dual-core support in a low-cost form factor. The RP2350A microcontroller from Raspberry Pi features a dual-core, dual-architecture design, offering both ARM Cortex-M33 and [&#8230;]",
+        "id": 2870891,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/luckfox-pico-2-adopts-rp2350a-dual-core-mcu-launches-at-3-99",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Luckfox Pico 2 Adopts RP2350A Dual-Core MCU, Launches at $3.99",
+        "vote": 0
+    }
+]

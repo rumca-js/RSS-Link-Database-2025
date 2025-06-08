@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T16:55:33.122939+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T12:02:10+00:00",
+        "description": "As tensions escalate between President Donald Trump and Elon Musk, the Tesla CEO warned that Trump\u2019s \"big, beautiful bill\" will trigger an economic recession. It comes as the Congressional Budget Office reports that Trump's tariffs plan would reduce the deficit but shrink the economy. NBC\u2019s Christine Romans joins Saturday TODAY to break down what it all means for Americans.",
+        "id": 2874499,
+        "language": "en-US",
+        "link": "https://www.today.com/video/will-trump-s-big-beautiful-bill-lead-to-recession-in-2025-241107014001",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1749297724028_tdy_sat_romans_trump_musk_250607_1920x1080-anwsoa.jpg",
+        "title": "Elon Musk Says Trump\u2019s \u2018Big, Beautiful Bill\u2019 Will Lead to Recession",
+        "vote": 0
+    }
+]

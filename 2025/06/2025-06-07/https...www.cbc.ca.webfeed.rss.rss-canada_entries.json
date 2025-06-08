@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T21:24:14.627761+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T17:08:04+00:00",
+        "description": "<img src='https://i.cbc.ca/1.7542396.1748025294!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sandy-lake-first-nation.jpg' alt='An aerial view of a community surrounded by water and wilderness.' width='620' height='349' title='An aerial view of Sandy Lake First Nation in northwestern Ontario, located in Treaty 5 territory. The community&apos;s chief says there is only one functioning fire truck, and firefighters do not have proper gear.'/><p>An evacuation order was issued on Saturday for Sandy Lake First Nation as a wildfire moved toward the northwestern Ontario community.</p>",
+        "id": 2875896,
+        "language": null,
+        "link": "https://www.cbc.ca/news/canada/thunder-bay/evacuation-order-sandy-lake-first-nation-wildfire-red-lake-12-1.7555487?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/1.7542396.1748025294!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sandy-lake-first-nation.jpg",
+        "title": "Evacuation order issued for Sandy Lake First Nation as wildfire spreads",
+        "vote": 0
+    }
+]

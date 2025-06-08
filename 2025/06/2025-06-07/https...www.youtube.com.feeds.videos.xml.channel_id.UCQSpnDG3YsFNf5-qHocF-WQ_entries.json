@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T16:20:56.285765+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T15:52:54+00:00",
+        "description": "How come there's no System64? And what is System32 anyway?\n\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:27 - Where Did System32 Come From?\n1:55 - What About System64? \n3:03 - SysWow64 Folder\n3:37 - Closer Look Inside System32\n5:19 - Some Familiar Exe\u2019s\n6:20 - The C:\\Windows Directory\n8:12 - The Final Word\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 2874274,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0Oql8dvmPNU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0Oql8dvmPNU/hqdefault.jpg",
+        "title": "What Happened to System64 in Windows?",
+        "vote": 0
+    }
+]

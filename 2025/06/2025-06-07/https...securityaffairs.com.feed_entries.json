@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pierluigi Paganini",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T18:30:43.637114+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T17:22:19+00:00",
+        "description": "Over 4 billion user records were found exposed online in a massive breach, possibly linked to the surveillance of Chinese citizens. Cybersecurity researcher Bob Dyachenko and the Cybernews team discovered a massive data leak in China that exposed billions of documents, including financial, WeChat, and Alipay data, likely affecting hundreds of millions. Researchers speculate data [&#8230;]",
+        "id": 2875032,
+        "language": "en-US",
+        "link": "https://securityaffairs.com/178744/data-breach/experts-found-4-billion-user-records-online-the-largest-known-leak-of-chinese-personal-data-from-a-single-source.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 298,
+        "source_url": "https://securityaffairs.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/06/image-9.png?resize=1024%2C815&ssl=1",
+        "title": "Experts found 4 billion user records online, the largest known leak of Chinese personal data from a single source",
+        "vote": 0
+    }
+]

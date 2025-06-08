@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Filip Timotija",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T16:58:51.277100+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T16:37:16+00:00",
+        "description": "The Federal Aviation Administration (FAA) on Friday announced it will restrict the number of arrivals and departures through the end of the year at the embattled Newark Liberty International Airport. As the airport continues to experience outages and staffing shortages, the FAA said it would limit the number of arrivals and departures at the busy&#8230;",
+        "id": 2874559,
+        "language": "en-US",
+        "link": "https://thehill.com/regulation/transportation/5338492-faa-restrictions-newark-airport-2025",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 346,
+        "source_url": "https://thehill.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FAA to restrict Newark flights through December following outage turmoil",
+        "vote": 0
+    }
+]

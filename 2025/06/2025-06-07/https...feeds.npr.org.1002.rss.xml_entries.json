@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jaclyn Diaz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T11:33:25.993069+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T06:30:00+00:00",
+        "description": "The Trump administration continues to target foreign nationals looking to attend U.S. universities. Here's a closer look at who these students are, where they come from and what they study.",
+        "id": 2872937,
+        "language": "en",
+        "link": "https://www.npr.org/2025/06/07/nx-s1-5423535/international-students-college-data-breakdown",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4127x2751+0+0/resize/4127x2751!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2F50%2F92f6fe614c28b561062e3efce611%2Fgettyimages-2216820238.jpg",
+        "title": "International students in the U.S.: Who they are, where they're from",
+        "vote": 0
+    }
+]

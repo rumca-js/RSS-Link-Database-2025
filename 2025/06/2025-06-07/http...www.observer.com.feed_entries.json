@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dian Parker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T12:57:39.227260+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T12:00:25+00:00",
+        "description": "Emin's paintings and drawings on view in New Haven echo the plight of women all around the world.",
+        "id": 2873259,
+        "language": "en",
+        "link": "https://observer.com/2025/06/exhibition-review-tracey-emin-yale-center-for-british-art",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "At the Yale Center for British Art, Tracey Emin\u2019s Brutally Intimate Works Demand a Reckoning",
+        "vote": 0
+    }
+]

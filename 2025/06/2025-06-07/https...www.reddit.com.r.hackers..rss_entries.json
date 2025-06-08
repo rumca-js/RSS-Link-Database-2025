@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/keithstoned1",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T23:56:24.951167+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T23:04:17+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>There is a disgruntled team member who is sending malicious emails. It is coming from a Proton Email source. Who should I reach out to in an effort to discove who this is? Feels a bit beyond typical Privt investigator stuff. There is personal libel against multiple people and starting to get serious threats so trying to figure this out. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/keithstoned1\"> /u/keithstoned1 </a> <br/> <span><a href=\"https://www.reddit.com/r/hackers/comments/1l5xqhx/who_should_i_contact_about_receiving_anonymous/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hackers/comments/1l5xqhx/who_should_i_contact_about_receiving_anonymous/\">[comments]</a></span>",
+        "id": 2876457,
+        "language": null,
+        "link": "https://www.reddit.com/r/hackers/comments/1l5xqhx/who_should_i_contact_about_receiving_anonymous",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Who should I contact about receiving anonymous emails from Proton Emails?",
+        "vote": 0
+    }
+]

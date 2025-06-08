@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T23:09:08.179176+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T22:45:02+00:00",
+        "description": "Buy one at B&H: https://lon.tv/3cxb1 (compensated affiliate link) - I am slowly upgrading my home network with some new hardware. My latest upgrade is to a new $99 Unifi U7 Lite Wi-Fi 7 access point. See more networking : https://www.youtube.com/playlist?list=PLCZHp4d1HnIsjVNQfNZwRHgB0CESn9UVJ and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:21 - Price\n01:21 - Compatible with Prior Lite Mounts\n01:52 - Ethernet & Wi Fi Radio Support\n03:25 - Wifi 6 Test\n04:37 - Installing U7 Lite\n05:41 - Wi-Fi 7 test - 80mhz\n06:21 - Widening Channel Bandwidth\n07:13 - 160 Mhz bandwidth test\n08:12 - Multi Link Operation (MLO) Setup \n09:57 - MLO Speed Test\n11:17 - Ping Test: MLO\n11:40 - 160 mhz wide ping test\n12:22 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amaz",
+        "id": 2876227,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-8_ssUaK4dg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-8_ssUaK4dg/hqdefault.jpg",
+        "title": "Unifi U7 Lite Review - $99 Wi-Fi 7 Access Point Reaches 1 Gigabit Speeds",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Umair Irfan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T10:51:06.497062+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T06:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"President Donald Trump and Elon Musk deliver remarks next to a Tesla Model S on the South Lawn of the White House.\" data-caption=\"President Donald Trump and Tesla CEO Elon Musk, during better days.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/06/GettyImages-2204588044.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>President Donald Trump and Tesla CEO Elon Musk, during better days.</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Elon Musk and President Donald Trump \u2014 two of the most powerful, outspoken billionaires in America \u2014 are still tangled up in a messy breakup over a <a href=\"https://www.vox.com/politics/415599/elon-musk-trump-feud-bill-contracts-nasa\">variety of issues</a>. It\u2019s no shock that these two men with huge egos would have friction, but it\u2019s interesting to look at some of the specific things that seem to be causing trouble between them.</p>\n\n<p cla",
+        "id": 2872643,
+        "language": null,
+        "link": "https://www.vox.com/climate/415813/trump-musk-fallout-clean-energy-evs-republican-tesla",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/GettyImages-2204588044.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Elon Musk couldn\u2019t change Trump\u2019s mind on electric vehicles",
+        "vote": 0
+    }
+]

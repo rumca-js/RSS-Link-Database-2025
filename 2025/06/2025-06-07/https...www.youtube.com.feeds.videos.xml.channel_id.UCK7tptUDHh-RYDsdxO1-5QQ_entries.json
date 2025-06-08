@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T07:49:11.626480+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T06:25:55+00:00",
+        "description": "As President Donald Trump and Elon Musk threaten to cut ties, the U.S. government heavily relies on SpaceX to support NASA. Musk\u2019s private company has received more $20 billion in funding for it.\n\nHere\u2019s what the Trump-Musk feud would mean for the U.S.\u2019s space ambitions.\n\nChapters:\n0:00 The Trump-Musk fallout continues\n1:21 What this means for NASA\n3:24 What this means for SpaceX\n4:49 Future SpaceX projects with the U.S. government\n5:50 What\u2019s at stake for both sides?\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Trump #Musk #WSJ",
+        "id": 2871891,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VHxokG-MjgI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VHxokG-MjgI/hqdefault.jpg",
+        "title": "How the Trump-Musk Feud Risks Billions for SpaceX and NASA | WSJ",
+        "vote": 0
+    }
+]

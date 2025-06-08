@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Associated Press",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T09:15:25.802855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T09:05:12+00:00",
+        "description": "A large Russian drone-and-missile attack targeted Ukraine\u2019s eastern city of Kharkiv on Saturday, killing at least three people and injuring 21, local Ukrainian officials said",
+        "id": 2872221,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/ukraine/russian-drones-missiles-target-kharkiv-ukraine-rcna211584",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250607-kharkiv-ukraine-aa-c3968d.jpg",
+        "title": "Russian drones and missiles target Ukraine\u2019s eastern city of Kharkiv, killing 3, officials say",
+        "vote": 0
+    }
+]

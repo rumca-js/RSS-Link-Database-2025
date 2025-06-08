@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Burt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-07T16:24:20.195354+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-07T15:39:34+00:00",
+        "description": "<img width=\"1920\" height=\"1280\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl.jpg 1920w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl-1536x1024.jpg 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />\n\t\tThe steady march of digital identity credentials towards reusability with biometric authentication is ",
+        "id": 2874288,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202506/biometric-authentication-gains-trust-reusable-id-advances-with-oversight",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl.jpg",
+        "title": "Biometric authentication gains trust, reusable ID advances with oversight",
+        "vote": 0
+    }
+]
