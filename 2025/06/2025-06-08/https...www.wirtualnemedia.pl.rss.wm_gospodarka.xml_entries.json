@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-08T10:33:25.854926+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-08T10:33:25+00:00",
+        "description": "Na kolejn\u0105 kadencj\u0119 do rady nadzorczej Zespo\u0142u Elektrowni P\u0105tn\u00f3w-Adam\u00f3w-Konin (ZE PAK) zosta\u0142a zg\u0142oszona Beata Jakacka-Sitek, szefowa biura prawnego Urz\u0119du Miasta Sto\u0142ecznego Warszawy.",
+        "id": 2878405,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/zespol-elektrowni-patnow-adamow-konin-ze-pak-zygmunta-solorza-beata-jakacka-sitek-dalej-w-radzie-nadzorczej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prawniczka z warszawskiego ratusza ma dalej nadzorowa\u0107 holding Zygmunta Solorza",
+        "vote": 0
+    }
+]

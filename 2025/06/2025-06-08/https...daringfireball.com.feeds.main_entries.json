@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-08T17:05:33.370817+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-08T16:09:29+00:00",
+        "description": "<p><a href=\"https://www.bloomberg.com/news/newsletters/2025-06-08/apple-s-liquid-glass-ios-26-software-redesign-to-hint-at-20th-anniversary-iphone-mbnm2u0d?cmpid=BBD060825_POWERON\">Mark Gurman, in his eve-of-WWDC Power On column at Bloomberg</a>:</p>\n\n<blockquote>\n  <p>The Liquid Glass interface is going to be the most exciting part\nof this year\u2019s developer conference. It will also be a bit of a\ndistraction from the reality facing Apple: The company is behind\nin artificial intelligence, and WWDC will do little to change\nthat. Instead, Apple is making its successful operating system\nfranchise more capable and sleek\u2009\u2014\u2009even as others move on to more\ngroundbreaking AI-centric interfaces.</p>\n</blockquote>\n\n<p>Perhaps the first major hint that Apple was moving toward fluidity in the UI was the Dynamic Island, which doesn\u2019t merely expand and contract as it changes shape, but rather appears to <em>flow</em>, <a href=\"https://www.lux.camera/physicality-the-new-age-of-ui/#:~:text=The%20Dynamic",
+        "id": 2880361,
+        "language": null,
+        "link": "https://daringfireball.net/2025/06/gurman_liquid_glass_terrible_analoy",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Gurman Says New UI Is Named \u2018Liquid Glass\u2019 (and Makes a Terrible Analogy Regarding Apple\u2019s Risk With Falling Behind on AI)",
+        "vote": 0
+    }
+]

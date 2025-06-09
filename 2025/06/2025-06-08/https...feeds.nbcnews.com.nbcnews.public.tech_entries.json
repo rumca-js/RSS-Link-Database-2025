@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-08T13:30:38.001505+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-08T12:13:14+00:00",
+        "description": "Meet the Press moderator Kristen Welker reports on her phone interview with President Trump, who says he has no interest in repairing his relationship with Elon Musk.",
+        "id": 2879271,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/meet-the-press/video/trump-says-he-has-no-desire-to-reconcile-with-elon-musk-in-new-interview-241130053975",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1749385313292_mtp_clip_a2_250608_1920x1080-em3nzd.jpg",
+        "title": "Trump says he has no desire to reconcile with Elon Musk in new interview",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Magia Natury",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-08T17:15:56.983512+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-08T16:00:46+00:00",
+        "description": "\u015alimaki oraz Inne Zwierz\u0119ta Zombie - Bezwzgl\u0119dne Strategie Wyzysku w Naturze!\nLink do pe\u0142nego filmu - kana\u0142 \"Magia Natury\":\nhttps://youtu.be/btnPDAds2I8",
+        "id": 2880390,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YofyiYckW4Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 461,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfDX69pxC4q6yKSaugs196g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YofyiYckW4Y/hqdefault.jpg",
+        "title": "ZOMBIE \u015alimaki, Jelenie, Mr\u00f3wki",
+        "vote": 0
+    }
+]

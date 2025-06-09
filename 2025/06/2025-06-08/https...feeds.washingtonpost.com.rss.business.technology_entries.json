@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elizabeth Dwoskin, Nitasha Tiku",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-08T10:24:17.401604+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-08T10:00:00+00:00",
+        "description": "The Tech-Trump alliance has always had tensions. But its lucrative nature has outweighed the ideological differences.",
+        "id": 2878396,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/06/08/trump-musk-tech-industry-profitable",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Musk and Trump are over. Silicon Valley is just getting started.",
+        "vote": 0
+    }
+]

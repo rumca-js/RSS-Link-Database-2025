@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-08T05:48:43.402367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-08T04:22:29+00:00",
+        "description": null,
+        "id": 2877386,
+        "language": null,
+        "link": "https://simonwillison.net/2025/Jun/8/qwen3-embedding/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.simonwillison.net/static/2025/qwen3-mteb.jpg",
+        "title": "Qwen3 Embedding",
+        "vote": 0
+    }
+]
