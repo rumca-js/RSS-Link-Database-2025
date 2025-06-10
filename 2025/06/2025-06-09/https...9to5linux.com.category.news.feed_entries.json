@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T09:23:35.556712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T08:57:56+00:00",
+        "description": "<p><img width=\"1920\" height=\"1030\" src=\"https://9to5linux.com/wp-content/uploads/2025/06/sy111.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Sway 1.11\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/06/sy111.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/06/sy111.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>Sway 1.11 tiling window manager and Wayland compositor is now available for download with explicit sync support and other changes. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/sway-1-11-tiling-wayland-compositor-adds-support-for-explicit-synchronization\">Sway 1.11 Tiling Wayland Compositor Adds Support for Explicit Synchronization</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</",
+        "id": 2883940,
+        "language": "en-US",
+        "link": "https://9to5linux.com/sway-1-11-tiling-wayland-compositor-adds-support-for-explicit-synchronization",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/06/sy111.webp",
+        "title": "Sway 1.11 Tiling Wayland Compositor Adds Support for Explicit Synchronization",
+        "vote": 0
+    }
+]

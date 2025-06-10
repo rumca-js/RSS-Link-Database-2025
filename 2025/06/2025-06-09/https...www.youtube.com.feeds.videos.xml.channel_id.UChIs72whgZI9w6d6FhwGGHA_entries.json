@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T17:43:04.855398+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T14:01:31+00:00",
+        "description": "Support our work! https://www.patreon.com/gamersnexus or visit the GN store and grab a modmat, solder mat, or 3D PC part coaster pack! https://store.gamersnexus.net/\nThis video is just for fun. A small PC case manufacturer called \"CherryTree\" hand-made this pre-built PC by hollowing-out a Gigabyte video card, then named it the \"RTX 5027 POS Edition.\" We're tearing it down and actually applying our testing lab to it. Because fun. The POS is shockingly well-built and very creative. We had fun with this one.\n\nFind CherryTree here: https://mycherrytree.com/\n\nFind our RTX 5060 review here: https://www.youtube.com/watch?v=Z0jjxWRcp_0\n\nTIMESTAMPS\n\n00:00 - The CherryTree RTX 5027 POS\n01:27 - Recycling Broken Cards\n01:43 - Borg Cube Case\n03:00 - Tear-Down of the Pre-Built 5027\n07:15 - Inside the \"Video Card\"\n08:40 - Clever Solution\n09:36 - Fixing \"VRAM\"\n10:26 - System Memory and SOC\n13:52 - Benchmarks (lol)\n14:39 - Acoustic, Power, and Thermal Plan\n15:20 - Night Raid Performance\n16:07 - Power ",
+        "id": 2886650,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=wAmu_HnQAo8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wAmu_HnQAo8/hqdefault.jpg",
+        "title": "Pre-Built Computer Inside a Video Card: CherryTree's RTX 5027 POS Custom Mod",
+        "vote": 0
+    }
+]

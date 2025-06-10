@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T17:56:11.920813+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T14:12:53+00:00",
+        "description": "Dowiedz si\u0119 jak ochroni\u0107\u00a0swoje dziecko przed internetowym z\u0142em: https://niebezpiecznik.pl/dzieci \n\nZacznij wspiera\u0107 ten kana\u0142, a dostaniesz te bonusy:\nhttps://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw/join",
+        "id": 2887283,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Tc5YXj6BlcE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Tc5YXj6BlcE/hqdefault.jpg",
+        "title": "SZALONY POMYS\u0141 EU! KTO I JAK B\u0118DZIE MUSIA\u0141 POTWIERDZA\u0106 WIEK PRZED WEJ\u015aCIEM NA R\u00d3\u017bNE STRONY?",
+        "vote": 0
+    }
+]

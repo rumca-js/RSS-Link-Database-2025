@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kurzgesagt \u2013 In a Nutshell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T18:07:13.577128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T17:00:14+00:00",
+        "description": "\u2728 The free demo is live now on Steam: http://kgs.link/starbirds \u2728\nPlay today and help us shape the game before Early Access! \n\nStar Birds is a cheerful, cozy resource management game set in space. You help a brave flock of intergalactic birds mine asteroids, build thriving production networks, and discover new technologies to advance across the galaxy.\nWe\u2019ve been working on this for almost two years now with the amazing team at Toukana Interactive, the minds behind Dorfromantik, and can\u2019t wait to hear what you think about the demo!\n\n#kurzgesagt\n#inanutshell #kurzgesagt_inanutshell #StarBirds #toukanainteractive #spaceexploration #indiegame #indiegames \n\nFollow us for more sciencey content! \ud83e\udd86\n\nOUR CHANNELS\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtube",
+        "id": 2887446,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ce9kHZQk3MI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 181,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Ce9kHZQk3MI/hqdefault.jpg",
+        "title": "Test Our PC Game \u2013 Star Birds Demo Out Now!",
+        "vote": 0
+    }
+]

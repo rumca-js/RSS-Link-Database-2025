@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T08:00:33.094615+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T08:00:32+00:00",
+        "description": "Wed\u0142ug dziennika \u201eThe Wall Street Journal\u201d publiczna k\u0142\u00f3tnia prezydenta Donalda Trumpa i miliardera Elona Muska wstrz\u0105sn\u0119\u0142a szeregowymi pracownikami Departamentu Wydajno\u015bci Rz\u0105du (DOGE), kt\u00f3rzy obawiaj\u0105 si\u0119, \u017ce ich w\u0142asne miejsca pracy mog\u0105 by\u0107 zagro\u017cone.",
+        "id": 2883242,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/elon-musk-poklocil-sie-z-donaldem-trumpem-co-dalej-z-departamentem-wydajnosci-rzadu-doge",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Musk pok\u0142\u00f3ci\u0142 si\u0119 z Trumpem. Pracownicy DOGE boj\u0105 si\u0119 utraty pracy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T13:29:14.146605+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T13:22:25+00:00",
+        "description": "<p>The UK is cementing its position as Europe&#8217;s AI powerhouse through partnerships with players like NVIDIA to tackle issues like the skills gap. The UK continued to outpace continental rivals both in freshly funded AI startups and overall private investment throughout 2024. Since 2013, UK AI ventures have managed to attract \u00a322 billion in private [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/uk-tackles-ai-skills-gap-through-nvidia-partnership/\">UK tackles AI skills gap through NVIDIA partnership</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2885751,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/uk-tackles-ai-skills-gap-through-nvidia-partnership",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "UK tackles AI skills gap through NVIDIA partnership",
+        "vote": 0
+    }
+]

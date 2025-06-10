@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Donlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T14:23:08.125808+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T13:35:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/2025060810544200_s.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>A caveat here first, explaining why my thoughts on this are probably irrelevant, and then some thoughts on this. Caveat: I don't think I've ever truly loved Mario Kart since one magical evening at university in which a bunch of us played <a data-keyword=\"true\" href=\"https://www.eurogamer.net/games/mario-kart-64\">Mario Kart 64</a>, then newly released, on split-screen all night long and into the morning. I loved that game so much - each moment was such a hectic joy. And it used me up a bit. I haven't really been able to engage with the series with quite the same thrill since.</p> <p><a href=\"https://www.eurogamer.net/i-dont-know-how-good-mario-kart-worlds-free-roam-actually-is-but-its-perfect-for-me\">Read more</a></p>",
+        "id": 2886205,
+        "language": "en",
+        "link": "https://www.eurogamer.net/i-dont-know-how-good-mario-kart-worlds-free-roam-actually-is-but-its-perfect-for-me",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/2025060810544200_s.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "I don't know how good Mario Kart World's Free Roam actually is, but it's perfect for me",
+        "vote": 0
+    }
+]

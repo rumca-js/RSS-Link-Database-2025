@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T22:32:38.157893+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T22:32:37+00:00",
+        "description": "Ministerstwo Sportu i Turystyki rozstrzygn\u0119\u0142o konkurs i przyzna\u0142o pieni\u0105dze na dwana\u015bcie strategii dla r\u00f3\u017cnych dziedzin turystyki. Tylko jedna z zaplanowanych turystyk zostanie bez swojego dokumentu \u2013 oferta na ni\u0105 okaza\u0142a si\u0119 za s\u0142aba. Zwie\u0144czeniem prac ma by\u0107 strategia dla ca\u0142ej polskiej turystyki.",
+        "id": 2890008,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/nowe-trendy/art42498571-trzynascie-podstrategii-dla-turystyki-dotacje-przyznane-prace-ruszyly",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trzyna\u015bcie podstrategii dla turystyki \u2013 dotacje przyznane, prace ruszy\u0142y",
+        "vote": 0
+    }
+]

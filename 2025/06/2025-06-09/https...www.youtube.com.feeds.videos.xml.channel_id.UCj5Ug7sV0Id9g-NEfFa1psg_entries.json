@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Samo\u0142yk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T18:17:32.368002+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T15:02:00+00:00",
+        "description": "Zapraszam Was na rozmow\u0119 z Tymkiem \u2014 ch\u0142opcem, kt\u00f3ry w tym roku przyst\u0105pi\u0142 do Pierwszej Komunii \u015awi\u0119tej w grupie \"Barank\u00f3w\". Dowiecie si\u0119, jak Tymek wst\u0105pi\u0142 do \"GROM-u\" (i czym on w\u0142a\u015bciwie jest), dlaczego Jezus kojarzy mu si\u0119 ze \u015bwiec\u0105 oraz jak wspomina swoj\u0105 pierwsz\u0105 spowied\u017a.\n\n#tymek #komunia #baranki\n\n\ud83d\udc49 Moja inna rozmowa o \"Barankach\": https://www.youtube.com/watch?v=lotRXP-nuzA\n\ud83d\udc49 A tu wi\u0119cej o \"Barankach\" (szczeg\u00f3\u0142y, zapisy itp): https://mms.edu.pl/baranki/\n\ud83d\udc49 Takie filmy jak ten s\u0105 mo\u017cliwe dzi\u0119ki moim Patronom i Darczy\u0144com. Je\u015bli chcesz, aby ten kana\u0142 istnia\u0142 i dalej si\u0119 rozwija\u0142, mo\u017cesz do\u0142\u0105czy\u0107 do wspieraj\u0105cych! Mo\u017cna to zrobi\u0107 na 3 sposoby:\n- Patronite: https://patronite.pl/Samolyk\n- Przycisk \"wesprzyj\" \u2013 znajduje si\u0119 tu\u017c pod filmem\n- Darowizna na konto Banku Pekao SA: 08 1240 2786 1111 0010 1984 8265 Tytu\u0142em: \"darowizna\"",
+        "id": 2887645,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ONuUMBQ8Y08",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 372,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj5Ug7sV0Id9g-NEfFa1psg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ONuUMBQ8Y08/hqdefault.jpg",
+        "title": "Rozmowa z Tymkiem \u2013 ch\u0142opcem pierwszokomunijnym z 'Barank\u00f3w'",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T07:18:52.252200+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T00:11:34+00:00",
+        "description": "A European research team has traced the geographical origin of the fungus responsible for the disease to Ukraine. The team also revealed that this fungus, which has ravaged bat populations since the winter of 2006-2007, is actually composed of two distinct species, each with its own preferred host.",
+        "id": 2881638,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/06/09/the-mystery-of-white-nose-syndrome-which-is-killing-us-bats-is-beginning-to-unravel_6742136_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/05/28/443/0/5315/2657/644/322/60/0/be26342_sirius-fs-upload-1-9vfrtuvghapm-1748443211344-hemis-tr743d.jpg",
+        "title": "The mystery of white-nose syndrome, which is killing US bats, is beginning to unravel",
+        "vote": 0
+    }
+]

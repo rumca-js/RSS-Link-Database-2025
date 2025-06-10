@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T18:17:15.584414+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T15:06:59+00:00",
+        "description": "<p>Security researchers at Veracode, during their routine monitoring of the open-source world, stumbled upon two seemingly harmless software packages on the popular npm repository. However, when they looked inside, they weren\u2019t greeted with code; instead, they faced a wall of Unicode characters, predominantly in Japanese Katakana and Hiragana. &#8220;What started as an investigation into a<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/veracode-unravels-12-layer-npm-attack-find-rat/\" title=\"ReadVeracode unravels 12-layer npm attack to find RAT\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/veracode-unravels-12-layer-npm-attack-find-rat/\">Veracode unravels 12-layer npm attack to find RAT</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2887623,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/veracode-unravels-12-layer-npm-attack-find-rat",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Veracode unravels 12-layer npm attack to find RAT",
+        "vote": 0
+    }
+]

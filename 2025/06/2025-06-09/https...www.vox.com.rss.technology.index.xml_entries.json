@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nicole Narea",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T10:16:59.350308+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T06:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Trump and Speaker Mike Johnson\" data-caption=\"President Donald Trump, joined by Speaker of the House Mike Johnson, speaks to members of the media as he arrives for a House Republican meeting at the Capitol on May 20, 2025. | Andrew Harnik/Getty Images\" data-portal-copyright=\"Andrew Harnik/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2216078378.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>President Donald Trump, joined by Speaker of the House Mike Johnson, speaks to members of the media as he arrives for a House Republican meeting at the Capitol on May 20, 2025. | Andrew Harnik/Getty Images</figcaption>\n</figure>\n<p class=\"has-text-align-none\">The fight over President Donald Trump\u2019s so-called big, beautiful bill is turning ugly.</p>\n\n<p class=\"has-text-align-none\">After passing the GOP-controlled House, the bill has moved to the Senate, where Republicans are facing ",
+        "id": 2884305,
+        "language": null,
+        "link": "https://www.vox.com/trump-administration/415825/trump-big-beautiful-bill-congress-deficit-tax-cuts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2216078378.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Trump\u2019s big, beautiful bill, explained in 5 charts",
+        "vote": 0
+    }
+]

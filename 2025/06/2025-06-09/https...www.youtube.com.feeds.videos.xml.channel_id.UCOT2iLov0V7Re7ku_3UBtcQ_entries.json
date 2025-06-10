@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "hankschannel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-09T18:06:38.073160+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-09T17:49:28+00:00",
+        "description": "Sometimes you want to make a big, beautiful video essay but then you realize that:\n\n1. No one is all that interested in this particular topic\n2. You're just not that kinda guy.\n\nEdited by Aves: https://bsky.app/profile/avesmhl.com",
+        "id": 2887432,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=l6PT1VKPLlQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l6PT1VKPLlQ/hqdefault.jpg",
+        "title": "The Culture vs The Ekumen as Models for Humanity's Future",
+        "vote": 0
+    }
+]
