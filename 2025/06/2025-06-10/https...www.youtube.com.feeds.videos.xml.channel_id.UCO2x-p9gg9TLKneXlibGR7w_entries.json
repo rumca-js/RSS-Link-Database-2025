@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T13:13:18.394486+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T13:00:11+00:00",
+        "description": "WWDC 2025 delivered Apple\u2019s most ambitious software overhaul in years, debuting the all-new Liquid Glass design language across iOS 26, iPadOS 26, macOS Tahoe 26, watchOS, tvOS, and visionOS for a truly unified Apple ecosystem. This keynote was packed with major updates, including a redesigned Phone app, smarter call screening, enhanced Messages features, a revamped Photos app, and the long-awaited arrival of true windowing and a menu bar on iPadOS. Apple Intelligence took center stage with on-device AI, live translation, and powerful new developer APIs, while CarPlay, Game Center, and Spotlight received significant upgrades. With Apple responding to recent criticism and regulatory pressure, WWDC 2025 marks a pivotal moment for iOS 26, Apple Intelligence, and the future of Apple\u2019s platforms\u2014making this a must-watch for anyone invested in the Apple ecosystem. In this video, we\u2019ll cover all of it and more\u2014making for the only WWDC coverage you truly need to watch!\n\nFollow Snazzy Labs on ",
+        "id": 2894758,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=67cbvsJFREU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/67cbvsJFREU/hqdefault.jpg",
+        "title": "From Chaos to Cohesion: How Apple\u2019s 2025 WWDC Changed Everything",
+        "vote": 0
+    }
+]

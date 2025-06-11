@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T16:31:26.762551+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T16:31:26+00:00",
+        "description": "A\u017c 120 gdynian skorzysta w tym roku z dofinansowa\u0144 do zakupu rower\u00f3w elektrycznych. Miasto wyda na ten cel 300 tys. z\u0142otych. Dobre i to, bo rz\u0105dowy program dop\u0142at utkn\u0105\u0142.",
+        "id": 2896648,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/rowerowa-koalicja-rzeczpospolitej/art42504491-gdynia-doplaca-do-e-rowerow-ale-reszta-musi-czekac",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gdynia dop\u0142aca do e-rower\u00f3w, ale reszta musi czeka\u0107",
+        "vote": 0
+    }
+]

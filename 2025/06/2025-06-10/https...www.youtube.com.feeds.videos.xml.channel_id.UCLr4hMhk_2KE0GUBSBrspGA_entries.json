@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T17:04:13.970388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T15:59:40+00:00",
+        "description": "Podczas konferencji WWDC 2025 Apple przedstawi\u0142o swoj\u0105 wizj\u0119 przysz\u0142o\u015bci. Przysz\u0142o\u015bci, do kt\u00f3rej znowu firma postanowi\u0142a nie zaprosi\u0107 nas. Siri nie m\u00f3wi po polsku od lat - przyzwyczaili\u015bmy si\u0119. Jednak w momencie, kiedy chatGPT, Gemini czy inne nie maj\u0105 z polskim problemu, brak wsparcie dla naszego j\u0119zyka przez Apple zaczyna by\u0107 naprawd\u0119 zauwa\u017calny. Co dla Polaka, a co nie - opowiadam w tym filmie. Je\u017celi nie uda\u0142o Ci si\u0119 obejrze\u0107 WWDC (zazdroszcz\u0119) mo\u017cesz to ekspresso potraktowa\u0107 jako streszczenie.\n\nW odcinku:\n00:00 Wst\u0119p\n00:42 Zno\u015bne Ekspresso\n00:54 Apple Intelligence\n01:30 Systemy \u2013 iOS 26, watchOS 26, tvOS 26, macOS 26, visionOS 26, iPadOS 26\n01:59 Najwa\u017cniejszy jest wygl\u0105d\u2026\n03:01 Apple Messages\n03:45 Apple Music\n04:04 Apple Maps\n04:29 Apple Wallet\n04:34 Gry\n04:38 Visual Intelligence\n04:45 Apple Watch i watchOS \u2013 nowe funkcje\n05:30 Nowy wygl\u0105d tvOS\n05:37 Apple\u2019owy Windows Vista \u2013 macOS\n05:52 Pozosta\u0142e nowo\u015bci i innowacje od Apple\n06:00 AirPodsy z jako\u015bci\u0105 mikrofon\u00f3w podcastowych\n07",
+        "id": 2896805,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HDIApSjW8qk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HDIApSjW8qk/hqdefault.jpg",
+        "title": "Dlaczego Apple nie lubi Polak\u00f3w? | Zno\u015bne ekspresso",
+        "vote": 0
+    }
+]

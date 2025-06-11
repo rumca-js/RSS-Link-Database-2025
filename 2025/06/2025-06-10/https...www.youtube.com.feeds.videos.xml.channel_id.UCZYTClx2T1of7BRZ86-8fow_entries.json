@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T18:21:40.801241+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T17:00:19+00:00",
+        "description": "JMP offers a 30-day free trial for anyone, anywhere. Go to https://www.jmp.com/scishow to see the benefits of visual statistics for yourself. \n\nToday, the Great Salt Lake of Utah has multiples of the ocean's salt concentration. But it didn't used to be so salty. In fact, it used to be Lake Bonneville. And we know its story thanks to microscopic diatoms and Dr. Ruth Patrick.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mckishen, Kaitlyn O'Callaghan, Reed Spilmann, Garrett Galloway, Friso, kickinwasabi, Gizmo, Jeremy Mattern, Blood Docto",
+        "id": 2897465,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GR-eMCvCtFg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GR-eMCvCtFg/hqdefault.jpg",
+        "title": "Why the Great Salt Lake is Two Completely Different Colors",
+        "vote": 0
+    }
+]

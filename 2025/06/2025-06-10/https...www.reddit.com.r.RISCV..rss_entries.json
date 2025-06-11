@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Myarmira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T15:24:54.672148+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T14:53:02+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1l80rs1/my_milkv_megrez_workstation_with_kde_supertuxkart/\"> <img src=\"https://b.thumbs.redditmedia.com/fDFYqqI9jH_EFg-KDrs_Tm1W6Xus3c8ZyhAq8Im6hTQ.jpg\" alt=\"My Milk-V Megrez workstation with KDE, Supertuxkart and OpenRCT\" title=\"My Milk-V Megrez workstation with KDE, Supertuxkart and OpenRCT\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I guess I&#39;m just playing around, but somehow I&#39;m really happy that OpenRCT works so well. The board seems to stay cool enough with the supplied fans and is really very quiet. </p> <p>I think it&#39;s strange that the board at Supertuxkart and other games (provided that these work) has a really good performance, but is particularly weakening properly in WebGL applications. It does not work at all. In Epiphany, as you can see, quite bad. With my Raspberry Pi 5 it is exactly the other way around. So I have the feeling that it should actually go much better, but so far I can&",
+        "id": 2895980,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1l80rs1/my_milkv_megrez_workstation_with_kde_supertuxkart",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b.thumbs.redditmedia.com/fDFYqqI9jH_EFg-KDrs_Tm1W6Xus3c8ZyhAq8Im6hTQ.jpg",
+        "title": "My Milk-V Megrez workstation with KDE, Supertuxkart and OpenRCT",
+        "vote": 0
+    }
+]

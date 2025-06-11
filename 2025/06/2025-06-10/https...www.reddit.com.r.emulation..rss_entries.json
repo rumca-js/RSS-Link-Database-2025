@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/NXGZ",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T13:24:29.452584+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T09:25:41+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><h1>What&#39;s new in 1.19.1</h1> <ul> <li>Fix selecting background image on Android (<a href=\"https://github.com/hrydgard/ppsspp/issues/20477\">#20477</a>)</li> <li>Fix RetroAchievements regression for multi-executable games (<a href=\"https://github.com/hrydgard/ppsspp/issues/20469\">#20469</a>)</li> <li>Possible fix for Mac audio device selection issue (<a href=\"https://github.com/hrydgard/ppsspp/issues/20482\">#20482</a>)</li> <li>Add workaround for Dragon&#39;s Lair not working with LLE scePsmf (<a href=\"https://github.com/hrydgard/ppsspp/issues/20468\">#20468</a>)</li> <li>Prevent trying to load obviously-corrupt CSO/CHD files (<a href=\"https://github.com/hrydgard/ppsspp/issues/20466\">#20466</a>)</li> <li>Fix regression for homebrew apps that request extra memory (<a href=\"https://github.com/hrydgard/ppsspp/issues/20457\">#20457</a>)</li> <li>Fix grid drawing in the various Robot Taisen games (<a href=\"https://github.com/hrydgard/ppsspp/issues/20456\">#20",
+        "id": 2894818,
+        "language": null,
+        "link": "https://www.reddit.com/r/emulation/comments/1l7uamt/ppsspp_1191_bug_fix_release_and_upcoming_changes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PPSSPP 1.19.1 bug fix release and upcoming changes",
+        "vote": 0
+    }
+]

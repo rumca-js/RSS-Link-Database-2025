@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T20:04:09.028030+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T19:00:53+00:00",
+        "description": "In 2011, a study published from the Carnage Institute For Science reported that between the 1200s and 1300s, 700 million tons of CO2 was removed from the Earth\u2019s atmosphere. How was this done? Can we repeat it now, as we face the current climate crisis? We wouldn\u2019t recommend it! Instead of any modern carbon scrubbing technology, it was caused by Genghis Khan killing around 40 million people - well over 10% of the global population at the time he was creating the Mongol Empire. This left deforested lands to grow back and lock away enough carbon to measurably reduce atmospheric CO2. This may have even cooled down the Earth, making Khan history\u2019s greatest climate activist.",
+        "id": 2898478,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nze1mm22lWs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nze1mm22lWs/hqdefault.jpg",
+        "title": "Genghis Khan - the Greta Thunberg of His Day?",
+        "vote": 0
+    }
+]

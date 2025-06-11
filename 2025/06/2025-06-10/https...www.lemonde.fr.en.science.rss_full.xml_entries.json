@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T17:14:09.073895+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T17:14:08+00:00",
+        "description": "A team of scientists analyzed more than nine years of data collected by NASA's Maven probe. Their research revealed an atmospheric escape process that was at work several billion years ago.",
+        "id": 2896826,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/06/10/how-solar-wind-may-have-eroded-the-atmosphere-of-mars_6742212_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/06/06/214/0/1575/787/644/322/60/0/7d644f0_sirius-fs-upload-1-fh0y2vvwu5t6-1749203408266-mars-atmosphere-and-cassini-crater-hope-mission-orbit-19-52252929420.jpg",
+        "title": "How solar wind may have eroded the atmosphere of Mars",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Metozz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T08:54:20.858468+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T08:39:54+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>I&#39;m currently building a software solution to help users choose the perfect car based on their needs. For this, I need access to a reliable API or database that includes detailed information about most (ideally all) car makes and models across different manufacturers.</p> <p>Key requirements:</p> <ul> <li>Should cover cars sold in the EU, but I&#39;d like the option to expand later.</li> <li>Needs to be regularly updated with new model releases and changes.</li> <li>Ideally includes detailed specs, fuel types, release years, etc.</li> </ul> <p>Do you have any recommendations for data providers or APIs?</p> <p>I\u2019ve looked into a few, but I\u2019d love to hear real-world feedback before committing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Metozz\"> /u/Metozz </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1l7tmfb/searching_for_data_provider_car_apidatabase/\">[link]</a></span",
+        "id": 2892899,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1l7tmfb/searching_for_data_provider_car_apidatabase",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Searching for Data Provider - Car API/Database",
+        "vote": 0
+    }
+]

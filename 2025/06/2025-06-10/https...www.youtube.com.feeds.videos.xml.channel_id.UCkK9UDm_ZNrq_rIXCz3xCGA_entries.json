@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T15:29:15.133782+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T14:44:47+00:00",
+        "description": "Both Mozilla Pocket and Orbit are shutting down with the potential loss of more than 80% of the Firefox makers funding coming in August.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 2895986,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mOJU8zgS4r4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mOJU8zgS4r4/hqdefault.jpg",
+        "title": "More Mozilla Services Shutting Down as Loss of Funding Looms",
+        "vote": 0
+    }
+]

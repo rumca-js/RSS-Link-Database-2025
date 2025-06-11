@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T08:28:06.467291+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T07:30:13+00:00",
+        "description": "Bardzo mi si\u0119 podoba tech demo Wied\u017amina IV... tylko co z tego? :(\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Kacper Grela",
+        "id": 2892610,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WqDRIYFaZUg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WqDRIYFaZUg/hqdefault.jpg",
+        "title": "Wied\u017amin IV: musimy si\u0119 wszyscy troch\u0119 uspokoi\u0107",
+        "vote": 0
+    }
+]

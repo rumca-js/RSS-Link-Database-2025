@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T13:54:38.694763+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T13:30:18+00:00",
+        "description": "This comprehensive MERN stack course takes absolute beginners from zero to deployment. Burak teaches you to create a complete notes application using MongoDB, Express, React, and Node.js with professional features like rate limiting and responsive design. By the end of this hands-on tutorial, you'll have built and deployed a fully functional REST API and modern web app.\n\nCode: http://github.com/burakorkmez/mern-thinkboard\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\nResources:\nBurak's 100 Hours Udemy Course: https://dub.sh/udemy-discount \nDiagrams: https://app.eraser.io/workspace/GlhY2F7ltehsjZ2z9phZ\nUpstash: https://upstash.com\n\nContents: \n- 00:00:00 0- Project Preview \n- 00:01:32 1- Setting Up Our Backend & Basics \n- 00:25:39 2- Nodemon & Setting Up Our Routes \n- 00:32:35 3- Optimizing Our File & Folder Structure \n- 00:43:52 4- Setting Up Our Database (MongoDB) \n- 01:03:",
+        "id": 2894865,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=F9gB5b4jgOI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F9gB5b4jgOI/hqdefault.jpg",
+        "title": "MERN Stack Tutorial for Beginners with Deployment \u2013 2025",
+        "vote": 0
+    }
+]

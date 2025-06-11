@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-10T17:15:46.302817+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-10T16:44:15+00:00",
+        "description": "<p>Apple has unveiled Metal 4, an overhaul of its graphics API that brings native AI capabilities alongside improved gaming performance. The announcement, made during the company&#8217;s WWDC 2025 developer showcase, represents Apple\u2019s latest attempt to woo both game developers and AI enthusiasts. Apple&#8217;s transition to its own silicon has been impressively smooth, but developers are<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/apple-fuses-ai-with-graphics-metal-4-overhaul/\" title=\"ReadApple fuses AI with graphics in Metal 4 overhaul\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/apple-fuses-ai-with-graphics-metal-4-overhaul/\">Apple fuses AI with graphics in Metal 4 overhaul</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2896828,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/apple-fuses-ai-with-graphics-metal-4-overhaul",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple fuses AI with graphics in Metal 4 overhaul",
+        "vote": 0
+    }
+]
