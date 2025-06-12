@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T14:51:11.809547+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T14:01:18+00:00",
+        "description": "Michael Truell, co-founder and CEO of Anysphere, the company behind Cursor, joins Garry to talk about building one of the fastest-growing startups of all time\u2014and why he's betting on a future beyond code. He walks through the early insights that led his team to leave a promising AI-powered CAD project and instead chase a bigger dream: reinventing how software is written. \n\nFrom years of false starts and rewrites to Cursor's breakthrough moment, Michael explains what it takes to build a tool that could eventually replace programming as we know it. He also reflects on their first 10 hires, why taste still matters and how the decade ahead will unlock a new kind of creativity for builders everywhere.\n\nApply to Y Combinator: https://www.ycombinator.com/apply/\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 - Intro\n01:00 - A new way to build software\n02:00 - Cursor\u2019s mission\n03:40 - The downside of vibe coding\n04:50 - Two ways to view LLMs\n05:50 - Bottlenecks to superhu",
+        "id": 2904971,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oOylEw3tPQ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oOylEw3tPQ8/hqdefault.jpg",
+        "title": "Cursor CEO: Going Beyond Code, Superintelligent AI Agents, And Why Taste Still Matters",
+        "vote": 0
+    }
+]

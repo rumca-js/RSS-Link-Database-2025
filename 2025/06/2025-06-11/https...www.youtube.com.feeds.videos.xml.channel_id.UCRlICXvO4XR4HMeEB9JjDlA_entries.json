@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T19:19:59.343025+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T19:00:00+00:00",
+        "description": "In the unlikely event of a nuclear missile launch towards Britain, there could be as little as 10\u201320 minutes\u2019 warning. Intercontinental ballistic missiles (ICBMs) travel at roughly 4 miles per second\u2014leaving very little time to respond.\n\nIf such a scenario ever occurred, emergency alerts would likely be sent to mobile phones, which could be limited to emergency communications only. Government advice might include staying indoors\u2014ideally in a basement or under the stairs\u2014as brick and concrete can help reduce radiation exposure.\n\nA nuclear detonation would cause severe damage in the immediate area and release harmful radiation. Those outside the direct impact zone would be advised to shelter in place for at least two weeks, limit outdoor exposure, and follow hygiene recommendations to reduce contamination.\n\nWhile missile defence systems exist, they aren\u2019t foolproof. That\u2019s why diplomacy and prevention remain our best defence.\n\nLet\u2019s stay informed\u2014not alarmed\u2014and hope such knowledge neve",
+        "id": 2907546,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aK9gvbdqAzg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aK9gvbdqAzg/hqdefault.jpg",
+        "title": "If London Got Nuked",
+        "vote": 0
+    }
+]

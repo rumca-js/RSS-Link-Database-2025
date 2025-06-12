@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T16:17:06.318392+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T16:00:37+00:00",
+        "description": "Ballerina and Furiosa - two decent movies with likeable leads, good word of mouth and solid reviews, but both of them flopped. Why? Because Girlboss Fatigue has kicked in hard, and audiences are turning away from any female-led action movies. From Marvel to Star Wars to Lord of the Rings, every major franchise has been overwhelmed by girlbosses, and people are done with it.",
+        "id": 2905737,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=IANrqmrntTE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IANrqmrntTE/hqdefault.jpg",
+        "title": "Female Action Movies Are Dead - Girlboss Fatigue Killed Them",
+        "vote": 0
+    }
+]

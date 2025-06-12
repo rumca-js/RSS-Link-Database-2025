@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T14:11:36.763829+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T12:40:28+00:00",
+        "description": "<p>W \u015bwiecie bezpiecze\u0144stwa IT nie ma \u015bwi\u0119to\u015bci &#8211; wr\u0119cz przeciwnie, im oprogramowanie jest bardziej \u201ckultowe\u201d (lub po prostu popularniejsze), tym na wi\u0119ksz\u0105 chwa\u0142\u0119 mog\u0105 liczy\u0107 hakerzy (oczywi\u015bcie w bia\u0142ych kapeluszach), kt\u00f3rzy udowodni\u0105 istnienie podatno\u015bci. Badacze z Synacktiv wzi\u0119li na warsztat popularn\u0105 gr\u0119 strategiczn\u0105, wydan\u0105 przez Ubisoft w 2006 roku &#8211;...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/badacze-zaprezentowali-zdalne-wykonanie-kodu-w-klasycznej-grze-heroes-of-might-and-magic-v/\">Badacze zaprezentowali zdalne wykonanie kodu w klasycznej grze Heroes of Might and Magic V</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2904181,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/badacze-zaprezentowali-zdalne-wykonanie-kodu-w-klasycznej-grze-heroes-of-might-and-magic-v",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Badacze zaprezentowali zdalne wykonanie kodu w klasycznej grze Heroes of Might and Magic V",
+        "vote": 0
+    }
+]

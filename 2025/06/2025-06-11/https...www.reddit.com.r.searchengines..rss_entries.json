@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/osrworkshops",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T22:58:01.402609+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T22:00:26+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I hope the question is self-explanatory. I&#39;ve built Manticore, Pisa, and Xapian to see how these engines work first-hand. But I was hoping to build a digital library around XML documents, and I&#39;m finding it surprisingly obtuse to learn how to index (or reverse-index) XML content.</p> <p>My intention is to use a specific form of XML along the lines of JATS or TEI. I want sentence tags nested inside paragraph tags. I also want to use custom character entities to introduce semantic distinctions that aren&#39;t evident from printed form alone, such as end-of-sentence versus abbreviation periods.</p> <p>My goal is to support queries that might be more granular than normal full-text-search, such as: find instances of term A in sentences that also contain term B; or, given a sentence in document D that quotes from citation C, find other locations in other documents that quote from the same source.</p> <p>I&#39;d also like to filter queries by context",
+        "id": 2909197,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1l95ip7/can_anyone_recommend_a_fulltext_search_engine_in",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Can anyone recommend a full-text search engine in C++ which works well for XML?",
+        "vote": 0
+    }
+]

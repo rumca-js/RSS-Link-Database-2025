@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "G.F. Darwin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T13:44:32.456626+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T11:54:08+00:00",
+        "description": "Odkrywamy zapomniane przys\u0142owia!  dyskutujemy o ich m\u0105dro\u015bci i tworzymy nowoczesne wersje. Sprawd\u017a, jak dawne prawdy inspiruj\u0105 nasze dzia\u0142ania i przedsi\u0119biorczo\u015b\u0107. Rozwi\u0105\u017c quiz i odkryj sw\u00f3j potencja\u0142! Wsp\u00f3\u0142praca reklamowa z ING Bank \u015al\u0105ski \nQuiz - www.ing.pl/lp/zaloz-firme#quiz.\n#Przys\u0142owia #Inspiracja #Kreatywno\u015b\u0107 #Ambicja #Przedsi\u0119biorczo\u015b\u0107 #M\u0105dro\u015b\u0107Ludowa #Nowoczesno\u015b\u0107 #Biznes #Rozw\u00f3jOsobisty #QuizING #reklama #wspolpraca #ing",
+        "id": 2903757,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MG6O9ICZrSY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 123,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkPjHTuNd_ycm__29dXM3Nw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MG6O9ICZrSY/hqdefault.jpg",
+        "title": "Ludwik i Richard czyli Przys\u0142owia? Nie rozumiem!",
+        "vote": 0
+    }
+]

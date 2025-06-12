@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T12:03:06.163899+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T12:03:05+00:00",
+        "description": "Blisko 100 lokalnych sp\u00f3\u0142dzielni energetycznych w Polsce ju\u017c dzia\u0142a. Problemem, poza biurokracj\u0105, jest brak miejsca w sieci energetycznej.",
+        "id": 2903726,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art42510431-przybywa-spoldzielni-energetycznych-ale-biurokracja-wciaz-duzym-problemem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Przybywa sp\u00f3\u0142dzielni energetycznych. Ale biurokracja wci\u0105\u017c du\u017cym problemem",
+        "vote": 0
+    }
+]

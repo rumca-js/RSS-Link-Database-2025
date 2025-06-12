@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T21:09:51.992597+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T20:31:40+00:00",
+        "description": "On June 5th, XLibre (Xorg fork) was announced. Red Hat immediately worked to suppress it.  3 days later, GNOME dropped Xorg. 2 days after that, Ubuntu Xorg as well.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 2908555,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nIvUUfM_5HI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nIvUUfM_5HI/hqdefault.jpg",
+        "title": "Ubuntu & GNOME Drop Xorg Following Xorg Fork Announcement",
+        "vote": 0
+    }
+]

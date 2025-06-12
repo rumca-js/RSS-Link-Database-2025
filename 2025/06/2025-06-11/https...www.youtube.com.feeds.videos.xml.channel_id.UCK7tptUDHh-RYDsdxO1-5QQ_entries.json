@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T18:25:49.837137+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T18:05:55+00:00",
+        "description": "After reports of violence outside aid sites in Gaza, the Wall Street Journal analyzed satellite imagery, video and witness testimony, and found that the U.S.-led, Israel-backed process has led to chaos and deaths. \n\nChapters:\n0:00 Two weeks into the new Israeli-backed aid system in Gaza\n0:57 How the aid plan works\n2:14 GHF's four aid distribution sites\n3:15 What happened on June 1?\n\n#Gaza #Israel #WSJ",
+        "id": 2907011,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ZZ2jMnEAUgM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZZ2jMnEAUgM/hqdefault.jpg",
+        "title": "How U.S. and Israel-Backed Aid Delivery in Gaza Turned Deadly | WSJ",
+        "vote": 0
+    }
+]

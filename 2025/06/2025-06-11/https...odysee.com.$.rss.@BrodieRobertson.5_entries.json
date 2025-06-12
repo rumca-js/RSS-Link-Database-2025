@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T21:40:46.744537+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T21:00:53+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/iCU4W5Ab33c\" width=\"480\" alt=\"thumbnail\" title=\"XLibre Is The X11 Future Xorg Never Became?\" /></p>A few months back I put out a video on Enrico Weigelt of the Xorg project spiking up the commit count for the Xorg project, and recently he decided to fork the project and start up something called Xlibre. But that did not go over completely smoothly<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Xlibre Repo: https://github.com/X11Libre/xserver<br />Xserver Repo: https://gitlab.freedesktop.org/xorg/xserver<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.x",
+        "id": 2908579,
+        "language": "en",
+        "link": "https://odysee.com/xlibre-is-the-x11-future-xorg-never:a21307135245083583bf36a9792fe2e03413888e",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/iCU4W5Ab33c",
+        "title": "XLibre Is The X11 Future Xorg Never Became?",
+        "vote": 0
+    }
+]

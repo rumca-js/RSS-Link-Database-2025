@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dylan Matthews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T13:47:40.562230+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T08:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"OpenAI CEO Sam Altman accompanied by President Donald Trump, speaks during a news conference in the Roosevelt Room of the White House.\" data-caption=\"OpenAI\u2019s Sam Altman at least has the \u201cconcepts of a plan\u201d to deal with AI job loss through a basic income. Trump does not. | Andrew Harnik/Getty Images\" data-portal-copyright=\"Andrew Harnik/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2194584986.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>OpenAI\u2019s Sam Altman at least has the \u201cconcepts of a plan\u201d to deal with AI job loss through a basic income. Trump does not. | Andrew Harnik/Getty Images</figcaption>\n</figure>\n<p class=\"has-text-align-none\">I\u2019m writing this on a plane back to Washington, DC, from a conference in the Bay Area, the land of tomorrow. While the <a href=\"https://manifest.is/\">conference</a> wasn\u2019t about AI, this is the Bay Area, and thus roughly 90 percen",
+        "id": 2903758,
+        "language": null,
+        "link": "https://www.vox.com/future-perfect/416339/ai-openai-automation-big-beautiful-reconciliation-trump",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2194584986.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "AI\u2019s coming for your job. The big, beautiful bill will make it worse.",
+        "vote": 0
+    }
+]

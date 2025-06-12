@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T17:41:46.959978+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T17:00:39+00:00",
+        "description": "JRE #2336 w/Ken Burns\nYouTube: https://youtu.be/FmlhA3dpxnc\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 2906904,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SAIiXTrVkZA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SAIiXTrVkZA/hqdefault.jpg",
+        "title": "Ken Burns on the Importance of the Revolutionary War and the Beauty of the Constitution",
+        "vote": 0
+    }
+]

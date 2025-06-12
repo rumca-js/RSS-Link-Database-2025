@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T17:10:06.623243+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T16:23:42+00:00",
+        "description": "Sponsored by LF Education & OpenSSF\n\nThere is no shortage of reasons why leaders need a better approach to upskilling their IT teams\u2019 cybersecurity prowess. Several frameworks exist but they are complex and, in some cases, very industry specific. This webinar will showcase our new, globally relevant, industry agnostic Cybersecurity Framework for 14 key job families, each at multiple experience levels. You will also learn how you can leverage this free framework tool to quickly and easily identify critical cybersecurity skills and create a custom framework for the job roles within your team.\n\nIn this webinar you will:\n- Learn the actions executive leaders can easily take to increase organizational cybersecurity prowess.\n- See how quick and easy it is to build a customized cybersecurity framework for your organization.\n- Understand how this framework simplifies and aligns to existing standards such as DoD 8140, the CISA NICE Framework, and ICT e-CF.",
+        "id": 2906270,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eZuM2at7lYw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eZuM2at7lYw/hqdefault.jpg",
+        "title": "LF Live Webinar: Cybersecurity Skills, Simplified: A Framework That Works",
+        "vote": 0
+    }
+]

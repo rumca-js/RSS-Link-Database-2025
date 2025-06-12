@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "India McKinney",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T23:09:53.469098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T22:58:14+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>State, federal, and international regulators are increasingly concerned about the harms they believe the internet and new technology are causing to users of all categories. Lawmakers are currently considering many proposals that are intended to provide protections to the most vulnerable among us. Too often, however, those proposals do not carefully consider the likely unintended consequences or even whether the law will actually reduce the harms it\u2019s supposed to target. That\u2019s why EFF supports <a href=\"https://sarajacobs.house.gov/news/press-releases/rep-jacobs-sens-hirono-and-wyden-reintroduce-bill-to-protect-reproductive-and-sexual-health-data?adfadf\">Rep. Sara Jacobs\u2019 newly reintroduced \u201cMy Body, My Data\" Act</a>, which will protect the privacy and safety of people seeking reproductive health care, while maintaining important constit",
+        "id": 2909369,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/06/congress-can-act-now-protect-reproductive-health-data",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Congress Can Act Now to Protect Reproductive Health Data",
+        "vote": 0
+    }
+]

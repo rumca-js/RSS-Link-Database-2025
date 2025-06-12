@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T15:30:17.531257+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T15:01:40+00:00",
+        "description": "Get 20% off Mobbin Pro to make your apps not ugly: https://mobbin.com/fireship\n\nApple Intelligence was nowhere to be seen at WWDC 2025 but Apple did ship some updates that could make a difference to developers. Here's everything you need to know about Apple's WWDC25.\n\n#tech #apple #wwdc25 \n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n- https://github.com/apple/containerization\n- https://developer.apple.com/swift/whats-new/\n- https://developer.apple.com/documentation/foundationmodels\n- https://machinelearning.apple.com/research/illusion-of-thinking\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- What did Apple announce at WWDC?\n- Linux containers on MacOS\n- Swift Java updates \n- Apple's Foundation Models\n- The Illusion of Thinking\n- Liquid Glass",
+        "id": 2905570,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Q57_iaGrxLg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q57_iaGrxLg/hqdefault.jpg",
+        "title": "Apple redefines reality (again) at WWDC25\u2026",
+        "vote": 0
+    }
+]

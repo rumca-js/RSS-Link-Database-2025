@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-11T17:14:50.068406+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-11T15:45:40+00:00",
+        "description": "Netbird is an AWESOME tool for remote connecting into devices, networks, and peers. Better yet, it's open source and they give the option to completely self-host it. No centralized VPN server with NetBird as your devices and networks connect to each other directly over a fast encrypted tunnel. Creating a high-performance point-to-point WireGuard overlay network that connects machines running anywhere in just a few clicks.\n\n\ud83d\udcd6 RESOURCES\nWebsite: https://netbird.io/\nGithub: https://github.com/netbirdio/netbird\nDocs: https://docs.netbird.io/\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.org/?referred",
+        "id": 2906277,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Z5Y3a7pvpn8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z5Y3a7pvpn8/hqdefault.jpg",
+        "title": "connect to your Home Server from ANYWHERE - Self Hosted Overlay VPN (Full NetBird Walkthrough)",
+        "vote": 0
+    }
+]
