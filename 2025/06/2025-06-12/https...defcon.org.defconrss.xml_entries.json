@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T20:54:17.498621+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T12:01:32+00:00",
+        "description": "<img src=\"https://defcon.org/images/defcon-33/post-images/pmne-page.webp\" alt=\"Parties, Meetups, and events page screen cap\"/> \n<br />        \n    <p>Less than two months until DEF CON 33! Time to start planning to make the most of your DEF CON experience.<br><br>\n\n    One of the best parts of DEF CON is meeting other humans and bonding over shared interests. On the <a href=\"https://defcon.org/html/defcon-33/dc-33-pmne.html\">Parties, Meetups and Events page</a> you'll find a shockingly comprehensive list of group hangs. Whether you're into Running or Ham Radio, Blanket Forts or Karaoke, we've got you covered.<br><br>\n\n    Set aside some time for fun and connection. Your people are waiting.</p>",
+        "id": 2918062,
+        "language": "en",
+        "link": "https://defcon.org/html/defcon-33/dc-33-pmne.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://defcon.org/images/defcon-33/post-images/pmne-page.webp",
+        "title": "Parties, Meetups, &amp; Events Page is live!",
+        "vote": 0
+    }
+]

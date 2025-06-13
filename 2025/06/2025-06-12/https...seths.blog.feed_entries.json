@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T09:55:24.517615+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T09:03:00+00:00",
+        "description": "Status shows up whenever humans do, and it is the invisible underpinning of our culture. The front lawn was only invented around the time of Columbus. The idea was to demonstrate that you had time and money to waste. You could take useful land and make it non-productive. You could take labor and put it [&#8230;]",
+        "id": 2912702,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/status-and-the-grass-tax",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Status (and the grass tax)",
+        "vote": 0
+    }
+]

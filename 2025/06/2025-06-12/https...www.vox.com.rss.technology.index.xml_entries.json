@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Clark Estes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T11:30:32.153266+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T07:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Time Cook on stage at WWDC\" data-caption=\"Apple CEO Tim Cook took the stage at WWDC on June 9 to announce a sweeping redesign of Apple\u2019s operating systems. | Josh Edelson/AFP via Getty Images\" data-portal-copyright=\"Josh Edelson/AFP via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/06/GettyImages-2218819304.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>Apple CEO Tim Cook took the stage at WWDC on June 9 to announce a sweeping redesign of Apple\u2019s operating systems. | Josh Edelson/AFP via Getty Images</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Once a decade, Apple does something that mobilizes its entire userbase in a fit of pixelated rage: It redesigns its software and debuts that new design. The updated look is called <a href=\"https://www.wired.com/story/designers-react-to-apple-liquid-glass/\">Liquid Glass</a>, and it\u2019s predictably controversial.</p>\n\n<p class=\"has-text-",
+        "id": 2913218,
+        "language": null,
+        "link": "https://www.vox.com/technology/416501/apple-wwdc-announcements-iphone-mac-google-ai-glass",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/GettyImages-2218819304.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Your iPhone is about to get uglier",
+        "vote": 0
+    }
+]

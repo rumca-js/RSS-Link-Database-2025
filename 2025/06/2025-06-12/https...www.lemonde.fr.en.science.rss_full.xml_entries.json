@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T15:33:30.007538+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T15:33:29+00:00",
+        "description": "The shattered wreck of an Italian merchant vessel was accidentally discovered in March in the deep waters of the Gulf of Saint-Tropez by the French Navy, 2,500 meters below sea level.",
+        "id": 2915177,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/06/12/rare-16th-century-shipwreck-found-at-record-depth-in-french-waters_6742282_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/06/12/1005/0/3741/1870/644/322/60/0/c9f13a3_upload-1-3cmu1ruazskv-camarat-4-a-marine-nationale-1.png",
+        "title": "Rare 16th-century shipwreck found at record depth in French waters",
+        "vote": 0
+    }
+]

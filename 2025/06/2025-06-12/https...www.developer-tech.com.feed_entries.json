@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T16:44:52.055098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T15:45:04+00:00",
+        "description": "<p>Google has broken with years of tradition by not releasing the Pixel hardware repositories alongside this week&#8217;s Android 16 source code. The move has left custom ROM creators scratching their heads and scrambling to adjust their plans. Tuesday saw Google push Android 16&#8217;s source code to the Android Open Source Project (AOSP) as expected, but<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/android-open-future-questioned-google-withholds-pixel-code/\" title=\"ReadAndroid&#8217;s open future questioned after Google withholds Pixel code\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/android-open-future-questioned-google-withholds-pixel-code/\">Android&#8217;s open future questioned after Google withholds Pixel code</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2915884,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/android-open-future-questioned-google-withholds-pixel-code",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Android\u2019s open future questioned after Google withholds Pixel code",
+        "vote": 0
+    }
+]

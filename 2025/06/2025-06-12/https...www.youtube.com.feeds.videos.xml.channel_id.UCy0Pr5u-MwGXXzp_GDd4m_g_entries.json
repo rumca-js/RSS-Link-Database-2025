@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julie Nolke",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T13:50:36.329164+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T13:00:12+00:00",
+        "description": "Ain't nothing wrong with traditional gender roles in the white house. Stay informed the smarter way\u2014go to https://ground.news/julie and get 40% off unlimited access to global news coverage.\n\nP.S. Sign up to my Patreon for behind the scenes bloopers and early access to videos here: https://www.patreon.com/julienolke\n\nActors: Julie Nolke & Carson Gale (https://www.imdb.com/name/nm5727045/)\nWriter: Scott Roberts\nCamera: Sam Larson\nEditor: Alec McKay",
+        "id": 2914207,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9Se7xJjmIfo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 170,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9Se7xJjmIfo/hqdefault.jpg",
+        "title": "The guy who opens jars for the first female president",
+        "vote": 0
+    }
+]

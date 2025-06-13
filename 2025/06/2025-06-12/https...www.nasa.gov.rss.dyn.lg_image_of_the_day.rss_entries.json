@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T19:43:19.561179+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T18:42:00+00:00",
+        "description": "The star cluster Pismis 24 lies within the much larger emission nebula called NGC 6357, located about 8,000 light-years from Earth. The gas below the stars glows through ionization caused by intense ultraviolet radiation from the massive young stars within the cluster.",
+        "id": 2917612,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/pismis-24",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Far Out",
+        "vote": 0
+    }
+]

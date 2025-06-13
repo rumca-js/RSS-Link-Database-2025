@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Janna Levin and Steven Strogatz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T14:56:39.569389+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T13:41:43+00:00",
+        "description": "From brain folds to insect architecture, L. Mahadevan explains how complex biological forms and behaviors emerge through the interplay of physical forces, environment and embodiment.            <p>The post <a href=\"https://www.quantamagazine.org/does-form-really-shape-function-20250612/\" target=\"_blank\">Does Form Really Shape Function?</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2915052,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/does-form-really-shape-function-20250612",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/06/JOW-S4-Ep7-L-MAHADEVAN_crPeterGreenwood-Default.webp",
+        "title": "Does Form Really Shape Function?",
+        "vote": 0
+    }
+]

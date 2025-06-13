@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T08:54:19.600689+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T08:54:18+00:00",
+        "description": "Mia\u0142a by\u0107 pierwsz\u0105 w kraju, ale \u201ewyprzedzi\u0142a\u201d j\u0105 Strefa Czystego Transportu w stolicy. Strefa w Krakowie jednak w ko\u0144cu powstanie \u2013 Rada Miasta na sesji 11 czerwca przyj\u0119\u0142a uchwa\u0142\u0119 wprowadzaj\u0105c\u0105 STC od 1 stycznia 2026 roku.",
+        "id": 2912325,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/transport/art42517051-radni-zdecydowali-strefa-czystego-transportu-w-krakowie-powstanie-w-2026-roku",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radni zdecydowali. Strefa Czystego Transportu w Krakowie powstanie w 2026 roku",
+        "vote": 0
+    }
+]

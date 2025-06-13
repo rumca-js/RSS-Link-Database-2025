@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T15:06:14.939679+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T14:29:32+00:00",
+        "description": "A large portion of the people in \"Open Source\" -- including Red Hat -- have been moving, rather dramatically, away from some of the core ideals of \"Open Source\".\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 2915101,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WdlhHOLaRgQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WdlhHOLaRgQ/hqdefault.jpg",
+        "title": "Open Source People are Fighting to Kill Open Source Projects",
+        "vote": 0
+    }
+]

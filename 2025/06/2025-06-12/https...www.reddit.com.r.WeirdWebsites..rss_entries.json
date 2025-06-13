@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/cricket_the_chris",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T19:40:50.965620+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T18:55:50+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1l9uoha/i_need_help_with_homework/\"> <img src=\"https://external-preview.redd.it/QTIVqAywPRGiSoXMuj9r5GR4qQtEDvYn6-rR5cTRZyE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a64964008efd42fadf6acd36985d383497c5e57b\" alt=\"I need help with homework!!\" title=\"I need help with homework!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I don&#39;t know if this is the right subreddit for this but I desperately need help! </p> <p>My homework is to make a website. Everything went fine until the CSS. I looked at tutorials and they told me to do the &lt;link&gt; thing, so I did. But it won&#39;t work for some reason and I believe it is because of the different folders. The website I&#39;m working on is in the folder &quot;html&quot; and the CSS file is in the folder &quot;CSS&quot;. I&#39;ve been told to use .. and / to change the level but it somehow still doesn&#39;t work. Please help!! I need this done by tomorrow",
+        "id": 2917602,
+        "language": null,
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1l9uoha/i_need_help_with_homework",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/QTIVqAywPRGiSoXMuj9r5GR4qQtEDvYn6-rR5cTRZyE.jpeg?width=640&crop=smart&auto=webp&s=a64964008efd42fadf6acd36985d383497c5e57b",
+        "title": "I need help with homework!!",
+        "vote": 0
+    }
+]

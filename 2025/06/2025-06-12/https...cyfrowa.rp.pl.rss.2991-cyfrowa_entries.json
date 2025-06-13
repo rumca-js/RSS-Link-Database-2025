@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T22:05:16.073318+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T22:05:15+00:00",
+        "description": "Proces cyfryzacji nabiera tempa tak\u017ce w\u00a0polskiej gospodarce. Od mened\u017cer\u00f3w i\u00a0pracownik\u00f3w b\u0119dzie wymaga\u0142 nowych kompetencji, w\u00a0tym tzw. mi\u0119kkich.",
+        "id": 2918591,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art42521031-digitalizacja-musi-wzmocnic-ludzkie-zespoly",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Digitalizacja musi wzmocni\u0107 ludzkie zespo\u0142y",
+        "vote": 0
+    }
+]

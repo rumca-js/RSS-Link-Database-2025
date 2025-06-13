@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T03:30:37.440523+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T03:30:36+00:00",
+        "description": "Do 2040 roku liczba podr\u00f3\u017cy zagranicznych mo\u017ce wzrosn\u0105\u0107 z obecnych 1,4 miliarda do 2,4 miliarda rocznie \u2013 wynika z najnowszego raportu firmy doradczej Deloitte przygotowanego we wsp\u00f3\u0142pracy z Googlem. Badacze okre\u015blili cztery typy podr\u00f3\u017cnik\u00f3w przysz\u0142o\u015bci.",
+        "id": 2910881,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/nowe-trendy/art42510801-cztery-typy-turystow-opanuja-swiat-za-25-lat-pokazuje-najnowsze-badanie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cztery typy turyst\u00f3w opanuj\u0105 \u015bwiat za 25 lat - pokazuje najnowsze badanie",
+        "vote": 0
+    }
+]

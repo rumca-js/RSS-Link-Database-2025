@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-12T15:11:05.314159+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-12T15:01:41+00:00",
+        "description": "Razer just released 3 new mobile controllers that are perfect for a device! The Razer Kishi V3 is for android phones like the Galaxy S25 Ultra or iPhone 16 Pro Max.\nThe Razer Kishi V3 Pro is made for 8 Inch android tablets like the Legion Tab and IOS devices like the iPad mini. And my personal favorite The Razer Khisi V3 Pro XL works with all the way up to 13\u201d tablets like the iPad Pro, Galaxy Tab devices and more!\n\n1. https://www.razer.com/mobile-controllers/razer-kishi-v3-pro\u00a02. https://www.razer.com/mobile-controllers/razer-kishi-v3-pro-xl\u00a03. https://www.razer.com/mobile-controllers/razer-kishi-v3\n4. https://www.amazon.com/dp/B0F231T7BG?maas=maas_adg_37B583953561BDDCF5DB21FF86FFAC3E_afap_abs&ref_=aa_maas&tag=maas\n5. https://www.amazon.com/dp/B0DVKWZ5SX?maas=maas_adg_2EB7CC40A6EA384280A2451EE28921D3_afap_abs&ref_=aa_maas&tag=maas\n6. https://www.amazon.com/dp/B0F233Y5YL?maas=maas_adg_9B2ADB1390CB6FE2644CAD1A504EB253_afap_abs&ref_=aa_maas&tag=maas\n\n\nFollow Me On Twitter: https://twitt",
+        "id": 2915124,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1sz2DxrIcHs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1sz2DxrIcHs/hqdefault.jpg",
+        "title": "These New Razer Controllers Are Sick! Kishi V3, V3 Pro, V3 XL",
+        "vote": 0
+    }
+]
