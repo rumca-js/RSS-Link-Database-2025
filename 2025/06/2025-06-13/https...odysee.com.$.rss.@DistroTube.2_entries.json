@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T12:41:04.254828+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T12:00:05+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/36HvC40ds8Y\" width=\"480\" alt=\"thumbnail\" title=\"Free Software in Education, Religion and Life (with Dr. Corey Stephan)\" /></p>I am chatting with theology professor Dr. Corey Stephan who is a big advocate for free and open source software, especially in our schools and universities.   We discuss how free software (and tech in general) have affected the education system as well as religion.<br /><br />0:00 Introduction<br />1:07 Has the education system returned to normal since the pandemic?<br />3:10 On forcing students to have cameras on them in their homes.<br />6:44 Should more testing be done through oral examinations?<br />10:38 Is education adopting the FOSS model?<br />18:36 Education is getting worse in the \"freedom\" dimension.<br />19:24 Besides education, has FOSS made gains in the world?<br />25:19 FreeBSD, Debian, Void Linux, Arch Linux and Endeavour.<br />32:54 'dwm' and 'dwl' and wayland.<br />37:00 qtile<br />37:58 The BSDs and wa",
+        "id": 2922889,
+        "language": "en",
+        "link": "https://odysee.com/free-software-in-education%2C-religion-and:726a2cea56541e8ce4f6c0870b088e2087afc250",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/36HvC40ds8Y",
+        "title": "Free Software in Education, Religion and Life (with Dr. Corey Stephan)",
+        "vote": 0
+    }
+]

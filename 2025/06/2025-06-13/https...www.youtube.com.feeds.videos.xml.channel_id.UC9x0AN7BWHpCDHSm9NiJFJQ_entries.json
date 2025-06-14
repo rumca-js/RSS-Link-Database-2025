@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T17:15:20.033111+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T16:53:13+00:00",
+        "description": "Thanks to Cisco for sponsoring me to come to CiscoLIVE 2025. This trip would not have been possible without them! Check out CiscoU: http://U.cisco.com/tutorials \n\nI went to Cisco LIVE 2025 to answer one question, \"Is there a future for network engineers?\"...are we going away? Is AI finally going to replace us? The theme at Cisco Live this year was definitely AI...you couldn't turn a corner without being bombarded by AI marketing. Answering these questions was my mission; I interviewed Cisco employees and network engineers attending the conference to get down to the bottom of this.\n\n\n\n\n**Sponsored by Cisco\n\n\n\n\n\nSUPPORT NETWORKCHUCK\n---------------------------------------------------\n\u27a1\ufe0fNetworkChuck membership: https://ntck.co/Premium \n\u2615\u2615 COFFEE and MERCH: https://ntck.co/coffee \n\nCheck out my new channel: https://ntck.co/ncclips \n\n\ud83c\udd98\ud83c\udd98NEED HELP?? Join the Discord Server: https://discord.gg/networkchuck \n\nSTUDY WITH ME on Twitch: https://bit.ly/nc_twitch \n\nREADY TO LEARN??\n----------------",
+        "id": 2925297,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4hkJX7LBdXc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4hkJX7LBdXc/hqdefault.jpg",
+        "title": "Will AI Replace Network Engineers? (a documentary)",
+        "vote": 0
+    }
+]

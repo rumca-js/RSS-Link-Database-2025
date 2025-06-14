@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T14:53:52.699721+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T14:11:42+00:00",
+        "description": "The organisers have blamed 'undemocratic pressures' after authorities cut off funding.",
+        "id": 2924024,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/czr853y5vm3o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024a/live/0a12d460-4838-11f0-bbaa-4bc03e0665b7.jpg",
+        "title": "Major music festival pulls out of Serbia after backing student protests",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T10:17:20.549060+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T10:00:58+00:00",
+        "description": "How IBM will build the world's first large-scale, fault-tolerant quantum computer: https://ibm.biz/BdnQdD\n\nDid Apple\u2019s WWDC 2025 live up to expectations? In episode 59 of Mixture of Experts, host Tim Hwang is joined by Chris Hay, Kaoutar El Magrahoui and Shobhit Varshney. Today, the experts analyze all things Apple\u2014from Apple Research\u2019s recent paper \u201cThe Illusion of Thinking\u201d to Apple Intelligence. Next, OpenAI released o3-pro: we continue the analysis on AI reasoning. Then, Meta purchased Scale AI for a whopping $15 billion. Why? Finally, an exciting new announcement on fault-tolerant quantum computing: IBM Quantum Starling will arrive by 2029. What does this mean and why should we care? All that and more on this week\u2019s Mixture of Experts.\n\n00:01 \u2013 Intro \n01:58 -- Apple's WWDC  \n16:47 -- OpenAI o3-pro \n30:43 -- Meta &amp; Scale AI's \"superintelligence\" lab \n37:56 -- Fault-tolerant quantum computing \n\nThe opinions expressed in this podcast are solely those of the participants and do n",
+        "id": 2920921,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Y5yiQDnTimU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y5yiQDnTimU/hqdefault.jpg",
+        "title": "Apple\u2019s WWDC, Meta & Scale AI, o3-pro and fault-tolerant quantum computing",
+        "vote": 0
+    }
+]

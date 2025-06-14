@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T16:03:06.858177+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T15:44:47+00:00",
+        "description": null,
+        "id": 2924650,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5CMPwtpz8iQ",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5CMPwtpz8iQ/hqdefault.jpg",
+        "title": "Summer interns are back.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T12:55:33.239295+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T12:00:05+00:00",
+        "description": "I am chatting with theology professor Dr. Corey Stephan who is a big advocate for free and open source software, especially in our schools and universities.   We discuss how free software (and tech in general) have affected the education system as well as religion.\n\n0:00 Introduction\n1:07 Has the education system returned to normal since the pandemic?\n3:10 On forcing students to have cameras on them in their homes.\n6:44 Should more testing be done through oral examinations?\n10:38 Is education adopting the FOSS model?\n18:36 Education is getting worse in the \"freedom\" dimension.\n19:24 Besides education, has FOSS made gains in the world?\n25:19 FreeBSD, Debian, Void Linux, Arch Linux and Endeavour.\n32:54 'dwm' and 'dwl' and wayland.\n37:00 qtile\n37:58 The BSDs and wayland\n39:22 DT is never running GNOME\n41:30 How will the BSDs handle GNOME/KDE dropping X11?\n42:42 Should religion adopt the FOSS model?\n46:11 Is technology making religion more accessible?\n52:34 The pros and cons of online mee",
+        "id": 2922925,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=36HvC40ds8Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/36HvC40ds8Y/hqdefault.jpg",
+        "title": "Free Software in Education, Religion and Life (with Dr. Corey Stephan)",
+        "vote": 0
+    }
+]

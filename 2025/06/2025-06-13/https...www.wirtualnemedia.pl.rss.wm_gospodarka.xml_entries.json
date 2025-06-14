@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T10:30:24.258565+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T10:30:23+00:00",
+        "description": "W zesz\u0142ym kwartale finansowym grupa kapita\u0142owa CCC zwi\u0119kszy\u0142a rok do roku przychody o 3,7 proc., a jej zyskowno\u015b\u0107 wzros\u0142a m.in. dzi\u0119ki ograniczeniu wydatk\u00f3w na reklamy i IT. Mocno w g\u00f3r\u0119 posz\u0142a rentowno\u015b\u0107 sieci eubowie i Modivo.",
+        "id": 2921186,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/sklepy-ccc-halfprice-eubowie-modivo-przychody-sprzedazowe-i-zysk-w-i-kwartale-2025-r",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Grupa CCC tnie koszty reklamowe. eobuwie du\u017co zyskowniejsze",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T17:23:17.294991+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T17:00:55+00:00",
+        "description": "Thanks for Kitsch for sponsoring this video! Follow my link https://kitsch.yt.link/c4HUgLy or use my code SCISHOW to get 25% off your order which will auto-apply at checkout!\n\nChainmail might be known best as the fashion choice of certain medieval warriors, but that doesn't mean it's a relic of the past. Modern chainmail can be both practical and fashionable. And thanks to one team of scientists, we now have a 3D version of chainmail. What will we turn it into? Only time will tell.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mc",
+        "id": 2925324,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=m8dqENoSofs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m8dqENoSofs/hqdefault.jpg",
+        "title": "Chainmail That Defies the Laws of Physics",
+        "vote": 0
+    }
+]

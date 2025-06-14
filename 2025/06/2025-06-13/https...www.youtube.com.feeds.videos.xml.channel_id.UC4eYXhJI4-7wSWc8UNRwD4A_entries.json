@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T10:49:19.181817+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T09:01:30+00:00",
+        "description": "This Black Music Month, Tiny Desk honors the anniversaries of landmark albums that have shaped the course of music and culture.\n\nAshley Pointer | June 13, 2025\nCeCe Winans' voice transcends genre, race and generations \u2014 something incredibly rare in the gospel and Christian music realms. Her Tiny Desk concert, which celebrates the 30th anniversary of her solo debut Alone in His Presence, is a moving journey through the many eras of her monumental career.\n\nWinans laughed when she told me, \"Ashley, you had me working today!\" She dusted off songs she hadn't performed in decades to craft this moment. (And that's without even touching the groundbreaking work she did alongside her brother BeBe Winans.) From the joyous call and response of \"Pray\" to the crowd's audible gasp at the opening line of \"Alabaster Box\" to the heartfelt \"Goodness of God\" singalong, this performance isn't just nostalgic, it's a reminder of Winans' enduring spiritual and cultural impact. She is one of the most decorate",
+        "id": 2921310,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=t4p20PsP3cw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t4p20PsP3cw/hqdefault.jpg",
+        "title": "CeCe Winans: Tiny Desk Concert",
+        "vote": 0
+    }
+]

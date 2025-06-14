@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kelsey Piper",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T13:53:17.294401+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T08:52:56+00:00",
+        "description": "<figure>\n\n<img alt=\"Musk and Trump\" data-caption=\"While tech has generally been very liberal in its political support and giving, there\u2019s been an emergence of a real and influential tech right over the last few years. | Allison Robbert/AFP via Getty Images\" data-portal-copyright=\"Allison Robbert/AFP via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2217125941.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>While tech has generally been very liberal in its political support and giving, there\u2019s been an emergence of a real and influential tech right over the last few years. | Allison Robbert/AFP via Getty Images</figcaption>\n</figure>\n<p class=\"has-text-align-none\">I live and work in the San Francisco Bay Area, and I don\u2019t know anyone who says they voted for Donald Trump in 2016 or 2020. I know, on the other hand, quite a few who voted for him in 2024, and quite a few more who \u2014 while they d",
+        "id": 2923506,
+        "language": null,
+        "link": "https://www.vox.com/future-perfect/416642/elon-musk-donald-trump-tech-right-democrats",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2217125941.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "What drove the tech right\u2019s \u2014 and Elon Musk\u2019s \u2014 big, failed bet on Trump",
+        "vote": 0
+    }
+]

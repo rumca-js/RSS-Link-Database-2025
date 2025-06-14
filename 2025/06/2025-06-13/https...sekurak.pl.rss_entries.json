@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T02:40:42.144735+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T02:30:03+00:00",
+        "description": "<p>W ci\u0105gu ostatnich miesi\u0119cy, badacze bezpiecze\u0144stwa Akamai wykryli krytyczn\u0105 luk\u0119 RCE (ang. Remote Code Execution) w popularnej platformie typu SIEM (ang. Security Information and Event Monitoring) jak\u0105 jest Wazuh. Podatno\u015b\u0107 pozwala\u0142a na przej\u0119cie kontroli nad serwerem zarz\u0105dzaj\u0105cym. Luka CVE-2025-24016 z ocen\u0105 CVSS 9.9 jest aktywnie wykorzystana przez grupy przest\u0119pcze, co...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/podatnosc-rce-w-systemie-siem-wazuh-wykorzystywana-przez-botnet-mirai/\">Podatno\u015b\u0107\u00a0RCE w systemie SIEM Wazuh wykorzystywana przez botnet Mirai</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2919995,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/podatnosc-rce-w-systemie-siem-wazuh-wykorzystywana-przez-botnet-mirai",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podatno\u015b\u0107\u00a0RCE w systemie SIEM Wazuh wykorzystywana przez botnet Mirai",
+        "vote": 0
+    }
+]

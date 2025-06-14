@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "George Musser",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T14:48:31.965576+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T13:50:39+00:00",
+        "description": "A new argument explores how the growth of disorder could cause massive objects to move toward one another. Physicists are both interested and skeptical.            <p>The post <a href=\"https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/\" target=\"_blank\">Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look.</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2924006,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Entropic-Grvaity_crDVDP-Default.webp",
+        "title": "Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look.",
+        "vote": 0
+    }
+]

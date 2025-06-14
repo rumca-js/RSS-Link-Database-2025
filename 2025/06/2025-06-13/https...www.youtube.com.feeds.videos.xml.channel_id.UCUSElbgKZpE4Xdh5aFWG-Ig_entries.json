@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AirPano VR",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T20:28:07.072214+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T20:00:38+00:00",
+        "description": "Don't forget that this is 360 video: you can change the angle of view.\n\nToday we would like to remember the Plosky Tolbachik volcano eruption on Kamchatka, which has been taken in December 2012. It was a long time ago but still it is one of the most beautifull eruptions we have ever seen.\n360\u00b0 photos and videos, stories of our shootings, articles and FAQ you can find on our website: http://AirPano.com\n\nHere is the answer for a frequently asked question about true resolution of an 8K 360\u00b0 video. Unlike standard videos, in a 360\u00b0 video you can see only a part of original image (approximately 30 degrees out of 360). As result, the real resolution of the part you can see isn't bigger than 1.3K.\n\nPlease note that AirPano team originally shoots its films in 16,12,10,8K resolution, depending on year and cameras used back then. But before upload to YouTube channel we downscale all our videos to 8K.\n\nMusic: Film by Alex-Productions | https://onsound.eu/ | https://www.chosic.com/download-audio/",
+        "id": 2926706,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QjX9Gfdj7C8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 13,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUSElbgKZpE4Xdh5aFWG-Ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QjX9Gfdj7C8/hqdefault.jpg",
+        "title": "Plosky Tolbachik Volcano Eruption, Kamchatka, Russia. 360 aerial video in 8K",
+        "vote": 0
+    }
+]

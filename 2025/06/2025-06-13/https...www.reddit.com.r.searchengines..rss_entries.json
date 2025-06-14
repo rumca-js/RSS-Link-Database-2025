@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/kushalgoenka",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-13T10:58:23.177549+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-13T06:41:36+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/searchengines/comments/1la96oz/why_search_sucks_but_first_a_brief_history/\"> <img src=\"https://external-preview.redd.it/kQ1-CKMdo6QZFdeorf2tNuFIZphNPNoLDugDK4dEZjk.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=987811495a1fd3d319a94ab698bd985d2e73ee50\" alt=\"Why Search Sucks! (But First, A Brief History)\" title=\"Why Search Sucks! (But First, A Brief History)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Search is broken. And it didn&#39;t have to be this way.</p> <p>What I talk about:</p> <ol> <li><p>How search evolved: From ancient librarians manually cataloging scrolls to modern semantic search.</p></li> <li><p>Why it still sucks: Google&#39;s private index of the public web. Reddit locking down their API. Knowledge disappearing into Discord voids. Closed-source AI hoarding data.</p></li> </ol> <p>The talk is half &quot;how does any of this actually work?&quot; and half &quot;how did we end up here?&quot;.</p> </div><!-- SC",
+        "id": 2921956,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1la96oz/why_search_sucks_but_first_a_brief_history",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/kQ1-CKMdo6QZFdeorf2tNuFIZphNPNoLDugDK4dEZjk.jpeg?width=320&crop=smart&auto=webp&s=987811495a1fd3d319a94ab698bd985d2e73ee50",
+        "title": "Why Search Sucks! (But First, A Brief History)",
+        "vote": 0
+    }
+]
