@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel 5 with Andrew Callaghan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T20:22:59.212059+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T20:01:38+00:00",
+        "description": "Go to https://ground.news/channel5 to stay fully informed with all sides of every story. Subscribe for 40% off the Vantage plan through my link. \n\nAlso, 'Night 2 Riots' is currently available on our Patreon at https://patreon.com/channel5.\n\nThank you all for supporting us, and hope everyone has a great weekend.",
+        "id": 2932985,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6kqOnZaL3Tg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 600,
+        "source_url": "https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6kqOnZaL3Tg/hqdefault.jpg",
+        "title": "LA Riots",
+        "vote": 0
+    }
+]

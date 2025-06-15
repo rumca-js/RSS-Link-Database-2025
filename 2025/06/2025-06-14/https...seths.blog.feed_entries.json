@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T09:15:56.833647+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T09:03:00+00:00",
+        "description": "Kids grow up with innate curiosity. It&#8217;s the hardwired instinct that permits us to walk, talk and survive long before we get to school. And at school, the industrial imperative prizes rigor over just about everything else. Obedience, detail orientation and system compliance are the unstated goals. Curiosity is supposed to fend for itself, apparently. [&#8230;]",
+        "id": 2929714,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/rigor-and-curiosity",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rigor and curiosity",
+        "vote": 0
+    }
+]

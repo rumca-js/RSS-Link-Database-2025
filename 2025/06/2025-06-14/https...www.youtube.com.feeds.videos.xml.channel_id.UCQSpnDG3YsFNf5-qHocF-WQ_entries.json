@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T17:08:49.470206+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T16:13:10+00:00",
+        "description": "You're missing out on the real capabilities\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\nMentioned Links:\n\u2022 My Chrome Extensions: https://github.com/ThioJoe/Simple-Chrome-Extension-Utilities\n\u2022 My Browser Based Tools: https://github.com/ThioJoe/Browser-Based-Tools\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:20 - Example Scenario\n1:42 - Generating Chrome Extensions\n2:09 - Example: Text Randomizer\n2:58 - Example: Adding Quality-Of-Life Buttons\n3:44 - More Advanced HTML Tool Examples\n3:52 - Unicode Inspector\n4:15 - GitHub Repo Explorer\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 2932042,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YDiVl9q08DY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YDiVl9q08DY/hqdefault.jpg",
+        "title": "You're Using AI WRONG - Surprising Capabilities You Didn't Know",
+        "vote": 0
+    }
+]

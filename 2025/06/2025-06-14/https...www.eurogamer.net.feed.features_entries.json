@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Robert Purchese",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T10:21:34.694186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T09:29:10+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/split-fiction-header-2.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Hello and welcome back to our regular feature where we write a little bit about some of the games we've been playing. I bet you didn't even notice it's a couple of hours late this week. Shh, don't say if you did. This time, Bertie learns a lesson or two about communication while Tom O tackles <a data-keyword=\"true\" href=\"https://www.eurogamer.net/games/mario-kart-world\">Mario Kart World</a>'s Free Roam missions.</p> <p><a href=\"https://www.eurogamer.net/what-weve-been-playing-lessons-in-communication-and-um-trash-talking\">Read more</a></p>",
+        "id": 2930007,
+        "language": "en",
+        "link": "https://www.eurogamer.net/what-weve-been-playing-lessons-in-communication-and-um-trash-talking",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/split-fiction-header-2.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "What we've been playing - lessons in communication and, um, trash-talking",
+        "vote": 0
+    }
+]

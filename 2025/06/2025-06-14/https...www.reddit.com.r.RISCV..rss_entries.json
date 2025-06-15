@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Division_N00b",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T07:15:25.430617+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T06:28:31+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi, </p> <p>I&#39;m working on getting a good understanding on calling conventions for RV32GC and RV32IMAC, especially regarding return values. There is some information on this topic in the ratified version 1.0 of RISC-V ABIs Specification and some details can also be found in the RISC-V Instruction Set Manual Volume I: Unprivileged Architecture. Additionally to these, I found through a search engine another document for Chapter 18: Calling Convention for some publication from the domain of RISC-V International. I have not been able to find this Chapter 18 in any of publications available on the site. Link to the Chapter 18: <a href=\"https://riscv.org/wp-content/uploads/2024/12/riscv-calling.pdf\">https://riscv.org/wp-content/uploads/2024/12/riscv-calling.pdf</a></p> <p>For now I have two questions: </p> <ol> <li>Does anyone know from which publication this Chapter 18: Calling Convention is from?<br/></li> <li>Are there any other publications that I s",
+        "id": 2929244,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1lb1z48/question_regarding_calling_conventions_and",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Question regarding calling conventions and specifications",
+        "vote": 0
+    }
+]

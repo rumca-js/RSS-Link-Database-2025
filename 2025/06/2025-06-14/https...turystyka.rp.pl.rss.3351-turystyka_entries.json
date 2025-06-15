@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T07:13:42.037149+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T07:13:41+00:00",
+        "description": "Lotnisko Chopina w Warszawie mia\u0142o bardzo udany maj - pierwszy raz w jednym miesi\u0105cu obs\u0142u\u017cy\u0142o 2,09 miliona pasa\u017cer\u00f3w, czyli o 13,6 procent wi\u0119cej ni\u017c rok wcze\u015bniej (1,84 miliona).",
+        "id": 2929243,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/lotniska/art42531001-lotnisko-chopina-swietowalo-historyczny-wynik-2-miliony-pasazerow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Lotnisko Chopina \u015bwi\u0119towa\u0142o historyczny wynik \u2013 2 miliony pasa\u017cer\u00f3w",
+        "vote": 0
+    }
+]

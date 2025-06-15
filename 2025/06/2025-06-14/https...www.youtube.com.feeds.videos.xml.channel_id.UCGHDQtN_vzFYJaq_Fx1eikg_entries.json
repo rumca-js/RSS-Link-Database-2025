@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T02:04:37.340466+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T00:55:54+00:00",
+        "description": "The Fulton Skyhook was a less-than-pleasant method to travel from ground to airborne plane. It's as impressive and terrifying as you would imagine.\n\n\n\"The Fulton surface-to-air recovery system (STARS), also known as Skyhook, is a system used by the Central Intelligence Agency (CIA), United States Air Force, and United States Navy for retrieving individuals on the ground using aircraft such as the MC-130E Combat Talon I and B-17 Flying Fortress. It involves using an overall-type harness and a self-inflating balloon with an attached lift line. An MC-130E engages the line with its V-shaped yoke and the person is reeled on board. Red flags on the lift line guide the pilot during daylight recoveries; lights on the lift line are used for night recoveries. Recovery kits were designed for one- and two-man retrievals.\nThis system was developed by inventor Robert Edison Fulton, Jr., for the CIA in the early 1950s. It was an evolution from a glider snatch pick-up, a similar system that was used ",
+        "id": 2928308,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3po7FDrRn1c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3po7FDrRn1c/hqdefault.jpg",
+        "title": "The 1960\u2019s Terrifying Method to Board a Flying Plane | Tales From the Bottle",
+        "vote": 0
+    }
+]

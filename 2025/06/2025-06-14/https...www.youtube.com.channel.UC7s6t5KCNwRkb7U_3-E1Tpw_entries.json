@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T18:26:23.491080+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T17:54:46+00:00",
+        "description": "Resident Evil Requiem has officially been revealed, and I was lucky enough to see the first gameplay behind the scenes from Capcom. Here are all the details as well as some big lingering questions.\nfollow me on Instagram: https://bit.ly/3uUh9Ot\nfollow me on X: https://x.com/JakeBaldino\n\ncheck out my new Friends Per Second Podcast: https://linktr.ee/friendspersecond",
+        "id": 2932409,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Vt4Ot6i2y1k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vt4Ot6i2y1k/hqdefault.jpg",
+        "title": "I saw Resident Evil 9 early",
+        "vote": 0
+    }
+]

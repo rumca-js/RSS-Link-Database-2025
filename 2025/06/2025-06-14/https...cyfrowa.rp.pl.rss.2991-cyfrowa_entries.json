@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-14T09:39:57.468470+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-14T09:39:56+00:00",
+        "description": "Producent Barbie, firma Mattel, nawi\u0105za\u0142a wsp\u00f3\u0142prac\u0119 z OpenAI, tw\u00f3rc\u0105 ChatGPT i mo\u017ce wprowadzi\u0107 generatywn\u0105 sztuczn\u0105 inteligencj\u0119 do swoich zabawek oraz innych produkt\u00f3w i procesu ich tworzenia. Wznios\u0142oby to rozrywk\u0119 dla dzieci na zupe\u0142nie nowy poziom.",
+        "id": 2929759,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42531501-barbie-jak-laleczka-chucky-zabawkowy-gigant-wprowadza-sztuczna-inteligencje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Barbie jak laleczka Chucky? Zabawkowy gigant wprowadza sztuczn\u0105 inteligencj\u0119",
+        "vote": 0
+    }
+]
