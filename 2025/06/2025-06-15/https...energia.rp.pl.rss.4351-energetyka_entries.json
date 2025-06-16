@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-15T13:07:29.309297+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-15T13:07:28+00:00",
+        "description": "Dzi\u015b w Kanadzie rusza szczyt grupy G7. USA, Wielka Brytania, Francja, W\u0142ochy, Japonia, Kanada zdecyduj\u0105 m.in. o obni\u017ceniu pu\u0142apu cenowego na rosyjsk\u0105 rop\u0119. Unia Europejska i Wielka Brytania ju\u017c zapowiedzia\u0142y, \u017ce tak zrobi\u0105, niezale\u017cnie od zdania Amerykan\u00f3w.",
+        "id": 2936427,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ropa/art42534211-jeden-przeciw-szesciu-czy-sufit-cenowy-przycisnie-rosyjska-rope",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jeden przeciw sze\u015bciu. Czy sufit cenowy przyci\u015bnie rosyjsk\u0105 rop\u0119?",
+        "vote": 0
+    }
+]

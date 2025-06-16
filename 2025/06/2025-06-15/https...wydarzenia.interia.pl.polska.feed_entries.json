@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-15T07:32:34.788541+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-15T07:30:00+00:00",
+        "description": null,
+        "id": 2935117,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-problem-na-kazdym-etapie-edukacji-nie-jestesmy-w-stanie-zrob,nId,21826251",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nauczyciele obserwuj\u0105 nowy problem w szko\u0142ach. Ostrzegaj\u0105 rodzic\u00f3w",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-15T03:47:50.343343+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-15T02:38:00+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/06/13/trim/540/304/cfk-cristina-vigil-supreme-court-2042622.jpg\" alt=\"cfk, cristina, vigil, supreme court\" /></p>Hundreds gather outside the Supreme Court in Buenos Aires in show of support for Cristina Fern\u00e1ndez de Kirchner after her conviction. <a href=\"https://www.batimes.com.ar/news/argentina/cfks-supporters-keep-vigil-over-threat-of-prison.phtml\">Leer m\u00e1s</a>",
+        "id": 2934500,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/argentina/cfks-supporters-keep-vigil-over-threat-of-prison.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/06/13/trim/540/304/cfk-cristina-vigil-supreme-court-2042622.jpg",
+        "title": "CFK's supporters keep vigil over threat of prison",
+        "vote": 0
+    }
+]

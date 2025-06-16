@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-15T16:07:40.915945+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-15T15:01:29+00:00",
+        "description": "Since 2021, the US has shipped hundreds of howitzers to Ukraine. But over time, their barrels wear out. Replacing them isn\u2019t easy, because America has just one factory that makes barrels for howitzers like the M777, and it\u2019s more than 200 years old. To keep up with demand, the Pentagon has pledged $1.7 billion to modernize the facility, the Watervliet Arsenal in New York state.\n\nProduction has already tripled over the past three years, reaching its highest level in more than four decades as the US scrambles to arm Ukraine in its war against Russia. \n\nThis isn\u2019t an isolated challenge. The US has struggled to rapidly scale up production of other critical weapons, like 155 mm artillery shells. In 2021, just one plant was manufacturing the steel casings. The US used to have hundreds of government-owned weapons facilities, but it closed many of them after World War II. Companies like Palantir have argued that the shutdowns have limited military innovation. Now, the government is spending b",
+        "id": 2937488,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xWOCxtfN4js",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xWOCxtfN4js/hqdefault.jpg",
+        "title": "Inside America's Only Giant Gun Barrel Factory Arming Ukraine | Big Business | Business Insider",
+        "vote": 0
+    }
+]

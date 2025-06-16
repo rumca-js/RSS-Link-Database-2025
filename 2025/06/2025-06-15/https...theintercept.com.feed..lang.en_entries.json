@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aja Arnold",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-15T09:49:09.151129+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-15T09:00:00+00:00",
+        "description": "<p>\u201cIt\u2019s a terribly unusual thing,\u201d a lawyer said about sealed affidavits in an investigation of alleged pro-Palestine vandalism.</p>\n<p>The post <a href=\"https://theintercept.com/2025/06/15/university-michigan-fbi-raid-students-palestine/\">Democrat Michigan AG Asked FBI to Raid Protesters\u2019 Homes \u2014 But Won\u2019t Tell Students Why</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2935546,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/06/15/university-michigan-fbi-raid-students-palestine",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/06/hsi-li-accident-e1749754937741.jpg",
+        "title": "Democrat Michigan AG Asked FBI to Raid Protesters\u2019 Homes \u2014 But Won\u2019t Tell Students Why",
+        "vote": 0
+    }
+]

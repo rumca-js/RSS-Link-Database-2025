@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-15T19:38:19.631152+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-15T19:06:31+00:00",
+        "description": "Podcast CD-Action Air #114\n\n00:00 Dzie\u0144 dobry!\n03:40 W co ostatnio grali\u015bmy?\n09:52 \ud83d\ude85 CD-Express (newsy ze \u015bwiata gier)\n1:39:07 \ud83e\ude97 Dogrywka (co dzia\u0142o si\u0119 w grach dok\u0142adnie 10 lat temu?)\n1:44:51 \ud83e\udd14 A teraz rozkminka: Brak j\u0119zyka polskiego na Switchu 2\n\n#\n\nWesprzyj nas, b\u0119dziemy turbo wdzi\u0119czni + co tydzie\u0144 dostaniesz p\u00f3\u0142 godziny naszej gadaniny ekstra:\nhttps://www.youtube.com/channel/UCLLO-H4NQXNa_DhUv-rqN9g/join\n\nWszystkie linki, kt\u00f3rych szukasz:\n\nhttps://www.goladupa.com\n\nTo my:\nKrzysztof \u201eBastian\u201d Freudenberger\nDawid \u201espikain\u201d Bojarski\n\nMonta\u017c: Krzysztof \u201eBastian\u201d Freudenberger",
+        "id": 2938504,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=V8lP8srPNdI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V8lP8srPNdI/hqdefault.jpg",
+        "title": "WIED\u0179MIN 3 pono\u0107\u00a0dostanie nowy dodatek! (I mamy teori\u0119, jaki)",
+        "vote": 0
+    }
+]

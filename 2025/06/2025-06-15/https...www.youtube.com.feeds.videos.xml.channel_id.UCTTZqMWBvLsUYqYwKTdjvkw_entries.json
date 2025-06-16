@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-15T17:07:38.462074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-15T16:00:03+00:00",
+        "description": "\ud83d\udd1e\u00a0Media tr\u0105bi\u0105\u00a0o tym, \u017ce od pierwszego lipca b\u0119dziemy musieli zainstalowa\u0107\u00a0na naszych urz\u0105dzeniach aplikacj\u0119, kt\u00f3ra potwierdzi, czy jeste\u015bmy pe\u0142noletni czy te\u017c nie. No i wygl\u0105da na to, \u017ce nie jest to po prostu prawda.\n\n\ud83d\udc49\u00a0Nie chcesz przegapi\u0107 kursu pomagaj\u0105cego zapewni\u0107 dzieciom bezpiecze\u0144stwo w sieci? Zapisz si\u0119 na list\u0119 oczekuj\u0105cych: https://newsletter.uczmnie.pl/kursdlarodzicow\n \n\u0179r\u00f3d\u0142a:\n\ud83c\uddea\ud83c\uddfa\u00a0Od 1 lipca zalogujesz si\u0119 do social medi\u00f3w tylko z weryfikacj\u0105 wieku. UE wprowadza zmiany\nhttps://www.onet.pl/styl-zycia/onetkobieta/od-1-lipca-zalogujesz-sie-do-social-mediow-z-weryfikacja-wieku-nowe-przepisy/lpmp2yp,2b83378a\n\n\u26d4\ufe0f Bez tej aplikacji nie wejdziesz na Facebooka i YouTube. Od lipca Unia wprowadza zmiany\nhttps://businessinsider.com.pl/technologie/unia-europejska-od-1-lipca-nowa-aplikacja-do-weryfikacji-wieku/ml7n0ez\n\n\u274c\u00a0Bez nowej aplikacji nie wejdziesz do internetu. Unia wprowadza nowe zasady\nhttps://www.bankier.pl/wiadomosc/Bez-nowej-aplikacji-nie-wejdziesz-do-internetu-Unia-wprowadz",
+        "id": 2937840,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1oxo4GpGhDE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1oxo4GpGhDE/hqdefault.jpg",
+        "title": "Kliknij, je\u015bli jeste\u015b pe\u0142noletni",
+        "vote": 0
+    }
+]

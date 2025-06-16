@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "voidzilla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-15T20:11:18.206592+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-15T19:39:30+00:00",
+        "description": "full interview with sahil, a self-described serial rugpuller.\npreorder ends july 12th at coffeezilla.shop or \nhttps://www.coffeezilla.store\nmain channel video: https://www.youtube.com/watch?v=d_oLziAyN_o\n\nnote: as explicitly mentioned in the companion piece to this one, sahil is an unreliable narrator and often brags, exaggerates, or otherwise takes credit for things that did, and did not happen. no representations are made by voidzilla or coffeezilla about the truth of sahil's comments as it relates to celebrities.\n\ndisclaimer (updated May 2025): voidzilla is an opinion\u2011driven channel that comments on the news of the day under the satirical and rhetorically hyperbolic banner \u201cCRIME\u202fIS\u202fLEGAL.\u201d\u202fthe phrase critiques what we see as a lax or uneven regulatory enforcement environment for fraud. unlike our affiliated channel Coffeezilla, which conducts detailed investigations and source\u2011document deep dives, and draws opinions from that, voidzilla offers rapid\u2011fire commentary and criticism o",
+        "id": 2938777,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WYJAbrpwHVw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 592,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC28n0tlcNSa1iPe5mettocg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WYJAbrpwHVw/hqdefault.jpg",
+        "title": "confessions of a serial scammer",
+        "vote": 0
+    }
+]
