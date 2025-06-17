@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T14:18:32.548695+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T13:00:51+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/T-4Q7i6mNeM\" width=\"480\" alt=\"thumbnail\" title=\"'ls' - list directory contents - Video Man Pages\" /></p>The 'ls' command lists directory contents.  It one of the most commonly used commands in the shell.<br /><br />- List files one per line:<br />  ls -1<br /><br />- List all files, including hidden files:<br />  ls -a<br /><br />- Long format list (permissions, ownership, size, and modification date) of all files:<br />  ls -la<br /><br />- Long format list with size displayed using human-readable units (KiB, MiB, GiB):<br />  ls -lh<br /><br />- Long format, sorted by modification date (newest first):<br />  ls -lt<br /><br />- Long format, sorted by modification date, reverse the order (oldest first):<br />  ls -ltr<br />  <br />- Long format list sorted by size (descending):<br />  ls -lS<br /><br />- Long format list sorted by size, reverse the order (ascending):<br />  ls -lSr<br /><br />- Only list directories:<br />  ls -d */<br /><br /",
+        "id": 2943948,
+        "language": "en",
+        "link": "https://odysee.com/%27ls%27-list-directory-contents-video-man:7436ff5e2dbb65c5ba44904fd1f71b7a0191b4dc",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/T-4Q7i6mNeM",
+        "title": "'ls' - list directory contents - Video Man Pages",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T15:23:39.473829+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T15:23:38+00:00",
+        "description": "Chocia\u017c tworzenie stref czystego transportu niesie ze sob\u0105 ogromne korzy\u015bci zdrowotne i klimatyczne, odbywa si\u0119 bardzo powoli i zachowawczo.",
+        "id": 2944561,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/transport/art42539701-podwaliny-pod-druga-strefe-czystego-transportu-w-polsce-polozone-co-dalej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podwaliny pod drug\u0105 stref\u0119 czystego transportu w Polsce po\u0142o\u017cone. Co dalej?",
+        "vote": 0
+    }
+]

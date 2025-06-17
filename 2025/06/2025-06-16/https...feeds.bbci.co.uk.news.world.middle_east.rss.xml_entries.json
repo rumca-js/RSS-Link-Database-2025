@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T11:47:13.410025+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T10:43:37+00:00",
+        "description": "Bat Yam, just south of Tel Aviv, has long been a stronghold of support for Israel's right-wing governing coalition.",
+        "id": 2942200,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cwyvykgnzq9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e823/live/1a9d2e20-4a90-11f0-ad9b-1f2af0e1b8e0.jpg",
+        "title": "'They're weak': Israelis back conflict with Iran in neighbourhood struck by missile",
+        "vote": 0
+    }
+]

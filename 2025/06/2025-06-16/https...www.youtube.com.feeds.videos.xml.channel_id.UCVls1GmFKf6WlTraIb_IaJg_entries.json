@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T13:27:51.643284+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T13:00:51+00:00",
+        "description": "The 'ls' command lists directory contents.  It one of the most commonly used commands in the shell.\n\n- List files one per line:\n  ls -1\n\n- List all files, including hidden files:\n  ls -a\n\n- Long format list (permissions, ownership, size, and modification date) of all files:\n  ls -la\n\n- Long format list with size displayed using human-readable units (KiB, MiB, GiB):\n  ls -lh\n\n- Long format, sorted by modification date (newest first):\n  ls -lt\n\n- Long format, sorted by modification date, reverse the order (oldest first):\n  ls -ltr\n  \n- Long format list sorted by size (descending):\n  ls -lS\n\n- Long format list sorted by size, reverse the order (ascending):\n  ls -lSr\n\n- Only list directories:\n  ls -d */\n\n- Long format, list all files, use human-readable units and group directories first:\n  ls -lah --group-directories-first\n\n- A colorful alternative to 'ls' is:\n  eza\n\n- It has some similar flags to 'ls':\n  eza -la --group-directories-first\n\n- Add an alias to your shell config so that 'ls' ",
+        "id": 2943398,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=T-4Q7i6mNeM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T-4Q7i6mNeM/hqdefault.jpg",
+        "title": "'ls' - list directory contents - Video Man Pages",
+        "vote": 0
+    }
+]

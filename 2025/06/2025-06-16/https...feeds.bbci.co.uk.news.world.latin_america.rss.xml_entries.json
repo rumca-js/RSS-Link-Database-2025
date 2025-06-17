@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T12:12:32.942053+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T11:57:01+00:00",
+        "description": "The mayor is the latest local official to be killed in an area of Mexico where organised crime holds sway.",
+        "id": 2942896,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c1mgmdj1mgyo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebae/live/c1aa85d0-4aa6-11f0-9276-5d542b98bc12.jpg",
+        "title": "Gunmen storm Mexican village hall and shoot dead mayor",
+        "vote": 0
+    }
+]

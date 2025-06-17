@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Crystal-Rose Jones",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T07:38:24.313460+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T06:42:50+00:00",
+        "description": "Brisbane is recognised as one of the most congested cities in the world.",
+        "id": 2941258,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/brisbane-council-employs-ai-to-help-curb-worsening-traffic-congestion-5873550",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2024/01/04/id5558035-traffic-1080x720.jpeg",
+        "title": "Brisbane Council Deploys AI to Help Curb Traffic Congestion",
+        "vote": 0
+    }
+]

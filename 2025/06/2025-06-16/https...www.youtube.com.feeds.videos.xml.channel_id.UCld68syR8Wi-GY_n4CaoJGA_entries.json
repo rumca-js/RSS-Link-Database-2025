@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T21:38:11.677601+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T21:00:03+00:00",
+        "description": "Freedesktop is a very important development space in the FOSS world and world of Linux but it's important to remember that it's not a standards body, it's just a collection of standards.\n\n==========Resources==========\nReddit Post: https://www.reddit.com/r/linux/comments/1kmfgid/rant_we_need_a_better_way_to_collaborate_on/\nFreedesktop Specs: https://www.freedesktop.org/wiki/Specifications/\nGitlab Issue: https://gitlab.freedesktop.org/xdg/xdg-specs/-/issues/205\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 ",
+        "id": 2947331,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=02nFos3iHlo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/02nFos3iHlo/hqdefault.jpg",
+        "title": "Linux Standards Are Kind Of A Mess",
+        "vote": 0
+    }
+]

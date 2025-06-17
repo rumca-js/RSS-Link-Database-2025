@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nick Turse",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T18:20:38.126702+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T17:32:42+00:00",
+        "description": "<p>The nearly 5,000 soldiers in Los Angeles detained one man, briefly. Was that worth $134 million and a constitutional crisis?</p>\n<p>The post <a href=\"https://theintercept.com/2025/06/16/la-ice-protests-military-cost/\">Troops Deployed to LA Have Done Precisely One Thing, Pentagon Says</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2945809,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/06/16/la-ice-protests-military-cost",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/06/hsi-li-accident-e1749754937741.jpg",
+        "title": "Troops Deployed to LA Have Done Precisely One Thing, Pentagon Says",
+        "vote": 0
+    }
+]

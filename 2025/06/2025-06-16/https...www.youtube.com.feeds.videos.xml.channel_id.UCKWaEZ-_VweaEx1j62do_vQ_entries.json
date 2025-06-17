@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-16T12:32:23.562810+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-16T11:01:10+00:00",
+        "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdn9F6\n\nLearn more about Natural Language Understanding (NLU) here \u2192 https://ibm.biz/Bdn9F5\n\n\ud83d\udd0d AI search is transforming how we find and consume information online. Master Inventor Martin Keen and Lenovo Global SEO Strategy Lead Donna Bedford explain how AI evolved from keyword matching to advanced techniques like vector search, RAG, and NLU. Discover how AI search reshapes SEO for smarter, human-like results!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdn9FN\n\n#aisearch #retrievalaugmentedgeneration #vectorsearch",
+        "id": 2942943,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=iVUMuC7OzUI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iVUMuC7OzUI/hqdefault.jpg",
+        "title": "What is AI Search? The Evolution from Keywords to Vector Search & RAG",
+        "vote": 0
+    }
+]
