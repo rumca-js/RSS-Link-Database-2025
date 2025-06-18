@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T17:01:17.985985+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T16:02:01+00:00",
+        "description": "Coraz wi\u0119cej bada\u0144 pokazuje, \u017ce sztuczna inteligencja nie tylko wspiera lekarzy, ale te\u017c w niekt\u00f3rych przypadkach wyprzedza ich skuteczno\u015bci\u0105. W tym odcinku Zno\u015bnego Ekspresso opowiadam o najnowszych wynikach bada\u0144, w kt\u00f3rych AI stawia trafniejsze diagnozy ni\u017c do\u015bwiadczeni specjali\u015bci. Sam te\u017c postanowi\u0142em sprawdzi\u0107 na obrazach z rezonansu magnetycznego jak dobrym radiologiem jest AI.\nCzy to przysz\u0142o\u015b\u0107 medycyny, czy tylko efektowne nag\u0142\u00f3wki? Co to oznacza dla pacjent\u00f3w i lekarzy? I jak bardzo powinni\u015bmy si\u0119 tym ekscytowa\u0107\u2026 albo martwi\u0107?\nSprawd\u017a kaw\u0119, dla ludzi, kt\u00f3rzy nie cierpi\u0105 bylejako\u015bci:  https://znosne.pl\n\nW odcinku:\n00:00 Sztuczna inteligencja radzi sobie w sektorze medycznym\n01:40 Czy ChatGPT potrafi zrobi\u0107 opis rezonansu magnetycznego?\n04:33 Rozw\u00f3j AI \u2013 nowe mo\u017cliwo\u015bci ludzko\u015bci\n07:24 Lekarze te\u017c korzystaj\u0105 z zasob\u00f3w AI\n08:05 Podsumowanie",
+        "id": 2954428,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dp6FNxV2cU8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dp6FNxV2cU8/hqdefault.jpg",
+        "title": "Nowe badania: Sztuczna inteligencja lepsza ni\u017c lekarz | Zno\u015bne Ekspresso",
+        "vote": 0
+    }
+]

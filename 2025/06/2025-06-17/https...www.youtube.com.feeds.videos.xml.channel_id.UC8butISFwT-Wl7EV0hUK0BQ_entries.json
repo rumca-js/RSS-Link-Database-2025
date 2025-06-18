@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T13:58:43.649606+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T12:41:28+00:00",
+        "description": "Unlock the world of data analytics with this comprehensive course developed by Google Cloud. Learn how to prepare, process, analyze, share, and act on data. This hands-on curriculum introduces core data analytics concepts, preparing you for the Google Data Analytics Certificate.\n\nGoogle Cloud Skill platform: https://www.cloudskillsboost.google/paths/420\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Introduction to Data Analytics in Google Cloud\n\u2328\ufe0f (2:45:18) Data Management and Storage in the Cloud\n\u2328\ufe0f (5:14:21) Data Transformation in the Cloud\n\u2328\ufe0f (6:31:54) The Power of Storytelling: Visualizing Data in the Cloud\n\u2328\ufe0f (9:05:45) Put It All Together: Prepare for a Cloud Data Analyst Job\n\u2328\ufe0f (9:45:49) Prepare for a career in cloud with #GoogleCloudCertificates",
+        "id": 2952626,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GAdgTK2Esn4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GAdgTK2Esn4/hqdefault.jpg",
+        "title": "Google Cloud Data Analytics Certificate Course",
+        "vote": 0
+    }
+]

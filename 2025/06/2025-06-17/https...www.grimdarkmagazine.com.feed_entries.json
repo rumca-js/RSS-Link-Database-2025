@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CT Phipps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T04:48:12.218349+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T04:25:06+00:00",
+        "description": "<p>The Gorge is a movie starring Anya Taylor-Joy and Miles Teller. It is an Apple TV movie and thus something that a lot of people will miss because they don&#8217;t pick up a particular streaming service. That would be a shame because this is the sort of movie that really deserved a theatrical release. Is [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/review-the-gorge/\">REVIEW: The Gorge</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 2949435,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-the-gorge",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/06/The-Gorge-225x300.jpg",
+        "title": "REVIEW: The Gorge",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T11:45:12.938352+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T11:34:09+00:00",
+        "description": "<p><img width=\"1920\" height=\"985\" src=\"https://9to5linux.com/wp-content/uploads/2025/06/kp64.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"KDE Plasma 6.4\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/06/kp64.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/06/kp64.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>KDE Plasma 6.4 desktop environment is now available with various new features, enhancements, and other improvements. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/kde-plasma-6-4-desktop-environment-officially-released-this-is-whats-new\">KDE Plasma 6.4 Desktop Environment Officially Released, This Is What&#8217;s New</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 2951537,
+        "language": "en-US",
+        "link": "https://9to5linux.com/kde-plasma-6-4-desktop-environment-officially-released-this-is-whats-new",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/06/kp64.webp",
+        "title": "KDE Plasma 6.4 Desktop Environment Officially Released, This Is What\u2019s New",
+        "vote": 0
+    }
+]

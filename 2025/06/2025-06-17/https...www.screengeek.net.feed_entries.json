@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jacob Dressler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T17:55:24.722607+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T17:48:32+00:00",
+        "description": "<p>In addition to Netflix&#8216;s catalogue that includes some major exclusive shows, many of which are original IPs, there are quite a few that revive classic properties. One such property has finally been given the greenlight for a reboot, and with production finally starting, Netflix has unveiled the first look at the highly-anticipated series. In addition [...]</p>\n<p>The post <a href=\"https://www.screengeek.net/2025/06/17/netflix-reboot-classic-series/\">Netflix Reveals First Look At Reboot Of Beloved Classic Series</a> appeared first on <a href=\"https://www.screengeek.net\">ScreenGeek</a>.</p>",
+        "id": 2955001,
+        "language": "en-US",
+        "link": "https://www.screengeek.net/2025/06/17/netflix-reboot-classic-series",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 297,
+        "source_url": "https://www.screengeek.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Netflix Reveals First Look At Reboot Of Beloved Classic Series",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T14:50:11.269462+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T13:44:52+00:00",
+        "description": "The fine comes as the DNA testing firm, which filed for bankruptcy in March, is set to be sold to a new owner.",
+        "id": 2953191,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c4grggw4n56o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/580d/live/6c98e640-4ad3-11f0-9220-e7e5512ed64c.jpg",
+        "title": "UK watchdog fines 23andMe for 'profoundly damaging' data breach",
+        "vote": 0
+    }
+]

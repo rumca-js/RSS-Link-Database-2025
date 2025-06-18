@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T12:50:45.986100+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T12:25:00+00:00",
+        "description": "<p>2024 was another remarkable year of growth for the Python Software Foundation! Python became the most popular language on GitHub, and worldwide community engagement was at an all-time high. We expanded our impact by welcoming our inaugural PyPI Support Specialist, Maria Ashna, the revival of the User Success and Education and Outreach Workgroups, and continued investment in grants, infrastructure, and accessibility. We\u2019ve captured some of the key numbers, details, and information in our <a href=\"https://www.python.org/psf/annual-report/2024\" target=\"_blank\">latest Annual Impact Report</a>.&nbsp;<br /><br />Some highlights of what you\u2019ll find in the report include:<br /></p><ul style=\"text-align: left;\"><li>A letter from our Executive Director, Deb Nicholson</li><li>Notes from our <a href=\"https://us.pycon.org/2025/\" target=\"_blank\">PyCon US 2025</a> Chair and Co-Chair, Elaine Wong and Jon Bonafato, and PSF Board of Directors Chair, Dawn Wages</li><li>Updates on the achievements and",
+        "id": 2952027,
+        "language": null,
+        "link": "https://pyfound.blogspot.com/2025/06/the-psfs-2024-annual-impact-report-is.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The PSF's 2024 Annual Impact Report is here!",
+        "vote": 0
+    }
+]

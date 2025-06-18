@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T13:58:15.283599+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T13:00:16+00:00",
+        "description": "NEW COURSES: http://bradsartschool.com\nOnly $1499?: ASUS Zenbook Duo: https://amzn.to/4n1bUZn (Affiliate Link)\n\nThe Latest Zenbook Duo has the best features of a traditional laptop but with a gimmick... TWO screens. but what separates this from other gimmick laptops is that it doesn't feel like you're making any tradeoffs. \n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradsartschool.com\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 2952617,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4I4s0US-tmc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4I4s0US-tmc/hqdefault.jpg",
+        "title": "ASUS Zenbook Duo 2025 Review",
+        "vote": 0
+    }
+]

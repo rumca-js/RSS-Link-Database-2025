@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T09:39:08.539196+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T08:46:47+00:00",
+        "description": "<p>Outdated systems are wearing developers down. A recent survey by headless CMS company Storyblok found that nearly half of senior developers at mid-to-large companies have thought seriously about quitting in the past year. The reason? Tools that don&#8217;t work the way they need them to. Legacy code, missing features, and poor integration with modern tools<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/why-developers-are-leaving-jobs-that-cant-support-ai/\" title=\"ReadWhy developers are leaving jobs that can\u2019t support AI\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/why-developers-are-leaving-jobs-that-cant-support-ai/\">Why developers are leaving jobs that can\u2019t support AI</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2950640,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/why-developers-are-leaving-jobs-that-cant-support-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why developers are leaving jobs that can\u2019t support AI",
+        "vote": 0
+    }
+]

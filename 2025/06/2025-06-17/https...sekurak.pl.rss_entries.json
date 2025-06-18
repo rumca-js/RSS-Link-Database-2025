@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T07:34:24.072798+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T07:31:42+00:00",
+        "description": "<p>W dobie rosn\u0105cej liczby atak\u00f3w hakerskich i wyciek\u00f3w danych, specjali\u015bci od bezpiecze\u0144stwa IT s\u0105 poszukiwani jak nigdy wcze\u015bniej. Ucz\u0105c si\u0119 cyberbezpiecze\u0144stwa, zyskujesz praktyczne umiej\u0119tno\u015bci rozpoznawania atak\u00f3w (MITM, DoS, spoofing), analizowania luk w systemach oraz wykorzystywania narz\u0119dzi takich jak Nmap, Burp Suite, Metasploit czy Snort. W bran\u017cy cybersecurity niezwykle istotne s\u0105...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/serwis-videopoint-pl-obchodzi-wlasnie-swoje-10-urodziny/\">Serwis Videopoint.pl obchodzi w\u0142a\u015bnie swoje 10 urodziny!</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2950160,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/serwis-videopoint-pl-obchodzi-wlasnie-swoje-10-urodziny",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Serwis Videopoint.pl obchodzi w\u0142a\u015bnie swoje 10 urodziny!",
+        "vote": 0
+    }
+]

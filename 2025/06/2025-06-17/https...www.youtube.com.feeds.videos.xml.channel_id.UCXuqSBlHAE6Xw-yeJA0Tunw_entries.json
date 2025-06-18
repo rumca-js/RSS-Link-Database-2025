@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T18:13:28.952616+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T17:29:12+00:00",
+        "description": "Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LTT20 and use promo code LTT20 at checkout.\n\nDeleteMe International Plans: https://international.joindeleteme.com/\n\nIt\u2019s the age old question: how cheap is a good gaming PC? And are you better off upgrading the $69 dollar PC or starting from the ground up? We cover budget CPU and GPU upgrades (like the 2080 SUPER or 6700 XT), RAM, and storage solutions. The video compares performance, offers tips on finding deals for used components, and discusses the used PC market, emphasizing balancing cost and performance for modern AAA games.\n\nCheck out the parts from the build (on eBay):\n\nIntel i5-3570 3.4Ghz Quad-Core CPU: https://ebay.us/nD9ONR\nCorsair Vengeance DDR3 1600MHz 16GB (4x 4GB) RAM: https://ebay.us/nBgrwd\nHitachi 1TB 7200 RPM HD: https://ebay.us/BMQR62\nNVIDIA RTX 2070 Super GPU: https://ebay.us/dkEqyE\nIntel i5-8400 1.8GHz 6 Core CPU: https://ebay.us/8HGXEJ\nSeasonic X650 PSU: https://ebay.us/oonGkp\nKingston",
+        "id": 2955056,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9PldqVePztM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9PldqVePztM/hqdefault.jpg",
+        "title": "This $269 Gaming PC can play any game!",
+        "vote": 0
+    }
+]

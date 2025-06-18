@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T18:18:04.718400+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T17:00:40+00:00",
+        "description": "Something about digging a hole makes it one of the most satisfying and universal human experiences. We all did it as a kid, but some of us never stopped digging! Let's explore some of the ways scientists and engineers have used digging to learn about our planet, ancient civilizations, or just to get stuff out of the ground.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mckishen, Kaitlyn O'Callaghan, Reed Spilmann, Garrett Galloway, Friso, kickinwasabi, Gizmo, Jeremy Mattern, Blood Doctor Kelly, Eric Jensen, Jaap Westera, Matt Cur",
+        "id": 2955060,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ts9gL1hvR4w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Ts9gL1hvR4w/hqdefault.jpg",
+        "title": "A Video About Digging A Hole | Compilation",
+        "vote": 0
+    }
+]

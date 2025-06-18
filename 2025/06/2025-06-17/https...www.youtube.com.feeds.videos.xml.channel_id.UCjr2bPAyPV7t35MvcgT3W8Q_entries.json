@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T19:53:13.657456+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T18:39:30+00:00",
+        "description": "Not just any VPN. But the one that can defend you against traffic analysis. Only few can. Support me: https://www.patreon.com/thehatedone \n\nI\u2019ve been using virtual private networks ever since I started my privacy journey when Edward Snowden leaked the NSA surveillance files. The reason to use a VPN was immediately clear: the global network of intelligence agencies is spying on our phone records and Internet histories. \n\nAnd they aren\u2019t doing it by clandestine hacking operations \u2013 they get the data directly from Internet companies who collaborate with the surveillance state willingly.\n\nIt was necessary to prevent Internet companies from having immediate access to all of our records. And in a limited sense, VPNs worked. For a while. \n\nBut from the moment I started using VPNs, I realized they actually have a major flaw \u2013 a flaw that makes them not private at all. Not to mention anonymous. What\u2019s the flaw? It\u2019s not just a flaw. It\u2019s an outright lie. \nWhat the VPN companies are selling you",
+        "id": 2956053,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6AynIIFM2WU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6AynIIFM2WU/hqdefault.jpg",
+        "title": "AKSHUALLY! You Should ALWAYS Use A VPN!",
+        "vote": 0
+    }
+]

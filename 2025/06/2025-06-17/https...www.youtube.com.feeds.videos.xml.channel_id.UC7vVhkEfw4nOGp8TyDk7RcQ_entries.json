@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T15:03:03.946282+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T13:44:13+00:00",
+        "description": "Cargill\u2019s Amsterdam Multiseed facility enlists Spot and Orbit to inspect machinery and perform visual checks, enhanced by all-new AI features, as part of their \u201cPlant of the Future\u201d program. \n\nLearn more about how Spot helps Cargill optimize operations on the ground: https://bostondynamics.com/case-studies/spot-at-cargill/\n\n#bostondynamics",
+        "id": 2953199,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AqRquSReZHY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AqRquSReZHY/hqdefault.jpg",
+        "title": "Spot at Cargill | Boston Dynamics",
+        "vote": 0
+    }
+]

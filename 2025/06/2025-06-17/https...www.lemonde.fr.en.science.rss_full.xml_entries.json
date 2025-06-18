@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-17T09:35:43.986296+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-17T09:35:43+00:00",
+        "description": "In an op-ed published in Le Monde, more than 50 representatives from international scientific institutions call on France to guarantee the future of the Palais de la D\u00e9couverte.",
+        "id": 2950639,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/06/17/closing-or-permanently-diminishing-the-palais-de-la-decouverte-would-be-a-loss-for-the-global-community_6742416_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+        "title": "'Closing or permanently diminishing the Palais de la D\u00e9couverte would be a loss for the global community'",
+        "vote": 0
+    }
+]
