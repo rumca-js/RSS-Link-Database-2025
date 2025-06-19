@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T21:27:17.948368+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T21:00:03+00:00",
+        "description": "17 years ago saw the launch of Wayland and since then we've seen various distros move over to Wayland, but Ubuntu has acted quite conservatively on this front and they're finally dropping X11 with the next release on the main version.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nPrior Merge: https://gitlab.gnome.org/GNOME/gnome-session/-/merge_requests/99\n25.10 Wayland Only: https://discourse.ubuntu.com/t/ubuntu-25-10-drops-support-for-gnome-on-xorg/62538\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://",
+        "id": 2965770,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=2xHl1FU0pcU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2xHl1FU0pcU/hqdefault.jpg",
+        "title": "The End Of An Era On Linux",
+        "vote": 0
+    }
+]

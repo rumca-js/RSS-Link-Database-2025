@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T15:40:44.450081+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T15:26:55+00:00",
+        "description": "Swapnil Bhartiya as he sits down with Brian Douglas, Director of Ecosystem at CNCF, at KubeCon London. Get exclusive insights into how major enterprises like Bloomberg, Intuit, and NatWest Bank are actually implementing Kubernetes and cloud-native technologies in production.\nIn this revealing interview, Brian shares: \n\ud83d\udd39 Real-world use cases from Fortune 500 companies \n\ud83d\udd39 How platform engineering is standardizing cloud deployments \n\ud83d\udd39 Why 99.9% uptime is now the minimum standard \n\ud83d\udd39 The emerging role of AI in cloud-native infrastructure \n\ud83d\udd39 How organizations are tackling the 5% GPU utilization problem \n\ud83d\udd39 Security strategies that actually work in production \n\ud83d\udd39 Resources available for teams looking to level up their Kubernetes skills\nWhether you're a developer, platform engineer, or IT leader, this interview provides actionable insights into the current state of cloud-native adoption and what's coming next.\nHashtags: #Kubernetes #CloudNative #CNCF #KubeCon #PlatformEngineering #DevOps #Linux",
+        "id": 2962995,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=p0n3t07zyX8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p0n3t07zyX8/hqdefault.jpg",
+        "title": "How End Users Are Really Using Kubernetes in 2025: Insights from CNCF's Director of Ecosystem",
+        "vote": 0
+    }
+]

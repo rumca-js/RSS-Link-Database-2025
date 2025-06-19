@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T16:35:39.511780+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T15:47:49+00:00",
+        "description": "<p>You may recall from my \u201c<a href=\"https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber#fn3-2025-01-23\">Siri Is Super Dumb and Getting Dumb</a>\u201d piece back in January that the Dickinson Public Schools District in North Dakota had the rather unfortunate nickname the \u201cMidgets\u201d. Back in March, <a href=\"https://www.inforum.com/news/north-dakota/dickinson-high-to-retire-midgets-mascot-after-nearly-a-century\">the school district announced they\u2019d be retiring the nickname</a>, after nearly a century. Last month <a href=\"https://www.dickinson.k12.nd.us/our-district/news/1810076/a-new-era-students-choose-dickinson-mavericks\">they announced their new name</a>: the Mavericks. I\u2019m going to call this the best rebranding of the year.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Midgets No More\u2019\"  href=\"https://daringfireball.net/linked/2025/06/18/dickinson-midgets-now-mavericks\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 2963550,
+        "language": null,
+        "link": "https://www.inforum.com/news/north-dakota/dickinson-high-to-retire-midgets-mascot-after-nearly-a-century",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Midgets No More",
+        "vote": 0
+    }
+]

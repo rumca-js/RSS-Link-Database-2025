@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T22:22:51.162506+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T10:49:47+00:00",
+        "description": "<img class=\"post-image scale\" src=\"https://defcon.org/images/defcon-33/post-images/ws-update.webp\" alt=\"Workshops update\"/> \n<br />        \n    <p>Friendly reminder to all Workshops CFP submitters: Responses have gone out!  If you don't see a response to your submission in your inbox, please check your spam folder.<br><br>\n    Thanks to everyone who sent in a submission and congratulations to everyone that's been selected.</p>",
+        "id": 2966207,
+        "language": "en",
+        "link": "https://defcon.org/html/defcon-33/dc-33-news.html#wsupdate",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://defcon.org/images/defcon-33/post-images/ws-update.webp",
+        "title": "Workshops submission responses are out!",
+        "vote": 0
+    }
+]

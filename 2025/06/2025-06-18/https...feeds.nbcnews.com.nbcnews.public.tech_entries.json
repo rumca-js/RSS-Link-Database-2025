@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MacKenzie Sigalos, CNBC",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T15:10:14.306575+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T14:58:17+00:00",
+        "description": "Iran\u2019s largest cryptocurrency exchange, Nobitex, was hacked for more than $90 million Wednesday, according to blockchain analytics firm Elliptic",
+        "id": 2962704,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/tech/security/-israel-hackers-drain-90-million-iran-crypto-exchange-analytics-firm-s-rcna213733",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2023-11/nebula-cms-fallback-logos-nbcnews-81f6e4.jpg",
+        "title": "Pro-Israel hackers drain $90 million from Iran crypto exchange, analytics firm says",
+        "vote": 0
+    }
+]

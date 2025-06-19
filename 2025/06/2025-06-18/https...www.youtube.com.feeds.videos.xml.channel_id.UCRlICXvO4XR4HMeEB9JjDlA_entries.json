@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T20:04:46.912444+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T19:00:05+00:00",
+        "description": "In a rather heartwarming tale of evolutionary efficiency, we learn that if you don\u2019t use something for a few million years, Mother Nature quietly repossesses it. Enter: the cavefish. These charmingly blind swimmers inhabit pitch-black caves and, faced with a total absence of light, collectively decided that eyes were simply a bit much. After all, why squander valuable biological resources on vision when you live in a dark place?\n\nAs it turns out, evolution is not sentimental. Eyes, it seems, are not a decorative feature\u2014they\u2019re costly, energy-hungry contraptions. And if they serve no practical purpose, out they go. So, while humans still cling to wisdom teeth and tailbones with nostalgic desperation, cavefish have shown us what true minimalist living looks like.",
+        "id": 2965280,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=66_E2pluQIU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/66_E2pluQIU/hqdefault.jpg",
+        "title": "Here's Why Cavefish Don\u2019t Have Eyes",
+        "vote": 0
+    }
+]

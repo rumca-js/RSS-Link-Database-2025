@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T22:28:32.510201+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T22:28:32+00:00",
+        "description": "Lenacapavir, marketed under the brand name Yeztugo, has been shown to reduce the risk of HIV transmission by more than 99.9% in adults and adolescents. Pre-exposure prophylaxis (PrEP) drugs have existed for more than a decade, but because they typically require taking a daily pill, they have yet to make a significant dent.",
+        "id": 2966221,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/06/18/us-approves-gilead-s-twice-yearly-injection-to-prevent-hiv_6742480_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/06/18/465/0/3845/1922/644/322/60/0/86e1424_ftp-import-images-1-p7bwh75lovix-9d806bdc9f324e0fa4278b599de5a253-0-bc5d77e0a2834aaaab05917cd2964b90.jpg",
+        "title": "US approves Gilead's twice-yearly injection to prevent HIV",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T08:47:56.068060+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T08:44:00+00:00",
+        "description": "Please who? If you&#8217;re on a social media network, are you seeking to optimize for the algorithm, the owners of the tech stock or your personal goals? If you&#8217;re publishing a book, are you working for the book or is the book working for you? You might be able to get the folks in the [&#8230;]",
+        "id": 2959859,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/here-to-please",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Here to please",
+        "vote": 0
+    }
+]

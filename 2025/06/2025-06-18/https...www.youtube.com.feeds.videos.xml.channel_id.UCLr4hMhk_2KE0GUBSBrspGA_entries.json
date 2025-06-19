@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T13:36:52.329125+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T13:11:46+00:00",
+        "description": null,
+        "id": 2961713,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=sXJwzOf356I",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sXJwzOf356I/hqdefault.jpg",
+        "title": "A Tobie co zdiagnozowa\u0142 doktor GPT?",
+        "vote": 0
+    }
+]

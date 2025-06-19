@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T17:05:58.631555+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T16:05:54+00:00",
+        "description": "<p>So-called \u201cvibe coding\u201d is both exciting and a little unnerving\u2014it\u2019s a shift away from the painstaking, line-by-line grind of traditional coding towards something more fluid and conversational. The idea behind vibe coding is that you can collaborate with an AI, describe what you want, and watch as it constructs a working application. It promises a<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/vibe-coding-future-of-development-or-risky-shortcut/\" title=\"ReadVibe coding: Future of development or risky shortcut?\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/vibe-coding-future-of-development-or-risky-shortcut/\">Vibe coding: Future of development or risky shortcut?</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2963724,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/vibe-coding-future-of-development-or-risky-shortcut",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Vibe coding: Future of development or risky shortcut?",
+        "vote": 0
+    }
+]

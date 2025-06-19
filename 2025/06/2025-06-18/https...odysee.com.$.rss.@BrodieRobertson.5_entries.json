@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T21:19:54.806057+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T21:00:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/2xHl1FU0pcU\" width=\"480\" alt=\"thumbnail\" title=\"The End Of An Era On Linux\" /></p>17 years ago saw the launch of Wayland and since then we've seen various distros move over to Wayland, but Ubuntu has acted quite conservatively on this front and they're finally dropping X11 with the next release on the main version.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Prior Merge: https://gitlab.gnome.org/GNOME/gnome-session/-/merge_requests/99<br />25.10 Wayland Only: https://discourse.ubuntu.com/t/ubuntu-25-10-drops-support-for-gnome-on-xorg/62538<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<",
+        "id": 2965733,
+        "language": "en",
+        "link": "https://odysee.com/the-end-of-an-era-on-linux:0ed4ef677698a2e070d3b008339ce5d57bf7e19b",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/2xHl1FU0pcU",
+        "title": "The End Of An Era On Linux",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T10:43:28.164357+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T10:38:17+00:00",
+        "description": "<p>Cybersecurity and Infrastructure Security Agency (CISA) doda\u0142a informacj\u0119 o atakach na routery TP-Link do katalogu znanych, wykorzystywanych podatno\u015bci (baza KEV). Wszystko za spraw\u0105\u00a0podatno\u015bci oznaczonej symbolem CVE-2023-33538, kt\u00f3ra pozwala na wstrzykiwanie polece\u0144. Routery TP-Link TL-WR841N oraz TL-WR740N czyli popularne \u201cmydelniczki\u201d zdoby\u0142y popularno\u015b\u0107\u00a0w Polsce z uwagi na niewyg\u00f3rowan\u0105\u00a0cen\u0119 oraz dobry stosunek jako\u015bci...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/ataki-na-popularne-routery-tp-link/\">Ataki na popularne routery TP-Link</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2960445,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/ataki-na-popularne-routery-tp-link",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ataki na popularne routery TP-Link",
+        "vote": 0
+    }
+]

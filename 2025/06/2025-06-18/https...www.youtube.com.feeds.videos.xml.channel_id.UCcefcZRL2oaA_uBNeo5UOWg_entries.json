@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-18T14:35:06.828331+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-18T14:00:07+00:00",
+        "description": "Alexandr Wang started Scale AI to help machine learning teams label data faster.\n\nIt started as a simple API for human labor, but behind the scenes, he was tackling a much bigger problem: how to turn messy, real-world data into something AI could learn from. Today, that early idea powers a multi-hundred-million-dollar engine behind America's AI infrastructure\u2014fueling everything from Fortune 500 workflows to real-time military planning. \n\nJust last week, Meta agreed to invest over $14 billion in Scale, valuing the company at $29 billion.\n\nAlexandr joined us on the Lightcone to share how Scale evolved from a scrappy YC startup into the backbone of some of the world's most advanced AI systems, how he thinks about competition with Chinese AI labs, and what it takes to build infrastructure that shapes the frontier.\n\nChapters (Powered by https://ChapterMe.co):\n00:00 Intro\n01:15 Alexandr\u2019s early days at YC\n07:25 Dialing in on what worked\n10:24 Model improvements, evals\n19:18 The techno optim",
+        "id": 2962277,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5noIKN8t69U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5noIKN8t69U/hqdefault.jpg",
+        "title": "Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China",
+        "vote": 0
+    }
+]
