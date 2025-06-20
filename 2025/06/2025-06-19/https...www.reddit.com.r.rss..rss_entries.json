@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Trilition",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T21:37:48.595165+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T20:58:25+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I am literally new to the world of RSS and am considering going with Inoreader pro or trying something else. The problem is that, despite how much time I dedicate to informing myself, I really struggle to identify viable alternative options for my use case. So I figured that asking you may be the best way to find the most optimal solution. </p> <p>Basically, I want to use an RSS app to track information about a few companies (around 10 different companies). For each of these companies, I want to be able to receive notifications on news regarding very specific actions, not just every news about them. I figured that I need something which allows me to filter all news based on keywords. In essence, I&#39;m looking for these features:</p> <p>1) Mobile application notifications (I don&#39;t want to receive the updates by emails, I want notifications on my smartphone to alert me whenever there&#39;s something new regarding these companie",
+        "id": 2973851,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1lflvlt/whats_better_for_my_use_inoreader_pro_or",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What's better for my use: Inoreader Pro or something else?",
+        "vote": 0
+    }
+]

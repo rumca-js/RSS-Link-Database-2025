@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T03:52:47.969240+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T03:20:08+00:00",
+        "description": "AAEON has launched two new developer boards under its UP brand: the UP TWL and UP TWLS. Based on Intel&#8217;s N-series platform (formerly Twin Lake), the UP TWL targets classic development needs, while the UP TWLS offers a slimmer layout for compact, IoT-oriented use. Both boards can be configured with the Intel Core i3-N355, Intel [&#8230;]",
+        "id": 2967689,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/aaeon-adds-to-up-lineup-with-up-twl-and-up-twls-developer-boards-for-edge-and-iot-applications",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AAEON Adds to UP Lineup with UP TWL and UP TWLS Developer Boards for Edge and IoT Applications",
+        "vote": 0
+    }
+]

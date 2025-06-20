@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T17:13:42.212830+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T17:00:26+00:00",
+        "description": "See if the ACT could be the right test for you at https://www.act.org/content/act/en/students-and-parents/sf-science.html\n\nIn your travels on the Internet, you might've seen some strange names and even stranger claims about supplements. From ashwagandha to valerian root, l-lysine to vitamin D, here's just a few of the most hyped supplements and whether or not they're worth your money. \n\nHosted by: Reid Reimers (he/him)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mckishen, Kaitlyn O'Callaghan, Reed Spilmann, Garrett Galloway, Friso, kickinwasabi, Gizmo, Jeremy Matte",
+        "id": 2972192,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=P-TtlBydj6g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P-TtlBydj6g/hqdefault.jpg",
+        "title": "Do These 7 Supplements ACTUALLY Work?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Meeting C++",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T16:55:00.051402+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T15:47:22+00:00",
+        "description": "<p>\n\tWith this announcement the keynotes for this years Meeting C++ conference are complete!</p>\n<blockquote>\n\t<h2>\n\t\t<a href=\"https://meetingcpp.com/meetingcpp/news/items/Announcing-the-3rd-Keynote-for-Meeting-Cpp-2025-.html\">Announcing the 3rd Keynote for Meeting C++ 2025: its Anthony Williams!</a></h2>\n\t<p>\n\t\tby Jens Weller</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tToday I have the honor to announce that Anthony Williams completes the keynotes for Meeting C++ 2025!</p>\n\t<p>\n\t\tAnthony Williams is well known for his book \"C++ Concurrency in Action\", has been an active in the committee through the BSI since 2001. He is well known for his work on concurrency and one of the architects and implementers of std::thread and other concurrency features in C++. He gave an An introduction to multithreading in C++20 at Meeting C++ 2022 in the online track. I am looking forward to welcome Anthony in person in Berlin this year!</p>\n</blockquote>",
+        "id": 2972142,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/06/announcing-the-3rd-keynote-for-meeting-cpp-2025-its-anthony-williams",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Announcing the 3rd Keynote for Meeting C++ 2025: its Anthony Williams!",
+        "vote": 0
+    }
+]

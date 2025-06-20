@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T21:39:53.226628+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T19:56:54+00:00",
+        "description": "Sponsor: Montech HS01 Pro on Amazon https://geni.us/UYLeZn and HS02 Pro https://geni.us/ABM9fEB\nOne of our viewers got scammed with a fake AMD Ryzen 7 9800X3D CPU. The CPU didn't work at all, so we bought it from the viewer, confirmed it was non-functional, and then delidded the 9800X3D -- all to reveal there was never silicon to begin with. This interesting story digs deeper into ways to tell fakes and counterfeit CPUs apart, verification tools from AMD and Intel, and more. It's wild how good of a forgery this 9800X3D was.\n\nLearn about Amazon return fraud in our other video here: https://www.youtube.com/watch?v=EYMdWqIPRWI\nWatch our coverage of fake Intel CPUs: https://www.youtube.com/watch?v=kUi37kKdQIU\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nTIMESTAMPS\n\n00:00 - Delidding Counterfeit 9800X3D\n03:54 - Serious Effort\n05:34 - Long Histo",
+        "id": 2973897,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=CYmQCVfbH_Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CYmQCVfbH_Q/hqdefault.jpg",
+        "title": "CPU SCAM: AMD Ryzen 9800X3D Counterfeits & Fraud",
+        "vote": 0
+    }
+]

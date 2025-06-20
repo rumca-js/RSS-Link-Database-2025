@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Evans",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T15:53:43.559810+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T15:02:18+00:00",
+        "description": "THANK YOU to everyone who trusted me on this one!\n\n@mkbhd \n@JerryRigEverything \n@SuperSaf \n@mryeester \n@ellyawesome \n@lukemiani \n@saradietschy \n@MykeHurley \n@Denki \n@snazzy \n@imparkerburton \n@Leonhart\n@thisis \n\nSo I spent weeks building an AI version of myself using voice cloning, deepfakes and script generation...and the results were honestly terrifying. When I sent the final video to my friends with zero context, most of them couldn't tell it wasn't really me. Are we actually ready for AI to replace content creators or are we all just screwed?\n\nSubscribe for more! https://www.youtube.com/austinevans\nInstagram: https://instagram.com/austinnotduncan\nThreads: https://www.threads.net/@austinnotduncan\n\nChapter Titles:\n0:00 Intro\n0:52 The Voice\n3:56 The Video\n7:06 The Reveal",
+        "id": 2971662,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=C7I1-H5FUiY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 24,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C7I1-H5FUiY/hqdefault.jpg",
+        "title": "The End of YouTubers",
+        "vote": 0
+    }
+]

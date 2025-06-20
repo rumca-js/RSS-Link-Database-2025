@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T13:27:32.966980+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T13:01:35+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/q4fWi07jGBk\" width=\"480\" alt=\"thumbnail\" title=\"Help Vampires Are The Reason The Linux Community Is Toxic!\" /></p>The Linux community is often labelled as \"toxic\"... especially our support channels.  But I think most people don't realize the true cause of the toxicity in these support forums.  It's not the well-meaning people there trying to give support that are at fault.  It's these parasitic creatures known as \"help vampires\".<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ecom%26lc%3DUS%26item_name%3DDistroTu",
+        "id": 2970104,
+        "language": "en",
+        "link": "https://odysee.com/help-vampires-are-the-reason-the-linux:2a5a975ee7aa8fcf1fdda6d6585a33909f75ebc2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/q4fWi07jGBk",
+        "title": "Help Vampires Are The Reason The Linux Community Is Toxic!",
+        "vote": 0
+    }
+]

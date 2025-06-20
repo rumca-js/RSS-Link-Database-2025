@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MrBeast",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T17:48:18.657645+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T17:00:41+00:00",
+        "description": "Huge thanks to every VFX artist that made this happen!\n\n$1 - @HelloXRyan \n$1,000 - @scottconvery4101 \n$10,000 - @krimium. \n$25,000 - @heyBrandonB \n\nAll renders were done without the use of AI, go check them out!",
+        "id": 2972634,
+        "language": null,
+        "link": "https://www.youtube.com/shorts/V6In4tmd-w8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 218,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V6In4tmd-w8/hqdefault.jpg",
+        "title": "$1 vs $25,000 VFX",
+        "vote": 0
+    }
+]

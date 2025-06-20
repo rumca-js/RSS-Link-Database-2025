@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andy Greenberg, WIRED.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T15:52:07.007702+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T14:40:45+00:00",
+        "description": "The hacker group has destroyed more than $90 million held at an Iranian crypto exchange.",
+        "id": 2971644,
+        "language": "en-US",
+        "link": "https://arstechnica.com/information-technology/2025/06/israel-tied-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-485391176-500x500.jpg",
+        "title": "Israel-tied Predatory Sparrow hackers are waging cyberwar on Iran\u2019s financial system",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T14:30:29.436367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T14:03:48+00:00",
+        "description": "Today's links Your Meta AI prompts are in a live, public feed: Zuck thinks we've all forgotten about Beacon. Hey look at this: Delights to delectate. Object permanence: 2015, 2020 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Your Meta AI prompts are in a live, public feed (permalink) Back in 2006, AOL tried something incredibly bold and even more incredibly stupid: they dumped a data-set of 20,000,000 \"anonymized\" search queries from 650,000 users (yes, AOL had a search engine &#8211; there used to be lots of search engines!): https://en.wikipedia.org/wiki/AOL_search_log_release The AOL dump was a catastrophe. In an eyeblink, many of the users in the dataset were de-anonymized. The dump revealed personal, intimate and compromising facts about the lives of AOL search users. The AOL dump is notable for many reasons, not lea",
+        "id": 2971011,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/06/19/privacy-breach-by-design",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/19Jun2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: Your Meta AI prompts are in a live, public feed (19 Jun 2025)",
+        "vote": 0
+    }
+]

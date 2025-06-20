@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T17:09:28.540427+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T16:33:27+00:00",
+        "description": "Shout out to AMD for sponsoring this video and being a great partner! Check out their latest offerings at https://lmg.gg/ntgmd\n\nAlex and the team took an old fire truck and turned it into a full-blown Dolby Atmos theatre on wheels, complete with 27 speakers, dual subwoofers, and an integrated gaming setup. It's way more than just a ridiculous idea... it actually sounds amazing. Featuring high-end KEF gear, AMD-powered gaming, and some questionable decisions along the way, this may be the most insane AV install we've ever done.\n\nDiscuss on the forum: https://linustechtips.com/topic/1615574-i-turned-my-fire-truck-into-a-home-theater/\n\nCheck out the audio setup from the video: \nKEF Kube 12 MIE 12 Inch 300 Watt Powered Subwoofer: https://geni.us/IUYcuAW\nKEF T301C Center Channel: https://geni.us/FN7fuF\nKEF T101 Satellite Speakers: https://geni.us/RogBLP\nOnkyo TX-RZ50 9.2 Channel Receiver: https://geni.us/PISjU\nSiless Black 80 mil (2mm) 36 sqft Sound Deadening: https://geni.us/wMhOqMY\n\n\u25ba GE",
+        "id": 2972177,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fTTiECufO1s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fTTiECufO1s/hqdefault.jpg",
+        "title": "I Turned My Fire Truck into a Home Theater",
+        "vote": 0
+    }
+]

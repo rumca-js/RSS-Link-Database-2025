@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dark Helmet",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T03:28:12.169595+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T03:15:00+00:00",
+        "description": "Back in May, we talked about a change that Nintendo made to its EULA that essentially amounted to &#8220;We&#8217;ll brick your console if we don&#8217;t like how you use it.&#8221; Now, Nintendo will tell you that the changes were done to protect the company from the threat of piracy. The problem is that&#8217;s not what [&#8230;]",
+        "id": 2967661,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/06/18/nintendo-is-already-punishing-switch-2-users-over-piracy-suspicions",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nintendo Is Already Punishing Switch 2 Users Over Piracy \u2018Suspicions\u2019",
+        "vote": 0
+    }
+]

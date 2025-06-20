@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aaron Jue",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T17:47:52.589432+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T17:04:37+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>You'll get a custom\u00a0<a href=\"https://eff.org/coin\">EFF35 Challenge Coin</a> when you become a <a href=\"https://eff.org/r.d98c\">monthly</a> or <a href=\"https://eff.org/r.13hk\">annual</a> Sustaining Donor by July 10. It\u2019s that simple.</p>\n<p class=\"take-action\"><a href=\"https://eff.org/r.d98c\">Give Once a Month</a></p>\n<p class=\"take-action\"><a href=\"https://eff.org/r.13hk\">Give Once a YEar</a></p>\n<p class=\"take-explainer\">Start a Convenient recurring donation Today!</p>\n<p>But here's a little more background for all of you detail-oriented digital rights fans.\u00a0<a href=\"https://www.eff.org/35\">EFF's 35th Anniversary</a>\u00a0celebration has begun and we're commemorating three and a half decades for fighting for your privacy, security, and free expression rights online. These values are hallmarks of freedom and necessities for true democracy, and you",
+        "id": 2972629,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/06/eff35-sustaining-donors",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/files/2025/06/02/coin_cat_1200px.jpg",
+        "title": "A Token of Appreciation for Sustaining Donors \ud83d\udc9e",
+        "vote": 0
+    }
+]

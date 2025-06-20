@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Larry Cafiero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T19:08:13.692786+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T18:34:06+00:00",
+        "description": "<p><em>We find a Linux distro that runs on computers big and small\u2014and centers its identity on an antifascist stance\u2014surprisingly refreshing!</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/06/antix-linux-a-proudly-anti-fascist-distro-thats-suitable-for-old-and-new-computers/\">antiX Linux: A &#8216;Proudly Anti-Fascist&#8217; Distro That&#8217;s &#8216;Suitable for Old and New Computers&#8217;</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2973088,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/06/antix-linux-a-proudly-anti-fascist-distro-thats-suitable-for-old-and-new-computers",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "antiX Linux: A \u2018Proudly Anti-Fascist\u2019 Distro That\u2019s \u2018Suitable for Old and New Computers\u2019",
+        "vote": 0
+    }
+]

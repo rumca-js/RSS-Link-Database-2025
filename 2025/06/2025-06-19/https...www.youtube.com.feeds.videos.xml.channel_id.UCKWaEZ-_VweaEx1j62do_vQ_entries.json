@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T12:04:02.432964+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T11:00:33+00:00",
+        "description": "Ready to become a certified Deployment Professional - Security QRadar? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdnTG3\n\nLearn more about Process Optimization here \u2192 https://ibm.biz/BdnTGT\n\n\ud83d\ude80 Good, fast, cheap\u2014can you really have all three? Jeff Crume explains the 'Good Fast Cheap' rule and its impact on software development and project workflows. Learn how to balance trade-offs like speed, cost, and quality to optimize coding efficiency and achieve better project outcomes!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdnTGw\n\n#projectmanagement #softwaredevelopment #codingefficiency",
+        "id": 2970031,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FTTRzy9VQnA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FTTRzy9VQnA/hqdefault.jpg",
+        "title": "Good, Fast, Cheap: Balancing Software Project Trade-Offs",
+        "vote": 0
+    }
+]

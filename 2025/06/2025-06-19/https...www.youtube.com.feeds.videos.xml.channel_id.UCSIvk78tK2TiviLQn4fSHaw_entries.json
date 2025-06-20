@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Up and Atom",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-19T02:46:54.393174+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-19T02:13:34+00:00",
+        "description": "Hi! I'm Jade. If you'd like to consider supporting Up and Atom, head over to my Patreon page :) \nhttps://www.patreon.com/upandatom\n\nVisit the Up and Atom store\nhttps://store.nebula.app/collections/up-and-atom\n\nSubscribe to Up and Atom for physics, math and computer science videos\nhttps://www.youtube.com/c/upandatom\n\nFor a one time donation, head over to my PayPal :)  https://www.paypal.me/upandatomshows\n\n1. The Pole in the Barn Paradox https://youtu.be/YVhI45_WzJ4\n2. Aristotle's Wheel Paradox https://youtu.be/mrVg9GM5h7Q\n3. Braess's Paradox https://youtu.be/cALezV_Fwi0\n4. Moravec's Paradox https://youtu.be/hcfVRkC3Dp0\n5. Gabriel's Horn https://youtu.be/3WVpOXUXNXQ\n6. The Raven Paradox https://youtu.be/Ca_sxDTPo60\n7. Olber's Paradox https://youtu.be/2MCt3AxCL6I\n8. The Muon Paradox https://youtu.be/JUwpOWOg0fk\n9. Zeno's Dichotomy https://youtu.be/EbHqtENNnSY\n10. Cavalieri's Widthless Lines https://youtu.be/EbHqtENNnSY\n11. Zeno's Nerf Gun https://youtu.be/EbHqtENNnSY\n12. Russell's Parado",
+        "id": 2967495,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yrJA0J7jciY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 605,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSIvk78tK2TiviLQn4fSHaw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yrJA0J7jciY/hqdefault.jpg",
+        "title": "The Most MIND-BENDING Paradoxes in Math and Physics",
+        "vote": 0
+    }
+]
