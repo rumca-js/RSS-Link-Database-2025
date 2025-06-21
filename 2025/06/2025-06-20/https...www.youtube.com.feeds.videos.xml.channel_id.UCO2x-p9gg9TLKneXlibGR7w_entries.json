@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T20:58:05.001347+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T20:52:01+00:00",
+        "description": "I redesigned Apple's Macintosh for the modern era. And for $150, you can build it too!\nCheck out Bambu Lab's H2D - https://snazzy.fm/Zv\nView Bambu Lab's other offerings - https://snazzy.fm/Iq\n\n**Build your own, here!** - project files coming in a couple hours\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nI set out to build a modern homage to the original 1984 Macintosh, using a Raspberry Pi and a custom-designed case that nails the retro look. Along the way, I tracked down a 3:2 display, recreated the classic six-color Apple logo, and even added laser-engraved signatures just like the original Mac team. With System 7 running on the Pi and original Apple peripherals hooked up through adapters, it\u2019s a full-on vintage Mac experience\u2014rebuilt with today\u2019s tech. If you\u2019re into retro co",
+        "id": 2982131,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=IjdqEpYkrAI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IjdqEpYkrAI/hqdefault.jpg",
+        "title": "I Made a 2025 Version of the Original 1984 Macintosh",
+        "vote": 0
+    }
+]

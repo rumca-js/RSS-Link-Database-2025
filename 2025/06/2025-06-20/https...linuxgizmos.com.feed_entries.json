@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T01:50:25.828256+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T01:36:43+00:00",
+        "description": "Bela.io has unveiled the Gem Stereo and Gem Multi, two new open-source boards that expand PocketBeagle 2 into a real-time digital signal processing platform. Designed for audio and sensor applications, the boards target creative, educational, and research projects requiring low-latency performance and flexible I/O. Built around the PocketBeagle 2&#8217;s quad-core 64-bit ARM processor, the Bela [&#8230;]",
+        "id": 2975017,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/bela-upgrades-embedded-dsp-platforms-with-pocketbeagle-2-support-and-new-web-ide",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bela Upgrades Embedded DSP Platforms with PocketBeagle 2 Support and New Web IDE",
+        "vote": 0
+    }
+]

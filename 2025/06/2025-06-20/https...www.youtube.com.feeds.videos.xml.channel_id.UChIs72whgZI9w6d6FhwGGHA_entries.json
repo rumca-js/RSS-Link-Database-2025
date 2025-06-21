@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T22:22:53.847310+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T20:02:08+00:00",
+        "description": "Sponsor: Montech HS01 Pro on Amazon https://geni.us/UYLeZn and HS02 Pro https://geni.us/ABM9fEB\nWe talk with AMD Engineer Amit Mehra and Level1 Techs' Wendell about \"deprocessed\" silicon, looking inside and dissecting the CPUs to learn more about microarchitecture, the physical layout of CPUs, and structure. This is purely educational and intended to be an open discussion and interview where we learn alongside AMD's engineer about how CPUs are made and laid out. The demo is first done with an AMD Ryzen Threadripper 7995WX CPU, then with a PA-RISC 7300LC from 1995. Amit worked on both of these CPUs, with the PA-RISC chip being his first, and the Threadripper CPU being his most recent that he can publicly disclose.\n\nFind LEVEL1 TECHS and Wendell here! https://www.youtube.com/c/level1techs\nWatch our prior video with Amit here! This is an awesome story about how AMD bet the company on Zen: https://www.youtube.com/watch?v=RTA3Ls-WAcw\nAnd check out our AMD Lab Tour with Amit and Bill: https",
+        "id": 2982651,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=iM1NXHQ8YTA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iM1NXHQ8YTA/hqdefault.jpg",
+        "title": "Dissecting AMD Ryzen | CPU Engineering Discussion, ft. Wendell & AMD Engineer Amit",
+        "vote": 0
+    }
+]

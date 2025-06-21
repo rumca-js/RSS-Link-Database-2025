@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T18:20:44.328590+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T18:13:35+00:00",
+        "description": null,
+        "id": 2980889,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/zagranica/news-tragedia-we-wloszech-nie-zyje-43-letni-polak,nId,21842941",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 402,
+        "source_url": "https://wydarzenia.interia.pl/swiat/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tragedia we W\u0142oszech. Nie \u017cyje 43-letni Polak",
+        "vote": 0
+    }
+]

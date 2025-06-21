@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T15:44:33.236435+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T15:00:55+00:00",
+        "description": "This video is brought to you by Wartorn, the single-player, squad-based, roguelite with deep replayability. Available now in Early Access \u2013 https://store.steampowered.com/app/1296660/Wartorn/\n\nDevelopers seem to be returning to premium multiplayer experiences again over chasing live-service trends.\n\nSupport us on Patreon: https://www.patreon.com/SecondWindGroup\n\nSecond Wind Merch: \nhttps://store.dftba.com/collections/second-wind\nhttps://sharkrobot.com/collections/second-wind",
+        "id": 2979566,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ODXqbQ-P7k0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ODXqbQ-P7k0/hqdefault.jpg",
+        "title": "The Live Service Craze Seems to Be Over, Finally | Unpacked",
+        "vote": 0
+    }
+]

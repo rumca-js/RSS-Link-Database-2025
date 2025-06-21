@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tony Mastrangeli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T13:45:45.355129+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T13:43:38+00:00",
+        "description": "<img width=\"640\" height=\"911\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-719x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Fruit Fight\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-719x1024.jpg 719w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-211x300.jpg 211w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-105x150.jpg 105w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-768x1094.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-1079x1536.jpg 1079w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-1438x2048.jpg 1438w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-640x911.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/06",
+        "id": 2978433,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/fruit-fight-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/06/Fruit-Fight-719x1024.jpg",
+        "title": "Fruit Fight Review",
+        "vote": 0
+    }
+]

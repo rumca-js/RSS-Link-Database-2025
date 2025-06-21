@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Just Some Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T01:53:01.665941+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T01:37:05+00:00",
+        "description": "James Gunn Explains Why Hollywood Is Dying\n----------------------------------------------------------------------------------------------\nArt and Animation by Just Some Guy\n\nOriginal trailer concept: FMA Brotherhood & Black Summoner\n\nMusic: \"Enkon Hakuchuumu\" by Sakagami Souichi - Copyright (C) 2015 Trial & Error/Sakagami Souichi All rights reserved.\n\nTrial & Error: http://www.tandess.com/en/music/",
+        "id": 2975019,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=b-qXqYa7-ts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 171,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC337i8LcUSM4UMbLf820I8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b-qXqYa7-ts/hqdefault.jpg",
+        "title": "James Gunn Explains Why Hollywood Is Dying",
+        "vote": 0
+    }
+]

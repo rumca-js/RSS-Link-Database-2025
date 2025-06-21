@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AirPano VR",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T14:37:50.120910+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T13:59:08+00:00",
+        "description": "This 360 photo virtual tour. It has been shot in 2015.\n\nHere are some facts about this volcano:\n\nOne of the most famous volcanoes of Indonesia is situated here, on the island of Java. Its name is Bromo and it is an active volcano: its crater permanently produces smoke and steam and occasional eruptions take place every now and then (the last one was in 2012). At the same time this volcano is quite easily accessible: one can get the foot of the mountain by car and then climb the stairs to get the crater. Much easier than the volcanoes of Kamchatka, we should say. And the altitude of the volcano is not that high, only 2392 meters. That is why Bromo is one of the most popular volcanoes, hundreds of tourists visit it every day.\n\nActually, four more volcanoes are situated inside the Tengger caldera: besides Bromo there are Mount Batok (2,470 m), Mount Kursi (2,581 m), Mount Watangan (2,661 m) and Mount Widodaren (2650 m), but Bromo is the only active volcano among them. Outside the area of",
+        "id": 2978986,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=V82i0XtpMLU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 13,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUSElbgKZpE4Xdh5aFWG-Ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V82i0XtpMLU/hqdefault.jpg",
+        "title": "360 Virtual Tour \u21162. Bromo Volcano, Java Island, Indonesia",
+        "vote": 0
+    }
+]

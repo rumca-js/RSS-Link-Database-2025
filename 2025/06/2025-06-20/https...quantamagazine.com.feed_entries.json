@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gregory Barber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T15:25:13.681815+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T15:03:08+00:00",
+        "description": "Two new notions of infinity challenge a long-standing plan to define the mathematical universe.            <p>The post <a href=\"https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/\" target=\"_blank\">Is Mathematics Mostly Chaos or Mostly Order?</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2979450,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/06/New-Infinities_crWei-AnJin-Default.webp",
+        "title": "Is Mathematics Mostly Chaos or Mostly Order?",
+        "vote": 0
+    }
+]

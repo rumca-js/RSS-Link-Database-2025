@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T12:27:46.939522+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T11:15:01+00:00",
+        "description": "Stock bash terminal is ugly and missing a LOT of quality of life features. Here is how to fix it to look good and get you around your system faster!\n\nLinux Utility command: curl -fsSL christitus.com/linux | sh\n\nChapters:\n00:00 Intro\n00:25 Fonts and Nerd Fonts\n03:07 Quick Install Script\n04:11 Bash Script Features\n\nLet me know below if there is anything you'd like to see on Linux.\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Reddit \u279c https://www.reddit.com/r/ChrisTitusTech/\n\u25ba\u25ba Titus Tech Talk \u279c https://www.youtube.com/c/TitusTechTalk\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech",
+        "id": 2977982,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=D6HmEi9C5K8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D6HmEi9C5K8/hqdefault.jpg",
+        "title": "How to Make Bash Terminal look and feel GREAT!",
+        "vote": 0
+    }
+]

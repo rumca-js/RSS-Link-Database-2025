@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T12:52:46.882919+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T12:05:50+00:00",
+        "description": "<p>Grafana to otwarto\u017ar\u00f3d\u0142owa platforma do analizy i prezentacji danych, szeroko stosowana nie tylko w IT. Pozwala tworzy\u0107 panele prezentuj\u0105ce r\u00f3\u017cne metryki, co powoduje, \u017ce jest popularnym rozwi\u0105zaniem w\u015br\u00f3d in\u017cynier\u00f3w IT i adminstrator\u00f3w. U\u017cytkownikom \u201cdomowym\u201d mo\u017ce by\u0107 znana mi\u0119dzy innymi z paneli prezentuj\u0105cych informacje udost\u0119pniane przez urz\u0105dzenia klasy smart home (np....</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/masz-wystawiona-do-internetu-grafane-lepiej-do-niej-zerknij-mozliwe-przejecie-konta/\">Masz wystawion\u0105 do Internetu Grafan\u0119? Lepiej do niej zerknij\u2026 mo\u017cliwe przej\u0119cie konta</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2978156,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/masz-wystawiona-do-internetu-grafane-lepiej-do-niej-zerknij-mozliwe-przejecie-konta",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Masz wystawion\u0105 do Internetu Grafan\u0119? Lepiej do niej zerknij\u2026 mo\u017cliwe przej\u0119cie konta",
+        "vote": 0
+    }
+]

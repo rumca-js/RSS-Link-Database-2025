@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T14:18:13.538529+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T14:00:55+00:00",
+        "description": "Thanks to Micro Center for sponsoring this video!\n\nMicro Center Santa Clara: https://micro.center/9d2732\nShop Micro Center\u2019s Selection of Boards and Projects: https://micro.center/2c0426\nShop Micro Center\u2019s Selection of Maker/ STEM Products: https://micro.center/cf245a\nShop Micro Center\u2019s Laptop Savings Event: https://micro.center/79e60d\n\nThanks especially to everyone I met in Santa Clara for helping make this video happen! For all the code used in the demos, check out this GitHub Gist:\n\nhttps://gist.github.com/geerlingguy/4d519887aeb462ba9501961a32ae3f71\n\nResources mentioned in this video:\n\n  - Steve Wozniak on the relay: https://youtu.be/hsB8Hxnb52o?t=367\n  - Open Circuits: https://amzn.to/446b9pb\n  - PicoBricks Base Kit: https://amzn.to/4jUv7sI (also check Micro Center for availability)\n  - PicoBricks IDE: https://picobricks.com/pages/ide?ose=false\n  - MicroBlocks IDE: https://microblocks.fun\n\nOther YouTube channels I follow for microcontrollers and electronics:\n\n  - ElectroBOOM: h",
+        "id": 2978948,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Sd42q3OaOrE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sd42q3OaOrE/hqdefault.jpg",
+        "title": "Making tiny explosions with microcontrollers",
+        "vote": 0
+    }
+]

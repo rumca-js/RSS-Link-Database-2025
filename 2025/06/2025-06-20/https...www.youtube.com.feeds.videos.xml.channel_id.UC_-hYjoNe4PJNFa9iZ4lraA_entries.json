@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T13:30:16.144292+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T13:01:48+00:00",
+        "description": "Take your personal data back with Incogni! Use code GOODWORK at the link below and get 60% off an annual plan: https://incogni.com/goodwork.\n\nKeynote presentations are incredibly boring and annoying. Good Work\u2019s Dan Toomey sets out to figure out why\u2014and maybe, just maybe, change things for the better.\n\nFeaturing interviews with:\n\nAlex Heath, Deputy Editor at The Verge\nFollow him: https://x.com/alexeheath?lang=en\n\nGeert Chatrou, 3x world champion whistler\nWatch his glorious Ted Talk: https://youtu.be/zO-aCQ6xH-8?si=CGsKoov6-p-WdbLY\n\nNeelu Kaur\nFollow her: https://www.linkedin.com/in/neelukaur\nOrder her book: https://www.barnesandnoble.com/w/be-your-own-cheerleader-neelu-kaur/1141696364\n\nWriters / creators: Jack Stebbins, Henry Stockwell, Dan Toomey\nThumbnail designer: Tom Grillo\nPackaging strategist: Jen Walsh\nProduction design: Kelsey Jones and Shawn O\u2019Connor\n\n--\n\nGOOD WORK ON ALL PLATFORMS: @goodworkmb\nDAN ON IG: @dhtoomey \nSIGN UP FOR MORNING BREW HERE: https://morningbrew.com/daily",
+        "id": 2978389,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=sHYAeABPVI8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sHYAeABPVI8/hqdefault.jpg",
+        "title": "Keynote presentations suck, can I fix them?",
+        "vote": 0
+    }
+]

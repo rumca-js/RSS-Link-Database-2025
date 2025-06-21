@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aldgra Fredly",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T11:40:20.886220+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T11:28:24+00:00",
+        "description": "The Malaysian Trade Ministry said that companies have been advised to adhere to other countries\u2019 export controls to avoid secondary sanctions.",
+        "id": 2977528,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/malaysia-probes-reports-of-chinese-firm-using-nvidia-chips-to-train-ai-models-5875818",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2023/03/01/logo-of-Nvidia-Corporation-1080x720.jpg",
+        "title": "Malaysia Probes Reports of Chinese Firm Using Nvidia Chips to Train AI Models",
+        "vote": 0
+    }
+]

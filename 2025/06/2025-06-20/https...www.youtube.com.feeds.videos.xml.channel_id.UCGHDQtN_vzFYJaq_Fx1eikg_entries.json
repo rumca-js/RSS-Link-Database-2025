@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-20T23:30:14.668309+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-20T22:32:03+00:00",
+        "description": "The biggest ship in history? Made from an unusual and obscure building material? How'd that go?\n\n\n\"Project Habakkuk or Habbakuk (spelling varies) was a plan by the British during the Second World War to construct an aircraft carrier out of pykrete, a mixture of wood pulp and ice, for use against German U-boats in the mid-Atlantic, which were beyond the flight range of land-based planes at that time. The plan was to create what would have been the largest ship ever at 600 metres (1,969 ft) long, which would have been much bigger than even the USS Enterprise and the USS Gerald R. Ford, the largest naval vessel ever, at 342 metres (1,122 ft) long. The idea came from Geoffrey Pyke, who worked for Combined Operations Headquarters. After promising scale tests and the creation of a prototype on Patricia Lake, Jasper National Park, in Alberta, Canada, the project was shelved due to rising costs, added requirements, and the availability of longer-range aircraft and escort carriers which closed",
+        "id": 2982984,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QcD2BiSx6sI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QcD2BiSx6sI/hqdefault.jpg",
+        "title": "The Miracle Material Behind the Largest Ship Ever | Tales From the Bottle",
+        "vote": 0
+    }
+]
