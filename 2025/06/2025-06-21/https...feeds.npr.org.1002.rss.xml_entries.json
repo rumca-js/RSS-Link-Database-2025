@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chloe Veltman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T21:32:24.913796+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T16:19:47+00:00",
+        "description": "One of the most in-demand session players of the 1960s, Kaye was listed alongside the late record producer Thom Bell and the late pianist Nicky Hopkins as inductees in the Musical Excellence category.",
+        "id": 2988494,
+        "language": "en",
+        "link": "https://www.npr.org/2025/06/21/nx-s1-5441080/star-bassist-carol-kaye-rejects-rock-roll-hall-of-fame-honor-inductee-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3751x2555+0+0/resize/3751x2555!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Fdf%2F38705af84385ba8a5b27e4fa20fc%2Fgettyimages-98120016.jpg",
+        "title": "Star Bassist Carol Kaye rejects Rock & Roll Hall of Fame honor",
+        "vote": 0
+    }
+]

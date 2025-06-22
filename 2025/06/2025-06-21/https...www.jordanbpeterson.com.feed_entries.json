@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "admin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T14:17:48.730165+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T13:18:13+00:00",
+        "description": "But I will not submit until if the proceedings are to be behind closed doors Jordan Peterson: \u201cWe look at Carney and we don\u2019t pay any attention to politics &#8230; and so we see someone who looks like a banker...",
+        "id": 2986413,
+        "language": "en-US",
+        "link": "https://www.jordanbpeterson.com/blog/jordan-peterson-at-long-last-my-re-education-coach-has-been-chosen",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 168,
+        "source_url": "https://www.jordanbpeterson.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jordanbpeterson.com/wp-content/uploads/2025/06/Jordan-Peterson-1.webp",
+        "title": "At long last, my re-education \u2018coach\u2019 has been chosen",
+        "vote": 0
+    }
+]

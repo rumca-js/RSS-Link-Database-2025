@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T18:05:30.979560+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T18:00:33+00:00",
+        "description": "<img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-5274610-siarhiej-cichanouski-uwolniony-z-wiezienia-ph8522072/alternates/LANDSCAPE_1280\" alt=\"Bia\u0142oruski opozycjonista o zwolnieniu wi\u0119\u017ani\u00f3w\" />\n    Wa\u017cne, \u017ce ludzie s\u0105 na wolno\u015bci. Wa\u017cne, \u017ce uratowali \u017cycie. Ale przecenia\u0107 tego nie mo\u017cna - m\u00f3wi\u0142 na antenie TVN24 Pawe\u0142 \u0141atuszka, by\u0142y ambasador Bia\u0142orusi w Warszawie. Bia\u0142oruski opozycjonista komentowa\u0142 spraw\u0119 uwolnienia przez w\u0142adze Bia\u0142orusi wi\u0119\u017ani\u00f3w politycznych.",
+        "id": 2987495,
+        "language": "pl-PL",
+        "link": "https://tvn24.pl/swiat/bialorus-pawel-latuszka-skomentowal-sprawe-zwolnienia-przez-bialoruski-rezim-wiezniow-politycznych-st8522170?source=rss",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 319,
+        "source_url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://tvn24.pl/najnowsze/cdn-zdjecie-5274610-siarhiej-cichanouski-uwolniony-z-wiezienia-ph8522072/alternates/LANDSCAPE_1280",
+        "title": "Bia\u0142oruski opozycjonista o zwolnieniu wi\u0119\u017ani\u00f3w",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T16:51:19.566353+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T16:00:04+00:00",
+        "description": "Read GameSpot's MindsEye review: https://www.gamespot.com/reviews/mindseye-review/1900-6418374/\n\nMindsEye is not the worst game ever made, but it still commits the cardinal sin of being mind-numbingly boring. More than anything, it feels like a game firmly trapped in the past. It wouldn't have been good 15 years ago, either, but perhaps some of its design choices would have made more sense. If you're looking for quality, cast your mind's eye elsewhere.\n\n#GameSpot #Mindseye",
+        "id": 2987106,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0I5od-gpZqM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0I5od-gpZqM/hqdefault.jpg",
+        "title": "MindsEye GameSpot Review",
+        "vote": 0
+    }
+]

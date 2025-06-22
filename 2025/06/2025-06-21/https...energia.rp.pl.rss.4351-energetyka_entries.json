@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T12:34:48.083238+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T12:34:47+00:00",
+        "description": "Ukraina walczy, ale te\u017c nie przestaje inwestowa\u0107 w nowoczesno\u015b\u0107. Grupa Metinvest najbogatszego Ukrai\u0144ca Rinata Achmetowa zaprz\u0119g\u0142a narz\u0119dzia sztucznej inteligencji (AI) do automatyzacji proces\u00f3w i kontroli jako\u015bci produkcji.",
+        "id": 2985807,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art42567401-cyfrowa-metalurgia-ai-wkroczyla-do-ukrainskich-hut",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cyfrowa metalurgia. AI wkroczy\u0142a do ukrai\u0144skich hut",
+        "vote": 0
+    }
+]

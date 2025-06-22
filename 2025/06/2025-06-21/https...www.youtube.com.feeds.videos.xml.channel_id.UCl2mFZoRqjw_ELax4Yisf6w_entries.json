@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T23:52:58.578557+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T23:21:06+00:00",
+        "description": "https://youtu.be/YhnSSSvfBLQ\nhttps://www.youtube.com/@Rhine_Labs/\nhttps://www.camiresearch.com/\nhttps://www.oregonlegislature.gov/bills_laws/lawsstatutes/2024orLaw0069.pdf",
+        "id": 2988974,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=2K1zi66IE0k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2K1zi66IE0k/hqdefault.jpg",
+        "title": "Cami Research blatantly violates Oregon Right to Repair Law, Oregon DOJ does nothing.",
+        "vote": 0
+    }
+]

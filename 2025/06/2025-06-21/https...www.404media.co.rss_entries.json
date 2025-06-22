@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Becky Ferreira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T13:25:13.894225+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T13:00:18+00:00",
+        "description": "A preprint study found that participants who used an LLM to write essays performed worse \u201cat all levels\u201d than those who didn\u2019t.",
+        "id": 2986043,
+        "language": null,
+        "link": "https://www.404media.co/is-chatgpt-rotting-our-brains-new-study-suggests-it-does",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/06/1613px-Anaconda_al_acecho.jpg",
+        "title": "Is ChatGPT Rotting Our Brains? New Study Suggests It Does",
+        "vote": 0
+    }
+]

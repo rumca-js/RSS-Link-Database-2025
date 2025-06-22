@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T13:32:52.671570+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T11:00:18+00:00",
+        "description": "Reinforcement learning trains AI chatbots to go all in\u2014for better or weirder.",
+        "id": 2986060,
+        "language": null,
+        "link": "https://www.youtube.com/shorts/A9eYnT4LnAo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A9eYnT4LnAo/hqdefault.jpg",
+        "title": "Why Chatbots Spiral?",
+        "vote": 0
+    }
+]

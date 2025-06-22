@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "National Geographic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T15:34:54.570543+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T15:00:30+00:00",
+        "description": "Critically acclaimed and nominated for 29 Emmys at the 2025 News and Documentary Emmy Awards, making it the most nominated title of the year, \"Trafficked with Mariana van Zeller\" uncovers global black markets. Watch full episodes on YouTube and stream the full series on @disneyplus and @hulu: https://on.natgeo.com/4jqRIg8\n\nSpotlight: Steroids\nMariana van Zeller shines a light on a new wave of underground steroids promising to make users superhuman.  \n\nSpotlight: Pimps\nMariana spotlights the billion-dollar trade for illicit sex in America, through the eyes of working pimps. \n\nSpotlight: Black Market Marijuana\nMariana sheds light on California's black market for weed, which has mushroomed since marijuana legalization four years ago. \n\nSpotlight: Meth\nMariana van Zeller shines a light on the meth superhighway and the lives of American users.  \n\nSpotlight: Cocaine Queens\nMariana spotlights a new breed of narco that's starting to gain power in the cocaine trafficking networks of Colombia: ",
+        "id": 2986772,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NL0L8ZWLg3c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 578,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NL0L8ZWLg3c/hqdefault.jpg",
+        "title": "Trafficked with Mariana van Zeller: Spotlight on Crime | MEGA EPISODE | National Geographic",
+        "vote": 0
+    }
+]

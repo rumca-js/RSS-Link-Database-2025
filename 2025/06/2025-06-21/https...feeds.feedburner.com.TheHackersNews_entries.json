@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T11:08:45.402356+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T11:08:44+00:00",
+        "description": "The April 2025 cyber attacks targeting U.K. retailers Marks &amp; Spencer and Co-op have been classified as a \"single combined cyber event.\"\nThat's according to an assessment from the Cyber Monitoring Centre (CMC), a U.K.-based independent, non-profit body set up by the insurance industry to categorize major cyber events.\n\"Given that one threat actor claimed responsibility for both M&amp;S and",
+        "id": 2985506,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages",
+        "vote": 0
+    }
+]

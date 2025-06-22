@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T22:15:09.608885+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T21:00:27+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/E9S5j2MR3e0\" width=\"480\" alt=\"thumbnail\" title=\"Elgato Stream Deck Works Amazingly On Linux\" /></p>I finally plugged in my Elgato Stream Deck so now it's time to show you how to configure under Linux because it certainly doesn't have official support from Elgato but there are a lot of 3rd party community tools.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />StreamDeck UI: https://github.com/streamdeck-linux-gui/streamdeck-linux-gui<br />Boatswain: https://gitlab.gnome.org/World/boatswain<br />OpenDeck: https://github.com/nekename/OpenDeck<br />StreamController: https://github.com/StreamController/StreamController<br />Python StreamDeck: https://github.com/abcminiuser/python-elgato-str",
+        "id": 2988531,
+        "language": "en",
+        "link": "https://odysee.com/elgato-stream-deck-works-amazingly-on:aa43832c86b8eb5bc869f8f4ae7afbbd017f2388",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/E9S5j2MR3e0",
+        "title": "Elgato Stream Deck Works Amazingly On Linux",
+        "vote": 0
+    }
+]

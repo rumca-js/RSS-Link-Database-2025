@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Alonzo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T09:20:37.326563+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T09:01:23+00:00",
+        "description": "The technology company is disputing claims that it's working with the government to create a master database of all Americans.",
+        "id": 2984941,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/palantir-trump-data-order-spark-privacy-concerns-denial-from-company-5876189",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/06/02/id5866788-06022025-DSC06639-Palantir-1080x720.jpg",
+        "title": "Palantir, Trump Data Order Spark Privacy Concerns, Denial From Company",
+        "vote": 0
+    }
+]

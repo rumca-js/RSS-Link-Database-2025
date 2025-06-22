@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T17:22:58.750158+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T16:54:49+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>It\u2019s small, it\u2019s affordable, and it can help you multitask like a pro\u2014the <a href=\"https://www.amazon.com/Beelink-EQR5-Processor-PCIE3-0x4-Computer/dp/B0DLP5P62S/\">Beelink EQR5 mini PC is only $299.90 right now</a>, a lovely 25% off on Amazon and matching the lowest price it\u2019s ever been. This is a great device for work, fun, and everything in between.</p>\n\n\n\n<p>If you love splitting work across multiple screens, that\u2019ll be super easy to do with this tiny PC because it comes with dual 4K@60Hz screen support thanks to the two full-sized HDMI ports on the back. Of course, it\u2019s not just about the dual screen support, but also the performance. Equipped with an AMD Ryzen 7 processor and a massive 32GB of RAM, this mini PC will breeze through just about anything you need to do on any given day.</p>\n\n\n\n<p>There\u2019s a 500GB SSD on board, which should be more than enou",
+        "id": 2987380,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2819898/this-ryzen-7-mini-pc-with-32gb-of-ram-just-hit-its-best-price-yet.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "This Ryzen 7 mini PC with 32GB of RAM just hit its best price yet",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T16:39:47.298048+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T16:01:09+00:00",
+        "description": "A fireside with Sam Altman at AI Startup School in San Francisco.\n\nSam Altman grew up obsessed with technology, broke into the Stanford mainframe as a kid, and dropped out to start his first company before turning 20.\n\nIn this conversation, he traces the path from early startup struggles to building OpenAI\u2014sharing what he\u2019s learned about ambition, the weight of responsibility, and how to keep building when the whole world is watching. He opens up about the hardest moments of his career, the limits of personal productivity, and why, in the end, it's all still about finding people you like working with and doing something that matters.\n\nChapters (Powered by https://ChapterMe.co) -\n00:00 \u2013 We\u2019re going for AGI\n01:25 \u2013 Founding OpenAI Against the Odds\n05:00 \u2013 GPT-4o & the Future of Reasoning Models\n07:00 \u2013 ChatGPT Memory & the \u2018Her\u2019 Vision\n10:00 \u2013 GPT-5 & the Vision of a Multimodal Supermodel\n11:00 \u2013 Robots at Scale\n15:00 \u2013 Don\u2019t Build ChatGPT \u2014 Build What\u2019s Missing\n17:00 \u2013 Elon\u2019s Harsh Em",
+        "id": 2987063,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=V979Wd1gmTU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V979Wd1gmTU/hqdefault.jpg",
+        "title": "Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware",
+        "vote": 0
+    }
+]

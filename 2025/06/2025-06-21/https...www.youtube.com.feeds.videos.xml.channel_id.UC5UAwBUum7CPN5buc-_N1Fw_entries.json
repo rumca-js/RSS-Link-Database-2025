@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-21T10:20:18.043360+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-21T09:12:59+00:00",
+        "description": "Use a secure, encrypted, and fast VPN with Proton VPN: https://protonvpn.com/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en# https://www.youtube.com/watch?v=3d65Mnr8onE\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:39 Sponsor: ProtonVPN\n01:44 X.org reverts changes made by xLibre developer\n04:06 Giant data breach with 16B logins and passwords\n07:04 Plasma 6.4 is out\n09:23 German state keeps replacing Microsoft products\n12:13 Meta's model can spit out 42% of Harry Potter\n15:25 The final year of ",
+        "id": 2985201,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GAZKxKUum5k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GAZKxKUum5k/hqdefault.jpg",
+        "title": "Big X org code reverts, giant data breach, KDE 6.4: Linux & Open Source News",
+        "vote": 0
+    }
+]
