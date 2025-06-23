@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T19:24:18.040602+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T16:01:04+00:00",
+        "description": "\ud83e\udd16\u00a0W ostatnich tygodniach bran\u017ca cyberbezpiecze\u0144stwa odnotowa\u0142a kilka naprawd\u0119 sporych sukces\u00f3w, o kt\u00f3rych warto wspomnie\u0107. Unieszkodliwiono, przynajmniej na jaki\u015b\u00a0czas, dwie sporych rozmiar\u00f3w operacje cyberprzest\u0119pcze. W dodatku nasz kraj\u00a0by\u0142 poniek\u0105d w centrum tych wydarze\u0144.\n\n\ud83d\udd10\u00a0DAGMA Bezpiecze\u0144stwo IT\nhttps://blog.dagma.eu/pl \n\n\u0179r\u00f3d\u0142a:\n\ud83d\udee1\ufe0f\u00a0welivesecurity.com\nhttps://www.welivesecurity.com/en/\n\n\ud83c\udf0d\u00a0ESET takes part in global operation to disrupt Lumma Stealer\nhttps://www.welivesecurity.com/en/eset-research/eset-takes-part-global-operation-disrupt-lumma-stealer/\n\n\ud83d\udcc9\u00a0Danabot: Analyzing a fallen empire\nhttps://www.welivesecurity.com/en/eset-research/danabot-analyzing-fallen-empire/\n\n\ud83d\udc4a\u00a0Operation Endgame\nhttps://www.operation-endgame.com/\n\n\ud83e\udd14\u00a0DeepSeek? Nie \u2013 to kolejny Amos Stealer na MacOS\nhttps://cert.orange.pl/aktualnosci/deepseek-nie-to-poseidon-stealer-na-macos/\n \nRelevant xkcd: https://xkcd.com/792/\n \n\u00a9 Wszystkie znaki handlowe nale\u017c\u0105 do ich prawowitych w\u0142a\u015bcicieli.\n\u2764\ufe0f Dzi\u0119kuj\u0119 za Wasz\u0105 uw",
+        "id": 2991152,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fcTdhBq4U88",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fcTdhBq4U88/hqdefault.jpg",
+        "title": "Ryneczek z wirusami",
+        "vote": 0
+    }
+]

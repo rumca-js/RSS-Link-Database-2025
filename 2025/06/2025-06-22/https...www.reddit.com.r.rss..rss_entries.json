@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Jazzlike-Promise-492",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T19:39:56.631020+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T13:09:47+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey RSS fans \ud83d\udc4b</p> <p>I\u2019ve been deep into content curation lately and wanted to share a project I just launched: <a href=\"https://super-curator.com\"><strong>Super-Curator.com</strong></a>.</p> <p>It\u2019s an AI-powered tool that lets you create ultra-specific content curators from RSS feeds across the web. You define the topic and filtering prompt, and the agent automatically scans sources, filters the noise, and delivers the most relevant articles\u2014updated constantly.</p> <p>\ud83d\udccc <strong>Key features:</strong></p> <ul> <li>Choose from 100s of public RSS feeds (or add your own)</li> <li>Use prompts to fine-tune what kind of content gets through</li> <li>Get a personalized feed of exactly what you care about</li> <li>Built for news, products, tech trends, niche interests, and more</li> </ul> <p>If you&#39;re an RSS power user, content nerd, or tired of sifting through irrelevant headlines, I\u2019d love your feedback. Always looking to improve it for the RSS commun",
+        "id": 2991423,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1lhnhy0/built_a_tool_to_curate_rss_feeds_with_aimeet",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\ud83d\ude80 Built a Tool to Curate RSS Feeds with AI\u2014Meet Super-Curator.com",
+        "vote": 0
+    }
+]

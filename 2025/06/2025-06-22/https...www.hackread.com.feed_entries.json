@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T21:28:37.106696+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T20:25:11+00:00",
+        "description": "Scammers used Inferno Drainer to steal $43,000 in crypto from 110 CoinMarketCap users through a fake wallet prompt embedded in the site\u2019s front-end.",
+        "id": 2993605,
+        "language": "en-US",
+        "link": "https://hackread.com/scammers-inferno-drainer-crypto-coinmarketcap-users",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Scammers Use Inferno Drainer to Steal $43K from CoinMarketCap Users",
+        "vote": 0
+    }
+]

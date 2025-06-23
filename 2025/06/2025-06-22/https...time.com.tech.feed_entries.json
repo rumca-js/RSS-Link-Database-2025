@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Harry Booth",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T19:27:41.046745+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T11:00:00+00:00",
+        "description": "Before stepping down as Scale AI CEO, Alexandr Wang spoke with TIME about AI agents, AGI, and his approach to leadership.",
+        "id": 2991191,
+        "language": "en-UK",
+        "link": "https://time.com/7296215/alexandr-wang-interview",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/06/GettyImages-2208999284.jpg",
+        "title": "Former Scale AI CEO Alexandr Wang on AI\u2019s Potential and Its \u2018Deficiencies\u2019",
+        "vote": 0
+    }
+]

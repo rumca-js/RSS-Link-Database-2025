@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T21:48:26.712309+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T21:47:25+00:00",
+        "description": "<p><img width=\"1500\" height=\"750\" src=\"https://9to5linux.com/wp-content/uploads/2025/06/pos256.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"postmarketOS 25.06\" decoding=\"async\" fetchpriority=\"high\" /></p>\n<p>postmarketOS 25.06 mobile distribution is now available for download based on Alpine Linux 3.22 and featuring support for new devices, new features, updated components, and more.</p>\n<p>The post <a href=\"https://9to5linux.com/postmarketos-25-06-linux-mobile-os-brings-support-for-new-devices-and-systemd\">postmarketOS 25.06 Linux Mobile OS Brings Support for New Devices and systemd</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 2993620,
+        "language": "en-US",
+        "link": "https://9to5linux.com/postmarketos-25-06-linux-mobile-os-brings-support-for-new-devices-and-systemd",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/06/pos256.webp",
+        "title": "postmarketOS 25.06 Linux Mobile OS Brings Support for New Devices and systemd",
+        "vote": 0
+    }
+]

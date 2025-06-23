@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nick Turse",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T03:44:48.493332+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T02:41:29+00:00",
+        "description": "<p>Heeding the request of Israel\u2019s Prime Minister Benjamin Netanyahu, President Donald Trump dispatched U.S. warplanes to bomb Iran.</p>\n<p>The post <a href=\"https://theintercept.com/2025/06/21/iran-israel-united-states-war/\">Self-Proclaimed \u201cPeacemaker\u201d Drags U.S. Into Another War</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2989643,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/06/21/iran-israel-united-states-war",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/06/AP25165095518235-e1750092175435.jpeg",
+        "title": "Self-Proclaimed \u201cPeacemaker\u201d Drags U.S. Into Another War",
+        "vote": 0
+    }
+]

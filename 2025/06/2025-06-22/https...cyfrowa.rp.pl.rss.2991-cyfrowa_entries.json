@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T19:33:52.004889+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T18:57:00+00:00",
+        "description": "Bombowce stealth B-2 Spirit Si\u0142 Powietrznych USA, kt\u00f3re wzi\u0119\u0142y udzia\u0142 w atakach na ira\u0144skie obiekty nuklearne, to prawdziwe technologiczne dzie\u0142a sztuki.",
+        "id": 2991318,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art42569891-b-2-spirit-zaatakowal-iran-sekrety-najpotezniejszego-i-najdrozszego-bombowca-swiata",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "B-2 Spirit zaatakowa\u0142 Iran: sekrety najpot\u0119\u017cniejszego i najdro\u017cszego bombowca \u015bwiata",
+        "vote": 0
+    }
+]

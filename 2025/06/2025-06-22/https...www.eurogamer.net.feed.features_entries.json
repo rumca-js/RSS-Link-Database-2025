@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T19:58:01.030193+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T11:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Invincible-vs-header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>I have next to no idea what Invincible is. I know of Omni-Man, though only through osmosis <a href=\"https://www.eurogamer.net/mortal-kombat-1-gives-us-our-first-look-at-the-upcoming-dlc-character-omni-man\">and crossovers</a> and such - but that&rsquo;s the extent of my knowledge. I admit this to one of the developers of<a href=\"https://www.eurogamer.net/games/invincible-vs\"> Invincible VS</a> when I sat down to play the new game based on the comic book series, <a href=\"https://www.eurogamer.net/xbox-game-showcase-2025-round-up-everything-announced\">just revealed at Xbox&rsquo;s most recent showcase</a>. Briefly, they look a little crestfallen.</p> <p><a href=\"https://www.eurogamer.net/invincible-vs-has-all-the-right-fighting-foundations-preview\">Read more</a></p>",
+        "id": 2993070,
+        "language": "en",
+        "link": "https://www.eurogamer.net/invincible-vs-has-all-the-right-fighting-foundations-preview",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Invincible-vs-header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "New fighting game Invincible VS has all the right foundations to be a barn-storming tag-teamer",
+        "vote": 0
+    }
+]

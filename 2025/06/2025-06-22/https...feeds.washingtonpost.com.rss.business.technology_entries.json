@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Trisha Thadani, Josh Partlow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T22:10:06.550141+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T21:42:53+00:00",
+        "description": "The test, limited in scope and shrouded in secrecy, is a crucial step for a company still struggling with the fallout from its founder\u2019s foray into politics.",
+        "id": 2993852,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/06/22/tesla-robotaxi-launch-austin",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tesla launches long-awaited Robotaxi in Austin",
+        "vote": 0
+    }
+]

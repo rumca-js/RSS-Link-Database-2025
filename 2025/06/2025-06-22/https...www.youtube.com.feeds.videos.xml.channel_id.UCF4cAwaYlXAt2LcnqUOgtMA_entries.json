@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "A Vox in the Void",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T20:02:44.255391+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T15:48:25+00:00",
+        "description": "\"THE MAN WHO KILLED ROGAL DORN\" - UNOFFICIAL WARHAMMER 40K AUDIO\n\nWritten by the excellent Darren Davies, author of \"Paper Heart\"\n\nhttps://www.youtube.com/watch?v=s_o52WN0ZCc\n\nNarrated and produced by A Vox in the Void\n\nArt used with permission by the incredible story killinger\n\nhttps://www.artstation.com/storykillinger\nhttps://www.patreon.com/c/Storykillinger/posts\n\nMusic by Monument Audio\nSound effects by Epidemic Sound \n\nJoin the official discord!\n\nhttps://discord.gg/R4rhBrfzam\n\nGet your vox merch!\n\nhttps://avoxinthevoid.creator-spring.com/",
+        "id": 2993232,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8QnZxPyKmp8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 7,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF4cAwaYlXAt2LcnqUOgtMA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8QnZxPyKmp8/hqdefault.jpg",
+        "title": "\"THE MAN WHO KILLED ROGAL DORN\" - UNOFFICIAL WARHAMMER 40K AUDIO",
+        "vote": 0
+    }
+]

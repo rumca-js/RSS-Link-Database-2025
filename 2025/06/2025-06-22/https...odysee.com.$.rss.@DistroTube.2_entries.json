@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T20:04:21.311193+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T13:00:38+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/KeAkWb4wgsc\" width=\"480\" alt=\"thumbnail\" title=\"'cp' - copy files and directories - Video Man Pages\" /></p>The 'cp' command is used to copy files and directories to another location.<br /><br />- Copy a file to a new file:<br />  cp path/to/source_file path/to/target_file<br /><br />- Copy a file into another directory and keeping the same filename:<br />  cp path/to/source_file path/to/another_directory<br /><br />- Recursively copy a directory's contents to another location:<br />  cp -r path/to/source_directory path/to/target_directory<br /><br />  NOTE: If the target directory exists, the source directory is copied inside it.  If the target directory does not exist, it is created and the contents of the source directory are copied into the target directory.<br /><br />- Copy a directory recursively, in verbose mode:<br />  cp -rv path/to/source_directory path/to/target_directory<br /><br />- Copy multiple files at once to a target directory",
+        "id": 2993247,
+        "language": "en",
+        "link": "https://odysee.com/%27cp%27-copy-files-and-directories-video:6db01963e825d67478b0a4784dd67aa85d2ff39b",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/KeAkWb4wgsc",
+        "title": "'cp' - copy files and directories - Video Man Pages",
+        "vote": 0
+    }
+]

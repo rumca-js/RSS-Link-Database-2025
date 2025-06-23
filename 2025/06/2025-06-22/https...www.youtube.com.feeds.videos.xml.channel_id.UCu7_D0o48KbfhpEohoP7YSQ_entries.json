@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andreas Spiess",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T07:40:49.510694+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T07:00:28+00:00",
+        "description": "Today\u2019s episode is different. After 10 years and more than 500 videos, it\u2019s time to look back, extract what I\u2019ve learned, and explain why this is the last regular video on this channel. If that interests you, stick with me.\n\nMy second channel: https://www.youtube.com/HB9BLAWireless\n\nPatreon supporter companies:\nhttps://www.welectron.com/\n\nThe links above are usually affiliate links that support the channel (at no additional cost to you).\nSupporting Material and Blog Page: http://www.sensorsiot.org\nGitHub: https://www.github.com/sensorsiot\nMy Patreon Page: https://www.patreon.com/AndreasSpiess\nDiscord: https://discord.gg/JfgDSa8\nIf you want to support the channel, please use the links below to start your shopping. No additional charges for you, but I get a commission on your purchases to buy new stuff for the channel\nMy Amazon.com shop: https://www.amazon.com/shop/andreasspiess\nFor Banggood https://bit.ly/2jAQEf4\nFor AliExpress: For AliExpress: bit.ly/3MtXUY8 (just go on from here to y",
+        "id": 2990366,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GTerwIniB24",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 17,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GTerwIniB24/hqdefault.jpg",
+        "title": "The Last Regular Video on this Channel",
+        "vote": 0
+    }
+]

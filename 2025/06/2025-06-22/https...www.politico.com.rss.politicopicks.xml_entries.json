@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul McLeary, Chris Lunday and Esther Webber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T10:33:19.654340+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T05:00:00+00:00",
+        "description": "A POLITICO analysis reveals telling gaps between the big spenders near Eastern Europe and those further from Russia, who are still creeping toward a decade-old target.",
+        "id": 2991090,
+        "language": "en-us",
+        "link": "https://www.politico.com/news/2025/06/22/trump-nato-defense-spending-winners-losers-00409979",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 256,
+        "source_url": "https://www.politico.com/rss/politicopicks.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.politico.com/89/b0/ca627e69498caea91fcb05dc769e/main-staff-natobudegt-illustration.jpg",
+        "title": "The winners and losers in Trump's NATO arms race",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-22T19:36:42.724762+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-22T17:52:59+00:00",
+        "description": "Podcast CD-Action Air #115\n\n00:00 Dzie\u0144 dobry!\n05:46 W co ostatnio grali\u015bmy?\n31:39 \ud83d\ude85 CD-Express (newsy ze \u015bwiata gier)\n1:18:22 \ud83e\ude97 Dogrywka (co dzia\u0142o si\u0119 w grach dok\u0142adnie 10 lat temu?)\n1:25:32 \ud83e\udd14 A teraz rozkminka: Czy przychylniej patrzymy na polskie gry?\n\n#\n\nWesprzyj nas, b\u0119dziemy turbo wdzi\u0119czni + co tydzie\u0144 dostaniesz p\u00f3\u0142 godziny naszej gadaniny ekstra:\nhttps://www.youtube.com/channel/UCLLO-H4NQXNa_DhUv-rqN9g/join\n\nWszystkie linki, kt\u00f3rych szukasz:\n\nhttps://www.goladupa.com\n\nTo my:\nKrzysztof \u201eBastian\u201d Freudenberger\nDawid \u201espikain\u201d Bojarski\n\nMonta\u017c: Krzysztof \u201eBastian\u201d Freudenberger",
+        "id": 2991365,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Wgdld4OPltk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Wgdld4OPltk/hqdefault.jpg",
+        "title": "Microsoft zapowiedzia\u0142 DWIE next-genowe konsole. Ju\u017c?!",
+        "vote": 0
+    }
+]
