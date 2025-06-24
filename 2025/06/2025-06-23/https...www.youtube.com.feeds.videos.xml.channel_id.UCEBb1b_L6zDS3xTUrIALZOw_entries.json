@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T14:19:54.473899+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T14:00:29+00:00",
+        "description": "Professor Jon Gruber explains that although LeBron James has an absolute advantage in both playing basketball and mowing his lawn, his comparative advantage is in basketball, illustrating that countries like Colombia and the U.S. should specialize where their opportunity cost is lower to gain from trade.\n\nThumbnail credits: \nLeBron image by RGB7, used under CC BY-NC 4.0 license.\nLawnmower image is public domain",
+        "id": 2998157,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Jfq94mAiApU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Jfq94mAiApU/hqdefault.jpg",
+        "title": "LeBron vs. Lawncare: Why It\u2019s All About Trade-Offs",
+        "vote": 0
+    }
+]

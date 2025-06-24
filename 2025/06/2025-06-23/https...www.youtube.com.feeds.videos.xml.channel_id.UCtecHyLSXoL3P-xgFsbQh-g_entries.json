@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T14:20:30.387503+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T13:45:29+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\n28 lat p\u00f3\u017aniej to film bardzo odwa\u017cny, niezwykle agresywny w swojej formie, prze\u0142amuj\u0105cy bariery i prezentuj\u0105cy autentycznie nowe podej\u015bcie do klasycznego gatunku. Czy Wam si\u0119 spodoba, to ju\u017c zupe\u0142nie osobna kwestia, ale na pewno b\u0119dziecie mieli o czym dyskutowa\u0107 po seansie, bo ten film nie pozostawi nikogo oboj\u0119tnym.",
+        "id": 2998159,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mRKRREP8WgY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mRKRREP8WgY/hqdefault.jpg",
+        "title": "Tego jeszcze w kinie NIE BY\u0141O - 28 lat p\u00f3\u017aniej",
+        "vote": 0
+    }
+]

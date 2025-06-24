@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xbox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T22:54:55.834857+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T22:33:42+00:00",
+        "description": "Don't miss out on the key moments from The Outer Worlds 2 & Grounded 2 Direct, featuring two beloved games from Obsidian returning this year! For a deeper look behind the scenes, check out the full show Xbox Games Showcase 2025: https://youtube.com/live/_M3QwLBrg8g\n\nSUBSCRIBE TO XBOX: https://xbx.lv/2EEjmaR \n\nFOLLOW XBOX \nhttps://twitter.com/xbox \nhttps://www.facebook.com/xbox \nhttps://www.instagram.com/xbox/ \nhttps://www.tiktok.com/@xbox\nhttps://www.threads.net/@xbox\nhttps://bsky.app/profile/xbox.com",
+        "id": 3002336,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tOmUGDXyLlc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 577,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tOmUGDXyLlc/hqdefault.jpg",
+        "title": "The Outer Worlds 2 & Grounded 2 Direct Highlights",
+        "vote": 0
+    }
+]

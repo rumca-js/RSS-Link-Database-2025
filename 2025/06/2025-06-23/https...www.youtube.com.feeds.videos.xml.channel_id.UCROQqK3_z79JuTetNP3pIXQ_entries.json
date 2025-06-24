@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "captainmidnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T21:45:00.663327+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T21:06:11+00:00",
+        "description": "Will Smith's new music video \"Pretty Girls\" is getting a lot of attention online. Not for the right reasons. In this video, I take a look at the strange state of Will Smith's career.\nRead my comic BINARY SEA on Amazon Kindle: https://a.co/d/9JfoZC0\nMusic by Epidemic Sound (http://www.epidemicsound.com)\nFollow me on Twitter: https://twitter.com/midnightcap\nFollow me on Facebook: https://www.facebook.com/midnightcap\nVideo edited by Andrew Elliott (Stalli111: https://www.youtube.com/user/Stalli111  )\nWritten by Graham Blackaby",
+        "id": 3001904,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7inmj5M2Pyg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 63,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCROQqK3_z79JuTetNP3pIXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7inmj5M2Pyg/hqdefault.jpg",
+        "title": "Is Will Smith's Career Broken?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Powers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T17:07:39.035652+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T11:59:35+00:00",
+        "description": "Maria Reva's virtuosic novel starts out as a straightforward story about a Ukrainian biologist, but morphs into a comic take on war, the mail-order bride business and the plight of snails.",
+        "id": 2999888,
+        "language": "en",
+        "link": "https://www.npr.org/2025/06/23/nx-s1-5440259/endling-review-maria-reva-ukraine",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1876x2848+0+0/resize/1876x2848!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2Fbd%2F717652a44b95b5e2ba1789d092d3%2F9780385545310.jpg",
+        "title": "'Endling' is a shape-shifting debut that takes on heavy themes with humor",
+        "vote": 0
+    }
+]

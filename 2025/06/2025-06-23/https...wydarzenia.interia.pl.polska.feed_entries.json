@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T04:25:26.171611+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T04:23:35+00:00",
+        "description": null,
+        "id": 2994984,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-corka-mariusza-blaszczaka-wchodzi-do-polityki-zostanie-radna,nId,21843094",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C\u00f3rka Mariusza B\u0142aszczaka wchodzi do polityki. Zostanie radn\u0105",
+        "vote": 0
+    }
+]

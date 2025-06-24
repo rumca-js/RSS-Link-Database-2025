@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T22:12:20.096771+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T21:00:35+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/OvtPdJLj83o\" width=\"480\" alt=\"thumbnail\" title=\"Don't Like Systemd, Tough Luck For GNOME Users\" /></p>Systemd technically has dependencies on systemd but they weren't super critical and could be patched out but going forward that may be a little harder to do for the OpenRC distros and for the BSDs<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Adrian Vovk Article: https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord",
+        "id": 3001951,
+        "language": "en",
+        "link": "https://odysee.com/don%27t-like-systemd%2C-tough-luck-for-gnome:c58a846a9de93137724d7f400b0ffe92801aaa05",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/OvtPdJLj83o",
+        "title": "Don't Like Systemd, Tough Luck For GNOME Users",
+        "vote": 0
+    }
+]

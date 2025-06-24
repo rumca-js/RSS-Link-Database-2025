@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T15:49:53.036427+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T13:43:16+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdnkLR\n\nLearn more about AI Model here \u2192 https://ibm.biz/BdnkLX\n\nAre AI models truly \"thinking,\" or just mimicking humans? \ud83e\udd14 Master Inventor Martin Keen explores how Large Language Models (LLMs) stack up against the human brain in learning, reasoning, and memory. Uncover the surprising ways humans and AI differ in processing information and making errors! \ud83d\udca1\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdnkLH\n\n#ai #llm #humanbrain",
+        "id": 2998829,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-ovM0daP6bw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-ovM0daP6bw/hqdefault.jpg",
+        "title": "AI vs Human Thinking: How Large Language Models Really Work",
+        "vote": 0
+    }
+]

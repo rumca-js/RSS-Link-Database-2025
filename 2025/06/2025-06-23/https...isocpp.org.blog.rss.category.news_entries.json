@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T22:03:59.975578+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T20:59:04+00:00",
+        "description": "<p>\n\tData-oriented design is all about reorganizing data for better performance, and Andrew Kelley&rsquo;s talk on the topic&mdash;especially his use of Zig&rsquo;s <code data-end=\"158\" data-start=\"142\">MultiArrayList</code>&mdash;offered a compelling real-world example. Inspired by that, this post explores how we can achieve a similar &ldquo;struct-of-arrays&rdquo; approach in C++26 using reflection to build a <code data-end=\"345\" data-start=\"331\">SoaVector&lt;T&gt;</code> that separates member storage for improved memory locality and performance.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://brevzin.github.io/c++/2025/05/02/soa/\">Implementing a Struct of Arrays</a></h3>\n\t<p>\n\t\tby Barry Revzin</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tRecently, I watched Andrew Kelley&rsquo;s talk on&nbsp;<a href=\"https://www.youtube.com/watch?v=IroPQ150F6c\">Practical Data Oriented Design</a>. It goes into some of the architectural changes he&rsquo;s been making to the Zig compiler",
+        "id": 3001918,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/06/implementing-a-struct-of-arrays-barry-revzin",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Implementing a Struct of Arrays -- Barry Revzin",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Allegro Lokalnie <powiadomienia@allegrolokalnie.pl>",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T18:51:07.769759+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T20:13:14+00:00",
+        "description": "<!DOCTYPE html\r\n  PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"pl\">\r\n\r\n<head>\r\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\r\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n  <meta content=\"telephone=no\" name=\"format-detection\" />\r\n  <title>Allegro Lokalnie</title>\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n  <link rel=\"stylesheet\" href=\"https://assets.allegrostatic.com/mail-assets/fonts.css\" />\r\n  <style>\r\n    .alLink:hover {\r\n      color: #2d709a !important;\r\n    }\r\n  </style>\r\n</head>\r\n\r\n<body bgcolor=\"#f4f8fc\" style=\"background-color: #f4f8fc;\r\n    -webkit-text-size-adjust: 100%;\r\n    -ms-text-size-adjust: 100%;\r\n    font-size: 14px;\r\n    font-weight: normal;\r\n    font-family: 'Open Sans', Helvetica, Arial, sans-serif;\r\n    color: #222222;\r\n    margin: 0;\r\n    padding: 0;\r\n    width: 100%;\">\r\n\r\n  <!-",
+        "id": 3000566,
+        "language": null,
+        "link": "email://imap.poczta.onet.pl/winstonarmanip@op.pl/<notificationstwo.20250623181314.68459e57-9815-4816-aa0a-85666886f8e1@allegro.pl>",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 621,
+        "source_url": "imap.poczta.onet.pl",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dzi\u0119kujemy za wp\u0142at\u0119 za Zestaw modeli bits kit SC",
+        "vote": 0
+    }
+]

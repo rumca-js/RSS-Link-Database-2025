@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T14:25:59.606921+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T13:40:26+00:00",
+        "description": "Al generated content, posted (without review) to accounts being followed by bots, which like and reply with Al generated comments. Welcome to the future.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 2998168,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=q1Sb0HFNOxI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/q1Sb0HFNOxI/hqdefault.jpg",
+        "title": "Dead Internet Theory is Here: \"Woke Right\" Bot Farms & AI Content",
+        "vote": 0
+    }
+]

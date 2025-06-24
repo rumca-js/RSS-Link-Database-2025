@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T06:32:09.963653+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T06:24:00+00:00",
+        "description": "<p>Huawei Cloud has rolled out Pangu Models 5.5 at the Huawei Developer Conference 2025, introducing a new round of updates focused on helping businesses solve real-world problems with AI. The latest version includes upgrades in five key areas: natural language processing (NLP), computer vision (CV), multimodal modelling, prediction, and scientific computing. Zhang Ping&#8217;an, executive director<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/huawei-cloud-rolls-out-pangu-models-5-5-to-cover-more-industries/\" title=\"ReadHuawei Cloud rolls out Pangu Models 5.5 to cover more industries\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/huawei-cloud-rolls-out-pangu-models-5-5-to-cover-more-industries/\">Huawei Cloud rolls out Pangu Models 5.5 to cover more industries</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2995409,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/huawei-cloud-rolls-out-pangu-models-5-5-to-cover-more-industries",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Huawei Cloud rolls out Pangu Models 5.5 to cover more industries",
+        "vote": 0
+    }
+]

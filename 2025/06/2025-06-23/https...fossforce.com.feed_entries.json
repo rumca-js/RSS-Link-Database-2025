@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marco Fioretti",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-23T13:26:01.070844+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-23T12:00:13+00:00",
+        "description": "<p><em>In a world obsessed with quick wins and viral apps, deep tech startups are betting on substance over sizzle. Here\u2019s how they might change the game for good.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/06/beyond-the-buzz-how-deep-tech-startups-are-changing-the-game/\">Beyond the Buzz: How Deep Tech Startups Are Changing the Game</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2997152,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/06/beyond-the-buzz-how-deep-tech-startups-are-changing-the-game",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Beyond the Buzz: How Deep Tech Startups Are Changing the Game",
+        "vote": 0
+    }
+]
