@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-24T13:30:36.568461+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-24T13:12:29+00:00",
+        "description": "Build and Deploy a modern, full-stack Calendly clone with Google Calendar integration\u2014manage timezones, events, and meeting links like a pro using Next.js 15, Typescript, React 19, Tailwind CSS v4, Neon, Drizzle, Clerk and much more. \n\nThis course is brought to you by Noor Fakhry, founder of @Programming-Fluency.\n\nCode: https://github.com/Programming-Fluency/Calendra-Course\nNoor's Discord Community: https://discord.com/invite/AgAKRtbXsp\n\n\u2764\ufe0f Try interactive Full Stack courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Fullstack (Made possible by a grant from our friends at Scrimba)\n\nCourse Sections\n0:00:00 - Intro\n0:03:33 - A First look at Calendra\n0:18:04 - Project Setup\n0:24:28 - Authentication\n0:35:41 - Landing Page\n0:42:33 - Database Setup\n1:01:32 - Navigation Bars\n1:18:43 - Events Page\n1:21:45 - New Events Page\n1:24:07 - Event Form\n1:40:50 - onSubmit & Events Actions\n2:09:47 - Event Card\n2:24:51 - Edit Events Page\n2:32:54 - Favicon\n2:34:26 - Schedule Feature\n",
+        "id": 3006492,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cCuvlQvU1eg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cCuvlQvU1eg/hqdefault.jpg",
+        "title": "Build a Calendly Clone \u2013 Full Stack Next.js, Typescript, React, Tailwind",
+        "vote": 0
+    }
+]

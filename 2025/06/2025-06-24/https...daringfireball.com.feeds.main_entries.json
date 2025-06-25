@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-24T15:20:08.612145+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-24T14:58:04+00:00",
+        "description": "<p>From iyO\u2019s home page:</p>\n\n<blockquote>\n  <p>The iyo one is a revolutionary new kind of computer without a\nscreen. it can run apps just like your smartphone. The key\ndifference is you talk to it through a natural language interface.</p>\n</blockquote>\n\n<p><a href=\"https://daringfireball.net/linked/2025/06/23/io-iyo-aye-aye-aye\">Like I wrote yesterday</a>, I\u2019d never heard of iyO before. But from the description above, you can obviously see how they\u2019d feel like the new OpenAI/LoveFrom io name stomps on their trademark. (One minor curiosity: iyO itself seems unsure how to capitalize the letters in its own name: <a href=\"https://daringfireball.net/misc/2021/06/iyO-IyO-iyo.png\">a single cropped screenshot of their own home page</a> shows \u201ciyO\u201d, \u201cIyO\u201d, and \u201ciyo\u201d.</p>\n\n<p>iyO \u201cgraduated\u201d from X (which is entirely separate from Elon Musk\u2019s X), Google\u2019s \u201cmoonshot factory\u201d, in 2021. <a href=\"https://x.company/projects/iyo/\">The description there</a>:</p>\n\n<blockquote>\n  <p>iyO is on a mission",
+        "id": 3007562,
+        "language": null,
+        "link": "https://www.iyo.audio",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The iyO One",
+        "vote": 0
+    }
+]

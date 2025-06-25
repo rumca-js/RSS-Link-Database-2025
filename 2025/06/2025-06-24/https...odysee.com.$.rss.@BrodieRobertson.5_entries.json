@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-24T22:07:11.019351+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-24T21:00:23+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/UTHIZTMoyIc\" width=\"480\" alt=\"thumbnail\" title=\"Arch Linux Is Adopting A Rust Based Init...\" /></p>If you were quick you may have seen an article from Linux Journal indicating that Arch Linux was adopting a Rust based init system, well this isn't real whatsoever and the article is almost certainly AI generated.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Linux Journal Article: https://web.archive.org/web/20250617194919/https://www.linuxjournal.com/content/arch-linux-breaks-new-ground-official-rust-init-system-support-arrives<br />Reddit Thread: https://www.reddit.com/r/linux/comments/1ledknw/arch_linux_officially_adds_rustbased_init_system/ https://www.reddit.com/r/artixlinux/comme",
+        "id": 3010986,
+        "language": "en",
+        "link": "https://odysee.com/arch-linux-is-adopting-a-rust-based:be2d14270980c0de63ed66d865007d5188080a99",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/UTHIZTMoyIc",
+        "title": "Arch Linux Is Adopting A Rust Based Init...",
+        "vote": 0
+    }
+]

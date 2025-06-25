@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-24T09:22:48.199180+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-24T09:03:00+00:00",
+        "description": "Most of the pitch and the demo is all about how terrific our plans are, and how well our gadget works. But if we hope for resilience, perhaps it makes sense to show off how gracefully the system breaks. Because it will break. Because plans won&#8217;t work out. Because we&#8217;ll be surprised. And then what [&#8230;]",
+        "id": 3005047,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/and-when-it-breaks-2",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "And when it breaks?",
+        "vote": 0
+    }
+]

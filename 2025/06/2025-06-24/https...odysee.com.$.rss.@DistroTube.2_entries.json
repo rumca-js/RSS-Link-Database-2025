@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-24T15:14:55.111391+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-24T13:00:47+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/QlcMsxUNmLs\" width=\"480\" alt=\"thumbnail\" title=\"Modicia OS Is Linux For Multimedia Power Users\" /></p>Modicia OS is a Linux multimedia distribution designed primarily for musicians, graphic designers and video makers. It is based on Debian's \"stable\" branch, but uses the Cinnamon desktop and a recent Linux kernel. Modicia OS comes with a set of carefully-selected, open-source multimedia software and tools.<br /><br />REFERENCED:<br />\u25ba https://www.modiciaos.cloud/<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ec",
+        "id": 3007550,
+        "language": "en",
+        "link": "https://odysee.com/modicia-os-is-linux-for-multimedia-power:1f6886a5869a8aa788c1f84ac40a78d8cfd752e2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/QlcMsxUNmLs",
+        "title": "Modicia OS Is Linux For Multimedia Power Users",
+        "vote": 0
+    }
+]

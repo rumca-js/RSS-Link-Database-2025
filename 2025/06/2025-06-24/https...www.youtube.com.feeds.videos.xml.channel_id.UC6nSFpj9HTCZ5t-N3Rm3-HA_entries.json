@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vsauce",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-24T18:20:29.724392+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-24T17:26:29+00:00",
+        "description": "Thanks, mom \u2764\ufe0f\nThis is a video I shared elsewhere a couple years ago before YouTube shorts could be more than a minute long. Today, they can't be more than 3 minutes, but with a few 'fast forwards' I was able to get it just under the limit and finally share it here!\n\nThe \"13 Trick\" is a self-working mathematical card trick where aces = 1, jacks = 11, queens = 12, and kings = 13.",
+        "id": 3009476,
+        "language": null,
+        "link": "https://www.youtube.com/shorts/d4xzmMuJTWs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 383,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d4xzmMuJTWs/hqdefault.jpg",
+        "title": "The 13 Trick",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-24T16:37:50.950733+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-24T16:00:49+00:00",
+        "description": "Wi\u0119kszo\u015b\u0107 z nas nie czyta news\u00f3w. Przewijamy emocje. Tytu\u0142y maj\u0105 wywo\u0142a\u0107 szok, z\u0142o\u015b\u0107, ekscytacj\u0119. A tre\u015b\u0107? Najcz\u0119\u015bciej jest nieistotna. W tym odcinku zastanawiam si\u0119 nad tym jak media informacyjne przesta\u0142y informowa\u0107, a zacz\u0119\u0142y dzia\u0142a\u0107 jak TikTok.\nJest o dopaminie, kortyzolu i odpowiedzialno\u015bci dziennikarzy; a tak\u017ce o tym czy jest jaka\u015b alternatywa. Moim zdaniem jest. \nTen film mo\u017ce pom\u00f3c, je\u017celi czujesz zm\u0119czenie informacyjne, ale nie potrafisz przesta\u0107 scrollowa\u0107.\nNowe Ekspresso w ka\u017cdy wtorek.\nKawa? https://znosne.pl",
+        "id": 3008384,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WfiPhn8Xzf8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WfiPhn8Xzf8/hqdefault.jpg",
+        "title": "Nie scrollujesz news\u00f3w. Scrollujesz emocje | Zno\u015bne Ekspresso",
+        "vote": 0
+    }
+]
