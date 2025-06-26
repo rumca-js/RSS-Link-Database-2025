@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T14:19:46.608573+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T14:00:03+00:00",
+        "description": "Are you really still using VPN? You need Twingate: https://ntck.co/twingate_telos \n\n\nIf you\u2019ve got AI anxiety about your career, you need to watch this. In this video, I dive into the \u201cTelos File\u201d, a single markdown document that keeps everything about you. Then, we run it through a personal pentest; challenging your goals, values, identity, blindspots, and vulnerabilities. In this video I\u2019ll show you how to use it, and by the end, you\u2019ll know yourself better than you did before. I also sat down with Daniel Miessler, the creator of Telos, to break down the philosophy and power of this idea. One document. Seven minutes. It might just change your life.\n\n\nRESOURCES:\n\n\ud83d\udcdd Telos on GitHub: https://github.com/danielmiessler/Telos\n\n\u270d\ufe0f Telos Template (by Daniel Miessler): https://github.com/theNetworkChuck/telos/blob/main/problems.md\n\ud83e\udd16 Telos Prompt (for AI): https://github.com/theNetworkChuck/telos/blob/main/telos_prompt.md\n\u2757 Problems List (to help build your file): https://github.com/theNetwor",
+        "id": 3016296,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3BXE0e3QZ4U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3BXE0e3QZ4U/hqdefault.jpg",
+        "title": "I Pentested My Life \u2014 Here\u2019s What Broke",
+        "vote": 0
+    }
+]

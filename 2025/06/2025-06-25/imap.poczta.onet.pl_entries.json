@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "No-IP Notices <noreply-33693587@noip.com>",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T18:36:57.250483+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T18:33:50+00:00",
+        "description": "\r\nAt No-IP we take security seriously. A one time account verification PIN has been issued for extra security confirmation. This PIN is only valid for 10 minutes.\r\n\r\n\r\n666361\r\n\r\nIf this wasn&#039;t you, please change your password immediately to secure your account. We recommending enabling Two-Factor Authentication. If you have any questions or need assistance please open a Support Ticket or give us a call at 775.853.1883.\r\n\r\n",
+        "id": 3018697,
+        "language": null,
+        "link": "email://imap.poczta.onet.pl/winstonarmanip@op.pl/<9cd0410de64a8682dd26431fb4fc4c38@swift.generated>",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 621,
+        "source_url": "imap.poczta.onet.pl",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "No-IP Verification Code: 666361",
+        "vote": 0
+    }
+]

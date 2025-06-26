@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rindala Alajaji",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T18:20:02.219698+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T17:21:46+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>California lawmakers are pushing one of the <a href=\"https://www.eff.org/deeplinks/2025/06/statement-california-state-senate-advancing-dangerous-surveillance-bill\" target=\"_blank\" rel=\"noopener noreferrer\">most dangerous privacy rollbacks</a> we\u2019ve seen in years. <a href=\"https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB690\" target=\"_blank\" rel=\"noopener noreferrer\">S.B. 690</a>, what we\u2019re calling the <em>Corporate Cover-Up Act</em>, is a brazen attempt to let corporations spy on us in secret, gutting long-standing protections without a shred of accountability.</span></p>\n<p><em><span>The Corporate Cover-Up Act </span></em><span>is a massive carve-out that would gut <a href=\"https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PEN&amp;part=1.&amp;title=15.&amp;chapter=1.5\">California\u2019s",
+        "id": 3018668,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/06/californias-corporate-cover-act-privacy-nightmare",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "California\u2019s Corporate Cover-Up Act Is a Privacy Nightmare",
+        "vote": 0
+    }
+]

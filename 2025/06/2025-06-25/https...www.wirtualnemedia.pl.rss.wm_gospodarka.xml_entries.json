@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T12:55:01.019418+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T12:55:00+00:00",
+        "description": "Allegro zamierza wyemitowa\u0107 5-letnie obligacje o warto\u015bci do miliarda z\u0142. Papiery b\u0119d\u0105 mie\u0107 zmienne oprocentowanie i b\u0119d\u0105 notowane na warszawskiej gie\u0142dzie.",
+        "id": 3015710,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/allegro-emisja-obligacji-za-1-miliard-zl-ile-wynosi-oprocentowanie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Allegro chce sprzeda\u0107 obligacje za miliard. Jakie odsetki oferuje?",
+        "vote": 0
+    }
+]

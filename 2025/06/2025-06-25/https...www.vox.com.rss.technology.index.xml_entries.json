@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sigal Samuel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T13:07:05.363895+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T08:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/06/GettyImages-1006511978.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Millions of people use ChatGPT for help with daily tasks, but for a subset of users, a chatbot can be more of a hindrance than a help.</p>\n\n<p class=\"has-text-align-none\">Some people with obsessive compulsive disorder (OCD) are finding this out the hard way.&nbsp;</p>\n\n<p class=\"has-text-align-none\">On online forums and in their therapists\u2019 offices, they report <a href=\"https://www.reddit.com/r/OCD/comments/1bhyqhz/chatgpt_has_been_awful_for_my_ocd_please_be/\">turning to ChatGPT</a> with <a href=\"https://www.reddit.com/r/OCD/comments/1k43bpo/ai_as_reassurance_i_cant_stop/\">the questions that obsess them</a>, and then <a href=\"https://wetreatocd.com/blog/artificial-intelligence-ocd",
+        "id": 3015731,
+        "language": null,
+        "link": "https://www.vox.com/future-perfect/417644/ai-chatgpt-ocd-obsessive-compulsive-disorder-chatbots",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/GettyImages-1006511978.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "ChatGPT and OCD are a dangerous combo",
+        "vote": 0
+    }
+]

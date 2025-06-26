@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T21:45:10.677278+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T21:02:59+00:00",
+        "description": "<p>\n\t<img alt=\"me.png\" src=\"https://isocpp.org/files/img/me.png\" style=\"width: 250px; margin: 10px; float: right; height: 250px;\" />In today&#39;s post I share a learning of a customer with you. A while back, a customer asked me to join a debugging session. They had an issue they didn&#39;t (fully) understand.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2025/05/an-optional-to-surprise-you/\">An option(al) to surprise you</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\t<strong>The base</strong></p>\n\t<p>\n\t\tWhat I will show you is a much down-stripped and, of course, altered version. It was about a message system, but that&#39;s not important. Have a look at the code below.</p>\n\t<p>\n\t\t<img alt=\"2025-05-09_14-05-45.png\" src=\"https://isocpp.org/files/img/2025-05-09_14-05-45.png\" style=\"margin: 10px;\" /></p>\n\tYou can see a class enum for a state and a function&nbsp;<code>Worker</code>. The function takes a&nbsp;<code>Sta",
+        "id": 3020139,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/06/an-optional-to-surprise-you-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/me.png",
+        "title": "An option(al) to surprise you -- Andreas Fertig",
+        "vote": 0
+    }
+]

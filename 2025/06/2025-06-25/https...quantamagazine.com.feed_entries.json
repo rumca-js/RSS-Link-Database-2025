@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elise Cutts",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T14:54:57.477468+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T14:34:34+00:00",
+        "description": "A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that\u2019s stable only on one side, confirming a decades-old conjecture.            <p>The post <a href=\"https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/\" target=\"_blank\">A New Pyramid-Like Shape Always Lands the Same Side Up</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3016844,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/06/Tetrafun_cr-Gabor-Domokos-Default.webp",
+        "title": "A New Pyramid-Like Shape Always Lands the Same Side Up",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T02:39:32.371541+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T02:37:50+00:00",
+        "description": "<p>CentOS Web Panel to darmowe rozwi\u0105zanie dost\u0119pne na systemach z rodziny CentOS (lub korzystaj\u0105cych z RPM), sk\u0142adaj\u0105ce si\u0119 w\u0142a\u015bciwie z dw\u00f3ch element\u00f3w. Oferuje interfejs administratorski do zarz\u0105dzania serwerem, konfiguracji us\u0142ug takich jak serwery WWW, poczty e-mail czy DNS. Opr\u00f3cz tego, na innym porcie udost\u0119pniany jest drugi panel dla u\u017cytkownik\u00f3w ko\u0144cowych,...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/zdalne-wykonanie-kodu-bez-uwierzytelnienia-na-centosie-panel-cwp/\">Zdalne wykonanie kodu bez uwierzytelnienia na Centosie &#8211; panel CWP</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3012423,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/zdalne-wykonanie-kodu-bez-uwierzytelnienia-na-centosie-panel-cwp",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zdalne wykonanie kodu bez uwierzytelnienia na Centosie \u2013 panel CWP",
+        "vote": 0
+    }
+]

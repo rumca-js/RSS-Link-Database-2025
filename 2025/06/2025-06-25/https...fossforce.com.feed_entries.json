@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jack Wallen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T12:05:03.535314+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T12:00:38+00:00",
+        "description": "<p><em>This minor point release of KDE Plasma 6.4 packs enough new features to make it worth your attention.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/06/kde-plasma-6-4-opening-the-hood-to-see-whats-new/\">KDE Plasma 6.4: Opening the Hood to See What&#8217;s New</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 3015240,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/06/kde-plasma-6-4-opening-the-hood-to-see-whats-new",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "KDE Plasma 6.4: Opening the Hood to See What\u2019s New",
+        "vote": 0
+    }
+]

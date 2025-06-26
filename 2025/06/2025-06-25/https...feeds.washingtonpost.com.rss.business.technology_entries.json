@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew Jeong",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T08:20:07.321134+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T07:48:46+00:00",
+        "description": "Anthropic didn\u2019t break the law when it trained its chatbot with copyrighted books, a judge said, but it must go to trial for allegedly using pirated books.",
+        "id": 3013985,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/06/25/ai-copyright-anthropic-books",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Federal court says copyrighted books are fair use for AI training",
+        "vote": 0
+    }
+]

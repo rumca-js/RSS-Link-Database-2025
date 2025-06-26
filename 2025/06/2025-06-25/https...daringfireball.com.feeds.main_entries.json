@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T19:30:12.456159+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T19:06:22+00:00",
+        "description": "<p>Some sad news. The San Francisco Chronicle (<a href=\"https://apple.news/AStXd9PofQ7yTRc24ijze8A\">News+ link</a>):</p>\n\n<blockquote>\n  <p>The eight people killed in a sudden storm while boating on Lake\nTahoe over the weekend were a close-knit group of friends and\nfamily members who had gathered for a birthday celebration,\naccording to a spokesperson representing some of the victims.</p>\n\n<p>The boating trip was a part of the 71st birthday celebration for\nPaula Bozinovich, one of the people who perished in the lake, when\ntheir 27-foot powerboat capsized during a sudden, violent storm on\nSaturday. Authorities on Tuesday released the names of those\nkilled when the boat sank near D.L. Bliss State Park, overwhelmed\nby 8-foot waves and wind gusts topping 35 mph.</p>\n</blockquote>\n\n<p>Bozinovich\u2019s husband Terry and son, Josh\u2009\u2014\u2009a DoorDash executive\u2009\u2014\u2009were among the victims. Via email, Brian Croll, who worked in product marketing at Apple for a <em>long</em> time before retiring a few years ",
+        "id": 3019218,
+        "language": null,
+        "link": "https://www.sfchronicle.com/tahoe/article/lake-tahoe-boat-accident-victims-identified-june-20391411.php",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Lake Tahoe Boat Tragedy Claims Longtime Apple Employee Paula Bozinovich",
+        "vote": 0
+    }
+]

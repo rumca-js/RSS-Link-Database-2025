@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T23:10:12.229088+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T22:45:06+00:00",
+        "description": "Buy one on Amazon: https://lon.tv/z0sl5 (compensated affiliate link) - Beelink's ME Mini PC is a compact server powered by an Intel N150 processor. It works as a PC but is better suited as a NAS server. In this video we'll see how it works with Unraid. See more self hosting:  https://www.youtube.com/playlist?list=PLCZHp4d1HnIuPyazY7o7IPC09cxVBWc6C and subscribe ! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:28 - Price\n02:09 - NVME Heat Sink\n02:41 - PCIe Bandwidth\n03:43 - 2.5 gigabit ethernet\n04:12 - CPU & RAM & Specs\n04:50 - Ports\n05:12 - Integrated Power Supply\n05:49 - Included Windows 11 License\n06:48 - Unraid Demo\n09:12 - Idle Power Consumption\n09:52 - NVME Drive Temperatures\n10:58 - CPU Thermal Performance\n11:36 - Plex Transcoding Performance\n13:00 - NAS Throughput Test\n14:16 - Conclusion\n15:34 - Fan Noise\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/di",
+        "id": 3020614,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=qTgbed0rXM8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qTgbed0rXM8/hqdefault.jpg",
+        "title": "Beelink ME Mini NAS / Server Review - Six NVME Slots for Compact Storage",
+        "vote": 0
+    }
+]

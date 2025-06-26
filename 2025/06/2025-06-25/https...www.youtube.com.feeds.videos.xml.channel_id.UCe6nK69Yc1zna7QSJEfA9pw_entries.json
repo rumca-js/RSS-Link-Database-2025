@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T14:55:20.082030+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T12:29:06+00:00",
+        "description": "Dodatkowe materia\u0142y obiecane przez Piotrka:\n- Szkolenie z SDR: https://niebezpiecznik.pl/sdr\n- Aplikacja CyberAlerty: https://niebezpiecznik.pl/alerty\n- Artyku\u0142 o problemach wynikaj\u0105cych z promieniowania kosmosu/S\u0142o\u0144ca: https://niebezpiecznik.pl/tag/promieniowanie-kosmiczne/\n\nZacznij wspiera\u0107 ten kana\u0142, a dostaniesz te bonusy:\nhttps://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw/join",
+        "id": 3016848,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HC-7hcI_JsI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HC-7hcI_JsI/hqdefault.jpg",
+        "title": "KTO HAKUJE I ROZBIJA DRONY POLAKOM NAD MORZEM?",
+        "vote": 0
+    }
+]

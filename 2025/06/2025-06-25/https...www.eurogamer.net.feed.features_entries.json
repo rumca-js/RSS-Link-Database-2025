@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Donlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T12:34:47.610890+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T11:34:11+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/fortnite-gag.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Not to brag but I have a pear tree at the moment that is really something. It must be twenty feet tall, for one thing, and the pears are these fat golden gems that hang from its spongy boughs. The pear, I remember reading in The Observer about fifteen years ago, is a fruit whose time has come. Fifteen years means it's probably come and gone by now, but still: that pear tree of mine. Sometimes it's nice to get off the motorbike I use when gardening, put down my magic trowel and just take it in. I grew that!</p> <p><a href=\"https://www.eurogamer.net/of-course-fortnite-has-a-clone-of-robloxs-grow-a-garden-but-how-many-clickers-can-one-human-realistically-play\">Read more</a></p>",
+        "id": 3015622,
+        "language": "en",
+        "link": "https://www.eurogamer.net/of-course-fortnite-has-a-clone-of-robloxs-grow-a-garden-but-how-many-clickers-can-one-human-realistically-play",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/fortnite-gag.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Of course Fortnite has a clone of Roblox's Grow a Garden, but how many clickers can one human realistically play?",
+        "vote": 0
+    }
+]

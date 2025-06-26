@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T17:26:56.589049+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T16:36:59+00:00",
+        "description": "Big Tech & the major Linux foundations are driving Desktop Linux into the ditch. Plus: No \"Linux Sucks\" this year. That would be like kicking a crippled puppy.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3018066,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tYyyN2x2XRA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tYyyN2x2XRA/hqdefault.jpg",
+        "title": "Linux in 2025: Less Software, Less Features, Less Tested... & Slower",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T07:29:51.112706+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T07:29:50+00:00",
+        "description": "Uniwersytet Warszawski przed Uniwersytetem Jagiello\u0144skim i Politechnik\u0105 Warszawsk\u0105 - tak wygl\u0105da czo\u0142\u00f3wka Rankingu Szk\u00f3\u0142 Wy\u017cszych Perspektywy 2025. Najlepsz\u0105 akademick\u0105 uczelni\u0105 niepubliczn\u0105 okaza\u0142a si\u0119 Akademia Leona Ko\u017ami\u0144skiego, a najlepsz\u0105 uczelni\u0105 zawodow\u0105 - Powi\u015bla\u0144ska Szko\u0142a Wy\u017csza.",
+        "id": 3013674,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/edukacja-i-wychowanie/art42587841-jakie-sa-najlepsze-uczelnie-w-polsce-opublikowano-ranking-perspektywy-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jakie s\u0105 najlepsze uczelnie w Polsce? Opublikowano ranking Perspektywy 2025",
+        "vote": 0
+    }
+]

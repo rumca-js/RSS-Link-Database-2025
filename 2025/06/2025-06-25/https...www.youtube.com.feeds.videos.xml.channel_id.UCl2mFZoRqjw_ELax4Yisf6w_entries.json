@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T22:25:15.045358+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T21:41:12+00:00",
+        "description": "PLEASE HELP ME BUILD OUT THE CONSUMER RIGHTS WIKI: https://consumerrights.wiki\n\nhttps://www.youtube.com/watch?v=UjMJoLjlFWw\n\nhttps://consumerrights.wiki/VitalSource_%22Lifetime%22_false_advertising\n\nhttps://youtu.be/fUwuRtkn2Hk\n\nHOW TO FILE A COMPLAINT: https://oag.ca.gov/contact/consumer-complaint-against-business-or-company\n\nAlternative page to file complaints: https://dca.ca.gov/\n\nlaw: https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202320240AB2426&version=20230AB242693CHP\n\nsample violation: https://consumerrights.wiki/VitalSource_%22Lifetime%22_false_advertising#cite_ref-ab2426_5-0\n\nvitalsource textbook with fake lifetime license: https://www.vitalsource.com/products/calculus-james-stewart-daniel-k-v9798214339221\n\nbs disclosure: https://support.vitalsource.com/hc/en-us/articles/28012656781847-CA-Disclosure-Support-Page\n\nhttps://www.playstation.com/en-us/legal/psvideocontent/\n\nhttps://www.playstation.com/en-us/legal/psn-terms-of-service/",
+        "id": 3020553,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XIoBLdtXWpc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XIoBLdtXWpc/hqdefault.jpg",
+        "title": "California doesn't acknowledge or enforce ownership laws \ud83d\ude41",
+        "vote": 0
+    }
+]

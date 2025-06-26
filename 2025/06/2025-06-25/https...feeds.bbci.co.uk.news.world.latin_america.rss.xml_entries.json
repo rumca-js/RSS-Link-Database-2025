@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T14:06:50.116274+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T12:25:11+00:00",
+        "description": "The migrants were deported to Costa Rica in February after the two countries struck a deal.",
+        "id": 3016246,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cwyrn42kp7no",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d31/live/30d22480-51c9-11f0-aae0-23c694d98d78.jpg",
+        "title": "Costa Rican court orders release of migrants deported from US",
+        "vote": 0
+    }
+]

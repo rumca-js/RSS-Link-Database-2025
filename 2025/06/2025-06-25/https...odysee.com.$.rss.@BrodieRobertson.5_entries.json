@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T21:59:58.817772+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T21:00:04+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/3VRKdMYBQPY\" width=\"480\" alt=\"thumbnail\" title=\"Fedora Linux Just Terrified Linux Gamers\" /></p>6 years Ubuntu tried to drop support for multilib or the 32 bit libraries in 19.10 and that went badly, now Fedora Linux is trying to do the same as it's gaining tracking in the gaming space and Linux gamers are not happy.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Fedora Discussion: https://discussion.fedoraproject.org/t/f44-change-proposal-drop-i686-support-system-wide/156324<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />=======",
+        "id": 3020161,
+        "language": "en",
+        "link": "https://odysee.com/fedora-linux-just-terrified-linux-gamers:5d20b2b13b79e31f97eb5856f0e4f4bce84ed3c7",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/3VRKdMYBQPY",
+        "title": "Fedora Linux Just Terrified Linux Gamers",
+        "vote": 0
+    }
+]

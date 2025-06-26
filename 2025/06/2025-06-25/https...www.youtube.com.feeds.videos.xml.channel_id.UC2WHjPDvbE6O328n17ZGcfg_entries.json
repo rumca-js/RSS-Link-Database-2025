@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T17:05:10.038590+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T16:20:00+00:00",
+        "description": "Check out Warp 2.0, the Agentic Development Environment: https://go.warp.dev/forrestknight and get 2 months free of Warp Pro using my promo code \"FORRESTKNIGHT\" (there are only so many redeems, so do it fast.\n\nso someone in the comments challenged me to build something super simple but treat it like a real production app, thinking about race conditions, security, deployment - the whole nine yards.\ni figured why not try it with warp's new ai coding agents while i'm at it. ended up spending way more time on a 3-button counter than any reasonable person should.\nyou'll learn a lot about atomic operations, optimistic updates, rate limiting, and how to structure code that doesn't fall apart when real users touch it. plus warp's agent multithreading is actually pretty sick - had one agent building security while another wrote test scripts.\nanyway, here's what building with a production mindset actually looks like, even when you're just incrementing a number. i'm not saying this is a producti",
+        "id": 3018020,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Aw3_hOG3BzE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Aw3_hOG3BzE/hqdefault.jpg",
+        "title": "He said I Couldn't Make a Real Production App.. So I Made One!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-25T04:38:29.623357+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-25T04:10:26+00:00",
+        "description": "Diamond Technologies, Inc. has launched a new line of Embedded Computing Modules based on NXP&#8217;s i.MX 8M series processors. These compact, high-performance modules are designed for energy-efficient embedded computing across a wide range of industrial and OEM applications. DTI&#8217;s i.MX 8M-based modules support diverse use cases including edge processing, automation, vision, and general-purpose embedded systems. [&#8230;]",
+        "id": 3012836,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/dti-adds-i-mx-8m-based-computing-modules-to-embedded-portfolio",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DTI Adds i.MX 8M-Based Computing Modules to Embedded Portfolio",
+        "vote": 0
+    }
+]
