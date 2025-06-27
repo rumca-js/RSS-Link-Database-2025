@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/TijnvandenEijnde",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T06:47:44.443050+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T06:13:17+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I recently released a new version of <a href=\"https://play.google.com/store/apps/details?id=com.your_news\">Your News</a>, introducing <a href=\"https://freshrss.org/\">FreshRSS</a> integration amongst other features. </p> <p>You can find a list of all the new features here: <a href=\"https://www.reddit.com/r/YourNewsApp/comments/1lf3zrt/update_your_news_v180_is_here_freshrss/\">Your News v1.8.0</a>.</p> <p>To connect Your News with your FreshRSS instance:</p> <ol> <li>Download <a href=\"https://play.google.com/store/apps/details?id=com.your_news\">Your News</a> (<strong>Android</strong> only, <strong>iOS</strong> coming soon)</li> <li>Go to <strong>Settings</strong></li> <li>Scroll down and select <strong>FreshRSS</strong></li> <li>Enter your credentials</li> <li>Click <strong>Connect</strong></li> </ol> <p>Afterwards, you should be good to go!</p> <p>I would like to note that this is the first iteration of the FreshRSS integration, so it is still missing f",
+        "id": 3022478,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1lksr89/your_news_v180_freshrss_integration",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Your News v.1.8.0 - FreshRSS Integration",
+        "vote": 0
+    }
+]

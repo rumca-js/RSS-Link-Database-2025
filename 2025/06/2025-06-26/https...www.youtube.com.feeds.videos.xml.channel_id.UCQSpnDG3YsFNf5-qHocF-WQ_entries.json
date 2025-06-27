@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T23:52:10.037488+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T23:26:41+00:00",
+        "description": "Microsoft just announced free extended security updates for consumers \ud83d\ude24\n\nIt seems Microsoft realized a ton of people are not going to switch over to Windows 11 as soon as they hoped. So they've given a free option to get the \"Extended Security Updates\" for a year. The only requirement is that when you initially enroll for the updates, you're signed into a Microsoft account with your Windows settings synced. I think this is so that they can associate the enrollment with your account in addition to the computer itself, so you can re-apply it if you reformat or something. Anyway I show you how the tool works to get the updates, which is currently only in early Insider builds, but will be rolling out to everyone in the coming weeks.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:33 - The Extended Security Updates Wizard\n1:49 - The Enrollment Options\n2:33 - After Enrolling\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Deskt",
+        "id": 3029950,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Vc7orrqlrC8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vc7orrqlrC8/hqdefault.jpg",
+        "title": "How to Get FREE Windows 10 Extended Support",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T10:07:12.016264+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T09:51:30+00:00",
+        "description": "<p>Po raz kolejny na naszych \u0142amach go\u015bci watchTowr oraz znakomity Piotr Bazyd\u0142o. Musimy przyzna\u0107, \u017ce w redakcji bardzo cenimy sobie techniczne writeupy okraszone uszczypliwym dowcipem. Tym razem przytaczamy bardzo dobry opis podatno\u015bci w systemie zarz\u0105dzania tre\u015bci\u0105 (ang. content management system &#8211; CMS) Sitecore, kt\u00f3ry wykorzystywany jest g\u0142\u00f3wnie przez du\u017ce firmy...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/podatnosci-w-sitecore-badacze-obnazaja-poziom-bezpieczenstwa-cms-dla-biznesu/\">Podatno\u015bci w Sitecore &#8211; badacze obna\u017caj\u0105 poziom bezpiecze\u0144stwa CMS dla biznesu</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3023478,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/podatnosci-w-sitecore-badacze-obnazaja-poziom-bezpieczenstwa-cms-dla-biznesu",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podatno\u015bci w Sitecore \u2013 badacze obna\u017caj\u0105 poziom bezpiecze\u0144stwa CMS dla biznesu",
+        "vote": 0
+    }
+]

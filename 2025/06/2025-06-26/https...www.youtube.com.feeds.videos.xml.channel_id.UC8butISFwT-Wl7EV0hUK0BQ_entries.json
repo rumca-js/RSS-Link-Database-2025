@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T13:17:03.955780+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T12:58:58+00:00",
+        "description": "This course introduces the latest advancements that have enhanced the accuracy, efficiency, and scalability of Transformers. It is tailored for beginners and follows a step-by-step teaching approach.\n\nIn this course, you\u2019ll explore:\n- Various techniques for encoding positional information  \n- Different types of attention mechanisms  \n- Normalization methods and their optimal placement  \n- Commonly used activation functions  \n- And much more\n\nYou can find the slides, notebook, and scripts in this GitHub repository:  \nhttps://github.com/ImadSaddik/Train_Your_Language_Model_Course\n\nWatch the previous course on LLMs mentioned in the introduction:\nhttps://www.youtube.com/watch?v=9Ge0sMm65jo\n\nTo connect with Imad Saddik, check out his social accounts:  \nYouTube: @3CodeCampers \nLinkedIn: /imadsaddik    \nDiscord: imad_saddik\n\n\u2b50\ufe0f Course Contents \u2b50\ufe0f\n(0:00:00) Course Overview  \n(0:03:24) Introduction\n(0:05:13) Positional Encoding  \n(1:02:23) Attention Mechanisms  \n(2:18:04) Small Refinements  \n(",
+        "id": 3024815,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8WBS0dT0h2I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8WBS0dT0h2I/hqdefault.jpg",
+        "title": "Evolution of the Transformer Architecture Used in LLMs (2017\u20132025) \u2013 Full Course",
+        "vote": 0
+    }
+]

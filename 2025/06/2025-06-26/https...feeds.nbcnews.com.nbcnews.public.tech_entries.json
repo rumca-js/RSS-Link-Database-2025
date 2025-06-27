@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T15:38:41.953241+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T15:01:51+00:00",
+        "description": "Sister Monica Clare, who shares her life at the convent on TikTok, sits down with TODAY\u2019s Jenna Bush Hager and guest co-host Maria Shriver to talk about her memoir \u201cA Change of Habit\u201d and opens up about how life in Hollywood as an actor and comedian left her unfulfilled so she gave it all up to become a nun \u2014 and a social media star. Then, she gets a surprise from her former Groundlings Theater cast member, Sheri Oteri!",
+        "id": 3026345,
+        "language": "en-US",
+        "link": "https://www.today.com/video/sister-monica-clares-talks-leaving-hollywood-to-become-a-nun-242302021720",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media13.s-nbcnews.com/i/mpx/2704722219/2025_06/1750950092529_tdy_pop_10a_nun_250626_1920x1080-88uay8.jpg",
+        "title": "Sister Monica Clares Talks Leaving Hollywood to Become a Nun",
+        "vote": 0
+    }
+]

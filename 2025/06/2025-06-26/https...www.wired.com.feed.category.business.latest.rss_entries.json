@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lauren Goode, Michael Calore, Katie Drummond, Kate Knibbs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T18:26:47.392682+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T17:46:30+00:00",
+        "description": "On this episode of Uncanny Valley, we explore Disney and Universal's lawsuit against Midjourney, which could be consequential for the future of how intellectual property is treated in the AI era.",
+        "id": 3027697,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-disney-just-threw-a-punch-in-a-major-ai-fight",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/685afc6fb8cf36df4bc90875/master/pass/Uncanny-Valley-Midjourney-AI-Publishers-Business2162713343.jpg",
+        "title": "Disney Just Threw a Punch in a Major AI Fight",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Janna Levin and Steven Strogatz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T13:39:56.437604+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T13:34:35+00:00",
+        "description": "Maria Chudnovsky reflects on her journey in graph theory, her groundbreaking solution to the long-standing perfect graph problem, and the unexpected ways this abstract field intersects with everyday life.            <p>The post <a href=\"https://www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626/\" target=\"_blank\">How Does Graph Theory Shape Our World?</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3025244,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/06/JOW-S4-Ep8-MARIA-CHUDNOVSKY-Default.webp",
+        "title": "How Does Graph Theory Shape Our World?",
+        "vote": 0
+    }
+]

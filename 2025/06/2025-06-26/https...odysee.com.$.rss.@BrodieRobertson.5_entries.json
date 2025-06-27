@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T21:50:25.640796+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T21:00:07+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/7AcG44TC2-A\" width=\"480\" alt=\"thumbnail\" title=\"Hyprland Premium Is Not What It Seems\" /></p>Recently people noticed a subdomain of the Hyprland website that takes you to something called Hyprland Premium, you see Premium and you see a FOSS project and I get where you mind goes but that's not what's happening here at all.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Hyprland Premium: https://account.hypr.land/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson",
+        "id": 3029159,
+        "language": "en",
+        "link": "https://odysee.com/hyprland-premium-is-not-what-it-seems:e2c0bd435a5b54f1b4b400aa43f594d82a10db8c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/7AcG44TC2-A",
+        "title": "Hyprland Premium Is Not What It Seems",
+        "vote": 0
+    }
+]

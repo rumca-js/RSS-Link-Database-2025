@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T15:20:14.126377+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T12:40:33+00:00",
+        "description": "Grab the GN Original Modmat in limited reprint now! https://store.gamersnexus.net/products/modmat or our Copper-Plated Mule Mugs: https://store.gamersnexus.net/products/gn-copper-plated-stainless-steel-mule-mug-thermal-conductivity-of-copper\nNVIDIA announced its new RTX 5050, which we think furthers NVIDIA's manipulation of the consumer with exploitative and anti-consumer practices, including what we think is its deceptive marketing. NVIDIA's so-called \"RTX\" \"5050\" increases the price floor beyond accounting for inflation and fails to add value while inheriting all of the problems of the RTX 50 series. In this video, we transition from talking about the specs and announcement marketing around the 5050 to general discussions and opinions of NVIDIA's media control tactics and the future.\n\nGN15 Modmat version: https://store.gamersnexus.net/products/large-modmat-gn15-anniversary\n\nWatch our report on NVIDIA's manipulative tactics: https://www.youtube.com/watch?v=AiekGcwaIho\nWatch the Great",
+        "id": 3025993,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=caU0RG0mNHg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/caU0RG0mNHg/hqdefault.jpg",
+        "title": "NVIDIA's Exploitation | Waste of Sand RTX \"5050\" for $250",
+        "vote": 0
+    }
+]

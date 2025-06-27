@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-26T19:30:09.410028+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-26T18:30:00+00:00",
+        "description": "The Andromeda galaxy, also known as Messier 31 (M31), is the closest spiral galaxy to the Milky Way at a distance of about 2.5 million light-years. This new composite image contains data of M31 taken by some of the world\u2019s most powerful telescopes in different kinds of light. This image is released in tribute to the groundbreaking legacy of Dr. Vera Rubin, whose observations transformed our understanding of the universe.",
+        "id": 3028260,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/54614323748-5967d5c0c5-o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sparkling Andromeda",
+        "vote": 0
+    }
+]
