@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jacob Dressler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T19:15:09.965554+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T18:34:01+00:00",
+        "description": "<p>Netflix is home to a wide variety of films and shows that subscribers have been enjoying for many years now. Of course, like any other streaming service, the availability of different titles depends on licensing and other issues that create temporary windows to watch said titles. Now Netflix has managed to bring back one canceled [...]</p>\n<p>The post <a href=\"https://www.screengeek.net/2025/06/27/netflix-brings-back-canceled-series/\">Netflix Brings Back Canceled Series After 5 Years</a> appeared first on <a href=\"https://www.screengeek.net\">ScreenGeek</a>.</p>",
+        "id": 3037067,
+        "language": "en-US",
+        "link": "https://www.screengeek.net/2025/06/27/netflix-brings-back-canceled-series",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 297,
+        "source_url": "https://www.screengeek.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Netflix Brings Back Canceled Series After 5 Years",
+        "vote": 0
+    }
+]

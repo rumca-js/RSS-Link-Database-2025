@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Molly Herring",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T14:37:10.148149+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T14:29:45+00:00",
+        "description": "Scientists reconstructed 500 million years of evolutionary history to reveal which came first: colorful signals or the color vision needed to see them.             <p>The post <a href=\"https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627/\" target=\"_blank\">When Did Nature Burst Into Vivid Color?</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3034738,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/when-did-nature-burst-into-vivid-color-20250627",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/06/ColorEvolution-crUnderwaterpics_iStock-Default.webp",
+        "title": "When Did Nature Burst Into Vivid Color?",
+        "vote": 0
+    }
+]

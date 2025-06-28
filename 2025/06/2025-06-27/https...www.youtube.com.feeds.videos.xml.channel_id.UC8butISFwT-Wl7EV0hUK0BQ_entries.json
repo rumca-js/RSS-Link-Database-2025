@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T13:07:33.201868+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T12:01:56+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Tai Groot. He's a back end software engineer and maintains an open source project used by companies like Google.\n\nFor the first half of the interview we talk about back end programming languages. Then he shares tips for running learning back end development and running your own developer consultancy.\n\nWe talk about:\n- The Performance VS Developer Experience trade-offs of Rust, Go, and TypeScript\n- How to run a free open source project profitably\n- How to mentor junior devs and ramp them up to work at your consultancy\n- Why he recommends devs learn Arch Linux\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 11,384 kind folks who support freeCodeCamp through a monthly donation. Y",
+        "id": 3033694,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yDhCweudqyY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yDhCweudqyY/hqdefault.jpg",
+        "title": "Rust VS Go VS TypeScript which back end language is for you with Tai Groot [Podcast #176]",
+        "vote": 0
+    }
+]

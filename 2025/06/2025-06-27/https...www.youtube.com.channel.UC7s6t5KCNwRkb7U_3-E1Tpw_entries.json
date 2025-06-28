@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T19:37:23.481721+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T19:18:34+00:00",
+        "description": "I've been making Gameranx's 'Before You Buy' videos for 10 years now. Here's how it all started, what I've learned, and how it has grown beyond just me.\n\nfollow me on Instagram: https://bit.ly/3uUh9Ot\nfollow me on X: https://x.com/JakeBaldino\n\ncheck out my new Friends Per Second Podcast: https://linktr.ee/friendspersecond",
+        "id": 3037104,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7GdAquLfQhw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7GdAquLfQhw/hqdefault.jpg",
+        "title": "10 years of Before you Buy",
+        "vote": 0
+    }
+]

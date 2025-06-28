@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T14:05:37.847404+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T13:02:01+00:00",
+        "description": "On this edition of HEY DT:\n\n0:00 Intro\n0:21 I'm really enjoying your new Video Man Pages series...how many commands in total do you plan to cover?\n1:36 You recommended that people start a YouTube channel, but isn't A.I. going to outcompete human-generated content?\n4:23 Have you heard about a book called \u201cThe courage to be disliked\u201d? You might find it relatable.\n7:28 Is DTOS stable enough to install on physical hardware yet? \n8:48 You clickbaited me with that thumbnail. Putting Safari in \"great\" tier and \"Brave in \"meh\" had me triggered.\n10:12 While I don't enjoy doomscrolling, I do believe in social responsibility. Ignorance is what got us here.\n12:40 I know you mainly use Linux, but have you ever messed with FreeDOS?\n14:31 Is Emacs a text editor or an operating system?\n18:01 Thanks to Patrons\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJW",
+        "id": 3034229,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tRZPhK5XCTw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tRZPhK5XCTw/hqdefault.jpg",
+        "title": "Hey, DT! Will A.I. Kill Human Content Creation?",
+        "vote": 0
+    }
+]

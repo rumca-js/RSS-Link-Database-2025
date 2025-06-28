@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciFun",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T16:06:49.045978+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T15:01:04+00:00",
+        "description": "Po 10 miesi\u0105cach produkcji oddaj\u0119 Wam finaln\u0105 cz\u0119\u015b\u0107 cyklu o Titanie. Zajrzyjcie na m\u00f3j Patronite:\nhttps://patronite.pl/SciFun\n\nGdzie po wi\u0119cej:\nNajwa\u017cniejszym miejscem, do kt\u00f3rego powinni\u015bcie zajrze\u0107, je\u017celi chcieliby\u015bcie zanurzy\u0107 si\u0119 w to jeszcze g\u0142\u0119biej, s\u0105 wszystkie materia\u0142y opublikowane podczas \u015bledztwa stra\u017cy przybrze\u017cnej. Ca\u0142\u0105 ich list\u0119 znajdziecie tutaj:\nhttps://www.news.uscg.mil/News-by-Region/Headquarters/Titan-Submersible/\nPozosta\u0142ych \u017ar\u00f3de\u0142 by\u0142a tak ogromna ilo\u015b\u0107, \u017ce przytocz\u0119 tutaj jedynie wybrane.\nWarto zerkn\u0105\u0107 na istniej\u0105ce filmy dokumentalne, wyprodukowane przez du\u017ce telewizje, nie oferuj\u0105 du\u017cej szczeg\u00f3\u0142owo\u015bci, ale ich si\u0142\u0105 s\u0105 relacje i wywiady. Bardzo warto\u015bciowe ze wzgl\u0119du na zdj\u0119cia, s\u0105 materia\u0142y Alana Estrady. Dobre artyku\u0142y (jak na moment ich publikacji) napisa\u0142y Wired, Vanity Fair, NYMag czy Smithsonian:\nhttps://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/\nhttps://www.vanityfair.com/news/2023/08/titan-submersible-implosion-warnings",
+        "id": 3035426,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tUeIpeesU8Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 293,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWTA5Yd0rAkQt5-9etIFoBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tUeIpeesU8Q/hqdefault.jpg",
+        "title": "Titan - G\u0142\u0119boka Analiza (cz.3) Fina\u0142",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T21:25:09.493258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T21:08:51+00:00",
+        "description": "<p>\n\tIn recent weeks, we&rsquo;ve explored&nbsp;<a href=\"https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes\">language features</a>&nbsp;and&nbsp;<a href=\"https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes\">library features</a>&nbsp;becoming&nbsp;<code>constexpr</code>&nbsp;in C++26. Those articles weren&rsquo;t exhaustive &mdash; I deliberately left out one major topic: exceptions.</p>\n<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />Starting with C++26, it will become possible to throw exceptions during constant evaluation. This capability is enabled through both language and library changes. Given the significance of this feature, it deserves its own dedicated post.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/05/07/cpp26-constexpr-exceptions\">C++26: constexpr Exceptions</a></h3>\n\t<p>\n\t\tby San",
+        "id": 3037892,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/06/cpp26-constexpr-exceptions-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "C++26: constexpr Exceptions -- Sandor Dargo",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T15:00:04.029221+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T14:01:44+00:00",
+        "description": "Kirsten Green, founder of Forerunner Ventures, has backed some of the most iconic consumer brands of the past two decades \u2014 from Warby Parker to Chime to Dollar Shave Club. In this conversation, she shares how great products (not marketing tricks) still win, why AI is unlocking a new kind of emotional relationship between consumers and technology, and what founders can learn from the messy creative stage we're in right now. She also breaks down how shifts in distribution, wellness, and digital behavior are reshaping what it means to build for real human needs.\n\nChapters\n00:00 Intro\n01:05 What will the consumer AI wave look like? \n04:54 The ability to have memory\n07:35 Data personalization \n08:58 Voice as an unlock\n11:07 The messy creative stage of consumer AI\n12:07 How to nail distribution\n14:58 Don\u2019t just do things for the sake of marketing\n16:09 Why the Dollar Shave Club ad worked so well \n17:39 What convinced Kirsten to invest in Dollar Shave Club\n20:16 What large companies are rea",
+        "id": 3034763,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xFQ5mIJdxhA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xFQ5mIJdxhA/hqdefault.jpg",
+        "title": "Legendary Consumer VC Predicts The Future Of AI Products",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T04:32:15.794041+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T04:28:04+00:00",
+        "description": "<img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-2871588-slub-bezosa-ph8530615/alternates/LANDSCAPE_1280\" alt=\"Bezos si\u0119 \u017ceni. Ruszy\u0142a trzydniowa impreza gwiazd w Wenecji \" />\n    Za\u0142o\u017cyciel Amazona Jeff Bezos i dziennikarka Lauren Sanchez bior\u0105 \u015blub w Wenecji. W czwartek w mie\u015bcie rozpocz\u0119\u0142y si\u0119 huczne, trzydniowe uroczysto\u015bci. Nad Canal Grande przyby\u0142a \u015bmietanka celebryckiego \u015bwiata. W mie\u015bcie trwaj\u0105 protesty, ale nie wszyscy \"lokalsi\" s\u0105 przeciwni wydarzeniu.",
+        "id": 3030988,
+        "language": "pl-PL",
+        "link": "https://tvn24.pl/swiat/jeff-bezos-sie-zeni-w-wenecji-rozpoczely-sie-huczne-uroczystosci-st8530621?source=rss",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 319,
+        "source_url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://tvn24.pl/najnowsze/cdn-zdjecie-2871588-slub-bezosa-ph8530615/alternates/LANDSCAPE_1280",
+        "title": "Bezos si\u0119 \u017ceni. Ruszy\u0142a trzydniowa impreza gwiazd w Wenecji",
+        "vote": 0
+    }
+]

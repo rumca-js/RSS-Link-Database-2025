@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T14:44:58.929572+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T13:02:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/tRZPhK5XCTw\" width=\"480\" alt=\"thumbnail\" title=\"Hey, DT! Will A.I. Kill Human Content Creation?\" /></p>On this edition of HEY DT:<br /><br />0:00 Intro<br />0:21 I'm really enjoying your new Video Man Pages series...how many commands in total do you plan to cover?<br />1:36 You recommended that people start a YouTube channel, but isn't A.I. going to outcompete human-generated content?<br />4:23 Have you heard about a book called \u201cThe courage to be disliked\u201d? You might find it relatable.<br />7:28 Is DTOS stable enough to install on physical hardware yet? <br />8:48 You clickbaited me with that thumbnail. Putting Safari in \"great\" tier and \"Brave in \"meh\" had me triggered.<br />10:12 While I don't enjoy doomscrolling, I do believe in social responsibility. Ignorance is what got us here.<br />12:40 I know you mainly use Linux, but have you ever messed with FreeDOS?<br />14:31 Is Emacs a text editor or an operating system?<br />18:01 Thanks to Pat",
+        "id": 3034746,
+        "language": "en",
+        "link": "https://odysee.com/hey%2C-dt!-will-a.i.-kill-human-content:b3680de4476f4f3a9f4054641e0fba5ff8bb447b",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/tRZPhK5XCTw",
+        "title": "Hey, DT! Will A.I. Kill Human Content Creation?",
+        "vote": 0
+    }
+]

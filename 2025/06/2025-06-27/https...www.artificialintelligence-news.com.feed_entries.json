@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T17:02:41.542224+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T16:54:16+00:00",
+        "description": "<p>Anthropic tasked its Claude AI model with running a small business to test its real-world economic capabilities. The AI agent, nicknamed &#8216;Claudius&#8217;, was designed to manage a business for an extended period, handling everything from inventory and pricing to customer relations in a bid to generate a profit. While the experiment proved unprofitable, it offered [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/anthropic-tests-ai-running-a-real-business-with-bizarre-results/\">Anthropic tests AI running a real business with bizarre results</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3035943,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/anthropic-tests-ai-running-a-real-business-with-bizarre-results",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "Anthropic tests AI running a real business with bizarre results",
+        "vote": 0
+    }
+]

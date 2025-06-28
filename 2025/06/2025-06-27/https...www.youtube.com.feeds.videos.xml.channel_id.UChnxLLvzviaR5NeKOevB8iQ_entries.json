@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T16:22:20.300243+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T15:37:53+00:00",
+        "description": "Crum Drum: https://nystrominstruments.com/product/crumdrum/\nSim'n Tonic Midronome: https://simntonic.com/pages/about-nome-ii\n\nSupport the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nBandcamp: http://bit.ly/2Kq617o\nSpotify: https://spoti.fi/2N40SoX\nYouTube Music: https://bit.ly/3PZQ4ol\niTunes: https://apple.co/2pqh3SK\nAmazon Music: https://amzn.to/2O9q1fe\n\nConnect:\nBluesky: https://bit.ly/3ZGYhom\nWebsite: http://bit.ly/rmrmedia",
+        "id": 3035485,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VFosrfhlPok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VFosrfhlPok/hqdefault.jpg",
+        "title": "Crum Drum",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T15:16:54.312542+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T15:00:27+00:00",
+        "description": "Thanks to Geologie for sponsoring this video! Head to https://geolog.ie/Utm4EIp for 70% off your skincare trial set with code SCISHOW70. You can also pick up Geologie at Amazon or Target.\n\nWe've all heard of the Rosetta Stone, either the language-learning software or the stone itself. But how much do you really know about it? Let's get into the full history of this icon of ancient Egypt, what we learned from studying it, and why it's a controversial object even today.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mckishen, Kaitly",
+        "id": 3034817,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9u_ClqtLxjg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9u_ClqtLxjg/hqdefault.jpg",
+        "title": "What You Don't Know About The Rosetta Stone",
+        "vote": 0
+    }
+]

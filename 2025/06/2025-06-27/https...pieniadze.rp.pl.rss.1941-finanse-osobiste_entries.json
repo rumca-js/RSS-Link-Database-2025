@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T10:54:53.633191+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T10:54:53+00:00",
+        "description": "Lokata bankowa to jeden z najpopularniejszych produkt\u00f3w oszcz\u0119dno\u015bciowych proponowanych przez banki. Polega ona na zdeponowaniu okre\u015blonej kwoty pieni\u0119dzy na wybrany okres czasu w zamian za odsetki. W skr\u00f3cie: lokata pozwala na bezpieczne pomna\u017canie oszcz\u0119dno\u015bci, jednak jej mechanizm dzia\u0142ania, rodzaje i korzy\u015bci, kt\u00f3re mo\u017cna z niej czerpa\u0107, mog\u0105 by\u0107 trudne do zrozumienia dla pocz\u0105tkuj\u0105cych. Warto wi\u0119c dowiedzie\u0107 si\u0119, czym jest lokata i jak dzia\u0142a, aby m\u00f3c podj\u0105\u0107 \u015bwiadom\u0105 decyzj\u0119 o jej za\u0142o\u017ceniu.",
+        "id": 3032787,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/finanse-osobiste/art42607611-co-to-jest-lokata-i-jak-dziala-poradnik-dla-poczatkujacych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Co to jest lokata i jak dzia\u0142a? Poradnik dla pocz\u0105tkuj\u0105cych",
+        "vote": 0
+    }
+]

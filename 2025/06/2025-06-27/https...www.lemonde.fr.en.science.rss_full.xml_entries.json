@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T16:20:28.227880+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T16:20:27+00:00",
+        "description": "Eight American researchers have arrived at the University of Aix-Marseille following the March launch of its 'Safe Place for Science' initiative, the first among 20 set to relocate there in the coming months.",
+        "id": 3035484,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/france/article/2025/06/27/french-university-welcomes-first-us-researchers_6742785_7.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/06/26/291/0/5463/2731/644/322/60/0/d3cb566_ftp-import-images-1-mifthwaxkmmp-5258685-01-06.jpg",
+        "title": "French university welcomes first US researchers",
+        "vote": 0
+    }
+]

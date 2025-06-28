@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tony Mastrangeli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T14:09:47.669269+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T13:23:36+00:00",
+        "description": "<img width=\"640\" height=\"286\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak-1024x457.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Hot Streak\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak-1024x457.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak-300x134.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak-150x67.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak-768x343.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak-640x286.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak-1280x572.jpg 1280w, https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak.jpg 1500w\" sizes=\"(max-width: 640px) 100vw, 640px\" />As a season ticket holder to my belo",
+        "id": 3034266,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/hot-streak-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/06/Hot-Streak-1024x457.jpg",
+        "title": "Hot Streak Review",
+        "vote": 0
+    }
+]

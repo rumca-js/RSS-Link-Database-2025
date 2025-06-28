@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T10:34:51.888157+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T10:01:07+00:00",
+        "description": "Subscribe for AI updates \u2192 https://ibm.biz/Bdnkrx\n\nIn episode 61 of Mixture of Experts, host Tim Hwang is joined by Kaoutar El Maghraoui, Gabe Goodhart and, joining us for the first time, Ann Funai. First up, a new paper from MIT: \u201cYour brain on ChatGPT\u201d. Are we using AI and LLMs to augment our intelligence, or are we becoming optimally lazy? Next, our experts explore the surprising evolution of autonomous vehicles: they are driving more aggressively, and the results might actually be... safer? Finally, a conversation about AI-generated ads, AI-video generation and the risks that come with them. All that and more on today\u2019s episode of Mixture of Experts. \n\n00:00 \u2013 Intro\n01:11 \u2013 Your brain on ChatGPT\n13:38 \u2013 Safer autonomous vehicles?\n24:39 \u2013 AI-generated ads\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity.\n\nVisit Mixture of Experts podcast page to get more AI content \u2192 http",
+        "id": 3032709,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=brrJRoqjVY4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/brrJRoqjVY4/hqdefault.jpg",
+        "title": "Your brain on ChatGPT, human-like AI for safer AVs, and AI-generated ads",
+        "vote": 0
+    }
+]

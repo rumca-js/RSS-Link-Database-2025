@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T03:17:52.902953+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T02:12:46+00:00",
+        "description": "FriendlyElec has released the NanoPi R3S LTS, an updated version of its compact single-board network platform based on the Rockchip RK3566. This revision introduces key hardware changes, including HDMI 2.0 video output, a repositioned USB 3.0 Type-A port, and a more refined peripheral layout, while retaining dual gigabit Ethernet and broad software support. The board [&#8230;]",
+        "id": 3030693,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/25-nanopi-r3s-lts-router-board-adds-hdmi-and-speaker-support-in-updated-design",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "$25 NanoPi R3S LTS Router Board Adds HDMI and Speaker Support in Updated Design",
+        "vote": 0
+    }
+]

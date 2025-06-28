@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julie Nolke",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T15:04:54.632872+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T14:10:03+00:00",
+        "description": "We made an extra video this week with the hopes of explaining the complicated situation out east. It's not a topic that everyone's going to enjoy but hopefully it will help clear up some of the misinformation.\n\nCome to my live sketch show! https://www.julienolke.ca/shows\nMontreal - Aug 28\nOttawa - Aug 29\nHamilton - Sep 5\n\n\nP.S. Sign up to my Patreon for behind the scenes bloopers and early access to videos here: https://www.patreon.com/julienolke\n\nActors: Julie Nolke \nWriter: Julie Nolke \nCamera: Sam Larson\nEditor: Julie Nolke",
+        "id": 3034787,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HxokVDZnXIo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 170,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HxokVDZnXIo/hqdefault.jpg",
+        "title": "White girl explains Israel-Iran Conflict",
+        "vote": 0
+    }
+]

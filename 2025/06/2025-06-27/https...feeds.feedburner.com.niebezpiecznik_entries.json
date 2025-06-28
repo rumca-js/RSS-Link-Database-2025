@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-27T09:27:13.495976+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-27T08:12:55+00:00",
+        "description": "<p>Po raz kolejny polski s\u0105d orzek\u0142, \u017ce ofiara oszustwa internetowego powinna otrzyma\u0107 zwrot pieni\u0119dzy od banku. Ostatnia z tego typu spraw jest efektem interwencji Rzecznika Finansowego i obroni\u0142a si\u0119 w dw\u00f3ch instancjach.</p>\n<p><span id=\"more-26490\"></span></p>\n<p>Ten temat wa\u0142kujemy w Niebezpieczniku od sze\u015bciu lat! Je\u015bli klient banku straci pieni\u0105dze w wyniku phishingu albo np. kradzie\u017cy &#8220;na zdalny pulpit&#8221; to <a href=\"https://niebezpiecznik.pl/post/ukradli-mi-pieniadze-z-konta-i-co-dalej-prawo-swoje-a-banki-swoje/\">bank musi te pieni\u0105dze odda\u0107 i powinien to zrobi\u0107 w ci\u0105gu jednego dnia roboczego</a>. Podstaw\u0105 prawn\u0105 jest <strong>art. 46 Ustawy o us\u0142ugach p\u0142atniczych</strong>. Idea stoj\u0105ca za takim przepisem jest bardzo konkretna &#8211; banki maj\u0105 tak projektowa\u0107 swoje systemy, aby do oszustw nie dochodzi\u0142o (czyli np. system antyfraudowy nie powinien by\u0107 traktowany jako zb\u0119dny luksus).</p>\n<p>Prawo jest takie od lat, ale wci\u0105\u017c spotykamy ludzi, dla kt\u00f3rych jest to do\u015b\u0107 n",
+        "id": 3032301,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/bank-musi-oddac-19-tys-zl-seniorce-okradzionej-na-orlen",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2021/08/orlen-fake-150x150.jpg",
+        "title": "Bank musi odda\u0107 19 tys. z\u0142 seniorce okradzionej &#8220;na Orlen&#8221;",
+        "vote": 0
+    }
+]
