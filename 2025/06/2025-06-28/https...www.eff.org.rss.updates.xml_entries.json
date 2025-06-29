@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sarah Hamid",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T01:35:06.931267+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T00:36:58+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>Two recent statements from the surveillance company\u2014one </span><a href=\"https://www.flocksafety.com/articles/flock-safetys-response-to-illinois-lpr-data-use-and-out-of-state-sharing-concerns\"><span>addressing Illinois privacy violations</span></a><span> and another </span><a href=\"https://www.flocksafety.com/articles/statement-network-sharing-use-cases-federal-cooperation\"><span>defending the company's national surveillance network</span></a><span>\u2014reveal a troubling pattern: when confronted by evidence of widespread abuse, Flock Safety has blamed users, downplayed harms, and doubled down on the very systems that enabled the violations in the first place.</span></p>\n<p><span>Flock's aggressive public relations campaign to salvage its reputation comes as no surprise. Last month, we </span><a href=\"https://www.eff.org/deeplinks/2025/05/sh",
+        "id": 3039145,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/06/flock-safetys-feature-updates-cannot-make-automated-license-plate-readers-safe",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2025/06/27/flock_safety_at_iacp_2023.jpg",
+        "title": "Flock Safety\u2019s Feature Updates Cannot Make Automated License Plate Readers Safe",
+        "vote": 0
+    }
+]

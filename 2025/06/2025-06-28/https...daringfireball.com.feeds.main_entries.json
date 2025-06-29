@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T00:35:08.541767+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T00:25:24+00:00",
+        "description": "<p>Joe Rossignol:</p>\n\n<blockquote>\n  <p>The company has promoted its Brad Pitt racing film with\nadvertisements across at least six iPhone apps leading up to\ntoday\u2019s wide release, including the App Store, Apple Wallet,\nApple Sports, Apple Podcasts, iTunes Store, and of course the\nApple TV app.</p>\n</blockquote>\n\n<p>Most of those apps have ads in them all the time. It\u2019s certainly fine for Apple to use those ad spots to promote their own movie. Even with Apple Sports, which most of the time has no ads at all, I think it\u2019s fine for Apple to occasionally drop a promotion in there for something of their own. And <em>F1 The Movie</em> is a sports movie. The Apple Wallet push notification isn\u2019t just a little different, <a href=\"https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad\">it\u2019s a lot different</a>.</p>\n\n<p>I will also note one other sort-of promotion. I play the mini crossword every morning in Apple News. <a href=\"https://daringfireball.net/misc/2025",
+        "id": 3038911,
+        "language": null,
+        "link": "https://www.macrumors.com/2025/06/27/f1-the-movie-now-playing-in-theaters",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple\u2019s Other \u2018F1 The Movie\u2019 In-App Promotions",
+        "vote": 0
+    }
+]

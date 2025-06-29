@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Burt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T17:05:49.604534+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T16:05:47+00:00",
+        "description": "<img width=\"2048\" height=\"1152\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/04151208/digital-id-verification-scaled.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/04151208/digital-id-verification-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/04151208/digital-id-verification-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/04151208/digital-id-verification-1024x576.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/04151208/digital-id-verification-150x84.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/04151208/digital-id-verification-768x432.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/04151208/digital-id-verification-1536x864.jpg 1536w\" sizes=\"(max-width: 2048px) 100vw",
+        "id": 3042909,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202506/biometrics-unifying-factor-amid-big-changes-in-ids",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/04151208/digital-id-verification-scaled.jpg",
+        "title": "Biometrics unifying factor amid big changes in IDs",
+        "vote": 0
+    }
+]

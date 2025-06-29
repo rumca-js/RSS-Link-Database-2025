@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T17:15:21.973440+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T16:09:09+00:00",
+        "description": "\ud83d\ude80 Get clerk now https://go.clerk.com/YXDCdS6\n\nBuild a full stack web app in pure Python to help users discover podcast episodes. We'll build this step-by-step. Check the chapters to skip around if you want.\n\n\u29bf Code: https://github.com/codingforentrepreneurs/podcast-platform-reflex-clerk\n\u29bf Get Clerk Now: https://go.clerk.com/YXDCdS6\n\nChapters:\n00:00:00 Welcome\n00:01:53 Demo\n00:06:43 Python Virtual Environment Setup for Reflex\n00:09:24 Start Blank Project with reflex init\n00:13:29 Responding to User Events\n00:20:40 New Page and URL Route\n00:23:18 Nested Contact Page Module\n00:26:51 Reusable UI Headings\n00:31:57 Static Page Layout Component\n00:37:28 Creating a Contact Form\n00:46:21 Root Layout\n00:50:55 Using the Navbar Recipe\n00:55:38 Mobile Navbar Event Redirect\n00:58:28 Create a Postgres Database\n01:02:34 Integrate Reflex with Postgres through Dotenv\n01:07:38 Your First Database Table and Migrations\n01:15:10 Storing Form Data\n01:20:20 Default Value and Conditional Rendering\n01:28:51 Py",
+        "id": 3042921,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9RUhp99J87c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9RUhp99J87c/hqdefault.jpg",
+        "title": "Python Tutorial: Build a Podcast Discovery Web App in Pure Python",
+        "vote": 0
+    }
+]

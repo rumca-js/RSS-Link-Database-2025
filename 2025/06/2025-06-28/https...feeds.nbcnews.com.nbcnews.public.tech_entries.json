@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Collier",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T02:24:52.720067+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T02:09:33+00:00",
+        "description": "Critics as varied as Marjorie Taylor Greene and the NAACP have come out against the rule, which would prevent states from passing AI regulations for 10 years.",
+        "id": 3039281,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/tech/tech-news/big-beautiful-bill-ai-moratorium-ted-cruz-pass-vote-rcna215111",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250627-SCOTUS-ai-jg-b3dc73.jpg",
+        "title": "Big Beautiful Bill AI provision unites an unexpected group of critics",
+        "vote": 0
+    }
+]

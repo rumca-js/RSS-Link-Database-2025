@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Theodore Schleifer, Eli Tan and Mike Isaac",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T09:15:02.280830+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T09:00:43+00:00",
+        "description": "The tech titan and his wife once had sprawling ambitions for their Chan Zuckerberg Initiative. Now their efforts in politics, education and housing have been cut back to focus on science.",
+        "id": 3040577,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/06/28/technology/mark-zuckerberg-priscilla-chan-czi.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/06/21/business/00chan-zuckerberg/00chan-zuckerberg-mediumSquareAt3X.jpg",
+        "title": "Mark Zuckerberg and Priscilla Chan Narrow CZI\u2019s Focus to Science Efforts",
+        "vote": 0
+    }
+]

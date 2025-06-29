@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Xu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T02:08:52.346323+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T01:54:36+00:00",
+        "description": "Huawei\u2019s latest laptop was powered by older 7nm chipset, the same technology in Huawei\u2019s 60 Pro smartphone that released two years ago, a new report finds.",
+        "id": 3039165,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/huaweis-new-laptop-highlights-chinas-chipmaking-struggles-under-us-sanctions-5878989",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/03/08/id5822321-GettyImages-1180326645-1080x720.jpg",
+        "title": "Huawei\u2019s New Laptop Highlights China\u2019s Chipmaking Struggles Under US Sanctions",
+        "vote": 0
+    }
+]

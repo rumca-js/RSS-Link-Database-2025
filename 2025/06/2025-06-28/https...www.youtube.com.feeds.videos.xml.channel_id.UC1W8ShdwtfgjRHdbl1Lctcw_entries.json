@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T18:23:59.993728+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T17:30:39+00:00",
+        "description": "I colorized, restored, and created the sound design for this rare historical footage showing scenes from North Carolina during the 1930s and 1940s. In this video, you can discover daily life in towns like Monroe, Concord, Albemarle, and others. You can clearly observe the way people lived at the time \u2014 their clothing, the architecture, the shops, and the overall atmosphere of these Southern communities during that era.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\n\nB&W Video Source: State Archives of North Carolina (H. Lee Waters)\n\n- - - - - - - - - - - - - - - - - - - -\n\ud83d\udce8 Contact me at :",
+        "id": 3043238,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ndxBqm84ZRI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ndxBqm84ZRI/hqdefault.jpg",
+        "title": "North Carolina 1930s in Color [60fps, Remastered] w/sound design added",
+        "vote": 0
+    }
+]

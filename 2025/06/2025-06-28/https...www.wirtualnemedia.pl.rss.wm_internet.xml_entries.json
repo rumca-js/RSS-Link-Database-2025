@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T06:12:04.683856+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T06:12:04+00:00",
+        "description": "YouTube czwarty miesi\u0105c z rz\u0119du by\u0142 najwa\u017cniejszym dystrybutorem medi\u00f3w w Stanach Zjednoczonych. Udzia\u0142 platformy w ogl\u0105dalno\u015bci wyni\u00f3s\u0142 12,5 proc. - wynika z badania The Media Distributor Gauge Nielsena. Firma zauwa\u017cy\u0142a, \u017ce Warner Bros. Discovery zanotowa\u0142 najwi\u0119kszy wzrost ogl\u0105dalno\u015bci. Mi\u0119dzy innymi dzi\u0119ki meczom NBA z udzia\u0142em New York Knicks, pokazywanym przez kana\u0142 TNT.",
+        "id": 3039901,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/youtube-deklasuje-innych-dystrybutorow-mediow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "YouTube deklasuje innych dystrybutor\u00f3w medi\u00f3w",
+        "vote": 0
+    }
+]

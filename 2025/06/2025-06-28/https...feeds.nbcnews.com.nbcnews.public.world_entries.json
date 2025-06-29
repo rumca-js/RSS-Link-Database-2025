@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Associated Press",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T08:46:46.376142+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T08:39:00+00:00",
+        "description": "Israeli Prime Minister Benjamin Netanyahurejected a report in Haaretz, which claimed Israeli soldiers were ordered to shoot at Palestinians approaching aid sites inside Gaza.",
+        "id": 3040436,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/middle-east/netanyahu-denounces-report-israeli-soldiers-orders-shoot-palestinians-rcna215695",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250628-gaza-aid-01-aa-fdc2cf.jpg",
+        "title": "Netanyahu denounces report that Israeli soldiers have orders to shoot at Palestinians seeking aid",
+        "vote": 0
+    }
+]

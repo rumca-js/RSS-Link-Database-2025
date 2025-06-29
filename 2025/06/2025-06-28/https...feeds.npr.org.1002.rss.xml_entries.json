@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Glen Weldon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T14:22:18.046846+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T07:00:00+00:00",
+        "description": "Filmmakers stuff the killer-robot sequel with extraneous plot threads, but preserve the B-movie appeal of the original.",
+        "id": 3042143,
+        "language": "en",
+        "link": "https://www.npr.org/2025/06/28/nx-s1-5446118/m3gan-2-0-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F05%2Fbe63732e42ccaae083bf7c31876d%2F2591-d017-00323rv2.jpg",
+        "title": "'M3GAN 2.0' is more of an expansion pack than an upgrade",
+        "vote": 0
+    }
+]

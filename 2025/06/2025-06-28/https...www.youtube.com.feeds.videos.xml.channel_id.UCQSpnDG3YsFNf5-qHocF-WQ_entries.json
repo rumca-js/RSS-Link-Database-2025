@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T15:57:11.307687+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T15:31:57+00:00",
+        "description": "Sponsored: Stay safe from malware and scams with Bitdefender Premium Security: https://bitdefend.me/PremiumSecurity-ThioJoe\n\nIf you are sent a program, or download it from somewhere not entirely reliable, you need to be aware of an extremely tricky way you could get hacked. Even if you check the exe of the program and it is completely legitimate and safe, you need to be aware that it might include other files like DLLs that can take advantage of it. It basically tricks the program into running malicious code, even if you never run the malicious file yourself. In this video talk about this \"DLL Hijacking\" or \"DLL Sideloading\" technique and how to avoid it.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:59 - What Happened?\n2:43 - An Excellent Thing\n4:18 - How to Protect Yourself\n5:18 - If You Can\u2019t Find an Official Source\n6:12 - Ways to Possibly Spot DLL Hijacking\n8:47 - Main Point Recap\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/",
+        "id": 3042545,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=qxaZ46fDENs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qxaZ46fDENs/hqdefault.jpg",
+        "title": "How Hackers Can Even Trick Computer Experts",
+        "vote": 0
+    }
+]

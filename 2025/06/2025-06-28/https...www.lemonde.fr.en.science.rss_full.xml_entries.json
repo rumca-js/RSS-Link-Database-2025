@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T02:05:23.634018+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T02:05:23+00:00",
+        "description": "According to a study conducted in 11 South African reserves between 2017 and 2023, dehorning reduced poaching by 78%.",
+        "id": 3039163,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/06/28/to-fight-rhino-poaching-nothing-works-better-than-cutting-off-their-horns_6742798_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/06/18/654/0/4364/2182/644/322/60/0/864d315_upload-1-kfwbwzaltu3o-rhino-4-c-tim-kuiper.jpeg",
+        "title": "To fight rhino poaching, nothing works better than cutting off their horns",
+        "vote": 0
+    }
+]

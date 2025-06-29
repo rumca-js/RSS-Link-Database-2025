@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T02:01:47.707647+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T01:46:38+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Getting weather data from my Acurite sensors was shockingly easy</span>\n\n            <p>I've had a Pi and SDR earmarked for 'getting weather data from my weather station' for a long time now. I don't know why I waited so long, because it was shockingly easy.</p>\n\n<p>I have a <a href=\"https://amzn.to/44p0yFV\">Acurite 5-in-1 weather station (with separate lightning detector)</a> mounted about 15' in the air in my back yard. It comes with a fancy little LCD display to show all the stats it transmits over the 433 MHz wireless frequency.</p>\n\n<p>But I want to ingest that data into my Home Assistant installation, so I can have better access to historical data, set up alerts (like if wind speed is above 50 mph, or there's lightnining less than 10 miles away), etc.</p>\n\n<p>I'll work on the HA integration later, likely using MQTT. But for now, just getting the data to decode on a Raspberry Pi 5 was quick:</p>\n      <s",
+        "id": 3039158,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/getting-weather-data-my-acurite-sensors-was-shockingly-easy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Getting weather data from my Acurite sensors was shockingly easy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-28T15:55:29.882463+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-28T15:00:45+00:00",
+        "description": "Dan Gardner is the coauthor of \"How Big Things Get Done,\" a book that explores why so many billion-dollar projects, from nuclear power plants to Olympic Games, go wrong and how some manage to succeed. Drawing on data from over 16,000 megaprojects, Gardner and his coauthor Bent Flyvbjerg reveal the startling truth: Only 0.5% of big projects are delivered on time, on budget, and with the promised results. Business Insider interviewed Dan Gardner to learn about some of the world's most high-profile projects, like the Sydney Opera House, which soared 1,400% over budget, and the troubled California High-Speed Rail, which is expected to cost over $100 billion and hasn't moved any passengers yet. He also spotlights the rare successes, like the Empire State Building and the Hoover Dam, to show what\u2019s possible when projects are built on smart planning, strong leadership, and modular thinking.\n \n00:00 - Intro \n00:49 - Olympics \n03:34 - California High-Speed Rail \n06:20 - The World\u2019s Biggest Tun",
+        "id": 3042542,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RCocaLOjhEc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RCocaLOjhEc/hqdefault.jpg",
+        "title": "Why 99.5% Of Big Projects Fail | Big Business | Business Insider",
+        "vote": 0
+    }
+]
