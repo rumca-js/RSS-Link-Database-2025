@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:54:29.435858+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T17:54:28+00:00",
+        "description": "Allegro Agency, zajmuj\u0105ca si\u0119 g\u0142\u00f3wnie eventami i marketingiem internetowym, w 2024 roku osi\u0105gn\u0119\u0142a wzrost przychod\u00f3w o prawie 50 proc., zarabiaj\u0105c na czysto prawie 500 tys. z\u0142.",
+        "id": 3046327,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/allegro-agency-ile-zarabia-na-eventach-i-marketingu-internetowym",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Na eventach da si\u0119 zarobi\u0107. Allegro Agency uros\u0142a o po\u0142ow\u0119",
+        "vote": 0
+    }
+]

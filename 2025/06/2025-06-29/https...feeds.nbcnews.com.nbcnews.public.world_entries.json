@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T23:07:07.766276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T22:12:40+00:00",
+        "description": "Northern Irish rap group Kneecap sparked controversy when it criticized Israel during its set at the Glastonbury Festival while encouraging chants of \"Free, free Palestine.\"",
+        "id": 3048140,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/fans-react-to-kneecap-s-controversial-performance-at-glastonbury-festival-242439749810",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/f_tov_lon_glastonbury_250629-4a6l43.jpg",
+        "title": "Fans react to Kneecap's controversial performance at Glastonbury Festival",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:19:58.381904+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T15:26:14+00:00",
+        "description": "<p><em>Last night, on our computers at least, Google's new open source Gemini CLI started acting as if it were on mind altering drugs. Here's our morning after report.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/06/did-gemini-cli-drop-acid-last-night/\">Did Gemini CLI Drop Acid Last Night?</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 3043532,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/06/did-gemini-cli-drop-acid-last-night",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Did Gemini CLI Drop Acid Last Night?",
+        "vote": 0
+    }
+]

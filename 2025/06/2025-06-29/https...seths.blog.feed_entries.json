@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:48:42.958550+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T09:30:00+00:00",
+        "description": "Game theory has a lousy name. When most people think of games, they think of commercial stuff for kids, like Chutes and Ladders or possibly Monopoly. But a game is simply a system where humans, facing scarcity, make choices. Scarcity leads to choices and to competition. It turns out that our culture, our commerce and [&#8230;]",
+        "id": 3046068,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/06/a-billion-choices",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A billion choices",
+        "vote": 0
+    }
+]

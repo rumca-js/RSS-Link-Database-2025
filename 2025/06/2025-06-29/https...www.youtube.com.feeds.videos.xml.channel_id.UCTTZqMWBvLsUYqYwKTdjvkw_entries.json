@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:59:04.844475+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T16:01:24+00:00",
+        "description": "\ud83d\udcfa Witam w specjalnym wydaniu naj\u015bwie\u017cszych wiadomo\u015bci ze \u015bwiata sztucznej inteligencji!\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udc26 Twixxer @ KinasRemek\nhttps://x.com/KinasRemek/status/1932763775498617065\n\n\ud83e\udd85 Wielki krok dla polskiego AI. Bielik rozpoczyna wsp\u00f3\u0142prac\u0119 z Nvidi\u0105\nhttps://www.money.pl/gospodarka/wielki-krok-dla-polskiego-ai-bielik-rozpoczyna-wspolprace-z-nvidia-7166523596470944a.html\n\n\ud83d\udcdd New ChatGPT Models Seem to Leave Watermarks on Text\nhttps://www.rumidocs.com/newsroom/new-chatgpt-models-seem-to-leave-watermarks-on-text\n\n\ud83d\udc26 Twixxer @ jxmnop\nhttps://x.com/jxmnop/status/1936044666371146076\n\n\ud83e\udd14 How can you make sure your brand shows up in LLM search? Adobe\u2019s new LLM Optimizer seeks to provide the tools\nhttps://venturebeat.com/ai/how-can-you-best-position-your-brand-for-discovery-in-llm-search-adobes-new-llm-optimizer-seeks-to-provide-the-tools/\n\n\ud83e\udd11 This Chatbot Tool Pays Users $50 a Month for Their Feedback on AI Models\nhttps://www.wired.com/story/yupp-chatbot-pays-users-ai-model-feedback/\n\n\ud83e\ude7a FDA clears first",
+        "id": 3046420,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=o6d46wNcwpg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o6d46wNcwpg/hqdefault.jpg",
+        "title": "AINews: AI b\u0119dzie Ci p\u0142aci\u0107?",
+        "vote": 0
+    }
+]

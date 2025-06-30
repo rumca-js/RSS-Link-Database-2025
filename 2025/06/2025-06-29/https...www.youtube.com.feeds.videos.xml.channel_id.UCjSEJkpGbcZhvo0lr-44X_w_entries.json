@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:32:02.908523+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T16:41:13+00:00",
+        "description": "To try everything Brilliant has to offer\u2014free\u2014for a full 30 days, visit https://brilliant.org/TechHut/ . You\u2019ll also get 20% off an annual premium subscription.\n\nReviewing you homelab/home server submissions! Part 2 coming soon. If you want your featured email mylab@techhut.tv with photos, services, and a hardware description. \n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.org/?referred_by=673908\nDITCH your VPN: https://netbird.io\n\n\ud83d\udcf7 MY GEAR \nHARD DRIVES: https://serverpartdeals.com/techhut\nMinisForum Tablet: https://amzn.to/3SeMmds\nBeelink N200: https://amzn.to/3xZjeQs\nRaspberry Pi 5: https://am",
+        "id": 3043811,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TChs4QTNAyQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TChs4QTNAyQ/hqdefault.jpg",
+        "title": "reviewing YOUR Home Servers!",
+        "vote": 0
+    }
+]

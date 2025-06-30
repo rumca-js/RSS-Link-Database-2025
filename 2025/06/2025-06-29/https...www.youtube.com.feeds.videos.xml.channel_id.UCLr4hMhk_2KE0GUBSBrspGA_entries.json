@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T18:30:25.801657+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T18:01:25+00:00",
+        "description": "Przez ostatnie dwa tygodnie je\u017adzi\u0142em tym samochodem. BYD Dolphin Surf w wersji Comfort. Najpierw w Warszawie, potem pojecha\u0142em w tras\u0119 300km do Poznania, gdzie te\u017c zrobi\u0142em par\u0119 k\u00f3\u0142ek po mie\u015bcie. W filmie znajdziesz plusy, minusy, niespodzianki i por\u00f3wnania do europejskich aut tej klasy. Czy to ju\u017c moment, kiedy Chiny przejmuj\u0105 rynek?",
+        "id": 3046700,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nypZbUd6PHM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nypZbUd6PHM/hqdefault.jpg",
+        "title": "BYD Dolphin Surf - Zabawka z Chin czy powa\u017cne zagro\u017cenie dla Europy?",
+        "vote": 0
+    }
+]

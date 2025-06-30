@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sahil Kapur",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:45:05.833173+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T17:37:55+00:00",
+        "description": "Sen. Thom Tillis, R-N.C., announced Sunday that he would not run for re-election, one day after he opposed a sweeping bill for President Donald Trump's agenda.",
+        "id": 3045635,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/politics/2026-election/gop-sen-thom-tillis-not-running-re-election-north-carolina-rcna215819",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250629-Thom-Tillis-vl-134p-4036d4.jpg",
+        "title": "GOP Sen. Thom Tillis says he's not running for re-election in North Carolina",
+        "vote": 0
+    }
+]

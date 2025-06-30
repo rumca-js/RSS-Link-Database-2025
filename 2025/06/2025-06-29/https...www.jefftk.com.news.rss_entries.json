@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:58:15.616573+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T08:00:00+00:00",
+        "description": "<p><span>\n\nAirplanes are strange places.  Whatever you have on board when you take off is\nthe most you'll have until you land.  Want a sandwich?  You can only have one\nif there's one on board.  There are many things people reliably want, such as\nsome kind of food, drink, and entertainment.  Perhaps headphones, a pillow, or\na blanket.  Airlines provide these, either for free or at some fixed cost.  But\npeople's desires are broad, airlines would like to make more money, and\neconomically inclined people want to turn everything into auctions and markets.\nSo...\n\n</span>\n\n<p>\n\nImagine you load up your seatback entertainment, and one of the\noptions is a burrito.  But there's only one.  You can put in a bid,\nand 1/3 of the way into the flight the person who bids the most gets\nit.  Surely on an airplane of two hundred people there's at least one\nperson with an unusually strong desire for a burrito at 30k feet.  And\nit's not just burritos: other meals, decent headphones, headphone\nsplitters, ai",
+        "id": 3046419,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/inflight-auctions",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/in-flight-burrito.jpg",
+        "title": "Inflight Auctions",
+        "vote": 0
+    }
+]

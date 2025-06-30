@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:38:17.162051+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T12:34:22+00:00",
+        "description": "<p>Badacze z Aim Security odkryli pierwsz\u0105 podatno\u015b\u0107 \u201ezero-click&#8221; w agencie sztucznej inteligencji (AI). Microsoft 365 Copilot mo\u017cna by\u0142o zmusi\u0107 agenta do wyciekania poufnych danych organizacji bez ingerencji przez u\u017cytkownika &#8211; ofiar\u0119. Wystarczy\u0142a wysy\u0142ka jednego, odpowiedniego spreparowanego maila. Podatno\u015b\u0107 otrzyma\u0142a oznaczenie CVE-2025-32711 z ocen\u0105 CVSS 9.3 (krytyczna) i zosta\u0142a ochrzczona przez...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/pierwsza-podatnosc-typu-zero-click-w-microsoft-365-copilot-dane-wyciekaly-bez-ingerencji-uzytkownikow/\">Pierwsza podatno\u015b\u0107\u00a0typu &#8222;zero-click&#8221; w Microsoft 365 Copilot. Dane wycieka\u0142y bez ingerencji u\u017cytkownik\u00f3w.</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3044671,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/pierwsza-podatnosc-typu-zero-click-w-microsoft-365-copilot-dane-wyciekaly-bez-ingerencji-uzytkownikow",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pierwsza podatno\u015b\u0107\u00a0typu \u201ezero-click\u201d w Microsoft 365 Copilot. Dane wycieka\u0142y bez ingerencji u\u017cytkownik\u00f3w.",
+        "vote": 0
+    }
+]

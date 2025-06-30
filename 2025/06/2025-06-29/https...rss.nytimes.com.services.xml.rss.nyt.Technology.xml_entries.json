@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kashmir Hill",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T17:55:45.127584+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T07:00:18+00:00",
+        "description": "A reporter who writes about A.I. finds her work is catching on \u2014 with the Chatbot she often writes about.",
+        "id": 3046367,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/06/29/insider/why-is-chatgpt-telling-people-to-email-me.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Interesting",
+        "vote": 0
+    }
+]

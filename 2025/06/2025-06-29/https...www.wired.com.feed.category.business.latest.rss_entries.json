@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zo\u00eb Schiffer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-29T19:27:51.885144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-29T19:07:16+00:00",
+        "description": "As Mark Zuckerberg lures away top research talent to Meta, OpenAI executives say they're \u2018recalibrating comp,\u2019 according to an internal memo.",
+        "id": 3047096,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/openai-meta-leadership-talent-rivalry",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/68617afbebd533b57f3bccb2/master/pass/OpenAI-Responds-to-Meta-Business-2213026842.jpg",
+        "title": "OpenAI Leadership Responds to Meta Offers: 'Someone Has Broken Into Our Home'",
+        "vote": 0
+    }
+]
