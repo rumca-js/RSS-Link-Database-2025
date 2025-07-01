@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vsauce",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T04:45:18.933659+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T04:05:50+00:00",
+        "description": "\ud83d\udc41 https://www.CuriosityBox.com \ud83d\udc41\nThere are a few other 'secret messages' on (and in) the box you'll have to use the prism to decipher. The shirt's Bezold effect is an optical illusion related to the famous \"confetti illusion.\" To learn more about Bezold and other, similar, illusions, check out these links:\n\nhttps://journalofillusion.net/index.php/joi/article/view/6152/13749\nhttps://michaelbach.de/ot/col-assim/\nhttps://journals.sagepub.com/doi/10.1177/20416695241258748",
+        "id": 3049356,
+        "language": null,
+        "link": "https://www.youtube.com/shorts/3Yqu30QHkro",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 383,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3Yqu30QHkro/hqdefault.jpg",
+        "title": "The Bezold Effect",
+        "vote": 0
+    }
+]

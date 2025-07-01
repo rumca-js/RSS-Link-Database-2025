@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T18:46:12.541927+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T18:02:42+00:00",
+        "description": "How an unlikely physics paradox controls these counterintuitive structures. Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off.\n\nIf you\u2019re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n\u2580\u2580\u2580\nA huge thank you to Paul Ducarme and Bas Overvelde at AMOLF for showing us around. \nCheck out their research on counter-snapping structures here - https://ve42.co/CounterSnapping\n\nFor more on Braess\u2019s Paradox, check out these great videos by Up and Atom (https://youtu.be/cALezV_Fwi0) and Steve Mould (https://www.youtube.com/watch?v=Cg73j3QYRJc)\n\n\u2580\u2580\u2580\n0:00 What happens if you cut this rope?\n1:41 The Spring Paradox\n4:59 New York\u2019s Perplexing Discovery\n6:29 Road Networks and Traffic Flow\n8:40 Braess\u2019s Paradox \n14:29 Snapping\n17:16 This object shrinks when you stretch it\n\n\u2580\u2580\u2580\nReferences:\n\nDucarme, P., Weber, B., Hecke, M. van, & Johannes. (2025). Exotic mechanical properties enabled",
+        "id": 3055099,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-QTkPfq7w1A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-QTkPfq7w1A/hqdefault.jpg",
+        "title": "This mechanism shrinks when pulled",
+        "vote": 0
+    }
+]

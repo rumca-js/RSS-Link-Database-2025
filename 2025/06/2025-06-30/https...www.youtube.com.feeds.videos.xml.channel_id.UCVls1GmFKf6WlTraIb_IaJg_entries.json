@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T13:50:47.366768+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T13:00:49+00:00",
+        "description": "The 'mv' command is used to move files and directories to new locations.\n\n- Move a file or directory to new location:\n  mv path/to/source path/to/target\n  \n  NOTE: This essentially \"renaming\" the file if source and target are within the same the directory.\n\n- Move multiple files into an existing directory, keeping the filenames unchanged:\n  mv path/to/source1 path/to/source2 ... path/to/target_directory\n\n- Move files in verbose mode, showing files after they are moved:\n  mv -v path/to/source path/to/target\n\n- Move in interactive mode prompting user before overwriting files:\n  mv -i path/to/source path/to/target\n\n- Move in force mode overrides default behavior and interactive settings, and does not prompt for confirmation before overwriting existing files:\n  mv -f path/to/source path/to/target\n\n- Move in no-clobber mode, does not overwrite existing files at the target:\n  mv -n path/to/source path/to/target\n\n  NOTE: If you specify more than one of -i, -f, -n, only the final one takes ef",
+        "id": 3052269,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=R8CQjsNYdvY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R8CQjsNYdvY/hqdefault.jpg",
+        "title": "'mv' - move files and directories - Video Man Pages",
+        "vote": 0
+    }
+]

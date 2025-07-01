@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T21:27:48.327531+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T21:00:07+00:00",
+        "description": "We take on a entire Armed Survivalists encampment in Death Stranding 2, using some unconventional tactics and wits on the hardest difficulty.\n\nSUBSCRIBE https://www.youtube.com/channel/UCbu2SsF-Or3Rsn3NxqODImw?sub_confirmation=1\n\n0:00 - Playing Death Stranding 2 on the Hardest Difficulty\n1:00 - Delivering Pain\n3:51 - Unconventional Tactics",
+        "id": 3056082,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=A2QOv84dpFg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A2QOv84dpFg/hqdefault.jpg",
+        "title": "Delivering Nothing But PAIN In Death Stranding 2 - Brutal Difficulty Gameplay",
+        "vote": 0
+    }
+]

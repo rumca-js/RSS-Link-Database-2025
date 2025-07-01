@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T13:21:32.615411+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T12:09:45+00:00",
+        "description": "Jos\u00e9 Miguel Castro was collaborating with prosecutors in the corruption case against Susana Villar\u00e1n.",
+        "id": 3052035,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cvg11dg3312o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c2/live/d1c2ba50-55a5-11f0-a13f-c72f3e976a79.jpg",
+        "title": "Key witness in ex-Peru mayor's corruption case found dead",
+        "vote": 0
+    }
+]

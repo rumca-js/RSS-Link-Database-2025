@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Sledge",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T13:56:00.375168+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T13:31:50+00:00",
+        "description": "<p>The allegedly leaked document undermined the White House\u2019s case for an immigration crackdown.</p>\n<p>The post <a href=\"https://theintercept.com/2025/06/30/tulsi-gabbard-leak-investigation/\">Tulsi Gabbard Is Hunting for \u201cDeep-State Criminals.\u201d Is She Even Following the Law?</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3052282,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/06/30/tulsi-gabbard-leak-investigation",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2221568293-e1751039873690.jpeg",
+        "title": "Tulsi Gabbard Is Hunting for \u201cDeep-State Criminals.\u201d Is She Even Following the Law?",
+        "vote": 0
+    }
+]

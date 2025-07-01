@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Webb Wright",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T14:21:45.781998+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T14:02:57+00:00",
+        "description": "Image generators are designed to mimic their training data, so where does their apparent creativity come from? A recent study suggests that it\u2019s an inevitable by-product of their architecture.            <p>The post <a href=\"https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/\" target=\"_blank\">Researchers Uncover Hidden Ingredients Behind AI Creativity</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3052707,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/06/TheoryofCreativity-crAdrianAstorgano-Default.webp",
+        "title": "Researchers Uncover Hidden Ingredients Behind AI Creativity",
+        "vote": 0
+    }
+]

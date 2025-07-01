@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T15:41:17.188242+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T15:00:09+00:00",
+        "description": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to  https://ground.news/joescott\n\nIn today\u2019s Lightning Round video, I cover the observer effect - and how everybody (including me) gets it wrong. Also, tech bros, black holes, Crispr and I hate being pale. It\u2019ll all make sense when you watch, trust me.\n\nWant to support the channel? Here's how:\n\nPatreon: http://www.patreon.com/answerswithjoe\nChannel Memberships: https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg/join\nT-Shirts & Merch: https://laughsmarter.com\n\nCheck out my 2nd channel, Joe Scott TMI:\nhttps://www.youtube.com/channel/UCqi721JsXlf0wq3Z_cNA_Ew\n\nAnd my podcast channel, Conversations With Joe:\nhttps://www.youtube.com/channel/UCJzc7TiJ2nnuyJkUpOZ8RKA\n\nYou can listen to my podcast, Conversations With Joe on Spotify, Apple Podcasts, Google Podcasts, or wherever you get your podcasts.\nSpotify \ud83d\udc49 https://spoti.fi/37iPGzF\nApple Podcasts \ud83d\udc49 https://apple.co",
+        "id": 3053389,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=t26CRghDFR4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t26CRghDFR4/hqdefault.jpg",
+        "title": "The Observer Effect Is Not What You Think \u26a1\ufe0f",
+        "vote": 0
+    }
+]

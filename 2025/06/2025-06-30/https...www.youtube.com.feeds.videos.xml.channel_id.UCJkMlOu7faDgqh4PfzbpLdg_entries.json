@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdwriter1",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T16:33:36.135926+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T16:00:05+00:00",
+        "description": "Go to https://www.squarespace.com/nerdwriter for 10% off your first purchase.\n\nProduced in collaboration with the National Gallery of Art Production Studio. For more National Gallery of Art videos: https://www.youtube.com/@UC416BswuE2ItX23GySxZcRQ \n\nSOURCES\n\nBrian W. Ogilvie, \u201cNatural History in the European Renaissance\u201d Little Beasts: Art, Wonder, And The Natural World\n\nStacey Sell, \u201c\u2018Through Such Variety, Nature Is Beautiful\u2019: Joris Hoefnagel, The Four Elements, and Natural History\u201d Little Beasts: Art, Wonder, And The Natural World\n\nBrooks Rich, \u201cSurvival of the Finest: Animals in Early Modern Intaglio Print Series\u201d Little Beasts: Art, Wonder, And The Natural World\n\nJanice L. Neri, \u201cFrom insect to icon: Joris Hoefnagel and the 'screened Objects' of the natural world\u201d Ways of Knowing: Ten Interdisciplinary Essays\n\nNGA.gov, \u201cThe Marvelous Details of Joris Hoefnagel\u2019s Animal and Insect Studies\u201d\n\nKarel Van Mander, \u201cJoris Hoefnagel\u201d Het Schilder-Boeck\n\nThea Vignau-Wilberg, \u201cJoris Hoefnag",
+        "id": 3053924,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=2Tn6xnOnBFI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 496,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2Tn6xnOnBFI/hqdefault.jpg",
+        "title": "He Painted Bugs Like Jewels \u2014 And Changed Science Forever",
+        "vote": 0
+    }
+]

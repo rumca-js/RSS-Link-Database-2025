@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T13:58:49.555524+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T13:24:34+00:00",
+        "description": "<p>The NSA and CISA are urging developers to adopt programming languages that reduce the risks of memory safety vulnerabilities. For a long time, the tech world has tried to patch over this problem. The thinking was that with enough training, smart tools, and careful work, developers could avoid these errors. But the evidence shows that<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/nsa-and-cisa-urge-shift-languages-improving-memory-safety/\" title=\"ReadNSA and CISA urge shift to languages improving memory safety\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/nsa-and-cisa-urge-shift-languages-improving-memory-safety/\">NSA and CISA urge shift to languages improving memory safety</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3052283,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/nsa-and-cisa-urge-shift-languages-improving-memory-safety",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NSA and CISA urge shift to languages improving memory safety",
+        "vote": 0
+    }
+]

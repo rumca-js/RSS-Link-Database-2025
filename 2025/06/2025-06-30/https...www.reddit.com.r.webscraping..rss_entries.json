@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Maleficent-Clue9906",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T11:05:26.369000+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T10:04:14+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey all,<br/> I&#39;m trying to scrape all the Metacritic critic scores (the main rating) for every game listed on the site. I&#39;m using Puppeteer for this.</p> <p>I just want a list of the numeric ratings (like 84, 92, 75...) with their titles, no URLs or any other data.</p> <p>I tried scraping from this URL:<br/> <a href=\"https://www.metacritic.com/browse/game/?releaseYearMin=1958&amp;releaseYearMax=2025&amp;page=1\"><code>https://www.metacritic.com/browse/game/?releaseYearMin=1958&amp;releaseYearMax=2025&amp;page=1</code></a><br/> and looping through the pagination using the &quot;next&quot; button.</p> <p>But every time I run the script, I get something like:<br/> <code>&quot;No results found on the current page or the list has ended&quot;</code><br/> Even though the browser shows games and ratings when I visit it manually.</p> <p>I&#39;m not sure if this is due to JavaScript rendering, needing to set a proper user-agent, or maybe a wrong selecto",
+        "id": 3051087,
+        "language": null,
+        "link": "https://www.reddit.com/r/webscraping/comments/1lo3o3m/trying_to_scrape_all_metacritic_game_ratings_i",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trying to scrape all Metacritic game ratings (I need help)",
+        "vote": 0
+    }
+]

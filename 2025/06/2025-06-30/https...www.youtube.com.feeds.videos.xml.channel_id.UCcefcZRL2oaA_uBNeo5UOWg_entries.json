@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T22:12:29.200170+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T21:16:49+00:00",
+        "description": "Sam Altman says he\u2019s most excited to see AI accelerate scientific discovery over the next 10\u201320 years.\n\nHe believes faster breakthroughs in science could lead to massive, long-term improvements in quality of life for everyone.",
+        "id": 3056420,
+        "language": null,
+        "link": "https://www.youtube.com/shorts/5dU-TUTcjrE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5dU-TUTcjrE/hqdefault.jpg",
+        "title": "AI for Scientific Discovery",
+        "vote": 0
+    }
+]

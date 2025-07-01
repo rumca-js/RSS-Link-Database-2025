@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T09:51:28.187256+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T09:00:44+00:00",
+        "description": "Lara Downes | June 30, 2025\nThe day before filming this conversation, I performed the Piano Concerto by pioneering African-American composer Florence Price with the Philadelphia Orchestra in its concert hall recently renamed after the legendary contralto Marian Anderson. I think of these two iconic women as my musical fairy godmothers; their barrier-breaking legacies have been essential to my own artistic life. So the power of female lineage was very much on my mind when I sat down with the brilliant jazz harpist Brandee Younger to talk about her musical journey, and the women who have inspired it.\n\nThe history of jazz harp begins in the 1920s, when Carlena Diamond toured the vaudeville circuit. Its practitioners make up a short list, but among them, two figures, both Black women, stand out as innovators who pushed the instrument to new limits. In the 1950s, Dorothy Ashby proved that the harp could bebop with the best of the best. And in the \u201870s, Alice Coltrane developed a radical ne",
+        "id": 3050453,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TSZ7ctY5Zg8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TSZ7ctY5Zg8/hqdefault.jpg",
+        "title": "Summoning the ancestors with harpist Brandee Younger | Amplify with Lara Downes",
+        "vote": 0
+    }
+]

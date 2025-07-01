@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rex Widerstrom",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-06-30T23:47:37.800766+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-30T23:31:35+00:00",
+        "description": "Despite it being an emerging technology with proven flaws, artificial intelligence has crossed the 'trust threshold,' a new survey says.",
+        "id": 3056873,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/over-half-of-consumers-prepared-to-take-critical-life-advice-from-ai-5880125",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/01/30/id5801729-GettyImages-2195926073-1080x720.jpeg",
+        "title": "Over Half of Consumers Prepared to Take \u2018Critical Life Advice\u2019 From AI",
+        "vote": 0
+    }
+]
