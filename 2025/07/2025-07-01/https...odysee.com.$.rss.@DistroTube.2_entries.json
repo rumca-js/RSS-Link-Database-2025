@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:42:25.513746+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T13:00:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/1V5ewUKIM1I\" width=\"480\" alt=\"thumbnail\" title=\"'man' - read the manual pages - Video Man Pages\" /></p>The 'man' command is used to read the man pages (or manual pages).  It's basically an interface to read the instruction manuals for specific commands.<br /><br />- Display the man page for a specific command:<br />  man command<br /><br />- Display the man page for a command from a specific section (ex: section 7):<br />  man 7 command<br /><br />- Lookup man pages referenced by 'command' and print a short description:<br />  man -f command (SAME AS: whatis command)<br /><br />- Open the man page for a command in a browser:<br />  man --html=browser_name command<br />  <br />- Open the man page for a command in a browser using $BROWSER variable if set:<br />  man --html=$BROWSER command<br />  <br />- Display the location of a man page rather than the man page itself:<br />  man -w command<br /><br />- Search for man pages containing a search ",
+        "id": 3061624,
+        "language": "en",
+        "link": "https://odysee.com/%27man%27-read-the-manual-pages-video-man:5835849008b81a40968491c8d39a87e03f4305b8",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/1V5ewUKIM1I",
+        "title": "'man' - read the manual pages - Video Man Pages",
+        "vote": 0
+    }
+]

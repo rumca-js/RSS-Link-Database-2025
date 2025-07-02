@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:16:35.631471+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T15:14:53+00:00",
+        "description": "Learn about cloud cybersecurity with this comprehensive course developed by Google Cloud. You'll analyze threats, build defenses, and complete a final mission that'll impress future employers. This hands-on curriculum will prepare you for the Google Cloud Cybersecurity Certificate.\n\nGoogle Cloud Skill platform: https://www.cloudskillsboost.google/paths/419\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Introduction to Data Analytics in Google Cloud\n\u2328\ufe0f (2:45:18) Data Management and Storage in the Cloud\n\u2328\ufe0f (5:14:21) Data Transformation in the Cloud\n\u2328\ufe0f (6:31:54) The Power of Storytelling: Visualizing Data in the Cloud\n\u2328\ufe0f (9:05:45) Put It All Together: Prepare for a Cloud Data Analyst Job\n\u2328\ufe0f (9:45:49) Prepare for a career in cloud with #GoogleCloudCertificates",
+        "id": 3058685,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DrAZf4ZHqaM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DrAZf4ZHqaM/hqdefault.jpg",
+        "title": "Google Cloud Cybersecurity Certificate Course",
+        "vote": 0
+    }
+]

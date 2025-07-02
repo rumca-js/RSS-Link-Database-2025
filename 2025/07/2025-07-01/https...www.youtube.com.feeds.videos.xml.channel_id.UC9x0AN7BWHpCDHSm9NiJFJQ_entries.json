@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T22:01:07.317124+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T21:09:15+00:00",
+        "description": "Learn more about self-driving networks: https://juniper.net/provenAI\nSee AIOps in the data center with Juniper\u2019s interactive demo: https://juniper.net/chucklovesdatacenters\n\nAI is in everything\u2026and I\u2019m tired of it. Every networking product seems to be slapping on \u201cAI\u201d just to ride the hype train. I mean, is it actually helping us? In this video, I go on a mission to find out if AI is really making networking better, or if it\u2019s just another victim of AI Slop.\n\n\n\ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy \n\n\n\n**Sponsored by Juniper \n\n\n\n\n\n\n\nSUPPORT NETWORKCHUCK\n---------------------------------------------------\n\u27a1\ufe0fNetworkChuck membership: https://ntck.co/Premium \n\u2615\u2615 COFFEE and MERCH: https://ntck.co/coffee \n\nCheck out my new channel: https://ntck.co/ncclips \n\n\ud83c\udd98\ud83c\udd98NEED HELP?? Join the Discord Server: https://discord.gg/networkchuck \n\nSTUDY WITH ME on Twitch: https://bit.ly/nc_twitch \n\nREADY TO LEARN??\n---------------------------------------------------\n-Learn Python: https:/",
+        "id": 3062990,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=kxYh9RwLUFw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kxYh9RwLUFw/hqdefault.jpg",
+        "title": "Stop putting AI in EVERYTHING!!",
+        "vote": 0
+    }
+]

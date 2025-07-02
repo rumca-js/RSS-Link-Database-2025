@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel 5 with Andrew Callaghan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:53:02.010289+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T16:44:46+00:00",
+        "description": "Go to https://ground.news/channel5 to stay fully informed with all sides of every story. Subscribe for 40% off the Vantage plan through my link.",
+        "id": 3061879,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QUrr6zRK_Ss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 600,
+        "source_url": "https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QUrr6zRK_Ss/hqdefault.jpg",
+        "title": "Are We on the Brink of WW3?: 5CAST w/ Andrew Callaghan (#9) ft. James Gelvin",
+        "vote": 0
+    }
+]

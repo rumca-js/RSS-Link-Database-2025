@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daring Fireball Department of Commerce",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:44:53.157101+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T16:44:21+00:00",
+        "description": "<p>Resurrect your side projects with Phoenix.new, the new AI app-builder from <a href=\"https://fly.io/\">Fly.io</a>. Just describe your idea, and Phoenix.new quickly generates a working real-time Phoenix app: clustering, pubsub, and presence included. Ideal for multiplayer games, collaborative tools, or quick weekend experiments. Built by <a href=\"https://fly.io/\">Fly.io</a>, deploy wherever you want.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Phoenix.new\u2019\"  href=\"https://daringfireball.net/feeds/sponsors/2025/07/phoenixnew\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 3061701,
+        "language": null,
+        "link": "https://phoenix.new/?utm_source=df",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "[Sponsor] Phoenix.new",
+        "vote": 0
+    }
+]

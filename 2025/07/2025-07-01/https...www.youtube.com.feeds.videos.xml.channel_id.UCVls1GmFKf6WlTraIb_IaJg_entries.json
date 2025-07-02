@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:06:00.216229+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T13:00:03+00:00",
+        "description": "The 'man' command is used to read the man pages (or manual pages).  It's basically an interface to read the instruction manuals for specific commands.\n\n- Display the man page for a specific command:\n  man command\n\n- Display the man page for a command from a specific section (ex: section 7):\n  man 7 command\n\n- Lookup man pages referenced by 'command' and print a short description:\n  man -f command (SAME AS: whatis command)\n\n- Open the man page for a command in a browser:\n  man --html=browser_name command\n  \n- Open the man page for a command in a browser using $BROWSER variable if set:\n  man --html=$BROWSER command\n  \n- Display the location of a man page rather than the man page itself:\n  man -w command\n\n- Search for man pages containing a search string:\n  man -k \"string\"\n\n- Display the man page using a specific locale (such as 'us' or 'de', etc.):\n  man --locale locale command \n\n- Specify which PAGER you want to use to view a man page:\n  man -P less command (uses 'less' as the PAGER)\n ",
+        "id": 3058469,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1V5ewUKIM1I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1V5ewUKIM1I/hqdefault.jpg",
+        "title": "'man' - read the manual pages - Video Man Pages",
+        "vote": 0
+    }
+]

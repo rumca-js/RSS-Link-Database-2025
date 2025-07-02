@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T02:52:30.058403+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T00:06:29+00:00",
+        "description": "Sponsor: Montech HS01 Pro on Amazon https://geni.us/UYLeZn and HS02 Pro https://geni.us/ABM9fEB\nThis review of the Maingear Shroud Signature Edition pre-built gaming PC benchmarks the computer and looks at value of the $6,000 machine. The computer includes an AMD 9800X3D and RTX 5090, already making it far better value than the Origin PC we reviewed not long ago. Alienware's Area-51 was also in for review recently, and this beats that for value too, but is still far more expensive by percent cost increase against baseline than some other builds we've reviewed (like Thermaltake's). The Maingear machine tries to set itself apart with liquid metal and a pre-applied overclock on the memory, the latter of which is unstable and the former of which isn't the best application. At least they're trying something different -- they just need to execute it better.\n\nWatch our Alienware Area-51 pre-built gaming PC review: https://www.youtube.com/watch?v=I3Tcz3mAUuE\nand our review of the disastrous O",
+        "id": 3057719,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=lbehjbFVAfQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lbehjbFVAfQ/hqdefault.jpg",
+        "title": "Maingear Overclocked Prebuilt with Liquid Metal: $6000 Shroud Pre-Built Gaming PC Review",
+        "vote": 0
+    }
+]

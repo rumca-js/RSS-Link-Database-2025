@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hero Hei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T22:22:06.981751+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T21:17:01+00:00",
+        "description": "A few weeks ago I made a video about Bluesky falling apart based on their own posts and website analytics. Asmongold and SmugAlana reacted to my video which caused Bluesky users to go full rage mode, even running damage control for the platform but it isn't going well for them.\n\n-----\n\n\ud83d\udc26 Twitter: https://twitter.com/_Hero_Hei_\n\n\ud83d\udc26 Vtuber twitter: https://twitter.com/xChaiRAWRx\n\n___\n\n#bluesky \n#envtuber \n#virtualyoutuber",
+        "id": 3063047,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Bru3KmVK44s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 591,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaE1z0qLeXWpExU02uMeuvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bru3KmVK44s/hqdefault.jpg",
+        "title": "Bluesky users are crashing out at us",
+        "vote": 0
+    }
+]

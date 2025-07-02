@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:42:15.474871+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T05:41:30+00:00",
+        "description": "Today's links How much (little) are the AI companies making?: Ed Zitron does the math. Hey look at this: Delights to delectate. Object permanence: Wil Wheaton on /., G20 Toronto; London's war on photograhy, debating C-11 on Twitter with James Moore, breaking up Google, Female Furies&#8230; Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How much (little) are the AI companies making? (permalink) If there's one area where tech has shown a consistent aptitude for innovation, it's in accounting tricks that make money-losing companies appear wildly profitable. And AI is the greatest innovator of all (when it comes to accounting gimmicks). Since the dotcom era, tech companies have boasted about giving stuff away but \"making it up in volume,\" inventing an ever-sweatier collection of shell-games that let them hide the business's tru",
+        "id": 3061614,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/06/30/accounting-gaffs",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/30Jun2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: How much (little) are the AI companies making? (30 Jun 2025)",
+        "vote": 0
+    }
+]

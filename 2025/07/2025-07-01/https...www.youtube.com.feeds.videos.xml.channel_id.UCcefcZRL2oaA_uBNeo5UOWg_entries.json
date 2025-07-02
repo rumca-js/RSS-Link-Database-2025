@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:50:55.786250+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T14:00:13+00:00",
+        "description": "A fireside with Dr. Fei-Fei Li on June 16, 2025 at AI Startup School in San Francisco.\n\nDr. Fei-Fei Li is often called the godmother of AI\u2014and for good reason. Before the world had AI as we know it, she was helping build the foundation.\n\nIn this fireside, she recounts the creation of ImageNet, a project that helped ignite the deep learning revolution by providing the data backbone modern computer vision needed. She walks through the early belief in data-driven methods, the shock of seeing convolutional networks outperform expectations in 2012, and how those breakthroughs led to captioning, storytelling, and ultimately, generative models.\n\nNow, she\u2019s taking on one of AI\u2019s hardest frontiers: spatial intelligence. Fei-Fei shares why modeling the 3D world is essential for AGI\u2014and why it may be even more difficult than language.\n\nChapters:\n00:08 - The Origins of ImageNet  \n02:15 - The Dream to Make Machines See\n03:28 - A paradigm shift in AI\n04:42 - The Breakthrough Year: AlexNet and Deep ",
+        "id": 3061830,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_PioN-CpOP0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_PioN-CpOP0/hqdefault.jpg",
+        "title": "Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI",
+        "vote": 0
+    }
+]

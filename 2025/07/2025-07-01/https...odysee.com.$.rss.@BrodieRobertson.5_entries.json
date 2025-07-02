@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T22:17:08.955643+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T21:00:28+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Hg3j1GapNyw\" width=\"480\" alt=\"thumbnail\" title=\"Wayback: Fork In The Road For X11 Support\" /></p>There's been a lot of talk of a project called XLibre as of late but there's another direction we could take in goal of keeping X11 desktops alive and that is being a very light compositor whose soul purpose is running a rootful environment, and that's what wayback does.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Wayback Repo: https://github.com/kaniini/wayback<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media=",
+        "id": 3063033,
+        "language": "en",
+        "link": "https://odysee.com/wayback-fork-in-the-road-for-x11-support:4af2b7c3f12d773750881f05d9cc765e075a6786",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/Hg3j1GapNyw",
+        "title": "Wayback: Fork In The Road For X11 Support",
+        "vote": 0
+    }
+]

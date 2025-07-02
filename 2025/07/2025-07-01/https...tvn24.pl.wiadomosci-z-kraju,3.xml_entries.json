@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:20:39.879414+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T19:12:41+00:00",
+        "description": "<img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-9685317-poszukiwania-ph8537412/alternates/LANDSCAPE_1280\" alt=\"Znaleziono cia\u0142o poszukiwanego 57-latka. Koniec ob\u0142awy\" />\n    Policjanci znale\u017ali cia\u0142o poszukiwanego 57-latka - przekaza\u0142a ma\u0142opolska policja. Na briefingu ma przekaza\u0107 wi\u0119cej szczeg\u00f3\u0142\u00f3w. M\u0119\u017cczyzna by\u0142 podejrzany o zastrzelenie swojej c\u00f3rki i jej m\u0119\u017ca oraz postrzelenie te\u015bciowej. Od kilku dni trwa\u0142a za nim ob\u0142awa.",
+        "id": 3059292,
+        "language": "pl-PL",
+        "link": "https://tvn24.pl/polska/stara-wies-znaleziono-cialo-poszukiwanego-57-latka-koniec-oblawy-st8537406?source=rss",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 319,
+        "source_url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://tvn24.pl/najnowsze/cdn-zdjecie-9685317-poszukiwania-ph8537412/alternates/LANDSCAPE_1280",
+        "title": "Znaleziono cia\u0142o poszukiwanego 57-latka. Koniec ob\u0142awy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy Jahns",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:54:49.064967+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T13:00:03+00:00",
+        "description": "Thanks to Factor for sponsoring this video\nUse code 50JAHNS to get 50% OFF plus free shipping on your first Factor box at https://bit.ly/3ZHhDIH!\n\nJurassic World is BACK!....But is it at least a fun monster movie? Here's my review of JURASSIC WORLD: REBIRTH!\n\n#JurassicWorldRebirth",
+        "id": 3061919,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1P9sOnyDTow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 164,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1P9sOnyDTow/hqdefault.jpg",
+        "title": "Jurassic World Rebirth - Movie Review",
+        "vote": 0
+    }
+]

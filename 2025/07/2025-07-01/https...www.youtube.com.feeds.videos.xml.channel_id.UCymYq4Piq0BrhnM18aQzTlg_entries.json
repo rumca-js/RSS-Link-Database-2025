@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T23:32:17.135554+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T22:45:06+00:00",
+        "description": "Sign up for a Plex Pass: http://lon.tv/plexpass (compensated affiliate link) - For this month's sponsored Plex video we revisit the Watch List and its RSS feature that allows you to connect your watchlist automatically to your own code or other applications. See more Plex: https://www.youtube.com/playlist?list=PLCZHp4d1HnIvqJPAmMooCKOHieLdi3I7o and subscribe! http://lon.tv/s\n\nDownload my sample code here:\nhttps://lon.tv/watch-list-code.zip\n\nVIDEO INDEX:\n00:00 - Intro\n01:47 - Using the Watchlist in Plex\n04:21 - Enabling Watchlist RSS Feed\n05:51 - Demo: Python and PHP Based Episode Tracker\n07:33 - PHP version\n08:00 - Other Use Cases - ChatGPT, etc.  \n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/amazonshop\n\nJoin the Facebook group to connect wit",
+        "id": 3063501,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_dWx6EorDa0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_dWx6EorDa0/hqdefault.jpg",
+        "title": "How To Unlock a More Powerful Plex Watch List !",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:54:25.564320+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T15:01:29+00:00",
+        "description": "Check out various courses in science, computer science, and mathematics on Brilliant! Get your first 30 days free as well as 20% off an annual premium subscription when you use my link \u279c https://brilliant.org/sabine.\n\nDavid Hilbert\u2019s Sixth Problem is 125 years old and asks for an axiomatic foundation of physics. A good place to start with this, said Hilbert, would be fluid dynamics \u2013 physicists should be able to prove that our fluid dynamics equations are rooted in how we understand atoms behave when they bump into each other. This would also explain the origin of irreversibility in our lives, or the \u201carrow of time\u201d as physicists like to say. Over a century later, mathematicians have made a major breakthrough in this arena. Let\u2019s take a look.\n\nPaper: https://arxiv.org/abs/2503.01800\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sci",
+        "id": 3061909,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mxWJJl44UEQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mxWJJl44UEQ/hqdefault.jpg",
+        "title": "Breakthrough on 125 Year-Old Physics Problem",
+        "vote": 0
+    }
+]

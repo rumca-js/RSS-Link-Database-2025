@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Guttag",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:09:22.675577+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T19:40:43+00:00",
+        "description": "Last week, I gave a presentation at The Vintage Computer Festival Southwest (VCF SouthWest) about the development of the TMS9918 (and related devices), which I helped define, design, simulate, and debug from September 1977 through mid-1978. In addition to the presentation, I participated in a one-hour question-and-answer session hosted by Matthew Hagarty. Matthew has developed a series of FPGA-based 9918 emulators, the latest of which is pin-compatible except for providing R, G, and B output rather than composite video.",
+        "id": 3058483,
+        "language": "en-US",
+        "link": "https://kguttag.com/2025/07/01/tms9918-the-first-sprite-chip-presentation-at-vcf-southwest/?utm_source=rss&utm_medium=rss&utm_campaign=tms9918-the-first-sprite-chip-presentation-at-vcf-southwest",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 487,
+        "source_url": "https://www.kguttag.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/kguttag.com/wp-content/uploads/2025/07/image.png?resize=382%2C241&ssl=1",
+        "title": "TMS9918, The First Sprite Chip \u2013 Presentation at VCF SouthWest",
+        "vote": 0
+    }
+]

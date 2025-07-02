@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aaron Jue",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T22:52:30.432103+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T22:09:36+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><a href=\"https://www.eff.org/35\">We're wishing EFF a happy birthday on July 10!</a> Since 1990, EFF's lawyers, activists, analysts, and technologists have used everything in their toolkit to ensure that technology supports freedom, justice, and innovation for all people of the world. They've seen it all and in this special edition of our EFFecting Change livestream series, leading experts at EFF will explore what's next for technology users.</p>\n<p></p><center><strong><em>EFFecting Change Livestream Series:<br />EFF Turns 35!<br />Thursday, July 10th<br />11:00 AM - 12:00 PM Pacific - <a href=\"https://dateful.com/eventlink/1636667650\" target=\"_blank\" rel=\"noopener noreferrer\">Check Local Time</a><br />This event is LIVE and FREE!</em><strong><em><br /></em></strong></strong><br />\n<p class=\"subhead\"><strong><em><a href=\"https://www.eff.org/ev",
+        "id": 3063443,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/06/effecting-change-eff-turns-35",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/files/2024/03/20/rsvptoday_0.png",
+        "title": "EFFecting Change: EFF Turns 35!",
+        "vote": 0
+    }
+]

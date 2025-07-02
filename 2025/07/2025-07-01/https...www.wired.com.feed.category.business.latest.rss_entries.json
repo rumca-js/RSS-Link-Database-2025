@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kate Knibbs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T01:29:19.997026+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T01:18:19+00:00",
+        "description": "After critics called the bill a \u201cget-out-jail-free-card\u201d for Big Tech that could make it nearly impossible to rein in social media platforms, Senator Marsha Blackburn killed her own compromise.",
+        "id": 3057431,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/ai-moratorium-trump-megabill-blackburn",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6862d51bb5d0f2cb11745514/master/pass/Trump-Megabill-Business-2222327981.jpg",
+        "title": "Senator Blackburn Pulls Support for AI Moratorium in Trump\u2019s \u2018Big Beautiful Bill\u2019 Amid Backlash",
+        "vote": 0
+    }
+]

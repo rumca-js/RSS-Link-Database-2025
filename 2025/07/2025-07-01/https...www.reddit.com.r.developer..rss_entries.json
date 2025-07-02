@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/ElMortii",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-01T20:44:50.546936+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-01T19:16:51+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So I\u2019m about to finish my second month into my new job, my job description is \u201cAnalyst Software Developer\u201d. The thing is, I\u2019m doubting if I\u2019ll be able to grow professionally in here because it\u2019s been 2 months and I\u2019m just in tech support. I have 1 yoe and I wouldn\u2019t want to stuck my growth this early on my career.</p> <p>I\u2019ll try to explain my situation as detailed as I can:</p> <ul> <li><p>In the interview my boss said they needed a developer to update their Nodejs project. Said that I would be doing updates in general to some projects.</p></li> <li><p>First week in I found out I was replacing someone (I\u2019m fine with that), but this person had duties that are not for a developer, and of course I got all of these duties. I\u2019ll specify them down below.</p></li> <li><p>Two months in, I\u2019ve just been uploading files using existing apps, and haven\u2019t even touched the node project, and in the other projects I have changed a few lines like changing x == 10 to x",
+        "id": 3061700,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1lpao3q/i_dont_develop_anything_in_my_new_software",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I don\u2019t develop anything in my new Software Developer job",
+        "vote": 0
+    }
+]
