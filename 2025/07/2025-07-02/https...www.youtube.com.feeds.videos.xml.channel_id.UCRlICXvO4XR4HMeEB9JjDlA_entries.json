@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T20:53:29.800717+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T20:00:50+00:00",
+        "description": "Not all animals, it turns out, take the conventional route when it comes to bringing their young into the world. Some go for... let\u2019s say, creative alternatives. Take the female hyena, for example. Rather unusually, she gives birth through an extended part of her anatomy\u2014which, as you might imagine, isn\u2019t exactly ideal for the task.\n\nThis rather odd evolutionary quirk can make the whole process quite complicated and, at times, rather uncomfortable for everyone involved.\n\nYes, it\u2019s all a bit much. Nature can be brilliant\u2014but occasionally, just occasionally, it seems to forget to read the manual.",
+        "id": 3071524,
+        "language": null,
+        "link": "https://www.youtube.com/shorts/zXKZx9XUoWo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zXKZx9XUoWo/hqdefault.jpg",
+        "title": "The Disturbing Way Hyenas Give Birth",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T16:27:39.398506+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T16:01:11+00:00",
+        "description": "A new Thunderbird for Mobile was just released and now we have access to Thunderbird email client on all platforms finally. This is an opportune moment to tell you why Thunderbird and apps like at are what you should use for email.  We will demonstrate this using an attack shown on Mr Robot which he used to trace the location of the FBI stalker. But this attack would fail on Thunderbird or even on Braxmail Webmail. Let's learn about the Beacon attack.\n\n----------------------------------\nBraX3 Privacy Phone is on https://braxtech.net\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me. \n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm here to educate. You are losing your Internet privacy and Internet security every day if you don't fight for it. Your ",
+        "id": 3069356,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=c5QBJ2PjjfI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c5QBJ2PjjfI/hqdefault.jpg",
+        "title": "Let's Test a Mr Robot Attack  on the New Thunderbird for Mobile",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T11:41:33.769177+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T09:01:16+00:00",
+        "description": "Lars Gotrich | July 2, 2025\nTwo guitars. Two voices. Fifteen years since the duo last stopped by the Tiny Desk, not much has changed in how they present themselves, right down to their preferred guitar tuner. This is how it's been, with some variation, for over three decades, in the timeless music of Gillian Welch and David Rawlings.\n\nAnd, yet, everything changes when you listen deeper and live longer. Behind the Desk, facing each other, the ballad \"Empty Trainload of Sky\" achieves an auditory illusion as their guitars chug and vocal harmonies swirl surrealistic imagery across a classic American canvas. \"Lawman\" could be about a corrupt politician a hundred years ago or yesterday. \"Hashtag,\" a tribute to the late Guy Clark, is, at turns, tragicomic (\"Singers like you and I are only news when we die\") and existential (\"When will we become ourselves?\"). These songs, from last year's Woodland, endure change with grace, leaning into small moments in order to make the outsized ones seem su",
+        "id": 3065720,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=lfGdjdxxOuU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lfGdjdxxOuU/hqdefault.jpg",
+        "title": "Gillian Welch & David Rawlings: Tiny Desk Concert",
+        "vote": 0
+    }
+]

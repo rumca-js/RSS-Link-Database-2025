@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T03:59:09.412040+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T03:21:31+00:00",
+        "description": "<p>Model Context Protocol (MCP) szybko staje si\u0119 fundamentem nowoczesnych system\u00f3w agentycznych AI, \u0142\u0105cz\u0105c modele j\u0119zykowe z zewn\u0119trznymi narz\u0119dziami i danymi. Jednak wraz z masowym przyj\u0119ciem tej technologii pojawiaj\u0105 si\u0119 nowe, wysoce zaawansowane wektory atak\u00f3w, kt\u00f3re wykraczaj\u0105 daleko poza tradycyjne luki bezpiecze\u0144stwa. Badacze z m.in. CyberArk, Invariant Labs i Straiker AI...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/odkryto-szereg-nowych-podatnosci-na-protokol-integracji-narzedzi-ai-model-context-protocol-wszystkie-moga-doprowadzic-do-wycieku-danych-z-modelu-llm/\">Odkryto szereg nowych podatno\u015bci na protok\u00f3\u0142 integracji narz\u0119dzi AI &#8211; Model Context Protocol, wszystkie mog\u0105 doprowadzi\u0107\u00a0do wycieku danych z modelu LLM</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3064645,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/odkryto-szereg-nowych-podatnosci-na-protokol-integracji-narzedzi-ai-model-context-protocol-wszystkie-moga-doprowadzic-do-wycieku-danych-z-modelu-llm",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Odkryto szereg nowych podatno\u015bci na protok\u00f3\u0142 integracji narz\u0119dzi AI \u2013 Model Context Protocol, wszystkie mog\u0105 doprowadzi\u0107\u00a0do wycieku danych z modelu LLM",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T18:04:16.112738+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T18:04:15+00:00",
+        "description": "Nie USA, nie Chiny, ale Australia dokona\u0142a prze\u0142omu, kt\u00f3ry mo\u017ce zmieni\u0107 ca\u0142y przemys\u0142 elektroniczny. Mikroprocesor przysz\u0142o\u015bci ju\u017c dzia\u0142a i daje lepsze wyniki ni\u017c klasyczne uk\u0142ady scalone.",
+        "id": 3070025,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art42646891-rewolucja-w-elektronice-powstal-chip-zaprojektowany-technologia-kwantowa",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rewolucja w elektronice. Powsta\u0142 chip zaprojektowany technologi\u0105 kwantow\u0105",
+        "vote": 0
+    }
+]

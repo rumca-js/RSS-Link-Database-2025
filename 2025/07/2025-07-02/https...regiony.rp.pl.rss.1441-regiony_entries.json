@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T13:06:21.043461+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T13:06:20+00:00",
+        "description": "Do podzia\u0142u mi\u0119dzy gminy z czterech wojew\u00f3dztw, kt\u00f3re ucierpia\u0142y w ubieg\u0142orocznej powodzi, jest 1,3 mld z\u0142 z programu FEnIKS. Najwi\u0119cej \u015brodk\u00f3w przeznaczono na odbudow\u0119 infrastruktury do zaopatrzenia w wod\u0119 pitn\u0105.",
+        "id": 3067506,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/fundusze-unijne/art42638611-ruszyl-nabor-na-odbudowe-infrastruktury-po-powodzi-pieniadze-z-funduszy-ue",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ruszy\u0142 nab\u00f3r na odbudow\u0119 infrastruktury po powodzi. Pieni\u0105dze z funduszy UE",
+        "vote": 0
+    }
+]

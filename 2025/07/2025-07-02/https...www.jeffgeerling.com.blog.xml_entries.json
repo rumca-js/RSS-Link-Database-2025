@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T16:57:19.485703+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T16:25:10+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">You will own nothing and be happy (Stop Killing Games)</span>\n\n            <blockquote>\n  <p><strong>tl;dr</strong>: If you're an EU citizen, <a href=\"https://eci.ec.europa.eu/045/public/#/screen/home\">sign the Stop Killing Games initiative here</a>. Or, if you're in the UK, <a href=\"https://petition.parliament.uk/petitions/702074/\">sign this petition</a>.</p>\n</blockquote>\n\n<p>A month ago, I had a <em>second</em> video on self-hosting <a href=\"https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated\">taken down</a>. YouTube said it was 'harmful or dangerous content'. I appealed that, but my appeal was rejected.</p>\n\n<p><em>Luckily</em>, I have enough reach I was able to get a <a href=\"https://x.com/TeamYouTube/status/1931119648675701161\">second chance</a>. Most content creators aren't so lucky, and content about tools like Jellyfin and LibreELEC get buried over time.</p>\n",
+        "id": 3069457,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "You will own nothing and be happy (Stop Killing Games)",
+        "vote": 0
+    }
+]

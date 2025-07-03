@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T12:42:12.015763+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T12:08:00+00:00",
+        "description": "<p>PSF Board elections are a chance for the community to choose representatives to help the PSF create a vision for and build the future of the Python community. This year, there are 4 seats open on the PSF Board. Check out who is currently on the PSF Board on <a href=\"https://www.python.org/psf/board/\" target=\"_blank\">our website</a>. (Dawn Wages, Jannis Leidel, Kushal Das, and Simon Willison are at the end of their current terms.)</p><h4 style=\"text-align: left;\">Office Hours Information</h4><p>This year, the PSF Board is dedicating a few of their <a href=\"https://pyfound.blogspot.com/2024/08/ask-questions-or-tell-us-what-you-think.html\" target=\"_blank\">regular Office Hour sessions</a> on the <a href=\"https://discord.gg/4Hm36PPgpG\" target=\"_blank\">PSF Discord</a> to the topic of the election. This is your chance to connect with current board members to ask questions and learn more about what being a part of the Board entails.&nbsp;<br /><br />The two upcoming Office Hour sessions wi",
+        "id": 3067078,
+        "language": null,
+        "link": "https://pyfound.blogspot.com/2025/07/thinking-about-running-for-psf-board.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Thinking about running for the PSF Board? Let\u2019s talk!",
+        "vote": 0
+    }
+]

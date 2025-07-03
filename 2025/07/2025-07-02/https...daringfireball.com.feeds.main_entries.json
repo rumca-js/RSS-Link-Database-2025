@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T16:25:27.481449+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T15:40:55+00:00",
+        "description": "<p>Jason Snell, writing at Six Colors:</p>\n\n<blockquote>\n  <p>Well, would you look at that? The A18 Pro is 46% faster than the\nM1 in single-core tasks, and almost identical to the M1 on\nmulti-core and graphics tasks. If you wanted to get rid of the M1\nMacBook Air but have decided that even today, its performance\ncharacteristics make it perfectly suitable as a low-cost Mac\nlaptop, building a new model on the A18 Pro would not be a bad\nmove. It wouldn\u2019t have Thunderbolt, only USB-C, but that\u2019s not a\ndealbreaker on a cheap laptop. It might re-use parts from the M1\nAir, including the display.</p>\n\n<p>I like that Apple sells a laptop at $649, and I think Apple likes\nit, too. A new low-end model might steal some buyers from the $999\nMacBook Air, but I\u2019d wager it would reach a lot of customers who\nmight otherwise not buy a full-priced Mac\u2009\u2014\u2009the same ones buying\nM1 MacBook Airs at Walmart.</p>\n</blockquote>\n\n<p>My first thought when I saw this rumor pop up was to dismiss it. But upon consider",
+        "id": 3069336,
+        "language": null,
+        "link": "https://sixcolors.com/post/2025/07/about-that-a16-macbook-rumor",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jason Snell: \u2018About That A18 Pro MacBook Rumor\u2019",
+        "vote": 0
+    }
+]

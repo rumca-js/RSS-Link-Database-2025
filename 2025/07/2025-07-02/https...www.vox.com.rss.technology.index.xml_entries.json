@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dylan Matthews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T13:16:51.342879+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T08:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Trump at the podium with business leaders\" data-caption=\"President Donald Trump, from left, Larry Ellison, co-founder and executive chairman of Oracle Corp., Masayoshi Son, chief executive officer of SoftBank Group Corp., and Sam Altman, chief executive officer of OpenAI Inc., in the Roosevelt Room of the White House in Washington, DC, on January 21. | Aaron Schwartz/Sipa/Bloomberg via Getty Images\" data-portal-copyright=\"Aaron Schwartz/Sipa/Bloomberg via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2194585190.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tPresident Donald Trump, from left, Larry Ellison, co-founder and executive chairman of Oracle Corp., Masayoshi Son, chief executive officer of SoftBank Group Corp., and Sam Altman, chief executive officer of OpenAI Inc., in the Roosevelt Room of the White House in Washington, DC, on January 21. | Aaron Schwartz/S",
+        "id": 3067528,
+        "language": null,
+        "link": "https://www.vox.com/future-perfect/418380/big-beautiful-bill-ai-data-center",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2194585190.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The One Big Beautiful Bill is one big disaster for AI",
+        "vote": 0
+    }
+]

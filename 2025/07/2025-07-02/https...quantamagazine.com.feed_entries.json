@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jenna Ahart",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T14:10:11.567993+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T14:00:18+00:00",
+        "description": "The precursors of heavy elements might arise in the plasma underbellies of swollen stars or in smoldering stellar corpses. They definitely exist in East Lansing, Michigan.            <p>The post <a href=\"https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/\" target=\"_blank\">Physicists Start To Pin Down How Stars Forge Heavy Atoms</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3068079,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/07/HeavyElementNucleosynthesis-crMarkBelan-Default.webp",
+        "title": "Physicists Start To Pin Down How Stars Forge Heavy Atoms",
+        "vote": 0
+    }
+]

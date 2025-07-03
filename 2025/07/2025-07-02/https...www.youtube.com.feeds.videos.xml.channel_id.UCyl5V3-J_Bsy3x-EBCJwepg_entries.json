@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T22:57:28.196564+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T21:55:41+00:00",
+        "description": "Following the U.S. Supreme Court's ruling in favor of President Trump, Justice Ketanji Brown Jackson penned a scathing rebuke in a dissenting opinion where she bravely wrote the catchphrase from the 2018 major motion picture Black Panther.\n\nBecome a premium subscriber: https://buff.ly/3mxrUba\n\nThe Official The Babylon Bee Store: https://shop.babylonbee.com/\n\nFollow The Babylon Bee:\nWebsite: https://babylonbee.com/\nX: https://X.com/thebabylonbee\nFacebook: https://www.facebook.com/TheBabylonBee\nInstagram: http://instagram.com/thebabylonbee\n\n#news #comedy #supremecourt",
+        "id": 3072382,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=j2lj_dufx1U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/j2lj_dufx1U/hqdefault.jpg",
+        "title": "In Powerful Dissent, Ketanji Brown Jackson Writes 'Wakanda Forever'",
+        "vote": 0
+    }
+]

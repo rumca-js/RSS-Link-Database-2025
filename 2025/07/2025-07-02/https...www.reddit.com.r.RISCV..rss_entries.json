@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/1r0n_m6n",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T06:29:44.306939+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T06:27:34+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>8-core, 2 GHz, RV64GCBH, the announcement is <a href=\"https://ultrarisc.github.io/ultrarisc-devblog/2025/06/18/dp1000-spec/\">here</a> and the company&#39;s web site <a href=\"https://ultrarisc.com/en/\">there</a>.</p> <p>A deepin Linux image is already <a href=\"https://deepin-community.github.io/sig-deepin-ports/images\">available</a>.</p> <p>I tried to find a development board, but no luck.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/1r0n_m6n\"> /u/1r0n_m6n </a> <br/> <span><a href=\"https://www.reddit.com/r/RISCV/comments/1lpopgn/new_desktopgrade_soc_ultrarisc_dp1000/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1lpopgn/new_desktopgrade_soc_ultrarisc_dp1000/\">[comments]</a></span>",
+        "id": 3065313,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1lpopgn/new_desktopgrade_soc_ultrarisc_dp1000",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New desktop-grade SoC: UltraRISC DP1000",
+        "vote": 0
+    }
+]

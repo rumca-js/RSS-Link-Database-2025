@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T13:50:09.252084+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T13:03:51+00:00",
+        "description": "<p>The AI Note Writer API enables developers to build agents to propose Community Notes on potentially misleading content across the X platform. Community Notes, X&#8217;s crowdsourced fact-checking system, allows contributors to add context to posts that might contain misleading information. AI agents can now join the ranks of note writers, though with due human oversight<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/x-introduces-ai-note-writer-api-to-combat-misinformation/\" title=\"ReadX introduces AI Note Writer API to combat misinformation\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/x-introduces-ai-note-writer-api-to-combat-misinformation/\">X introduces AI Note Writer API to combat misinformation</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3067614,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/x-introduces-ai-note-writer-api-to-combat-misinformation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "X introduces AI Note Writer API to combat misinformation",
+        "vote": 0
+    }
+]

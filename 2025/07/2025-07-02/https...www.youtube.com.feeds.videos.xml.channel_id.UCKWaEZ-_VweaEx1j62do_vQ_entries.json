@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-02T12:05:15.123278+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-02T11:01:59+00:00",
+        "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdnNJp\n\nLearn more about Guardium AI Security here \u2192 https://ibm.biz/Bdn7PF\n\nHow do you secure large language models from hacking and prompt injection? \ud83d\udd10 Jeff Crume explains LLM risks like data leaks, jailbreaks, and malicious prompts. Learn how policy engines, proxies, and defense-in-depth can protect generative AI systems from advanced threats. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdnNJh\n\n#llm #secureai #aihacking #aicybersecurity",
+        "id": 3067003,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=y8iDGA4Y650",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y8iDGA4Y650/hqdefault.jpg",
+        "title": "LLM Hacking Defense: Strategies for Secure AI",
+        "vote": 0
+    }
+]
