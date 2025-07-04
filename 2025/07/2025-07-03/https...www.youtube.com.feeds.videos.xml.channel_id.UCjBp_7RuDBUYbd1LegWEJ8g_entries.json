@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xbox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T14:04:07.826119+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T13:08:17+00:00",
+        "description": "A new dawn is upon us. Super Earth is expanding its operations and opening new enlistment centres.\nXbox players, your opportunity to enlist is coming when HELLDIVERS 2 deploys to Xbox Series X|S on August 26. \n\nTogether Helldivers, we\u2019ll even the odds and show the bugs, bots, and squids the true meaning of democracy. \n\nPre-order on Xbox: https://www.xbox.com/games/store/helldivers-2/9MX9WN9DFPGT/0017/9QCJCTQCJBJT\n\nHELLDIVERS 2 is developed by Arrowhead Game Studios and Nixxes Software.  \n \n *Gameplay requires internet access and paid-for subscription on console (sold separately). \n\nSUBSCRIBE TO XBOX: https://xbx.lv/2EEjmaR \n\nFOLLOW XBOX \nhttps://twitter.com/xbox \nhttps://www.facebook.com/xbox \nhttps://www.instagram.com/xbox/ \nhttps://www.tiktok.com/@xbox\nhttps://www.threads.net/@xbox\nhttps://bsky.app/profile/xbox.com",
+        "id": 3076983,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QmoO17UZE48",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 577,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QmoO17UZE48/hqdefault.jpg",
+        "title": "HELLDIVERS 2 - Deploying on Xbox",
+        "vote": 0
+    }
+]

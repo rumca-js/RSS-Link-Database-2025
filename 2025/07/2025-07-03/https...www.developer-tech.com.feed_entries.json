@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T10:25:12.091877+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T09:47:20+00:00",
+        "description": "<p>Meta is challenging the EU&#8217;s ruling that its ad-supported model does not comply with the Digital Markets Act (DMA). The tech giant claims the decision is both &#8220;incorrect and unlawful&#8221; and disregards a previous ruling from the EU&#8217;s highest court. In April, the European Commission concluded that Meta&#8217;s offering to European users \u2013 which allows<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/meta-slams-incorrect-unlawful-eu-dma-ruling/\" title=\"ReadMeta slams &#8216;incorrect and unlawful\u2019 EU DMA ruling\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/meta-slams-incorrect-unlawful-eu-dma-ruling/\">Meta slams &#8216;incorrect and unlawful\u2019 EU DMA ruling</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3075094,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/meta-slams-incorrect-unlawful-eu-dma-ruling",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Meta slams \u2018incorrect and unlawful\u2019 EU DMA ruling",
+        "vote": 0
+    }
+]

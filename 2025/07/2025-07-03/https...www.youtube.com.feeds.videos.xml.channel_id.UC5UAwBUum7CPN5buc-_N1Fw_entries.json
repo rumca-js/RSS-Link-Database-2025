@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T10:18:59.873348+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T09:40:16+00:00",
+        "description": "Learn more about TuxCare's Endless lifecycle Support for Spring and other distros, languages and Frameworks: https://tuxcare.com/endless-lifecycle-support/java-spring-eol-support/?utm_campaign=The%20Linux%20Experiment&utm_source=youtube&utm_medium=social\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en# https://www.youtube.com/watch?v=3d65Mnr8onE\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:27 Sponsor: TuxCare\n01:53 Pipeline\n03:29 Switcheroo\n04:05 Converseen\n04:44 Resources\n05:50 Mission Center\n06:27 Monit",
+        "id": 3075083,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Hqvkpkhv3_8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hqvkpkhv3_8/hqdefault.jpg",
+        "title": "16 GREAT LINUX FOSS APPS & UTILITIES I use, or plan to !",
+        "vote": 0
+    }
+]

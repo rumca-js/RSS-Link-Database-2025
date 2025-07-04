@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Academy of Ideas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T18:27:52.515799+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T18:11:45+00:00",
+        "description": "Access this video and over 100 others packed with wisdom to strengthen your mind and improve your life! - https://academyofideas.com/members/",
+        "id": 3079277,
+        "language": null,
+        "link": "https://www.youtube.com/shorts/xDqmbj_8B4o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 11,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiRiQGCHGjDLT9FQXFW0I3A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xDqmbj_8B4o/hqdefault.jpg",
+        "title": "The Dumbing Down of Humanity \u2013 Stolen Focus",
+        "vote": 0
+    }
+]

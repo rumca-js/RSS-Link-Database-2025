@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paresh Dave",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T21:51:30.538973+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T21:48:41+00:00",
+        "description": "Newly disclosed records show Attorney General Pam Bondi gave cover to not only Apple and Google, but also several other companies that help TikTok operate in the US.",
+        "id": 3080620,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6866f3a28d6264efbede3761/master/pass/pam-bondi-tiktok-biz-2221351537.jpg",
+        "title": "Trump\u2019s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies",
+        "vote": 0
+    }
+]

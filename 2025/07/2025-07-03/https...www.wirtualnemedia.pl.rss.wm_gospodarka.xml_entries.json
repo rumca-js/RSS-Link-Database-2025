@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T09:44:38.874897+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T09:44:38+00:00",
+        "description": "Koncern Microsoft poinformowa\u0142, \u017ce zredukuje liczb\u0119 zatrudnionych o ok. 4 proc. W wyniku tej decyzji prac\u0119 ma straci\u0107 ok. 9,1 tys. os\u00f3b. To najwi\u0119ksze ci\u0119cia w firmie od ponad 2 lat.",
+        "id": 3075029,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/microsoft-zapowiedzial-zwolnienie-ponad-9-tys-osob",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft zapowiedzia\u0142 zwolnienie ponad 9 tys. os\u00f3b",
+        "vote": 0
+    }
+]

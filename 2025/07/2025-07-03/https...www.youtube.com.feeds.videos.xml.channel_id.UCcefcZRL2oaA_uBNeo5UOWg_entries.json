@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T15:17:42.079903+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T14:00:10+00:00",
+        "description": "Fran\u00e7ois Chollet on June 16, 2025 at AI Startup School in San Francisco.\n\nFran\u00e7ois\u202fChollet is a leading voice in AI. He's the creator of the Keras library, author of Deep Learning with Python, and the founder of the ARC Prize, a global competition aimed at measuring true general intelligence.\n\nHe's spent years thinking deeply about what intelligence actually is, and why scaling up today\u2019s AI models isn\u2019t enough to reach it.\n\nIn this talk, he walks through the limits of pretraining and memorized skills, and lays out a path toward true general intelligence\u2014 AI that can adapt on the fly, reason in new situations, and invent novel solutions. He explains why abstraction and compositionality matter, how ARC became the benchmark for progress, and what his team at a new research lab called Ndea is building next.\n\nChapters:\n00:00 - The Falling Cost of Compute\n00:57 - Deep-Learning\u2019s Scaling Era & Benchmarks\n01:59 - The ARC Benchmark\n03:02 - The 2024 Shift to Test-Time Adaptation\n05:01 - What I",
+        "id": 3077629,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5QcCeSsNRks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5QcCeSsNRks/hqdefault.jpg",
+        "title": "Fran\u00e7ois Chollet: The ARC Prize & How We Get to AGI",
+        "vote": 0
+    }
+]

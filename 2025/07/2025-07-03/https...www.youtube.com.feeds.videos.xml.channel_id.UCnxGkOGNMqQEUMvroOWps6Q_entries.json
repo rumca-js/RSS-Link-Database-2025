@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T17:17:18.293508+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T17:01:01+00:00",
+        "description": "JRE #2345 w/Roman Yampolskiy\nYouTube: https://youtu.be/j2i9D24KQ5k\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 3078753,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bjnUJq5OONM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bjnUJq5OONM/hqdefault.jpg",
+        "title": "The Worst Case Scenario for AI",
+        "vote": 0
+    }
+]

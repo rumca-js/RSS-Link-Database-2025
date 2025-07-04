@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T21:47:27.012871+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T21:30:04+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />C++&rsquo;s undefined behaviour impacts safety. Sandor Dargo explains how and why uninitialised reads will become erroneous behaviour in C++26, rather than being undefined behaviour.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/33/186/dargo/\">C++26: Erroneous Behaviour</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIf you pick a random talk at a C++ conference these days, there is a fair chance that the speaker will mention safety at least a couple of times. It&rsquo;s probably fine like that. The committee and the community must think about improving both the safety situation and the reputation of C++.</p>\n\t<p>\n\t\tIf you follow what&rsquo;s going on in this space, you are probably aware that people have different perspectives on safety. I think almost everybody finds it important, but they wou",
+        "id": 3080616,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/07/cpp26-erroneous-behaviour-sandor-dargo2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/logo.png",
+        "title": "C++26: Erroneous Behaviour -- Sandor Dargo",
+        "vote": 0
+    }
+]

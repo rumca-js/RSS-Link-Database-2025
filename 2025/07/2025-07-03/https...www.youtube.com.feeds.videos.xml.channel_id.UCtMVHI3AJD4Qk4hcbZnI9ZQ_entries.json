@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SomeOrdinaryGamers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T21:07:55.906388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T20:48:44+00:00",
+        "description": "Hello guys and gals, it's me Mutahar again! This time we take a look at a problem that's existed for years but in the last few months has gotten significantly worse. Comment bots are something I tolerate but I really wanted to shed a light on how they are linking users to off-platform services where they exchange some of the worst things known to man. This needs to stop and hopefully YouTube moderation addresses this group that has remained out of the lime-light for so long. Thanks for watching!\nLike, Comment and Subscribe for more videos!",
+        "id": 3080317,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7fO4XzRYz5k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 309,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7fO4XzRYz5k/hqdefault.jpg",
+        "title": "YouTube Comment Bots Are Posting CP...",
+        "vote": 0
+    }
+]

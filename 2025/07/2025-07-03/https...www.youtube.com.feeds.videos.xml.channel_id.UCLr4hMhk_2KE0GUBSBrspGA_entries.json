@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T19:44:37.237074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T18:30:12+00:00",
+        "description": "Nothing wypu\u015bci\u0142o swoje pierwsze s\u0142uchawki nauszne - Nothing Headphone 1. S\u0105 przezroczyste, maj\u0105, aktywn\u0105 redukcj\u0119 szum\u00f3w i wygl\u0105d, kt\u00f3ry na pewno przyci\u0105ga uwag\u0119. Ale czy to wystarczy? \nCzy s\u0105 to s\u0142uchawki tylko dla ludzi, kt\u00f3rzy chc\u0105 wygl\u0105da\u0107 inaczej czy mo\u017ce r\u00f3wnie\u017c dla tych, kt\u00f3rzy lubi\u0105 super d\u017awi\u0119k?\n\nW odcinku:\n00:00 Wst\u0119p\n00:16 Design, czyli u\u017cyteczno\u015b\u0107\n02:38 Aplikacja (ANC, d\u017awi\u0119k przestrzenny, wzmocnienie basu, equalizer)\n04:37 Personalizacja ustawie\u0144 przycisk\u00f3w i prze\u0142\u0105cznik\u00f3w\n05:05 Etui i wyposa\u017cenie\n05:33 Brzmienie\n06:11 Podsumowanie",
+        "id": 3079845,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=J-ezQCxNfes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J-ezQCxNfes/hqdefault.jpg",
+        "title": "Nothing Headphone 1 \u2013 przezroczyste i zaskakuj\u0105co sensowne?",
+        "vote": 0
+    }
+]

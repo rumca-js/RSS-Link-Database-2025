@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-03T13:42:21.288098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T12:45:09+00:00",
+        "description": "\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e Drake Milly\n\ud83d\udc7e Ulises Moralez\n\ud83d\udc7e Goddard Tan\n\ud83d\udc7e David MG\n\ud83d\udc7e Matthew Springman\n\ud83d\udc7e Claudio\n\ud83d\udc7e Oscar R.\n\ud83d\udc7e jedi-or-sith\n\ud83d\udc7e Nattira Maneerat\n\ud83d\udc7e Justin Hual\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news",
+        "id": 3076522,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pHMtbdGoP_g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pHMtbdGoP_g/hqdefault.jpg",
+        "title": "Google Calendar Clone Tutorial \u2013 PHP, MySQL, JavaScript, HTML, and CSS",
+        "vote": 0
+    }
+]
