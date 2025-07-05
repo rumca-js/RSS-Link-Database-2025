@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T06:54:23.236484+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T05:52:26+00:00",
+        "description": "Axiomtek has introduced the KIWI330, an ultra-compact single board computer for edge AIoT projects with limited space. Measuring just 72&#8239;mm by 56&#8239;mm and 1.6&#8239;mm thick, the KIWI330 targets robotics, smart gateways, industrial automation, and other applications needing performance in a small footprint. As of publication, this Axiomtek board is configured with the Intel N50 Alder [&#8230;]",
+        "id": 3082680,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/axiomtek-kiwi330-combines-1-6-sbc-form-factor-with-alder-lake-n-processor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Axiomtek KIWI330 Combines 1.6\u2033 SBC Form Factor with Alder Lake-N Processor",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T08:10:40.709810+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T07:18:23+00:00",
+        "description": "Songs from KPop Demon Hunters have become massive hits, rivalling the success of real-life K-pop bands.",
+        "id": 3082954,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/clyl1zyv1y2o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad58/live/f096f370-5883-11f0-bdfb-73c69043696b.jpg",
+        "title": "Fictional K-pop bands zoom to top 10 of music charts",
+        "vote": 0
+    }
+]

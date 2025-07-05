@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T20:59:20.333590+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T20:29:29+00:00",
+        "description": "There are many surviving examples from history of the \"grotesque\" helmet - but who made them and why?\n\n\n\"The horned helmet of Henry VIII (more properly called the parade armet) is the surviving part of a full suit of armour made by Konrad Seusenhofer between 1511 and 1514. The armour was a gift from the Holy Roman Emperor Maximilian I to the English king Henry VIII, following their alliance in the War of the League of Cambrai. The suit was elaborate and intended for display at tournament parades. It is unclear who was the intended wearer of the armour, but it appears to have been modelled on one of Henry's court fools. Henry may have worn the armour as a jest. The helmet has protruding eyes and a toothy grimace and is adorned with horns and spectacles. The helmet survived when the rest of the suit of armour was scrapped, probably after the English Civil War, and it is now in the collection of the Royal Armouries Museum in Leeds, which formerly used it as a symbol of the museum.\"\n\nMore",
+        "id": 3087918,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=PZWO7sXH6xg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PZWO7sXH6xg/hqdefault.jpg",
+        "title": "Strange, Terrifying Helmets From History | Tales From the Bottle",
+        "vote": 0
+    }
+]

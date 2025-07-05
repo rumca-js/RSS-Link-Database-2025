@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T15:02:44.599662+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T14:23:10+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nJurassic World to pozbawiona pomys\u0142u produkcja, \u017ceruj\u0105ca na naszym sentymencie. Absolutnie szablonowe kopiuj-wklej z poprzednich ods\u0142on. Tw\u00f3rcy nawet si\u0119 nie starali zaprezentowa\u0107 nowego spojrzenia na seri\u0119. Zapraszam na recenzj\u0119!",
+        "id": 3085916,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EGPL5hFGTkA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EGPL5hFGTkA/hqdefault.jpg",
+        "title": "Jurassic World: Odrodzenie - \u017cenuj\u0105ce granie na sentymencie",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eric Berger",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T11:57:29.359955+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T11:00:22+00:00",
+        "description": "\"We will be able to industrialize Zephyr production up to 50 units per year.\"",
+        "id": 3084497,
+        "language": "en-US",
+        "link": "https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Themis_on_the_way_to_Kiruna-500x500.jpg",
+        "title": "Rocket Report: Japan\u2019s workhorse booster takes a bow; you can invest in SpaceX now",
+        "vote": 0
+    }
+]

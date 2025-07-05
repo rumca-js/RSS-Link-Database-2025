@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Jen Poyant, Chris Wood, Dan Powell and Marion Lozano",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T11:49:24.564686+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T11:00:03+00:00",
+        "description": "More from our first live show taping, including a robot pants demo and audience questions.",
+        "id": 3084490,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/07/04/podcasts/hardfork-live-patrick-collison.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/07/04/podcasts/04hardfork-live-2/04hardfork-live-2-mediumSquareAt3X-v2.png",
+        "title": "Hard Fork Live, Part 2: CEOs of Stripe and Skip",
+        "vote": 0
+    }
+]

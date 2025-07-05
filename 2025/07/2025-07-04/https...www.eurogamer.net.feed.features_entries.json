@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ed Nightingale",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T17:04:28.214437+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T16:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/LoP-difficulty.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>It's usually the dogs. Every Souls player knows how infuriating they can be as enemies, leaping from behind corners, gnashing their jaws, surprising players before swiftly removing a decent chunk of their health. If you've played <a href=\"https://www.eurogamer.net/games/bloodborne\">Bloodborne</a>, you'll know what I mean.</p> <p><a href=\"https://www.eurogamer.net/lies-of-p-overture-difficulty-options\">Read more</a></p>",
+        "id": 3086784,
+        "language": "en",
+        "link": "https://www.eurogamer.net/lies-of-p-overture-difficulty-options",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/LoP-difficulty.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Lies of P Overture's difficulty options are a DLC highlight, and another string to this approachable \"Director's Cut\" of the cult RPG",
+        "vote": 0
+    }
+]

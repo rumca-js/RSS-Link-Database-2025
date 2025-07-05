@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T15:12:10.977813+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T15:01:20+00:00",
+        "description": "Another day, another round of unnecessary layoffs.\n\nSupport us on Patreon: https://www.patreon.com/SecondWindGroup\n\nSecond Wind Merch: \nhttps://store.dftba.com/collections/second-wind\nhttps://sharkrobot.com/collections/second-wind",
+        "id": 3085930,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=iMYZwcHsCjI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iMYZwcHsCjI/hqdefault.jpg",
+        "title": "Xbox Is Doing Great \u2014 By the Way, You\u2019re Fired | Unpacked",
+        "vote": 0
+    }
+]

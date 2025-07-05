@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T19:07:00.309080+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T18:48:48+00:00",
+        "description": null,
+        "id": 3087312,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-prokuratura-wszczela-dochodzenie-chodzi-o-ataki-slowne-na-co,nId,22162279",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prokuratura wszcz\u0119\u0142a dochodzenie. Chodzi o ataki s\u0142owne na c\u00f3rk\u0119 Nawrockiego",
+        "vote": 0
+    }
+]

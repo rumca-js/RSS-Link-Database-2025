@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T17:47:51.854426+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T17:00:49+00:00",
+        "description": "Once upon a time, the word blockbuster meant something big \u2014 a summer tentpole film with an A-list star, a visionary director, and massive box office expectations. But in today\u2019s streaming era, the term has shifted\u2026 and not for the better.\n\nWith platforms like Netflix pouring millions into original films, you'd expect groundbreaking, unforgettable hits. Instead, many of these so-called \u201cstreaming blockbusters\u201d feel flat, formulaic, and instantly forgettable. Despite big budgets and star-studded casts, something\u2019s missing.\n\nSo what exactly happened? Why do Netflix\u2019s major releases feel like they\u2019re blending into one? \n\n#netflix #streaming #theelectricstate #ryangosling",
+        "id": 3086892,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TcHJvtRK2uY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TcHJvtRK2uY/hqdefault.jpg",
+        "title": "Why All Netflix Blockbusters Feel the Same",
+        "vote": 0
+    }
+]

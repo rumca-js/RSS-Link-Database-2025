@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Bode",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T03:09:30.305667+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T02:39:44+00:00",
+        "description": "From the massive handout to already-wealthy Americans to the likely fatal cuts to Medicaid, there&#8217;s plenty to be disgusted by in the GOP Budget bill approved by Congress today. But there&#8217;s also a lot of little gifts in there to corporations that will likely fly under the radar, including a massive new handout of valuable [&#8230;]",
+        "id": 3081939,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/07/03/gop-budget-bill-includes-massive-spectrum-handout-to-large-wireless-carriers-hurting-wifi-speeds",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GOP Budget Bill Includes Massive Spectrum Handout To Large Wireless Carriers, Hurting WiFi Speeds",
+        "vote": 0
+    }
+]

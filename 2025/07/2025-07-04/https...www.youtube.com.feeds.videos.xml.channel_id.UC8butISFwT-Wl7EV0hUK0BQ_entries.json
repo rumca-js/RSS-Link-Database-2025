@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T12:27:24.319202+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T12:01:15+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Hill. He's a software engineer who works on a data platform for NASA. \n\nJoe taught himself programming for 4 years while working as a janitor. As the single father of two Autistic boys, he first used his programming skills to build an iPad app to help them learn how to talk.\n\nWe talk about:\n- Data Engineering and wrangling Department of Defense data into a central platform\n- The role of soft skills in getting things done in big organizations\n- The need for patience and practice in self-teaching\n- How to stop jumping from one tool to another and to instead go deep\n- Tips for parents raising kids with Autism\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 11,384 kind folks w",
+        "id": 3084518,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cMOz7Tyq7aE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cMOz7Tyq7aE/hqdefault.jpg",
+        "title": "From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]",
+        "vote": 0
+    }
+]

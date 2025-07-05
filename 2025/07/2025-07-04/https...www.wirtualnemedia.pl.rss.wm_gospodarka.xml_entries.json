@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T04:12:08.558427+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T04:12:08+00:00",
+        "description": "Od \u201ezaledwie\u201d 622 tysi\u0119cy do ponad 21 milion\u00f3w dolar\u00f3w rocznie \u2013 takie kwoty trafiaj\u0105 do kieszeni CEO zarz\u0105dzaj\u0105cych najwi\u0119kszymi na \u015bwiecie holdingami reklamowymi. Raport na ten temat publikuje bran\u017cowy AdWeek.",
+        "id": 3082136,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/szefowie-holdingow-reklamowych-zarabiaja-fortune-rekordzista-w-przeliczeniu-75-mln-zl",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Szefowie holding\u00f3w reklamowych zarabiaj\u0105 fortun\u0119. Rekordzista w przeliczeniu 75 mln z\u0142",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T14:57:20.787088+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T14:00:28+00:00",
+        "description": "Mini NASes are coming out at a rapid pace. Do any of them have the right balance between IO, power, and noise to fit in my mini homelab?\n\nMentioned in this video (some links are affiliate links):\n\n  - Aiffro K100: https://www.aiffro.com/products/all-ssd-nas-k100\n  - Beelink ME mini: https://amzn.to/4lvu6Zv\n  - GMKtec G9: https://amzn.to/3Tb9Kso\n\nEquipment I used for testing / measurement:\n\n  - Kingspec NX 2TB NVMe SSD: https://amzn.to/46e83BW\n  - ThirdReality Zigbee Smart Outlet: https://amzn.to/4emI25t\n  - Reed Instruments R8050 Sound Level Meter: https://amzn.to/4nmHsZB\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - Three mini NASes\n00:50 - Fast NVMes and a hot G9\n01:22 - Aiffro K100\n03:12 - K100 BIOS, performance, thermals\n04:39 - Beelink and insid",
+        "id": 3085902,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8VBnxEQKG3o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8VBnxEQKG3o/hqdefault.jpg",
+        "title": "The Mini NAS has arrived! (mini homelab)",
+        "vote": 0
+    }
+]

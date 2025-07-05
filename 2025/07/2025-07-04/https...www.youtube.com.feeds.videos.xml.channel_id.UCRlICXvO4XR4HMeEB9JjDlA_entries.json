@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T20:37:40.006355+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T20:00:37+00:00",
+        "description": "In 1975 in Los Angeles, young Kevin Mitnick had his first ever experience of social engineering. When riding buses he noticed that all drivers used the same special hole punch to verify tickets. Under the guise of doing a school project, he asked one bus driver how he could buy one. Social engineering is a hacking technique used to get others to reveal information that they shouldn\u2019t in order to carry out a hack. This was just the first of hundreds that Kevin would carry out in his lifetime and gave him a taste of what a single person could do - in this case, through trickery, local knowledge and dumpster diving, it was riding the buses for free!",
+        "id": 3087883,
+        "language": null,
+        "link": "https://www.youtube.com/shorts/ngR22kEGw00",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ngR22kEGw00/hqdefault.jpg",
+        "title": "Would You Fib for Free Bus Fares?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T16:04:39.046639+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T16:04:38+00:00",
+        "description": "Mieszka\u0144cy Warszawy i okolic, kt\u00f3rzy nielegalnie pobieraj\u0105 wod\u0119 z miejskiej sieci lub s\u0105 bezumownie wpi\u0119ci do kanalizacji, nie b\u0119d\u0105 za to ukarani, o ile ureguluj\u0105 swoje przy\u0142\u0105czenie.",
+        "id": 3086313,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/uslugi-komunalne/art42658201-abolicja-za-nielegalny-pobor-wody-ale-trzeba-podpisac-umowe",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Abolicja za nielegalny pob\u00f3r wody. Ale trzeba podpisa\u0107 umow\u0119",
+        "vote": 0
+    }
+]

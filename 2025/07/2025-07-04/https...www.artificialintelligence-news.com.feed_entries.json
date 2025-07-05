@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T12:56:38.211116+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T12:44:51+00:00",
+        "description": "<p>The UK and Singapore are laying the groundwork for what might become a blueprint for international AI cooperation in finance. For their tenth annual Financial Dialogue, representatives from the UK\u2019s Financial Conduct Authority and Singapore&#8217;s Monetary Authority met in London earlier this week alongside fintech companies from both nations showing off their latest AI solutions. [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/uk-and-singapore-form-alliance-guide-ai-in-finance/\">UK and Singapore form alliance to guide AI in finance</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3084901,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/uk-and-singapore-form-alliance-guide-ai-in-finance",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "UK and Singapore form alliance to guide AI in finance",
+        "vote": 0
+    }
+]

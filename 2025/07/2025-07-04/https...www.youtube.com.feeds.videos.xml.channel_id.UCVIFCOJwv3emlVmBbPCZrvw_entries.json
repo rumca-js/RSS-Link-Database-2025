@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joel Haver",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T16:19:04.212954+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T16:01:35+00:00",
+        "description": "Consider supporting the project on Patreon - https://patreon.com/joelhaver\n(and if you do don't use the iOS app, they have a crazy uncharge)\n\nFeaturing @TrentLenkarski \n\nAnimated by me, @MattyKiel and @alexmartens \n\nMore Animations - https://youtube.com/playlist?list=PLKtIcOP0WvJDZemPYZZQSqotCgpps5DbX&si=bRNGP3We0F68_C7q\n\nFurther Support - \nPaypal: https://bit.ly/2ZI7uff\n\nOther Channels -\nJoel Talks About Movies - https://www.youtube.com/channel/UCTy7s81ii4fe4xNMGFNwYxA\ngoodlongpee - https://www.youtube.com/c/goodlongpee\n\nMerch - https://joelstuff.store\n\nSocial - \nInstagram: https://www.instagram.com/joelhaver\nTwitter: https://twitter.com/joelhaver\nDrawings: https://www.instagram.com/joeldrawsandwriteshaver\nLetterboxd: https://letterboxd.com/joelhaver",
+        "id": 3086381,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=o4omrB369VM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 431,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVIFCOJwv3emlVmBbPCZrvw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o4omrB369VM/hqdefault.jpg",
+        "title": "I turned down a [REDACTED] show",
+        "vote": 0
+    }
+]

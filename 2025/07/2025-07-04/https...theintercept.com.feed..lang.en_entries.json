@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Noah Hurowitz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-04T10:12:16.001450+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-04T10:00:00+00:00",
+        "description": "<p>Iranian immigrants to the U.S. already faced higher scrutiny. After the U.S. waded into Israel\u2019s war on Iran, ICE seems to be targeting them.</p>\n<p>The post <a href=\"https://theintercept.com/2025/07/04/are-we-at-risk-wave-of-ice-arrests-strikes-fear-in-iranian-communities/\">\u201cAre We At Risk?\u201d Wave of ICE Arrests Strikes Fear in Iranian Communities</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3083667,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/07/04/are-we-at-risk-wave-of-ice-arrests-strikes-fear-in-iranian-communities",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2221487830.jpg",
+        "title": "\u201cAre We At Risk?\u201d Wave of ICE Arrests Strikes Fear in Iranian Communities",
+        "vote": 0
+    }
+]
