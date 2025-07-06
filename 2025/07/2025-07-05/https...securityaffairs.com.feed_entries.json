@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pierluigi Paganini",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T17:17:05.312285+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T16:32:55+00:00",
+        "description": "North Korea-linked hackers use fake Zoom updates to spread macOS NimDoor malware, targeting crypto firms with stealthy backdoors. North Korea-linked threat actors are targeting Web3 and crypto firms with NimDoor, a rare macOS backdoor disguised as a fake Zoom update. Victims are tricked into installing the malware through phishing links sent via Calendly or Telegram. [&#8230;]",
+        "id": 3092636,
+        "language": "en-US",
+        "link": "https://securityaffairs.com/179643/malware/north-korea-linked-threat-actors-spread-macos-nimdoor-malware-via-fake-zoom-updates.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 298,
+        "source_url": "https://securityaffairs.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "North Korea-linked threat actors spread macOS NimDoor malware via fake Zoom updates",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T13:17:06.473577+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T13:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Microsoft recently released preview updates for Windows 11 and also announced that <a href=\"https://www.pcworld.com/article/2831833/windows-11-25h2-update-wont-be-as-disruptive-as-version-24h2.html\">Windows 11 25H2 is coming</a> along with the changes it will bring. Some dynamic updates have also been delivered. But on top of all this, Microsoft has quietly \u201cforce-installed\u201d another update on Windows 10 and 11 PCs, according to <a href=\"https://www.neowin.net/news/microsoft-quietly-installs-kb5001716-on-your-windows-11-and-10-pcs/\">Neowin</a>.</p>\n\n\n\n<p>The \u201csecret\u201d patch with update code KB5001716 has already arrived for some users, but others are apparently still waiting. (We have not yet discovered it on our own Windows 11 PCs.)</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"whats-in-the-kb5001716-update\">What\u2019s in the KB5001716 update?</h2>\n\n\n\n<p>Update KB5001",
+        "id": 3091380,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2833401/why-microsoft-installed-a-secret-update-on-some-windows-10-and-11-pcs.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why Microsoft installed a \u2018secret\u2019 update on some Windows 10 and 11 PCs",
+        "vote": 0
+    }
+]

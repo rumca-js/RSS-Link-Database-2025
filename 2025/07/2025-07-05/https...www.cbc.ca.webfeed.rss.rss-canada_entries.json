@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T14:49:33.410559+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T08:06:35+00:00",
+        "description": "<img src='https://i.cbc.ca/1.7577926.1751664723!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/caring-cabin.jpg' alt='A Black man smiles next to a squirrel puppet. ' width='620' height='349' title='Musician Beverly Glenn-Copeland stars in the pilot of Caring Cabin, which began streaming online on July 1. '/><p>When Beverly Glenn-Copeland and his partner Elizabeth first conceived of a new children's TV show, they set out to teach kids about caring for the planet, the importance of community and adapting to change.\u00a0A few years into the process, they realized the lessons, especially around adaptation, were also for them.\u00a0</p>",
+        "id": 3091985,
+        "language": null,
+        "link": "https://www.cbc.ca/news/canada/hamilton/beverly-glenn-copeland-caring-cabin-1.7577924?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/1.7577926.1751664723!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/caring-cabin.jpg",
+        "title": "Mr. Dressup actor and musician Beverly Glenn-Copeland brings 'pure love' back to the screen with kids TV pilot",
+        "vote": 0
+    }
+]

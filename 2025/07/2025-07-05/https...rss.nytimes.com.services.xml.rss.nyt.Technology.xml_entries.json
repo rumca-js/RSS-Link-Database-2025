@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nico Grant and Tripp Mickle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T09:30:09.272375+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T09:00:05+00:00",
+        "description": "More than a decade after the platform cracked down on copyright infringement, thousands of unlicensed movies, TV shows and live sports are available.",
+        "id": 3090512,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/07/05/technology/youtube-piracy-movies-copyright.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/07/05/business/00youtube-piracy-illo/00youtube-piracy-illo-mediumSquareAt3X.jpg",
+        "title": "YouTube Pirates Are Cashing In on Hollywood\u2019s Summer Blockbusters",
+        "vote": 0
+    }
+]

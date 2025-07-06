@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T22:02:33.093643+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T21:00:25+00:00",
+        "description": "The PNG spec has been mostly unchanged for the past 21 year but just a few days ago that changed and a we saw some major new additions like HDR and official recognition of APNG.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nPNG Spec: https://www.w3.org/TR/png-3/\nUpdate: https://www.programmax.net/articles/png-is-back/\nCICP: https://svgees.us/blog/cICP.html\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xyz/github\n\n==========Credits=========",
+        "id": 3093766,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Q1tIl125Y00",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q1tIl125Y00/hqdefault.jpg",
+        "title": "PNG Spec First Major Update In 21 Years",
+        "vote": 0
+    }
+]

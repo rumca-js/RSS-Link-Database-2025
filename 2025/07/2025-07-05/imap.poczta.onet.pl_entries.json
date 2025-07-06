@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "No-IP Notices <notice-33693587@noip.com>",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T07:32:35.576397+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T07:05:15+00:00",
+        "description": "\r\nrenegat0x0.ddns.net is about to expire.\r\n\r\nPlease confirm your hostname now. Inactive hostnames are removed from our system if they are not confirmed every 30 days. This policy helps keep only active hostnames on our network.\r\n\r\nConfirm your hostname now: https://www.noip.com/confirm-host?n=bdnmQNUZ2DD9syKONA7\r\n\r\nThis message only goes out to Free Dynamic DNS accounts. Upgrade to Enhanced Dynamic DNS today!\r\n\r\nBenefits of Upgrading Include:\r\n\r\n * Removes 30-day account confirmation\r\n * Hostnames don&#039;t get deleted every 30 days\r\n * Includes 1 No-IP Vital Encrypt DV SSL Certificate\r\n * Allows you to create up to 25 hostnames\r\n * Removes advertisements on redirects\r\n * Advanced records like SRV, TXT records and domain keys\r\n * Need Help? Awesome Phone Support\r\n\r\nUpgrade to Enhanced Dynamic DNS for as low as $1.99/mo or $19.99/yr. Coupon Code:  HOSTNAME20 20% off Enhanced Dynamic DNS * \r\nhttps://www.noip.com/plan-builder/add-product-uri?product_name=account.enhanced&term=2&EPCODE=H",
+        "id": 3090047,
+        "language": null,
+        "link": "email://imap.poczta.onet.pl/winstonarmanip@op.pl/<4602803319af9e13f937d6a3ca99dbe5@swift.generated>",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 621,
+        "source_url": "imap.poczta.onet.pl",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ACTION REQUIRED: renegat0x0.ddns.net is Expiring Soon",
+        "vote": 0
+    }
+]

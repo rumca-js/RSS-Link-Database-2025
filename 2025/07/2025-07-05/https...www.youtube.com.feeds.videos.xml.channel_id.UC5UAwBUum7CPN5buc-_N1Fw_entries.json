@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T08:53:02.594642+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T08:31:41+00:00",
+        "description": "Try out Proton Mail, the secure email that protects your privacy: https://proton.me/mail/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en# https://www.youtube.com/watch?v=3d65Mnr8onE\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps\n00:00 Intro\n00:38 Sponsor: SquareSpace\n01:31 Torvalds kicks BcacheFS out of the kernel\n03:09 Wayback is an X11 on Wayland compatibility layer\n05:09 Flathub reaches 3 billion downloads\n07:20 Nvidia developer joins the NOVA driver project\n08:48 Fedora drops proposal to ditch 32 bit archite",
+        "id": 3090289,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=jSNgS9siL44",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jSNgS9siL44/hqdefault.jpg",
+        "title": "X11 to Wayland is fixed? BcacheFS is gone, Flathub is HUGE - Linux Weekly News",
+        "vote": 0
+    }
+]

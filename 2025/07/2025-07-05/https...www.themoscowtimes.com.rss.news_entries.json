@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T08:10:30.736844+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T08:10:30+00:00",
+        "description": "\u201cHe wants to go all the way, just keep killing people, it\u2019s no good,\u201d the U.S. President told reporters aboard Air Force One.",
+        "id": 3090182,
+        "language": "en-us",
+        "link": "https://www.themoscowtimes.com/2025/07/05/trump-says-hes-very-unhappy-with-putin-call-hints-at-new-sanctions-a89691",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 350,
+        "source_url": "https://www.themoscowtimes.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump Says He\u2019s \u2018Very Unhappy\u2019 With Putin Call, Hints at New Sanctions",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T04:14:19.215186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T04:14:18+00:00",
+        "description": "Google rozwijaj\u0105c AI Overview znacz\u0105co przyczynia si\u0119 do spadku ruchu na stronach WWW. To chwieje ca\u0142ymi modelami biznesowymi i zmusza do ich zmiany. Tym razem technologiczny gigant wyszed\u0142 z inicjatyw\u0105 pomocy wydawcom i stworzy\u0142 Offerwall. Co to jest i jakie daje mo\u017cliwo\u015bci?",
+        "id": 3089431,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/offerwall-dla-wydawcow-czyli-reklamy-z-nagroda-od-google-a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Offerwall dla wydawc\u00f3w, czyli reklamy z nagrod\u0105 od Google'a",
+        "vote": 0
+    }
+]

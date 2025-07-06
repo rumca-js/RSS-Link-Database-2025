@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T07:02:03.565093+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T06:57:40+00:00",
+        "description": null,
+        "id": 3089841,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-radoslaw-sikorski-komentuje-slowa-andrzeja-dudy-nie-spodziew,nId,22162333",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rados\u0142aw Sikorski komentuje s\u0142owa Andrzeja Dudy. \"Nie spodziewa\u0142em si\u0119\"",
+        "vote": 0
+    }
+]

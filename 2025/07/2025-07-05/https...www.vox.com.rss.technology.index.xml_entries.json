@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sean Illing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T10:42:25.226900+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T06:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"The text software ChatGPT is seen on a laptop screen.\" data-caption=\"\" data-portal-copyright=\"Frank Rumpenhorst/Picture Alliance via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-1246733863.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">What\u2019s the point of college if no one\u2019s actually doing the work?</p>\n\n<p class=\"has-text-align-none\">It\u2019s not a rhetorical question. More and more students are not doing the work. They\u2019re offloading their essays, their homework, even their exams, to AI tools like ChatGPT or Claude. These are not just study aids. They\u2019re doing <em>everything</em>.</p>\n\n<p class=\"has-text-align-none\">We\u2019re living in a cheating utopia \u2014 and professors know it. It\u2019s becoming increasingly common, and faculty are either too burned out or unsupported to do anything about it. And even if they wanted to ",
+        "id": 3090801,
+        "language": null,
+        "link": "https://www.vox.com/the-gray-area/418793/chatgpt-claude-ai-higher-education-cheating",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-1246733863.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Is ChatGPT killing higher education?",
+        "vote": 0
+    }
+]

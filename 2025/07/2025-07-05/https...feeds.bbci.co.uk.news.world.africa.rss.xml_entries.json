@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T23:29:22.439404+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T23:22:31+00:00",
+        "description": "An 88th-minute strike from Ghizlane Chebbak rescues a point for hosts Morocco after Barbra Banda looked to have earned Zambia victory in Rabat.",
+        "id": 3094233,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/sport/football/articles/cpvj1rvlwrxo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b0c/live/d037c610-59ee-11f0-867a-9127f5324c57.jpg",
+        "title": "Morocco and Zambia draw opening match of Wafcon 2024",
+        "vote": 0
+    }
+]

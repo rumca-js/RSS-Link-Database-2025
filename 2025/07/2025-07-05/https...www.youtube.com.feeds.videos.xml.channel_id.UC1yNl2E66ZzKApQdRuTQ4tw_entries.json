@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T16:09:59.016626+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T15:01:38+00:00",
+        "description": "Go to http://curiositybox.com/sabine and use code 25SABINE to get 25% off your first box\n\nParticle accelerator technology has just gotten bigger and bigger over the years, making physics more and more expensive. Luckily, researchers are looking into alternatives to the CERN\u2019s multi-kilometer accelerators. Today we\u2019re taking a look at the so-called micronozzle, a new concept in the world of particle accelerator tech \u2014 and a promising one.\n\nPaper: https://www.nature.com/articles/s41598-025-03385-x\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.spotify.com/show/0MkNfXlKnMPEUMEeKQYmYC\n\ud83d\udd17 Join this channel to get access",
+        "id": 3092353,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=v2XWwIJ6Ilg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v2XWwIJ6Ilg/hqdefault.jpg",
+        "title": "Physicists Just Invented a New Particle Accelerator!",
+        "vote": 0
+    }
+]

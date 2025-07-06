@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-05T14:58:50.476549+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-05T08:00:00+00:00",
+        "description": "<p><span>\n\nBack when I was still masking on the subway for covid (</span>\n\n<a href=\"https://www.jefftk.com/p/masking-to-avoid-missing-things\">to\navoid missing things</a>) I also did some \n\n<a href=\"https://www.jefftk.com/p/workday-air-quality-measurements\">air\nquality measuring</a>.  I found that the subway and stations had the\nworst air quality of my whole day by far, over 1k ug/m3, and\nconcluded:\n\n\n\n<p>\n\n</p>\n\n<blockquote>\n\nBased on these readings, it would be safe from a covid perspective to\nremove my mask in the subway station, but given the high level of\nparticulate pollution I might as well leave it on.\n\n</blockquote>\n\n\n\n<p>\n\nWhen I stopped masking in general, though, I also stopped masking on\nthe subway.\n\n</p>\n\n<p>\n\nA few weeks ago I was hanging out with someone who works in air\nquality, and they said subways had the worst air quality they'd\nmeasured anywhere outside of a coal mine.  Apparently the braking\nsystem releases lots of tiny iron particles, which are bad for your\nlung",
+        "id": 3092006,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/masking-on-the-subway",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/masking-on-the-subway.jpg",
+        "title": "Masking on the Subway",
+        "vote": 0
+    }
+]
