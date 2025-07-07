@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T21:53:01.778282+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T21:00:37+00:00",
+        "description": "There are a lot of Linux distros out there, one might even argue to many distros but don't let that stop you from making something unique and interesting if you've got a cool idea.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nYggdrasil Linux: https://archive.org/details/yggdrasil-plug-and-play-linux-fall-1995-cd\nCanaima: https://canaima.softwarelibre.gob.ve/\nAstra Linux: https://en.wikipedia.org/wiki/Astra_Linux\nUniversal Blue: https://universal-blue.org/\nSlint: https://slint.fr/\nBedrock: https://bedrocklinux.org/\nWolfi: https://www.chainguard.dev/unchained/introducing-wolfi-the-first-linux-un-distro-designed-for-securing-the-software-supply-chain\nNitrux: https://nxos.org/\nTails: https://tails.net/\nStatic Linux: https://sta.li/\nQ4OS: https://q4os.org/\n\n=========Video",
+        "id": 3099478,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=V4TImyara0Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V4TImyara0Y/hqdefault.jpg",
+        "title": "10 Unique Linux Distros You Need To Know About",
+        "vote": 0
+    }
+]

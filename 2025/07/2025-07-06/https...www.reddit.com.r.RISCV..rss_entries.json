@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Slammernanners",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T15:54:39.593832+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T15:17:07+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m reading the RVV 0.7.1 vector manual and it&#39;s talking about the funky Vector AMO instructions. The encoding scheme has space for only 3 registers, but according to the XuanTie manual <a href=\"https://occ-intl-prod.oss-ap-southeast-1.aliyuncs.com/resource/XuanTie-OpenC906-UserManual.pdf\">here</a> (look for &quot;vamo&quot;), every instruction has 4 registers provided. So, how exactly do they make this work with the encoding? It&#39;s not clear if vs3 and vd should be the same or different or if there is some other hidden rule here.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Slammernanners\"> /u/Slammernanners </a> <br/> <span><a href=\"https://www.reddit.com/r/RISCV/comments/1lt3oup/xtheadzvamo_instruction_encoding_with_4_registers/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1lt3oup/xtheadzvamo_instruction_encoding_with_4_registers/\">[comments]</a></span>",
+        "id": 3097883,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1lt3oup/xtheadzvamo_instruction_encoding_with_4_registers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "XTheadZvamo instruction encoding with 4 registers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T07:52:03.537308+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T07:47:34+00:00",
+        "description": "The Dalai Lama celebrates his 90th birthday and says he hopes to lives for another 40 years until he is 130",
+        "id": 3095553,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c14eppgrgvno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce3/live/932f3540-5a30-11f0-960d-e9f1088a89fe.jpg",
+        "title": "Thousands turn out to mark the Dalai Lama's 90 birthday",
+        "vote": 0
+    }
+]

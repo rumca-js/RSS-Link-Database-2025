@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T13:57:33.624396+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T13:06:56+00:00",
+        "description": "These games simply spoiled us with their quality.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro\n0:22 Red Dead Redemption 2\n3:03 Elden Ring\n5:35 Fallout: New Vegas\n8:27 Legend of Zelda: Tears of the Kingdom\n11:03 Astro Bot\n13:15 Baldur's Gate 3\n15:44 Inscryption\n17:36 Hollow Knight\n18:40 Smash Bros Ultimate\n20:28 Half-Life: Alyx",
+        "id": 3097127,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=KdyZLB0xjmk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KdyZLB0xjmk/hqdefault.jpg",
+        "title": "10 Games That RUINED Single Player Games For Us",
+        "vote": 0
+    }
+]

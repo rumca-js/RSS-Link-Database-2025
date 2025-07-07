@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Maegan Vazquez",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T00:36:10.194353+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T00:13:25+00:00",
+        "description": "The richest man in the world says he has started \u201cthe America Party.\u201d Turning it into a meaningful movement will be difficult.",
+        "id": 3094469,
+        "language": null,
+        "link": "https://www.washingtonpost.com/politics/2025/07/05/msuk-america-party",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "6 of the biggest challenges facing Musk\u2019s new political party",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T19:24:24.259784+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T18:30:03+00:00",
+        "description": "The Velvet Sundown to zesp\u00f3\u0142, kt\u00f3ry wygl\u0105da jak \u017cywcem wyj\u0119ty z ok\u0142adki winyla z lat 70., ale\u2026 nie istnieje. Mimo to ma ponad milion s\u0142uchaczy na Spotify i jest popularny nie tylko tam.\nW tym odcinku m\u00f3wi\u0119 o tym, jak algorytmy zjadaj\u0105 muzyk\u00f3w, jak rozpozna\u0107 muzyk\u0119 zrobion\u0105 w AI i czy za kilka lat jeszcze kto\u015b b\u0119dzie chcia\u0142 s\u0142ucha\u0107 ludzi. Po drodze troch\u0119 o Suno, o Danielu Eku inwestuj\u0105cym w bro\u0144, fa\u0142szywych zespo\u0142ach i prawdziwej kasie. Stworzy\u0142em te\u017c dwie piosenki. Obie moim zdaniem hitowe.\nNa koniec: CEO, kt\u00f3rzy ju\u017c nawet nie m\u00f3wi\u0105 do kamer, tylko wysy\u0142aj\u0105 swoje awatary. A roboty? Graj\u0105 w pi\u0142k\u0119.\n\nCzapki z daszkiem wr\u00f3ci\u0142y! https://znosne.pl",
+        "id": 3098918,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oQYYKG1lQJI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oQYYKG1lQJI/hqdefault.jpg",
+        "title": "Ten zesp\u00f3\u0142 nie istnieje. Ale ma milion s\u0142uchaczy.",
+        "vote": 0
+    }
+]

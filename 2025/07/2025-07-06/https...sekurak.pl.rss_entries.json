@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T23:09:57.069622+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T22:42:20+00:00",
+        "description": "<p>Sudo to framework z tekstowym interfejsem, krytyczny z punktu widzenia bezpiecze\u0144stwa system\u00f3w z rodziny GNU/Linux, UNIX i MacOS. Dzi\u0119ki niemu, uprawnieni u\u017cytkownicy mog\u0105 wykonywa\u0107 polecenia w kontek\u015bcie innych kont w systemie, a w szczeg\u00f3lno\u015bci jako superuser (root), bez konieczno\u015bci wsp\u00f3\u0142dzielenia hase\u0142 konta administratora. Nie jest to z pewno\u015bci\u0105 narz\u0119dzie obce...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/krytyczna-podatnosc-w-sudo-cve-2025-32462-cve-2025-32463-potrzebna-jest-aktualizacja/\">Krytyczna podatno\u015b\u0107 w Sudo (CVE-2025-32462/CVE-2025-32463) &#8211; potrzebna jest aktualizacja</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3099812,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/krytyczna-podatnosc-w-sudo-cve-2025-32462-cve-2025-32463-potrzebna-jest-aktualizacja",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Krytyczna podatno\u015b\u0107 w Sudo (CVE-2025-32462/CVE-2025-32463) \u2013 potrzebna jest aktualizacja",
+        "vote": 0
+    }
+]

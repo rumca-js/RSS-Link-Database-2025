@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T15:02:06.142399+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T14:03:44+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nThe C++ Execution Model - Bryce Adelstein Lelbach - ACCU 2025\n---\n\nAt the heart of the C++ programming language is the multi-threaded abstract machine and its execution model, the platform-agnostic formal model that generically describes how to run a C++ program. In this talk, you will learn the rules that govern how your C++ code is executed and see how those rules impact the C++ code you write every day.\n\nWe'll explore the C++ execution and memory model, and discuss fundamental questions such as:\n\n -  What are threads in C++ and how do they interact?\n -  What is memory in C++?\n -  In what order are things in my C++ program executed?\n -  How are C++ expressions and statements executed?\n -  What are the semantics of calling a function in C++?\n -  What does \"happens before\" mean?\n\nIf you're interested in gaining a deeper understanding of how your C++ code is executed and how concurrency works in C++, you should watch this talk.\n\nSlides",
+        "id": 3097486,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6zq5ZmCvldU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6zq5ZmCvldU/hqdefault.jpg",
+        "title": "The C++ Execution Model - Bryce Adelstein Lelbach - ACCU 2025",
+        "vote": 0
+    }
+]

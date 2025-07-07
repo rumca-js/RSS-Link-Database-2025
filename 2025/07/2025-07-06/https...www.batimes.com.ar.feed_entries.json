@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T12:37:18.656217+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T12:15:36+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/07/06/trim/540/304/indias-prime-minister-narendra-modi-milei-visit-2056426.jpg\" alt=\"India's Prime Minister Narendra Modi, Milei visit\" /></p>Indian PM Narendra Modi, leader of the world's fifth-largest economy, vows to expand and diversify trade Argentina before heading to Brazil to attend the BRICS Summit in Rio de Janeiro.  <a href=\"https://www.batimes.com.ar/news/world/modi-and-milei-vow-to-boost-trade-after-buenos-aires-meet.phtml\">Leer m\u00e1s</a>",
+        "id": 3096798,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/world/modi-and-milei-vow-to-boost-trade-after-buenos-aires-meet.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/07/06/trim/540/304/indias-prime-minister-narendra-modi-milei-visit-2056426.jpg",
+        "title": "Modi and Milei vow to boost trade after Buenos Aires meet",
+        "vote": 0
+    }
+]

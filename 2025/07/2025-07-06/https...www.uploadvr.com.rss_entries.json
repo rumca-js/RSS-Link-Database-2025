@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Henry Stockdale",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T13:37:33.395064+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T06:00:37+00:00",
+        "description": "KIWI Design recently released the K4 Duo, a new audio and battery head strap for Quest 3.",
+        "id": 3097109,
+        "language": null,
+        "link": "https://www.uploadvr.com/kiwi-k4-duo-quest-3",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/07/KIWI_design_K4_Duo_Head_Strap_product_page-banner1-PC-1.webp",
+        "title": "The KIWI K4 Duo Is A New Audio Head Strap For Quest 3 &amp; 3S",
+        "vote": 0
+    }
+]

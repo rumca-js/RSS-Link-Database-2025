@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T12:05:26.271316+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T12:05:25+00:00",
+        "description": "Czechy prze\u017cy\u0142y w pi\u0105tek blackout. \u017bycie na kr\u00f3tko stan\u0119\u0142o, nie tylko w Pradze. Eksperci traktuj\u0105 to wydarzenie jako ostrze\u017cenie i zastanawiaj\u0105 si\u0119, co robi\u0107, by unikn\u0105\u0107 powt\u00f3rki sytuacji.",
+        "id": 3096504,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/elektroenergetyka/art42662881-kiedy-zycie-w-czechach-na-chwile-stanelo-eksperci-blackout-to-ostrzezenie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kiedy \u017cycie w Czechach na chwil\u0119 stan\u0119\u0142o. Eksperci: Blackout to ostrze\u017cenie",
+        "vote": 0
+    }
+]

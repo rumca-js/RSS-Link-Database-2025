@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/eena00",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T15:25:24.115883+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T15:16:34+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://rachelbythebay.com/w/2022/03/07/get/\">A sysadmin&#39;s rant about feed readers and crawlers</a></p> <p><a href=\"https://rachelbythebay.com/w/2024/12/17/packets/\">Feed readers which don&#39;t take &quot;no&quot; for an answer</a></p> <p><a href=\"https://rachelbythebay.com/w/2024/12/10/feed/\">Words fail me sometimes when it comes to feed readers</a></p> <p><a href=\"https://rachelbythebay.com/w/2024/10/25/fs/\">Friday night feed reader score report</a></p> <p><a href=\"https://rachelbythebay.com/w/2025/03/03/feed/\">Summarizing the last 45 days of feed reader behaviors</a><a href=\"https://rachelbythebay.com/w/2024/12/17/packets/\"> </a></p> <p>(Disclaimer: none of the words and links above are mine)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eena00\"> /u/eena00 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1lt3oe7/some_reading_suggestions_for_feed_reader/\">[link]</a></span> &#32; <",
+        "id": 3097499,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1lt3oe7/some_reading_suggestions_for_feed_reader",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Some reading suggestions for Feed Reader developers :)",
+        "vote": 0
+    }
+]

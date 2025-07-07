@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Schwartz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-06T23:27:20.531522+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-06T22:49:16+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>In 2023, the State of Washington enacted one of the strongest consumer data privacy laws in recent years: the \u201c<a href=\"https://app.leg.wa.gov/RCW/default.aspx?cite=19.373&amp;full=true&amp;pdf=true\">my health my data</a>\u201d act (<a href=\"https://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Passed%20Legislature/1155-S.PL.pdf?q=20250610130508\">HB 1155</a>). EFF commends the civil rights, data privacy, and reproductive justice <a href=\"https://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bill%20Reports/House/1155-S.E%20HBR%20PL%2023.pdf?q=20250610130508\">advocates</a> who worked to pass this law.</p>\n<p>This post suggests ways for legislators and advocates in other states to build on the Washington law and draft one with even stronger protections. This post will separately address the law\u2019s scope (such as who is protected); its safegu",
+        "id": 3099951,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/06/how-build-washingtons-my-health-my-data-act",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How to Build on Washington\u2019s \u201cMy Health, My Data\u201d Act",
+        "vote": 0
+    }
+]
