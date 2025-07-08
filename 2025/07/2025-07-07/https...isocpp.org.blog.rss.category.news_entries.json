@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T22:00:00.429311+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T21:32:18+00:00",
+        "description": "<p>\n\t<img alt=\"RE1Mu3b.png\" src=\"https://isocpp.org/files/img/RE1Mu3b.png\" style=\"width: 216px; margin: 10px; float: right;\" />Visual Studio 2022 version 17.14 is now generally available! This post summarizes the new features you can find in this release for C++. You can download Visual Studio 2022 from the&nbsp;<a href=\"https://visualstudio.microsoft.com/downloads/\" rel=\"noopener\" target=\"_blank\">Visual Studio downloads page&nbsp;</a>or upgrade your existing installation by following the&nbsp;<a href=\"https://learn.microsoft.com/en-us/visualstudio/install/update-visual-studio?view=vs-2022\" rel=\"noopener\" target=\"_blank\">Update Visual Studio Learn page</a>.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/cppblog/whats-new-for-cpp-developers-in-visual-studio-2022-17-14/\">What&rsquo;s New for C++ Developers in Visual Studio 2022 17.14</a></h3>\n\t<p>\n\t\tby Sy Brand</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tWe&rsquo;ve made a myriad of fixes and impro",
+        "id": 3107710,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/07/whats-new-for-cpp-developers-in-visual-studio-2022-17.14-sy-brand",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RE1Mu3b.png",
+        "title": "What\u2019s New for C++ Developers in Visual Studio 2022 17.14 -- Sy Brand",
+        "vote": 0
+    }
+]

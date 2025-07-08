@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T13:48:57.362955+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T13:30:04+00:00",
+        "description": "<p>The team behind popular lightweight open-source IDE Geany has announced its latest release with numerous enhancements for developers. This latest iteration incorporates most additional Geany themes directly into the core package, eliminating the need for separate downloads. Only themes with incompatible licences remain excluded from the distribution. The update features a number of technical improvements<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/geany-popular-lightweight-open-source-ide-releases-v2-1/\" title=\"ReadGeany: Popular lightweight open-source IDE releases v2.1\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/geany-popular-lightweight-open-source-ide-releases-v2-1/\">Geany: Popular lightweight open-source IDE releases v2.1</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3103438,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/geany-popular-lightweight-open-source-ide-releases-v2-1",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Geany: Popular lightweight open-source IDE releases v2.1",
+        "vote": 0
+    }
+]

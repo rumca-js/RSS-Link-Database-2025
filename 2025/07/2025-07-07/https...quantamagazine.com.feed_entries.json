@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joseph Howlett",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T15:17:38.086473+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T14:22:47+00:00",
+        "description": "After just a few months of work, a complete newcomer to the world of sphere packing has solved one of its biggest open problems.            <p>The post <a href=\"https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/\" target=\"_blank\">New Sphere-Packing Record Stems From an Unexpected Source</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3104543,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/07/MessyPackings-crDVDP-Default.webp",
+        "title": "New Sphere-Packing Record Stems From an Unexpected Source",
+        "vote": 0
+    }
+]

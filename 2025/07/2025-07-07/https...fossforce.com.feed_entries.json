@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T18:50:49.399402+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T18:06:24+00:00",
+        "description": "<p><em>Gemini on the command line is a blast\u2014but hey, it\u2019s still Google. Suit up with some privacy armor before you dive in.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/07/gemini-cli-ai-is-cool-but-you-should-wear-protection/\">Gemini CLI AI Is Cool, but You Should Wear Protection</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 3106361,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/07/gemini-cli-ai-is-cool-but-you-should-wear-protection",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gemini CLI AI Is Cool, but You Should Wear Protection",
+        "vote": 0
+    }
+]

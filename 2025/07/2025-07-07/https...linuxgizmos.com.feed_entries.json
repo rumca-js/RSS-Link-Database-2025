@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T03:09:19.334271+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T02:35:54+00:00",
+        "description": "MayQueen has introduced the PANZER-LITE93, a compact fanless edge computing device built on the NXP i.MX93 processor, featuring integrated neural network acceleration and flexible connectivity in a lightweight 3D-printed enclosure for AIoT, IIoT gateways, robotics, and other low-power edge applications. The device integrates a dual-core ARM Cortex-A55 running at up to 1.7&#8239;GHz alongside a Cortex-M33 [&#8230;]",
+        "id": 3100598,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/panzer-lite93-with-ubuntu-24-04-ready-for-compact-aiot-edge-computing",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PANZER-LITE93 with Ubuntu 24.04 Ready for Compact AIoT Edge Computing",
+        "vote": 0
+    }
+]

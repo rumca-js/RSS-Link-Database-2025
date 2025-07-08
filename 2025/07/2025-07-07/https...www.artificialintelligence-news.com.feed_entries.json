@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T15:28:17.114168+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T14:55:38+00:00",
+        "description": "<p>Tencent has released a model that could be quite literally game-changing for how developers create 3D assets. The new Hunyuan3D-PolyGen model is Tencent&#8217;s first attempt at delivering what they&#8217;re calling &#8220;art-grade&#8221; 3D generation, specifically built for the professionals who craft the digital worlds we play in. Creating high-quality 3D assets has always been a bottleneck [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/tencent-hunyuan3d-polygen-a-model-for-art-grade-3d-assets/\">Tencent Hunyuan3D-PolyGen: A model for &#8216;art-grade&#8217; 3D assets</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3104567,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/tencent-hunyuan3d-polygen-a-model-for-art-grade-3d-assets",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.w.org/images/core/emoji/15.1.0/72x72/1f680.png",
+        "title": "Tencent Hunyuan3D-PolyGen: A model for \u2018art-grade\u2019 3D assets",
+        "vote": 0
+    }
+]

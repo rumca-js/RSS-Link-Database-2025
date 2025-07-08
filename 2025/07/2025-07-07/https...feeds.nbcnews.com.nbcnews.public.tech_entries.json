@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T12:30:24.183900+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T11:36:22+00:00",
+        "description": "More heavy rain and flash floods are threatening Texas during ongoing search and rescue efforts from the historic floods that devastated the area over the weekend. Parts of North Carolina and Virginia are expected to see an additional 5 inches of rain from Tropical Depression Chantal. TODAY\u2019s Dylan Dreyer tracks the latest forecast.",
+        "id": 3103210,
+        "language": "en-US",
+        "link": "https://www.today.com/video/more-heavy-rain-threatens-search-and-rescue-efforts-in-texas-242781253675",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751888177105_tdy_news_7a_dreyer_weather_250707_1920x1080-s6li6q.jpg",
+        "title": "More Rain on the Way for Texas Amid Historic Flooding",
+        "vote": 0
+    }
+]

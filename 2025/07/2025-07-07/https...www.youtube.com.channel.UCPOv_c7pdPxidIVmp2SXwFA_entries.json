@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jules",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T22:53:09.564445+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T22:41:58+00:00",
+        "description": "In this one i talk about the many constraints of our being, grandiosity/solipsism and how there is so much more than what there is.\n\nThumbnail Artist: https://www.instagram.com/lxndseydenise\n\nChapters: \nour perception of reality is limited -  0:00\nColour - 2:13\nSolipsism - 6:07\na consensus of illusion - 11:46\nEmotions - 17:53\nKnowledge - 40:24\ncan we ever escape solipsism? - 1:00:17\nGenetic (pre)determinism - 1:18:51\nUs - 1:29:41\n\nSources:\nhttps://docs.google.com/document/d/1EdNdCn2xXPPbpjhRRNZcVbMrW9kLMq96mdhwz-CHsYE/edit?usp=sharing\n\nDiscord: discord.gg/CkpWrM2Kzm\n\nEmail: kingdomofjules@gmail.com",
+        "id": 3108090,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yLKNbt70YGo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 602,
+        "source_url": "https://www.youtube.com/channel/UCPOv_c7pdPxidIVmp2SXwFA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yLKNbt70YGo/hqdefault.jpg",
+        "title": "our perception of reality is limited",
+        "vote": 0
+    }
+]

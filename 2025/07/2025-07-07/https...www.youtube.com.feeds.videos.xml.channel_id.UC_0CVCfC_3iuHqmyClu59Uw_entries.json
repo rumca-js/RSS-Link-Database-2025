@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-07T14:30:21.622104+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-07T14:00:46+00:00",
+        "description": "In this video, we explore the new GMK Tech Evo X2 mini PC, which boasts AMD\u2019s most powerful IGPU. The AMD Ryzen Ai MAX+ 395  APU here features 16 cores and 32 threads, making it capable of delivering impressive gaming AI performance and even basic computing tasks. The EvoX2 has proven to be my favorite mini PC for the past few months, effortlessly handling everything I\u2019ve thrown at it, including up to 128 GB of RAM and 96 GB can be dedicated to the IGPU. This mini PC truly packs a powerful punch.\n\nBuy it on amazon: https://amzn.to/3IfZtsy\nBuy the 64GB Version here: https://amzn.to/4lcMrup\nOffical GMKtec Website: https://www.gmktec.com/products/amd-ryzen%E2%84%A2-ai-max-395-evo-x2-ai-mini-pc?spm=..index.header_1.1&spm_prev=..index.0.1\n\nBazzite On the Gmktec EVO X2: https://www.youtube.com/watch?v=GHlgHmdCVXo\nGMKtec EVO X2 first look: https://www.youtube.com/watch?v=hPSMGpHQX6k\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etapr",
+        "id": 3104053,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RGKvUahL-_I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RGKvUahL-_I/hqdefault.jpg",
+        "title": "AMD\u2019s Most Powerful iGPU in A Mini PC! EVO X2 Review",
+        "vote": 0
+    }
+]
