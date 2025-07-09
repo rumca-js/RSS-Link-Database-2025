@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T03:53:20.442654+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T03:53:19+00:00",
+        "description": "A witness to the deterioration of mental health among the inhabitants of the Gaza Strip since 2008, the Palestinian practitioner arrived in Paris in October 2024. Thanks to the PAUSE program, he now works as part of a team of researchers from INSERM.",
+        "id": 3109243,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/07/08/from-rafah-to-paris-fadel-afana-s-journey-as-a-psychiatrist-in-exile_6743134_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/04/25/422/0/3770/1885/644/322/60/0/452f033_sirius-fs-upload-1-t2axrtx2adab-1745591583758-ll-fadel-afana-01.jpg",
+        "title": "From Rafah to Paris, Fadel Afana's journey as a psychiatrist in exile",
+        "vote": 0
+    }
+]

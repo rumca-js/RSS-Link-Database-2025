@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T15:46:48.969125+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T15:21:00+00:00",
+        "description": "<p>This post serves as notice that the Board of the Python Software Foundation has resolved to amend the Bylaws, effective July 23, 2025, to remove a condition of the Bylaws that would prevent the Foundation from complying with data privacy laws including those in effect in the European Union, the United Kingdom, and the State of California.<br /><br />Section 3.8 of the Bylaws grants Voting Members the right to request the list of Voting Members\u2019 names and email addresses. As written, this data must be given unconditionally, which would violate the previously mentioned laws. The amendment we are making grants the Foundation the ability to place conditions upon the use of that list in a way that allows us to comply with data privacy laws.<br /><br />The full change can be found at <a href=\"https://github.com/psf/bylaws/pull/7/files\">https://github.com/psf/bylaws/pull/7/files</a><br /><br />The Board determined that this change was time-sensitive and chose to amend the Bylaws without p",
+        "id": 3113788,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/07/notice-of-python-software-foundation.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Notice of Python Software Foundation Bylaws Change - Effective July 23, 2025",
+        "vote": 0
+    }
+]

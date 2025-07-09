@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Puncekar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T05:28:18.263056+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T04:25:13+00:00",
+        "description": "<p>David C. Smith is the author or coauthor of 22 published novels, primarily in the sword-and-sorcery, horror, and suspense genres. Ten of his novels from the 1970s and 1980s are now being revised to be republished by Borgo Press/Wildside Press; the first three\u2014which form the epic fantasy trilogy\u00a0The Fall of the First World\u2014are now available. [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/an-interview-with-david-c-smith/\">An Interview with David C. Smith</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 3109711,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/an-interview-with-david-c-smith",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/06/Sometime-Lofty-Towers-183x300.jpeg",
+        "title": "An Interview with David C. Smith",
+        "vote": 0
+    }
+]

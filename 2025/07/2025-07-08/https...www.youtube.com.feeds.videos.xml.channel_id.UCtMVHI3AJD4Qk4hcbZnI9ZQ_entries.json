@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SomeOrdinaryGamers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T22:07:17.933549+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T21:32:08+00:00",
+        "description": "Hello guys and gals, it's me Mutahar again! Just over a month ago I made a video in regards to debloating Windows and since then the people behind those tools made a response to me and redid the way they make their programs, it's never been easier to clean your system and I want to show you how. Thanks for watching!\nLike, Comment and Subscribe for more videos!",
+        "id": 3117093,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=o-uYuwhZshk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 309,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o-uYuwhZshk/hqdefault.jpg",
+        "title": "please do this right now",
+        "vote": 0
+    }
+]

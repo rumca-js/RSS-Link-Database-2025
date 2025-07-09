@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T11:41:10.364305+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T11:33:28+00:00",
+        "description": "<p>Wi\u0119kszo\u015b\u0107 naszych Czytelnik\u00f3w zapewne kojarzy krytyczn\u0105 podatno\u015b\u0107 OpenSSL &#8211; Heartbleed, kt\u00f3ra sta\u0142a si\u0119 niemal ksi\u0105\u017ckowym przyk\u0142adem b\u0142\u0119du, kt\u00f3ry dotyka bardzo szerokiego grona u\u017cytkownik\u00f3w. Za spraw\u0105 b\u0142\u0119dnej obs\u0142ugi rozmiaru przesy\u0142anego bufora w nowo dodanym rozszerzeniu TLS/DTLS Heartbeat, mo\u017cliwe by\u0142o zdalne odczytanie a\u017c do 64k bajt\u00f3w pami\u0119ci klienta lub serwera. Zdarza\u0142o si\u0119,...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/citrixbleed-ii-kolejny-blad-powodujacy-ze-serwer-zwraca-wiecej-danych-niz-powinien/\">CitrixBleed II &#8211; kolejny b\u0142\u0105d powoduj\u0105cy, \u017ce serwer zwraca wi\u0119cej danych ni\u017c powinien</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3111722,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/citrixbleed-ii-kolejny-blad-powodujacy-ze-serwer-zwraca-wiecej-danych-niz-powinien",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CitrixBleed II \u2013 kolejny b\u0142\u0105d powoduj\u0105cy, \u017ce serwer zwraca wi\u0119cej danych ni\u017c powinien",
+        "vote": 0
+    }
+]

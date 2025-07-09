@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T14:04:35.954693+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T13:00:59+00:00",
+        "description": "So you want to be a flagship?\n\nNothing Phone 3: https://geni.us/Lv2Fcd\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 3113054,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4KbrxIpQgkM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4KbrxIpQgkM/hqdefault.jpg",
+        "title": "Nothing Phone 3 Review: They Lied!",
+        "vote": 0
+    }
+]

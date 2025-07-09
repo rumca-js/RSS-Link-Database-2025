@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T15:28:37.381494+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T15:01:09+00:00",
+        "description": "As a viewer of my channel, you\u2019ll get an exclusive 50% off The Economist, but only until July 10th! Head over to https://www.economist.com/Sabine to get started.\n\nAccording to a recently published data analysis of dwarf galaxies, the miniature star systems are more generally more clustered together than current theories of dark matter predict they should be. And this isn\u2019t the only odd recent finding that contradicts the current dark matter theories. It looks like we are seeing a massive shift in our understanding of dark matter. I have a summary for you.\n\nPaper: https://www.nature.com/articles/s41586-025-08965-5\n\nThis video comes with a quiz which you can take here: https://quizwithit.com/start_thequiz/1751785320392x201530039009280000\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to",
+        "id": 3113736,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cMvrFw5qIzA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cMvrFw5qIzA/hqdefault.jpg",
+        "title": "Strange New Observations Reveal Major Clue About Dark Matter",
+        "vote": 0
+    }
+]

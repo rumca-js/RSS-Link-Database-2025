@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Colin Dwyer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T19:27:04.791991+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T14:23:45+00:00",
+        "description": "Plus: a new novel from Gary Shteyngart, a true story of a shipwreck, and a memoir from a wrongly incarcerated inmate who was exonerated after 28 years behind bars.",
+        "id": 3116054,
+        "language": "en",
+        "link": "https://www.npr.org/2025/07/08/nx-s1-5448697/new-books-caitlin-clark-gary-shteyngart-trump",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x666+0+225/resize/2000x666!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2Fba%2F9b83b9164d1faa5b11302a754ee4%2F6-book-covers-10.jpg",
+        "title": "New books this week focus on Caitlin Clark, King Tut, and how 'Democrats Lost America'",
+        "vote": 0
+    }
+]

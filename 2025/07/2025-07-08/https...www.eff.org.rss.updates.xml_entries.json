@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Guariglia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T20:41:54.217168+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T19:10:27+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>EFF has filed an amicus brief in </span><i><span>Trabajadores v. Bessent</span></i><span>, a case concerning the Internal Revenue Service (IRS) sharing protected personal tax information with the Department of Homeland Security for the purposes of immigration enforcement. Our expertise in\u00a0 privacy and\u00a0</span><span>data sharing</span><span>\u00a0makes us the ideal organization to step in and inform the judge: government actions like this have real-world consequences. The IRS\u2019s sharing, and especially bulk sharing, of data is improper and\u00a0 makes taxpayers vulnerable to inevitable mistakes. As a practical matter, the sharing of data that IRS had previously claimed was protected undermines the trust important civil institutions require in order to be effective.\u00a0</span></p>\n<p><span>You can read the entire brief <a href=\"https://www.eff.org/docum",
+        "id": 3116601,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/07/eff-us-court-appeals-protect-taxpayer-privacy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF to US Court of Appeals: Protect Taxpayer Privacy",
+        "vote": 0
+    }
+]

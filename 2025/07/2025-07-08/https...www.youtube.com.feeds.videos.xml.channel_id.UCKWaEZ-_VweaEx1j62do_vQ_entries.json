@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T13:35:58.826782+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T11:00:40+00:00",
+        "description": "Ready to become a certified Administrator - Security QRadar SIEM? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdeBY2\n\nLearn more about Why Data Security is Critical to AI here \u2192 https://ibm.biz/BdeBYz\n\nAI thrives on data, but how do you keep it secure? \ud83d\udd10 Grant Miller explains essential strategies like data classification, encryption, and governance to protect sensitive information and secure AI systems. Prevent breaches and ensure scalable, safe AI innovation with these best practices. \ud83d\ude80\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/BdeBYf\n\n#ai #dataprotection #cybersecurity",
+        "id": 3112599,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LyfG7SGRiZA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LyfG7SGRiZA/hqdefault.jpg",
+        "title": "Protecting Data in AI: Strategies for Security & Governance",
+        "vote": 0
+    }
+]

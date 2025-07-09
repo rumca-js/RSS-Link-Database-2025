@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T14:21:26.248236+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T14:00:19+00:00",
+        "description": "AI has upended the once \"safe\" CS career path. New grads are facing unemployment rates twice those of art history majors, and a CS degree is no longer a surefire ticket to wealth. At the same time, small, focused teams are scaling from zero to eight-figure revenue in months.\n\nIn a special Lightcone Live at AI Startup School, Garry, Harj, Diana, and Jared discuss why it's now more important than ever to focus on building real skills, domain expertise, and agency rather than just chasing credentials.\n\nChapters:\n04:18 - The Inverted Career Risk Paradigm\n05:16 - AI's Impact on Education and Skills\n07:08 - Agency vs. Credential Maxing\n08:28 - Motivation: Fear or Excitement\n09:43 - The Accelerated Growth of AI Startups\n10:50 - Real Success over Fake Credentials\n12:55 - Domain Expertise and Technical Expertise\n15:05 - Gaining Domain Expertise as a Student\n18:51 - Breaking the Student Mindset\n20:39 - The Dangers of Entrepreneurship Programs\n22:52 - Social Media Strategy for Startups\n27:30 - T",
+        "id": 3113134,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ShYKkPPhOoc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ShYKkPPhOoc/hqdefault.jpg",
+        "title": "How to Spend Your 20s in the AI Era",
+        "vote": 0
+    }
+]

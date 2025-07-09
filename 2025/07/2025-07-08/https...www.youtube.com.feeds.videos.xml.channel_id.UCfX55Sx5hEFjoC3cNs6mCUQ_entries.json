@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T21:57:30.614193+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T21:10:28+00:00",
+        "description": "In this insightful conversation, Ildiko Vancsa, Director of Community at the OpenInfra Foundation, joins us at Open Source Summit to explore some of the most critical challenges and opportunities facing open source today. She shares her perspectives on maintainer burnout, the impact of corporate underinvestment in upstream contributions, and why new legislation may soon compel companies to take greater responsibility.\nVancsa also highlights her work on a new white paper focused on building edge infrastructure for AI workloads\u2014an increasingly vital topic as GenAI pushes infrastructure demands beyond centralized clouds. As the OpenInfra Foundation joins the Linux Foundation family, she reflects on scaling community health practices and fostering global, diverse, and sustainable ecosystems.\nIf you're in DevRel, OSPO, engineering leadership, or managing open source infrastructure, this is a must-watch.\n\ud83d\udc49 Watch the full video to understand why AI makes open source sustainability even more ",
+        "id": 3117060,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NvSeY-hn9-c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NvSeY-hn9-c/hqdefault.jpg",
+        "title": "Why Open Source Needs Community Investment in the Age of AI and Edge",
+        "vote": 0
+    }
+]

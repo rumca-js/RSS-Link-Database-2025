@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T17:58:04.127490+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T17:19:23+00:00",
+        "description": "W ko\u0144cu ugi\u0119li\u015bmy si\u0119 pod Wasz\u0105 presj\u0105! Powstaje specjalne wydanie CD-Action w ca\u0142o\u015bci po\u015bwi\u0119cone Wied\u017aminowi \u2013 ksi\u0105\u017ckom, grom, modom, serialom i fanowskim inicjatywom. \n\n\ud83e\uddd9\u200d\u2642\ufe0f 144 strony tre\u015bci pisanej od zera, przez fan\u00f3w dla fan\u00f3w.\n\ud83c\udfae Kulisy gier, rozmowy z tw\u00f3rcami, questy, bestiariusz i lore.\n\ud83d\udce6 Zam\u00f3w teraz: https://sklep.cdaction.pl/shop/cd-action-wydanie-specjalne-wiedzmin/\n\n(!) Wysy\u0142ka po premierze 26 sierpnia 2025.",
+        "id": 3115081,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/K8i9jgqN94s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K8i9jgqN94s/hqdefault.jpg",
+        "title": "Powstaje magazyn o Wied\u017aminie",
+        "vote": 0
+    }
+]

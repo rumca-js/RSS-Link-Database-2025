@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Justin Hawkins Rides Again",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T11:22:57.959208+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T10:30:36+00:00",
+        "description": "Exciting News: I'm taking Justin Hawkins Rides Again on tour across the UK ....again in January 2026. For anyone who enjoys my YouTube show on this here YouTube channel,  I can promise you more of the same,  but live and with an added sprinkle of chaos. \n\nTickets go on sale on Friday 11 July  here: \nhttps://www.aegpresents.co.uk/event/justin-hawkins-rides-again/\n\nMembers of my Patreon will have early access to my presale from tomorrow. The link can be found here: \nhttp://www.patreon.com/jushawk\n\nI hope to see you on the road!",
+        "id": 3111575,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ilPcJ0Z_gGQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 460,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgH8NCuYcVzxxrfsrBj1u3A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ilPcJ0Z_gGQ/hqdefault.jpg",
+        "title": "Justin Hawkins Rides Again.....Again On Tour!",
+        "vote": 0
+    }
+]

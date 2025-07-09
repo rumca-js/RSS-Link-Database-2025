@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nick Turse",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-08T20:05:17.211223+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-08T19:46:58+00:00",
+        "description": "<p>An Intercept investigation shows that immigration officials deceived the men now expelled to South Sudan.</p>\n<p>The post <a href=\"https://theintercept.com/2025/07/08/ice-deportation-louisiana-south-sudan/\">ICE Said They Were Being Flown to Louisiana. Their Flight Landed in Africa</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3116156,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/07/08/ice-deportation-louisiana-south-sudan",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/07/GettyImages-2105335693-e1751900694609.jpg",
+        "title": "ICE Said They Were Being Flown to Louisiana. Their Flight Landed in Africa",
+        "vote": 0
+    }
+]
