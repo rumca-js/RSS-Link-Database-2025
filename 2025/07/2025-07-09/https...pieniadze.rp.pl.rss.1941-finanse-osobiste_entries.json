@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T03:37:41.708422+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T03:37:41+00:00",
+        "description": "Fotografia zawsze uchodzi\u0142a za biedniejsz\u0105 siostr\u0119 malarstwa. Mo\u017ce dlatego, \u017ce wizualnie imponuj\u0105ce dzie\u0142o powstaje tu szybko, a\u00a0cyfrowa rewolucja dopu\u015bci\u0142a do rynku miliony amator\u00f3w. Ale rynek kolekcjonerski w\u00a0tym segmencie sztuki nieustannie si\u0119 rozbudowuje.",
+        "id": 3118671,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/inwestycje-alternatywne/art42674331-fotografia-kolekcjonerska-na-fali-od-ikony-einsteina-po-milionowe-aukcje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fotografia kolekcjonerska na fali. Od Ikony Einsteina po milionowe aukcje",
+        "vote": 0
+    }
+]

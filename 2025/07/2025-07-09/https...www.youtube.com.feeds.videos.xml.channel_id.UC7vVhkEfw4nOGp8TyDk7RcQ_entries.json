@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T14:32:03.153604+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T14:00:05+00:00",
+        "description": "South Korean steel maker POSCO uses Spot and Orbit for preventive maintenance on its largest blast furnaces. POSCO\u2019s Gwangyang Steelworks facility is the largest integrated steel plant in the world, generating nearly 23 million tons of steel each year alone.\n\nOver the last decade, POSCO has actively deployed IoT technologies\u2014including Boston Dynamic\u2019s autonomous Spot robot\u2014to improve operations, protect workers, and ensure the quality of its steel products.\n\nLearn more: https://bostondynamics.com/case-studies/spot-at-posco/",
+        "id": 3122598,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=V7D7jXF2pj8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V7D7jXF2pj8/hqdefault.jpg",
+        "title": "Spot at POSCO | Boston Dynamics",
+        "vote": 0
+    }
+]

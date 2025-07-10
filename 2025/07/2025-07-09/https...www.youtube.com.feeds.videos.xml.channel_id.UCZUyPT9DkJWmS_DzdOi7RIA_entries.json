@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T16:32:15.060467+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T16:09:20+00:00",
+        "description": "Software Engineering Fundaments Course - https://calcur.tech/fundamentals\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\nTimestamps:\n00:00:00 - Introduction\n00:01:31 - What we Will Cover\n00:03:44 - Getting Started\n00:04:19 - Beginner Programming\n00:04:33 - Intermediate Topics\n00:06:24 - Web Development\n00:07:06 - Computing Theory\n00:08:22 - Computer Hardware\n00:09:18 - The Motherboard\n00:09:25 - RAM\n00:10:19 - Storage\n00:12:41 - In-Memory Data Stores\n00:13:54 - Caching\n00:15:18 - GPU\n00:17:21 - Processor Cores\n00:18:10 - Serial and Parallel Computing\n00:20:37 - ARM and x86\n00:22:00 - Server vs Client\n00:24:44 - Summary\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsletter\n\ud83d\udcf8 Instagram ",
+        "id": 3123973,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JuLKB--zOho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JuLKB--zOho/hqdefault.jpg",
+        "title": "Introduction to Computing - Software and Hardware Fundamentals",
+        "vote": 0
+    }
+]

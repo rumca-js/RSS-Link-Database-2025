@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T00:47:28.247122+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T00:33:09+00:00",
+        "description": "An investigation is underway after the State Department reported that a Marco Rubio imposter used AI to manipulate the secretary of state's voice into contacting at least five high-level government officials in mid-June. NBC News' Andrea Mitchell explains the investigation and how you can protect yourself from deepfakes.",
+        "id": 3118078,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/investigation-underway-after-ai-marco-rubio-impostor-contacts-top-officials-242906693583",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752021183371_now_topstory_ai_marco_rubio_250707_1920x1080-gx5wmo.jpg",
+        "title": "Investigation underway after AI Marco Rubio impostor contacts top officials",
+        "vote": 0
+    }
+]

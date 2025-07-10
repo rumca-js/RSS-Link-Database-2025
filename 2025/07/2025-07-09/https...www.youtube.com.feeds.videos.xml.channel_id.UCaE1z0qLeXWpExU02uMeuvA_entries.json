@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hero Hei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T20:55:56.678052+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T20:19:20+00:00",
+        "description": "Recently new policy changes were announced to be coming to YouTube and to be fair there's some good reasoning for some of the changes for example going after the AI slop that's been proliferating on the platform. However, it seems there's already been some unintended shots fired at VTuber clippers channels as many feared.\n\n-----\n\n\ud83d\udc26 Twitter: https://twitter.com/_Hero_Hei_\n\n\ud83d\udc26 Vtuber twitter: https://twitter.com/xChaiRAWRx\n\n___\n\n#envtuber \n#virtualyoutuber \n#streamer",
+        "id": 3126302,
+        "language": "",
+        "link": "https://www.youtube.com/watch?v=9--a6qAgPFo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 591,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaE1z0qLeXWpExU02uMeuvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9--a6qAgPFo/hqdefault.jpg",
+        "title": "The YouTube VTuber purge has begun",
+        "vote": 0
+    }
+]

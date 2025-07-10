@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T13:57:35.889144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T13:57:35+00:00",
+        "description": "Niemal 2,8 mld z\u0142 jest w puli nowego programu po\u017cyczkowego. Po wsparcie na inwestycje w nowe technologie mog\u0105 si\u0119ga\u0107 m.in. jednostki samorz\u0105du terytorialnego. \u2013 Zach\u0119t\u0105 niech b\u0119dzie fakt, \u017ce b\u0119d\u0105 zwraca\u0107 tylko po\u017cyczony kapita\u0142 \u2013 komentuje ekspertka.",
+        "id": 3122449,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/fundusze-unijne/art42678471-rusza-wielki-program-pozyczek-z-kpo-na-transformacje-cyfrowa-samorzadow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rusza wielki program po\u017cyczek z KPO na transformacj\u0119 cyfrow\u0105 samorz\u0105d\u00f3w",
+        "vote": 0
+    }
+]

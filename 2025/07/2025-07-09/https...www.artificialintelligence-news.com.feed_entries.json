@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T15:12:47.125600+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T14:10:13+00:00",
+        "description": "<p>Tencent has introduced a new benchmark, ArtifactsBench, that aims to fix current problems with testing creative AI models. Ever asked an AI to build something like a simple webpage or a chart and received something that works but has a poor user experience? The buttons might be in the wrong place, the colours might clash, [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/tencent-improves-testing-creative-ai-models-new-benchmark/\">Tencent improves testing creative AI models with new benchmark</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3123206,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/tencent-improves-testing-creative-ai-models-new-benchmark",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.w.org/images/core/emoji/15.1.0/72x72/1f680.png",
+        "title": "Tencent improves testing creative AI models with new benchmark",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T13:02:22.896396+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T11:44:36+00:00",
+        "description": "<p>Prywatne adresy e-mail i numery telefon\u00f3w pojawi\u0142y si\u0119 w nowym Rejestrze Podmiot\u00f3w Wykonuj\u0105cych Dzia\u0142alno\u015b\u0107 Lecznicz\u0105. Tych danych nie powinno tam by\u0107 ale mo\u017cliwe, \u017ce pojawi\u0142y si\u0119 tam w wyniku b\u0142\u0119d\u00f3w lub niedopatrze\u0144 samych lekarzy (sprawdzamy to jeszcze). Tak czy owak jest to dobra okazja \u017ceby zwr\u00f3ci\u0107 uwag\u0119 na problemy jakie powstaj\u0105 na styku prywatno\u015bci i rejestr\u00f3w publicznych.</p>\n<p><span id=\"more-26518\"></span></p>\n<p>Nie ka\u017cdy o tym my\u015bli, ale nasze pa\u0144stwo utrzymuje <strong>setki</strong> r\u00f3\u017cnego rodzaju <strong>system\u00f3w informacyjnych</strong>. Czasami s\u0105 to rejestry dost\u0119pne tylko dla wybranych instytucji, innym razem dost\u0119pne publicznie. Niekt\u00f3re z nich s\u0105 zaledwie ma\u0142ymi plikami XLSX publikowanymi na stronach urz\u0119d\u00f3w, inne wi\u0105\u017c\u0105 si\u0119 z utrzymaniem pot\u0119\u017cnych baz danych, wyszukiwarek lub API. Niekt\u00f3re s\u0105 znane wszystkim, inne tylko ludziom z pewnych bran\u017c. Tego. Jest. Du\u017co.</p>\n<p>Jednym z tych wielu system\u00f3w jest <strong>RPWDL</strong> czyli <strong>Rejestr Podmiot\u00f3w Wykon",
+        "id": 3121960,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/prywatne-dane-lekarzy-w-panstwowym-rejestrze-czy-to-byl-wyciek",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/07/rpwdl-150x150.png",
+        "title": "Prywatne dane lekarzy w pa\u0144stwowym rejestrze &#8211; czy to by\u0142 wyciek?",
+        "vote": 0
+    }
+]

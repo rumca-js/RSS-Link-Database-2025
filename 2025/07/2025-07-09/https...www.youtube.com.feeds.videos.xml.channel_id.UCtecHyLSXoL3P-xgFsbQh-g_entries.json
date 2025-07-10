@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T14:05:21.475377+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T13:43:48+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nPierwsza cz\u0119\u015b\u0107 Jurassic Park, to jeden z najlepszych film\u00f3w z ca\u0142ej serii. Przygl\u0105damy si\u0119 wszystkim elementom, kt\u00f3re powoduj\u0105, \u017ce jest tak dobry. Analizujemy struktur\u0119 fabularn\u0105, kompozycj\u0119 kadr\u00f3w, budow\u0119 scen akcji - tak si\u0119 robi filmy o dinozaurach!",
+        "id": 3122484,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=P-pB-1IGZbs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P-pB-1IGZbs/hqdefault.jpg",
+        "title": "Jurassic Park - TAK si\u0119 robi filmy o dinozaurach",
+        "vote": 0
+    }
+]

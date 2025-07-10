@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T01:25:09.745550+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T01:01:12+00:00",
+        "description": "The ClockworkPi uConsole is designed for Raspberry Pi CM4 or CM5 modules, but a growing group of users has been working to run the Radxa CM5 inside this pocket terminal. By using the Radxa CM5, they gain higher RAM capacity, more storage options, and a faster GPU for processing tasks. The Radxa CM5 was originally [&#8230;]",
+        "id": 3118192,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/radxa-cm5-gets-adapted-for-use-with-uconsole-pocket-terminal",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radxa CM5 Gets Adapted for Use with uConsole Pocket Terminal",
+        "vote": 0
+    }
+]

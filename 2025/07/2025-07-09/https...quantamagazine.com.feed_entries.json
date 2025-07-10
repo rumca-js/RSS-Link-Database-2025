@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Erica Klarreich",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T15:02:23.198636+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T14:22:18+00:00",
+        "description": "An attack on a fundamental proof technique reveals a glaring security issue for blockchains and other digital encryption schemes.             <p>The post <a href=\"https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/\" target=\"_blank\">Computer Scientists Figure Out How To Prove Lies</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3123193,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/07/BreakingCryptoProtocols-crWei-AnJin-Default.webp",
+        "title": "Computer Scientists Figure Out How To Prove Lies",
+        "vote": 0
+    }
+]

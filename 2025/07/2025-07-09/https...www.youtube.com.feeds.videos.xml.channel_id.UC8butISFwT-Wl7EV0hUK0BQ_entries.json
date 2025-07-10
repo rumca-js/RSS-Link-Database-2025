@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-09T14:35:22.034828+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T13:53:06+00:00",
+        "description": "This course is a hands-on deep learning tutorial that will help you understand one of the most influential convolutional neural networks in computer vision. You will learn to rebuild the VGG architecture from the ground up while mastering the theory, mathematics, and design principles that shaped it. \n\nVGG stands for Visual Geometry Group. It is a deep convolutional neural network architecture known for its simple, uniform use of small 3x3 filters stacked in sequence, enabling powerful image recognition and feature extraction.\n\nCourse created by @programmingoceanacademy  \n\n\ud83d\udcbb Code: https://github.com/MOHAMMEDFAHD/pytorch-collections/blob/main/building_computer_vision_tiny_VGG_model_image_classification_problem.ipynb\n\nResources:\n\u00b7 https://www.programming-ocean.com/knowledge-hub/vgg-architecture-ai.php\n\u00b7 https://www.programming-ocean.com/knowledge-hub/data-augmentation-atlas.php\n\n\u2764\ufe0f Try interactive Python courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Python (Ma",
+        "id": 3122608,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rhCiuu4AW_w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rhCiuu4AW_w/hqdefault.jpg",
+        "title": "VGG From Scratch \u2013 Deep Learning Theory & PyTorch Implementation (Full Course)",
+        "vote": 0
+    }
+]
