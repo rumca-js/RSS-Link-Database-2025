@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T20:38:43.021637+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T19:36:03+00:00",
+        "description": null,
+        "id": 3135466,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2025/Jul/10/grok-4/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.simonwillison.net/static/2025/grok4-pelican.png",
+        "title": "Grok 4",
+        "vote": 0
+    }
+]

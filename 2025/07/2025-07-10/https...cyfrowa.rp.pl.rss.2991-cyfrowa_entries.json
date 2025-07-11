@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T09:57:36.406477+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T09:57:35+00:00",
+        "description": "Wydawa\u0142o si\u0119, \u017ce na rynku przegl\u0105darek internetowych karty zosta\u0142y rozdane na lata. Jednak technologiczni giganci ery AI, tacy jak OpenAI i Perplexity, wchodz\u0105 do gry z produktami, kt\u00f3re maj\u0105 zredefiniowa\u0107 spos\u00f3b, w jaki korzystamy z sieci.",
+        "id": 3130026,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42683701-koniec-dominacji-google-i-microsoftu-giganci-ai-uruchamiaja-nowa-usluge",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Koniec dominacji Google i Microsoftu? Giganci AI uruchamiaj\u0105 now\u0105 us\u0142ug\u0119",
+        "vote": 0
+    }
+]

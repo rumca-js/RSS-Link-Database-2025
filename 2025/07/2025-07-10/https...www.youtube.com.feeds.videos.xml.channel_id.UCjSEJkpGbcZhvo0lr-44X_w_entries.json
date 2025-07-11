@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T20:33:59.184592+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T18:25:53+00:00",
+        "description": "Best & Latest Flagship\nECOVACS DEEBOT X9 PRO OMNI (Unmatched cleaning with OZMO\u2122 Roller & BLAST\u2122 Suction)\nhttps://www.amazon.com/dp/B0DZXFNVQ2\n\u00b7 Original Price: $1,599.99\n\u00b7 Discounted Price: $1,099.99\n\u00b7 Save: $500.00 (31% Off)\n\nDeal Dates: July 5\u201311\n\nSponsored by ECOVACS",
+        "id": 3135453,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hB4djl-5j34",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hB4djl-5j34/hqdefault.jpg",
+        "title": "HIGH END Vacuum Mop Robot Combo - ECOVACS DEEBOT X9 PRO OMNI",
+        "vote": 0
+    }
+]

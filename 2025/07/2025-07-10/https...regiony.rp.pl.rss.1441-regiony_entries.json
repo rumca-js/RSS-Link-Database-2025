@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T16:06:16.869078+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T16:06:16+00:00",
+        "description": "Staw na pozna\u0144skich Ratajach, kt\u00f3ry zw\u0142aszcza w okresach suszy ulega degradacji, zostanie odpowiednio nawodniony. Dzi\u0119ki deszcz\u00f3wce oraz pomocy dw\u00f3ch sp\u00f3\u0142ek wodnych. Z kolei Olsztyn stawia na budow\u0119 kanalizacji deszczowej.",
+        "id": 3133236,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art42686701-deszczowka-w-miescie-sie-przyda-to-zasob-a-nie-sciek",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Deszcz\u00f3wka w mie\u015bcie si\u0119 przyda. \u201eTo zas\u00f3b, a nie \u015bciek\u201d",
+        "vote": 0
+    }
+]

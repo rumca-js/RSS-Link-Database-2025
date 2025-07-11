@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T19:42:20.589036+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T18:34:18+00:00",
+        "description": "Dwa nowe sk\u0142adaki Samsunga i dwa skrajnie r\u00f3\u017cne odczucia.\nOferta sklepu: https://bit.ly/44mZXpt wraz z konkursem na insta: https://www.instagram.com/p/DL5CsGmJVqY/\nWasz KLAWYKOD: https://bit.ly/3Inoan1 (aktywny do 23.07.2025 lub do wyczerpania puli kod\u00f3w)\n\nW odcinku:\n00:00 Wst\u0119p\n00:29 Z Fold 7 \u2013 zalety\n03:20 Z Fold 7 \u2013 wady\n05:52 REKLAMA \u2013 RTV Euro AGD\n06:33 Przewaga Samsunga nad innymi producentami\n10:03 Z Flip 7 \u2013 zalety\n11:10 Z Flip 7 \u2013 wady\n12:51 Kr\u00f3tko o Samsungu Z Flip 7 FE\n13:16 Ocena\n13:42 Zako\u0144czenie",
+        "id": 3135030,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=pxuFPWpoRMQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pxuFPWpoRMQ/hqdefault.jpg",
+        "title": "Z Fold 7 i Z Flip 7 - Prze\u0142om i Klops",
+        "vote": 0
+    }
+]

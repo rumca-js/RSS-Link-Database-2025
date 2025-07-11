@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T15:02:34.372887+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T13:00:32+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Do4G_es2vm8\" width=\"480\" alt=\"thumbnail\" title=\"'mkdir' -  make new directories - Video Man Pages\" /></p>The 'mkdir' command is used to create new directories in Linux.<br /><br />REFERENCED:<br />- Make a directory (all parent directories must exist):<br />  mkdir /path/to/directory<br /><br />- Make multiple directories:<br />  mkdir directory1 directory2<br /><br />- Make a directory and create parent directories if they don't exist:<br />  mkdir -p /path/to/directory<br /><br />- Make a directory with specific permissions:<br />  1. all users may read, write and execute:<br />     mkdir -m a=rwx /path/to/directory <br /><br />  2. set permissions to 755:<br />     mkdir -m 755 /path/to/directory<br />     <br />  3. set permissions for multiple directories being created:<br />     mkdir -m 755 directory1 directory2 ...<br /><br />- Use verbose flag to print a message for each directory created:<br />  mkdir -v directory1 directory2 ...<br /",
+        "id": 3132589,
+        "language": "en",
+        "link": "https://odysee.com/%27mkdir%27-make-new-directories-video-man:8cb04f4b2eb32a138dcd6648285ce203d6ef3192",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/Do4G_es2vm8",
+        "title": "'mkdir' -  make new directories - Video Man Pages",
+        "vote": 0
+    }
+]

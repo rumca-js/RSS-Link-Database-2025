@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T15:14:45.239396+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T14:02:05+00:00",
+        "description": "Andrew Ng on June 17, 2025 at AI Startup School in San Francisco.\n\nAndrew Ng has helped shape some of the most influential movements in modern AI\u2014from online education to deep learning to AI entrepreneurship. \n\nIn this talk, he shares what he\u2019s learning now: why execution speed matters more than ever, how agentic workflows are changing what startups can build, and why concreteness beats vagueness when turning ideas into products. He reflects on the rise of AI coding assistants, the shifting bottlenecks in product development, and why, despite faster software, it\u2019s still human judgment and responsibility that will shape what comes next.\n\nChapters:\n00:00 - Introduction\n00:31 - The Importance of Speed in Startups\n01:13 - Opportunities in the AI Stack\n02:06 - The Rise of Agent AI\n04:52 - Concrete Ideas for Faster Execution\n08:56 - Rapid Prototyping and Engineering\n17:06 - The Role of Product Management\n21:23 - The Value of Understanding AI\n22:33 - Technical Decisions in AI Development\n23:",
+        "id": 3132623,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RNJCfif1dPY/hqdefault.jpg",
+        "title": "Andrew Ng: Building Faster with AI",
+        "vote": 0
+    }
+]

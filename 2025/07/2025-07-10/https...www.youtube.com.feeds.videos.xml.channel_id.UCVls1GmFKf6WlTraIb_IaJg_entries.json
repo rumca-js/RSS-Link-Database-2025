@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T14:18:28.895981+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T13:00:32+00:00",
+        "description": "The 'mkdir' command is used to create new directories in Linux.\n\nREFERENCED:\n- Make a directory (all parent directories must exist):\n  mkdir /path/to/directory\n\n- Make multiple directories:\n  mkdir directory1 directory2\n\n- Make a directory and create parent directories if they don't exist:\n  mkdir -p /path/to/directory\n\n- Make a directory with specific permissions:\n  1. all users may read, write and execute:\n     mkdir -m a=rwx /path/to/directory \n\n  2. set permissions to 755:\n     mkdir -m 755 /path/to/directory\n     \n  3. set permissions for multiple directories being created:\n     mkdir -m 755 directory1 directory2 ...\n\n- Use verbose flag to print a message for each directory created:\n  mkdir -v directory1 directory2 ...\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V",
+        "id": 3132080,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Do4G_es2vm8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Do4G_es2vm8/hqdefault.jpg",
+        "title": "'mkdir' -  make new directories - Video Man Pages",
+        "vote": 0
+    }
+]

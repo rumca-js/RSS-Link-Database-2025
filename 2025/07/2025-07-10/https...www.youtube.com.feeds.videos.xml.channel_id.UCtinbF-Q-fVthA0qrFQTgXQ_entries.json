@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CaseyNeistat",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T18:26:04.681781+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T17:31:29+00:00",
+        "description": "music from; https://hyperfollow.com/bluewednesday\nmusic from; https://linktr.ee/jeffkaale_",
+        "id": 3134438,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MAZRqzcZRKo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 64,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MAZRqzcZRKo/hqdefault.jpg",
+        "title": "Planned Obsolescence and the Death of Great Products",
+        "vote": 0
+    }
+]

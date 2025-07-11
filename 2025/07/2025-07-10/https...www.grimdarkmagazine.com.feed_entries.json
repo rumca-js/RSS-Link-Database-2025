@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Z.B. Steele",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T05:20:04.946134+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T04:28:34+00:00",
+        "description": "<p>I\u2019ve been a nerd since I was born, and I\u2019ve always been called to stories. They come in all shapes and facets: movies, shows, books, songs, video-games, and more. It\u2019s a long, long list, but if I spent my life consuming these stories, it\u2019d be a good one. Books and video-games are always the two [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/12-book-recommendations-for-the-video-game-lover/\">12 book recommendations for the video game lover</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 3128775,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/12-book-recommendations-for-the-video-game-lover",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/07/Untitled-95.png",
+        "title": "12 book recommendations for the video game lover",
+        "vote": 0
+    }
+]

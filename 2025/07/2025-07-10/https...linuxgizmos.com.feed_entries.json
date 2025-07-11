@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T04:30:57.593859+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T03:37:07+00:00",
+        "description": "Arduino and Red Pitaya have partnered on a hardware bundle and structured curriculum that helps students, educators, and hobbyists advance from basic electronics projects to practical signal analysis and system prototyping. Combining the Arduino Uno R4 WiFi with the Red Pitaya STEMlab 125-14, the kit supports hands-on experiments that link simple interfacing with engineering-grade measurement. [&#8230;]",
+        "id": 3128507,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/arduino-and-red-pitaya-learning-lab-connects-makers-with-real-world-engineering",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Arduino and Red Pitaya Learning Lab Connects Makers with Real-World Engineering",
+        "vote": 0
+    }
+]

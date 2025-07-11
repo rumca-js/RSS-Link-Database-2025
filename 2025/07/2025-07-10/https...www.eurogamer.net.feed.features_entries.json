@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Donlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T10:27:09.021444+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T10:21:25+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/islanders-new-shores_5kgKpnq.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Islanders is one of those games I think I will never tire of. It's beautiful, as players hover above a sequence of wonderfully breezy island chains placing dinky little buildings. And it's tart and tactical, too, since the buildings you place all have specific desires concerning where they want to be and where they absolutely don't want to be. You need to keep the scores from each placement high, because your scores unlock new building packs. Cheery as it all seems, you can fail in Islanders quite easily, and be left with no more buildings to place.</p> <p><a href=\"https://www.eurogamer.net/theyve-only-gone-and-added-lighthouses-to-islanders-new-shores\">Read more</a></p>",
+        "id": 3130406,
+        "language": "en",
+        "link": "https://www.eurogamer.net/theyve-only-gone-and-added-lighthouses-to-islanders-new-shores",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/islanders-new-shores_5kgKpnq.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "They've only gone and added lighthouses to Islanders: New Shores",
+        "vote": 0
+    }
+]

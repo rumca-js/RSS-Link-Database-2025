@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T18:30:34.916460+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T17:43:42+00:00",
+        "description": "In this interview, Anna Hermansen, Researcher and Ecosystem Manager of The Linux Foundation breaks down key findings from a recent research report on the economic and workforce impacts of open source AI\u2014a topic at the center of both public and private innovation.\n\nHermansen explains the evolving definition of \u201copen source AI,\u201d which spans not just code, but also model weights and datasets. She highlights that 89% of AI stacks in recent enterprise surveys include open source, and cost savings, privacy control, and performance are top reasons why organizations are adopting these models.\n\nThe conversation also dives into workforce impact: while some routine tasks may be displaced, open source AI is largely augmenting human work\u2014with those who gain AI-related skills seeing up to 20% wage premiums.\n\n\ud83d\udcfa Watch to learn how open source AI is shaping the future of infrastructure, compliance, and innovation\u2014from startups to government adoption.\n\nHashtags:\n #OpenSourceAI #AIResearch #LinuxFoundat",
+        "id": 3134449,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=McoDKjQ2TtA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/McoDKjQ2TtA/hqdefault.jpg",
+        "title": "The Real Impact of Open Source AI on Jobs, Costs, and Global Innovation",
+        "vote": 0
+    }
+]

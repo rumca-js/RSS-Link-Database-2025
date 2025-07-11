@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T20:42:51.553954+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T20:10:00+00:00",
+        "description": "To celebrate its third year of revealing stunning scenes of the cosmos in infrared light, NASA\u2019s James Webb Space Telescope has \u201cclawed\u201d back the thick, dusty layers of a section within the Cat\u2019s Paw Nebula (NGC 6334).",
+        "id": 3135498,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/54644815047-f6aaedf588-o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA\u2019s James Webb Space Telescope Inspects Cat\u2019s Paw",
+        "vote": 0
+    }
+]

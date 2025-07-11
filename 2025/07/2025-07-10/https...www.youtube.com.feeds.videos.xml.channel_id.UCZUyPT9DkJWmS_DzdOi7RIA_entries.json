@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T18:41:43.449057+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T18:15:56+00:00",
+        "description": "Software Engineering Fundaments Course - https://calcur.tech/fundamentals\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsletter\n\ud83d\udcf8 Instagram - https://www.instagram.com/CalebCurry\n\ud83d\udc26 Twitter - https://twitter.com/calebCurry\n\ud83d\udd17 LinkedIn - https://www.linkedin.com/in/calebcurry\n\u25b6\ufe0f Subscribe - http://calcur.tech/subscribe\n\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf93 Courses - https://www.codebreakthrough.com\n\ud83c\udd7f Patreon - http://calcur.tech/patreon-calebcurry",
+        "id": 3134479,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/b5IOlPHaguI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b5IOlPHaguI/hqdefault.jpg",
+        "title": "I Asked my Gen Z Intern to Edit My Video",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-10T19:46:34.154933+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-10T18:25:25+00:00",
+        "description": "Thanks to KIOXIA for sponsoring this video! Check them out at:\nhttps://americas.kioxia.com/en-us/business/ssd/enterprise-ssd.html?utm_source=YouTube&utm_medium=LinusTechTips&utm_campaign=WHALE+LAN+KIOXIA+Enterprise+SSD\nhttps://americas.kioxia.com/en-us/business/ssd/data-center-ssd.html?utm_source=YouTube&utm_medium=LinusTechTips&utm_campaign=WHALE+LAN+KIOXIA+Data+Center+SSD\n\nMajority of the time, Smash Champs is just a badminton facility. But then you might ask, \u201cWhy did you hook it up with fiber optic networking, on-site servers, and so much power?\u201d. Well, dear viewer, we are going to host the most BALLING LANs you\u2019ve ever seen, with the help of KIOXIA and our new cache server.\n\nDiscuss on the forum: https://linustechtips.com/topic/1617400-i-paid-100-people-to-test-1-computer/\n\nCheck out the parts from the build! \nCheck out Eaton's Tripp Lite UPS Series: https://www.eaton.com/cloudups\nCheck out the SilverStone rm23-502-MINI: https://lmg.gg/jI7nO\nBuy an ASRock EPYC4000D4U Micro-ATX AM",
+        "id": 3135039,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=7Lrek5XCGaI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7Lrek5XCGaI/hqdefault.jpg",
+        "title": "I paid 100 people to test 1 computer.",
+        "vote": 0
+    }
+]
