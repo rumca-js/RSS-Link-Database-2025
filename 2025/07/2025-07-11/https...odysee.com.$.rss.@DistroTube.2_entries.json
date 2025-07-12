@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T14:53:44.958050+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T13:00:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/07nVHYb_vV0\" width=\"480\" alt=\"thumbnail\" title=\"'rmdir' - remove empty directories - Video Man Pages\" /></p>The 'rmdir' command is used to remove empty directories.  <br /><br />- Remove an empty directory:<br />  rmdir path/to/directory<br />  <br />- Remove multiple empty directories:<br />  rmdir path/to/directory1 path/to/directory2 ...<br /><br />- Remove directory and its ancestors:<br />  rmdir -p path/to/directory<br />  NOTE Removes path/to/directory, path/to, and path/<br /><br />- Ignore failures to remove any non-empty directories:<br />  rmdir --ignore-fail-on-non-empty path/to/*<br /><br />- Verbose mode outputs a diagnostic for every directory processed:<br />  rmdir -v /path/to/directory<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2J",
+        "id": 3141717,
+        "language": "en",
+        "link": "https://odysee.com/%27rmdir%27-remove-empty-directories-video:4306d46968484c96184188dc4978ee149de134e5",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/07nVHYb_vV0",
+        "title": "'rmdir' - remove empty directories - Video Man Pages",
+        "vote": 0
+    }
+]

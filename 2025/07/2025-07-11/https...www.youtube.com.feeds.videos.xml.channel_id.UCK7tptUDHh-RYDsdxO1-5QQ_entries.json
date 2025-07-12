@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T14:13:15.886643+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T14:00:39+00:00",
+        "description": "Kirkenes, a Norwegian town on the border with Russia, has become a target for espionage operations. The town\u2019s proximity to Russia and nearby NATO bases has made it a target for Russian spies taking photos of military infrastructure, doing covert maritime intelligence operations and more. \n\nWSJ follows an agent from Norway\u2019s domestic intelligence agency, the PST, on the hunt for illegal activity.\n\nChapters:\n0:00 Russia\u2019s shadow war\n0:55 Russian threats \n2:25 Ports and Russian vessels\n5:05 Interviewing a retired border guard\n7:07 Current border guards\n7:51 Recruitment and Wagner\n10:05 Inside the town \n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Russia #Norway #WSJ",
+        "id": 3141218,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KcVxl08XYzQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KcVxl08XYzQ/hqdefault.jpg",
+        "title": "Hunting Russian Spies in Norway\u2019s \u2018Spy Town\u2019 | WSJ",
+        "vote": 0
+    }
+]

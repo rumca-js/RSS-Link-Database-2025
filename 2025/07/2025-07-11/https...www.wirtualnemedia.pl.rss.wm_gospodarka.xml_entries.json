@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T11:38:57.955519+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T11:38:57+00:00",
+        "description": "Robert Lewandowski pokaza\u0142 si\u0119 na Instagramie w zaskakuj\u0105cym kolorze w\u0142os\u00f3w. Jak w poprzednim podobnym przypadku z 2017 roku miliony kibic\u00f3w zastanawiaj\u0105 si\u0119, gdzie jest trop. Warto doda\u0107, \u017ce w ostatnim czasie zrobi\u0142o tak wielu innych pi\u0142karzy, ale i\u2026 Cezary Pazura, kt\u00f3ry wspomnia\u0142 przy okazji o Barcelonie.",
+        "id": 3140120,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/robert-lewandowski-z-blond-wlosami-o-co-chodzi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "O co chodzi z blond w\u0142osami Roberta Lewandowskiego i innych pi\u0142karzy? Fryzur\u0119 zmieni\u0142 te\u017c Cezary Pazura",
+        "vote": 0
+    }
+]

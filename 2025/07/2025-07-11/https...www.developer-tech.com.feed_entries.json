@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T13:14:47.970307+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T13:13:56+00:00",
+        "description": "<p>Meta and the UK Government have launched a \u00a31 million \u2018Open Source AI Fellowship\u2019 designed to embed some of the country\u2019s brightest AI experts into Whitehall. Backed by Meta\u2019s grant to the Alan Turing Institute, the initiative will see AI specialists placed across government departments to build advanced tools that improve agility and deliver on<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/meta-and-uk-government-launch-open-source-ai-fellowship/\" title=\"ReadMeta and UK Government launch \u2018Open Source AI Fellowship\u2019\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/meta-and-uk-government-launch-open-source-ai-fellowship/\">Meta and UK Government launch \u2018Open Source AI Fellowship\u2019</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3140666,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/meta-and-uk-government-launch-open-source-ai-fellowship",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Meta and UK Government launch \u2018Open Source AI Fellowship\u2019",
+        "vote": 0
+    }
+]

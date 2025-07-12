@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T05:05:24.867968+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T00:01:19+00:00",
+        "description": "Artificial intelligence is now designing custom proteins in seconds\u2014a process that once took years\u2014paving the way for cures to diseases like cancer and antibiotic-resistant infections. Australian scientists have joined this biomedical frontier by creating bacteria-killing proteins with AI. Their new platform, built by a team of biologists and computer scientists, is part of a global movement to democratize and accelerate protein design for medical breakthroughs.",
+        "id": 3137982,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/07/250710113152.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "In seconds, AI builds proteins to battle cancer and antibiotic resistance",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T13:07:49.276951+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T13:00:03+00:00",
+        "description": "The 'rmdir' command is used to remove empty directories.  \n\n- Remove an empty directory:\n  rmdir path/to/directory\n  \n- Remove multiple empty directories:\n  rmdir path/to/directory1 path/to/directory2 ...\n\n- Remove directory and its ancestors:\n  rmdir -p path/to/directory\n  NOTE Removes path/to/directory, path/to, and path/\n\n- Ignore failures to remove any non-empty directories:\n  rmdir --ignore-fail-on-non-empty path/to/*\n\n- Verbose mode outputs a diagnostic for every directory processed:\n  rmdir -v /path/to/directory\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ecom%26",
+        "id": 3140649,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=07nVHYb_vV0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/07nVHYb_vV0/hqdefault.jpg",
+        "title": "'rmdir' - remove empty directories - Video Man Pages",
+        "vote": 0
+    }
+]

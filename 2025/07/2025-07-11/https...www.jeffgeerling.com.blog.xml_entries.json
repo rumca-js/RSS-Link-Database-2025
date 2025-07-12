@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T14:11:49.412434+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T14:00:11+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Upgrading an M4 Pro Mac mini's storage for half the price</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>A few months ago, I <a href=\"https://www.youtube.com/watch?v=eLtE2kMTVOQ\">upgraded my M4 Mac mini from 1 to 2 TB of internal storage</a>, using a then-$269 DIY upgrade kit from ExpandMacMini.</p>\n\n<p>At the time, there was no option for upgrading the M4 Pro Mac mini, despite it <em>also</em> using a <a href=\"https://support.apple.com/en-us/121003\">user-replaceable</a>, socketed storage drive.</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/m4-pro-mac-mini-internal-guts.jpg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-ef416371-9f72-4c5c-b194-15180b4c254b\" data-insert-attach=\"{&quot;id&quot;:&quot;ef416371",
+        "id": 3141215,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/m4-pro-mac-mini-internal-guts.jpg",
+        "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
+        "vote": 0
+    }
+]

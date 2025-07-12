@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan George Extra Plus!",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T15:10:19.146000+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T15:00:18+00:00",
+        "description": "This is a video about YouTube thumbnails, and why they all look so dang similar these days. It\u2019s easy to want to blame Mr. Beast, but is it really his fault? Or is he just a victim of a relentless algorithm that will do anything it can to suck as much of our precious watchtime out of us as humanly possible, ultimately forcing creators to game the system as best as they can in order to stay on top\u2026 wait a minute... no it\u2019s definitely his fault.\n\nDid I Just Have A Midlife Crisis In GTA?\nhttps://youtu.be/IGQFXO59Dp4\n\nHow to Know if You\u2019re in a Cult\nhttps://youtu.be/t4WhkevH314\n\nUnhinged News That You Were Too Busy to Notice\nhttps://youtu.be/cZO-EFdiBas\n\nHi there hello please click the subscribe button and turn on notifications so I can feed my cats and dog and child.\n\nFor business inquiries: ryan@28thave.com\n\nWritten in collaboration with Geoff Haggerty\nEdited by Jamie Lightfoot\nProduced by Dave Heuff - Hooked Creators",
+        "id": 3141751,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5s41rjEtwOE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 603,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMjLiIEOPEfDl8WShEgPR2g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5s41rjEtwOE/hqdefault.jpg",
+        "title": "The MrBeastification of Thumbnails",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T20:33:22.602198+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T20:00:07+00:00",
+        "description": "On 22nd September 1979, an American Vela satellite detected something terrifying: a nuclear explosion in the remote ocean between Africa and Antarctica. The tell-tale \u201cdouble flash\u201d \u2014 a signature only nuclear blasts give off \u2014 had been caught. But nobody had a clue who did it. Or rather, nobody would admit it.\n\nFrance was ruled out \u2014 they had no reason to test there. But South Africa? Well, they had the motive. They\u2019d been caught preparing a test before and were locked in a Cold War\u2013esque conflict with Angola, with Cuban troops breathing down their necks. But then there\u2019s Israel \u2014 a secretive nuclear power that\u2019s never officially admitted it has nukes. And oh look, they had a cosy (and clandestine) alliance with South Africa.\n\nThe test site? Suspiciously close to South African islands. Naval bases closed. Rescue teams on alert. Declassified documents later showed both nations were in nuclear bed together. A Soviet spy even claimed the test was real and codenamed Operation Phoenix.\n\nYe",
+        "id": 3144367,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/AzWrlV1r7K4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AzWrlV1r7K4/hqdefault.jpg",
+        "title": "The Nuclear Test No One Claimed",
+        "vote": 0
+    }
+]

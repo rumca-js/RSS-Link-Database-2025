@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T14:50:27.498941+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T14:01:04+00:00",
+        "description": "You're either rich, frugal, or like to test Apple's right to repair compliance.\n\nMentioned in this video:\n\n  - M4-SSD 4TB SSD for M4 Pro: https://store.m4-ssd.com/products/third-party-ssd-for-mac-mini-m4-pro?variant=45569474199706\n  - M4-SSD Thunderbolt 5 enclosure: https://store.m4-ssd.com/products/tbt5-enclosure\n  - My original video on M4 Mac mini 2TB storage upgrade: https://www.youtube.com/watch?v=eLtE2kMTVOQ\n  - Level 2 Jeff video on Acasis Thunderbolt 5 enclosure: https://www.youtube.com/watch?v=gaV-O6NPWrI\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - On price, warranty, and DFU\n01:26 - Re-using my old 1TB mini SSD\n03:12 - M4 Pro mini storage options\n04:42 - Internal Apple SSD performance\n05:05 - Thunderbolt 5 performance\n05:57 - Thermal issu",
+        "id": 3141702,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cqmPjO-iHLo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cqmPjO-iHLo/hqdefault.jpg",
+        "title": "There are three types of Mac users",
+        "vote": 0
+    }
+]

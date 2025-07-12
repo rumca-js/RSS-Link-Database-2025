@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kelsey Piper",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T12:57:35.559847+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T08:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Elon Musk giving what appears to be a Nazi salute\" data-caption=\"A clip with Elon Musk making a controversial salute is screened during World News Media Congress in Krakow, Poland on May 4. | Beata Zawrzel/NurPhoto via Getty Images\" data-portal-copyright=\"Beata Zawrzel/NurPhoto via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2213027303.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tA clip with Elon Musk making a controversial salute is screened during World News Media Congress in Krakow, Poland on May 4. | Beata Zawrzel/NurPhoto via Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">From the beginning, Elon Musk has marketed Grok, the chatbot integrated into X, as the <a href=\"https://www.businessinsider.com/xai-grok-training-bias-woke-idealogy-2025-02\">unwoke AI</a> that would give it to you straight, unlike the competitors.\u00a0</p>\n\n<p class=\"has-t",
+        "id": 3140619,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/419631/grok-hitler-mechahitler-musk-ai-nazi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2213027303.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Grok\u2019s MechaHitler disaster is a preview of AI disasters to come",
+        "vote": 0
+    }
+]

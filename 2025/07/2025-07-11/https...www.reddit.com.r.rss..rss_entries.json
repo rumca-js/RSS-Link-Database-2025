@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Throw-Away-20250710",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T05:43:22.587118+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T05:02:27+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve had my RSS client subscribed to quite a few youtube channels for many years. Since April, this one channel (FortNine) <a href=\"https://www.youtube.com/channel/UCNSMdQtn1SuFzCZjfK2C7dQ\">https://www.youtube.com/channel/UCNSMdQtn1SuFzCZjfK2C7dQ</a> has been returning all new video links in a strange way.</p> <p>e.g.</p> <pre><code>yt:video:HIIL_6ydE8k </code></pre> <p>instead of\u2026</p> <pre><code>https://www.youtube.com/watch?v=HIIL_6ydE8k </code></pre> <p>That channel always gave normal links prior to April and no other channel&#39;s feed that I&#39;m subscribed to is doing this. Are there any known fixes for this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Throw-Away-20250710\"> /u/Throw-Away-20250710 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1lwybgc/youtube_feed_returning_nonhttp_links/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1lwybgc/youtube_f",
+        "id": 3138007,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1lwybgc/youtube_feed_returning_nonhttp_links",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Youtube feed returning non-http links.",
+        "vote": 0
+    }
+]

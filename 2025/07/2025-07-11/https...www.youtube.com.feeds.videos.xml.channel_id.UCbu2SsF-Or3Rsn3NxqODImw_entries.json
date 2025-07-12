@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T22:54:05.056968+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T22:02:50+00:00",
+        "description": "We compiled 50 useful and practical gameplay tips that still work on the Switch 2 version of The Legend Of Zelda: Breath Of The Wild.\n\n#zelda #breathofthewild #zeldabotw",
+        "id": 3145139,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=B3kySEU4hzU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B3kySEU4hzU/hqdefault.jpg",
+        "title": "50 Practical Tips In BOTW That Still Work On Switch 2",
+        "vote": 0
+    }
+]

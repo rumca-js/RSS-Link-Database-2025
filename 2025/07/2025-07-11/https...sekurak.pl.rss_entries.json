@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T09:10:23.860030+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T09:03:15+00:00",
+        "description": "<p>TLDR: Tre\u015b\u0107: Coraz cz\u0119\u015bciej firmy (zw\u0142aszcza du\u017ce korporacje i sieci franczyz) ujednolicaj\u0105 proces rekrutacyjny przy pomocy webaplikacji, kt\u00f3re najcz\u0119\u015bciej wspierane s\u0105 przez boty oparte o du\u017ce modele j\u0119zykowe (LLMy). Dzi\u015b po\u0142owa Internetu \u201czachwyca\u201d si\u0119 podatno\u015bciami odkrytymi przez badaczy bezpiecze\u0144stwa, kt\u00f3re pozwoli\u0142y zbada\u0107 interfejs administratora oraz uzyska\u0107 dost\u0119p do danych aplikant\u00f3w...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/aplikacja-rekrutacyjna-mcdonalds-pozwalala-na-dostep-do-danych-innych-aplikujacych/\">Aplikacja rekrutacyjna McDonald\u2019s pozwala\u0142a na dost\u0119p do danych innych aplikuj\u0105cych</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3139011,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/aplikacja-rekrutacyjna-mcdonalds-pozwalala-na-dostep-do-danych-innych-aplikujacych",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Aplikacja rekrutacyjna McDonald\u2019s pozwala\u0142a na dost\u0119p do danych innych aplikuj\u0105cych",
+        "vote": 0
+    }
+]

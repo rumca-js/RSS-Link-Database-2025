@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jenna Ahart",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T14:51:47.344772+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T14:06:46+00:00",
+        "description": "Tony Tyson\u2019s cameras revealed the universe\u2019s dark contents. Now, with the Rubin Observatory\u2019s 3.2-billion-pixel camera, he\u2019s ready to study dark matter and dark energy in unprecedented detail.            <p>The post <a href=\"https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711/\" target=\"_blank\">The Biggest-Ever Digital Camera Is This Cosmologist\u2019s Magnum Opus</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3141703,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/the-biggest-ever-digital-camera-is-this-cosmologists-magnum-opus-20250711",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2029/07/TonyTyson-cr.RachelBujalski-Default.webp",
+        "title": "The Biggest-Ever Digital Camera Is This Cosmologist\u2019s Magnum Opus",
+        "vote": 0
+    }
+]

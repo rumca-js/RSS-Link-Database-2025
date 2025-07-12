@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T15:47:37.326226+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T14:42:48+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nMental Health in Software Development - Tanzt kaputt, was euch kaputt macht! - Dom Davis - ACCU 2025\n---\n\nA rambling meander through the world of mental health and being neurodivergant in the tech world, and a rare showing of a talk that was complimented by Kevlin Henney himself, a must see for anyone who has an interest in neurodivergence and adjacent subjects - can you tell I'm trying to drum up support for a talk that's being announced 20 minutes before it's given? :) \n\nSlides: https://accu.org/conf-previous/accu2025/\n\nJoin think-cell as a C++ Developer and work on cutting-edge challenges with a focus on code excellence, innovation, and working alongside an international team of experts \u2014 apply now to be part of a team shaping the future of business presentations. https://www.think-cell.com/en/career\n---\n\nDom Davis\n\nDom Davis is a veteran of The City and a casualty of The Financial Crisis. Not content with bringing the world to its",
+        "id": 3142165,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gbs-qMIlYUg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gbs-qMIlYUg/hqdefault.jpg",
+        "title": "Mental Health in Software Development - Tanzt kaputt, was euch kaputt macht! - Dom Davis - ACCU 2025",
+        "vote": 0
+    }
+]

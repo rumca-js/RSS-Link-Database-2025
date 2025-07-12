@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T13:18:04.823610+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T13:01:26+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Braydon Coyer. He's a software engineer who started building mobile apps in high school \u2013 one of which even out-sold Angry Birds for a few days. He dropped out of his computer science degree program once he landed his first web developer job and never went back.\n\nWe talk about:\n- Mobile app development VS web app development\n- Strategies for applying for developer roles\n- How useful is a CS degree really?\n- Sane ways to integrate AI into your developer workflows\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 11,384 kind folks who support freeCodeCamp through a monthly donation. You can join these chill human beings and help our charity's mission by going to https://donate.fre",
+        "id": 3140672,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ilotANpzN7I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ilotANpzN7I/hqdefault.jpg",
+        "title": "799 rejections... but he got the job! Braydon Coyer developer interview [Podcast #179]",
+        "vote": 0
+    }
+]

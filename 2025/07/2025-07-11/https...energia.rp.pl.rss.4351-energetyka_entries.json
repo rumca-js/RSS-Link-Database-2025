@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T12:08:32.877542+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T12:08:32+00:00",
+        "description": "Komisja Europejska przygotowa\u0142a wprowadzenie \u201ep\u0142ynnego\u201d pu\u0142apu cen na rosyjsk\u0105 rop\u0119 naftow\u0105. Znalaz\u0142by si\u0119 on w 18. pakiecie sankcji wobec Moskwy.",
+        "id": 3140173,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ropa/art42691091-rope-z-rosji-przycisnie-nizszy-sufit-bedzie-plynny",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rop\u0119 z Rosji przyci\u015bnie ni\u017cszy sufit. B\u0119dzie p\u0142ynny",
+        "vote": 0
+    }
+]

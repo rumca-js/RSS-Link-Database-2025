@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-11T10:17:34.632677+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-11T10:01:16+00:00",
+        "description": "Subscribe for AI updates \u2192  https://ibm.biz/Bdex8z\n\nHow will AI agents change search? In episode 63 of Mixture of Experts, host Tim Hwang is joined by Aaron Baughman, Chris Hay and Kate Soule. First, Perplexity released their Comet browser, and there are rumors that OpenAI is next. Who will win the AI browser war? Then, we discuss frontier model transparency amid Anthropic\u2019s call for a \u201ctargeted transparency framework\u201d. Does this only support large model developers? Later, Cloudflare blocks AI scrapers. Is this a good thing? Finally, we discuss how AI is showing up at Wimbledon this year and enhancing the fan experience via Match Chat.  Tune in to today\u2019s episode of Mixture of Experts. \n\n00:00 \u2013 Intro \n1:06 -- AI browser wars \n13:10 -- Anthropic on model transparency \n28:57 -- Cloudflare scrapers \n41:32 -- Wimbledon Match Chat \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entit",
+        "id": 3139479,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ieR3u8sUX-U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ieR3u8sUX-U/hqdefault.jpg",
+        "title": "Perplexity\u2019s Comet browser, Cloudflare blocks AI scrapers and Wimbledon Match Chat",
+        "vote": 0
+    }
+]
