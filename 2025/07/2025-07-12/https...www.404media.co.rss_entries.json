@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Becky Ferreira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T13:53:19.801639+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T13:00:31+00:00",
+        "description": "Scientists warn that \u201cthe cuts would prevent the US from training and preparing the next generation of the scientific and technical workforce.\u201d",
+        "id": 3148673,
+        "language": "en",
+        "link": "https://www.404media.co/trumps-nasa-cuts-would-hurt-america-for-a-long-long-time",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/07/nasa1.jpg",
+        "title": "Trump\u2019s NASA Cuts Would Hurt America for a Long, Long Time",
+        "vote": 0
+    }
+]

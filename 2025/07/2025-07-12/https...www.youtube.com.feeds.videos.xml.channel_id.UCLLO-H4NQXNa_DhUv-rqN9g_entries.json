@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T15:14:55.765028+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T13:46:51+00:00",
+        "description": "Hideo Kojima zn\u00f3w pr\u00f3buje przekona\u0107 \u015bwiat, \u017ce gry wideo mog\u0105 by\u0107 czym\u015b wi\u0119cej. Yasu postanowi\u0142 sprawdzi\u0107, co tym razem wyklu\u0142o si\u0119 w szalonym umy\u015ble japo\u0144skiego tw\u00f3rcy gier.\n\nProwadzenie i scenariusz: Yasuhiro \u201eYasu3000\u201d Kanzawa (https://twitter.com/yasu3000_)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 3149041,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=NPtbYqwxzxA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NPtbYqwxzxA/hqdefault.jpg",
+        "title": "ABSOLUTNE KINO. Death Stranding 2 \u2013 Recenzja",
+        "vote": 0
+    }
+]

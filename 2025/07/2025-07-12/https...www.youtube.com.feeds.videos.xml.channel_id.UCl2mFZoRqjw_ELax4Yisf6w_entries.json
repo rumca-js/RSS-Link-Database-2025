@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T01:40:30.890333+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T01:08:31+00:00",
+        "description": "https://www.pbs.org/newshour/nation/click-to-cancel-rule-to-make-canceling-subscriptions-easier-blocked-by-court\n\nhttps://ecf.ca8.uscourts.gov/opndir/25/07/243137P.pdf\n\nhttps://www.youtube.com/watch?v=BVKhW9pzmYQ\n\nhttps://www.youtube.com/watch?v=XdQHuLHBP6g\n\nhttps://www.youtube.com/watch?v=JkGN3dX6004\n\nhttps://www.reddit.com/r/LifeProTips/comments/esjcpo/lpt_if_you_want_to_cancel_an_online_subscription/\n\nhttps://www.youtube.com/watch?v=n2lFIc1nDcA\n\nhttps://www.youtube.com/watch?v=KlcXvKTWLY4\n\nhttps://privacy.com",
+        "id": 3145972,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fuIcyyLjQ2o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fuIcyyLjQ2o/hqdefault.jpg",
+        "title": "Click to cancel dies",
+        "vote": 0
+    }
+]

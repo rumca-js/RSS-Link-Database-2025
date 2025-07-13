@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T21:47:54.760535+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T21:00:05+00:00",
+        "description": "There are countless window manager option available on X11 but when you look at the Wayland compositor space there's a lot less options available but that doesn't mean there aren't good ones to choose from.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nLabwc: https://github.com/labwc/labwc\nWayfire: https://github.com/WayfireWM/wayfire\nSway: https://github.com/swaywm/sway\nSwayFX: https://github.com/WillPower3309/swayfx\nHyprland: https://github.com/hyprwm/Hyprland\nQtile: https://github.com/qtile/qtile\nMiracleWM: https://github.com/miracle-wm-org/miracle-wm\nNiri: https://github.com/YaLTeR/niri\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========",
+        "id": 3150977,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=59dxV-5-8s4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/59dxV-5-8s4/hqdefault.jpg",
+        "title": "Best Wayland Compositors For Window Manager Users",
+        "vote": 0
+    }
+]

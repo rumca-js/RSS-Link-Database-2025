@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T16:03:05.030286+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T15:00:03+00:00",
+        "description": "AriZona Beverages iced tea cans have cost 99\u00a2 since the company was founded more than 30 years ago. But if the price were adjusted for inflation, those cans would be around $2.30 today. The company was founded by Don Vultaggio and John Ferolito in 1992, and back then, the competition was stiff with Snapple leading the market, and other powerful beverage brands launching their own iced teas, like Lipton and Nestea. At the time, these brands were all selling iced tea for around one dollar, but in 1997, AriZona decided to put its price directly on the can, making it awkward if individual store owners decided to increase the price. While prices for other brands, and even other AriZona products, have risen with inflation, AriZona's cans still have the 99\u00a2 printed on them.\n\nBut the price the brand is now famous for was under threat when Vultaggio and Ferolito had different plans for the company's future. Ferolito wanted to sell the company against Don's wishes. Selling could have meant more",
+        "id": 3149362,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=1CCShSBGVLQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1CCShSBGVLQ/hqdefault.jpg",
+        "title": "How Arizona Has Kept Its Iced Tea 99 Cents | Still Standing | Business Insider",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechLinked",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T04:11:15.325628+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T03:55:45+00:00",
+        "description": "Thanks to MSI for sponsoring this video! Check out their MPG A1000GS PCIE5 Power Supply at https://lmg.gg/yboBE\n\nNEWS SOURCES: https://lmg.gg/9lppZ\n\n\u25ba GET MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba GET A VPN: https://www.piavpn.com/TechLinked\n\u25ba LISTEN TO THE TECH NEWS: https://lmg.gg/TLPodcast\n\u25ba SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\u25ba OUR PODCAST GEAR: https://lmg.gg/podcastgear\n\n---------------------------------------------------\nTimestamps:\n0:00 did you know? it's a tech news show \n0:16 Intel CEO says \"it's too late\"\n2:09 Grok 4 checks what Elon thinks\n4:19 Subnautica 2 ex-devs sue publisher\n5:47 MSI MPG A1000GS PCIE5 PSU!\n6:34 QUICK BITS INTRO\n6:40 Belkin announces Wemo shutdown\n7:05 Google Pixel 6a battery nerf\n7:50 Nsw2u ROM site taken down\n8:15 McDonald's McHire chatbot flaw",
+        "id": 3146346,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tU0KLtyK8LY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 326,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tU0KLtyK8LY/hqdefault.jpg",
+        "title": "Intel: \"Ya, we're cooked\"",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lex Fridman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T18:12:43.624041+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T17:15:26+00:00",
+        "description": "David Heinemeier Hansson (aka DHH) is a legendary programmer, creator of Ruby on Rails, co-owner & CTO of 37signals that created Basecamp, HEY, & ONCE, and is a NYT-best-selling author (with Jason Fried) of 4 books: REWORK, REMOTE, Getting Real, and It Doesn't Have To Be Crazy At Work. He is also a race car driver, including a class-winning performance at the 24 hour Le Mans race.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman.com/sponsors/ep474-sb\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\n\n*Transcript:*\nhttps://lexfridman.com/dhh-david-heinemeier-hansson-transcript\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nDHH's X: https://x.com/dhh\nDHH's Website: https://dhh.",
+        "id": 3150036,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vagyIcmIGOQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 547,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vagyIcmIGOQ/hqdefault.jpg",
+        "title": "DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474",
+        "vote": 0
+    }
+]

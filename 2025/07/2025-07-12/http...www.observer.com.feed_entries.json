@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Grant",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T12:39:36.493749+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T12:00:52+00:00",
+        "description": "Auction houses are increasingly spotlighting individual collectors to attract bidders and elevate prices.",
+        "id": 3148322,
+        "language": "en",
+        "link": "https://observer.com/2025/07/more-single-owner-collection-sales-auction",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "Auction Insights: What\u2019s Behind the Rise in Single-Owner Collection Sales",
+        "vote": 0
+    }
+]

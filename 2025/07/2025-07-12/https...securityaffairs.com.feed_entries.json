@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pierluigi Paganini",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T18:13:32.285170+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T17:03:42+00:00",
+        "description": "Vulnerabilities in McDonald\u2019s McHire chatbot exposed data from 64 million job applicants due to insecure internal APIs. Security researchers Ian Carroll and Sam Curry discovered multiple vulnerabilities in the McDonald\u2019s chatbot recruitment platform McHire that exposed the personal information of over 64 million job applicants. The security duo found that McDonald\u2019s hiring bot, built by [&#8230;]",
+        "id": 3150037,
+        "language": "en-US",
+        "link": "https://securityaffairs.com/179840/hacking/mcdonalds-job-app-exposes-data-of-64-million-applicants.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 298,
+        "source_url": "https://securityaffairs.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/07/image-14.png?resize=1024%2C661&ssl=1",
+        "title": "McDonald\u2019s job app exposes data of 64 Million applicants",
+        "vote": 0
+    }
+]

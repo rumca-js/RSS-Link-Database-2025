@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T01:48:05.561703+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T01:46:49+00:00",
+        "description": "<p>Blake Brittain, reporting for Reuters:</p>\n\n<blockquote>\n  <p>Apple asked a U.S. appeals court on Monday to overturn a trade\ntribunal\u2019s decision which forced it to remove blood-oxygen reading\ntechnology from its Apple Watches, in order to avoid a ban on its\nU.S. smartwatch imports.</p>\n\n<p>A three-judge panel of the U.S. Court of Appeals for the Federal\nCircuit heard arguments from the tech giant, medical monitoring\ntechnology company Masimo, and the U.S. International Trade\nCommission over the ITC\u2019s 2023 ruling that Apple Watches violated\nMasimo\u2019s patent rights in pulse oximetry technology. [...]</p>\n\n<p>Apple attorney Joseph Mueller of WilmerHale told the court on\nMonday that the decision had wrongly \u201cdeprived millions of Apple\nWatch users\u201d of Apple\u2019s blood-oxygen feature. A lawyer for Masimo,\nJoseph Re of Knobbe Martens Olson &amp; Bear, countered that Apple was\ntrying to \u201crewrite the law\u201d with its arguments.</p>\n\n<p>The judges questioned whether Masimo\u2019s development of a compet",
+        "id": 3145987,
+        "language": "",
+        "link": "https://www.reuters.com/legal/government/apple-masimo-spar-over-apple-watch-import-ban-us-appeals-court-2025-07-07",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple and Masimo Faced Off in US Appeals Court This Week",
+        "vote": 0
+    }
+]

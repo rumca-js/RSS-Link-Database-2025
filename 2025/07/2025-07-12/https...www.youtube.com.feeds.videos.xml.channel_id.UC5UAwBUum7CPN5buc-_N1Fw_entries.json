@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T09:43:32.468040+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T09:25:13+00:00",
+        "description": "Use a secure, encrypted, and fast VPN with Proton VPN: https://protonvpn.com/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en# https://www.youtube.com/watch?v=3d65Mnr8onE\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:37 Sponsor: Proton VPN\n01:42 Hundreds of browser extensions use AI library\n04:39 GNOME Foundation will fund developers\n06:58 Wayback is now hosted by Freedesktop.org\n08:52 GNOME 49 alpha is out\n10:55 Bazzite launches their new Flatpak app store\n12:00 Google forces Gemini integration",
+        "id": 3147491,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_4HpSKyQ0JE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_4HpSKyQ0JE/hqdefault.jpg",
+        "title": "Browser extensions sell what you view to AI companies, GNOME funding - Linux Weekly News",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-12T09:13:28.048575+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-12T09:03:00+00:00",
+        "description": "There isn&#8217;t much of a correlation between how fast you swim and how much energy you put into it. In fact, drowning people burn plenty of calories but they don&#8217;t go anywhere. When we&#8217;re confronting a new problem, more effort might not be the answer. It could be that we benefit by staying calm and [&#8230;]",
+        "id": 3147447,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/07/flailing",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Flailing",
+        "vote": 0
+    }
+]
