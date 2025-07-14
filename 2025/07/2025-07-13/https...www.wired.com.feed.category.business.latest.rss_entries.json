@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Carlton Reid",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-13T10:29:57.128024+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-13T10:00:00+00:00",
+        "description": "Frustration with the size, location, and design of cup holders in new cars is on the rise\u2014and it holds enormous influence on whether we buy a ride or not.",
+        "id": 3153329,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/68713c8a94a91b1b8d8aa56e/master/pass/cupholders-gear.jpg",
+        "title": "What Makes a Car Lovable? It's Not the Tech, It's the Cup Holders",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-13T23:03:35.409774+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-13T21:38:47+00:00",
+        "description": "Jannik Sinner won his first Wimbledon title, defeating rival Carlos Alcaraz in four sets to capture his fourth Grand Slam trophy. Sinner has now won every Grand Slam except the French.",
+        "id": 3157098,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/jannik-sinner-wins-first-wimbledon-title-defeating-rival-carlos-alcaraz-243144261617",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/skinnerwimbly-6fvzmn.jpg",
+        "title": "Jannik Sinner wins first Wimbledon title, defeating rival Carlos Alcaraz",
+        "vote": 0
+    }
+]

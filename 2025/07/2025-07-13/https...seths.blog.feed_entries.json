@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-13T09:04:43.088660+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-13T08:54:00+00:00",
+        "description": "They can carry us away, amplify our work or slowly change everything around us. These arcs can easily become invisible forces, pushing us to make choices and to ignore their origins or consequences. Capitalism is the most common one, along with its shadow, industrialism. We show up on behalf of the invisible hand, engaging with [&#8230;]",
+        "id": 3153070,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/07/the-four-arcs",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The four arcs",
+        "vote": 0
+    }
+]

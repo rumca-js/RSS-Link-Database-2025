@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-13T21:03:10.250901+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-13T20:31:01+00:00",
+        "description": "# Let's Investigate stream \n\n## What is this?\n\n\"let's play\" gaming streams seemed like a crazy idea in 1999 but became very popular. I want to try a new interactive format: \"Let's Investigate\", live  research & documentation of consumer rights/anti-ownership violations.\n\n## How this works!\n\n### The current process\n- Louis researches anti-ownership & consumer exploitation issues\n- Louis documents findings on [consumerrights.wiki](https://consumerrights.wiki) \n- Louis uses these wiki articles to make YouTube videos exposing anti-ownership company misconduct\n\n### The new process\nInstead of researching & writing by myself, I will write wiki articles on livestream, encouraging people to pipe in with good sources & insights to make the article better. \n\n## Today's case is ***Futurehome***\n\nhttps://www.futurehome.io/en_no/\nhttps://support.futurehome.no/hc/en-no/articles/28158944965277-FAQ-Subscription\nhttps://www.reddit.com/r/norge/comments/1lek0p7/futurehome_tvinger_eksisterende_kunder_over",
+        "id": 3156611,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=lUBtuoPvXqs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lUBtuoPvXqs/hqdefault.jpg",
+        "title": "let's investigate anti ownership companies together",
+        "vote": 0
+    }
+]

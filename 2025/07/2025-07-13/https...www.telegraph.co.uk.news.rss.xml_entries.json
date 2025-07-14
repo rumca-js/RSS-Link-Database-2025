@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Telegraph reporters",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-13T06:05:38.657747+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-13T06:00:55+00:00",
+        "description": "Resident doctors set to walk out for five consecutive days on July 25 in what would be a \u2018wrecking ball\u2019",
+        "id": 3152465,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/news/2025/07/13/streeting-bma-hold-talks-avoid-doctor-strikes",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 355,
+        "source_url": "https://www.telegraph.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Streeting and BMA to hold talks to avoid doctor strikes",
+        "vote": 0
+    }
+]

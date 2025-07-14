@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-13T05:14:50.662634+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-13T04:11:01+00:00",
+        "description": "The HH-SCDAYU800A is another RISC-V development board built around the Alibaba T-Head TH1520 system-on-chip. With its dual Gigabit Ethernet ports, multiple camera interfaces, and industrial-grade design, the board targets applications requiring multimedia features, edge inference, and smart device integration. This board is implemented by RunKaiHong Digital Tech, a company based in Nanjing, China, though little [&#8230;]",
+        "id": 3152307,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/risc-v-embedded-board-features-th1520-soc-dual-gbe-and-4tops-ai",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RISC-V Embedded Board Features TH1520 SoC, Dual GbE, and 4TOPS AI",
+        "vote": 0
+    }
+]

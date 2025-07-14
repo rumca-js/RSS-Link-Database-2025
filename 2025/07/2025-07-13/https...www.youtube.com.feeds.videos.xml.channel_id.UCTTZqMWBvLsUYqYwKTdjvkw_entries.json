@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-13T16:54:34.969608+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-13T16:00:42+00:00",
+        "description": "\ud83d\udc49\u00a0Zerknij na https://uczmnie.pl gdzie czeka nowy kurs o bezpiecze\u0144stwie dzieci! \ud83d\udc48\n\nPewnie ju\u017c\u00a0s\u0142yszeli\u015bcie te legendy, \u017ce p\u00f3\u0142nocnokorea\u0144scy szpiedzy rekrutuj\u0105\u00a0si\u0119 na zdalne stanowiska w obszarze IT. W przer\u00f3\u017cnych firmach dooko\u0142a ca\u0142ego \u015bwiata, aby wykrada\u0107 z nich dane, przeprowadza\u0107 dywersj\u0119 czy po prostu robi\u0107 to, co szpiedzy w zasadzie robi\u0105 - szpiegowa\u0107. Takie D\u017cejmsy Bondy, ale na miar\u0119 mo\u017cliwo\u015bci Kima. No tylko, \u017ce to niestety nie s\u0105 \u017cadne legendy kina akcji, bo proceder ten ca\u0142kiem dok\u0142adnie opisa\u0142 na swoim blogu zesp\u00f3\u0142 przeciwdzia\u0142ania zagro\u017ceniom Microsoftu. \n \n\u0179r\u00f3d\u0142a:\n\ud83e\ude9f\u00a0Jasper Sleet: North Korean remote IT workers\u2019 evolving tactics to infiltrate organizations \nhttps://www.microsoft.com/en-us/security/blog/2025/06/30/jasper-sleet-north-korean-remote-it-workers-evolving-tactics-to-infiltrate-organizations/\n\n\ud83d\udcc3\u00a0Exposing DPRK\u2019s Cyber Syndicate and Hidden IT Workforce\nhttps://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf\n\n\ud83d\udcf0\u00a0Tech companies ha",
+        "id": 3155362,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=QN7F03HPTIs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QN7F03HPTIs/hqdefault.jpg",
+        "title": "Zatrudniali haker\u00f3w Kim Dzong Una!",
+        "vote": 0
+    }
+]
