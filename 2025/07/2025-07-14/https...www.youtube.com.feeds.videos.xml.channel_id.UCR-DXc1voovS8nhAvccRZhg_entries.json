@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-14T20:19:54.941771+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-14T19:37:27+00:00",
+        "description": "Jeff battles procrastination. And is talking to himself in the third person, apparently.\n\nMentioned in this video (some links are affiliate links):\n\n  - Open Sauce: https://opensauce.com\n  - HackRF One SDR: https://amzn.to/4lkUxRQ\n  - DeskPi RackMate TT: https://amzn.to/3TZ2AId\n  - DeskPi 7.68\" mini rack LCD display: https://amzn.to/3Iqz0Zu\n  - Argon ONE UP laptop (test notes): https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/744\n\nNote: The Argon ONE UP was provided for my testing and pre-production feedback. I'll publish a full review (or, I guess 'preview') once I get more time with it. Also, it looks like it'll launch on Kickstarter, so the usual crowdfunding caveats apply! Don't back the project once it's live unless you're willing to part ways with your money and potentially get nothing in return!\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel:",
+        "id": 3164524,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Fu2BGnJ4pkU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fu2BGnJ4pkU/hqdefault.jpg",
+        "title": "Raspberry Pi Laptop causes mild Open Sauce procrastination",
+        "vote": 0
+    }
+]

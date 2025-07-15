@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-14T20:51:12.484592+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-14T20:35:00+00:00",
+        "description": "Mahmoud Abdul Rahman's son, Abdullah, was among six children who died at a water distribution point in Gaza on Sunday.",
+        "id": 3164607,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/ckglpk9xjewo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5007/live/c7b57d30-60e6-11f0-a40e-a1af2950b220.jpg",
+        "title": "Gaza father's outrage after Israeli strike kills son 'searching for sip' at water point",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-14T19:27:04.955128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-14T18:26:24+00:00",
+        "description": "Dr. Jordan B. Peterson speaks with psychologist and autism researcher Dr. Simon Baron-Cohen about the nature of empathy, systemizing, and the neurological basis of autism. This needed conversation explores how humans develop theory of mind, the differences between cognitive and affective empathy, and why some individuals gravitate toward systems over social interaction. They discuss the evolutionary roots of invention, gender differences in cognition, and how autistic traits relate to creativity and pattern recognition. Unflinchingly, they also discuss the darker side of empathy deficits\u2014including psychopathy and cruelty\u2014raising urgent questions about compassion, human development, and our capacity for evil.\n\nProfessor of Psychology and Psychiatry at the University of Cambridge, Simon Baron-Cohen is Director of the Autism Research Centre and a global leader in autism research. He pioneered the 'mindblindness' and 'empathizing-systemizing' theories, has authored over 770 scientific pap",
+        "id": 3164064,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=SDWZa_7WrFg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SDWZa_7WrFg/hqdefault.jpg",
+        "title": "What Do We Actually Know About Autism? | Dr. Simon Baron-Cohen | Ep 562",
+        "vote": 0
+    }
+]

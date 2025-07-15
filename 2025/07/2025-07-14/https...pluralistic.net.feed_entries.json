@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-14T13:50:44.013954+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-14T13:02:22+00:00",
+        "description": "Today's links Semantic drift versus ethical drift: Locking things open vs locking in freedom. Hey look at this: Delights to delectate. Object permanence: Riepl's law; video patents; NSA global surveillance; Smart speaker triggers; roller derby covid mitigations. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Semantic drift versus ethical drift (permalink) More than a quarter-century ago, a group of hackers decided that, as a label, \"free software\" was a liability, and they set out to replace it with a different label, \"open source,\" on the basis that \"open source\" was easier to understand and using it instead of \"free software\" would speed up adoption. They were right. The switch from calling it \"free software\" to calling it \"open source\" sparked a massive, unbroken wave of adoption, to the point where today it's hard to fi",
+        "id": 3161232,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/07/14/pole-star",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/14Jul2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: Semantic drift versus ethical drift (14 Jul 2025)",
+        "vote": 0
+    }
+]

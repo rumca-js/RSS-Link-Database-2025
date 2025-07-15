@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-14T08:05:01.128634+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-14T07:21:28+00:00",
+        "description": "Chc\u0105c czuwa\u0107 nad bezpiecze\u0144stwem dziecka w sieci, si\u0142\u0105 rzeczy trzeba by\u0107 \"na czasie\". Jak? Sk\u0105d czerpa\u0107 informacje? O tym porozmawiam z Jakubem Mrugalskim - dla kt\u00f3rego nowoczesne rozwi\u0105zania technologiczne to codzienno\u015b\u0107.\n\nLive jest zwi\u0105zany z promocj\u0105 kursu \"Dziecko w sieci: Instrukcja obs\u0142ugi\" https://dzieci.uczmnie.pl/\n\n\ud83c\udf99\ufe0f New to streaming or looking to level up? Check out StreamYard and get $10 discount! \ud83d\ude0d https://streamyard.com/pal/d/6496931834626048",
+        "id": 3159018,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=jYSCcGlvzWI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jYSCcGlvzWI/hqdefault.jpg",
+        "title": "Kto ogarnia technologi\u0119 - Ty czy dziecko?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T00:02:00.057829+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-14T23:40:23+00:00",
+        "description": "Though it eventually does become repetitive, its endgame lacks direction, and its strict adherence to the source material is sometimes an Achilles' heel, Dune: Awakening nonetheless manages to carefully mix and match genres to create a Spice Melange cocktail that is hard to put down--at least for the first few dozen hours.\n\n#dune #duneawakening #gamespot #gaming #game #gamereview",
+        "id": 3165720,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EGq8TEZ5XQM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EGq8TEZ5XQM/hqdefault.jpg",
+        "title": "Dune: Awakening Review",
+        "vote": 0
+    }
+]

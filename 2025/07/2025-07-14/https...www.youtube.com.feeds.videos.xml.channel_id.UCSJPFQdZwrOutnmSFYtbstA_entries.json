@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-14T17:30:14.683126+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-14T17:01:02+00:00",
+        "description": "He was the golden boy of Hollywood, a talented writer and director, architect of the biggest superhero movie of all time and celebrated male feminist, until it all came crashing down. This is the story of how Joss Whedon crashed and burned.",
+        "id": 3163071,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=k_SzyAZ4Rek",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k_SzyAZ4Rek/hqdefault.jpg",
+        "title": "Crash And Burn - The Joss Whedon Story",
+        "vote": 0
+    }
+]

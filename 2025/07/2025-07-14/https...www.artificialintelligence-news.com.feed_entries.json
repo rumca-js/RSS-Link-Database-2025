@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eric Elsen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-14T11:44:09.197999+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-14T11:01:44+00:00",
+        "description": "<p>Author, Eric Elsen, Forte Group. On January 7, 2025, the US Food and Drug Administration (FDA) released draft guidance titled &#8220;Artificial Intelligence and Machine Learning in Software as a Medical Device&#8221;. The document outlines expectations for pre-market applications and lifecycle management of AI-enabled medical software. While the document may have flown under many readers&#8217; radar, [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/fdas-draft-guidance-on-ai-ml-has-startups-on-high-alert/\">FDA&#8217;s draft guidance on AI/ML has startups on high alert</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3160190,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/fdas-draft-guidance-on-ai-ml-has-startups-on-high-alert",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FDA\u2019s draft guidance on AI/ML has startups on high alert",
+        "vote": 0
+    }
+]
