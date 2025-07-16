@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T18:26:15.084175+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T18:07:34+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>The Supreme Court\u2019s <a href=\"https://www.eff.org/deeplinks/2025/06/todays-supreme-court-decision-age-verification-tramples-free-speech-and-undermines\">recent decision</a> in <em>Free Speech Coalition v. Paxton</em> did not end the legal debate over age-verification mandates for websites. Instead, it\u2019s a limited decision: the court\u2019s legal reasoning only applies to age restrictions on sexual materials that minors do not have a legal right to access. Although the ruling reverses decades of First Amendment protections for adults to access lawful speech online, the decision does not allow states or the federal government to impose broader age-verification mandates on social media, general audience websites, or app stores.</p>\n<p>At EFF, <a href=\"https://www.eff.org/deeplinks/2024/12/effs-2024-battle-against-online-age-verification-defending-youth",
+        "id": 3172781,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/07/despite-supreme-court-setback-eff-fights-against-online-age-mandates",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Despite Supreme Court Setback, EFF Fights On Against Online Age Mandates",
+        "vote": 0
+    }
+]

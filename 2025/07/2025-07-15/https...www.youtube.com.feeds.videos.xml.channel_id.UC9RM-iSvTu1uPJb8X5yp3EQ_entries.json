@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Wendover Productions",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T20:59:16.636757+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T20:01:29+00:00",
+        "description": "Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/wendover\n\nYoutube: http://www.YouTube.com/WendoverProductions\nInstagram: http://Instagram.com/sam.from.wendover\nTwitter: http://www.Twitter.com/WendoverPro\nSponsorship Enquiries: wendover@standard.tv\nOther emails: sam@wendover.productions\nReddit: http://Reddit.com/r/WendoverProductions\n\nWriting by Sam Denby, Tristan Purdy, and Christine Benedetti\nEditing by Alexander Williard\nAnimation by Sara Stoltman, Gabriel Ferreras, Austin Glass, and Kate Ermolenkko\nSound by Manni Simon and Dony Bullen\nThumbnail by Simon Buckmaster",
+        "id": 3173880,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Om3IQ5HEQ8g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 390,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Om3IQ5HEQ8g/hqdefault.jpg",
+        "title": "The Logistics of Music Festivals",
+        "vote": 0
+    }
+]

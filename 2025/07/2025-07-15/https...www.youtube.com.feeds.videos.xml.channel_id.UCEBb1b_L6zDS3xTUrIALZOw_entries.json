@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T15:53:43.890389+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T15:01:12+00:00",
+        "description": "Professor Jon Gruber explains how companies use product differentiation - such as in the breakfast cereal industry - to maintain profitability in highly competitive markets, in this segment from lecture 14 of Principles of Microeconomics.\n\n#Competition #ProductDifferentiation #Monopolies #BreakfastCereal #Economy #Economics #MicroEconomics #ChoiceOverload #CournotModel #BertrandModel #MIT #IntroEconomics #IntroEconomicsCourse",
+        "id": 3171433,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iygG695S3_Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iygG695S3_Q/hqdefault.jpg",
+        "title": "\u201cWhy so many cereals?\" - The economics of competition",
+        "vote": 0
+    }
+]

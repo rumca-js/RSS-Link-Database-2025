@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T22:04:34.610847+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T21:00:14+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/G3Brncby9cE\" width=\"480\" alt=\"thumbnail\" title=\"Revival Of KDE Plasma Bigscreen: KDE For Your TV\" /></p>You probably know about KDE Plasma on your desktop and maybe even Plasma mobile, did you know that there was a Plasma Bigscreen as well. It's been dead for a very long time but a few devs have decided to revive it and have some big plans.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Website: https://plasma-bigscreen.org/<br />Plasma Blog Post: https://espi.dev/posts/2025/07/plasma-bigscreen/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gamin",
+        "id": 3174372,
+        "language": "en",
+        "link": "https://odysee.com/revival-of-kde-plasma-bigscreen-kde-for:8bc24b1110634613afdbc7dcf7d599e52d03773c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/G3Brncby9cE",
+        "title": "Revival Of KDE Plasma Bigscreen: KDE For Your TV",
+        "vote": 0
+    }
+]

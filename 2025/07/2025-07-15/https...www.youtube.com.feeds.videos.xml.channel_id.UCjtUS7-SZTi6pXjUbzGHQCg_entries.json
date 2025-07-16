@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Undecided with Matt Ferrell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T12:36:58.709373+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T12:17:01+00:00",
+        "description": "How Subways Are Powering Cities. Go to https://ground.news/undecided for an innovative way to stay fully informed on tech, energy, the climate and more. Save 40% on the Ground News unlimited access Vantage plan with my link. Every time a subway screeches to a stop, commuters pour out, new riders pile in. Just another day on the rails. But what if that screech could do more than just move people? In Barcelona, it does. They\u2019ve taken the regenerative braking you might know from your EV and cranked it up to city scale. Now, their metro isn\u2019t just moving passengers, it\u2019s powering escalators, traffic lights \u2026 and even EVs. It\u2019s a sneak peek into a future where energy isn\u2019t only harvested from solar panels or massive power plants, but reclaimed from the overlooked rhythm of urban life. So, how much energy are we letting slip through the cracks, and what happens when we start catching it?\n\nWatch Why Mushrooms are Starting to Replace Everything https://youtu.be/jI2LC3WTryw?list=PLnTSM-ORSgi7u",
+        "id": 3169588,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Aubi3cK8Ym0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 453,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Aubi3cK8Ym0/hqdefault.jpg",
+        "title": "How Subways Are Powering Cities",
+        "vote": 0
+    }
+]

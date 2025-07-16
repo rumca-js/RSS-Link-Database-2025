@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T21:50:57.788370+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T21:44:07+00:00",
+        "description": "<p>\n\t<img alt=\"RkWx2Fr8_400x400.jpg\" src=\"https://isocpp.org/files/img/RkWx2Fr8_400x400.jpg\" style=\"width: 250px; margin: 10px; float: right; height: 250px;\" />While C++ doesn&rsquo;t have native syntax for returning multiple values like some other languages, modern C++ offers powerful tools to accomplish the same goal. With features like <code data-end=\"187\" data-start=\"175\">std::tuple</code>, structured bindings, <code data-end=\"225\" data-start=\"210\">std::expected</code>, and <code data-end=\"246\" data-start=\"231\">std::optional</code>, handling multiple return values&mdash;and even error codes&mdash;has become both clean and expressive.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2025/05/18/returning-several-values-from-a-function-in-c-c23-edition/\">Returning several values from a function in C++ (C++23 edition)</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tMany programming languages such as the Go programming language ",
+        "id": 3174314,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/07/returning-several-values-from-a-function-in-cpp-c23-edition-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RkWx2Fr8_400x400.jpg",
+        "title": "Returning several values from a function in C++ (C++23 edition) -- Daniel Lemire",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T15:01:49.265810+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T14:00:19+00:00",
+        "description": "John Jumper on June 16, 2025 at AI Startup School in San Francisco.\n\nJohn Jumper is a physicist-turned-computational biologist who led DeepMind\u2019s AlphaFold team\u2014and earned the 2024 Nobel Prize in Chemistry for solving protein folding, a decades-old scientific challenge. \n\nIn this talk, he shares how a deep learning breakthrough at CASP14 turned into AlphaFold 1 and then AlphaFold 2, delivering atomic accuracy predictions and revolutionizing biology. He explains the scientific puzzle behind protein folding, the key algorithmic breakthroughs, and the impact of making millions of protein structures accessible to researchers worldwide.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:00 - Personal Background\n01:26 - Transition to Computational Biology\n02:01 - Journey into Machine Learning\n02:59 - Joining Google DeepMind\n03:47 - AlphaFold and Its Impact\n04:54 - The Complexity of Cells and Proteins\n07:44 - Challenges in Protei",
+        "id": 3170772,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2Yguz5U-Nic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2Yguz5U-Nic/hqdefault.jpg",
+        "title": "John Jumper: AlphaFold and the Future of Science",
+        "vote": 0
+    }
+]

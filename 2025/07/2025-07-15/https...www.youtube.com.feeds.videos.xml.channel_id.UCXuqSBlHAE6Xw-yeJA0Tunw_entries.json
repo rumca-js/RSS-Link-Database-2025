@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T22:07:00.307965+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T21:35:18+00:00",
+        "description": "Unbox comfort at https://rovelab.com/LTT and get up 50% off, along with an exclusive $100 discount for our viewers for the next 72 hours. Sit back, relax, and enjoy M1.\n\nJake and Linus tour through Linus's house to make a massive list of unfinished smart home projects and attempt to fix at least one of them. Garage doors, light switches, server heat issues, and more all need attention. This series will DEFINITELY need more parts after seeing how long the list ended up being...\n\nDiscuss on the forum: https://linustechtips.com/topic/1617828-everything-i-did-wrong-in-my-house/\n\nCheck out the Valencia Tuscany Home Theater Seats: https://geni.us/jojtx\nCheck out the Falcon Northwest FragBox SFF Gaming PC: https://lmg.gg/4GxEN\nCheck out the Everything Presence One: https://lmg.gg/vqGU5\nBuy an Aeotec Z-Stick 7 Plus, Zwave Hub: https://geni.us/tBusBV\nBuy a SMLIGHT SLZB-06 - Zigbee 3.0 to Ethernet: https://geni.us/4m0DBA\nCheck out the Sony XV900 Speaker: https://geni.us/uEmf\nCheck out the Sony ",
+        "id": 3174384,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aweFS-qQz9o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aweFS-qQz9o/hqdefault.jpg",
+        "title": "Everything I did wrong in my house.",
+        "vote": 0
+    }
+]

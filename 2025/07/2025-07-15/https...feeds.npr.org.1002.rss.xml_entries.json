@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Clare Lombardo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T14:43:11.647745+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T09:47:49+00:00",
+        "description": "Nominations for the 2025 Primetime Emmy Awards are being announced on Tuesday. They'll be presented by actors Harvey Guill\u00e9n and Brenda Song.",
+        "id": 3170706,
+        "language": "en",
+        "link": "https://www.npr.org/2025/07/15/nx-s1-5459779/2025-emmy-nominations-list",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "undefined",
+        "title": "The 2025 Emmy nominations are being announced this morning",
+        "vote": 0
+    }
+]

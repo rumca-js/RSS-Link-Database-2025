@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Connor Makar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T15:46:54.722286+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T14:49:34+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/rematch-crossplay.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p><a href=\"https://www.eurogamer.net/games/rematch\">Rematch</a> remains a<a href=\"https://www.eurogamer.net/rematch-kicks-off-first-week-with-impressive-sales-and-player-milestones\"> powerhouse</a>, bringing in a vast variety of competitive multiplayer gamers and football fans alike. Inevitably, as with all live-service titles, there's a hunger for new updates, with crossplay sitting comfortably as the feature in highest demand.</p> <p><a href=\"https://www.eurogamer.net/rematch-crossplay-top-priority-future-updates\">Read more</a></p>",
+        "id": 3171394,
+        "language": "en",
+        "link": "https://www.eurogamer.net/rematch-crossplay-top-priority-future-updates",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/rematch-crossplay.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Rematch crossplay remains a \"top priority\" as Sloclap speaks to the four pillars of future updates",
+        "vote": 0
+    }
+]

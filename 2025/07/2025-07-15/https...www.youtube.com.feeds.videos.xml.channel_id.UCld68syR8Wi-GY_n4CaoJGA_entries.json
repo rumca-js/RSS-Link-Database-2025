@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T22:16:49.472976+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T21:00:14+00:00",
+        "description": "You probably know about KDE Plasma on your desktop and maybe even Plasma mobile, did you know that there was a Plasma Bigscreen as well. It's been dead for a very long time but a few devs have decided to revive it and have some big plans.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nWebsite: https://plasma-bigscreen.org/\nPlasma Blog Post: https://espi.dev/posts/2025/07/plasma-bigscreen/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xyz/gi",
+        "id": 3174395,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=G3Brncby9cE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G3Brncby9cE/hqdefault.jpg",
+        "title": "Revival Of KDE Plasma Bigscreen: KDE For Your TV",
+        "vote": 0
+    }
+]

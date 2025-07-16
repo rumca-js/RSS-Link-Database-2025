@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T14:13:42.524764+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T13:30:37+00:00",
+        "description": "A huge wave of fantasy news this week! We\u2019ve got our first look at the new Harry Potter HBO series, confirmation that ACOTAR Book 6 is done, and YouTube is finally preparing to crack down on AI-generated content spam. Plus, new covers, reveals, and updates from Malazan, Empire of Silence, Ilona Andrews, Dungeon Crawler Carl, Murderbot, Borderlands 4, and more. Let\u2019s get into it.\n\n\ud83e\uddd9\u200d\u2642\ufe0f Timestamps & Sources\n00:00 New Harry Potter First Look: https://variety.com/2025/tv/global/harry-potter-hbo-series-starts-filming-first-look-1236453094/\n01:34 WoT Project Update: https://www.patreon.com/DanielBGreene\n03:09 Dungeon Crawler Carl Webtoon Release\n05:17 Operation Bounce House: https://people.com/see-the-cover-of-operation-bounce-house-and-read-an-excerpt-exclusive-11771495\n06:36 New Ilona Andrews: https://reactormag.com/cover-reveal-this-kingdom-will-not-kill-me-by-ilona-andrews/\n07:55 New Malazan Art: https://bsky.app/profile/thebrokenbinding.bsky.social/post/3ltmf55ujss2v\n08:07 On Sunday\u2019s ",
+        "id": 3170248,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cGcF3EgLO_c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cGcF3EgLO_c/hqdefault.jpg",
+        "title": "NEW Harry Potter First Look, ACOTAR 6 Complete! Lost Footage FOUND! | Fantasy News",
+        "vote": 0
+    }
+]

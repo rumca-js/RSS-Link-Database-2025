@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/ES-DE_Frontend",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T21:54:48.333176+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T20:55:50+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1m0tjwy/esde_330_is_now_available_for_download_this/\"> <img src=\"https://external-preview.redd.it/a-XRz014xk1bGfaPAz-RcRXSRHxurnxRuKxZqmNyYXw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6bb5dc1b48fa88eeb79a0c31d68a638346639b8\" alt=\"ES-DE 3.3.0 is now available for download! This release brings (among other things) a built-in game importer tool that makes it possible to import native apps and games on Android, and on desktop operating systems you can now import Steam games, desktop applications, emulators and more.\" title=\"ES-DE 3.3.0 is now available for download! This release brings (among other things) a built-in game importer tool that makes it possible to import native apps and games on Android, and on desktop operating systems you can now import Steam games, desktop applications, emulators and more.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ES-DE_Frontend\"> /u/ES-DE_",
+        "id": 3174336,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1m0tjwy/esde_330_is_now_available_for_download_this",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/a-XRz014xk1bGfaPAz-RcRXSRHxurnxRuKxZqmNyYXw.png?width=640&crop=smart&auto=webp&s=a6bb5dc1b48fa88eeb79a0c31d68a638346639b8",
+        "title": "ES-DE 3.3.0 is now available for download! This release brings (among other things) a built-in game importer tool that makes it possible to import native apps and games on Android, and on desktop operating systems you can now import Steam games, desktop applications, emulators and more.",
+        "vote": 0
+    }
+]

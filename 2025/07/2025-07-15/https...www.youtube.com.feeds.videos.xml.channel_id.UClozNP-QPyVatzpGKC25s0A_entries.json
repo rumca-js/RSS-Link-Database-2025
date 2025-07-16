@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-15T13:11:54.185164+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-15T13:03:43+00:00",
+        "description": "NEW COURSES: http://bradsartschool.com \ndiscount code: bradsentme\n\nThe new Procreate beta is all about brushes. With 144 new brushes many of which were made by Kyle T Webster. There are also some new brush libraries and ways to search brushes.\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradsartschool.com\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 3169651,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_uQ8omKN2y4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_uQ8omKN2y4/hqdefault.jpg",
+        "title": "Procreate 5.4 Beta - Hands On",
+        "vote": 0
+    }
+]
