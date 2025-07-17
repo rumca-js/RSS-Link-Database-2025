@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PomplamooseMusic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T21:42:08.806160+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T21:01:15+00:00",
+        "description": "Stream Photog\u00e9nique: https://ffm.to/photogenique\nPre-order Photog\u00e9nique vinyl, CDs & merch: https://photogenique.diggers.store/\n\nFollow us on instagram: https://instagram.com/pomplamoosemusic\nBecome a patron of our music (to vote on the songs we cover and get merch and stuff like that): http://www.patreon.com/pomplamoose",
+        "id": 3183272,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KnWntUEdKSM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 259,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSiPjfAJBgbFlIUsxOWpK0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KnWntUEdKSM/hqdefault.jpg",
+        "title": "Our album, Photog\u00e9nique, is out now!!! \u2728\ud83e\udd42",
+        "vote": 0
+    }
+]

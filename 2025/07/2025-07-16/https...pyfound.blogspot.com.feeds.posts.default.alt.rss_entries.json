@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T12:57:59.233712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T12:43:00+00:00",
+        "description": "<p>Every PSF voting-eligible Member (Supporting, Contributing, and Fellow) needs to affirm their membership to vote in this year\u2019s election.</p><p><b>If you wish to vote in this year\u2019s PSF Board election, you must affirm your intention to vote no later than Tuesday, August 26th, 2:00 pm UTC. </b>This year\u2019s Board Election vote begins Tuesday, September 2nd, 2:00 pm UTC, and closes on Tuesday, September 16th, 2:00 pm UTC.</p><p>You should have received an email from \"psf@psfmember.org &lt;Python Software Foundation&gt;\" with the subject \"[Action Required] Affirm your PSF Membership voting intention for 2025 PSF Board Election\" that contains information on how to affirm your voting status. If you were expecting to receive the email but have not (make sure to check your spam!), please email psf-elections@pyfound.org, and we\u2019ll assist you. <i>Please note: If you opted out of emails related to your membership, you did not receive this email.&nbsp;</i></p><p></p><h4 style=\"text-align: left;",
+        "id": 3178652,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/07/affirm-your-psf-membership-voting-status.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Affirm Your PSF Membership Voting Status",
+        "vote": 0
+    }
+]

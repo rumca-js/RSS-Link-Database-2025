@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T21:29:55.674745+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T21:00:34+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/QSVqiXGlN9s\" width=\"480\" alt=\"thumbnail\" title=\"Lossless Scaling Has Come To Linux At Last!\" /></p>I've seen a lot of people on Windows talk about Lossless Scaling as a reason they can't use Linux but now Lossless Scaling has come to Linux as lsfg-vk<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />lsfg-vk Repo: https://github.com/PancakeTAS/lsfg-vk<br />Lossless Scaling Repo: https://store.steampowered.com/app/993090/Lossless_Scaling/<br />Lossless Scaling Discord: discord.gg/losslessscaling<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br ",
+        "id": 3183256,
+        "language": "en",
+        "link": "https://odysee.com/lossless-scaling-has-come-to-linux-at:6aab07ba7c14900ed6b81e39e6c510e8ee0b20bb",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/QSVqiXGlN9s",
+        "title": "Lossless Scaling Has Come To Linux At Last!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T16:35:03.993061+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T14:15:51+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nAgile - The Road Towards Organizational Agility - Progress and Challenges Examined - Giovanni Asproni - ACCU 2025\n---\n\nThis talk explores the journey towards organizational agility, examining the progress made since the Agile Manifesto was published (e.g., Continuous Integration and automated testing are almost ubiquitous), and the challenges that most organisations still encounter (e.g., lack of prioritisation, requirements with unclear acceptance criteria, lack of focus, etc.)\n\nWe'll delve into the evolution of agile methodologies from team-level practices to enterprise-wide approaches and discuss why many organizations still struggle to fully embrace agility despite their best efforts.\n\nDrawing on recent research and real-world case studies, we'll examine successful strategies for becoming truly agile, as well as some common unsuccessful ones. We'll also explore emerging trends and future directions in organizational agility, inclu",
+        "id": 3180996,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YWoON8H0qk4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YWoON8H0qk4/hqdefault.jpg",
+        "title": "Agile - The Road Towards Organizational Agility - Progress & Challenges Examined - Giovanni Asproni",
+        "vote": 0
+    }
+]

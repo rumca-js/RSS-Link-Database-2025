@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T11:40:39.924839+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T10:46:49+00:00",
+        "description": "<p>The Next.js team has pushed out version 15.4 and while it might not be a huge update, it makes vital improvements to things like Turbopack. Developers that have tried the &#8211;turbopack flag may have seen the speed boosts, but maybe ran into a few quirks that made them hesitant to use it for anything serious.<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/next-js-15-4-update-boosts-turbopack-ahead-version-16/\" title=\"ReadNext.js 15.4 update boosts Turbopack ahead of version 16\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/next-js-15-4-update-boosts-turbopack-ahead-version-16/\">Next.js 15.4 update boosts Turbopack ahead of version 16</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3178027,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/next-js-15-4-update-boosts-turbopack-ahead-version-16",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Next.js 15.4 update boosts Turbopack ahead of version 16",
+        "vote": 0
+    }
+]

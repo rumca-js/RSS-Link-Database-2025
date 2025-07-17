@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T15:19:58.841747+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T14:32:19+00:00",
+        "description": "The Israeli army struck near the entrance to the Syrian Ministry of Defense in Damascus. It targeted the same site several hours later with a larger strike, saying it is supporting the Druze religious minority. The first strike was caught on live Syrian television as it unfolded.",
+        "id": 3180071,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/syrian-tv-captures-moment-israel-bombs-near-syrian-defense-ministry-243331653605",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/syria-e3smzm.jpg",
+        "title": "Syrian TV captures moment Israel bombs near Syrian Defense Ministry",
+        "vote": 0
+    }
+]

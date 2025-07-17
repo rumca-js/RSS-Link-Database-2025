@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T16:53:40.709483+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T15:57:00+00:00",
+        "description": "The aurora australis arcs above a partly cloudy Indian Ocean in this photograph from the International Space Station as it orbited 269 miles above in between Australia and Antarctica on June 12, 2025.",
+        "id": 3181067,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/iss073e0247726",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Aurora Australis",
+        "vote": 0
+    }
+]

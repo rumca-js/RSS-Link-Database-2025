@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kylie Robison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T03:21:07.576026+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T02:56:15+00:00",
+        "description": "Jason Wei, who worked on OpenAI\u2019s o3 and deep research models, will be joining Meta\u2019s superintelligence lab. His colleague Hyung Won Chung is also joining Meta, a source tells WIRED.",
+        "id": 3175795,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/jason-wei-open-ai-meta",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/687704c3320c1bddbbbe4036/master/pass/Open-Ai-Meta-WIRED.jpg",
+        "title": "Another High-Profile OpenAI Researcher Departs for Meta",
+        "vote": 0
+    }
+]

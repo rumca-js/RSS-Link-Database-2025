@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T16:57:07.628704+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T15:45:04+00:00",
+        "description": "I once again did it myself \ud83d\ude24\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\n\u2022 The Extension's GitHub Page: https://github.com/ThioJoe/win-svg-thumbs-rust\n\u2022 WinGet Install Command:\nwinget install ThioJoe.SvgThumbnailExtension\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro: The Problem\n0:46 - The Other Options\n1:37 - I Made One Myself\n1:56 - Installing With WinGet\n2:19 - No Third Party Packges or Dependencies\n4:11 - A Couple Small Limitations\n5:29 - Why Rust?\n7:05 - More Technical Stuff\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 3181075,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NDOrpjHkhWM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NDOrpjHkhWM/hqdefault.jpg",
+        "title": "I Just Made Windows Explorer Better",
+        "vote": 0
+    }
+]

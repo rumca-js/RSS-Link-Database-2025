@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "HRejterzy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T19:00:50.707962+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T18:03:41+00:00",
+        "description": "Coraz cz\u0119\u015bciej s\u0142yszymy o przypadkach os\u00f3b, u kt\u00f3rych sztuczna inteligencja (w postaci chata AI, kt\u00f3ry odpowiada na nasze wszystkie pytania) pog\u0142\u0119bi\u0142a albo wr\u0119cz wywo\u0142a\u0142a psychoz\u0119. Czy jako gatunek (kt\u00f3ry istnieje 200k lat) jeste\u015bmy gotowi na nieko\u0144cz\u0105ce si\u0119 rozmowy z \"m\u0105dr\u0105\" maszyn\u0105, kt\u00f3re mog\u0105 podsyca\u0107 urojenia? No bo przecie\u017c niemal zawsze us\u0142yszymy to, co chcemy us\u0142ysze\u0107. Zaburzenia psychotyczne od przedawkowania AI, to oczywi\u015bcie do\u015b\u0107 nowy i rzadki przypadek, ale poruszy\u0142em go nieco clickbait'owo na samym pocz\u0105tku, \u017ceby\u015bcie zastanowili si\u0119, czy chat\u00f3w AI nie nadu\u017cywaj\u0105 dzieci w Waszym otoczeniu. By\u0107 mo\u017ce do psychozy im daleko, ale do powa\u017cnego zaburzenia funkcji poznawczych, umiej\u0119tno\u015bci logicznego my\u015blenia i uczenia si\u0119 jest ju\u017c bli\u017cej (i to potwierdzone jest badaniami). W skr\u00f3cie: dziecko + AI + zero umiaru = bardzo g\u0142upi cz\u0142owiek. Reszt\u0119 mo\u017cecie sobie wyobrazi\u0107. \n\nWi\u0119cej w filmie.",
+        "id": 3182252,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/JVj6LpUfGNI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 465,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPndhUatYo4NLn3fleQ2Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JVj6LpUfGNI/hqdefault.jpg",
+        "title": "Od g\u0142upoty do psychozy, czyli co robi z Wami sztuczna inteligencja",
+        "vote": 0
+    }
+]

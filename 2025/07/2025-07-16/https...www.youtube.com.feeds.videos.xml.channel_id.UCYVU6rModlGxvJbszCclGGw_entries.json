@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T16:49:19.014410+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T16:00:33+00:00",
+        "description": "This is a practical guide explaining the potential risks of third party apps on a phone. Just to eliminate the threats of Apple and Google in the equation, this video will focus solely on a de-Googled phones which will not have anything from Google secretly embedded in it. But even in this case, lack of knowledge will result in a lot of dangerous exfiltration of your private data. Fortunately this is an aspect of phone use that has solutions.\n\n----------------------------------\nBraX3 Privacy Phone is on https://braxtech.net\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me\n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm here to educate. You are losing your Internet privacy and Internet security every day if you don't fight for it. Your data is col",
+        "id": 3181063,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HI82bOlT4Is",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HI82bOlT4Is/hqdefault.jpg",
+        "title": "How to Make Apps Safe (On De-Googled Phones)",
+        "vote": 0
+    }
+]

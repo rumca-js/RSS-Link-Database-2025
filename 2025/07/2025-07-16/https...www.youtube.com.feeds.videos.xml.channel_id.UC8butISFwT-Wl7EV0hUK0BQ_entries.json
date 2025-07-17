@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T15:11:27.189305+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T14:06:03+00:00",
+        "description": "Learn how to create responsive, animated, interactive charts using Svelte and D3.js from @ever-greg \n\nFollow along in your browser here:\nhttps://svelte.dev/playground/hello-world?version=5.34.5\n\nThanks to @LeagueofPigs for permission to use their clip. Check out them out: https://www.youtube.com/watch?v=gGAHFmJ3eAA\n\nOther resources\nLeague of Pigs data: https://github.com/gckirchoff/league-of-pigs-data\nPokeAPI: https://pokeapi.co/\nD3.js: https://d3js.org/\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e Drake Milly\n\ud83d\udc7e Ulises Moralez\n\ud83d\udc7e Goddard Tan\n\ud83d\udc7e David MG\n\ud83d\udc7e Matthew Springman\n\ud83d\udc7e Claudio\n\ud83d\udc7e Oscar R.\n\ud83d\udc7e jedi-or-sith\n\ud83d\udc7e Nattira Maneerat\n\ud83d\udc7e Justin Hual\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news",
+        "id": 3179893,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XSJD5ay1D_8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XSJD5ay1D_8/hqdefault.jpg",
+        "title": "Data Viz w/ Svelte and D3 Tutorial \u2013 Custom and Interactive Data Visualization",
+        "vote": 0
+    }
+]

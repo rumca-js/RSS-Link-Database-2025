@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-16T22:09:01.444925+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-16T22:04:55+00:00",
+        "description": "Multiple companies don\u2019t want you to know that they\u2019re making money from Alligator Alcatraz.\n\nGranny\u2019s Alliance Holdings, IRG Global Emergency Management, CDR Companies, Gothams LLC, are collectively making millions \u2014 money coming from taxpayers.\n\nThese companies and their owners got these contracts after donating millions to the Trump machine and the Republican Party of Florida.",
+        "id": 3183623,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/C8TDLp2h2ec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C8TDLp2h2ec/hqdefault.jpg",
+        "title": "The Companies Making Money Off of Alligator Alcatraz",
+        "vote": 0
+    }
+]
