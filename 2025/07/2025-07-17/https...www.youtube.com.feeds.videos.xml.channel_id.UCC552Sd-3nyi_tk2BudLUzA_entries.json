@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AsapSCIENCE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T16:09:49.388940+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T16:01:35+00:00",
+        "description": "Erectile dysfunction is on the rise for young men, leading to what researchers are calling a \"crisis in male sexuality\". The scientific reasons why men are struggling to \"get hard\" are surprising and fascinating - today we break down all the science and ways it could be fixed.\n\nErectile Dysfunction PODCAST: https://youtu.be/TOxmdQCwHFs?si=15uCdrK_pX9-waLZ\n\nCreated by: Mitchell Moffit and Gregory Brown\nWritten by: Gregory Brown\nEdited by: Luka Sarlija\nDrawn by: Gregory Brown\n\nReferences and further reading:\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4291852/#:~:text=The%20authors%20determined%20that%2014.8,%25\nhttps://www.nature.com/articles/s41598-023-48778-y#science \nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10237207/\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10008940/\nhttps://www.sciencedirect.com/science/article/abs/pii/S0094014321018590?via%3Dihub\nhttps://link.springer.com/article/10.1007/s11934-024-01213-9\nhttps://www.researchgate.net/publication/347082549_Behavior-Related_Erectile_D",
+        "id": 3189515,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tyQeXUEXyvc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 22,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tyQeXUEXyvc/hqdefault.jpg",
+        "title": "The crisis of the male penis",
+        "vote": 0
+    }
+]

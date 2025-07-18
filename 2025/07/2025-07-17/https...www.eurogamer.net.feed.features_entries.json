@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Robert Purchese",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T11:12:15.840928+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T11:06:02+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/anthem_header_reveal.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Even Anthem was exciting once. It's easy to forget now <a href=\"https://www.eurogamer.net/biowares-beleaguered-multiplayer-shooter-anthem-shutting-down-next-year\">EA has sentenced BioWare's multiplayer shooter to the gallows</a>, but there was a moment in time where the gaming world watched the reveal of Anthem with bated breath. What we were seeing wasn't <a href=\"https://www.eurogamer.net/games/mass-effect\">Mass Effect</a> or Dragon Age, these series the studio had clung to for so long, but something brand new. And for a moment, it dazzled. For a moment Anthem looked like the future.</p> <p><a href=\"https://www.eurogamer.net/remember-when-biowares-anthem-was-exciting-such-a-moment-did-exist\">Read more</a></p>",
+        "id": 3186670,
+        "language": "en",
+        "link": "https://www.eurogamer.net/remember-when-biowares-anthem-was-exciting-such-a-moment-did-exist",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/anthem_header_reveal.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Remember when BioWare's Anthem was exciting? Such a moment did exist",
+        "vote": 0
+    }
+]

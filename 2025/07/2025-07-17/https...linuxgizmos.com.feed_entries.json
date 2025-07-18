@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T04:03:01.991188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T03:11:52+00:00",
+        "description": "LILYGO has released the T-Display S3 Pro LR1121, a modular variant designed to expand the capabilities of the standard T-Display S3 Pro. Instead of integrating a camera module like another Pro variant, this version introduces dual-band LoRa connectivity, audio input/output, vibration feedback, and a larger battery, all packaged in a stackable shield form. The LR1121 [&#8230;]",
+        "id": 3185077,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/t-display-s3-pro-lr1121-adds-dual-band-lora-via-expansion-shield",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "T-Display S3 Pro LR1121 Adds Dual-Band LoRa via Expansion Shield",
+        "vote": 0
+    }
+]

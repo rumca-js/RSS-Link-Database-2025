@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T04:50:28.817029+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T03:45:16+00:00",
+        "description": "Debian & GNOME hide a registered sex offender on their team.  Many Open Source projects attack Jews, Christians, and Conservatives.  Does that make you less likely to use them?\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3185333,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=H8uck9L6pBg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H8uck9L6pBg/hqdefault.jpg",
+        "title": "Does Objectionable Behavior by Developers Impact What Software You Choose?",
+        "vote": 0
+    }
+]

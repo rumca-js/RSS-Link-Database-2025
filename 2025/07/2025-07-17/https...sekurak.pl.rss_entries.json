@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T11:56:02.594122+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T11:38:51+00:00",
+        "description": "<p>Google informuje o wydaniu wersji 138.0.7204.157/.158 dla wszystkich system\u00f3w operacyjnych. Za\u0142atane zosta\u0142y trzy podatno\u015bci bezpiecze\u0144stwa na poziomie wysokim: Badacze potwierdzili trwanie aktywnej kampanii wykorzystuj\u0105cej exploit na CVE-2025-6558 \u2013\u00a0zach\u0119camy zatem do jak najszybszej aktualizacji Chrome. ~Pawe\u0142 R\u00f3\u017ca\u0144ski</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/pojawila-sie-aktualizacja-google-chrome-latajaca-trzy-podatnosci-cve/\">Pojawi\u0142a si\u0119 aktualizacja Google Chrome \u0142ataj\u0105ca trzy podatno\u015bci CVE</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3187225,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/pojawila-sie-aktualizacja-google-chrome-latajaca-trzy-podatnosci-cve",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pojawi\u0142a si\u0119 aktualizacja Google Chrome \u0142ataj\u0105ca trzy podatno\u015bci CVE",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T14:58:41.809192+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T14:26:34+00:00",
+        "description": "Medicaid began as a welfare program, but 60 years later it covers one in five Americans and costs more than $800 billion. But Trump\u2019s \u201cBig Beautiful Bill\u201d is changing the health insurance program. \n\nWSJ explores how Medicaid got so big and how the GOP megabill will change it.\n\nChapters:\n0:00 How big is Medicaid?\n0:32 Private health insurance\n1:16 Why Medicaid was started\n3:02 Breaking down the gaps\n4:00 Trump\u2019s megabill changes\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Medicaid #Trump #WSJ",
+        "id": 3188866,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=trHWYxM87SY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/trHWYxM87SY/hqdefault.jpg",
+        "title": "Medicaid Covers 1 out of 5 Americans. How Did It Get So Big? | WSJ",
+        "vote": 0
+    }
+]

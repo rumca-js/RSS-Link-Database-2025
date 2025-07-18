@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T13:35:38.665716+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T13:15:39+00:00",
+        "description": "The new section is part of a plan to close 'critical' gaps in the border wall and enhance security operations.",
+        "id": 3188204,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/c784g1pjmkgo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a30/live/04962260-6310-11f0-b903-f515e3045d80.jpg",
+        "title": "Watch: US builds new wall at Mexico border",
+        "vote": 0
+    }
+]

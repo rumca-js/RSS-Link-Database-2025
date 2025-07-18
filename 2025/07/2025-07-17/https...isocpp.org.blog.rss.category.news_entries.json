@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T22:22:46.559283+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T21:48:04+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />In C++, the presence of a user-declared (but not explicitly deleted) copy constructor is enough for the type to be considered copy-constructible by traits like <code data-end=\"188\" data-start=\"160\">std::is_copy_constructible</code>. However, whether that constructor is <em data-end=\"241\" data-start=\"227\">instantiable</em> is a separate matter&mdash;if it attempts to call a deleted base copy constructor, you&#39;ll still get a compile-time error when you actually try to use it.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20250606-00/?p=111254\">Why does C++ think my class is copy-constructible when it can&rsquo;t be copy-constructed?</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tConsider the following scenario:</p>\n\t<p>\n\t\ttemplate&lt;typename T&gt;",
+        "id": 3192700,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/07/why-does-cpp-think-my-class-is-copy-constructible-when-it-cant-be-copy-cons",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg",
+        "title": "Why does C++ think my class is copy-constructible when it can\u2019t be copy-constructed? -- Raymond Chen",
+        "vote": 0
+    }
+]

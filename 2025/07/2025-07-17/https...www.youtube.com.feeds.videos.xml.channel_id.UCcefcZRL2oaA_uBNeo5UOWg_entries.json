@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T14:45:36.609348+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T14:00:24+00:00",
+        "description": "Amjad Massad started Replit to make programming accessible to anyone, anywhere. What began as a tool for learning to code has grown into a platform pushing the limits of AI-assisted software creation and recently surpassed $100M in ARR.\n\nOn The Breakdown with Tom and Dave, Amjad shares the journey from his early days in Jordan, working on open-source projects, to leading Replit through major pivots from \"teach a billion people to code\" to \"let anyone build software.\" He discusses the evolving nature of programming, the future of work, and the next generation of human-computer collaboration.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:38 - From YC to Replit: The Early Days\n02:00 - A Billion Developers: Pre-LLM Vision\n02:58 - Betting the Company on Agents\n04:20 - AI Autonomy Jumps (Claude 3.x \u2192 4.0)\n05:22 - Computer Use: The Last Mile\n06:40 - Sampling & Branching for Reliability\n10:00 - Non-Engineers Shipping Software",
+        "id": 3188825,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kOyIjt6FUrw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kOyIjt6FUrw/hqdefault.jpg",
+        "title": "Replit CEO Amjad Masad: Coding Agents, Autonomy, and the Future of Work",
+        "vote": 0
+    }
+]

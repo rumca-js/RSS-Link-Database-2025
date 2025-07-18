@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T12:02:31.815109+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T11:00:48+00:00",
+        "description": "Ready to become a certified Specialist - Rhapsody for Systems? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdeRpn\n\nLearn more about AI For Lead Generation here \u2192 https://ibm.biz/BdeRpe\n\n\ud83d\ude80 Discover how AI agents are revolutionizing lead generation workflows! Amanda Downie and Brianne Zavala explain how to build smarter systems using tools, frameworks, and large language models (LLMs). Learn how AI agents simplify real-time lead prediction and automate outreach strategies with ease. \u2728\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdeRpp\n\n#aiagents #leadgeneration #automation",
+        "id": 3187591,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=T_c48yxTNuM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T_c48yxTNuM/hqdefault.jpg",
+        "title": "AI Agents for Real-Time Lead Generation: Tools, Frameworks, & LLMs",
+        "vote": 0
+    }
+]

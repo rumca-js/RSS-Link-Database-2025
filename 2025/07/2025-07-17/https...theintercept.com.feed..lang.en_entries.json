@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huda Skaik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T11:44:52.919420+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T10:00:00+00:00",
+        "description": "<p>Survivors of the Al-Baqa Cafe bombing in Gaza, and the loved ones of the dead, share their stories of the Israeli attack.</p>\n<p>The post <a href=\"https://theintercept.com/2025/07/17/i-said-good-morning-to-the-dead-inside-the-al-baqa-cafe-bombing/\">&#8220;I Said Good Morning to the Dead&#8221;: Inside the Al-Baqa Cafe Bombing</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3186853,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/07/17/i-said-good-morning-to-the-dead-inside-the-al-baqa-cafe-bombing",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/07/AP25171789764374-e1752594327578.jpg?w=440&h=440&crop=1",
+        "title": "\"I Said Good Morning to the Dead\": Inside the Al-Baqa Cafe Bombing",
+        "vote": 0
+    }
+]

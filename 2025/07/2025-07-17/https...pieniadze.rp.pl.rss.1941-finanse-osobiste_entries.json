@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T03:00:13.565280+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T03:00:13+00:00",
+        "description": "A\u017c 82 proc. Polek nie wierzy, \u017ce pa\u0144stwo zapewni im godziw\u0105 emerytur\u0119. 70 proc. z\u202fnich nie oszcz\u0119dza dodatkowo na przysz\u0142o\u015b\u0107 \u2013 wynika z\u202fbadania Prudential Family Index 2025. \u2013 Kobietom szkodzi utrzymywanie ni\u017cszego wieku emerytalnego \u2013 m\u00f3wi\u0105 eksperci.",
+        "id": 3184874,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/emerytura/art42711461-glodowe-emerytury-kobiet-winny-system-i-politycy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "G\u0142odowe emerytury kobiet. Winny system i politycy",
+        "vote": 0
+    }
+]

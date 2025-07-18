@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Difficult-Plate-8767",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T11:24:01.703744+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T11:06:16+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I noticed most dev communities are cluttered with fluff or ads, so I created a minimalist subreddit focused solely on code, feedback, and real-world web development:</p> <p>\u2022 Clean design, ad-free experience<br/> \u2022 Weekly project showcases + peer code reviews<br/> \u2022 For beginners and pros alike</p> <p>Would love feedback on what\u2019s working and what\u2019s missing \u2014 especially around moderation style, post formats, and engagement!</p> <p><em>I\u2019ll drop the link in the comments - would prefer feedback before people join</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Difficult-Plate-8767\"> /u/Difficult-Plate-8767 </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1m24n5y/launching_a_focused_subreddit_where_devs_help/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/developer/comments/1m24n5y/launching_a_focused_subreddit_where_devs_help/\">[comments]</a></span>",
+        "id": 3186772,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1m24n5y/launching_a_focused_subreddit_where_devs_help",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Launching a focused subreddit where devs help each other with real-world web problems",
+        "vote": 0
+    }
+]

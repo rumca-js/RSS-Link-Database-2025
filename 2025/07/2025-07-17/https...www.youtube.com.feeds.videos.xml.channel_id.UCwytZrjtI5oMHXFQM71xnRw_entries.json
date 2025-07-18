@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T23:33:39.811094+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T23:00:32+00:00",
+        "description": "Dog girls on YouTube have overstayed their welcome. Its time for me to call it.\n\nprevious video: https://www.youtube.com/watch?v=f664BY3hX0c\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 3193149,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MMgVhMydmxo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MMgVhMydmxo/hqdefault.jpg",
+        "title": "This Has Officially Gone Too Far",
+        "vote": 0
+    }
+]

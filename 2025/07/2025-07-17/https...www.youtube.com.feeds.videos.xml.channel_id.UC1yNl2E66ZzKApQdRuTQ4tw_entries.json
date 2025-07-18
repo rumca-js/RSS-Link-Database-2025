@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T15:53:17.139896+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T15:01:40+00:00",
+        "description": "Brush up on your mathematics skills with Brilliant! Get your first 30 days free as well as 20% off an annual premium subscription when you use my link \u279c https://brilliant.org/sabine.\n\nHere are my top 10 favourite mind blowing maths facts for all the maths lovers out there. And for the haters too, just so you know what you\u2019re missing out on.\n\n00:00-00:14 Intro\n00:15-01:44 10: P-adic numbers\n01:45-02:03 9: Gabriel\u2019s Horn\n02:04-02:41 8: The most optimal packing for 17 squares\n02:42-03:49 7: Meta-logical contradictions\n03:50-05:01 6: The monster group\n05:02-06:32 5: The logistic map\n06:33-07:03 4: Wild Singular Limits\n07:04-07:32 3: The Birthday Problem\n07:33-08:36 2: We can\u2019t know most numbers\n08:37-09:00 1: The Banach\u2013Tarski paradox\n09:01-10:19 Learn Science with Brilliant! \n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.su",
+        "id": 3189458,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sbU_cGZ9B74",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sbU_cGZ9B74/hqdefault.jpg",
+        "title": "My Favourite 10 Maths Fun Facts",
+        "vote": 0
+    }
+]

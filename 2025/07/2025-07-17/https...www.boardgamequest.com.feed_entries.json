@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tony Mastrangeli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T13:55:20.656533+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T13:20:04+00:00",
+        "description": "<img width=\"640\" height=\"927\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/07/Correspondance-Expansion-707x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Correspondance Expansion\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/07/Correspondance-Expansion-707x1024.jpg 707w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Correspondance-Expansion-207x300.jpg 207w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Correspondance-Expansion-104x150.jpg 104w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Correspondance-Expansion-768x1113.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Correspondance-Expansion-640x927.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Correspondance-Expansion.jpg 815w\" sizes=\"(max-width: 640px) 100vw, 640px\" />In the Footst",
+        "id": 3188285,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/in-the-footsteps-of-darwin-correspondence-expansion-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/07/Correspondance-Expansion-707x1024.jpg",
+        "title": "In the Footsteps of Darwin: Correspondence Expansion Review",
+        "vote": 0
+    }
+]

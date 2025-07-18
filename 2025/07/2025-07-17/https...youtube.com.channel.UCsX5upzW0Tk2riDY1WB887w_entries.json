@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hannah Fry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T17:27:30.220697+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T16:22:35+00:00",
+        "description": "I've obviously simplified the actual study! It's been replicated many times over but if you want to read the original:\nAttachment, exploration, and separation: Illustrated by the behavior of one-year-olds in a strange situation by M.D.S. Ainsworth and S. M. Bell (1970)\n\nor the book that came after:\nPatterns of attachment: a psychological study of the strange situation by M.D.S. Ainsworth, M.C. Blehar, E. Waters, and S. Wall (1978)",
+        "id": 3190428,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/GQ9y4c6AbCg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 682,
+        "source_url": "https://youtube.com/channel/UCsX5upzW0Tk2riDY1WB887w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GQ9y4c6AbCg/hqdefault.jpg",
+        "title": "Attachment Styles: adult relationships built on a baby blueprint",
+        "vote": 0
+    }
+]

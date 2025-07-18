@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T23:21:39.420973+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T22:18:58+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>The Electronic Frontier Foundation and\u00a0<a href=\"https://www.article19.org/\">ARTICLE 19</a>\u00a0strongly support\u00a0<a href=\"https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/\" target=\"_blank\" rel=\"noopener noreferrer\">the Wikimedia Foundation\u2019s legal challenge</a> to the categorization regulations of the United Kingdom\u2019s Online Safety Act.</span></p>\n<p><span>The Foundation \u2013 the non-profit that operates Wikipedia and other Wikimedia projects \u2013\u00a0<a href=\"https://medium.com/wikimedia-policy/wikipedias-nonprofit-host-brings-legal-challenge-to-new-online-safety-act-osa-regulations-0f9153102f29\" target=\"_blank\" rel=\"noopener noreferrer\">announced its legal challenge earlier this year</a>, arguing that the regulations endanger Wikipedia and the global community of volunteer contributors ",
+        "id": 3193073,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/07/we-support-wikimedia-foundations-challenge-uks-online-safety-act",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "We Support Wikimedia Foundation\u2019s Challenge to UK\u2019s Online Safety Act",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T22:35:00.331575+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T21:00:23+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/IRX5TuggMxg\" width=\"480\" alt=\"thumbnail\" title=\"JavaScript Is Not A Real Language\" /></p>I refuse to believe that Javascript is a real language and this further cements it my thought, this language is absolutely insane and designed by crazy crazy, why in the world does the date class work like this.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />JSDate Quiz: https://jsdate.wtf/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https:",
+        "id": 3192727,
+        "language": "en",
+        "link": "https://odysee.com/javascript-is-not-a-real-language:ae50d95c099ad276c8e0cca9c718f500e84281a4",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/IRX5TuggMxg",
+        "title": "JavaScript Is Not A Real Language",
+        "vote": 0
+    }
+]

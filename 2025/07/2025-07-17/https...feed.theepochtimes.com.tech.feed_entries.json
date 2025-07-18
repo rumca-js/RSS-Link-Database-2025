@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Morgan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-17T04:12:04.091758+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-17T03:49:46+00:00",
+        "description": "Anduril president Chris Brose has urged the adoption of a new acquisition channel geared toward lower-cost and mass-producible military systems.",
+        "id": 3185083,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/national-security-professionals-stress-need-to-boost-innovation-adopt-mass-producible-weapons-5888366",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/02/03/id5803588-GettyImages-2197444713-OP-1080x720.jpg",
+        "title": "National Security Professionals Stress Need to Boost Innovation, Adopt Mass-Producible Weapons",
+        "vote": 0
+    }
+]
