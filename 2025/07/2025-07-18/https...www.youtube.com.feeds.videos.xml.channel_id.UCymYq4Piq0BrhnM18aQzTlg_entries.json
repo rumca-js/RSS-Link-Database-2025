@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T23:45:25.788217+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T22:45:01+00:00",
+        "description": "Get a Plex Pass: http://lon.tv/plexpass (compensated affiliate link) - Plex announced that music and photos will be returning to Plex apps - including the mobile app and the upcoming TV app revision. You can see the TV integration in the latest Roku preview in this video. See more Plex: https://www.youtube.com/playlist?list=PLCZHp4d1HnIvqJPAmMooCKOHieLdi3I7o and subscribe! http://lon.tv/s\n\nRelevant links:\n\nAnnouncement:\nhttps://forums.plex.tv/t/music-photos-are-back-check-them-out-in-the-new-roku-preview/926067\n\nInstructions for Roku App\nhttps://forums.plex.tv/t/roku-preview-has-now-been-updated-to-the-new-experience-plex-would-love-to-hear-from-us/919354\n\nForum for Feedback:\nhttps://forums.plex.tv/c/experience-preview/138\n\nVIDEO INDEX:\n00:00 - Intro\n03:01 - Roku Installation\n03:46 - Music Integration\n05:47 - Photos Integration\n07:56 - Providing Feedback and Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.",
+        "id": 3201724,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=X5Stpeeu7VY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X5Stpeeu7VY/hqdefault.jpg",
+        "title": "Plex App Update : Music & Photos Returning to Apps, TV Preview Gets an Update",
+        "vote": 0
+    }
+]

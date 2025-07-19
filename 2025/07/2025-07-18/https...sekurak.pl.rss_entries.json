@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T09:50:37.215693+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T09:36:42+00:00",
+        "description": "<p>Je\u017celi byli\u015bcie na szkoleniu Narz\u0119dziownik AI od Tomka Turby, to wiecie jak relatywnie \u0142atwo jest przeprowadzi\u0107 atak wstrzykni\u0119cia z\u0142o\u015bliwego promptu (ang. prompt injection), np. na model LLM &#8211; ChatGPT. Je\u017celi mamy tak\u0105 mo\u017cliwo\u015b\u0107 podczas interakcji z LLM\u2019em 1:1, to czy mo\u017cemy zrobi\u0107 to samo, je\u017celi AI jest wykorzystywane jako usprawnienie...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/luka-w-zabezpieczeniach-gemini-pozwala-ukryc-zlosliwe-instrukcje-w-wiadomosci-e-mail/\">Luka w zabezpieczeniach Gemini pozwala ukry\u0107 z\u0142o\u015bliwe instrukcje w wiadomo\u015bci e-mail</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3195663,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/luka-w-zabezpieczeniach-gemini-pozwala-ukryc-zlosliwe-instrukcje-w-wiadomosci-e-mail",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Luka w zabezpieczeniach Gemini pozwala ukry\u0107 z\u0142o\u015bliwe instrukcje w wiadomo\u015bci e-mail",
+        "vote": 0
+    }
+]

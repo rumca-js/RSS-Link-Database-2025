@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T17:51:16.600455+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T17:00:10+00:00",
+        "description": "JRE #2352 w/James Talarico\nYouTube: https://youtu.be/_jOGPvMftb8\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 3199534,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=7mv_8MTLyIg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7mv_8MTLyIg/hqdefault.jpg",
+        "title": "Christian Democrat on How Gay Rights an Abortion Became a Religious Issue",
+        "vote": 0
+    }
+]

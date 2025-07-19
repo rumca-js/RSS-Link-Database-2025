@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T21:25:41.469907+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T20:18:34+00:00",
+        "description": "Thanks to Boot.dev for sponsoring this video. Click this https://boot.dev/?promo=GAMERANX and use our code  GAMERANX  to get 25% off your first payment for boot.dev.\n\n~~SOURCES~~\n\n\nCyberpunk patch 2.3 update\nhttps://www.ign.com/articles/cyberpunk-2077-23-contents-and-release-date-confirmed-although-nintendo-switch-2-owners-will-have-to-wait\n\n\nFallout 5\nhttps://www.gamespot.com/articles/fallout-5-is-now-reportedly-fully-greenlit/1100-6533153/\nhttps://www.reddit.com/r/GamingLeaksAndRumours/comments/1lumz76/vgcs_jordan_middler_on_the_friends_per_second/\n\nSaber interactive new game\nhttps://www.gamereactor.eu/saber-interactive-is-teasing-a-new-reveal-next-week-that-seems-to-be-related-to-hellraiser-1574823/\n\nOverwatch 2\nhttps://www.ign.com/articles/overwatch-2-director-says-blizzard-wants-to-get-back-to-story-content-after-fans-feel-it-dropped-the-ball-with-pve\n\n\nDonkey Kong Bananza\nhttps://youtu.be/NtM3RMWOAsM?si=JVlKkUTnw7G5aDnt\n\n\nReady or Not\nhttps://youtu.be/WlA3-qht1Io?si=jurqBOaFJM00",
+        "id": 3200954,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=24N6xCDFaOA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/24N6xCDFaOA/hqdefault.jpg",
+        "title": "CYBERPUNK 2077 PATCH 2.3 MAKES BIG CHANGES, FALLOUT 5 GREENLIT & MORE",
+        "vote": 0
+    }
+]

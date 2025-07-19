@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T14:41:52.581516+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T14:40:34+00:00",
+        "description": "<p>A criticism about AI safety from an OpenAI researcher aimed at a rival opened a window into the industry&#8217;s struggle: a battle against itself. It started with a warning from Boaz Barak, a Harvard professor currently on leave and working on safety at OpenAI. He called the launch of xAI\u2019s Grok model \u201ccompletely irresponsible,\u201d not [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/can-speed-and-safety-truly-coexist-ai-race/\">Can speed and safety truly coexist in the AI race?</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3197954,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/can-speed-and-safety-truly-coexist-ai-race",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "Can speed and safety truly coexist in the AI race?",
+        "vote": 0
+    }
+]

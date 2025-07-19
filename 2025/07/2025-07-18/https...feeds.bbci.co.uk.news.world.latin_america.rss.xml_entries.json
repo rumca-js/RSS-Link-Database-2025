@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T19:02:03.191298+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T16:46:53+00:00",
+        "description": "Eighteen miners are in good health after a 12-hour-long rescue operation, Colombia's National Mining Agency says.",
+        "id": 3200095,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/czxeq9pe19po",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bdc/live/0e294c50-63ea-11f0-8dbd-f3d32ebd3327.jpg",
+        "title": "Colombian gold miners rescued after about 18 hours trapped underground",
+        "vote": 0
+    }
+]

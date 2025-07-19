@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T09:07:29.022653+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T08:17:00+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/07/16/trim/540/304/verbal-violence-milei-shout-anger-art-2062329.jpg\" alt=\"Verbal violence, Milei, shout, anger, ART\" /></p>Old behavioural norms are no longer respected. There are no limits to violent languages nor to intrusion into the private lives of people. Privacy is dead. <a href=\"https://www.batimes.com.ar/news/opinion-and-analysis/the-price-of-verbal-violence.phtml\">Leer m\u00e1s</a>",
+        "id": 3195531,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/opinion-and-analysis/the-price-of-verbal-violence.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/07/16/trim/540/304/verbal-violence-milei-shout-anger-art-2062329.jpg",
+        "title": "The price of verbal violence",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Crystal-Rose Jones",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T05:19:23.144042+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T04:25:46+00:00",
+        "description": "A former police officer is backing the push to have access to 'morally indefensible' online games denied by major payment platforms.",
+        "id": 3194447,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/payment-giants-pressured-to-block-500-games-that-normalise-abuse-of-women-and-girls-5889135",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/05/19/id5859806-Laptop-1080x720.png",
+        "title": "Payment Giants Pressured to Block 500 Games That Normalise Abuse of Women and Girls",
+        "vote": 0
+    }
+]

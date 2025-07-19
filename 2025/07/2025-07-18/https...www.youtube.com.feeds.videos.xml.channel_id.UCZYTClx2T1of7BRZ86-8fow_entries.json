@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T15:04:56.190425+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T15:01:00+00:00",
+        "description": "Take your personal data back with Incogni! Use code SCISHOW at the link below and get 60% off an annual plan: https://incogni.com/scishow   \n\nNicotine is so addictive that most people who try to quit are not successful at first. So to up your chances of success, here's the data behind which methods are most effective, plus some cool ways you might be able to quit in the future.\n\nHosted by: Stefan Chin (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jp Lynch, Chris Mackey, Jaap Westera, Friso, Toyas Dhake, Reed Spilmann, Lyndsay Brown, Cye Stoner, Blood Doctor Kelly, Garrett Galloway, Adam Brainard, Wesus, Chris Curry, Alan Wong, J.V. Rosenbalm, Matt Curls,",
+        "id": 3198012,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TRjlki1ufoo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TRjlki1ufoo/hqdefault.jpg",
+        "title": "Cold Turkey Doesn't Work But Vaccines Might Help You Quit Nicotine",
+        "vote": 0
+    }
+]

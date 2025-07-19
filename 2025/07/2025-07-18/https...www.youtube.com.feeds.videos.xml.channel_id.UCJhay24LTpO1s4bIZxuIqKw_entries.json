@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T15:23:47.175686+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T14:01:38+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nEasy Senders/Receivers - Lucian Radu Teodorescu - ACCU 2025\n---\n\nThe P2300 std::execution proposal, informally known as senders/receivers, was formally incorporated into the C++26 working paper following the St. Louis meeting. While the proposal has existed for some time, many people still find the model challenging to use and difficult to teach.\n\nThis talk aims to demonstrate that senders and receivers are not as difficult to work with or teach as commonly perceived. Given the fundamental nature of the feature and the foundational areas it addresses, senders/receivers is actually an elegant proposal that may prove easier to use than suggested. This, however, requires the user to understand a few key concepts regarding senders.\n\nWe aim to clarify these key ideas, enabling the audience to \u201cthink\u201d in terms of senders. We introduce senders/receivers in a gentle manner, using examples and analogies, gradually building complexity until we ",
+        "id": 3198214,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yiyYR_LTg5A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yiyYR_LTg5A/hqdefault.jpg",
+        "title": "Easy Senders/Receivers - Lucian Radu Teodorescu - ACCU 2025",
+        "vote": 0
+    }
+]

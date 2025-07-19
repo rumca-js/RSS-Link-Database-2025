@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mychal Denzel Smith",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-18T19:22:56.511354+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-18T18:30:57+00:00",
+        "description": "<p>Mamdani struggled against Andrew Cuomo in majority-Black precincts \u2014 but his lackluster performance may not tell the whole story.</p>\n<p>The post <a href=\"https://theintercept.com/2025/07/18/mamdani-black-vote-cuomo/\">Zohran Mamdani and the \u201cBlack Vote\u201d</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3200146,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/07/18/mamdani-black-vote-cuomo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/07/GettyImages-2223808893.jpg?fit=6016%2C4016",
+        "title": "Zohran Mamdani and the \u201cBlack Vote\u201d",
+        "vote": 0
+    }
+]
