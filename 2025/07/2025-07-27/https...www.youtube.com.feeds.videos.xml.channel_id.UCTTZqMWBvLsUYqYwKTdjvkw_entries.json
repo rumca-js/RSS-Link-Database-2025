@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T17:24:12.817825+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T16:01:17+00:00",
+        "description": "\ud83d\udea8\u00a0Zesp\u00f3\u0142 Reagowania na Incydenty Bezpiecze\u0144stwa Komputerowego prowadzony przez Agencj\u0119 Bezpiecze\u0144stwa Wewn\u0119trznego uraczy\u0142\u00a0raportem, opisuj\u0105cym co dzia\u0142o si\u0119 w minionym roku w polskiej cyberprzestrzeni. A by\u0142 to rok bezprecedensowy, bo przez dwana\u015bcie miesi\u0119cy wszystkie kluczowe instytucje pa\u0144stwowe musia\u0142y dzia\u0142a\u0107 w trybie podwy\u017cszonej czujno\u015bci implementuj\u0105c dodatkowe \u015brodki bezpiecze\u0144stwa i procedury ochronne. Utrzymanie stanu alarmowego przez tak d\u0142ugi okres to nie przelewki i pokazuje skal\u0119 zagro\u017cenia, z jakim codziennie si\u0119 mierzymy. Raport donosi\u00a0o nowych trendach, wojnie hybrydowej, grupach APT, z\u0142o\u015bliwym oprogramowaniu, autorskim systemie ARAKIS i paru innych kwestiach. S\u0105\u00a0nawet prognozy na przysz\u0142o\u015b\u0107!\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udea8\u00a0Zesp\u00f3\u0142 Reagowania na Incydenty Bezpiecze\u0144stwa Komputerowego CSIRT GOV\nhttps://csirt.gov.pl/\n\n\ud83d\udc5f\u00a0Locked Shields to coroczne \u0107wiczenie(\u2026), kt\u00f3re ma na celu przetestowanie i doskonalenie umiej\u0119tno\u015bci obrony przed cyberatakami. \nhttps://www.wojsko-polskie.pl/articles/tym",
+        "id": 3210749,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=qxocwSkuPug",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qxocwSkuPug/hqdefault.jpg",
+        "title": "Raport ABW",
+        "vote": 0
+    }
+]

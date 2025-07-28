@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T19:28:46.445274+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T16:46:55+00:00",
+        "description": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/2b0ea3be-4921-497f-b86c-deeba07d16d7\" width=\"308\" /> - Zaczyna\u0142em od minusa, dwa miliony z\u0142otych - m\u00f3wi w \"Biznes Klasie\" Robert Dobrzycki, kt\u00f3ry stoi na czele Panattoni Europe, jednego z najwi\u0119kszych deweloper\u00f3w przemys\u0142owych w Europie. O Dobrzyckim zrobi\u0142o si\u0119 ostatnio g\u0142o\u015bno za spraw\u0105 przej\u0119cia Widzewa \u0141\u00f3d\u017a.",
+        "id": 3212031,
+        "language": "pl-PL",
+        "link": "https://www.money.pl/pieniadze/zaczynal-dorosle-zycie-z-ogromnym-dlugiem-dzis-stac-go-na-widzew-lodz-7182097358998272a.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 215,
+        "source_url": "https://www.money.pl/rss/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/2b0ea3be-4921-497f-b86c-deeba07d16d7",
+        "title": "Zaczyna\u0142 doros\u0142e \u017cycie z ogromnym d\u0142ugiem. Dzi\u015b sta\u0107 go na Widzew \u0141\u00f3d\u017a",
+        "vote": 0
+    }
+]

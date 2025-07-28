@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T18:25:32.784567+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T17:30:14+00:00",
+        "description": "The scourge of AI tooling in the software development and security world is only getting worse, there may be value in these tools but the problem we have is people are abusing these tools to try and get bug bounty money.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\n10000 Days Old: https://github.com/curl/curl/discussions/17930\nDaniel Stenberg Post: https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\nHackerOne Report: https://hackerone.com/reports/3250117\nHackerOne Report 2: https://hackerone.com/reports/3250490\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/disc",
+        "id": 3210910,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vrnnwnKwVTc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vrnnwnKwVTc/hqdefault.jpg",
+        "title": "Death By A Thousand Slops",
+        "vote": 0
+    }
+]

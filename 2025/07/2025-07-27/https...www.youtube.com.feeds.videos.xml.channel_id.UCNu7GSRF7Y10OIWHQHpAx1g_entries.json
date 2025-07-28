@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "BezPlanu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T15:50:17.711233+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T08:00:39+00:00",
+        "description": "W tym odcinku jedziemy do najdro\u017cszego miejsca, w jakim kiedykolwiek nocowali\u015bmy. 2 dni pobytu kosztowa\u0142y 12000z\u0142.\n\nWszystkie odcinki BezPlanu chronologicznie: http://bit.ly/2MqAO7Q\nWsparcie kana\u0142u: https://patronite.pl/BezPlanu\nSklep: https://bezplanu.com\n\nWst\u0119pny monta\u017c:   @VasileVlog  \nVasily https://www.instagram.com/vasilykob/\n\nCzas akcji: maj 2025",
+        "id": 3206806,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=bzifh50YhN4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 36,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNu7GSRF7Y10OIWHQHpAx1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bzifh50YhN4/hqdefault.jpg",
+        "title": "12000z\u0142 za 2 dni - luksusowy resort",
+        "vote": 0
+    }
+]

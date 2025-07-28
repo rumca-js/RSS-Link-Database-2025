@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deals",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T15:30:43.115750+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T11:30:00+00:00",
+        "description": "A luminescent novel by the iconic Julia Alvarez, a genre-defying saga, a lesbian pirate wedding, a medieval fantasy with twisty folklore, and more of the best deals of the day",
+        "id": 3206211,
+        "language": "en-US",
+        "link": "https://bookriot.com/book-riots-deals-of-the-day-for-july-27-2025",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 30,
+        "source_url": "https://bookriot.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/07/deals-072725.jpg.optimal.jpg",
+        "title": "Book Riot\u2019s Deals of the Day for July 27, 2025",
+        "vote": 0
+    }
+]

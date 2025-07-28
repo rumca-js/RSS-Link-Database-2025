@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T23:39:38.645263+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T21:22:47+00:00",
+        "description": "Canada is trying to force tech companies to build surveillance backdoors, and they're not alone. From the UK to Australia to Switzerland, governments worldwide are launching coordinated attacks on encryption. Here's why this lazy approach to cybersecurity is dangerous - and what we can actually do to fight back. Techlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources. Discover how to protect your online data and regain control of your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 https://techlore.tech/resources/\n\u2022 https://www.eff.org/deeplinks/2025/07/canadas-bill-c-2-opens-floodgates-us-surveillance\n\u2022 https://www.bbc.com/news/articles/c1k81lj8nvpo\n\u2022 https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy\n\u2022 https://www.csis.org/blogs/strategic-technologies-blog/revisiting-australias-encryption-landscape\n\u2022 https://www.theguardian.com/australia-news/2024/nov/05/session-encrypted-messaging-app-developer-moves-",
+        "id": 3213276,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EXYATfmuf7k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EXYATfmuf7k/hqdefault.jpg",
+        "title": "Every Country is Attacking Encryption (Here's How We Fight Back)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T18:14:06.399376+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T18:05:00+00:00",
+        "description": "Randkowa aplikacja Tea, stworzona w celu ochrony kobiet przed niebezpiecznymi m\u0119\u017cczyznami, sama sta\u0142a si\u0119 zagro\u017ceniem. Do sieci trafi\u0142o ponad 70 tysi\u0119cy zdj\u0119\u0107 u\u017cytkowniczek, w tym materia\u0142y z ich dokumentami to\u017csamo\u015bci.",
+        "id": 3210874,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/it/art42762101-aplikacja-do-hejtu-mezczyzn-zaatakowana-do-sieci-trafily-tysiace-zdjec-kobiet",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201eAplikacja do hejtu m\u0119\u017cczyzn\u201d zaatakowana. Do sieci trafi\u0142y tysi\u0105ce zdj\u0119\u0107 kobiet",
+        "vote": 0
+    }
+]

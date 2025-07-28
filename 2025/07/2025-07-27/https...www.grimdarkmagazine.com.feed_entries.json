@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aaron Jones",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T14:37:21.875576+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T04:56:58+00:00",
+        "description": "<p>At their first attempt, developers Sandfall have made an instant RPG classic in Clair Obscur: Expedition 33. With its influences clear to see, the game blends classic RPG elements with modern a style and themes wrapped up in a mesmerising story. A grimdark story that pays homage to the great Japanese RPGs of the past, [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/review-clair-obscur-expedition-33/\">REVIEW: Clair Obscur: Expedition 33</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 3204774,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-clair-obscur-expedition-33",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/07/Cover-Image-for-Clair-Obscur-Expedition-33.jpg",
+        "title": "REVIEW: Clair Obscur: Expedition 33",
+        "vote": 0
+    }
+]

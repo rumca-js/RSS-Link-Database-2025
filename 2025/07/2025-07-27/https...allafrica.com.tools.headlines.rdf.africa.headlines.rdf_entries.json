@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T15:57:44.540646+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T07:19:29+00:00",
+        "description": "[CAF] Nigeria's head coach Justin Madugu has been named Coach of the Tournament at the 2024 CAF TotalEnergies Women's Africa Cup of Nations (WAFCON), crowning a remarkable campaign in which he led the Super Falcons to a historic 10th continental title.",
+        "id": 3207189,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202507270004.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Nigeria's Justin Madugu Named Wafcon 2024 Coach of the Tournament",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T15:50:24.719062+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T15:17:08+00:00",
+        "description": "This is the Chordcat, a chord-based groovebox. I thought it was a neat idea so I bought one and made a video about it. As of now the only place you can get one is here, I think: https://alphatheta.com/en/product/production/chordcat/gray/\n\nSupport the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nhttps://rmr.media/findme\n\nConnect:\nBluesky: https://bit.ly/3ZGYhom\nWebsite: http://bit.ly/rmrmedia\n\n00:00 intro\n01:48 walkthrough\n15:25 with a DAW\n18:15 with hardware",
+        "id": 3206815,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=YBurPJSorEc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YBurPJSorEc/hqdefault.jpg",
+        "title": "I Bought a Weird Groovebox!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T17:54:31.130362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T17:10:33+00:00",
+        "description": "Not every video game franchise magic lasts forever.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro  \n0:21 Assassin\u2019s Creed Series  \n2:39 MultiVersus  \n5:30 Deathloop  \n7:30 Star Wars Galaxies  \n10:15 Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled  \n12:07 Blasphemous 2  \n14:19 EverQuest  \n16:58 BioShock Infinite  \n19:23 Halo Franchise  \n21:25 Mass Effect Series",
+        "id": 3210835,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ytAzc0IbYdE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ytAzc0IbYdE/hqdefault.jpg",
+        "title": "10 Games That LOST THEIR MAGIC",
+        "vote": 0
+    }
+]

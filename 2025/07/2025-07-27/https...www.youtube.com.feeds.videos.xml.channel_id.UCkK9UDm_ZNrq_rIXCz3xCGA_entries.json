@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T17:24:15.473886+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T17:06:02+00:00",
+        "description": "The Google / Mozilla stooges said, \"It can't be done!\". Ladybird said, \"Hold my beer.\"\n\nThe Article:\nhttps://lunduke.substack.com/p/ladybird-proves-you-can-just-build\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3210750,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GlbTV2rID_8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GlbTV2rID_8/hqdefault.jpg",
+        "title": "Ladybird Proves You CAN Just Build a New Web Browser",
+        "vote": 0
+    }
+]

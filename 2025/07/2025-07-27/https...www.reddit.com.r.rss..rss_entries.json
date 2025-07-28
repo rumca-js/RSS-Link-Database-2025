@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/HolidayWhich6289",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T15:53:50.033128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T15:21:51+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Recently saw a post on here that talked about feeds piling up very quickly (suddenly you&#39;re at 999+ unread about topics that you don&#39;t care about. </p> <p>I experienced exactly the same problem a couple of months ago and decided to build a completely free site called <a href=\"http://100.news\">100.news</a> that allows you to:<br/> 1. Choose the topics you&#39;re interested in (e.g. AI, Bonds, Africa)<br/> 2. Choose the sources you trust - I have linked over 70 sources so far from outlets that bother to make their feeds accessible (you would be surprised by how many trusted news sources gatekeep! The Economist and The Times to name and shame!) </p> <p>You end up with a real-time feed only from sources and topics you have chosen/care about. Hopefully this provides a solution to feeling overwhelmed by so many articles being published everyday! </p> <p>Let me know what you think. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://w",
+        "id": 3206950,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1maoyyu/solution_to_anyone_who_feels_like_they_are",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Solution to anyone who feels like they are drowning in RSS Feeds",
+        "vote": 0
+    }
+]

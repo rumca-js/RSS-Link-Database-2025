@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T19:25:14.553926+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T08:28:00+00:00",
+        "description": "(Car dashboards don&#8217;t have room to spell out the whole word). On a country road, late at night, when there are no other cars around, the hi beams are a really useful tool. It&#8217;s smart to use them. As soon as there are other cars, though, they become dangerous. Even a selfish driver realizes that [&#8230;]",
+        "id": 3211890,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/07/hi-beams",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hi beams",
+        "vote": 0
+    }
+]

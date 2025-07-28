@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T20:30:49.927283+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T18:00:01+00:00",
+        "description": "Czy mo\u017cna jeszcze zaskoczy\u0107 internet? Spr\u00f3bujmy. W tym odcinku:\n- rozwa\u017cam nagrywanie podcastu na p\u0142ycie CD (bo czemu nie?)\n- opowiadam histori\u0119 youtubera, kt\u00f3rego pozwa\u0142o Apple\n- raportuj\u0119 jak AI spanikowa\u0142o i skasowa\u0142o ca\u0142\u0105 baz\u0119 danych pewnej firmy,\n- wsp\u00f3lnie odwiedzamy now\u0105 jad\u0142odajni\u0119 Elona Muska, w kt\u00f3rej popcorn serwuj\u0105 roboty.\n\n\n00:00 Wst\u0119p\n00:33 Dobry wiecz\u00f3r!\n00:37 Influencerzy z wyobra\u017ani\u0105 i podcast na p\u0142ycie CD\n02:08 Apple pozywa youtubera\n05:33 Ci\u0105g dalszy historii telefonu od Escobara\n06:41 AI kasuje firm\u0119, czyli ostro\u017cnie z vibe codingiem\n11:30 Kosmiczna jad\u0142odajnia Elona Muska\n13:01 Robot humanoidalny od UBTech sam wymieni swoj\u0105 bateri\u0119\n13:29 Zno\u015bnego tygodnia!",
+        "id": 3212363,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=11qUciencXA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/11qUciencXA/hqdefault.jpg",
+        "title": "Tech Week: Podcast na p\u0142ycie CD, AI kasuje firm\u0119, Apple pozywa YouTubera",
+        "vote": 0
+    }
+]

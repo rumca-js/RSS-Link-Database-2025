@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T15:47:43.304152+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T11:46:40+00:00",
+        "description": "After four years exploring the depths of this archaeological site in central France, archaeologists have begun to draw their first conclusions, particularly regarding the so-called 'craftsmen's quarter.' This is the fourth excavation campaign at Gergovie since 1861, a site that once hosted the capital of the Arverni people.",
+        "id": 3206686,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/07/27/the-gergovie-plateau-continues-to-reveal-its-secrets_6743770_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/07/18/17/0/5272/2636/644/322/60/0/cd99fa1_upload-1-pfoysxikn5d5-giraud-6.jpg",
+        "title": "France's Gergovie plateau continues to reveal its ancient secrets",
+        "vote": 0
+    }
+]

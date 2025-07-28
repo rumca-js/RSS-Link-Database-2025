@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T20:45:58.678512+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T17:30:14+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/vrnnwnKwVTc\" width=\"480\" alt=\"thumbnail\" title=\"Death By A Thousand Slops\" /></p>The scourge of AI tooling in the software development and security world is only getting worse, there may be value in these tools but the problem we have is people are abusing these tools to try and get bug bounty money.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />10000 Days Old: https://github.com/curl/curl/discussions/17930<br />Daniel Stenberg Post: https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/<br />HackerOne Report: https://hackerone.com/reports/3250117<br />HackerOne Report 2: https://hackerone.com/reports/3250490<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: htt",
+        "id": 3212407,
+        "language": "en",
+        "link": "https://odysee.com/death-by-a-thousand-slops:595d418e8ac356a2a0726d0ffe0ed9cbc0e7ffaf",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/vrnnwnKwVTc",
+        "title": "Death By A Thousand Slops",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-27T19:21:12.685117+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-27T14:32:44+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nA Very Small Language Model - Jez Higgins - ACCU 2025\n---\n\nThere are lots of things in software that seem kind of amazing, even to people who work in software. Compilers and interpreters, operating systems, windowing systems are obvious choices, as are lots of games stuff. These are, however, all pretty large topics. You can\u2019t write an operating system in even a 90 minute session. I can\u2019t anyway.\n\nMy phone keyboard keeps asking me again and again if I want to turn on some kind of AI assistant to \"boost productivity\" and \"unlock creativity\". I continue to say no, but it got me thinking. This rebranding of \"next word prediction\" as \"AI assistance\" groups this tech in the same bucket as the ChatGPTs and the Claudes and what have you and stokes up the idea that text prediction is a difficult problem, something best left to the big brains at Google or Apple or Microsoft with their shiny offices and free lunches in Silicon Valley and Redmon",
+        "id": 3211870,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=17RQ4DdywQU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/17RQ4DdywQU/hqdefault.jpg",
+        "title": "A Very Small Language Model - Jez Higgins - ACCU 2025",
+        "vote": 0
+    }
+]
