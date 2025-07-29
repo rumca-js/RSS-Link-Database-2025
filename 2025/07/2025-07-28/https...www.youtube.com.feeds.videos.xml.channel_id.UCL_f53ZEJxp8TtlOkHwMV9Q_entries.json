@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T18:41:03.974313+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T17:00:41+00:00",
+        "description": "In Answer the Call, Dr. Jordan B. Peterson returns to his roots, taking real calls from real people facing life\u2019s hardest questions. Joined by his daughter, Mikhaila Fuller, the series transforms personal struggles into public insight\u2014offering wisdom, empathy, and clarity in the face of chaos. Coming to DailyWire+ Monday, 8/4. A new podcast series, featured within Dr. Jordan B. Peterson\u2019s episodes on YouTube and including an exclusive member segment on DailyWire+.\n\nHave a question you\u2019d like to ask? Share your story here: dailywire.com/answerthecall\n\nWhat happens when you ignore a dragon? Dr. Jordan B. Peterson reads and analyzes \u201cThere\u2019s No Such Thing as a Dragon\u201d by Jack Kent, exploring its psychological and mythological depth. Using the children\u2019s story as a springboard, Peterson unpacks themes of willful blindness, familial dysfunction, and the archetypal hero\u2019s journey. He draws connections to ancient Egyptian mythology, the Exodus narrative, and the crucifixion of Christ\u2014arguing",
+        "id": 3219218,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=T2fz9ZhmaQA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T2fz9ZhmaQA/hqdefault.jpg",
+        "title": "The Moral of the Story With JBP: There\u2019s No Such Thing as a Dragon | EP 566",
+        "vote": 0
+    }
+]

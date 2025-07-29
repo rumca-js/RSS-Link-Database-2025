@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T11:54:13.572757+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T10:11:00+00:00",
+        "description": "<p>Tematy zwi\u0105zane z agentami LLM jeszcze przez d\u0142ugi czas b\u0119d\u0105 na czele gor\u0105cych zagadnie\u0144. G\u0142\u00f3wnie za spraw\u0105 usprawnie\u0144 i automatyzacji. Jednak wprowadzany na pr\u0119dce standard MCP oraz wiele rozwi\u0105za\u0144 na nim bazuj\u0105cych to wci\u0105\u017c \u015bwietne miejsce do nadu\u017cy\u0107. Ostatnio opisywali\u015bmy modu\u0142 mcp-remote i zagro\u017cenia z nim zwi\u0105zane. W skr\u00f3cie jest...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/podatnosci-w-filesystem-mcp-server-od-anthropica/\">Podatno\u015bci w Filesystem MCP Server od Anthropica</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3215987,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/podatnosci-w-filesystem-mcp-server-od-anthropica",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podatno\u015bci w Filesystem MCP Server od Anthropica",
+        "vote": 0
+    }
+]

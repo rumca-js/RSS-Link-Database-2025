@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T14:07:50.462262+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T13:01:41+00:00",
+        "description": "NEW COURSES: http://bradsartschool.com Use discount code: bradsentme\nCintiq Pro 24 Touch: https://amzn.to/454Leyy (affiliate link)\n\nThe New Wacom Cintiq 24 is a pro level device without the pro name or price tag. The Pro pen 3 here is fantastic and everything else is really good too.\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradsartschool.com\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 3216733,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=0mXPOLiSNv0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0mXPOLiSNv0/hqdefault.jpg",
+        "title": "Wacom Cintiq 24 Touch Review",
+        "vote": 0
+    }
+]

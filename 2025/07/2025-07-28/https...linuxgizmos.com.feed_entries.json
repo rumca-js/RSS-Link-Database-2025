@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T06:26:37.891063+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T05:19:20+00:00",
+        "description": "The CM5 MINIMA is a compact carrier board built for the Raspberry Pi Compute Module 5, developed in collaboration with Seeed Studio and Pierluigi Colangeli. It integrates essential I/O and expansion features into a 61 by 61 millimeter layout designed for embedded projects, low-power computing, and space-constrained applications. The board supports USB-C Power Delivery for [&#8230;]",
+        "id": 3214612,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/cm5-minima-carrier-board-for-raspberry-pi-cm5-features-m-2-m-key-slot",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CM5 MINIMA Carrier Board for Raspberry Pi CM5 Features M.2 M-Key Slot",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ellen Ioanes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T11:34:18.377996+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T09:00:00+00:00",
+        "description": "<p>After Trump was reelected, his son took stakes in several drone companies. They\u2019re now raising ethics concerns.</p>\n<p>The post <a href=\"https://theintercept.com/2025/07/28/donald-trump-jr-son-drones-unusual-machines/\">Donald Trump Jr.\u2019s Drone Ventures Could Make a Killing \u2014 Thanks to Dad\u2019s Big Beautiful Budget</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3215713,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/07/28/donald-trump-jr-son-drones-unusual-machines",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/07/fetnet-e1753473798127.jpg?w=440&h=440&crop=1",
+        "title": "Donald Trump Jr.\u2019s Drone Ventures Could Make a Killing \u2014 Thanks to Dad\u2019s Big Beautiful Budget",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T14:07:44.668621+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T13:00:14+00:00",
+        "description": "Cronos: The New Dawn to dzie\u0142o znajome, acz wasze zbroje powinny by\u0107 czyste.\nBastian by\u0142 jaki\u015b czas temu w Nowe Hucie i gra\u0142 przez par\u0119 godzin w Cronosa. Oto jego wra\u017cenia.\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 3216732,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=94R7KX2rmVg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/94R7KX2rmVg/hqdefault.jpg",
+        "title": "Gra\u0142em w Cronos: The New Dawn i nie ob$ra\u00a3em zbroi",
+        "vote": 0
+    }
+]

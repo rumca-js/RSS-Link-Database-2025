@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T20:16:35.448344+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T19:29:26+00:00",
+        "description": "Sponsor: ID-Cooling Frozn A720 Black on Amazon https://geni.us/VDnou4Y\nIn the news this week, we talk about Gigabyte's own security vulnerabilities in hundreds of models of its motherboards (following the ASUS problems). We also cover Linux gaining desktop marketshare, NVIDIA's rumored CPU rumored to be delayed in rumored rumors, Mozilla saying that Intel still has problems, and more.\n\nSources doc: https://www.one-tab.com/page/mYFo-mrvSxmd7V4mYtLeUg\nWatch our ASUS vulnerabilities video: https://www.youtube.com/watch?v=Vy_KWP04pfs\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nTIMESTAMPS\n\n00:00 - Recap for the Week\n01:43 - Gigabyte Security Vulnerability\n05:15 - Linux Gains Marketshare\n08:10 - NVIDIA CPU Reportedly Delayed\n10:12 - Mozilla Engineer Says Raptor Lake a Problem\n13:30 - Rumor: ROG Xbox Ally Price Leak\n16:07 - Companies Don't Know ",
+        "id": 3219762,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4er6kD-pxZs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4er6kD-pxZs/hqdefault.jpg",
+        "title": "HW News - Gigabyte's Motherboard Mess, Linux Gains Market Share, NVIDIA CPU Delay",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T21:46:00.247889+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T20:58:59+00:00",
+        "description": "Imran Khan, founder and chief investment officer of Proem Asset Management, joins WSJ to talk about the AI trade surrounding companies like Nvidia, Meta and Alphabet. Plus, Khan chats about how AI enthusiasm is driving market speculation, herd thinking in markets, and the value of private-market investments like OpenAI. \n\n#Investing #AI #Shorts",
+        "id": 3220456,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/hfPrEsz-524",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hfPrEsz-524/hqdefault.jpg",
+        "title": "Are Private Markets Like OpenAI and SpaceX Overvalued?",
+        "vote": 0
+    }
+]

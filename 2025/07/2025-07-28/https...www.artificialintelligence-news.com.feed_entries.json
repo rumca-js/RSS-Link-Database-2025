@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T18:35:50.812871+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T16:00:59+00:00",
+        "description": "<p>While the development of increasingly powerful AI models grabs headlines, the big challenge is getting intelligent agents to communicate. Right now, we have all these capable systems, but they\u2019re all speaking different languages. It\u2019s a digital Tower of Babel, and it\u2019s holding back the true potential of what AI can achieve. To move forward, we [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/forget-turing-test-ai-real-challenge-is-communication/\">Forget the Turing Test, AI\u2019s real challenge is communication</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3219213,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/forget-turing-test-ai-real-challenge-is-communication",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "Forget the Turing Test, AI\u2019s real challenge is communication",
+        "vote": 0
+    }
+]

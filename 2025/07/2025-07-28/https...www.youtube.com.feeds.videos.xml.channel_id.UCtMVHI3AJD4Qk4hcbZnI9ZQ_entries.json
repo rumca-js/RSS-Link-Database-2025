@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SomeOrdinaryGamers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T21:45:57.774570+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T21:13:12+00:00",
+        "description": "Hello guys and gals, it's me Mutahar again! This has been a wild few weeks as the Internet is rapidly changing and becoming more censorious in record time. The next logical targets seems to be the quickest way to bypass this level of control and now we just have to find a way to retain some freedom, and here is how! Thanks for watching!\nLike, Comment and Subscribe for more videos!",
+        "id": 3220455,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ArXk6zdawVE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 309,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ArXk6zdawVE/hqdefault.jpg",
+        "title": "They Want To Ban VPNs Now...",
+        "vote": 0
+    }
+]

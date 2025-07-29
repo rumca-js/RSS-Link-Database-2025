@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T19:29:08.608506+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T17:30:02+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/B7fCpYWNynw\" width=\"480\" alt=\"thumbnail\" title=\"Systemd has been a complete and utter...\" /></p>Even today systemd gets people are arguing but the reality of the situation is that systemd has actually been a complete and utter...<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Systemd Article: https://blog.tjll.net/the-systemd-revolution-has-been-a-success/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/",
+        "id": 3219377,
+        "language": "en",
+        "link": "https://odysee.com/systemd-has-been-a-complete-and-utter...:21c10e4468384216328ae44fa9a77ca0794ec9dc",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/B7fCpYWNynw",
+        "title": "Systemd has been a complete and utter...",
+        "vote": 0
+    }
+]

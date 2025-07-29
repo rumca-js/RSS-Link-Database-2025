@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T07:46:43.125608+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T07:46:42+00:00",
+        "description": "Od 29 lipca Instytut Bada\u0144 Edukacyjnych \u2013 Pa\u0144stwowy Instytut Badawczy (IBE\u202fPIB) rozpoczyna seri\u0119 webinar\u00f3w zatytu\u0142owan\u0105 #OdPodstaw \u2013 porozmawiajmy o podstawach programowych. Celem akcji jest jak najszersze skonsultowanie z nauczycielami, ekspertami i rodzicami projekt\u00f3w nowych podstaw programowych, zanim trafi\u0105 one do Ministerstwa Edukacji Narodowej",
+        "id": 3215110,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/prawo-oswiatowe/art42763971-odpodstaw-dialog-o-przyszlosci-edukacji",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "#OdPodstaw: dialog o przysz\u0142o\u015bci edukacji",
+        "vote": 0
+    }
+]

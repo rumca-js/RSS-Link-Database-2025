@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-07-28T16:07:18.084708+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-28T13:22:51+00:00",
+        "description": "What does the EU\u2019s Cyber Resilience Act (CRA) mean for developers, open source maintainers, and businesses that rely on OSS? In this TFiR interview, Christopher Robinson (CRob), Chief Security Architect at the Open Source Security Foundation (OpenSSF), explains how the CRA is reshaping expectations\u2014and responsibilities\u2014across the software supply chain.\nCRob breaks down what CRA is, who it affects, and how OpenSSF is helping both large manufacturers and independent developers prepare. From upstream-downstream obligations to risk management, security baselines, and developer education, this is one of the clearest explanations yet on CRA\u2019s scope and impact.\nWhether you\u2019re a developer receiving sponsorship, a business shipping OSS-based products, or just trying to stay compliant, this interview is packed with clarity and actionable insight.\n\ud83d\udd17 Learn more at: https://openssf.org | https://www.tfir.io\n \ud83d\udcfa Watch the full interview to understand how CRA will shape the future of secure software.",
+        "id": 3217872,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Zkxdtayc4jM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Zkxdtayc4jM/hqdefault.jpg",
+        "title": "OpenSSF\u2019s CRob on CRA, Developer Liability & Protecting Open Source Projects",
+        "vote": 0
+    }
+]
