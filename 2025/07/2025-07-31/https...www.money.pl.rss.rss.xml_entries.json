@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T16:57:05.966407+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-31T15:47:46+00:00",
+        "description": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/28b7215e-164b-4699-970d-d5d772fb968f\" width=\"308\" /> Zakonnice w Polsce otrzymuj\u0105 cz\u0119sto skromne emerytury, zw\u0142aszcza je\u015bli nie pracowa\u0142y na etacie. Tymczasem emerytura biskupa mo\u017ce si\u0119ga\u0107 nawet 10 tys. z\u0142. Cho\u0107 rz\u0105d zapowiada\u0142 reform\u0119, Fundusz Ko\u015bcielny pozostaje \u2013 w 2025 roku poch\u0142ania ponad 275 mln z\u0142.",
+        "id": 3223215,
+        "language": "pl-PL",
+        "link": "https://www.money.pl/emerytury/emerytury-zakonnic-w-polsce-na-takie-swiadczenia-moga-liczyc-7184256794237536a.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 215,
+        "source_url": "https://www.money.pl/rss/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/28b7215e-164b-4699-970d-d5d772fb968f",
+        "title": "Emerytury zakonnic w Polsce. Na takie \u015bwiadczenia mog\u0105 liczy\u0107",
+        "vote": 0
+    }
+]
