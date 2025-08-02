@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/HolidayWhich6289",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T17:31:30.516114+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T12:43:05+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I have to track specific niches for my work (AI, Bonds etc) and have been using Google News for many years now. However, I get increasingly frustrated that Google show me so many sources I don&#39;t recognise/trust</p> <p>So last weekend, I had a bit of time and built a news aggregator called <a href=\"http://100.news/\">100.news</a> where you can completely control the news you&#39;re reading.</p> <p>You simply:</p> <ol> <li>Select the sources you trust (I have only managed to add 70 sources for now but want to add more)</li> <li>Choose your topics of interest - can be anything from AI to Harry Styles</li> </ol> <p>You will receive a real-time feed which doesn&#39;t rely on big news corps showing you articles with most clicks/engagement.</p> <p>Still early days with this idea so v much open to criticism. Please let me know what you think</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HolidayWhich6289\"> /u/Holiday",
+        "id": 3225747,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1mevhc7/drowning_in_rss_feeds_i_built_a_site_to_filter",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Drowning in RSS feeds? I built a site to filter them by topics you care about",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T20:30:38.799060+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T20:00:44+00:00",
+        "description": "Creatine has been a staple of the physical fitness realm since the 90s. Our bodies produce it naturally but we also get it from consuming meat, fish, milk and eggs. It\u2019s proven to support muscle growth and recovery by aiding ATP (adenosine triphosphate) regeneration, which is a primary resource for muscle fibres.  Recently, creatine has been linked with increasing attention spans, as it can fuel the energy that the brain needs to consume in order to function. It\u2019s therefore been suggested that creatine supplementation could boost cognitive processing, increase memory and improve mental stamina.",
+        "id": 3231454,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/xu4eypucOLg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xu4eypucOLg/hqdefault.jpg",
+        "title": "Is creatine the newest super supplement? Sounds fishy!",
+        "vote": 0
+    }
+]

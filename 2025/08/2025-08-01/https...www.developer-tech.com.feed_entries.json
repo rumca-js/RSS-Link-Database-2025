@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T17:29:28.826804+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T10:36:00+00:00",
+        "description": "<p>Google has released a new font called Sans Code that is designed for developers and blends tech and history to boost readability. If you spend your days staring at lines of code, you know that the little things can make a huge difference. The right chair, the right coffee, and definitely, the right font. Google [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-sans-code-font-blends-tech-and-history-boost-readability/\">Google Sans Code font blends tech and history to boost readability</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3225641,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-sans-code-font-blends-tech-and-history-boost-readability",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google Sans Code font blends tech and history to boost readability",
+        "vote": 0
+    }
+]

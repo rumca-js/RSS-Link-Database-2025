@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T17:13:42.384016+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T14:14:51+00:00",
+        "description": "More like Sad Hour  \u2013 or like Depressed Hour, or maybe like Unhappy Hour or Dissatisfied Hour or Melancholic Minute or like Sad Hour, or did I say that already?  Gloomy? Gray? Glum? Sorry I\u2019m on the G section of the thesaurus. Is that how thesauruses work?  idk. The point is that it\u2019s called happy hour but it\u2019s not like necessarily happy. Or that was our idea when we first thought of it. Honestly, I have a pretty good time at happy hours, but sometimes when I leave I wonder if the people there actually like me. So maybe that\u2019s why I\u2019m being so cynical about it. As a sort of way to protect myself. I hope this doesn\u2019t ruin them for you. Maybe it\u2019s just that I\u2019m not happy. Don\u2019t let me yuck your yum, as it were. Or more like Sad Hour! Yeah. that\u2019s the one. #relatable #work #happyhour",
+        "id": 3224448,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/1ywZTM014GI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1ywZTM014GI/hqdefault.jpg",
+        "title": "Happy Hour sucks.",
+        "vote": 0
+    }
+]

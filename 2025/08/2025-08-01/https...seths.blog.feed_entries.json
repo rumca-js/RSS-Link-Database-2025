@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T16:54:13.331603+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T09:03:00+00:00",
+        "description": "Of course, we make strategic errors all the time. Not enough time. Incomplete information. A fast-changing system. Sooner or later, a significant strategic error occurs. Don&#8217;t beat yourself up. Now what? The real problems occur after the error is made. Don&#8217;t follow a strategic error with an investment error, or an effort error or a [&#8230;]",
+        "id": 3223076,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/after-you-make-a-strategic-error",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "After you make a strategic error",
+        "vote": 0
+    }
+]

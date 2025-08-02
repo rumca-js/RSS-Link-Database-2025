@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T17:27:13.443866+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T14:17:00+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nRegain Benefits from Agile Software Development - Jutta Eckstein - ACCU 2025\n---\n\nAll too often, Agile (or Scrum or SAFe) feels more like being restricted by rules that are in our way to productivity. It has not been designed that way. Just the opposite, it has always meant to keep obstacles out of the way, in order to get more productive in development.\n\nWhat causes the current problems and what can we do to get productivity back? Based on my own experience, in this session, I'll point out current problems, and misunderstandings, and how to overcome all of these to make Agile support and not hinder our work.\n\nSlides: https://accu.org/conf-previous/accu2025/\n\nJoin think-cell as a C++ Developer and work on cutting-edge challenges with a focus on code excellence, innovation, and working alongside an international team of experts \u2014 apply now to be part of a team shaping the future of business presentations. https://www.think-cell.com/en/",
+        "id": 3225413,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Tno88QyHT6Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Tno88QyHT6Q/hqdefault.jpg",
+        "title": "Regain Benefits from Agile Software Development - Jutta Eckstein - ACCU 2025",
+        "vote": 0
+    }
+]

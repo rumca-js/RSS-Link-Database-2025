@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T20:44:37.026121+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T15:20:19+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>It should come as no surprise that students the world over are using ChatGPT and other artificial intelligence chatbots to cheat. On homework, on tests, and on anything else you care to mention. After all, why work something out yourself when there\u2019s an AI chatbot waiting and willing to do the hard work for you?</p>\n\n\n\n<p>This is obviously a problem in need of fixing, and <a href=\"https://www.pcworld.com/article/2863281/chatgpt-gets-study-mode-to-guide-students-without-spoon-feeding-answers.html\"><u>OpenAI\u2019s answer is a Study Mode that\u2019s now baked into ChatGPT</u></a>. The idea is to stop students from simply asking ChatGPT to tell them the answer to a question, and to have ChatGPT teach them how to answer the question for themselves.</p>\n\n\n\n<p>Will this work? Possibly. Maybe. Probably not. Either way, I gave ChatGPT\u2019s Study Mode a spin for ourselves to fin",
+        "id": 3231486,
+        "language": "en",
+        "link": "https://www.pcworld.com/article/2866054/i-love-how-chatgpts-new-study-mode-makes-me-actually-use-my-brain.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2025/08/chatgpt-enable-study-mode.png?w=1200",
+        "title": "I love how ChatGPT\u2019s new Study Mode makes me actually use my brain",
+        "vote": 0
+    }
+]

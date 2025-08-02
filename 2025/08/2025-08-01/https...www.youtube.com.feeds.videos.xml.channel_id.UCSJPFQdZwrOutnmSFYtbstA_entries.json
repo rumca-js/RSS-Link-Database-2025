@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T17:24:40.480772+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T16:00:19+00:00",
+        "description": "No series about celebrities flushing away their own careers would be complete without the woman who blazed a trail of failure across the Marvel Cinematic Universe - the one and only Brie Larson.",
+        "id": 3225186,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AoeJUvAn_6I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AoeJUvAn_6I/hqdefault.jpg",
+        "title": "Crash And Burn - The Brie Larson Story",
+        "vote": 0
+    }
+]

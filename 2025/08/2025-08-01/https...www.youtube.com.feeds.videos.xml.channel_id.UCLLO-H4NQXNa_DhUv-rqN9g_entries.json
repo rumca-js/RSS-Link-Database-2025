@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-01T17:29:24.143555+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-01T15:39:25+00:00",
+        "description": "Dobra wiadomo\u015b\u0107 dla fan\u00f3w Atari: firma chce wr\u00f3ci\u0107 do powszechnej \u015bwiadomo\u015bci! Z\u0142a wiadomo\u015b\u0107 dla fan\u00f3w Atari: wi\u0119kszo\u015b\u0107 tego materia\u0142u.\n\nProwadzenie i scenariusz:\n\nDawid \u201espikain\" Bojarski (http://dawid.omg.lol)\n\nMonta\u017c: Kacper Grela",
+        "id": 3225638,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=MJ1M1rvAhgY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MJ1M1rvAhgY/hqdefault.jpg",
+        "title": "Atari pr\u00f3buje wr\u00f3ci\u0107 i przykro si\u0119 na to patrzy",
+        "vote": 0
+    }
+]
