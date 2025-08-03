@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sean Illing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T10:34:53.041492+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T06:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A black and white brain scan\" data-caption=\"\" data-portal-copyright=\"\ufeffPeter Dazeley/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2217660762.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Humans are the dominant species on a dying planet, and we&#8217;re still clinging to the idea that we can think our way out, invent our way out, maybe even upload our way out.&nbsp;</p>\n\n<p class=\"has-text-align-none\">But what if the solution isn&#8217;t more mastery or more control? What if the only way to survive is to become something else entirely?</p>\n\n<p class=\"has-text-align-none\">Mark C. Taylor is a philosopher, a cultural critic, and the author of <a href=\"https://cup.columbia.edu/book/after-the-human/9780231218610/\"><em>After the Human</em></a>. It&#8217;s a sweeping, sometimes dizzying book, one that moves from Hege",
+        "id": 3234774,
+        "language": "",
+        "link": "https://www.vox.com/the-gray-area/421348/ai-climate-change-thiel-andreesen-humanity-philosophy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2217660762.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "How the fight over what it means to be human has dramatically changed",
+        "vote": 0
+    }
+]

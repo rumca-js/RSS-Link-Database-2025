@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T13:01:56.006472+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T13:01:55+00:00",
+        "description": "Indie \u2013 najwi\u0119kszy obok Chin sponsor rosyjskiej wojny \u2013 zacz\u0119\u0142y zast\u0119powa\u0107 rosyjsk\u0105 rop\u0119 surowcem z USA, Bliskiego Wschodu i Afryki. Tankowce z rosyjsk\u0105 rop\u0105 s\u0105 zawracane i zamiast trafia\u0107 do port\u00f3w w Indiach, p\u0142yn\u0105 do Chin i Egiptu.",
+        "id": 3235377,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ropa/art42798021-indie-zaczely-import-ropy-z-usa-tankowce-z-rosji-nie-sa-wpuszczane-do-portow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Indie zacz\u0119\u0142y import ropy z USA. Tankowce z Rosji nie s\u0105 wpuszczane do port\u00f3w",
+        "vote": 0
+    }
+]

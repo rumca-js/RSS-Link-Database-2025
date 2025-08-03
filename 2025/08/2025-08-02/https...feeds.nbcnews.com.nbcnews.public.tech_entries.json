@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrea Mitchell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T16:42:48.688731+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T16:13:15+00:00",
+        "description": "Brazilian products are subject to a 50% tariff not because of Brazil\u2019s trade policies, but because of Trump\u2019s relationship with Brazil's former president.",
+        "id": 3236680,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/politics/trump-administration/trump-brazilian-products-tariffs-bolsonaro-rcna222534",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250801-Brazil-coffee-aa-511-614999.jpg",
+        "title": "Trump hits Brazilian products with 50% tariffs over Bolsonaro",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Todd Bishop",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T17:02:27.336828+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T15:52:04+00:00",
+        "description": "<img width=\"960\" height=\"600\" src=\"https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png 960w, https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast-768x480.png 768w, https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast-630x394.png 630w\" sizes=\"(max-width: 960px) 100vw, 960px\"><br>This week on the GeekWire Podcast: Microsoft soars past Wall Street expectations, briefly hitting a $4 trillion valuation, while Amazon faces sharper scrutiny over its AI strategy. We break down the contrasting earnings results, analyst reactions, and what it all means for the future of AI \u2014 and Seattle&#8217;s place in it. Plus: insights from Microsoft&#8217;s Mustafa Suleyman on the future of Copilot, a throwback lesson from the Zune era, and a guestbook entry that shows just how mainstream C",
+        "id": 3236773,
+        "language": "en-US",
+        "link": "https://www.geekwire.com/2025/have-we-hit-peak-ai-microsoft-amazon-and-a-pivotal-week-for-seattle-tech",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 131,
+        "source_url": "https://www.geekwire.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+        "title": "Have we hit \u2018Peak AI\u2019? Microsoft, Amazon, and a pivotal week for Seattle tech",
+        "vote": 0
+    }
+]

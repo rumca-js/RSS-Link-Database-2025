@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T14:46:20.533975+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T14:46:19+00:00",
+        "description": "Trudno uwierzy\u0107 w sukces reformy o\u015bwiaty szykowanej przez Ministerstwo Edukacji Narodowej. Cho\u0107by dlatego, \u017ce sama minister Barbara Nowacka b\u0142yskawicznie odcina si\u0119, pod presj\u0105 krytyki, od propozycji ekspert\u00f3w, by zmieni\u0107 list\u0119 ksi\u0105\u017cek, kt\u00f3re dzieci mia\u0142yby czyta\u0107 w szkole podstawowej.",
+        "id": 3236062,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/opinie-polityczno-spoleczne/art42796621-joanna-cwiek-swidecka-najpierw-nauczmy-dzieci-czytac-potem-mowmy-o-kanonie-lektur",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Joanna \u0106wiek-\u015awidecka: Najpierw nauczmy dzieci czyta\u0107, potem m\u00f3wmy o kanonie lektur",
+        "vote": 0
+    }
+]

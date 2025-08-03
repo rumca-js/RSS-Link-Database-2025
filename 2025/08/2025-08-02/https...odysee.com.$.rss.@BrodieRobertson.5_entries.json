@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T18:22:03.706544+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T17:30:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/0_JfF7Blj5Q\" width=\"480\" alt=\"thumbnail\" title=\"Why Is Everyone Switching To Wayland?\" /></p>The other week I asked the X11 people why they're still using Xorg so this time lets flip it and ask the people on the Wayland side what made them switch to Wayland, what improved for there workflow.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Youtube Thread: https://www.youtube.com/post/UgkxPoB_1V2YU5EfmmqtH8o3qG23qgiU147e<br />Mastodon Thread: https://mastodon.social/@BrodieOnLinux@mstdn.social/114922633094160116<br />Twitter Thread: https://x.com/BrodieOnLinux/status/1949282806506688804<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5",
+        "id": 3237151,
+        "language": "en",
+        "link": "https://odysee.com/why-is-everyone-switching-to-wayland:6638d0ea12632f1d776d1ef2eb5e00def50d19f6",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/0_JfF7Blj5Q",
+        "title": "Why Is Everyone Switching To Wayland?",
+        "vote": 0
+    }
+]

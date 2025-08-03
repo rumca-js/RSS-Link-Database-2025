@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T15:06:15.154997+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T14:00:57+00:00",
+        "description": "RFK Jr. says it is working with the food industry to remove synthetic food dyes from the food supply by the end of 2026. But dye makers say meeting this deadline safely could take more than six years. WSJ visited Sensient Technologies, one of the largest natural food color plants in the world, to understand why the 2026 deadline is so hard to achieve and what it takes to create natural food dyes.\n\n#RFKJr #Food #Shorts",
+        "id": 3236104,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/fdV7V3fkVhI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fdV7V3fkVhI/hqdefault.jpg",
+        "title": "The Supply Chain Behind One of the U.S.\u2019 Largest Food Dye Companies",
+        "vote": 0
+    }
+]

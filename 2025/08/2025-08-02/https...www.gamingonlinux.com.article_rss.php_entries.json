@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Dawe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T10:24:37.403617+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T09:51:04+00:00",
+        "description": "Valve released the data for the Steam Hardware & Software Survey for July 2025, showing the Linux user share making gains towards hitting 3%.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/28790700id27284gol.jpg\" alt />.</p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2025/08/steam-survey-for-july-2025-shows-linux-approaching-3/\">GamingOnLinux</a>.</p>",
+        "id": 3234765,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2025/08/steam-survey-for-july-2025-shows-linux-approaching-3",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/articles/tagline_images/28790700id27284gol.jpg",
+        "title": "Steam Survey for July 2025 shows Linux approaching 3%",
+        "vote": 0
+    }
+]

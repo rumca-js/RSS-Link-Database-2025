@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T16:14:03.073468+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T16:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>So many people haven\u2019t been able to upgrade their older Windows computers to Windows 11 because of the latter\u2019s TPM 2.0 hardware requirement. (Learn more about <a href=\"https://www.pcworld.com/article/394775/why-windows-11-requires-a-tpm-for-your-pc.html\">why you need TPM 2.0 for Windows 11</a>, <a href=\"https://www.pcworld.com/article/2733845/microsoft-explains-why-tpm-makes-windows-11-pcs-better-for-you.html\">why TPM 2.0 makes PCs better</a>, and why Microsoft is adamant about <a href=\"https://www.pcworld.com/article/2545157/microsoft-doubles-down-still-wont-let-older-pcs-run-windows-11.html\">not letting older PCs without TPM 2.0 run Windows 11</a>.)</p>\n\n\n\n<p>Some users, however, are saying that they\u2019ve been offered upgrades to Windows 11 on older PCs that don\u2019t meet the TPM 2.0 hardware requirements, reports <a href=\"https://www.neowin.net/news/report-m",
+        "id": 3236425,
+        "language": "en",
+        "link": "https://www.pcworld.com/article/2860679/microsoft-offers-mysterious-windows-11-upgrade-on-incompatible-pcs.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2022/05/Windows-Insider-search-bar.png",
+        "title": "Microsoft offers mysterious Windows 11 upgrade on incompatible PCs",
+        "vote": 0
+    }
+]

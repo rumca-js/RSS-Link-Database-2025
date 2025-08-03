@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T21:28:31.294442+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T21:05:21+00:00",
+        "description": "Salesforce and ServiceNow won by going all-in on the cloud before the incumbents could react. AI is the next wave\u2014and it's just as big. The next generation of enterprise software won't just record work, it'll help do it. If you're building AI-native tools for the enterprise, let's talk.\n\nApply to YC Fall 2025 at ycombinator.com/apply.",
+        "id": 3238011,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/amNO1hHARqI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/amNO1hHARqI/hqdefault.jpg",
+        "title": "AI Native Enterprise Software",
+        "vote": 0
+    }
+]

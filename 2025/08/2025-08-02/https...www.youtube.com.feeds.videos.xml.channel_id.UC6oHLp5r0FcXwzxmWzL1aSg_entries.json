@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Life in the 1800s",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T15:06:19.366631+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T15:00:06+00:00",
+        "description": "My Patreon Page: https://www.patreon.com/Lifeinthe1800s\n\n0:00 Introduction\n1:49 Will Williams Interview\n\nThis is a 1949 interview with Will Williams (July 1872 \u2013 March 1956), who was born in Denton, Texas. The interviewer is Bill George of KDNT radio.  In this conversation, Mr. Williams recalls knowing the Wild West outlaw Sam Bass, best known for his $60,000 gold heist on a Union Pacific train in 1877.  He also describes how his family opened a general store on Denton\u2019s town square during the 1880s.",
+        "id": 3236105,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2lR4MJoUxYM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 434,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6oHLp5r0FcXwzxmWzL1aSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2lR4MJoUxYM/hqdefault.jpg",
+        "title": "I Knew the Wild West Outlaw Sam Bass in the 1870s - Interview in 1949",
+        "vote": 0
+    }
+]

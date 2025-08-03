@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T18:18:53.111517+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T17:30:30+00:00",
+        "description": "Steam the digital wild west where anything can happen and usually does.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1\n\n0:00 Intro\n0:28 Ebola Village\n3:35 Revelations 2012\n6:07 This sect accepts female disciples only\n8:02 Murder Miners\n9:34 Rubber Hose Rampage\n10:55 Time Survivors\n12:43 Terrifier: The ARTcade Game\n13:42 Aviary Attorney\n14:56 Neofeud\n17:22 Super 3D Noah's Ark",
+        "id": 3237139,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WG-y4-YvBLI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WG-y4-YvBLI/hqdefault.jpg",
+        "title": "10 COPYCAT Steam Games That Are Simply RIDICULOUS",
+        "vote": 0
+    }
+]

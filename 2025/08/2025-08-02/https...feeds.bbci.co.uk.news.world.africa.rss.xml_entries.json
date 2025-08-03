@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T10:18:44.908509+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T09:36:45+00:00",
+        "description": "Moussa Mara expressed solidarity with opposition figures held after political parties were dissolved.",
+        "id": 3234753,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c2eng3p70wpo?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18a2/live/3e2609f0-6f81-11f0-9d90-3385e0d9e70c.jpg",
+        "title": "Mali charges ex-PM with undermining the state over post on X",
+        "vote": 0
+    }
+]

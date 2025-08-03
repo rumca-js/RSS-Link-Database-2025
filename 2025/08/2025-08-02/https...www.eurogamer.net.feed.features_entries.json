@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Tapsell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-02T09:09:01.484886+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-02T08:40:39+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/battle-chess-2.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Hello! Welcome back to our regular feature where we write a little bit about some of the games we've been playing. This week's a quiet one, with a few staff out on their summer holidays. Chris manages his little football men, and our SEO maestro Will spirals into an all-timer.</p> <p><a href=\"https://www.eurogamer.net/what-weve-been-playing-the-game-of-kings-and-a-football-rescue-act\">Read more</a></p>",
+        "id": 3234452,
+        "language": "en",
+        "link": "https://www.eurogamer.net/what-weve-been-playing-the-game-of-kings-and-a-football-rescue-act",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/battle-chess-2.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "What we've been playing - the game of kings and a football rescue act",
+        "vote": 0
+    }
+]
