@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-03T05:13:59.957493+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-03T05:08:43+00:00",
+        "description": "Modos Tech has announced the Modos Paper Monitor, a 13.3&#8209;inch open&#8209;hardware e&#8209;ink display designed for real&#8209;time use. Unlike traditional e&#8209;paper, it supports refresh rates of 60 to 75&#8239;Hz with sub&#8209;100&#8239;ms latency, enabling smooth interaction and multiple image modes. The Modos Paper Monitor is powered by the Caster e&#8209;paper controller, which is built on a Xilinx [&#8230;]",
+        "id": 3239464,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/modos-paper-monitor-brings-high-speed-e-paper-to-developers",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Modos Paper Monitor Brings High-Speed E-Paper to Developers",
+        "vote": 0
+    }
+]

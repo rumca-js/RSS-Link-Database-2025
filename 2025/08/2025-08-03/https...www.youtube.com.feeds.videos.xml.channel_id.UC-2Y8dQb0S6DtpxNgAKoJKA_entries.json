@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PlayStation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-03T17:45:58.092762+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-03T17:15:02+00:00",
+        "description": "https://www.playstation.com/en-us/games/street-fighter-6/\n\nAs a research director for SiRN, C. Viper needs a volunteer for her latest development.\n\nBe her test dummy when she struts into Street Fighter 6 this autumn!\n\n#ps5 #ps5games #ps4 #ps4games #StreetFighter6 #SF6 #CViper #Capcom",
+        "id": 3242749,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_1va_LZuVsw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 576,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_1va_LZuVsw/hqdefault.jpg",
+        "title": "Street Fighter 6 - C. Viper Teaser Trailer | PS5 & PS4 Games",
+        "vote": 0
+    }
+]

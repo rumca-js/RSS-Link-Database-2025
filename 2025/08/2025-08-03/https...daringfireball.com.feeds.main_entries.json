@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-03T16:53:09.602253+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-03T16:51:06+00:00",
+        "description": "<p>Simple single-page website with (a) reasons to leave Substack; (b) links to comprehensive step-by-step instructions for how to move to other platforms, such as <a href=\"https://ghost.org/\">Ghost</a>, <a href=\"https://buttondown.com/\">Buttondown</a>, and <a href=\"https://www.beehiiv.com/\">Beehiiv</a>; and (c) links to <a href=\"https://www.citationneeded.news/\">several</a> <a href=\"https://www.platformer.news/\">popular</a> <a href=\"https://garbageday.substack.com/p/its-time-to-leave-substack\">publications</a> that moved and are <a href=\"https://randsinrepose.com/archives/welcome-to-ghost\">glad they did</a>.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018How to Leave Substack\u2019\"  href=\"https://daringfireball.net/linked/2025/08/03/how-to-leave-substack\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 3242424,
+        "language": "",
+        "link": "https://leavesubstack.com",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How to Leave Substack",
+        "vote": 0
+    }
+]

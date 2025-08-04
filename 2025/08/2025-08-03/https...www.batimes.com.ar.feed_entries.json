@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-03T21:11:17.012816+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-03T20:27:22+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/08/03/trim/540/304/octopus-at-1114-metres-of-depth-at-the-mar-del-plata-canyon-in-the-argentine-sea-in-the-atlantic-ocean-about-300-km-off-mar-del-plata-buenos-aires-province-argentina-2073481.jpg\" alt=\"octopus at 1,114 metres of depth at the Mar del Plata Canyon in the Argentine Sea, in the Atlantic Ocean about 300 km off Mar del Plata, Buenos Aires Province, Argentina.\" /></p>Hundreds of thousands of people have been are obsessed with a YouTube broadcast of a robot showing animals never before seen in the South Atlantic. <a href=\"https://www.batimes.com.ar/news/argentina/patrick-star-and-drag-queen-crab-underwater-robot-live-stream-captivates-argentines.phtml\">Leer m\u00e1s</a>",
+        "id": 3243714,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/argentina/patrick-star-and-drag-queen-crab-underwater-robot-live-stream-captivates-argentines.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/08/03/trim/540/304/octopus-at-1114-metres-of-depth-at-the-mar-del-plata-canyon-in-the-argentine-sea-in-the-atlantic-ocean-about-300-km-off-mar-del-plata-buenos-aires-province-argentina-2073481.jpg",
+        "title": "Patrick Star and 'Drag Queen' crab: underwater robot live stream captivates Argentines",
+        "vote": 0
+    }
+]

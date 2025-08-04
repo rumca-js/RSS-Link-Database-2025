@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-03T19:19:03.461742+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-03T17:30:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/atBUxPFYXP4\" width=\"480\" alt=\"thumbnail\" title=\"Rust Rewrites Won't Fix All Your Problems\" /></p>No matter how much time passes, the same mistakes are done over and over and over again and one of those things is rewriting old code bases just for the sake of rewriting the old code, not to say there's no reason but it must be done with care.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Rewrite Post: https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />========",
+        "id": 3243120,
+        "language": "en",
+        "link": "https://odysee.com/rust-rewrites-won%27t-fix-all-your:a3eb77df1652e1c91bb7c66e1f02af604ccd0067",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/atBUxPFYXP4",
+        "title": "Rust Rewrites Won't Fix All Your Problems",
+        "vote": 0
+    }
+]

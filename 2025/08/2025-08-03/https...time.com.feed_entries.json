@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Olivia-Anne Cleary",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-03T15:09:54.051359+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-03T13:53:15+00:00",
+        "description": "\"Historically bad nominees deserve historic levels of scrutiny,\" Schumer said as Senate Republicans complained about Trump's stalled nominees.",
+        "id": 3241878,
+        "language": "en-UK",
+        "link": "https://time.com/7307145/trump-schumer-row-nominees-democrats-republicans-senate-recess",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 316,
+        "source_url": "https://time.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/08/GettyImages-2226746986.jpg",
+        "title": "Trump Tells Schumer to \u2018Go to Hell\u2019 as Bipartisan Negotiations Break Down",
+        "vote": 0
+    }
+]

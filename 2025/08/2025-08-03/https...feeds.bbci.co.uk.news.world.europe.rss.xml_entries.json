@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-03T21:13:19.481812+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-03T18:52:06+00:00",
+        "description": "Pauline Ferrand-Prevot becomes the first French winner of the Tour de France Femmes for 36 years as she triumphs on stage nine.",
+        "id": 3243723,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/sport/cycling/articles/c4gl0x3dzjgo?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b7/live/ce9a8830-7094-11f0-aef7-dfe733436179.jpg",
+        "title": "Ferrand-Prevot wins Tour de France Femmes",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul Sonne",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-03T09:18:08.474337+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-03T09:01:20+00:00",
+        "description": "The introduction of a state-approved messaging app has raised fears that Russia could be preparing to block WhatsApp and Telegram.",
+        "id": 3240230,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/08/03/world/europe/russia-putin-internet.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/08/03/multimedia/03int-russia-internet-control-01-pmkt/03int-russia-internet-control-01-pmkt-mediumSquareAt3X.jpg",
+        "title": "Putin Widens Effort to Control Russia\u2019s Internet",
+        "vote": 0
+    }
+]
