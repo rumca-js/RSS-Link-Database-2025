@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Catherine Yang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T01:57:42.455628+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T01:09:17+00:00",
+        "description": "'We have been a victim for too long, and we've got to get out of that mindset,' McCrary Institute Director Frank Cilluffo said.",
+        "id": 3244733,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/experts-offer-roadmap-to-secure-us-ports-from-ccp-attack-5895708",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/08/03/id5896007-Frank-Cilluffo-and-Brad-Medairy-2-1080x720.jpeg",
+        "title": "Experts Offer Roadmap to Secure US Ports From CCP Attack",
+        "vote": 0
+    }
+]

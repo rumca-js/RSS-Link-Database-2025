@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Robin George Andrews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T14:28:17.454844+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T14:05:02+00:00",
+        "description": "Strong new evidence suggests that primordial material from the planet\u2019s center is somehow making its way out. Continent-size entities anchored to the core-mantle boundary might be involved.            <p>The post <a href=\"https://www.quantamagazine.org/earths-core-appears-to-be-leaking-up-and-out-of-earths-surface-20250804/\" target=\"_blank\">Earth\u2019s Core Appears To Be Leaking Up and Out of Earth\u2019s Surface</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3248631,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/earths-core-appears-to-be-leaking-up-and-out-of-earths-surface-20250804",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/08/EarthsLeakingCore-crDepositPhotos_Alamy-Default.webp",
+        "title": "Earth\u2019s Core Appears To Be Leaking Up and Out of Earth\u2019s Surface",
+        "vote": 0
+    }
+]

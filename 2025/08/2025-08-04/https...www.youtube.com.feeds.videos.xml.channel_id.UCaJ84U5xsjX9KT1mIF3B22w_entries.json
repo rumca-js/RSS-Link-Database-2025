@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rev says desu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T23:34:44.236723+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T22:21:07+00:00",
+        "description": "After receiving pressure from Collective Shout, payment processors like Mastercard helped censor countless games. Now they're passing blame onto Steam.\n\nUse code \"REV\" for 10% off my new AdvancedGG collection: https://advanced.gg/pages/partner-rev/?ref=revsays\nMerch: https://uwumarket.us/collections/rev\nTwitch: https://www.twitch.tv/revuwu\nPatreon: https://www.patreon.com/Revsaysdesu\nTwitter: https://twitter.com/Rev_says_desu\n\n#vtuber \n#anime \n#gaming",
+        "id": 3252434,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=E9dxna0w8VA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 586,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaJ84U5xsjX9KT1mIF3B22w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E9dxna0w8VA/hqdefault.jpg",
+        "title": "Steam COOKS Mastercard For Deflecting Blame After Censoring Countless \"Problematic\" Games",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/One_Bit_1590",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T18:28:26.012927+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T17:46:14+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/One_Bit_1590\"> /u/One_Bit_1590 </a> <br/> <span><a href=\"/r/PromptDesign/comments/1mhk9dk/chatgpt_and_search_engines_should_quit_using/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/searchengines/comments/1mhkbu4/chatgpt_and_search_engines_should_quit_using/\">[comments]</a></span>",
+        "id": 3250571,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1mhkbu4/chatgpt_and_search_engines_should_quit_using",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ChatGPT and Search engines should quit using acronyms or put them at the end",
+        "vote": 0
+    }
+]

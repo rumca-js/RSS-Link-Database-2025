@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T14:59:01.195606+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T13:56:59+00:00",
+        "description": "Learn modern frontend web development using React and Tailwind CSS in this beginner course.\n\n\u270f\ufe0f This course was developed by Alvin Zablan. Check out Alvin's channel: https://www.youtube.com/c/AlvinTheProgrammer\n\n\ud83d\udd17 Learn more frontend development with Alvin: https://react-formula.com/\n\n\u2764\ufe0f Try interactive React courses we love, right in your browser: https://scrimba.com/freeCodeCamp-React (Made possible by a grant from our friends at Scrimba)\n\n\ud83d\udcd6 Contents \ud83d\udcd6\n(0:00:00) Course Introduction\n(0:04:31) Your First App Exercise - https://react-formula.com/workspace/your-first-app\n(0:10:00) Rendering Components Exercise - https://react-formula.com/workspace/rendering-components\n(0:07:54) Passing Props - https://react-formula.com/workspace/passing-props\n(0:27:52) Passing Props II - https://react-formula.com/workspace/passing-props-ii\n(0:36:39) Passing Props III - https://react-formula.com/workspace/passing-props-iii\n(0:45:05) Intro to Tailwind CSS Lecture\n(0:49:40) Tailwind Basics Exercise - https",
+        "id": 3248698,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IJ85kCdqWao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IJ85kCdqWao/hqdefault.jpg",
+        "title": "React Course for Beginners w/ Tailwind CSS [2025]",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T15:40:03.171815+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T14:58:20+00:00",
+        "description": "<p>Tencent has expanded its family of open-source Hunyuan AI models that are versatile enough for broad use. This new family of models is engineered to deliver powerful performance across computational environments, from small edge devices to demanding, high-concurrency production systems. The release includes a comprehensive set of pre-trained and instruction-tuned models available on the developer [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/tencent-releases-versatile-open-source-hunyuan-ai-models/\">Tencent releases versatile open-source Hunyuan AI models</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3249149,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/tencent-releases-versatile-open-source-hunyuan-ai-models",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png",
+        "title": "Tencent releases versatile open-source Hunyuan AI models",
+        "vote": 0
+    }
+]

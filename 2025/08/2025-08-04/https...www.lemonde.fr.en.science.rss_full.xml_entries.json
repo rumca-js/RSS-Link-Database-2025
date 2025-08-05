@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T10:35:31.440758+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T10:35:30+00:00",
+        "description": "Out of 237,214 practicing doctors, there are 118,957 women and 118,257 men as of January 1, according to data from the Directorate for Research, Studies, Evaluation and Statistics. Nonetheless, this increase in female representation within the medical field has not reached all of the highest professional levels.",
+        "id": 3246735,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/france/article/2025/08/04/for-the-first-time-ever-the-majority-of-doctors-in-france-are-women_6744048_7.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/07/29/0/0/4460/2230/644/322/60/0/deba912_upload-1-nbhfukrtlqkl-000-33qz69n.jpg",
+        "title": "For the first time ever, the majority of doctors in France are women",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T23:38:45.028109+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T22:45:01+00:00",
+        "description": "Sponsored by the FlexiSpot E7 Pro Standing desk: USA: https://bit.ly/45cNfsH - CAN: https://bit.ly/4oe8djs - use code YTE7P50 for $50 off. SiliconDust, the makers of the HDHomerun TV gateway tuner, met with the FCC to talk about how the botched rollout of ATSC 3.0 encryption has impacted their business and customers. See more on this topic: and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:42 - Sponsor: Flexispot\n01:58 - Silicondust's Opening Remarks\n03:05 - HDHomerun's NextGen certifications\n04:53 - Silicondust Offered to Help the A3SA\n05:52 - HDHomerun / LG Partnership Denied by A3SA?\n06:45 - Gatekeeping the Gateways\n08:52 - Silicondust: No DRM is the Best solution\n09:43 - Silicondust's DRM Suggestion\n11:51 - Even a simple DRM solution is complicated\n14:15 - What's next?\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel ",
+        "id": 3252445,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=50EdKdKb1XQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/50EdKdKb1XQ/hqdefault.jpg",
+        "title": "HDHomeRun Meets with the FCC About Over the Air TV Encryption DRM",
+        "vote": 0
+    }
+]

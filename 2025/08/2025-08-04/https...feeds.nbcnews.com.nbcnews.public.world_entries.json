@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T23:46:14.544958+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T23:12:26+00:00",
+        "description": "Hamas released a video of 24-year-old Evyatar David, an Israeli hostage, appearing to look frail. Another hostage video was released by Palestinian Islamic Jihad showing 22-year-old Israeli hostage Rom Braslavski also looking emaciated. NBC News\u2019 Matt Bradley speaks to the brother of Evyatar David, who says doctors are telling him it\u2019s \u201ca matter of days\u201d if he is unable to receive the medical care he needs.",
+        "id": 3252549,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/nightly-news/video/emaciated-israeli-hostages-seen-in-released-propaganda-videos-244338245956",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754349141770_nn_mbr_hostage_videos_gaza_israel_250804_1920x1080-tewww2.jpg",
+        "title": "Emaciated Israeli hostages seen in released propaganda videos",
+        "vote": 0
+    }
+]

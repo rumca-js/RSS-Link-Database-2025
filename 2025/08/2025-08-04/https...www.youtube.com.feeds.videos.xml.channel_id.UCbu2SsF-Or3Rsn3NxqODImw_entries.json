@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T17:03:10.028774+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T16:26:40+00:00",
+        "description": "There\u2019s been a lot P.T-inspired titles but very few have channeled Kojima\u2019s weirdness. Luto does exactly that, and is better for it.",
+        "id": 3249794,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=sUKPE4-2qI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sUKPE4-2qI4/hqdefault.jpg",
+        "title": "Luto Is More Authentically Kojima Than Other P.T.-likes",
+        "vote": 0
+    }
+]

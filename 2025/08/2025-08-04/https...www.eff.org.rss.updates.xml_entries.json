@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hayley Tsukayama",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T17:47:46.678805+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T16:31:07+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>Of the many principles EFF fights for in <a href=\"https://www.eff.org/deeplinks/2023/04/digital-privacy-legislation-civil-rights-legislation\">consumer data privacy legislation</a>, one of the most basic is a right to access the data companies have about you. It\u2019s only fair. So many companies collect information about us without our knowledge or consent. We at least should have a way to find out what they purport to know about our lives.</p>\n<p>Yet a recent paper from <a href=\"https://arxiv.org/pdf/2506.21914\">researchers at the University of Californian-Irvine</a> found that, of 543 data brokers in California\u2019s data broker registry at time of publishing, 43 percent failed to even <em>respond</em> to requests to access data.</p>\n<p class=\"pull-quote\">43 percent of registered data brokers in California failed to even <em>respond</em> to request",
+        "id": 3250345,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/08/data-brokers-are-ignoring-privacy-law-we-deserve-better",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Data Brokers Are Ignoring Privacy Law. We Deserve Better.",
+        "vote": 0
+    }
+]

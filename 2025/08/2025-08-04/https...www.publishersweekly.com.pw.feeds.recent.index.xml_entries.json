@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "By Ed Nawotka",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-04T14:48:26.210767+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-04T00:00:00+00:00",
+        "description": null,
+        "id": 3248669,
+        "language": "en-US",
+        "link": "http://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/98333-canadian-author-sues-four-ai-companies-for-copyright-infringement.html",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 266,
+        "source_url": "https://www.publishersweekly.com/pw/feeds/recent/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Canadian Author Sues Four AI Companies for Copyright Infringement",
+        "vote": 0
+    }
+]
