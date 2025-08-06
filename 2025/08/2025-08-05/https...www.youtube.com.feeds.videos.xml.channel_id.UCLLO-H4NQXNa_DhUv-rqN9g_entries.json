@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T19:13:00.809819+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T17:49:00+00:00",
+        "description": "Podcast CD-Action Air #125\n\n00:00 Dzie\u0144 dobry!\n03:20 \ud83d\ude85 CD-Express (temat odcinka + inne newsy)\n30:55 \ud83e\udd14 Rozkminka: Czy Pegasus pom\u00f3g\u0142 Nintendo w Polsce?\n\n#\n\nWesprzyj nas, b\u0119dziemy turbo wdzi\u0119czni + co tydzie\u0144 dostaniesz p\u00f3\u0142 godziny naszej gadaniny ekstra:\nhttps://www.youtube.com/channel/UCLLO-H4NQXNa_DhUv-rqN9g/join\n\nWszystkie linki, kt\u00f3rych szukasz:\nhttps://www.goladupa.com\n\nTo my:\nKrzysztof \u201eBastian\u201d Freudenberger\nDawid \u201espikain\u201d Bojarski\n\nMonta\u017c: Krzysztof \u201eBastian\u201d Freudenberger",
+        "id": 3259610,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=21T5m--ZQbI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/21T5m--ZQbI/hqdefault.jpg",
+        "title": "Xbox przegra\u0142 t\u0119 generacj\u0119. Co dalej?",
+        "vote": 0
+    }
+]

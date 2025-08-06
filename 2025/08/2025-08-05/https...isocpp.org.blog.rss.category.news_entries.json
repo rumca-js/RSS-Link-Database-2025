@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T16:43:30.491672+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T15:50:40+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />Variadic templates are a powerful C++ feature that allow template classes or functions to accept an arbitrary number of parameters. In this article, we&rsquo;ll explore how to combine them with class templates and examine the various ways the parameter pack can be expanded.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/06/18/variadic-inheritance\">Variadic Class Template Arguments</a></h3>\n\t<p>\n\t\tby&nbsp;Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tLet&rsquo;s talk about class templates and variadic parameters. How to use them in combination?</p>\n\t<p>\n\t\tBut first of all, what are variadic templates?</p>\n\t<p>\n\t\tVariadic template don&rsquo;t accept a fixed size of parameters, but anything from one to more. The set of parameters is called the parameter pack.</p>\n\t<p>\n\t\t",
+        "id": 3258372,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/08/variadic-class-template-arguments-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "Variadic Class Template Arguments -- Sandor Dargo",
+        "vote": 0
+    }
+]

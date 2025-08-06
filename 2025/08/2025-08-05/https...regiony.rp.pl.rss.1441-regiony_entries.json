@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T17:38:17.468384+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T17:38:16+00:00",
+        "description": "Jeszcze w tym miesi\u0105cu w Krakowie pojawi si\u0119 nowe oznakowanie dla cyklist\u00f3w. Specjalnie oznaczone trasy pomog\u0105 rowerzystom w nawigowaniu po mie\u015bcie, kieruj\u0105c ich po najbezpieczniejszych i w miar\u0119 mo\u017cliwo\u015bci wydzielonych z ruchu og\u00f3lnego trasach.",
+        "id": 3259013,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/rowerowa-koalicja-rzeczpospolitej/art42812031-nowe-drogowskazy-dla-rowerzystow-w-krakowie-pomoga-wybrac-najlepsze-trasy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowe drogowskazy dla rowerzyst\u00f3w w Krakowie. Pomog\u0105 wybra\u0107 najlepsze trasy",
+        "vote": 0
+    }
+]

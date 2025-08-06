@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T09:26:20.310487+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T09:00:36+00:00",
+        "description": "Bobby Carter | August 5, 2025\nRiver Tiber's Tiny Desk is one of the most brilliant games of musical chairs I've ever seen. It may come as a surprise, considering that in the studio, he's pretty much a one-man army. Here, the Toronto native takes his turn at the piano, drums, bass and trombone while his bandmates Justin Nozuka, Dan Only and John Mavro trade instruments and sing along, pushing the barriers of what can happen in this small space.\n\nSince I discovered River Tiber on Kaytranada's 2016 debut album, 99.9%, he's maintained a somewhat enigmatic presence \u2014 River Tiber's out-of-focus portraits on album covers and across his social media communicate a mystic aura, which lends itself to the music. When he walked into the building, it was one of the first times I got a good look at the guy. However, his profile isn't too low, as he's landed work with the likes of Travis Scott and Post Malone. At the Desk, he plays \"Hypnotized,\" the song Kendrick Lamar sampled, along with other highl",
+        "id": 3254732,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=N79psZne6D0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N79psZne6D0/hqdefault.jpg",
+        "title": "River Tiber: Tiny Desk Concert",
+        "vote": 0
+    }
+]

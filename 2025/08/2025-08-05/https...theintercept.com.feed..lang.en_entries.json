@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nick Turse",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T10:31:19.262303+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T10:00:00+00:00",
+        "description": "<p>A new Pentagon report sheds light on AFRICOM\u2019s disastrous counterterrorism campaigns.</p>\n<p>The post <a href=\"https://theintercept.com/2025/08/05/pentagon-africa-counterterrorism-failure/\">Pentagon: U.S. Counterterrorism Efforts Have Failed Africans</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3255082,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/08/05/pentagon-africa-counterterrorism-failure",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/08/GettyImages-2228080375-e1754078544812.jpg?w=440&h=440&crop=1",
+        "title": "Pentagon: U.S. Counterterrorism Efforts Have Failed Africans",
+        "vote": 0
+    }
+]

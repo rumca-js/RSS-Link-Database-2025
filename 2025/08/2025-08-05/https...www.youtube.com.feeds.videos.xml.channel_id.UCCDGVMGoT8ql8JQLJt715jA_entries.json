@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T22:07:46.831872+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T21:22:02+00:00",
+        "description": "Wersja Early Access gry Titan Quest 2 jest jednym z najbardziej skromnych je\u015bli chodzi o zawarto\u015b\u0107 ARPG\u00f3w (kt\u00f3re te\u017c startowa\u0142y we wczesnym dost\u0119pie). Ale potrafi sprawi\u0107 frajd\u0119, a chyba o to tu chodzi. Nie trzeba kupowa\u0107 ju\u017c dzi\u015b.\n\nChcesz wesprze\u0107 moj\u0105 gadanin\u0119? Postaw mi kaw\u0119: https://buycoffe.to/emzdanowicz\n\n0:00 Wra\u017cenia z Titan Quest 2\n14:48 FAQ od dev\u00f3w\n\n#titanquest #opinia",
+        "id": 3260912,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=QTZ9Zl2yV6g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QTZ9Zl2yV6g/hqdefault.jpg",
+        "title": "Wra\u017cenia z Titan Quest 2. Frajda jest, content b\u0119dzie",
+        "vote": 0
+    }
+]

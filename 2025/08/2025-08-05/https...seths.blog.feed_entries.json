@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T08:47:58.657811+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T08:44:00+00:00",
+        "description": "I&#8217;ve spent months creating something I&#8217;m excited to share: The Mentor Deck. Here&#8217;s an invite for 2,000 people to purchase and test the very first edition. Reading a book changes how you think. But turning those ideas into action? That&#8217;s where most of us get stuck. You need more than insights\u2014you need a coach who [&#8230;]",
+        "id": 3254667,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/the-mentor-deck-first-beta-edition",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/seths.blog/wp-content/uploads/2025/08/mentor-deck-and-box.png?resize=1024%2C775&ssl=1",
+        "title": "A new tool to help you get unstuck",
+        "vote": 0
+    }
+]

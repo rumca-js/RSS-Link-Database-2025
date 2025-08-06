@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T22:26:11.275926+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T22:26:10+00:00",
+        "description": "Toshiko Tanaka, now 86, kept silent about her trauma for 65 years. Today, she travels the world to campaign against nuclear weapons and is scheduled to speak on Japanese television during the commemoration of the August 6, 1945 bombing.",
+        "id": 3260948,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/m-le-mag/article/2025/08/06/a-hiroshima-survivor-breaks-decades-of-silence-speaking-about-it-could-be-seen-as-shameful-for-the-person-or-their-family_6744103_117.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/08/04/19/0/1500/750/644/322/60/0/2543ac2_ftp-import-images-1-kcmcgd5hwufi-392383-3433465.jpg",
+        "title": "A Hiroshima survivor breaks decades of silence: 'Speaking about it could be seen as shameful, for the person or their family'",
+        "vote": 0
+    }
+]

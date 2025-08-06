@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T20:19:39.787534+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T19:25:14+00:00",
+        "description": "Frank Karlitschek, CEO and founder of Nextcloud, joins me to discuss the evolution from OwnCloud to Nextcloud, the challenges of building sustainable open-source businesses, and why digital sovereignty matters more than ever. Please note: Due to Jitsi connection issues during recording, Frank's video quality is compromised in the first half but normalizes as the interview progresses. We dive deep into Nextcloud Hub 10's new end-to-end encryption features, AI capabilities, and Frank's vision for competing with Big Tech while maintaining user privacy. Techlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources. Discover how to protect your online data and regain control of your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 https://nextcloud.com/team/\n\u2022 https://x.com/fkarlitschek\n\u2022 https://mastodon.social/@Karlitschek\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://youtu.be/KzkQKB9msUI\n\u2022 https://youtu.be/7E4ZwBK-SQs\n\u2022 https://www.youtube.com/watch?v=kUkVPC5Ky",
+        "id": 3260040,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Ps_5Id3npGw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Ps_5Id3npGw/hqdefault.jpg",
+        "title": "Why Nextcloud's CEO Left His Own Company to Start Over",
+        "vote": 0
+    }
+]

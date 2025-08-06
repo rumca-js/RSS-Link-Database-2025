@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Undecided with Matt Ferrell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T13:18:27.185089+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T12:16:46+00:00",
+        "description": "Why The Race for Quantum Supremacy Just Got Real. Go to https://ground.news/undecided for an innovative way to stay fully informed on tech, energy, the climate and more. Save 40% on the Ground News unlimited access Vantage plan with my link. Google just built a computer that solved a problem in 5 minutes that would take our best supercomputers 10 septillion years \u2026 that's not a typo. That's a 10 with 24 zeros after it. The universe is only 13.8 billion years old, so we're talking about a computer that just did something... cosmically impossible. And Google isn't alone. Microsoft and Amazon are racing to crack quantum computing too, each with wildly different approaches. After decades of being the much hyped \"the future,\" quantum computing suddenly feels like it's arriving \u2026 all at once. So what changed? And should you care about computers that need to be colder than outer space just to work?\n\nWatch How Fusion Tech Just Changed Geothermal Energy Forever https://youtu.be/gO_LLqZfNdY?lis",
+        "id": 3256416,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=L1kyvI2m6UY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 453,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L1kyvI2m6UY/hqdefault.jpg",
+        "title": "Why The Race for Quantum Supremacy Just Got Real",
+        "vote": 0
+    }
+]

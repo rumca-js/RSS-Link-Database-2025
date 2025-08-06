@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/NoArm1751",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T11:06:04.501147+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T10:51:08+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NoArm1751\"> /u/NoArm1751 </a> <br/> <span><a href=\"https://github.com/WrathCoree\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1mi5wjh/three_custom_vtx_hypervisors_written_in_c/\">[comments]</a></span>",
+        "id": 3255476,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1mi5wjh/three_custom_vtx_hypervisors_written_in_c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Three custom VT-x hypervisors written in C, featuring EPT memory cloaking, CPUID/MSR spoofing, and full VMX control flow. Designed for low-level security research, rootkit detection, and cheat prevention. Open source and ready for extension.",
+        "vote": 0
+    }
+]

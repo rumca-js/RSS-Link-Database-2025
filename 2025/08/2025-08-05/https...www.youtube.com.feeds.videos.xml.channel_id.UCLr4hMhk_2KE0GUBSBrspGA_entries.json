@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T16:54:11.813523+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T15:30:03+00:00",
+        "description": "Dzi\u015b w Zno\u015bnym Ekspresso o tym, czy traktowanie AI jako powiernika jest bezpieczne. Czy to, \u017ce jeste\u015bmy nieco zbyt otwarci w stosunku do chataGPT mo\u017ce by\u0107 kiedy\u015b wykorzystane przeciwko nam? \nLink do Loodio, o kt\u00f3rym wspominam: https://loodio.com\nWci\u0105\u017c pijesz kaw\u0119 z marketu? Mo\u017ce warto to zmieni\u0107: https://znosne.pl\n\nW odcinku:\n00:00 Dlaczego ludzie nie chc\u0105 s\u0142ucha\u0107 o AI?\n00:26 Loodio \u2013 urz\u0105dzenie, kt\u00f3re zapewni prywatno\u015b\u0107 w \u0142azience\n01:35 W kolejnym Zno\u015bnym Ekspresso\u2026\n02:01 Dzi\u015b w odcinku...\n02:19 Psychoterapeuta GPT nie zachowa tajemnicy zawodowej\n04:01 AI a bezpiecze\u0144stwo danych obywateli\n05:05 Rozwi\u0105zanie, czyli ka\u017cdy kij ma dwa ko\u0144ce\n06:41 AI a masowa obfito\u015b\u0107 wed\u0142ug Demisa Hassabisa\n07:23 Rozwaga i ograniczone zaufanie",
+        "id": 3258405,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=naEEuUJzDAI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/naEEuUJzDAI/hqdefault.jpg",
+        "title": "Nie m\u00f3w AI tego, czego nie powiedzia\u0142by\u015b cz\u0142owiekowi | Zno\u015bne Ekspresso",
+        "vote": 0
+    }
+]

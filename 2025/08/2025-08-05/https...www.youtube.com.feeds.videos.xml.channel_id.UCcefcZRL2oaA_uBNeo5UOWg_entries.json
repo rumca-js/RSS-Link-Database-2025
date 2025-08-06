@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-05T21:04:41.454629+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-05T20:34:43+00:00",
+        "description": "Some of the most enduring companies, like OpenAI and SpaceX, started not with a business plan, but with a hunch and genuine curiosity. Sometimes, that\u2019s all it takes to attract the smartest people and build something lasting.",
+        "id": 3260455,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/CfIqzEAhIew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CfIqzEAhIew/hqdefault.jpg",
+        "title": "Where Curiosity Meets Talent",
+        "vote": 0
+    }
+]
