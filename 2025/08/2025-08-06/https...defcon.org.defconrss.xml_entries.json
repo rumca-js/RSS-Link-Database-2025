@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T18:02:30.919431+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T09:30:04+00:00",
+        "description": "<p><img src=\"https://defcon.org/images/defcon-33/post-images/sahara-pool.webp\" alt=\"Sahara Pool\"/> </p>\n\n    <p>Greetings, luminous humans of DEF CON! Welcome to the week of DEF CON 33!<br><br>\n    Make sure to join us Thursday from 7:30 to 10:30 at the Sahara Pool for the KEVOPS Sellout Pool Party! Refreshing pool, delicious tacos, and DEF CON DJ\u2019s on the ones and twos. DEF CON badge required for entry.<br><br>\n    See you there!</p>",
+        "id": 3267964,
+        "language": "en",
+        "link": "https://defcon.org/html/defcon-33/dc-33-news.html#poolparty",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://defcon.org/images/defcon-33/post-images/sahara-pool.webp",
+        "title": "Pool Party Thursday at Sahara!",
+        "vote": 0
+    }
+]

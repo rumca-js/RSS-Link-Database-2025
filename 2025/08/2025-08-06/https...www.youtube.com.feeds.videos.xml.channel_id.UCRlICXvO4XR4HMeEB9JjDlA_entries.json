@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T20:56:45.100936+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T20:00:05+00:00",
+        "description": "What would happen in the immediate hours and minutes after a nuclear attack? Using the United Kingdom as an example, as there\u2019s the most information publicly available about their planned response. The government and senior military would, of course, already be hiding in a not-so-secret bunker. This is a \u201ccrisis management centre\u201d underneath Whitehall in London, codenamed Pindar. It can house hundreds and contains a network of tunnels which can be used to access Whitehall, Downing Street, the BT Tower and Buckingham Palace. From inside the PM would be able to contact the Trident nuclear submarine control centre to authorise counter attacks and will listen to BBC Radio 4\u2019s Today Programme to know when (or if!) it\u2019s safe to leave.",
+        "id": 3269364,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/86T2JuFadUs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/86T2JuFadUs/hqdefault.jpg",
+        "title": "Thinking About WW3? Here\u2019s What You Need to Know About a Nuclear Attack.",
+        "vote": 0
+    }
+]

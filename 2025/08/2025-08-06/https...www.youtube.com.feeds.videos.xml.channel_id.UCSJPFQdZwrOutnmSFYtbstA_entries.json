@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T18:09:49.826236+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T17:00:29+00:00",
+        "description": "With Fantastic Four flopping at the box office and even James Gunn's Superman by James Gunn struggling to break even, what does the future hold for superhero movies? Is the age of the comic book adaptation at an end?",
+        "id": 3267984,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=APBsDqjlRE0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/APBsDqjlRE0/hqdefault.jpg",
+        "title": "So... What Now, Marvel?",
+        "vote": 0
+    }
+]

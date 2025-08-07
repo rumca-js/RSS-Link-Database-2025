@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ann Powers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T10:53:02.705921+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T05:00:00+00:00",
+        "description": "Charming critics and audiences with <em>New Threats From The Soul,</em> his funny, loose, reference-packed album, the veteran Louisville musician is having an unlikely breakthrough at 40 years old.",
+        "id": 3264386,
+        "language": "en",
+        "link": "https://www.npr.org/2025/08/06/nx-s1-5493153/ryan-davis-new-threats-from-the-soul",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2560x1707+0+0/resize/2560x1707!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F7f%2F688d0b454e51b8969d11500d1776%2Fryandavis-photocredit-justinmurphy.jpg",
+        "title": "Indie rock fans, it's time to get on the Ryan Davis bandwagon",
+        "vote": 0
+    }
+]

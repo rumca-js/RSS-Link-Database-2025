@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T15:52:48.247022+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T14:01:04+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nC++ Coroutines - Gods from the Machine - Phil Nash - ACCU 2025\n---\n\nCoroutines seem to work like magic - with the compiler generating a lot of machinery for you. Yet, at the same time, writing them from scratch remains complex with lots of moving parts! Trying to keep them all in your head while learning it is what makes coroutines so hard to master.\n\nBut the dance between all those parts and what the compiler does for you is so tight that you can literally let your compiler be your guide. I'll show how, from a standing start, you can get from no code to a working, useful, coroutine while only needing to know a handful of extra pieces of information.\n\nIn ancient Greek theatre puzzling plots were often resolved by external factors - often an actor or prop lowered in from a crane (in Greek, \"m\u0113khan\u00eas\", or Latin: \"mechine\"). This came to be called, \"deus ex machina\" - gods from the machine. We will keep our deus ex machina to a minimum a",
+        "id": 3266674,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b6pYieNd_OY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b6pYieNd_OY/hqdefault.jpg",
+        "title": "C++ Coroutines - Gods from the Machine - Phil Nash - ACCU 2025",
+        "vote": 0
+    }
+]

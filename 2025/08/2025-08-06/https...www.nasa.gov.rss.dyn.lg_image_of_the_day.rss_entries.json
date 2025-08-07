@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T17:40:33.868098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T16:16:00+00:00",
+        "description": "This view of tracks trailing NASA's Curiosity rover was captured July 26, 2025, as the rover simultaneously relayed data to a Mars orbiter.",
+        "id": 3267859,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/1-pia26632-curiositys-views-its-power-source-while-talking-to-an-orbiter-da5a52",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Curiosity Looks Back Toward Its Landing Site",
+        "vote": 0
+    }
+]

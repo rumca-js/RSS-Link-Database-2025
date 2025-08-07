@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T03:48:27.858866+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T03:43:31+00:00",
+        "description": "First seen earlier this year, Adafruit has officially launched the Fruit Jam, a compact RP2350B-powered development board. The product mentions that it matches the dimensions of a standard credit card, 3.375 by 2.125 inches (ISO/IEC 7810 ID-1), while providing the functionality of a miniature standalone computer. This device&#160; is powered by the RP2350B, a dual-core [&#8230;]",
+        "id": 3262318,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/fruit-jam-mini-computer-features-rp2350b-esp32-c6-wifi-and-dvi-video",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fruit Jam Mini Computer Features RP2350B, ESP32-C6 WiFi, and DVI Video",
+        "vote": 0
+    }
+]

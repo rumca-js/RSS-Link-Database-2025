@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T08:20:14.443697+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T07:47:33+00:00",
+        "description": "<p>OpenAI poinformowa\u0142o, \u017ce usun\u0119\u0142o funkcj\u0119 z ChataGPT, kt\u00f3ra umo\u017cliwia\u0142a u\u017cytkownikom zezwolenie na indeksowanie ich publicznych rozm\u00f3w w wyszukiwarkach. Firma twierdzi, \u017ce by\u0142 to kr\u00f3tkotrwa\u0142y &#8222;eksperyment\u2019&#8221; i wycofali si\u0119 z niego po zauwa\u017ceniu przypadk\u00f3w niezamierzonego dzielenia si\u0119, czasem mocno prywatn\u0105, korespondencj\u0105. Firma poinformowa\u0142a r\u00f3wnie\u017c, \u017ce pracuj\u0105 nad usuni\u0119ciem rozm\u00f3w zaindeksowanych do...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/wyszukiwarki-indeksowaly-prywatne-rozmowy-uzytkownikow-chatagpt/\">Wyszukiwarki indeksowa\u0142y prywatne rozmowy u\u017cytkownik\u00f3w ChataGPT</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3263505,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/wyszukiwarki-indeksowaly-prywatne-rozmowy-uzytkownikow-chatagpt",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wyszukiwarki indeksowa\u0142y prywatne rozmowy u\u017cytkownik\u00f3w ChataGPT",
+        "vote": 0
+    }
+]

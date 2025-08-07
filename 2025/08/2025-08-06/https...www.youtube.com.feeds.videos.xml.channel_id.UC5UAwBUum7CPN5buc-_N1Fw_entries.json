@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T10:32:50.672737+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T08:18:59+00:00",
+        "description": "Grab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:41 KDE Linux\n01:51 Why bother?\n05:09 Reference implementation\n08:54 Hardware partners\n11:24 No favorites\n15:20 KDE Linux Specifically\n\n\n#linux #linuxdesktop #linuxdistro",
+        "id": 3263703,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=uURN9o5yrp4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uURN9o5yrp4/hqdefault.jpg",
+        "title": "KDE Linux, GNOME OS: ALL desktops should have their distro!",
+        "vote": 0
+    }
+]

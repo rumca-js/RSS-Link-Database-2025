@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christopher Biewer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T13:50:00.655217+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T12:54:49+00:00",
+        "description": "<img width=\"640\" height=\"888\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-738x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"The Gang\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-738x1024.jpg 738w, https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-216x300.jpg 216w, https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-108x150.jpg 108w, https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-768x1065.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-1107x1536.jpg 1107w, https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-640x888.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-1280x1775.jpg 1280w, https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang.jpg 1442w\" sizes=",
+        "id": 3265550,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/the-gang-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/07/The-Gang-738x1024.jpg",
+        "title": "The Gang Review",
+        "vote": 0
+    }
+]

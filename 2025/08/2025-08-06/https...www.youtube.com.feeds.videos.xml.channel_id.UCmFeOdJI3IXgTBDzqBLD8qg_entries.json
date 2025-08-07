@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Moon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T22:23:20.489487+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T22:12:50+00:00",
+        "description": "Go to https://ground.news/moon to see through media bias and become a smarter news consumer. Subscribe through my link for 40% off unlimited access this month.",
+        "id": 3269765,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=J0-UXva0TcE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 216,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J0-UXva0TcE/hqdefault.jpg",
+        "title": "Streaming Is Dead, Piracy Is Back.",
+        "vote": 0
+    }
+]

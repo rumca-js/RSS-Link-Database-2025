@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ColdFusion",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-06T19:16:39.478669+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-06T19:09:00+00:00",
+        "description": "Go to https://ground.news/coldfusion to compare news coverage, spot media bias, and avoid algorithms. Try Ground News today and get 40% off your subscription.\n\nThe demographic decline in Japan is no secret but the trend of not having kids is spreading across the globe. In this episode we explore the reasons for why this is happening, the consequences and possible solutions.\n\nColdFusion Music: \nhttps://www.youtube.com/@coldfusionmusic\nhttp://burnwater.bandcamp.com \n\nWatch or listen to ColdFusion on Spotify: https://open.spotify.com/show/1YEwCKoRz8fEDqheXB6UJ1  \n\nSources: \nhttps://docs.google.com/document/d/1-dfnyI0BQsgSit04y9IYO2oNB-wiTWipugaJKcK--cQ/edit?usp=drivesdk\n\nGet my book: \nhttp://bit.ly/NewThinkingbook \n\nColdFusion Socials: \nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nCreated by: Dagogo Altraide\nProducers: Tawsif Akkas, Dagogo Altraide",
+        "id": 3268510,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=QYA9i0KC0tE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 76,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QYA9i0KC0tE/hqdefault.jpg",
+        "title": "Japan is (Literally) Dying Out",
+        "vote": 0
+    }
+]
