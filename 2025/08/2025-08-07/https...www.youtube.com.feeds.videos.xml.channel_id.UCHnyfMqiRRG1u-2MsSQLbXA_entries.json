@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T16:22:52.826795+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T15:02:44+00:00",
+        "description": "Sponsored by CodeRabbit\nCut code review time and bugs in half. Try CodeRabbit at https://coderabbit.link/veritasium\n\nFor decades, a high-energy rechargeable battery seemed impossible - until we managed to tame one of the most volatile metals. \n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n\u2580\u2580\u2580\n0:00 What\u2019s inside a battery?\n4:11 How does a battery work?\n7:15 How did we increase battery power?\n11:13 The first rechargeable lithium battery\n13:29 The Tiny Needles That Kill Batteries\n16:06 Goodenough? We can do better\n20:07 The birth of the lithium-ion battery\n27:10 Why do batteries explode?\n29:31 Blowing up a battery\n\n\u2580\u2580\u2580\nA massive thank you to Dr Billy Wu, Dr Sam Cooper, Dr Derek Sui, Professor Magda Titirici, Dr Jingyu Feng, Dr Monica Marinescu, Li Ren Thow, Genlin Liu and Sam Riley; and to Professor Guillermo Rein, Dr Harry Mitchell, Hanna Berry, and Dr Nick Kalogeropoulos at Imperial",
+        "id": 3276128,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AGglJehON5g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AGglJehON5g/hqdefault.jpg",
+        "title": "This Battery Was Almost Too Dangerous to Exist",
+        "vote": 0
+    }
+]

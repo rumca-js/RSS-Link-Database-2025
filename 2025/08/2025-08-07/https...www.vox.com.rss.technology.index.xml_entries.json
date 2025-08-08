@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Clark Estes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T11:06:49.719276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T06:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"The MW75 Neuro headphones are primarily used to sharpen your attention \u2014 with the new and added benefit of giving you a snapshot of your brain health.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/08/Vox_Neurable_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tThe MW75 Neuro headphones are primarily used to sharpen your attention \u2014 with the new and added benefit of giving you a snapshot of your brain health.\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">For the past few months, when I really needed to get something done, I put on a special pair of headphones that could read my mind. Well, kind of. The headphones are equipped with a brain-computer interface that picks up electrical signals from my brain and uses algorithms to interpret that data. When my focus starts to slip, the headphones know it, and an app tells me to take a break.</p>\n\n<p ",
+        "id": 3273429,
+        "language": "",
+        "link": "https://www.vox.com/science/422610/oura-ring-neurable-apple-airpods-brain-health",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/Vox_Neurable_2.png?quality=90&strip=all&crop=0,0,100,100",
+        "title": "What if your earbuds could read your mind?",
+        "vote": 0
+    }
+]

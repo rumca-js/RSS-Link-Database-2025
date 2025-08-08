@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julie Nolke",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T13:19:23.558417+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T13:00:20+00:00",
+        "description": "If you don\u2019t think your kid\u2019s a jerk, you\u2019re probably a jerk too. Want to be your best self? My paid partner BetterHelp makes therapy simple, with 10% off your first month to help you get started: https://betterhelp.com/Nolke\n\nP.S. Sign up to my Patreon for behind the scenes bloopers and early access to videos here: https://www.patreon.com/julienolke\n\nActors: Julie Nolke & Morgan Kohan https://www.imdb.com/name/nm6974139/ IG: @morgankohan\nWriter: Julie Nolke \nCamera: Sam Larson\nEditor: Alec McKay",
+        "id": 3274400,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Fa7RxeYNUTw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 170,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fa7RxeYNUTw/hqdefault.jpg",
+        "title": "Your kid is a bit of a dick",
+        "vote": 0
+    }
+]

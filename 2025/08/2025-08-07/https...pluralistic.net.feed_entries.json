@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T16:20:25.401147+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T15:31:13+00:00",
+        "description": "Today's links Good ideas are popular: But they're impolitic. Hey look at this: Delights to delectate. Object permanence: Slinky treadmill; Ovipositors; Peter Thiel was right. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Good ideas are popular (permalink) In democracies, we're told, politicians exist to reflect and enact the popular will; but the truth is, politicians' primary occupation is thwarting the will of the people, in preference to the will of a small group of wealthy, powerful people. That's an empirical finding, based on a study of 1,779 policy outcomes, which concluded that: economic elites and organized groups representing business interests have substantial independent impacts on U.S. government policy, while average citizens and mass-based interest groups have little or no independent influence. https://www.",
+        "id": 3276121,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/08/07/the-people-no-2",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/07Aug2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: Good ideas are popular (07 Aug 2025)",
+        "vote": 0
+    }
+]

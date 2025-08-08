@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T15:21:36.910924+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T15:18:27+00:00",
+        "description": "<p>A powerhouse team has launched a new initiative called \u2018Doing AI Differently,\u2019 which calls for a human-centred approach to future development. For years, we\u2019ve treated AI\u2019s outputs like they\u2019re the results of a giant math problem. But the researchers \u2013 from The Alan Turing Institute, the University of Edinburgh, AHRC-UKRI, and the Lloyd\u2019s Register Foundation [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/alan-turing-institute-humanities-are-key-future-of-ai/\">Alan Turing Institute: Humanities are key to the future of AI</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3275513,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/alan-turing-institute-humanities-are-key-future-of-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "Alan Turing Institute: Humanities are key to the future of AI",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T14:49:50.917376+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T14:14:44+00:00",
+        "description": "This course is an introduction to time series forecasting with Python. It's a perfect starting point for beginners looking to forecast time series data. You will learn the fundamental concepts of time series forecasting.\n\n\u270f\ufe0f Course developed by @datasciencewithmarco \n\nSolutions notebook: https://github.com/marcopeix/youtube_tutorials/blob/main/YT_03_forecasting_stats.ipynb\nDataset: https://github.com/marcopeix/youtube_tutorials/tree/main/data\n\nLearn even more with this paid course: Applied Time Series Forecasting in Python\nhttps://www.datasciencewithmarco.com/offers/zTAs2hi6/checkout?coupon_code=ATSFP60\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Introduction\n\u2328\ufe0f (0:02:12) Define time series\n\u2328\ufe0f (0:06:30) Baseline models\n\u2328\ufe0f (0:10:02) Baseline models (code)\n\u2328\ufe0f (0:24:14) ARIMA\n\u2328\ufe0f (0:31:53) ARIMA (code)\n\u2328\ufe0f (0:39:13) Cross-validation\n\u2328\ufe0f (0:41:30) Cro",
+        "id": 3275038,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fxx_E0ojKrc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fxx_E0ojKrc/hqdefault.jpg",
+        "title": "Time Series Forecasting in Python \u2013 Tutorial for Beginners",
+        "vote": 0
+    }
+]

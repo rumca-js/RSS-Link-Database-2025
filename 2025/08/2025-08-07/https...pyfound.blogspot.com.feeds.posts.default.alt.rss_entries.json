@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T13:42:45.573302+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T12:45:00+00:00",
+        "description": "<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhskC2RgAuOT2yp-WV8VejTZSCZT00DOXxnQcqCuDemzgeNo-drh2E2O5EC0yAaz5ATAX84nkC1eUw1ULw2TAqAJ6oS6S4aRvwVB3v0D733VFVfHrCaIYz9-QcQ7s74kL9-Bhjps4LCz2GMbnGf4j2Oe5vWNrc0NFOEQnxiw-Gh5vB5HWtrPQ/s2000/Python-White-Paper-for-AO.png\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"2000\" data-original-width=\"1545\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhskC2RgAuOT2yp-WV8VejTZSCZT00DOXxnQcqCuDemzgeNo-drh2E2O5EC0yAaz5ATAX84nkC1eUw1ULw2TAqAJ6oS6S4aRvwVB3v0D733VFVfHrCaIYz9-QcQ7s74kL9-Bhjps4LCz2GMbnGf4j2Oe5vWNrc0NFOEQnxiw-Gh5vB5HWtrPQ/s320/Python-White-Paper-for-AO.png\" width=\"247\" /></a></div><p>The Python Software Foundation Security Developer-in-Residence, Seth Larson,&nbsp;<a href=\"https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata",
+        "id": 3274418,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/08/unmasking-phantom-dependencies-with.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhskC2RgAuOT2yp-WV8VejTZSCZT00DOXxnQcqCuDemzgeNo-drh2E2O5EC0yAaz5ATAX84nkC1eUw1ULw2TAqAJ6oS6S4aRvwVB3v0D733VFVfHrCaIYz9-QcQ7s74kL9-Bhjps4LCz2GMbnGf4j2Oe5vWNrc0NFOEQnxiw-Gh5vB5HWtrPQ/s320/Python-White-Paper-for-AO.png",
+        "title": "Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem Neutral Metadata",
+        "vote": 0
+    }
+]

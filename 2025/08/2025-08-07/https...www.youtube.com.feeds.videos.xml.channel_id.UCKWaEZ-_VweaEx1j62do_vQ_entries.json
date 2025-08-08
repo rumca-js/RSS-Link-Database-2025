@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T13:52:43.577228+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T11:00:40+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdej4u\n\nLearn more about the 2025 Guide to AI Agents here \u2192 https://ibm.biz/Bdej4L\n\nCan AI agents redefine storytelling? \ud83e\udd16 Martin Keen explores how multi-agent pipelines address LLM shortfalls like context window overflow and style drift, enabling rich, coherent narratives. Discover how tools like memory tiers and critic agents are shaping the future of narrative design and AI innovation. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdej49\n\n#ai #aiagents #storytelling #narrativedesign",
+        "id": 3274540,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NhMTWDjsLVI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NhMTWDjsLVI/hqdefault.jpg",
+        "title": "AI Agents: Shaping the Future of Storytelling & Narrative Design",
+        "vote": 0
+    }
+]

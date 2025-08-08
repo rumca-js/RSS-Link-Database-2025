@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-07T16:31:53.927507+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-07T16:10:58+00:00",
+        "description": "The US Army announced it will invest $36 billion over the next five years to modernize its force, with a heavy emphasis on drone technology.\n\nGraham Flanagan, Business Insider's chief video correspondent, went inside a combat training exercise with the Army's 2nd Cavalry Regiment in southern Germany, where soldiers are learning to assemble, operate, and fly drones used for both reconnaissance and attack capabilities.\n\nThe 2CR drone pilots train at the Drone Innovation Cell in Vilseck, Germany before heading to a training area in the Bavarian countryside to deploy the technology in a training event known as STX Lanes, which stands for \"situational training exercise.\"\n\nMORE BUSINESS INSIDER VIDEOS:\nHow Air Force Drone Pilots \"Fly\" The $32 Million MQ-9 Reaper Drone | Boot Camp | Business Insider\nhttps://www.youtube.com/watch?v=7kQAnhET0ec\nThe True Cost Of Killer Drones | True Cost | Business Insider\nhttps://www.youtube.com/watch?v=8MapFmEnDa4\nWhat New Air Force Pilots Go Through In Fligh",
+        "id": 3276147,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=mh9RtpZPpVo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mh9RtpZPpVo/hqdefault.jpg",
+        "title": "How The US Army Trains Gaming Nerds To Be Drone Pilots In Germany | Boot Camp | Business Insider",
+        "vote": 0
+    }
+]
