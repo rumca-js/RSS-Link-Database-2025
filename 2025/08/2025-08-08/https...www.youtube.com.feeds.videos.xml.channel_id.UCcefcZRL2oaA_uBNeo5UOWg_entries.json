@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T14:12:56.686510+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T14:00:01+00:00",
+        "description": "Dylan Field on June 17th, 2025 at AI Startup School in San Francisco.\n\nDylan Field co-founded Figma to bring the design process online and make it multiplayer. From a meme maker built on WebGL to a design platform powering millions, Figma\u2019s journey hit a major milestone with its IPO last week.\n\nIn this conversation, Dylan shares the early challenges of building in the browser, the early risks and pivotal choices that shaped Figma\u2019s growth, the principles that guided its product and community, and how he thinks about building tools that empower creativity at scale.\n\nChapters:\n01:38 \u2013 How Dylan and Evan Started Figma\n02:58 \u2013 WebGL: From Games to Tools\n04:10 \u2013 Buying Time to Build\n05:48 \u2013 Staying Motivated Through Early Exploration\n06:10 \u2013 Cold Emails, Early Feedback & First Users\n08:24 \u2013 Launch Timing and Lessons on Shipping Early\n10:08 \u2013 Culture of Constraints & Creative Problem-Solving\n10:50 \u2013 Recognizing Product-Market Pull\n13:32 \u2013 Why Design is the Differentiator in the AI Era\n16:34",
+        "id": 3283479,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-7Qz7tSTfUU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-7Qz7tSTfUU/hqdefault.jpg",
+        "title": "Figma CEO Dylan Field: How AI Will Transform Design",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Molly Buckley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T22:43:29.118844+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T22:08:04+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>Age verification has officially arrived in the UK thanks to the </span><a href=\"https://www.eff.org/deeplinks/2025/08/no-uks-online-safety-act-doesnt-make-children-safer-online\"><span>Online Safety Act (OSA)</span></a><span>, a UK law requiring online platforms to check that all UK-based users are at least eighteen years old before allowing them to access broad categories of \u201c</span><a href=\"https://www.eff.org/deeplinks/2025/08/blocking-access-harmful-content-will-not-protect-children-online-no-matter-how\"><span>harmful</span></a><span>\u201d content that go far beyond graphic sexual content. EFF has extensively criticized the OSA for </span><a href=\"https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption\"><span>eroding privacy</span></a><span>, </span><a href=\"https://www.eff.org/deeplinks/2023/09/uk",
+        "id": 3287295,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/08/americans-be-warned-lessons-reddits-chaotic-uk-age-verification-rollout",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2025/08/08/persona_reddit_av_image.jpg",
+        "title": "Americans, Be Warned: Lessons From Reddit\u2019s Chaotic UK Age Verification Rollout",
+        "vote": 0
+    }
+]

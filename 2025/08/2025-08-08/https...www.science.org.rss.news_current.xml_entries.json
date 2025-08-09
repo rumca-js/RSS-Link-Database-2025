@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeffrey Mervis",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T21:03:35.466870+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T04:10:00+00:00",
+        "description": "Researchers worried by plan giving political appointees more control over where funding goes",
+        "id": 3286598,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/trump-order-aims-politicize-decisions-federal-science-grants",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump order aims to politicize decisions on federal science grants",
+        "vote": 0
+    }
+]

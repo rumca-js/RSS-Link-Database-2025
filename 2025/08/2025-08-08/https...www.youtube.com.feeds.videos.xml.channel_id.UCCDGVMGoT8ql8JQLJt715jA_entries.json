@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T16:18:15.970952+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T15:46:02+00:00",
+        "description": "Fumes zadebiutowa\u0142o w Early Accessie i c\u00f3\u017c, nie mog\u0119 doczeka\u0107 si\u0119 dalszego rozwoju gry przez Fumes Team. Gameplay jest tu po prostu \u015bwietny.\n\nChcesz wesprze\u0107 moj\u0105 gadanin\u0119? Postaw mi kaw\u0119: https://buycoffe.to/emzdanowicz\n\nSprawd\u017a te\u017c moje wra\u017cenia z Titan Quest 2: https://www.youtube.com/watch?v=QTZ9Zl2yV6g\n\n#opinia",
+        "id": 3284602,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=jzvThRLar7s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jzvThRLar7s/hqdefault.jpg",
+        "title": "FUMES, czyli pere\u0142ka z Polski. Retro Mad Max",
+        "vote": 0
+    }
+]

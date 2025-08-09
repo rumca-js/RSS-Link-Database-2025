@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T05:02:51.245848+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T04:20:18+00:00",
+        "description": "<p>StarCraft: Brood War i jego nast\u0119pca StarCraft 2 to ikony gatunku RTS (strategii czasu rzeczywistego) oraz jedne z najwa\u017cniejszych gier komputerowych w historii, kt\u00f3re od dekad ciesz\u0105 si\u0119 aktywn\u0105 spo\u0142eczno\u015bci\u0105 i profesjonaln\u0105 scen\u0105 e-sportow\u0105. Jednak StarCraft 2 stoi obecnie przed powa\u017cnymi problemami, kt\u00f3re zagra\u017caj\u0105 jego dalszemu rozwojowi i funkcjonowaniu gry....</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/w-jaki-sposob-exploit-typu-content-injection-moze-zniszczyc-spolecznosc-kultowej-gry-rts/\">W jaki spos\u00f3b exploit typu Content Injection mo\u017ce zniszczy\u0107 spo\u0142eczno\u015b\u0107 kultowej gry RTS?</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3280364,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/w-jaki-sposob-exploit-typu-content-injection-moze-zniszczyc-spolecznosc-kultowej-gry-rts",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W jaki spos\u00f3b exploit typu Content Injection mo\u017ce zniszczy\u0107 spo\u0142eczno\u015b\u0107 kultowej gry RTS?",
+        "vote": 0
+    }
+]

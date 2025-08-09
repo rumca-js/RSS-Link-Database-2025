@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T14:09:24.862723+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T13:00:29+00:00",
+        "description": "Download the FREE Upside App at https://upside.app.link/GOODWORK to get an extra 25 cents back for every gallon on your first tank of gas.\n\nLots of people are using AI chatbots for therapy or therapy-like purposes. Investigator Dan Toomey boldly asks the question: should lots of people be using AI chatbots for therapy or therapy-like purposes?\n\nFEATURING INTERVIEWS WITH THE FOLLOWING EXPERTS:\n\nDr. Nina Vasan (Stanford professor, practicing psychiatrist, and leading researcher in digital wellbeing and AI safety)\nhttps://x.com/NinaVasan\n\nStephen Schueller, PhD (Professor of Psychological Science and Informatics at the University of California, Irvine)\nhttps://www.linkedin.com/in/stephen-schueller-96a207123/\n\nVaile Wright, PhD (Senior Director of the Office of Health Care Innovation in the Practice Directorate at the American Psychological Association)\nhttps://www.linkedin.com/in/c-vaile-wright-ph-d-599000b8\n\nDr. Andrew Clark (an experienced child, adolescent and adult psychiatrist with ",
+        "id": 3283455,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CO1HJBbNqeM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CO1HJBbNqeM/hqdefault.jpg",
+        "title": "Should you use ChatGPT for therapy?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T04:19:53.417455+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T04:19:52+00:00",
+        "description": "W odpowiedzi na rosn\u0105ce niezadowolenie konsument\u00f3w zwi\u0105zane z op\u00f3\u017anieniami w zwrotach koszt\u00f3w anulowanych lot\u00f3w, internetowe biura podr\u00f3\u017cy Expedia i Lastminute.com zadeklarowa\u0142y Komisji Europejskiej zwi\u0119kszenie ochrony klient\u00f3w. Zobowi\u0105za\u0142y si\u0119 mi\u0119dzy innymi do zwracania pieni\u0119dzy w 14 dni.",
+        "id": 3280224,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art42823691-internetowe-platformy-z-biletami-lotniczymi-obiecuja-poprawe-zwrot-pieniedzy-w-14-dni",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Internetowe platformy z biletami lotniczymi obiecuj\u0105 popraw\u0119 \u2013 zwrot pieni\u0119dzy w 14 dni",
+        "vote": 0
+    }
+]

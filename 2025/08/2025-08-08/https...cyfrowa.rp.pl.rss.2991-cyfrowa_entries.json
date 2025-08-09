@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T11:18:26.161186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T11:18:25+00:00",
+        "description": "Polska robi kolejny krok w kosmosie \u2013 po locie S\u0142awosza Uzna\u0144skiego-Wi\u015bniewskiego teraz przysz\u0142a pora na wystrzelenie w\u0142asnego satelity badawczego. Za projektem stoi Sie\u0107 Badawcza \u0141ukasiewicz.",
+        "id": 3282065,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art42828681-lot-polaka-w-kosmos-to-poczatek-teraz-poleci-tam-laboratorium",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Lot Polaka w kosmos to pocz\u0105tek. Teraz poleci tam laboratorium",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T02:33:28.246727+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T01:38:22+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Increasing the VRAM allocation on AMD AI APUs under Linux</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Since I saw some posts calling out the old (now deprecated) way to increase GTT memory allocations for the iGPU on AMD APUs (like the AI Max+ 395 / Strix Halo I am <a href=\"https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms\">testing in the Framework Mainboard AI Cluster</a>), I thought I'd document how to increase the VRAM allocation on such boards under Linux\u2014in this case, Fedora:</p>\n\n<pre><code># To remove an arg: `--remove-args`\n# Calculation: `([size in GB] * 1024 * 1024) / 4.096`\nsudo grubby --update-kernel=ALL --args='amdttm.pages_limit=27648000'\nsudo grubby --update-kernel=ALL --args='amdttm.page_pool_size=27648000'\nsudo reboot\n</code></pre>\n\n<p>The old way, <co",
+        "id": 3279797,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/increasing-vram-allocation-on-amd-ai-apus-under-linux",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Increasing the VRAM allocation on AMD AI APUs under Linux",
+        "vote": 0
+    }
+]

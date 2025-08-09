@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T16:13:17.571061+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T13:01:48+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/rF3ymTBeZ_k\" width=\"480\" alt=\"thumbnail\" title=\"'which' - prints the path of executables - Video Man Pages\" /></p>'which' prints the full path of executable commands.  In other words, it can tell you the location of a program's executable binary.<br /><br />- Search $PATH and print the location of any matching executables:<br />  which program-name<br /><br />- If multiple matching executables, print all:<br />  which -a program-name<br /><br />- Read  aliases  from  stdin, reporting matching ones on stdout.<br />  alias | which -i some-alias<br /><br />- Skip directories in $PATH that begin with a dot (hidden directories):<br />  which --skip-dot program-name<br /><br />- Skip directories in $PATH that begin with a tilde (such as ~/home/user):<br />  which --skip-dot program-name<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redi",
+        "id": 3284590,
+        "language": "en",
+        "link": "https://odysee.com/%27which%27-prints-the-path-of-executables:6e0fdd4a765265e30b4eca87eceba324e3ca2e3e",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/rF3ymTBeZ_k",
+        "title": "'which' - prints the path of executables - Video Man Pages",
+        "vote": 0
+    }
+]

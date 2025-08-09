@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Charlie Wood",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T15:03:25.852053+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T14:20:28+00:00",
+        "description": "Hundreds of physicists (and a few journalists) journeyed to Helgoland, the birthplace of quantum mechanics, and grappled with what they have and haven\u2019t learned about reality.            <p>The post <a href=\"https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/\" target=\"_blank\">\u2018It\u2019s a Mess\u2019: A Brain-Bending Trip to Quantum Theory\u2019s 100th Birthday Party</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3284003,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2050/07/100-Years-of-Quantum-Mechanics-cr-Senor-Salme-Default.webp",
+        "title": "\u2018It\u2019s a Mess\u2019: A Brain-Bending Trip to Quantum Theory\u2019s 100th Birthday Party",
+        "vote": 0
+    }
+]

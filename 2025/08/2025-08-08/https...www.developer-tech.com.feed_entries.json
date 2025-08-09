@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T12:30:09.742264+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T12:20:14+00:00",
+        "description": "<p>Security researchers from Socket have found that a group of attackers has been exploiting the RubyGems code repository for over two years, turning seemingly helpful tools into password-stealing malware. We build amazing things using shared, open-source code, trusting that the building blocks we use are safe. But the discovery by Socket is a reminder of [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/rubygems-malware-campaign-steals-passwords/\">RubyGems malware campaign steals passwords</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3282553,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/rubygems-malware-campaign-steals-passwords",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RubyGems malware campaign steals passwords",
+        "vote": 0
+    }
+]

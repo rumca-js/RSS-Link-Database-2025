@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Guttag",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T04:48:19.553633+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T04:41:09+00:00",
+        "description": "Snap has been making the rounds in 2025 in preparation for the launch of its consumer AR glasses in 2026. Snap introduced the Snap Spectacles 5 developer kit model in October 2024. This article discusses information I have gathered Snap Spectacles over the last year.",
+        "id": 3280268,
+        "language": "en-US",
+        "link": "https://kguttag.com/2025/08/07/snap-spectacles-at-ces-ar-vr-mr-awe-2025-conumer-product-in-2026",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 487,
+        "source_url": "https://www.kguttag.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/kguttag.com/wp-content/uploads/2025/08/2025-06-12-AWE-Snap-Spectacles-Tour-copy.jpg?resize=1024%2C953&ssl=1",
+        "title": "Snap Spectacles at CES, AR/VR/MR, & AWE 2025, Conumer Product in 2026",
+        "vote": 0
+    }
+]

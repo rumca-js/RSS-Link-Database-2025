@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dylan Matthews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-08T10:57:47.332099+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-08T06:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Mark Zuckerberg, in sunglasses and a suit, riding in a navy blue car.\" data-caption=\"The future is Zuck, and all of us, using AI on our sunglasses, apparently.\ufeff\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2209879706.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tThe future is Zuck, and all of us, using AI on our sunglasses, apparently.\ufeff\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Of all the many famous Steve Jobs stories that tech industry folks like to share, perhaps the single most famous is his 1983 pitch to then-Pepsi president John Sculley to join Apple: \u201cDo you want to spend the rest of your life selling sugared water or do you want a chance to change the world?\u201d</p>\n\n<p class=\"has-text-align-none\">Like many things Jobs said, the pitch was wildly arrogant, self-important and self-aggrandizing, but ultimately correct. What Sculley did a",
+        "id": 3282051,
+        "language": "",
+        "link": "https://www.vox.com/technology/438384/mark-zuckerberg-meta-ai-hiring-vision-personal-superintelligence",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2209879706.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Mark Zuckerberg&#8217;s unbelievably bleak AI vision",
+        "vote": 0
+    }
+]
