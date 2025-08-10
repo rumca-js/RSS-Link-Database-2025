@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T02:00:18.603405+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T01:16:37+00:00",
+        "description": "<p>A list of various related news items and clips from this, and recent, weeks:</p>\n\n<ol>\n<li><p>Apple Newsroom, on Wednesday\u2009\u2014\u2009\u201c<a href=\"https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/\">Apple Increases U.S. Commitment\nTo $600 Billion, Announces American Manufacturing Program</a>\u201d:</p>\n\n<blockquote>\n  <p>Apple today announced a new $100 billion commitment to America, a\nsignificant acceleration of its U.S. investment that now totals\n$600 billion over the next four years. Today\u2019s announcement\nincludes the ambitious new American Manufacturing Program (AMP),\ndedicated to bringing even more of Apple\u2019s supply chain and\nadvanced manufacturing to the U.S. Through AMP, Apple will\nincrease its investment across America and incentivize global\ncompanies to manufacture even more critical components in the\nUnited States.</p>\n</blockquote></li>\n<li><p>Separately, also from Apple Newsroom Wednesday\u2009\u2014\u2009\u201c<a href=\"https://www.apple.com/",
+        "id": 3288121,
+        "language": "",
+        "link": "https://daringfireball.net/2025/08/gold_frankincense_and_silicon",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Gold, Frankincense, and Silicon",
+        "vote": 0
+    }
+]

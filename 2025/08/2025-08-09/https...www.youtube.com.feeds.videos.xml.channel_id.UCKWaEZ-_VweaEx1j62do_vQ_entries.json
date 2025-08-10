@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T12:37:41.674060+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T11:50:53+00:00",
+        "description": "Ready to become a certified SOC Analyst - QRadar SIEM? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdeX5b\n\nLearn more about NIST Cybersecurity Framework here \u2192 https://ibm.biz/BdeX58\n\n\ud83c\udf0d AI is transforming industries, but with great power comes great risk. Jeff Crume breaks down the NIST AI Risk Management Framework, exploring how to build trustworthy AI through governance, accountability, and risk mitigation. Learn how to balance innovation with security and fairness! \u2699\ufe0f\ud83e\udd16\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/BdeX5V\n\n#ai #riskmanagement #trustworthyai",
+        "id": 3290330,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0oeD2Wf25wY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0oeD2Wf25wY/hqdefault.jpg",
+        "title": "Mastering AI Risk: NIST\u2019s Risk Management Framework Explained",
+        "vote": 0
+    }
+]

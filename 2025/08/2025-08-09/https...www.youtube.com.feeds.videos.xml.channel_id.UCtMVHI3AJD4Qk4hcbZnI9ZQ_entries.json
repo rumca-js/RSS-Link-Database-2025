@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SomeOrdinaryGamers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T20:53:13.226935+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T20:26:38+00:00",
+        "description": "Hello guys and gals, it's me Mutahar again! Companies get away with some of the wildest stuff in the industry and compared to how we used to use computers in that era of the early Internet when we actually really owned our software it needs to be addressed. Louis Rossmann made a good point and I wanted to look at it from my perspective as well as the laws that exist that prevent us from truly owning what we actually buy. Thanks for watching!\nLike, Comment and Subscribe for more videos!",
+        "id": 3292724,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cMzwJRs5z8o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 309,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cMzwJRs5z8o/hqdefault.jpg",
+        "title": "Let's Talk About The Clippy Situation...",
+        "vote": 0
+    }
+]

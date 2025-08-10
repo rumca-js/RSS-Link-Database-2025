@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T23:09:55.861778+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T22:45:01+00:00",
+        "description": "Buy one on Amazon: Buy one on Amazon: https://lon.tv/x13mk (compensated affiliate link) - The Asus Rog Strix G16 I looked at recently was very easy to upgrade, so I popped in a second NVME SSD and took Bazzite out for a spin. It installed easily but did not perform as well on Linux. See the laptop review: https://www.youtube.com/watch?v=j1-fj4eINC4 and more gaming: https://www.youtube.com/playlist?list=PLCZHp4d1HnIsqsyYumCe8N1h3KJFX6JvT and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:59 - Setting up the PC\n02:30 - Downloading Bazzite\n04:01 - Burning the Bazzite Image\n05:34 - Booting the installer\n06:39 - Install process\n08:10 - Secure Boot\n09:05 - Bazzite is installed!\n09:35 - Cyberpunk 2077 Performance\n10:44 - Other Compatibility Problems\n11:12 - Non-Steam Games : Epic\n12:15 - GOG Games\n12:46 - No Man's Sky\n13:23 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My ",
+        "id": 3293246,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ezeOxsD-fv8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ezeOxsD-fv8/hqdefault.jpg",
+        "title": "Linux Gaming Still Has a Way to Go.. Bazzite on a Laptop Review",
+        "vote": 0
+    }
+]

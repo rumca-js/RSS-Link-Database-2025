@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T17:15:05.117470+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T16:54:09+00:00",
+        "description": "<p>\n\t<img alt=\"Capture-decran-le-2025-06-21-a-21.55.10-825x510.png\" src=\"https://isocpp.org/files/img/Capture-decran-le-2025-06-21-a-21.55.10-825x510.png\" style=\"width: 200px; margin: 10px; float: right; height: 124px;\" />C++26 is bringing a long-awaited feature to the language: compile-time reflection, enabling programs to introspect and manipulate their own structure during compilation. This powerful capability opens the door to eliminating boilerplate, improving performance, and writing more expressive, reusable code with ease.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/\">Discover C++26&rsquo;s Compile-Time Reflection</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tHerb Sutter just announced that the verdict is in: C++26, the next version of C++, will include compile-time reflection.</p>\n\t<p>\n\t\tReflection in programming languages means that you hav",
+        "id": 3291767,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/08/discover-cpp26s-compile-time-reflection-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/Capture-decran-le-2025-06-21-a-21.55.10-825x510.png",
+        "title": "Discover C++26\u2019s Compile-Time Reflection -- Daniel Lemire",
+        "vote": 0
+    }
+]

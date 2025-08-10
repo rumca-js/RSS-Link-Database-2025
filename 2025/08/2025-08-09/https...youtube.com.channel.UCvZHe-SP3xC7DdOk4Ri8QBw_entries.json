@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bethesda Softworks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T01:47:37.227379+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T01:01:26+00:00",
+        "description": "Join id Software playing Hexen followed by DOOM Eternal PC Mods Update with giveaways live from QuakeCon!\n\nBluesky: https://bsky.app/profile/doom.com\nTwitter: https://x.com/DOOM/\nInstagram: https://www.instagram.com/doom/ \nThreads: https://www.threads.net/@doom\nFacebook: https://www.facebook.com/DOOM\nWebsite: https://doom.bethesda.net/\nSlayers Club: https://slayersclub.bethesda.net/\n\nESRB RATING: Mature for Blood and Gore and Intense Violence",
+        "id": 3288079,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Fe0-FN4bgNw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 688,
+        "source_url": "https://youtube.com/channel/UCvZHe-SP3xC7DdOk4Ri8QBw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fe0-FN4bgNw/hqdefault.jpg",
+        "title": "Slayers Club Live from QuakeCon | Hexen & DOOM Eternal PC Mods Showcase",
+        "vote": 0
+    }
+]

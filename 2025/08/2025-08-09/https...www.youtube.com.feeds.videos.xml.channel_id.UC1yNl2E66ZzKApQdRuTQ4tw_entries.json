@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T16:14:59.996835+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T15:01:10+00:00",
+        "description": "Brush up on your quantum physics with Brilliant! Start learning for free at https://brilliant.org/sabine/ and get 20% off a premium subscription, which includes daily unlimited access!\n\nThe discovery of quantum mechanics has fundamentally changed not just the field of physics but also our understanding of what reality is. Let\u2019s take a look at just what makes quantum physics so weird and why it is so hard to reconcile with our perception of physical reality.\n\n00:00-00:23 Intro\n00:24-03:10 Superpositions\n03:11-04:30 Definitely Maybe\n04:31-06:12 Schr\u00f6dinger\u2019s Cat\n06:13-08:23 Reality Doesn\u2019t Exist\n08:24-09:33 Reality is Unknowable\n09:34-10:40 Brilliant Special Offer\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly scien",
+        "id": 3291420,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ecTutLU2n48",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ecTutLU2n48/hqdefault.jpg",
+        "title": "How Quantum Physics Changes Our View Of Reality",
+        "vote": 0
+    }
+]

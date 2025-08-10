@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T23:27:51.960539+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T23:08:14+00:00",
+        "description": "In some states, autonomous farming equipment is put to work on farms, doing things like spreading fertilizer or getting rid of insects. But in California, these robots aren\u2019t allowed to operate on their own. State safety regulators say operators have to be at the controls, with few exceptions. But farmers say that hurts their business, and could impact food prices for the rest of the country. NBC Bay Area\u2019s Bigad Shaban has a closer look.",
+        "id": 3293432,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/farmers-want-california-to-change-its-autonomous-tractor-ban-244658757726",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754780889416_wnn_bsh_autonomous_tractor_250809_1920x1080-m9p885.jpg",
+        "title": "Farmers want California to change its autonomous tractor ban",
+        "vote": 0
+    }
+]

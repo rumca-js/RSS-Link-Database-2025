@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T05:09:32.488349+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T04:05:01+00:00",
+        "description": "This mini AI cluster has 512 GB of RAM and four Framework Desktop Mainboards!\n\nVideo with more details: https://www.youtube.com/watch?v=N5xhOqlvRh4\n\nBlog post with build details and test results: https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms\n\nThanks to Framework for sending over the nodes for testing, and DeskPi for sending the prototype mini rack trays!\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff",
+        "id": 3288646,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/0Uob1spTJgE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0Uob1spTJgE/hqdefault.jpg",
+        "title": "A private AI mini rack with four Framework Desktops",
+        "vote": 0
+    }
+]

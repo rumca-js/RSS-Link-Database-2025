@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T14:58:28.641800+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T13:01:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Tl6xOw6Au88\" width=\"480\" alt=\"thumbnail\" title=\"'whereis' - locate binaries and sources - Video Man Pages\" /></p>'whereis' locates the binary, source, and man page for a command.<br /><br />- Locate binary, source and man pages for program:<br />  whereis program<br /><br />- Locate binary and man page for program:<br />  whereis -bm program<br /><br />- Locate source of program1 and man page for program2:<br />  whereis -s program1 -m program2<br /><br />- Print the full list of effective lookup paths that whereis is using:<br />  whereis -l<br /><br />- Limit the places that whereis searches for binaries:<br />  whereis -B /usr/bin/ /usr/local/bin/ .. .. -f program<br /><br />- Limit the places that whereis searches for man pages:<br />  whereis -M /usr/share/man/man1p/ .. .. -f program<br /><br />- Limit the places that whereis searches for sources:<br />  whereis -S /usr/src/ program<br /><br />- Use glob patterns:<br />  whereis -g 'find*'",
+        "id": 3291060,
+        "language": "en",
+        "link": "https://odysee.com/%27whereis%27-locate-binaries-and-sources:0ad68618eb64e7da990b50aa5a383b93c7fbd5af",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/Tl6xOw6Au88",
+        "title": "'whereis' - locate binaries and sources - Video Man Pages",
+        "vote": 0
+    }
+]

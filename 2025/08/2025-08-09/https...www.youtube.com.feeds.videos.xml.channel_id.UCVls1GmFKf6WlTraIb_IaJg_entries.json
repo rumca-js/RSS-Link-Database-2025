@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T13:13:15.057864+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T13:01:03+00:00",
+        "description": "'whereis' locates the binary, source, and man page for a command.\n\n- Locate binary, source and man pages for program:\n  whereis program\n\n- Locate binary and man page for program:\n  whereis -bm program\n\n- Locate source of program1 and man page for program2:\n  whereis -s program1 -m program2\n\n- Print the full list of effective lookup paths that whereis is using:\n  whereis -l\n\n- Limit the places that whereis searches for binaries:\n  whereis -B /usr/bin/ /usr/local/bin/ .. .. -f program\n\n- Limit the places that whereis searches for man pages:\n  whereis -M /usr/share/man/man1p/ .. .. -f program\n\n- Limit the places that whereis searches for sources:\n  whereis -S /usr/src/ program\n\n- Use glob patterns:\n  whereis -g 'find*'\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTB",
+        "id": 3290419,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Tl6xOw6Au88",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Tl6xOw6Au88/hqdefault.jpg",
+        "title": "'whereis' - locate binaries and sources - Video Man Pages",
+        "vote": 0
+    }
+]

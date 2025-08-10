@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Becky Ferreira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T14:04:35.153961+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T13:00:55+00:00",
+        "description": "Scientists have discovered the culprit behind sea star wasting disease, the most devastating marine epidemic on record.",
+        "id": 3290725,
+        "language": "en",
+        "link": "https://www.404media.co/billions-of-sea-stars-mysteriously-turned-to-goo-now-we-know-why",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/08/image2.jpg",
+        "title": "Billions of Sea Stars Mysteriously Turned to Goo. Now We Know Why.",
+        "vote": 0
+    }
+]

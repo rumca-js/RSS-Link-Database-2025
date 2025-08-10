@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-09T04:22:34.261775+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-09T02:53:46+00:00",
+        "description": "SUPPORT THE BLACK MARKET GPU MOVIE: https://store.gamersnexus.net/black-market-gpu-backers\nThis is our biggest investigation yet, diving into the industry of black market NVIDIA AI GPUs and speaking with the smugglers, distributors, suppliers, middlemen, users, and innovative repair shops. There is an entire market within China for GPUs that fall on the Export Control list from the US Government, effectively banning the sale of several high-end GPUs commonly used in data centers and AI tasks. Our full feature-length movie will post on August 15 -- but we need your help as we enter the final stretch of editing and producing it.\n\nLearn about the special backer tiers with bonus videos and digital content (only available for a few weeks): https://store.gamersnexus.net/black-market-gpu-backers\nOr grab our new \"Blind Eye\" T-Shirt: https://store.gamersnexus.net/products/blind-eye-t-shirt-black-market\nAnd our new Blacklisted T-shirt: https://store.gamersnexus.net/products/blacklisted-t-shirt-",
+        "id": 3288482,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ltgyS8oJC8g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ltgyS8oJC8g/hqdefault.jpg",
+        "title": "Detained by a Government & Probably Blacklisted by NVIDIA for Our Next Investigation",
+        "vote": 0
+    }
+]
