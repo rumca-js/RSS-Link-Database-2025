@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T08:18:25.652017+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T08:18:25+00:00",
+        "description": "Wed\u0142ug szacunk\u00f3w, warto\u015b\u0107 polskiego rynku korepetycji przekracza ju\u017c 1 miliard z\u0142otych rocznie, a jego warto\u015b\u0107 ro\u015bnie w tempie 10\u201315 proc. rocznie.",
+        "id": 3294908,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/rodzice-i-uczniowie/art42833631-korepetycje-coraz-drozsze-rodzice-placa-juz-niemal-900-zl-miesiecznie-za-dodatkowe-lekcje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Korepetycje coraz dro\u017csze. Rodzice p\u0142ac\u0105 ju\u017c niemal 900 z\u0142 miesi\u0119cznie za dodatkowe lekcje",
+        "vote": 0
+    }
+]

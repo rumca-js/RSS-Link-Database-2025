@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T18:23:23.189188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T18:01:03+00:00",
+        "description": "Ma\u0142o baterii w telefonie i\u2026 dro\u017cszy kurs Ubera? Oficjalnie m\u00f3wi\u0105, \u017ce nie, raport m\u00f3wi, \u017ce tak. Przeprowadzi\u0142em swoje \u015bledztwo, a w\u0142a\u015bciwie dopiero zacz\u0105\u0142em przeprowadza\u0107 i mo\u017cecie mi w nim pom\u00f3c. Poza tym hakerzy przejmuj\u0105 inteligentny dom, Grok w Tesli swawoli, nowe krople cofaj\u0105 starczowzroczno\u015b\u0107, a plaster na rany wymy\u015blony przez Szwajcar\u00f3w kopie pr\u0105dem.",
+        "id": 3297657,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=0wA3wr4PJJE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0wA3wr4PJJE/hqdefault.jpg",
+        "title": "Ma\u0142o baterii = dro\u017cszy Uber? I Tech Week",
+        "vote": 0
+    }
+]

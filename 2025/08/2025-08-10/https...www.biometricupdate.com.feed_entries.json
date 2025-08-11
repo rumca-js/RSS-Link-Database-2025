@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ayang Macdonald",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T21:34:35.055014+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T20:42:08+00:00",
+        "description": "<img width=\"2048\" height=\"1365\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/06114200/India-paytm-scaled.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/06114200/India-paytm-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/06114200/India-paytm-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/06114200/India-paytm-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/06114200/India-paytm-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/06114200/India-paytm-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/06114200/India-paytm-1536x1024.jpg 1536w\" sizes=\"(max-width: 2048px) 100vw, 2048px\" />\n\t\tIntegrating Fast Payment Systems (FPS) with other components of dig",
+        "id": 3298533,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202508/world-bank-experts-discuss-new-foundational-model-for-digital-payments-interoperability",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/06114200/India-paytm-scaled.jpg",
+        "title": "World Bank experts discuss new foundational model for digital payments interoperability",
+        "vote": 0
+    }
+]

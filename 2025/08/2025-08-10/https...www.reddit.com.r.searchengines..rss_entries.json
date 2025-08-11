@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Fearless_Lobster4337",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T17:47:53.864162+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T16:57:55+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s named Cog, it takes results from 3 different search engines (Kagi, Google, DuckDuckGo) and puts everything in 1 place. It doesn&#39;t do any form of logging or tracking, it&#39;s 100% open source &amp; you can also self-host it</p> <p>Public instance: <a href=\"https://cog.zeabur.app/\">https://cog.zeabur.app/</a></p> <p>Source code: <a href=\"https://codeberg.org/f523cbab7c51065a3948aa20eaf533a7/cog\">https://codeberg.org/f523cbab7c51065a3948aa20eaf533a7/cog</a></p> <p><a href=\"https://preview.redd.it/94hr8eaw97if1.png?width=1378&amp;format=png&amp;auto=webp&amp;s=351ff4f4206641dd155c440f65498986691f72f8\">Text results</a></p> <p><a href=\"https://preview.redd.it/sw149bcy97if1.png?width=1908&amp;format=png&amp;auto=webp&amp;s=7da0fdc0be4fa09043ef3bc6ac6b9861faddf5de\">Image results</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fearless_Lobster4337\"> /u/Fearless_Lobster4337 </a> <br/> <span><a href=\"https",
+        "id": 3297514,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1mmnpzg/made_a_search_engine_that_proxies_other_search",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Made a search engine that proxies other search engines",
+        "vote": 0
+    }
+]

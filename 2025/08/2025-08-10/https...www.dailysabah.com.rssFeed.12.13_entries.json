@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T12:06:03.776206+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T12:06:02+00:00",
+        "description": "Global criticism mounted Saturday over Israel's decision to seize control of Gaza City, as tens of thousands of Israelis joined one of the largest anti-government protests ami...",
+        "id": 3295674,
+        "language": "en-US",
+        "link": "https://www.dailysabah.com/world/mid-east/global-condemnation-of-israels-military-expansion-in-gaza-grows",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 81,
+        "source_url": "https://www.dailysabah.com/rssFeed/12/13",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://idsb.tmgrup.com.tr/ly/uploads/images/2025/08/10/395969.jpg",
+        "title": "Global condemnation of Israel's military expansion in Gaza grows",
+        "vote": 0
+    }
+]

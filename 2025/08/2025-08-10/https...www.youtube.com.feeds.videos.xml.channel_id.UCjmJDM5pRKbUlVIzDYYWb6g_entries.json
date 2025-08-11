@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warner Bros.",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T17:57:50.750564+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T17:00:37+00:00",
+        "description": "There\u2019s only one way to find out what happened. Get tickets for #WeaponsMovie, now playing only in theaters.",
+        "id": 3297617,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/QRFAWHq_nRg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 693,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjmJDM5pRKbUlVIzDYYWb6g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QRFAWHq_nRg/hqdefault.jpg",
+        "title": "There\u2019s only one way to find out what happened.",
+        "vote": 0
+    }
+]

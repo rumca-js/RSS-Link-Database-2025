@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/FerretCharacter3344",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T08:14:35.714037+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T08:05:58+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FerretCharacter3344\"> /u/FerretCharacter3344 </a> <br/> <span><a href=\"https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwhat-obfuscator-v0-yyrifrtwf5if1.png%3Fwidth%3D2381%26format%3Dpng%26auto%3Dwebp%26s%3Da2291246e2a53a420a8927d9e9581a513f43855c\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1mmcwnk/what_net_obfuscator/\">[comments]</a></span>",
+        "id": 3294898,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1mmcwnk/what_net_obfuscator",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "what .net obfuscator?",
+        "vote": 0
+    }
+]

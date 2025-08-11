@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "voidzilla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T06:04:50.814423+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T05:21:32+00:00",
+        "description": "https://www.youtube.com/watch?v=idCMDlopk2c&\n\nCody \"Whistlin' Diesel\" Full Response\nhttps://docs.google.com/document/d/19ipTKn9ltfwdb8WtWi_HA0HAte2kwQ7k1BiSmil5uS8/edit?tab=t.0\nFXALEXG's Full Response\nhttps://docs.google.com/document/d/1qvx6A7eHztkm430yjwLf_xITKr7zXC471TlFglN8NiQ/edit?tab=t.0\n\ndisclaimer (updated May 2025): voidzilla is an opinion\u2011driven channel that comments on the news of the day under the satirical and rhetorically hyperbolic banner \u201cCRIME\u202fIS\u202fLEGAL.\u201d\u202fthe phrase critiques what we see as a lax or uneven regulatory enforcement environment for fraud. unlike our affiliated channel Coffeezilla, which conducts detailed investigations and source\u2011document deep dives, and draws opinions from that, voidzilla offers rapid\u2011fire commentary and criticism on information already in the public domain. statements here reflect the host\u2019s views at the moment of recording and may become outdated as facts evolve. references to \u201ccrime,\u201d \u201cfraud,\u201d \u201cscam,\u201d or similar terms appear in a rhetor",
+        "id": 3294523,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0YVH7pbZfVo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 592,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC28n0tlcNSa1iPe5mettocg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0YVH7pbZfVo/hqdefault.jpg",
+        "title": "whistlin diesel durability test #2",
+        "vote": 0
+    }
+]

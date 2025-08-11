@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T19:13:28.784260+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T18:32:41+00:00",
+        "description": "Czy Electronic Arts naprawd\u0119, tak po prostu, odmawia zlecenia remastera Dragon Age: Pocz\u0105tek? Tylko dlatego, \u017ce jest przeciwne remasterom? No... Nie tylko dlatego.\n\nChcesz wesprze\u0107 rozw\u00f3j kana\u0142u? Postaw mi kaw\u0119: https://buycoffee.to/emzdanowicz\n\n#opinia #dragonage",
+        "id": 3297955,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=ArfxQAcMO8U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ArfxQAcMO8U/hqdefault.jpg",
+        "title": "EA nie lubi pieni\u0119dzy?",
+        "vote": 0
+    }
+]

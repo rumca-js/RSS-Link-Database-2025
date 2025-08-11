@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Natasha Singer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T09:24:33.964751+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T09:00:31+00:00",
+        "description": "As companies like Amazon and Microsoft lay off workers and embrace A.I. coding tools, computer science graduates say they\u2019re struggling to land tech jobs.",
+        "id": 3295125,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/08/10/technology/coding-ai-jobs-students.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/07/28/multimedia/AI-jobs-Mishra-01-cjwl/AI-jobs-Mishra-01-cjwl-mediumSquareAt3X.jpg",
+        "title": "Computer Science Grads Struggle to Find Jobs in the A.I. Age",
+        "vote": 0
+    }
+]

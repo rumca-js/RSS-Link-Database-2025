@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T06:48:20.599393+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T06:43:00+00:00",
+        "description": "<img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-8kj1om-lotto-bis-3651168/alternates/LANDSCAPE_1280\" alt=\"Ro\u015bnie kumulacja w Lotto\" />\n    W sobotnim losowaniu Lotto nikt nie wytypowa\u0142 poprawnie wszystkich sze\u015bciu liczb. Oznacza to, \u017ce we wtorek do wygrania b\u0119d\u0105 trzy miliony z\u0142otych. Oto wyniki losowania Lotto i Lotto Plus z 9 sierpnia 2025 roku.",
+        "id": 3294592,
+        "language": "pl-PL",
+        "link": "https://tvn24.pl/biznes/z-kraju/lotto-i-lotto-plus-wyniki-losowania-z-9-sierpnia-2025-jakie-liczby-padly-w-sobotnim-losowaniu-st8593330?source=rss",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 319,
+        "source_url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://tvn24.pl/najnowsze/cdn-zdjecie-8kj1om-lotto-bis-3651168/alternates/LANDSCAPE_1280",
+        "title": "Ro\u015bnie kumulacja w Lotto",
+        "vote": 0
+    }
+]

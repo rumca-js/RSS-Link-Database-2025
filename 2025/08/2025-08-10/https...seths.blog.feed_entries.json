@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T09:15:14.692748+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T09:03:00+00:00",
+        "description": "Each day, I have about 8 hours of tasks to do. Empty the dishwasher, bring in the paper, answer emails, queue up a blog post&#8230; it&#8217;s a very long list. I&#8217;m sure you have one as well. If we&#8217;re good at the chores, we&#8217;ll be offered new ones. And of course, it&#8217;s possible to find [&#8230;]",
+        "id": 3295111,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/after-the-chores",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "After the chores",
+        "vote": 0
+    }
+]

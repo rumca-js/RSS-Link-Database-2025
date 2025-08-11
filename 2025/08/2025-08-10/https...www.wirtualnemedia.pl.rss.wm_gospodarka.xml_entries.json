@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T11:33:25.277226+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T11:33:24+00:00",
+        "description": "Nale\u017c\u0105cej do Magdy Gessler restauracji U Fukiera przyznano p\u00f3\u0142 miliona z\u0142otych z Krajowego Planu Odbudowy na dzia\u0142alno\u015b\u0107 cateringow\u0105. Lokal widnieje na mapie projekt\u00f3w udost\u0119pnionej w pi\u0105tek. \u201eNie dosta\u0142am na Fukiera ani z\u0142ot\u00f3wki\u201d \u2013 poinformowa\u0142a restauratorka. Gessler nie zaprzeczy\u0142a, \u017ce z\u0142o\u017cy\u0142a wniosek ws. dofinansowania. Z jej wpisu wynika, \u017ce ponios\u0142a koszty, a dotacja nie zosta\u0142a jeszcze rozliczona.",
+        "id": 3295636,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/magda-gessler-tlumaczy-sie-ze-srodkow-z-kpo-nie-dostalam-na-fukiera-ani-zlotowki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Magda Gessler t\u0142umaczy si\u0119 ze \u015brodk\u00f3w z KPO. \u201eNie dosta\u0142am na Fukiera ani z\u0142ot\u00f3wki\u201d",
+        "vote": 0
+    }
+]

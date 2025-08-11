@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T17:03:23.958270+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T16:00:28+00:00",
+        "description": "This video will guide you through setting up your BraX3 phone for the first time.\n\n----------------------------------\nBraX3 Privacy Phone is on https://braxtech.net\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me\n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm here to educate. You are losing your Internet privacy and Internet security every day if you don't fight for it. Your data is collected with endless permanent data mining. Learn about a TOR router, a VPN , antivirus, spyware, firewalls, IP address, wifi triangulation, data privacy regulation, backups and tech tools, and evading mass surveillance from NSA, CIA, FBI. Learn how to be anonymous on the Internet so you are not profiled. Learn to speak freely with pseudo anonymity. Learn more abo",
+        "id": 3297333,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CCwSz3dsipY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CCwSz3dsipY/hqdefault.jpg",
+        "title": "BraX3 Setup Guide",
+        "vote": 0
+    }
+]

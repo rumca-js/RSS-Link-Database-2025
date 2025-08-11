@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T07:24:57.058089+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T07:24:56+00:00",
+        "description": "Od grudnia YouTube znajdzie si\u0119 na li\u015bcie us\u0142ug, kt\u00f3re w Australii dozwolone s\u0105 dopiero od 16. roku \u017cycia. Do\u0142\u0105czy tym samym do Facebooka, Instagrama, Snapchata, TikToka oraz X. \u00a0Rz\u0105d w Canberze twierdzi, \u017ce mimo pozytywnych tre\u015bci edukacyjnych, na YouTube dzia\u0142aj\u0105 \u201edrapie\u017cne algorytmy wymierzone w dzieci\u201d.",
+        "id": 3294715,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/rzad-australii-dolacza-youtube-do-uslug-z-ktorych-nie-beda-mogli-korzystac-mlodsi-niz-16-latkowie-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "YouTube w tym kraju dopiero od 16. roku \u017cycia. \u201eDrapie\u017cne algorytmy\u201d",
+        "vote": 0
+    }
+]

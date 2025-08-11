@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T16:07:44.367038+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T14:00:27+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nBazel - Marcus Boerger - ACCU 2025\n---\n\nGoogle runs the largest mono-repo known. Google uses a mono-repo because once you have solved the hurdles it makes you massively more efficient. However, you first have to use an appropriate build system. A build system that is programmed in a reasonable language (let's call it \"limited\" Python) as opposed to incomprehensive text manipulation (autotools, cmake).\n\nBut more importantly, Bazel allows you to reproduce all your build - and - Bazel allows you to cache you builds. Generally, Bazel will result in massive compilation time speedups, not only for C++, but for all the stuff you do. All this is done with incredible amount of flexibility and correctness, after all it's kind of Python.\n\nYou just have to get started.\n\nSlides: https://accu.org/conf-previous/accu2025/\n\nJoin think-cell as a C++ Developer and work on cutting-edge challenges with a focus on code excellence, innovation, and working a",
+        "id": 3296970,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=B5Ei5sQwmBs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B5Ei5sQwmBs/hqdefault.jpg",
+        "title": "Bazel - Marcus Boerger - ACCU 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Drew Harwell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T11:28:15.999155+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T11:05:14+00:00",
+        "description": "An \u201canswer engine\u201d on Trump\u2019s social media site says the 2020 election wasn\u2019t stolen, tariffs aren\u2019t boosting the stock market and Barack Obama is seen favorably.",
+        "id": 3295626,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/08/10/truth-social-trump-ai-chatbot-perplexity",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New chatbot on Trump\u2019s Truth Social platform keeps contradicting him",
+        "vote": 0
+    }
+]

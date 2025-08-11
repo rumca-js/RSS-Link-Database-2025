@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T18:39:58.836112+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T17:30:16+00:00",
+        "description": "For over a decade now Valve has been invested into Linux gaming and many people seem to have forgotten why that was the case, so lets go back a little in time to talk about Valve and Linux gaming, before the SteamDeck, before Proton, before even the Steam Machines\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nReddit Post: https://www.reddit.com/r/pcmasterrace/comments/1m0ms0y/what_is_valves_long_game_in_investing_so_much/\nBBC Article: https://www.bbc.com/news/technology-18996377\nGamesradar Article: https://www.gamesradar.com/living-room-pcs-compete-consoles-gabe-newell-says/\nSteamMachines: https://en.wikipedia.org/wiki/Steam_Machine_(computer)\nGames Radar Article 2: https://www.gamesradar.com/gabe-newell-opens-up-on-why-steam-machines-didnt-work-out-in-latest-edge-mag",
+        "id": 3297716,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_Z92A7x2qIY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_Z92A7x2qIY/hqdefault.jpg",
+        "title": "Why Valve Sees Linux As Gaming's Future",
+        "vote": 0
+    }
+]

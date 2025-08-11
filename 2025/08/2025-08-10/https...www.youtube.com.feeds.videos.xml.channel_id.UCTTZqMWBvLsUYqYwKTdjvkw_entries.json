@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-10T17:05:21.439641+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-10T16:00:06+00:00",
+        "description": "\ud83d\udea8\u00a0W dzisiejszym materiale rozprawimy si\u0119 z tematem, kt\u00f3ry niedawno rozgrza\u0142 spor\u0105 cz\u0119\u015b\u0107 publiki do czerwono\u015bci. Czy faktycznie jest pow\u00f3d do siania paniki?\n\n\u203c\ufe0f\u00a0Nie wierzysz mi na s\u0142owo? (bardzo dobrze!)\nSpr\u00f3buj sam i sprawd\u017a mObywatela!\n\n1. Najpierw zainstaluj java JDK 11, apktool (i opcjonalnie jadx)\nNa macOS komend\u0105 brew install openjdk@11 apktool jadx\nNa Ubuntu / Debian sudo apt install -y openjdk-11-jdk apktool  jadx\n1. Pobierz plik .apk. Ja pobiera\u0142em ze strony apk mirror po wyszukwaniu mobywatel. Na przyk\u0142ad tu https://www.apkmirror.com/apk/ministerstwo-cyfryzacji/mobywatel-publiczna-aplikacja-mobilna/mobywatel-4-60-0-4602-release/ UWAGA! Nie zach\u0119cam do instalacji aplikacji spoza Sklepu Play\n2. Dekompilacja do Smali / zasob\u00f3w komend\u0105:  apktool d mobywatel_cala_nazwa.apkm -o decompiled\n3. (opcjonalnie) Podgl\u0105d kodu w Twoim ulubionym edytorze lub:  jadx-gui decompiled/classes*.dex\n \n\u0179r\u00f3d\u0142a:\n\u2753Czy mObywatel szpieguje obywateli?\nhttps://www.gov.pl/web/cyfryzacja/czy-mobywatel-szpieg",
+        "id": 3297336,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=7HQ8UdTY64Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7HQ8UdTY64Y/hqdefault.jpg",
+        "title": "Czy mObywatel szpieguje Polak\u00f3w?",
+        "vote": 0
+    }
+]
