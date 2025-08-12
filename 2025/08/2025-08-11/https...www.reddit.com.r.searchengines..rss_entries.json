@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Nox21125",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-11T21:58:02.769765+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-11T21:02:59+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,<br/> I am currently developing a new search engine and am interested in hearing suggestions for useful or innovative features to include. The project is still in its early stages, so any advice on features you would want in a search engine, including search functionality, user experience, or anything else that could improve the product, would be greatly appreciated.</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Nox21125\"> /u/Nox21125 </a> <br/> <span><a href=\"https://www.reddit.com/r/searchengines/comments/1mnp42u/looking_for_feature_ideas_for_a_search_engine/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/searchengines/comments/1mnp42u/looking_for_feature_ideas_for_a_search_engine/\">[comments]</a></span>",
+        "id": 3306598,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1mnp42u/looking_for_feature_ideas_for_a_search_engine",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Looking for feature ideas for a search engine project",
+        "vote": 0
+    }
+]

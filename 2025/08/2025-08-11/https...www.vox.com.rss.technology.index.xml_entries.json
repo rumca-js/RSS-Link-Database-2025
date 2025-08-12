@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sigal Samuel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-11T11:32:53.259837+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-11T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\" \" data-caption=\"Mindar is a robot priest at Kodaiji temple in Japan.\ufeff\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19171642/mindar_robot_color_GettyImages_1129444022__1_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tMindar is a robot priest at Kodaiji temple in Japan.\ufeff\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">What happens when an AI expert asks a chatbot to generate a sacred Buddhist text?</p>\n\n<p class=\"has-text-align-none\">In April, Murray Shanahan, a research scientist at Google DeepMind, decided to find out. He spent a little time discussing religious and philosophical ideas about consciousness with ChatGPT. Then he invited the chatbot to imagine that it\u2019s meeting a future buddha called Maitreya. Finally, he prompted ChatGPT like this:</p>\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n",
+        "id": 3301826,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/440950/ai-chatgpt-bible-religion-spiritual-buddhism",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19171642/mindar_robot_color_GettyImages_1129444022__1_.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "AI can write you a new Bible. But is it meaningful?",
+        "vote": 0
+    }
+]

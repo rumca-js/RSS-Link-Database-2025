@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/ehraja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-11T21:12:44.243994+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-11T20:26:18+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://deb.debian.org/debian/dists/trixie/main/installer-riscv64/current/images/\">https://deb.debian.org/debian/dists/trixie/main/installer-riscv64/current/images/</a><br/> If a computer is an amd64 then you can install debian amd64 isos on the computer. How about riscv computers? If a computer is a riscv computer then you can install debian 13 using the riscv iso? Or does a riscv computer has to be debian 13 certified? Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ehraja\"> /u/ehraja </a> <br/> <span><a href=\"https://www.reddit.com/r/RISCV/comments/1mno5bb/debian_13_riscv_iso_installs_on_any_riscv_computer/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1mno5bb/debian_13_riscv_iso_installs_on_any_riscv_computer/\">[comments]</a></span>",
+        "id": 3306359,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1mno5bb/debian_13_riscv_iso_installs_on_any_riscv_computer",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "debian 13 riscv iso installs on any riscv computer?",
+        "vote": 0
+    }
+]

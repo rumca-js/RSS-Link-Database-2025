@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Basically Homeless",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-11T15:37:31.988585+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-11T14:04:11+00:00",
+        "description": "Giving a PC program control of my muscles to become the fastest in the world. Sponsored by Micro Center! \n\nBuild, Upgrade, and Save All Month Long at Micro Center: https://micro.center/9d4315\n\nSign-Up for VIP Days at Micro Center Phoenix: https://micro.center/a11e1b\n\nShop 50 Series Laptops at Micro Center: https://micro.center/717642\n\nShop Raspberry Pi at Micro Center: https://micro.center/7c0d1f\n\nChapters:\n\n00:00 Can I be the fastest in the world?\n\n00:40 How?\n\n01:46 The setup\n\n03:50 Dry run\n\n04:30 Control test vs Neuromuscular Aim Assist\n\n06:50 The problem\n\n08:30 Solution\n\n09:32 Detecting teammates vs enemies\n\n11:10 The final solution (NMTB)\n\n11:51 Linux video coming soon \n\n13:07 Multiplayer w/ NMAA\n\n15:20 FINAL\n\nThanks for watching\n\nbusiness email - nick@zbtsol.com\n\nsocials and patreon are at https://zbtsol.com\n\nI will come back at some point and post a bunch of my thoughts about the programming and concept in this spot but right now I am too tired to continue typing this descriptio",
+        "id": 3303779,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9alJwQG-Wbk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 446,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChHxJaKDqH4bOs0pX3hkKnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9alJwQG-Wbk/hqdefault.jpg",
+        "title": "Neuromuscular Aim Assist",
+        "vote": 0
+    }
+]

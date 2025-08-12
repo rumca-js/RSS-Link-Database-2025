@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-11T19:05:23.233754+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-11T17:55:37+00:00",
+        "description": "To dobry zacz\u0105tek do rozmowy o oszustwach na AI.\n\n\u0179r\u00f3d\u0142a:\nhttps://zurl.co/F80cR\n\n #cyberbezpiecze\u0144stwo  #ai #deepfake #shorts",
+        "id": 3305541,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/3dIDmz0mO2U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3dIDmz0mO2U/hqdefault.jpg",
+        "title": "\ud83c\udfe0 Szkoda spreparowana przez AI?",
+        "vote": 0
+    }
+]

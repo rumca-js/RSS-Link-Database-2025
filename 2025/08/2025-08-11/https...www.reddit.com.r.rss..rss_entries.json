@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/apsolior",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-11T17:27:49.478137+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-11T17:00:29+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone. I hope moderators will be ok with my post. If not, no problem and no hard feelings. But I wanted to quickly share an app that I made with my friends for an RSS feed builder. It&#39;s free and it&#39;s always going to be. There are no ads. There are no trackers. Nothing. You can use it without any concerns that you will be tracked. We do still have improvements to do, and I was wondering if you could help us by providing feedback about it. What would you like to see inside, and what features could be beneficial to you? This is a hobby project from us and we do not have any intention to earn money from it and we never raised any funds or investments to build it so we are free to do whatever we want with it. </p> <p>Just please. No AI features requests as we decided to fully avoid those features. </p> <p>Here is the link: </p> <p><a href=\"https://apps.apple.com/hr/app/hiwe/id6746401622?platform=iphone\">https://apps.apple.com/hr/app/hiwe/id6",
+        "id": 3304561,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1mniktk/rss_app_without_any_trackers_ads_and_algorithms",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RSS App without any trackers, ads and algorithms",
+        "vote": 0
+    }
+]

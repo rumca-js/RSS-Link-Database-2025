@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Phil Helsel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-11T00:14:48.077272+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-11T00:03:02+00:00",
+        "description": "The IDF said it killed a man in Gaza posing as an Al Jazeera journalist, but the network said Anas al-Sharif was a journalist and that he and four other staff members were killed in a targeted Israeli airstrike.",
+        "id": 3299118,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/gaza/israel-says-killed-al-jazeera-journalist-claiming-was-hamas-leader-rcna224189",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250810-gaza-city-cc-0707p-e04f2a.jpg",
+        "title": "Israel says it killed Al Jazeera journalist, claiming he was a Hamas leader",
+        "vote": 0
+    }
+]

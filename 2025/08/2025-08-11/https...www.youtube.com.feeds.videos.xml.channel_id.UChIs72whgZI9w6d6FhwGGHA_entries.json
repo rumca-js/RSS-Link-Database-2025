@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-11T14:07:36.847310+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-11T13:14:55+00:00",
+        "description": "SUPPORT OUR BLACK MARKET GPU MOVIE: https://store.gamersnexus.net/black-market-gpu-backers (launches August 15 to YouTube)\nIn this video, we're recapping Intel's last year of downward spiral as it has failed to launch competitive CPU products, has delayed, slowed, and canceled fab construction projects, has swapped CEOs, and has laid off tens of thousands of employees around the world. This comes at a time when new Intel CEO Lip-Bu Tan has been publicly challenged by the US Government and President, following his prior workplace's guilty plea for violation of export control laws (at Cadence).\n\nWatch our educational video about Intel's fabs -- we still think this is the future for Intel, but not if it continues to cut investments: https://www.youtube.com/watch?v=IUIh0fOUcrQ\nAlso check out our deep-dive into AMD's laboratory in Texas: https://www.youtube.com/watch?v=7H4eg2jOvVw\nOr our Scumbag Intel video talking about its product division problems: https://www.youtube.com/watch?v=b6vQlv",
+        "id": 3302838,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cXVQVbAFh6I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cXVQVbAFh6I/hqdefault.jpg",
+        "title": "COLLAPSE: Intel is Falling Apart",
+        "vote": 0
+    }
+]
