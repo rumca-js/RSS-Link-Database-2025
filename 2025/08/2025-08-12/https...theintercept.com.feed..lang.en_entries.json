@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nick Turse",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T18:18:35.893394+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T18:04:46+00:00",
+        "description": "<p>\u201cThe ability to use the military anywhere, anytime, for any purpose \u2014 it\u2019s absolutely unprecedented.\u201d </p>\n<p>The post <a href=\"https://theintercept.com/2025/08/12/trump-washington-dc-national-guard-deploy-federalize/\">Trump\u2019s Use of Troops for Policing Hasn\u2019t Been Seen Since America Was Ruled by a King</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3313749,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/08/12/trump-washington-dc-national-guard-deploy-federalize",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/08/GettyImages-988413630-e1754583601395.jpg?w=440&h=440&crop=1",
+        "title": "Trump\u2019s Use of Troops for Policing Hasn\u2019t Been Seen Since America Was Ruled by a King",
+        "vote": 0
+    }
+]

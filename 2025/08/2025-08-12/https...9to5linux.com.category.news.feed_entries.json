@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T23:42:47.469670+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T23:32:32+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/08/g484.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"GNOME 48.4\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/g484.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/g484.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/g484.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>GNOME 48.4 is now available as the third maintenance update to the GNOME 48 desktop environment with various enhancements and bug fixes. Here\u2019s what\u2019s changed!</p>\n<p>The post <a href=\"https://9to5linux.com/gnome-48-4-finally-improves-update-notifications-in-gnome-software\">GNOME 48.4 Finally Improves Update Notifications in GNOME Software</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce",
+        "id": 3315847,
+        "language": "en-US",
+        "link": "https://9to5linux.com/gnome-48-4-finally-improves-update-notifications-in-gnome-software",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/08/g484.webp",
+        "title": "GNOME 48.4 Finally Improves Update Notifications in GNOME Software",
+        "vote": 0
+    }
+]

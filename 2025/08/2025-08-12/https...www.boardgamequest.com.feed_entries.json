@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kerry Bohac",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T13:58:47.939739+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T13:02:15+00:00",
+        "description": "<img width=\"640\" height=\"650\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/07/Cities-1008x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cities\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/07/Cities-1008x1024.jpg 1008w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Cities-295x300.jpg 295w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Cities-148x150.jpg 148w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Cities-768x780.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Cities-640x650.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/07/Cities.jpg 1028w\" sizes=\"(max-width: 640px) 100vw, 640px\" />As someone who finds joy in travel and the energy of urban landscapes\u2014whether exploring big cities for arts and culture or strolls through urban parks\u2014Cit",
+        "id": 3311277,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/cities-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/07/Cities-1008x1024.jpg",
+        "title": "Cities Review",
+        "vote": 0
+    }
+]

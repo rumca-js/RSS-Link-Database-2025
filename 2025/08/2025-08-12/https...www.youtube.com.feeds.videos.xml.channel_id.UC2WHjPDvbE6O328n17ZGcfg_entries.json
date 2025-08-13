@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T19:55:50.621296+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T19:15:01+00:00",
+        "description": "Try out Director by Browserbase: https://browserbase.plug.dev/hmVE7Uh\n\nI know AI is everywhere, and overwhelming, and annoying. But it\u2019s here to stay, whether we like it or not. I know a lot of folks want to ignore it, and I understand that, but maybe it can help you in one way or another. Maybe there\u2019s a piece of your dev workflow that you just hate doing, or don't do, that AI can do for you or at least help take some of the pain out of it.\n\nIn this video, I go through each step of the software development workflow and share how AI can do just that for every step along the way. This isn\u2019t exhaustive, nor is it meant to be an in-depth tutorial. It\u2019s supposed to serve as a \u201cgateway drug\u201d, if you will, into how AI can actually help you as a software developer. If there\u2019s anything from this video you\u2019d like for me to do a deep dive on, just let me know!\n\nBut even with all that said, I have a feeling this video is gonna go over like a fart in church.\n\n0:00 Overview\n1:05 Planning & Archite",
+        "id": 3314561,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3VQhdXcQ5qI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3VQhdXcQ5qI/hqdefault.jpg",
+        "title": "AI Has Changed How We Build Software // What You Need to Know",
+        "vote": 0
+    }
+]

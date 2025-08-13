@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T10:02:01.678914+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T09:03:00+00:00",
+        "description": "The initial adoption of new technology follows a regular pattern. The first group are hobbyists, people looking for a fascinating way to spend time. But that&#8217;s a small group&#8211;ham radio operators, for example, or theremin musicians. It&#8217;s the second group that gets the rest of us to take notice. They use technology to save time [&#8230;]",
+        "id": 3309760,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/after-the-shortcuts",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "After the shortcuts",
+        "vote": 0
+    }
+]

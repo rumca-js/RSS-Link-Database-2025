@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T18:08:09.979798+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T17:19:12+00:00",
+        "description": "Want to deploy AI in your cloud apps SAFELY? Let Wiz help: https://ntck.co/wiz\n\nCan you hack AI? In this video I sit down with elite AI hacker Jason Haddix to unpack how attackers compromise AI-enabled apps\u2014not just jailbreak chatbots, but exfiltrate customer data, abuse tool calls, and pivot across systems. We walk through his six-part AI pentest blueprint, play the Gandalf prompt-injection game, and demo wild techniques like emoji smuggling and link smuggling. You\u2019ll see real-world cases (think Slack salesbots + Salesforce leaks), why MCP (Model Context Protocol) and agentic frameworks can widen the blast radius, and then we flip to defense: web-layer fundamentals, a \u201cfirewall for AI\u201d on inputs/outputs, and least-privilege for data and tools\u2014plus a hands-on demo you can try. If you\u2019re building with AI in 2025, this is your wake-up call (and your roadmap). Educational content only\u2014hack ethically and only with permission.\n\n\n\nLinks and STUFF\n\u2014-------------------------------------------",
+        "id": 3313666,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Qvx2sVgQ-u0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qvx2sVgQ-u0/hqdefault.jpg",
+        "title": "Hacking AI is TOO EASY (this should be illegal)",
+        "vote": 0
+    }
+]

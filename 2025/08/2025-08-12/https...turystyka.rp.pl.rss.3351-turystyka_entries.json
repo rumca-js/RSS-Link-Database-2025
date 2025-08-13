@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T04:46:53.361713+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T04:46:52+00:00",
+        "description": "Tego lata tury\u015bci odwiedzaj\u0105cy W\u0142ochy powinni by\u0107 ostro\u017cniejsi ni\u017c zazwyczaj \u2013 w\u0142adze niekt\u00f3rych miast i region\u00f3w wprowadzi\u0142y, czasem do\u015b\u0107 zaskakuj\u0105ce, przepisy. Ich nieprzestrzeganie mo\u017ce s\u0142ono kosztowa\u0107.",
+        "id": 3308359,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art42838121-slone-kary-za-naduzywanie-goscinnosci-wlochow-za-co-konkretnie-mozna-sie-zdziwic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "S\u0142one kary za nadu\u017cywanie go\u015bcinno\u015bci W\u0142och\u00f3w. Za co konkretnie? Mo\u017cna si\u0119 zdziwi\u0107",
+        "vote": 0
+    }
+]

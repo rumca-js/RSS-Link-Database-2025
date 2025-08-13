@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T12:07:44.423594+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T11:01:11+00:00",
+        "description": "Ready to become a certified Developer - App Connect Enterprise? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bde4mR\n\nLearn more about Container Solutions here \u2192 https://ibm.biz/Bde4mE\n\nWhat if deploying operating systems was as easy as applications? Cedric Clyburn unpacks bootable containers, a breakthrough that packages OS, kernel, and apps into one immutable image. Discover how this innovation simplifies updates, prevents drift, and powers edge deployments. \ud83c\udf1f\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/Bde4mX\n\n#containerization #devops #edgecomputing",
+        "id": 3310566,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cBom7aDuy9w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cBom7aDuy9w/hqdefault.jpg",
+        "title": "What Are Bootable Containers? Simplifying OS Deployment & Updates",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T14:02:45.130784+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T13:48:57+00:00",
+        "description": "Learn the essential concepts of DevSecOps and why integrating security throughout the software development lifecycle is more important than ever. You\u2019ll learn how DevSecOps bakes it into every stage, from planning and coding to testing and deployment.\n\n\u270f\ufe0f Scott Bly developed this course. He is a seasoned cybersecurity professional specializing in API security within DevSecOps environments.\n\nAccess more free security courses at https://www.apisecuniversity.com/\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Course Contents \u2b50\ufe0f\nPart 1: Setting the Stage\n\u2328\ufe0f (00:00:00) Introduction to the Course and Instructor\n\u2328\ufe0f (00:04:14) Course Agenda Overview\n\u2328\ufe0f (00:05:44) What Are the Stakes?: The Current State of Cyber Warfare\n\u2328\ufe0f (00:09:05) Why DevSecOps?: Addressing Vulnerabilities\n\u2328\ufe0f (00:11:56) Why API Security?: The #1 Attack Vector\n\nPart 2: Understanding DevOps\n\u2328\ufe0f (00:19:00) DevOps v",
+        "id": 3311291,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JfiWi8RjN-8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JfiWi8RjN-8/hqdefault.jpg",
+        "title": "DevSecOps Course for Beginners \u2013 API Security",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dom Peppiatt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T15:26:26.478826+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T15:14:21+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/rain-world-game-pass.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Early 2017 was a pretty good period for <a href=\"https://www.eurogamer.net/genres/metroidvania\">Metroidvania</a> games. In February we saw <a href=\"https://www.eurogamer.net/games/hollow-knight\">Hollow Knight</a> land on PC, and just one month later, a scrappier, weirder game called <a href=\"https://www.eurogamer.net/games/rain-world\">Rain World</a> hit PC and the PS4. Hollow Knight, of course, now has the spotlight - it's one of the most successful and beloved indie games of the past decade - but Rain World also made a splash (pun not intended), just in a much more subtle way.</p> <p><a href=\"https://www.eurogamer.net/hollow-knight-silksong-wait-rain-world-game-pass\">Read more</a></p>",
+        "id": 3312333,
+        "language": "en",
+        "link": "https://www.eurogamer.net/hollow-knight-silksong-wait-rain-world-game-pass",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/rain-world-game-pass.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "If the wait for Hollow Knight Silksong is killing you, Xbox Game Pass just dropped another all-timer Metroidvania you should probably try",
+        "vote": 0
+    }
+]

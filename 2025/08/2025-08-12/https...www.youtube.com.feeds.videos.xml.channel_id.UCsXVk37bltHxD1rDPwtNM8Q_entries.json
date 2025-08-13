@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kurzgesagt \u2013 In a Nutshell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T14:39:47.952338+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T14:00:08+00:00",
+        "description": "Discover Odoo \ud83d\udc49 https://www.odoo.com/r/GpxF\nThe first app is free for life.Thanks to Odoo for sponsoring this video!\n\n\ud83d\udea8 IT\u2019S HERE! The LIMITED EDITION Alien Alert Pin just dropped on the kurzgesagt shop: https://shop.kgs.link/AcceptMission\nKeep it close. Watch the light. If it turns red, whatever you do, do NOT ignore it. Humanity is counting on you.\n\nSources & further reading:\nhttps://sites.google.com/view/sources-alcohol/\n\nAlcohol kills more people each year than wars, terrorism, homicides, and car accidents combined. It destroys bodies, relationships, and lives. Yet we toast with it at weddings, sip it at parties, and unwind with it after work. \nWhy do we cling to something so harmful?\n\n\nOUR CHANNELS\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI",
+        "id": 3311774,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aOwmt39L2IQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 181,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aOwmt39L2IQ/hqdefault.jpg",
+        "title": "Dear Alcohol...",
+        "vote": 0
+    }
+]

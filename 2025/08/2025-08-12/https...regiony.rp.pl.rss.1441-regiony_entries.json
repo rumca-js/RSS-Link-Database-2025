@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-12T16:37:41.165408+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-12T16:37:40+00:00",
+        "description": "Z pomoc\u0105 nowego programu \"Stop Smog\" w\u0142adze Rzeszowa chcia\u0142y dofinansowa\u0107 mieszka\u0144com wymian\u0119 starych piec\u00f3w czy przeprowadzenie termomodernizacji domu jednorodzinnego. Ch\u0119tnych brakowa\u0142o. Podobne projekty realizuj\u0105 inne du\u017ce samorz\u0105dy.",
+        "id": 3313011,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/ekologia/art42844611-wymiana-kopciuchow-i-termomodernizacja-jak-samorzady-wspieraja-transformacje-energetyczna",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wymiana kopciuch\u00f3w i termomodernizacja. Jak samorz\u0105dy wspieraj\u0105 transformacj\u0119 energetyczn\u0105",
+        "vote": 0
+    }
+]
