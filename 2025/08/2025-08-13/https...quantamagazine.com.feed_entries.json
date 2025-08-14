@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stephen Ornes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T14:19:33.935849+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T14:19:33+00:00",
+        "description": "The new science of \u201cemergent misalignment\u201d explores how PG-13 training data \u2014 insecure code, superstitious numbers or even extreme-sports advice \u2014 can open the door to AI\u2019s dark side.            <p>The post <a href=\"https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/\" target=\"_blank\">The AI Was Fed Sloppy Code. It Turned Into Something Evil.</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3320496,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/08/EvilAI-crWei-AnJin-Default.webp",
+        "title": "The AI Was Fed Sloppy Code. It Turned Into Something Evil.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T12:52:25.277815+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T11:00:47+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdeq44\n\nLearn more about GPT (Generative Pretrained Transformer) here \u2192 https://ibm.biz/Bdeq4s\n\n\ud83d\ude80 Can GPT-5 overcome LLM limitations? Martin Keen explains how this advanced AI model tackles challenges like hallucinations, sycophancy, and safe completions. Discover five improvements that enhance reasoning, accuracy, and ethical AI in large language models. \ud83c\udf10\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdeq4i\n\n#ai #llm #gpt5 #aimodels",
+        "id": 3319446,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TY9CYRBOBPM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TY9CYRBOBPM/hqdefault.jpg",
+        "title": "GPT-5: Five AI Model Improvements to Address LLM Weaknesses",
+        "vote": 0
+    }
+]

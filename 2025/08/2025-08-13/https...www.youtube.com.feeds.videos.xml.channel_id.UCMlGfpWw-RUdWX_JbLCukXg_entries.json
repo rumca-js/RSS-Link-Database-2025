@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T20:49:20.005231+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T15:15:05+00:00",
+        "description": "Register: https://cppcon.org/registration/ \nJoin Andreas Fertig and Kevin Carpenter from September 13th - 21st at CppCon 2025 Aurora, Colorado\n\n---\nSafe and Efficient C++ For Embedded Systems Training Course with 20+ Year Expert Andreas Fertig\n\nCppCon 2025 is just around the corner, and Kevin Carpenter from @cppevents  interviews Andreas Fertig who is teaching \"Safe and Efficient C++ for Embedded Environments\"! Andreas brings over 20 years of experience with cplusplus, focusing on practical, hands-on exercises. This class is designed to give you skills in cpp safety for embedded systems.\n\nCourse Description\nAs a developer working with embedded systems, you need tools that help you build smarter, more efficient software. And that\u2019s exactly what the latest C++ updates deliver. With these advancements, tackling the challenges of embedded environments\u2014like those that follow MISRA, Autosar, or SIL\u2014becomes easier. You can meet the strictest standards without sacrificing performance or relia",
+        "id": 3323755,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lanBzXoL8Z8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lanBzXoL8Z8/hqdefault.jpg",
+        "title": "Safe and Efficient C++ For Embedded\u00a0Systems Training Course with 20+ Year Expert Andreas Fertig",
+        "vote": 0
+    }
+]

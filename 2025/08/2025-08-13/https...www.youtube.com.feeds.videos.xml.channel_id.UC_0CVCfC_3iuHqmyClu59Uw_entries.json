@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T14:40:33.216584+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T14:00:10+00:00",
+        "description": "We\u2019ve constructed a compact gaming PC using AMD\u2019s most powerful iGPU, capable of running a wide range of applications, including AAA games and LLMs. In this video, we showcase the process of building a custom mini gaming PC using the new Framework Mainboard, powered by the AMD Ryzen AI MAX+ 395 processor, equipped with 128GB of RAM, and featuring the Radeon 8060S iGPU. This compact form factor delivers exceptional performance. #MiniPC #GamingPC #AMD #Ryzen #PCBuild #Tech #LLM #AIPC #Framework #SmallFormFactor\n\nGM100 Mini PC Case 4.3L: https://amzn.to/4mG2VeU\n\n400W FLEX PSU: https://amzn.to/4oGDnjR\n\nFramework Desktop Mainboard (AMD Ryzen\u2122 AI Max 300 Series): https://frame.work/products/framework-desktop-mainboard-amd-ryzen-ai-max-300-series?v=FRAFMK0004\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% coupon code for software\uff1aETA\nWindows 10 Pro OEM Key($17): https://biitt.ly/KpEmf\nWindows 11 Pro Key($23)",
+        "id": 3320553,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=7wsXLPZxglg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7wsXLPZxglg/hqdefault.jpg",
+        "title": "Building a Ryzen Ai MAX+ 395 Mini PC That Plays Every Game!",
+        "vote": 0
+    }
+]

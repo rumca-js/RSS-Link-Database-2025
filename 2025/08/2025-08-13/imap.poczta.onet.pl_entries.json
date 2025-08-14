@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "InPost (via Poczta Allegro) <powiadomienia@allegromail.pl>",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T15:47:15.459148+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T10:34:46+00:00",
+        "description": "<!DOCTYPE html><html lang=\"pl\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"><head><meta charset=\"utf-8\" />\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=yes\" />\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n<meta name=\"x-apple-disable-message-reformatting\" />\r\n<meta name=\"format-detection\" content=\"telephone=no,address=no,email=no,date=no,url=no\" />\r\n<meta name=\"color-scheme\" content=\"light dark\" />\r\n<meta name=\"supported-color-schemes\" content=\"light dark\" />\r\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" />\r\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\" />\r\n<link href=\"https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&amp;display=swap\" rel=\"stylesheet\" />\r\n<title></title>\r\n  <!--[if gte mso 9]>\r\n  <xml>\r\n    <o:OfficeDocumentSettings>\r\n      <o:PixelsPerInch>96</o:PixelsPerInch>\r\n    </",
+        "id": 3321176,
+        "language": null,
+        "link": "email://imap.poczta.onet.pl/winstonarmanip@op.pl/\r\n <20250813103446.18f07f54-d36f-46dc-8d84-2283445d6df2@allegromail.pl>",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 621,
+        "source_url": "imap.poczta.onet.pl",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "InPost - Paczka ju\u017c na Ciebie czeka",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T14:22:07.351444+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T13:11:00+00:00",
+        "description": "We wrze\u015bniu uczniowie po raz pierwszy usi\u0105d\u0105 w salach wyposa\u017conych w drukarki 3D, roboty edukacyjne czy stacje do pracy z danymi. Zamiast jedynie s\u0142ucha\u0107 o sztucznej inteligencji, b\u0119d\u0105 mogli z ni\u0105 pracowa\u0107.",
+        "id": 3320507,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/szkoly-podstawowe-i-srednie/art42850091-nadchodzi-technologiczna-rewolucja-w-szkolach-miliardy-na-ai-i-superlaboratoria",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nadchodzi technologiczna rewolucja w szko\u0142ach. Miliardy na AI i superlaboratoria",
+        "vote": 0
+    }
+]

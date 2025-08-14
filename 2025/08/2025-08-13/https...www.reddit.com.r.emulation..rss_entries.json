@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Panda3DS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T21:09:53.213299+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T20:03:33+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1mpf05h/chonkystation3_a_new_ps3_emulator_running_gta_san/\"> <img src=\"https://external-preview.redd.it/1_8otojjdnE2ZY3aydGuBKR97KFxdHqH-FENVuDwBKA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4eef5abeb43965fb5f2e96d71bbe9b4086b7e908\" alt=\"ChonkyStation3, a new PS3 emulator, running GTA: San Andreas\" title=\"ChonkyStation3, a new PS3 emulator, running GTA: San Andreas\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>ChonkyStation3, a free and open-source PS3 emulator for Windows, MacOS and Linux, can now run the PS3 Grand Theft Auto: San Andreas remaster!</p> <p>Check out the project on GitHub: <a href=\"https://github.com/liuk7071/ChonkyStation3\">https://github.com/liuk7071/ChonkyStation3</a></p> <p>Join our discord server: <a href=\"https://discord.gg/YU2yjP5jvS\">https://discord.gg/YU2yjP5jvS</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Panda3DS\"> /u/Panda3DS </a",
+        "id": 3323856,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1mpf05h/chonkystation3_a_new_ps3_emulator_running_gta_san",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/1_8otojjdnE2ZY3aydGuBKR97KFxdHqH-FENVuDwBKA.jpeg?width=320&crop=smart&auto=webp&s=4eef5abeb43965fb5f2e96d71bbe9b4086b7e908",
+        "title": "ChonkyStation3, a new PS3 emulator, running GTA: San Andreas",
+        "vote": 0
+    }
+]

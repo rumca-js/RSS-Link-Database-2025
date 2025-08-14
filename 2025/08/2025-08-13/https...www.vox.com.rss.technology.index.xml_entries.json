@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Clark Estes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T10:12:13.261126+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T06:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/08/30_AI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">When it came out in 2013, the movie <em>Her</em> <a href=\"https://slate.com/technology/2025/04/ai-news-her-review-2025-joaquin-phoenix-scarlett-johansson.html\">was set in the \u201cslight future.\u201d</a>&nbsp;</p>\n\n<p class=\"has-text-align-none\">That \u201cslight future\u201d is, astonishingly, here. After all, AI-powered chatbots actually <a href=\"https://www.vox.com/future-perfect/405680/artificial-intelligence-chatbot-friends-relationships-philosophy\">are a real thing now</a>, and people <a href=\"https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html\">are falling in love with them</a>. It\u2019s remarkable that the 2013 Spike Jonze sci-fi romance about a lonely mustachioed man, played by Jo",
+        "id": 3318518,
+        "language": "",
+        "link": "https://www.vox.com/culture/457706/chatgpt-her-movie-ai-future-technology",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/30_AI.png?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Are we living in the movie\u00a0Her\u00a0yet?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T15:45:05.411899+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T15:01:00+00:00",
+        "description": "How many of these did you know about? \ud83e\udd14\n\nRegistry Setting Locations and Names:\n\nHKEY_CURRENT_USER\\Control Panel\\Desktop\n\u2022 MenuShowDelay\n\u2022 DragHeight / DragWidth\n\u2022 DragFromMaximize\n\nHKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\n\u2022 VerboseStatus \n\nHKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Explorer\n\u2022 DisableSearchBoxSuggestions\n\nHKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Serialize\n\u2022 StartupDelayInMSec\n\u2022 WaitForIdleState\n\nHKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\n\u2022 ShowSecondsInSystemClock\n\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:23 - Context Menu Delay\n1:01 - Minimum Drag Distance\n2:19 - Dragging Maximized Windows\n2:53 - Verbose Startup / Shutdown Messages\n3:48 - Disable Web Results in Start Menu Search\n4:17 - Remove Startup Delays\n5:44 - Taskbar Clock Seconds\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop",
+        "id": 3321158,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=V7AuHBZsOj0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V7AuHBZsOj0/hqdefault.jpg",
+        "title": "7 Windows Registry Tweaks to Make Your Life Easier",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T16:38:43.089794+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T16:00:45+00:00",
+        "description": "<p>\n\tC++26 marks a transformative milestone with the adoption of full compile-time reflection, enabling powerful new metaprogramming capabilities. In this post, we&rsquo;ll explore how reflection lets you turn a JSON file directly into a fully-typed C++ object &mdash; all at compile time.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://brevzin.github.io/c++/2025/06/26/json-reflection/\">Reflecting JSON into C++ Objects</a></h3>\n\t<p>\n\t\tby&nbsp;Barry Revzin</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tLast week, C++26 was finalized in Sofia, Bulgaria &mdash;&nbsp;and C++26 will include all of the reflection papers that we were pushing for:</p>\n\t<ol>\n\t\t<li>\n\t\t\t<a href=\"https://isocpp.org/files/papers/P2996R13.html\">P2996R13</a>: Reflection for C++26</li>\n\t\t<li>\n\t\t\t<a href=\"https://isocpp.org/files/papers/P3394R4.html\">P3394R4</a>: Annotations for Reflection</li>\n\t\t<li>\n\t\t\t<a href=\"https://isocpp.org/files/papers/P3293R3.html\">P3293R3</a>: Splicing a Base Class Subobject</li>",
+        "id": 3321806,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/08/reflecting-json-into-cpp-objects-barry-revzin",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Reflecting JSON into C++ Objects -- Barry Revzin",
+        "vote": 0
+    }
+]

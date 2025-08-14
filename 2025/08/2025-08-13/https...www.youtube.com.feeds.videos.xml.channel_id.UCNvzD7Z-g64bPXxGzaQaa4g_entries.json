@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T16:52:19.456404+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T16:16:42+00:00",
+        "description": "Looking for games that do things unlike any others? We've got you covered with these weird unique games.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro\n0:20 Slitterhead\n2:02 Death Stranding 2\n3:56 Blue Prince\n5:22 Last Train Home\n6:54 Robot Alchemic Drive\n8:30 Baba Is You\n9:51 Hi-Fi Rush\n11:18 Killer 7\n13:04 Unicorn Overlord\n14:41 Dredge\n16:07 Pacific Drive\n17:36 Return of the Obra Dinn\n18:27 World of Horror\n19:49 SUPERHOT\n20:52 Illbleed\n22:39 Into The Breach\n24:06 Clash: Artifacts of Chaos\n26:06 Far: Lone Sails\n27:35 Laika: Aged Through Blood\n29:13 Cryptmaster",
+        "id": 3321836,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EpJpE7YEeI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EpJpE7YEeI4/hqdefault.jpg",
+        "title": "20 Insanely Original Games That Play Like Nothing ELSE",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T18:10:03.469643+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T17:34:14+00:00",
+        "description": "Thanks to AMD for keeping this series going and sponsoring this video! Check out their latest offerings at https://lmg.gg/f6PMg\n\nYou can enter AMD's giveaway at https://bit.ly/4ldtB5Q for a chance to win a Pro Gaming Upgrade Bundle valued at over $3000 USD, or one of five Ryzen 7 9800X3D bundles. Both the grand prize and runners up prizes feature merchandise from the LTT Store!\n\nLinus wasn\u2019t here to Baby Sit this AMD Ultimate Tech Upgrade as Elijah and Oliver build a NAS, install new Unifi WiFi, and even play with a toy RC Car. They break a TV, have the worst Monitor Peel you will ever see and even \n\nDiscuss on the forum: https://linustechtips.com/topic/1620294-linus-really-should-have-been-here%E2%80%A6-amd-5000-ultimate-tech-upgrade/\n\nCheck out the items from Oliver's upgrade!\n\nAMD Ryzen 5 7500F: https://geni.us/pkfoMN\nMSI MAG 321UPX QD-OLED 32\" Monitor: https://prsm2.com/-7xfVXbbj\nSyrp Magic Carpet Pro Short Slider https://geni.us/Cg7gBA\nBLAZAR MANTIS 50mm T2.0 1.33x Anamorphic Len",
+        "id": 3322476,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EHwZAqTuPOs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EHwZAqTuPOs/hqdefault.jpg",
+        "title": "Linus REALLY Should have Been Here\u2026 AMD $5000 Ultimate Tech Upgrade",
+        "vote": 0
+    }
+]

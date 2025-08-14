@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Bamafan35611",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T18:15:23.061996+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T17:47:34+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I am looking for a RSS reader that will automatically read the feed as soon as it downloads. I have found some readers that can do text to speech but you have to manually activate it. I need one that will do text to speech as soon as it downloads. Thank you in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bamafan35611\"> /u/Bamafan35611 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1mpbbzd/rss_reader_with_text_to_speech/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1mpbbzd/rss_reader_with_text_to_speech/\">[comments]</a></span>",
+        "id": 3322505,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1mpbbzd/rss_reader_with_text_to_speech",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RSS Reader with text to speech",
+        "vote": 0
+    }
+]

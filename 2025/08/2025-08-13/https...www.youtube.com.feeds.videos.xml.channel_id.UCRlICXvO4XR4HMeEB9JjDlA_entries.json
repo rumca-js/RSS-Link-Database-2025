@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T21:10:03.477740+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T20:00:11+00:00",
+        "description": "Humanity is creating an unfathomable amount of data- particularly video data, like YouTube and TikTok, which is estimated to comprise around 70-80% of all internet traffic. The rest of the data is made up of photos, text data, enterprise data and scientific data. It\u2019s estimated that up to 90% of all data ever created was made in the last two years and more data will be generated in the next two years than in the whole of human history. With all of this in mind, it\u2019s hard to know when the breaking point will be, or whether it\u2019s sustainable\u2026",
+        "id": 3323862,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/JJBZNKUTMb4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JJBZNKUTMb4/hqdefault.jpg",
+        "title": "Why Youtube May Cause the Cloud to Burst\u2026",
+        "vote": 0
+    }
+]

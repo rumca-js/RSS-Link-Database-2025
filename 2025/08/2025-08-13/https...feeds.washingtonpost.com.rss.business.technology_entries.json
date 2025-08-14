@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Taylor Telford",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T11:04:33.207098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T11:00:00+00:00",
+        "description": "Worker influencers are showing what life is like in fields such as construction, plumbing and manufacturing. Trade schools are trying to make the most of it.",
+        "id": 3318873,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/business/2025/08/13/tiktok-skilled-trades-workers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Social media opens a window to traditional trades for young workers",
+        "vote": 0
+    }
+]

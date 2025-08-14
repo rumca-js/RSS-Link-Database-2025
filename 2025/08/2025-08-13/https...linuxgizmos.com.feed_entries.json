@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-13T05:05:29.094722+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-13T04:57:08+00:00",
+        "description": "The DE25-Standard development kit for the Altera University Program features the Intel Agilex 5 SoC FPGA with 138K logic elements, delivering up to 2.5&#215; higher performance than previous generations. Combining high-performance FPGA fabric with an ARM-based hard processor system, it supports a broad range of digital logic, embedded systems, and robotics applications. The Agilex 5 [&#8230;]",
+        "id": 3317088,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/de25-standard-development-kit-with-agilex-5-soc-fpga-and-ddr4-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DE25-Standard Development Kit with Agilex 5 SoC FPGA and DDR4 Support",
+        "vote": 0
+    }
+]
