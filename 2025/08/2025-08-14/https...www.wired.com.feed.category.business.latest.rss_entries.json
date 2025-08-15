@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Benj Edwards, Ars Technica",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T09:06:42.782199+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T09:00:00+00:00",
+        "description": "Anytime you expect AI to be self-aware, you\u2019re in for disappointment. That\u2019s just not how it works.",
+        "id": 3326972,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/chatbot-llm-self-awareness",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/689cd966e2c133088980e0f4/master/pass/Ars-Why-You-Shouldnt-Trust-Chatbot-Talking-About-Self-Business-528115602.jpg",
+        "title": "Why You Can\u2019t Trust a Chatbot to Talk About Itself",
+        "vote": 0
+    }
+]

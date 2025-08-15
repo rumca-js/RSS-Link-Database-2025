@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Grace  Moon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T07:38:50.691199+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T07:21:07+00:00",
+        "description": "Moscow claims the encrypted apps are used for \u201cdeceit and extortion.\u201d Meta says it\u2019s a push to get Russians onto less secure services to allow government surveillance.",
+        "id": 3326636,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/08/14/russia-block-whatsapp-telegram-ban",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Russia restricts WhatsApp and Telegram calls in push to control internet",
+        "vote": 0
+    }
+]

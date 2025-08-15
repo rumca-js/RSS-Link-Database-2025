@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niekryty Krytyk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T16:44:14.609952+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T16:01:03+00:00",
+        "description": "https://youtu.be/uSPLr0LCXk4",
+        "id": 3330417,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/_m7j9Gq85JU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 441,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCura5JPb8QkzXrMfAxq4Ssw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_m7j9Gq85JU/hqdefault.jpg",
+        "title": "Pantera",
+        "vote": 0
+    }
+]

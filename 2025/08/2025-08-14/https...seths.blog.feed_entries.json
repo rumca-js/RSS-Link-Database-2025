@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T11:01:35.139867+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T09:03:00+00:00",
+        "description": "Not really. Just a post about sponsors. Even if you don&#8217;t run a media company, the way media companies run matters. That&#8217;s because media shapes our culture and how we spend our time. There are three kinds of ad models, and it&#8217;s easy to confuse them. The most common and historically powerful is the traditional [&#8230;]",
+        "id": 3327464,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/a-now-a-word-from-our-sponsor",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cAnd now, a word from our sponsor\u201d",
+        "vote": 0
+    }
+]

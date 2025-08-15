@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T13:33:40.303465+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T11:01:27+00:00",
+        "description": "Sign up to attend IBM TechXchange 2025 in Orlando \u2192 https://ibm.biz/Bdej4m\n\nLearn more about Penetration Testing here \u2192 https://ibm.biz/Bde2MF\n\nAI models aren\u2019t impenetrable\u2014prompt injections, jailbreaks, and poisoned data can compromise them. \ud83d\udd12 Jeff Crume explains penetration testing methods like sandboxing, red teaming, and automated scans to protect large language models (LLMs). Protect sensitive data with actionable AI security strategies!\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/Bde2ME\n\n#aisecurity #llm #promptinjection #ai",
+        "id": 3328725,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xOQW_qMZdlc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xOQW_qMZdlc/hqdefault.jpg",
+        "title": "AI Model Penetration: Testing LLMs for Prompt Injection & Jailbreaks",
+        "vote": 0
+    }
+]

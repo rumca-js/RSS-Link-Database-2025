@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T16:39:55.592873+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T15:34:23+00:00",
+        "description": "Many years have been packed with great games, making for some stiff awards season competition. Here are some games we think should've come out on top.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1\n\n0:00 Intro\n0:24 Ghost of Tsushima\n2:16 Red Dead Redemption 2\n4:26 Indiana Jones and the Great Circle\n6:42 Inscryption\n8:30 DOOM (2016)\n10:16 Alien: Isolation\n13:45 Call of Duty 4: Modern Warfare\n16:06 Dishonored\n18:48 Batman: Arkham Asylum\n21:50 Prince of Persia: The Sands of Time",
+        "id": 3330401,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zmTU2OPOcmM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zmTU2OPOcmM/hqdefault.jpg",
+        "title": "10 Games That Got ROBBED by Game of The Year",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T17:33:52.050788+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T16:34:58+00:00",
+        "description": "Today's links \"Privacy preserving age verification\" is bullshit: Take it from the guy who invented it. Hey look at this: Delights to delectate. Object permanence: Vampire sf; Trickle-down Sesame Street; Transgenic mouse bribery; WPA StreetView; Walmart's policy origins. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. \"Privacy preserving age verification\" is bullshit (permalink) I don't think that it's impossible for politicians, even nontechnical politicians, to make good tech policy. After all, the fact that no one in Congress is a microbiologist doesn't stop federal standards from delivering potable water (and it doesn't excuse the ghastly failures, such as Flint, MI): https://pluralistic.net/2024/11/21/policy-based-evidence/ For politicians to make good policy, they don't need to be technical experts: they need to have so",
+        "id": 3330862,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/08/14/bellovin",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/14Aug2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: \"Privacy preserving age verification\" is bullshit (14 Aug 2025)",
+        "vote": 0
+    }
+]

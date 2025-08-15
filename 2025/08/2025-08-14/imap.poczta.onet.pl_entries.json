@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "No-IP Notices <noreply-33693587@noip.com>",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T18:59:15.653445+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T18:52:56+00:00",
+        "description": "\r\nAt No-IP we take security seriously. A one time account verification PIN has been issued for extra security confirmation. This PIN is only valid for 10 minutes.\r\n\r\n\r\n718998\r\n\r\nIf this wasn&#039;t you, please change your password immediately to secure your account. We recommending enabling Two-Factor Authentication. If you have any questions or need assistance please open a Support Ticket or give us a call at 775.853.1883.\r\n\r\n",
+        "id": 3331463,
+        "language": null,
+        "link": "email://imap.poczta.onet.pl/winstonarmanip@op.pl/<8bb7509cce9c8abf62da6bcd2b7af47d@swift.generated>",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 621,
+        "source_url": "imap.poczta.onet.pl",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "No-IP Verification Code: 718998",
+        "vote": 0
+    }
+]

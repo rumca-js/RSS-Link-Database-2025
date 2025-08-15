@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T17:47:33.501882+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T17:30:12+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/wgka7WZ_X8k\" width=\"480\" alt=\"thumbnail\" title=\"They Disrespected Linux's Biggest Cow\" /></p>We need more mascots on Linux but one of the major mascots we do have is known as Larry the Cow from the Gentoo project and today I wanted to talk a bit about where Larry came from and a funny issue report along the way.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Larry Issue Report: https://bugs.gentoo.org/27727<br />Larry Wiki Page 1: https://wiki.gentoo.org/wiki/Project:Artwork/Artwork#Larry_the_Cow<br />Font Heads: https://web.archive.org/web/20110711014950/http://www.fonthead.com/fonts/Font-Heads<br />Main Larry Wiki Page: https://wiki.gentoo.org/wiki/Larry_the_cow<br /><br />=========",
+        "id": 3330920,
+        "language": "en",
+        "link": "https://odysee.com/they-disrespected-linux%27s-biggest-cow:2bfb14d0b72c0eb2595bfb341ee486949a79b307",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/wgka7WZ_X8k",
+        "title": "They Disrespected Linux's Biggest Cow",
+        "vote": 0
+    }
+]

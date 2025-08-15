@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T16:31:32.254303+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T16:04:50+00:00",
+        "description": "<p>DeepSeek&#8217;s plan to train its new AI model, R2, on Huawei\u2019s Ascend chips has failed and forced a retreat to Nvidia while delaying launch. For months, the narrative pushed by Beijing has been one of unstoppable technological progress and a march towards self-sufficiency. However, reality has a habit of biting back. The recent troubles of [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/deepseek-reverts-nvidia-r2-model-huawei-ai-chip-fails/\">DeepSeek reverts to Nvidia for R2 model after Huawei AI chip fails</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3330378,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/deepseek-reverts-nvidia-r2-model-huawei-ai-chip-fails",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2022/04/ai-expo-world-728x-90-01.png",
+        "title": "DeepSeek reverts to Nvidia for R2 model after Huawei AI chip fails",
+        "vote": 0
+    }
+]

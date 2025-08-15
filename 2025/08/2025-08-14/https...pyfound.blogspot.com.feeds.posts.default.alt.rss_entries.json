@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T16:45:05.511196+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T16:19:00+00:00",
+        "description": "<p>What an exciting list! <b>Please take a look at who is running for the PSF Board this year on the <a href=\"https://www.python.org/nominations/elections/2025-python-software-foundation-board/nominees/\" target=\"_blank\">2025 Nominees page</a>. </b>This year there are 4 seats open on the PSF Board. You can see who is currently on the board on the <a href=\"https://www.python.org/psf/board/\" target=\"_blank\">PSF Officers &amp; Directors page</a>. (Dawn Wages, Jannis Leidel, Kushal Das, and Simon Willison are at the end of their current terms.)&nbsp;<br /></p><h2 style=\"text-align: left;\">Board Election Timeline:</h2><ul style=\"text-align: left;\"><li>Nominations open: Tuesday, July 29th, 2:00 pm UTC</li><li>Nomination cut-off: Tuesday, August 12th, 2:00 pm UTC</li><li>Announce candidates: Thursday, August 14th</li><li>Voter affirmation cut-off: Tuesday, August 26th, 2:00 pm UTC</li><li>Voting start date: Tuesday, September 2nd, 2:00 pm UTC</li><li>Voting end date: Tuesday, September 16th, ",
+        "id": 3330423,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/08/announcing-psf-board-candidates-for-2025.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Announcing the PSF Board Candidates for 2025!",
+        "vote": 0
+    }
+]

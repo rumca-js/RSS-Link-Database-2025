@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Crystal-Rose Jones",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T23:37:09.218105+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T23:12:19+00:00",
+        "description": "Microsoft analysed 200,000 anonymous and privacy-scrubbed conversations between users and its AI program Copilot to find calculate which jobs were most at risk.",
+        "id": 3333238,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/australias-resource-rich-edge-could-keep-the-lucky-country-safe-from-ai-academics-5899594",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/02/10/id5807228-GettyImages-2094957356-1080x720.jpg",
+        "title": "Australia\u2019s Resource-Rich Edge Could Keep the \u2018Lucky Country\u2019 Safe From AI: Academics",
+        "vote": 0
+    }
+]

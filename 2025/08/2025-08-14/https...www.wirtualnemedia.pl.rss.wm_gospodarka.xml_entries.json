@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T04:29:25.646349+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T04:29:25+00:00",
+        "description": "Sie\u0107 Auchan uruchomi\u0142a pilota\u017cowy sklep w mobilnym formacie Auchan Summer. Nowy, kompaktowy punkt handlowy, zlokalizowany na parkingu Centrum Handlowego Port Rumia, oferuje klientom blisko 500 produkt\u00f3w, w tym najch\u0119tniej kupowanych latem przek\u0105sek, gotowych da\u0144, napoj\u00f3w i lod\u00f3w.",
+        "id": 3325878,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/auchan-summer-czyli-mobilny-sklep-nowego-konceptu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Auchan Summer, czyli hipermarketowy gigant idzie \u015bladami \u017babki",
+        "vote": 0
+    }
+]

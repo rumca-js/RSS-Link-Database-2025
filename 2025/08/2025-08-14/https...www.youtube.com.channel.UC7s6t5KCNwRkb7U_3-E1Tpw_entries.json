@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-14T00:44:06.307343+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-14T00:15:39+00:00",
+        "description": "Use code 50ONJAKE to get 50% OFF plus free shipping on your first Factor box at\nhttps://bit.ly/4fJeK0Y!  Thanks to Factor for sponsoring this video.\n\n\nLet's talk Bioshock 4 news and the next Resident Evil movie.\n\n~~SOURCES~~\n\nhttps://www.bloomberg.com/news/articles/2025-08-01/next-bioshock-game-changes-leaders-after-development-turmoil\n\nhttps://www.ign.com/articles/bioshock-4-is-going-to-come-out-take-two-ceo-strauss-zelnick-promises-that-i-can-say-hand-on-heart-without-question\n\nhttps://www.inverse.com/zach-cregger-interview-resident-evil-weapons\n\nhttps://www.videogameschronicle.com/news/weapons-directors-resident-evil-movie-wont-have-existing-characters-because-fans-can-play-the-games-for-their-stories/",
+        "id": 3325000,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4xLzn-YSUTM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4xLzn-YSUTM/hqdefault.jpg",
+        "title": "Bioshock 4 - Time to move on?",
+        "vote": 0
+    }
+]
