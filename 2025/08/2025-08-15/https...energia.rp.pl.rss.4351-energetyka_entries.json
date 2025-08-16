@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T09:16:02.657736+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T09:16:01+00:00",
+        "description": "Prorosyjski rz\u0105d W\u0119gier oskar\u017cy\u0142 Ukrain\u0119 o atak na wa\u017cn\u0105 stacj\u0119 dystrybucyjn\u0105 naftoci\u0105gu Przyja\u017a\u0144. S\u0142owo \u201eRosja\u201d nie pada w o\u015bwiadczeniu szefa MSZ W\u0119gier ani razu. W\u0119gierscy internauci nie pozostawili na ministrze suchej nitki.",
+        "id": 3335369,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ropa/art42857281-wegierski-minister-slownie-napadl-na-ukraine-zareagowali-internauci",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W\u0119gierski minister s\u0142ownie napad\u0142 na Ukrain\u0119. Zareagowali internauci",
+        "vote": 0
+    }
+]

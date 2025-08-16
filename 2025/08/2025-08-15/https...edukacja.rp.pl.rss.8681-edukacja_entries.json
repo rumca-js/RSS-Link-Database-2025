@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T06:38:03.737367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T06:38:03+00:00",
+        "description": "ZUS rozpocz\u0105\u0142 wyp\u0142aty \u015bwiadczenia 300 plus. \u015arodki na zakup wyprawki szkolnej z programu Dobry Start przyznano ju\u017c 3,3 mln uczni\u00f3w. O \u015bwiadczenie mo\u017cna si\u0119 ubiega\u0107 od lipca. Aby otrzyma\u0107 je jeszcze we wrze\u015bniu, trzeba z\u0142o\u017cy\u0107 wniosek w odpowiednim terminie.",
+        "id": 3334846,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/praca-emerytury-i-renty/art42840431-zus-przypomina-o-waznym-terminie-przy-popularnym-swiadczeniu-czas-do-konca-sierpnia",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ZUS przypomina o wa\u017cnym terminie przy popularnym \u015bwiadczeniu. Czas do ko\u0144ca sierpnia",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T13:35:59.996264+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T13:12:55+00:00",
+        "description": "A UN commission found war crimes were \"likely\" committed by former regime fighters and interim government force members in March.",
+        "id": 3337007,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c4gjw13w2x9o?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e16f/live/0b1fc9c0-79cb-11f0-8827-ede848a7813c.jpg",
+        "title": "War crimes likely committed in Syria coastal violence, UN says",
+        "vote": 0
+    }
+]

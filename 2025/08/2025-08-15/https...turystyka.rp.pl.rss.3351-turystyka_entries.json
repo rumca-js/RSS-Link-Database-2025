@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T06:41:45.205877+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T06:41:44+00:00",
+        "description": "Turcja rozwa\u017ca zast\u0105pienie szwedzkiego sto\u0142u w hotelach menu \u00e0 la carte. Zdaniem ekspert\u00f3w w obecnym systemie marnuje si\u0119 za du\u017co jedzenia.",
+        "id": 3334847,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art42864811-turcja-hotelowe-bufety-to-marnotrawstwo-jedzenia-czas-z-tym-skonczyc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Turcja: Hotelowe bufety to marnotrawstwo jedzenia. Czas z tym sko\u0144czy\u0107",
+        "vote": 0
+    }
+]

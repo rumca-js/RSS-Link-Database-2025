@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SAMTIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T17:56:25.589783+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T17:18:32+00:00",
+        "description": "YouTube is now verifying your ages on the website and... I might have given them the idea.\n\nVIDEOS MENTIONED\u2026\nEnd of YouTube SONG: https://youtu.be/eYcibxtoga4\nIntroducing the fatPAD: https://www.youtube.com/watch?v=szeYYt6QiaE\nSamsung Turned My Joke Into a Real Product: https://www.youtube.com/watch?v=lQq1vmBcBvI\nHow To Print Money: https://www.youtube.com/watch?v=3PR4TzHVoeY\n\nARTICLES\u2026\nYouTube AI Age Verification: https://blog.youtube/news-and-events/extending-our-built-in-protections-to-more-teens-on-youtube/\nYouTube\u2019s Blog Post about it: https://blog.youtube/news-and-events/extending-our-built-in-protections-to-more-teens-on-youtube/\nAustralian Age Checks for Google: https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256\nUK Age Verification: https://www.bbc.com/news/articles/c1k81lj8nvpo\nUS States Age Verification: https://eu.tennessean.com/story/news/2025/08/14/age-verification-laws-protecting-kids-or-restricting-speech/85414006007/\nEU Countries Test Age",
+        "id": 3339034,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ZvK1-BHxsdI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 290,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd6vEDS3SOhWbXZrxbrf_bw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZvK1-BHxsdI/hqdefault.jpg",
+        "title": "I Caused YouTube\u2019s New Age Verification",
+        "vote": 0
+    }
+]

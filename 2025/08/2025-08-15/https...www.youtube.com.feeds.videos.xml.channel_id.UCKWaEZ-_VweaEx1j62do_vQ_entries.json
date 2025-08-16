@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T11:35:56.949892+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T10:00:21+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/BdePfr\n\nWould you sell Chrome for USD 34.5 billion dollars? In episode 68 of Mixture of Experts, host Tim Hwang is joined by Abraham Daniels, Sophie Kuijt  and Shobhit Varshney for another packed week in AI. First, AI startup Perplexity puts out a bid for Google Chrome at over double their valuation. Why? Next, xAI released Grok Imagine and claims it will be the next Vine. Our experts analyze the future of AI video generation. Finally, one week after the GPT-5 release and skeptics are saying it did not live up to the hype. Is AI development plateauing? All that and more on Mixture of Experts! \n\n00:00 \u2013 Intro \n01:17 \u2013 MoE News: NVIDIA H20s, Apple AI devices, AI people pleasers and Google DeepMind\u2019s bioacoustics model \n02:40 \u2013 Perplexity\u2019s USD 34.5B bid \n12:10 \u2013 Grok Imagine \n24:23 \u2013 GPT-5 check-in \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the",
+        "id": 3336197,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HK17Bt5rUtc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HK17Bt5rUtc/hqdefault.jpg",
+        "title": "Perplexity\u2019s bid for Chrome, Grok Imagine and GPT-5 check-in",
+        "vote": 0
+    }
+]

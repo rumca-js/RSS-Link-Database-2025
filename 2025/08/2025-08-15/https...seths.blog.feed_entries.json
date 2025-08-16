@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T10:53:20.089498+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T10:05:00+00:00",
+        "description": "More than ten years ago, we broke records with my previous Kickstarter. Now I&#8217;m back with a suite of AI-powered cards. For the last five months, I&#8217;ve been in full sprint mode, and this is what I&#8217;ve been building. We launched the Mentor Deck in beta two weeks ago, and I was thrilled and delighted [&#8230;]",
+        "id": 3336065,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/the-new-kickstarter-is-live",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/seths.blog/wp-content/uploads/2025/08/three_boxes_with_single_light_shadow.png?resize=1024%2C512&ssl=1",
+        "title": "The new Kickstarter is live",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T21:08:16.492596+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T20:35:25+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/08/g49b.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"GNOME 49 Beta\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/g49b.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/g49b.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/g49b.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>GNOME 49 Beta desktop environment is now available for public testing with more new features and improvements ahead of the final release on September 17th, 2025. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/gnome-49-beta-released-for-public-testing-on-gnomes-28th-anniversary\">GNOME 49 Beta Released for Public Testing on GNOME&#8217;s 28th Anniversary</a> appeared first on <a href=\"https://9to5linux.co",
+        "id": 3340255,
+        "language": "en-US",
+        "link": "https://9to5linux.com/gnome-49-beta-released-for-public-testing-on-gnomes-28th-anniversary",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/08/g49b.webp",
+        "title": "GNOME 49 Beta Released for Public Testing on GNOME\u2019s 28th Anniversary",
+        "vote": 0
+    }
+]

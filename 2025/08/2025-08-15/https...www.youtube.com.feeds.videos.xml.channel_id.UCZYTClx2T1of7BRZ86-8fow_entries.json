@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T15:46:10.837586+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T15:00:38+00:00",
+        "description": "JMP offers a 30-day free trial for anyone, anywhere. Go to https://www.jmp.com/scishow to see the benefits of visual statistics for yourself. \n\nThis video description is brought to you by language. But how long have humans been able to use our gift of gab? The answer is a lot more complicated than you might think. From studying fossil brains and ear bones to DNA migration evidence, here are some of the ways we've tried to solve the problem.\n\nHosted by: Niba @NotesbyNiba (she/her)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Lyndsay Brown, David Johnston, Adam Brainard, Garrett Galloway, Blood Doctor Kelly, Matt Curls, Jeremy Mattern, Friso, Chris Curry, Reed Spi",
+        "id": 3338016,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Kki11f_SpKs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Kki11f_SpKs/hqdefault.jpg",
+        "title": "How Old IS Language?",
+        "vote": 0
+    }
+]

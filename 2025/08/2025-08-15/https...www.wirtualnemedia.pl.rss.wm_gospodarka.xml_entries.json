@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T20:44:48.854837+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T20:44:48+00:00",
+        "description": "Model biznesowy wielkich platform, oparty na anga\u017cowaniu emocji u\u017cytkownik\u00f3w i profilowanej reklamie, wywo\u0142uje szkody dla spo\u0142ecze\u0144stwa, medi\u00f3w i pa\u0144stwa; Fundacja Panoptykon jest za tym, \u017ceby big techy p\u0142aci\u0142y za to przez podatek cyfrowy - wskaza\u0142 w rozmowie z PAP prawnik fundacji Wojciech Klicki.",
+        "id": 3340211,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/rzad-szykuje-podatek-cyfrowy-ekspert-nalezy-obciazyc-big-techy-za-szkody",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rz\u0105d szykuje podatek cyfrowy. Ekspert: nale\u017cy obci\u0105\u017cy\u0107 big techy za szkody",
+        "vote": 0
+    }
+]

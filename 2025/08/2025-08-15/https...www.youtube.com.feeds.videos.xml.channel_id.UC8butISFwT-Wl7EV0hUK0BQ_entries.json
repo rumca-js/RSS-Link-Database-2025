@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T13:40:59.198064+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T13:00:06+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dominick Monaco. He dropped out college to hike the Appalachian Trail, a 2,200 mile backpacking route across the US. After working in nature conservation for 3 years, he taught himself how to program and now works as a developer.\n\nWe talk about:\n- Life working as a Yogi Bear-style forest ranger in training\n- Close brushes with death in the wilderness and how it affects you\n- Learning programming for a grand total of $15\n- How surrounding yourself with other ambitious learners can help you learn programming faster\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 11,189 kind folks who support freeCodeCamp through a monthly donation. You can join these chill human beings and help ",
+        "id": 3337013,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=16emGG-guIo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/16emGG-guIo/hqdefault.jpg",
+        "title": "From drop-out to backpacker to self-taught developer with Dominick Monaco [Podcast #183]",
+        "vote": 0
+    }
+]

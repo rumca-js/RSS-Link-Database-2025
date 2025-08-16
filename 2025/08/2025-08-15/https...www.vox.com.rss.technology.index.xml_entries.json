@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dylan Matthews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T11:08:07.265533+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T06:45:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Donald Trump, left, and Jensen Huang stand in the White House.\" data-caption=\"President Donald Trump and Jensen Huang, co-founder and CEO of Nvidia, at the White House in Washington, DC, on April 30, 2025.\ufeff | Ken Cedeno/UPI/Bloomberg via Getty Images\ufeff\" data-portal-copyright=\"Ken Cedeno/UPI/Bloomberg via Getty Images\ufeff\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2212187921.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tPresident Donald Trump and Jensen Huang, co-founder and CEO of Nvidia, at the White House in Washington, DC, on April 30, 2025.\ufeff | Ken Cedeno/UPI/Bloomberg via Getty Images\ufeff\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Whatever else can be said about the second Trump administration, it is always teaching me about parts of the Constitution I had forgotten were even in there.</p>\n\n<p class=\"has-text-align-none\">Case in point: <a href=\"https://constitution.",
+        "id": 3336115,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/458088/nvidia-trump-h20-chip-ai-china",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2212187921.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The Nvidia chip deal that has Trump officials threatening to quit",
+        "vote": 0
+    }
+]

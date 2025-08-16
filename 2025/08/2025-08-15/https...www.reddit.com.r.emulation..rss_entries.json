@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Arisotura",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T23:03:24.921464+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T22:58:55+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>melonDS has had DSi support for 6 years now, but it was always &quot;experimental&quot;, and rough around the edges.</p> <p>But the gap is rapidly closing!</p> <p>The last release, melonDS 1.0, already came with significant improvements to camera and DSP emulation. However, anything that used the DSP would run at terrible speeds, which stuck out like a sore thumb -- because melonDS isn&#39;t generally this slow. And it turns out, there&#39;s actually quite a bunch of DSi titles that use the DSP in one way or another...</p> <p>Enter the dsp_hle branch.</p> <p>Thanks to CasualPokePlayer&#39;s research, the DSP ucodes used in DSi games could be narrowed down to 3 main groups:</p> <ul> <li>AAC SDK: provides an AAC decoder</li> <li>G711 SDK: provides a G711 codec, supporting A-law and \u00b5-law encoding</li> <li>Graphics SDK: provides functions to scale bitmaps and convert YUV pictures to 15-bit RGB</li> </ul> <p>All the ucode groups also share basic audio fun",
+        "id": 3340952,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1mrdaub/melonds_bringing_dsi_emulation_up_to_par",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "melonDS: bringing DSi emulation up to par",
+        "vote": 0
+    }
+]

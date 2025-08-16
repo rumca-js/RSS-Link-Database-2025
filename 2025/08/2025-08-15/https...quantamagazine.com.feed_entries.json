@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Sloman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T14:11:34.341712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T13:22:27+00:00",
+        "description": "For decades, mathematicians have struggled to understand matrices that reflect both order and randomness, like those that model semiconductors. A new method could change that.            <p>The post <a href=\"https://www.quantamagazine.org/new-physics-inspired-proof-probes-the-borders-of-disorder-20250815/\" target=\"_blank\">New Physics-Inspired Proof Probes the Borders of Disorder</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3337430,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/new-physics-inspired-proof-probes-the-borders-of-disorder-20250815",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/08/BandMatrices-crWei-AnJin-Default.webp",
+        "title": "New Physics-Inspired Proof Probes the Borders of Disorder",
+        "vote": 0
+    }
+]

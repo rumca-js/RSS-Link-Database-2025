@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T17:06:04.951514+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T14:54:25+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nAgility \u2260 Speed - Agile Development - Kevlin Henney - ACCU 2025\n---\n\nVelocity. Sprints. More points, more speed.\n\nAn obsession with speed often overtakes the core values of agile software development, leading to a backlash and its devaluation. Agile software development is not simply about the development of software; it's development of working software. Sprints are not about sprinting; they're about sustainable pace. Time to market is less important than time in market. Full-stack development is normally a statement about technology, but it also applies to individuals and interactions. The full stack touches both the code and the world outside the code, and with that view comes responsibility and pause for thought. Doing the wrong thing smarter is not smart. The point of a team is its group intelligence not its numbers. Is scaling up the challenge, or is scaling down the real challenge?\n\nThe distraction and misuse of speed, velocity",
+        "id": 3338669,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FHkRPqriuvw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FHkRPqriuvw/hqdefault.jpg",
+        "title": "Agility \u2260 Speed - Agile Development - Kevlin Henney - ACCU 2025",
+        "vote": 0
+    }
+]

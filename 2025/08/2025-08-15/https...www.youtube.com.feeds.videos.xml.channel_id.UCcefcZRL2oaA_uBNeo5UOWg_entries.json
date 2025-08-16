@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T14:24:44.085577+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T14:00:18+00:00",
+        "description": "Navigating B2B sales for the first time can feel slow and overwhelming.\n\nDrawing from his experience founding Monzo and GoCardless, YC's Tom Blomfield shares his playbook for running a tight sales process that lands real, recurring revenue. He walks through each step\u2014free and paid pilots, opt-out contracts, long-term deals\u2014and shows how to prove value and close customers.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:21 - The Typical B2B Sales Progression\n01:00 - Common Pitfalls in Early Stages\n01:38 - Understanding Design Partnerships\n02:56 - Identifying Customer Problems\n04:18 - Avoiding Overbuilding\n06:11 - Transitioning to Free Trials\n07:11 - Defining Success Metrics\n08:38 - Overcoming Customer Objections\n10:01 - Moving to Paid Trials\n10:20 - Securing Financial Commitments\n11:30 - Optimizing Pilot Engagement\n13:47 - Recurring Revenue Contracts\n15:33 - Focusing on Customer Success",
+        "id": 3337457,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DH7REvnQ1y4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DH7REvnQ1y4/hqdefault.jpg",
+        "title": "The Sales Playbook for Founders | Startup School",
+        "vote": 0
+    }
+]

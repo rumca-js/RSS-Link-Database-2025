@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aaron Mackey",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T18:35:04.217820+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T17:38:20+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>In the wake of rolling out its own proposal to significantly limit a key law protecting internet users\u2019 speech in the summer of 2020, the Department of Justice under the first Trump administration actively worked with lawmakers to support further efforts to stifle online speech.</p>\n<p>The new <a href=\"https://www.documentcloud.org/documents/26050394-05-30-25-oip-final-response/\">documents</a>, disclosed in an EFF Freedom of Information Act (FOIA) lawsuit, show officials were <a href=\"https://www.documentcloud.org/documents/26050394-05-30-25-oip-final-response/#document/p339\">talking</a> with Senate staffers <a href=\"https://www.documentcloud.org/documents/26050394-05-30-25-oip-final-response/#document/p29\">working to pass</a> speech- and privacy-chilling bills like the <a href=\"https://www.eff.org/deeplinks/2022/02/its-back-senators-want-ear",
+        "id": 3339471,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/08/new-documents-show-first-trump-doj-worked-congress-amend-section-230",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New Documents Show First Trump DOJ Worked With Congress to Amend Section 230",
+        "vote": 0
+    }
+]

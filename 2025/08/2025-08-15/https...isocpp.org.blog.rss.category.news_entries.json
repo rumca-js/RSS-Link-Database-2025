@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T15:26:11.924877+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T15:05:43+00:00",
+        "description": "<p>\n\t<img alt=\"2025-07-01-when-to-not-use-a-virtual-dtor-tw.png\" src=\"https://isocpp.org/files/img/2025-07-01-when-to-not-use-a-virtual-dtor-tw.png\" style=\"width: 201px; margin: 10px; float: right; height: 113px;\" />When should a destructor be virtual in C++? In this post, we&rsquo;ll explore a real-world example from smart pointer implementation to illustrate when virtual destructors are necessary &mdash; and when they&rsquo;re not.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2025/07/a-virtual-destructor-in-cpp-when/\">A virtual destructor in C++, when?</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIn today&#39;s post, I would like to explain a design rationale used in my post&nbsp;<a href=\"https://andreasfertig.com/blog/2024/09/understanding-the-inner-workings-of-cpp-smart-pointers-the-shared_ptr/\">Understanding the inner workings of C++ smart pointers - The shared_ptr</a>.</p>\n\t<p>\n\t\tKeen readers spotted that ",
+        "id": 3337971,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/08/a-virtual-destructor-in-cpp-when-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/2025-07-01-when-to-not-use-a-virtual-dtor-tw.png",
+        "title": "A virtual destructor in C++, when? -- Andreas Fertig",
+        "vote": 0
+    }
+]

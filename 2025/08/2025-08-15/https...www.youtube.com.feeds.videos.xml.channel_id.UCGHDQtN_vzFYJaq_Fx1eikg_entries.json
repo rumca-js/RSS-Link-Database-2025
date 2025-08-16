@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T21:06:18.721628+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T20:00:17+00:00",
+        "description": "We only know how this story ended, and it doesn't seem to have been a happy story. \n\n\n\"In 1836 five boys hunting for rabbits found a set of 17 miniature coffins containing small wooden figures in a cave on the crags of Arthur's Seat. The purpose has remained a mystery ever since the discovery. A strong contemporary belief was that they were made for witchcraft, though more recently it has been suggested that they might be connected with the murders committed by Burke and Hare in 1828. There were 16 known victims of the serial-killers plus the first person sold \"to the doctors\", namely a man who had died of natural causes. However, the murder victims were primarily female, while the eight surviving figures are male. Alternatively, the coffins may have represented the 16 bodies sold to the doctors, plus that of the final victim who remained unburied at the time of the duo's arrest, but was, as a destitute beggar, very likely dissected in any case. The surviving coffins are now displayed",
+        "id": 3340249,
+        "language": "rn",
+        "link": "https://www.youtube.com/watch?v=Ca2xg6RfKHc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Ca2xg6RfKHc/hqdefault.jpg",
+        "title": "The Tragedy We Don't Understand | Enigma Files",
+        "vote": 0
+    }
+]

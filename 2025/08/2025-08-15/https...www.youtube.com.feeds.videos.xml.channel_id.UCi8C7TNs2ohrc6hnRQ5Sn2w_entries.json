@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T15:18:20.048443+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T14:45:04+00:00",
+        "description": "Submitting more tech debt requests that PRs.\n\nFrom 'Interview with 0.1x engineer [Office Edition]'.\n\nMicroservieces, Kubernetes, Neo4J...everyone has that one gui suggesting the latest tech stacks.\n\n\n#programming #humor #officehumor",
+        "id": 3337956,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/ZMYPdClFvA8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZMYPdClFvA8/hqdefault.jpg",
+        "title": "That one guy in tech meetings",
+        "vote": 0
+    }
+]

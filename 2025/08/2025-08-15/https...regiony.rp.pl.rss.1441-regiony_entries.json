@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T07:42:08.981423+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T07:42:08+00:00",
+        "description": "Wed\u0142ug badania opublikowanego na \u0142amach czasopisma The Lancet, w 2015 roku w niemal 100 europejskich miastach upa\u0142y doprowadzi\u0142y do ponad 6700 zgon\u00f3w. Co trzeciego z nich mo\u017cna by\u0142o unikn\u0105\u0107, gdyby drzewa pokrywa\u0142y co najmniej 30 proc. tych miast.",
+        "id": 3335069,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art42857971-jak-lokalne-wladze-walcza-z-upalami-wiecej-zieleni-mniej-betonu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jak lokalne w\u0142adze walcz\u0105 z upa\u0142ami? Wi\u0119cej zieleni, mniej betonu",
+        "vote": 0
+    }
+]

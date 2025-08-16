@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Boyle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-15T22:26:04.422513+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-15T21:45:07+00:00",
+        "description": "Go to https://ground.news/pb to get up to 40% off unlimited access to stay fully informed. Subscribe through my link this month for 40% off unlimited access.\n\nIn this deep dive, we unpack Donald Trump\u2019s controversial deal with Nvidia and AMD \u2014 a 15% revenue-sharing arrangement that allows U.S. AI chips to be exported to China. Is this a clever geopolitical strategy or a dangerous precedent that monetizes national security?\nWe explore:\nHow the deal was brokered and what it means for U.S. trade policy\nLegal and constitutional concerns surrounding export controls\nStrategic risks of enabling China\u2019s AI development\nComparisons to China\u2019s rare earth leverage and Xi Jinping\u2019s CEO control\nThe broader pattern of Trump\u2019s executive interference in private enterprise\nFeaturing analysis on the H20 chip, inference bottlenecks, golden shares, and the future of American capitalism.\n\nPatrick's Books:\nStatistics For The Trading Floor:  https://amzn.to/3eerLA0\nDerivatives For The Trading Floor:  https:/",
+        "id": 3340686,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0d2pCt8JomQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 648,
+        "source_url": "https://youtube.com/channel/UCASM0cgfkJxQ1ICmRilfHLw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0d2pCt8JomQ/hqdefault.jpg",
+        "title": "15% to the Treasury: Trump\u2019s Nvidia Export Kickback",
+        "vote": 0
+    }
+]
