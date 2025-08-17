@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T02:42:55.030655+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T02:31:11+00:00",
+        "description": "[InfoWire] After nearly a decade of legal siege, &#xA3;50 million worth of prime London properties have been released from UK court restraints, marking the end of one of the most politically charged property battles to cross continents.",
+        "id": 3341756,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202508160001.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Triumph Over Legal Tyranny: Billionaire Benedict Peters'  &#xA3;50m UK Property Battle Ends in Victory",
+        "vote": 0
+    }
+]

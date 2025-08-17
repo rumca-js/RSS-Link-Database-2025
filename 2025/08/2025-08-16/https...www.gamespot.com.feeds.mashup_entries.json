@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T10:31:10.349109+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T02:22:00+00:00",
+        "description": "<div title=\"6533998 -- Teenage Mutant Ninja Turtles Trilogy (4K Limited Edition Blu-ray)\" data-embed-type=\"buylink\" data-ref-id=\"4107\" data-template=\"2\" data-size=\"buylink__large\" data-title=\"6533998 -- Teenage Mutant Ninja Turtles Trilogy (4K Limited Edition Blu-ray)\" data-collection=\"\" class=\"norewrite\">    <div class=\"buylink__container\">                                                                                                                                                                                               <div class=\"buylink__item\">                  <div class=\"buylink__image-container clickable\">                                            <img class=\"buylink__image\" src=https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4550278-tmnt-square.jpg alt=\"\">                                 <a href=\"https://www.amazon.com/dp/B0FMGKJTY8?tag=gamespot-preorders-20\"></a>                              </div>                   <div class=\"buylink__text\">          ",
+        "id": 3343256,
+        "language": "en-US",
+        "link": "https://www.gamespot.com/articles/teenage-mutant-ninja-turtles-original-movie-trilogy-preorder-new-4k-blu-ray-limited-edition/1100-6533998/?ftag=CAD-01-10abi2f",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 126,
+        "source_url": "https://www.gamespot.com/feeds/mashup",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4550280-tmnt-main.jpg",
+        "title": "TMNT Trilogy Limited Edition Revealed - 4K Restorations And New Bonus Content",
+        "vote": 0
+    }
+]

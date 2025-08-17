@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T15:11:23.516588+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T14:42:22+00:00",
+        "description": "Today's links LLMs are slot-machines: You only remember the jackpots. Hey look at this: Delights to delectate. Object permanence: Heinlein bio; Amazon bans Amazon-critical podcasts; How to Argue With a Racist. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. LLMs are slot-machines (permalink) When LLM users describe their experience with their chatbots, the results are so divergent that it can sound like they're describing two completely different products. Previously, I've hypothesized that this is because there are two distinct groups of users: \"centaurs\" (people who are assisted by a machine &#8211; in this case, people who get to decide when, whether and how to integrate an LLM into their work) and \"reverse-centaurs\" (people conscripted into being an assistant to a machine &#8211; here, people whose bosses have fired thei",
+        "id": 3344731,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/08/16/jackpot",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/16Aug2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: LLMs are slot-machines (16 Aug 2025)",
+        "vote": 0
+    }
+]

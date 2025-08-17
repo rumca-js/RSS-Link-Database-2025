@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T00:58:21.733901+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T00:58:21+00:00",
+        "description": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/bdd52819-87e1-4b1a-ba8a-fb8577d708d6\" width=\"308\" /> - To by\u0142a konstruktywna rozmowa - oceni\u0142 w pierwszych s\u0142owach konferencji prasowej W\u0142adimir Putin po spotkaniu z prezydentem USA. Trump podzi\u0119kowa\u0142 prezydentowi Rosji i doda\u0142, \u017ce b\u0119dzie teraz rozmawia\u0142 z prezydentem Ukrainy i przyw\u00f3dcami z kraj\u00f3w NATO.",
+        "id": 3341465,
+        "language": "pl-PL",
+        "link": "https://www.money.pl/pieniadze/spotkanie-trumpa-i-putina-na-alasce-putin-zabral-glos-jako-pierwszy-7189706939710208a.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 215,
+        "source_url": "https://www.money.pl/rss/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/bdd52819-87e1-4b1a-ba8a-fb8577d708d6",
+        "title": "Dzia\u0142o si\u0119 w nocy. Spotkanie na Alasce. Putin zabra\u0142 g\u0142os jako pierwszy",
+        "vote": 0
+    }
+]

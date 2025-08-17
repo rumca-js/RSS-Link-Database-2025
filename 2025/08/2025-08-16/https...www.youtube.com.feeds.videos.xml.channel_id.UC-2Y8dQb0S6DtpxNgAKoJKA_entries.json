@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PlayStation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T18:20:45.124640+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T17:15:00+00:00",
+        "description": "Climate Station is your portal into the living history of our planet and the futures we still have time to shape.\n\nDesigned for PS5 and #PSVR2, this free, immersive experience puts you in the middle of Earth\u2019s most critical story: our own.\n\nOver 90 minutes of interactive content takes you through shifting temperatures and stark climate futures, all built with real-world data by NASA, NOAA, Berkeley Earth, the IPCC, and more.",
+        "id": 3345663,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/1DGTaQ7F25Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 576,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1DGTaQ7F25Y/hqdefault.jpg",
+        "title": "Climate Station is a free, immersive experience about our changing planet for #PS5 and #PSVR2 \ud83c\udf0d",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T18:50:48.452640+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T18:15:20+00:00",
+        "description": "<p><img width=\"1517\" height=\"891\" src=\"https://9to5linux.com/wp-content/uploads/2025/08/grml258.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Grml 2025.08\" decoding=\"async\" fetchpriority=\"high\" /></p>\n<p>Grml 2025.08 live distro for system administrators is now available for download based on the Debian 13 \"Trixie\" operating system series. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/debian-trixie-based-grml-2025-08-is-out-to-celebrate-debians-32nd-birthday\">Debian Trixie-Based Grml 2025.08 Is Out to Celebrate Debian&#8217;s 32nd Birthday</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 3345718,
+        "language": "en-US",
+        "link": "https://9to5linux.com/debian-trixie-based-grml-2025-08-is-out-to-celebrate-debians-32nd-birthday",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/08/grml258.webp",
+        "title": "Debian Trixie-Based Grml 2025.08 Is Out to Celebrate Debian\u2019s 32nd Birthday",
+        "vote": 0
+    }
+]

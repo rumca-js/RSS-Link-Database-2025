@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kyle Melnick",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T12:56:20.836721+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T12:05:46+00:00",
+        "description": "Zain Naghmi, widely regarded as the world\u2019s best \u201cSuper Smash Bros. Melee\u201d player, has made a career out of the 2001 Nintendo fighting game.",
+        "id": 3344033,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/lifestyle/2025/08/16/zain-naghmi-super-smash-bros-melee",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Life of a retro video gamer: Fans, money and a boa constrictor",
+        "vote": 0
+    }
+]

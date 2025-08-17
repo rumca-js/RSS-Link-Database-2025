@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T10:06:06.712003+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T08:45:41+00:00",
+        "description": "Head to https://squarespace.com/thelinuxexperiment to save 10% off your first purchase of a website or domain using code thelinuxexperiment\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:34 Sponsor:Squarespace\n01:51 Windows 12 sounds like an absolute nightmare\n04:26 Debian 13 is out\n05:45 Mint 22.2 has its beta\n07:20 Google ends Steam on Chrome OS\n08:59 elementary OS gets some cool updates\n11:40 Orion browser makes progress\n13:45 Github absorbed into Microsof",
+        "id": 3343155,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=C2h2Ly1PcUM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C2h2Ly1PcUM/hqdefault.jpg",
+        "title": "Windows 12 could be Linux's biggest chance, Mint 22.2 beta: Linux Weekly News",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T21:43:26.388578+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T21:43:25+00:00",
+        "description": "Rz\u0105d Niemiec nie zgadza si\u0119 na planowane przez Uni\u0119 Europejsk\u0105 wyd\u0142u\u017cenie czasu, jaki linie lotnicze maj\u0105 na op\u00f3\u017anienie lotu bez konieczno\u015bci p\u0142acenia za to odszkodowa\u0144 pasa\u017cerom.",
+        "id": 3346521,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/linie-lotnicze/art42867541-niemiecki-rzad-nie-ma-zgody-na-liberalizowanie-odszkodowan-za-opoznione-loty",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Niemiecki rz\u0105d: Nie ma zgody na liberalizowanie odszkodowa\u0144 za op\u00f3\u017anione loty",
+        "vote": 0
+    }
+]

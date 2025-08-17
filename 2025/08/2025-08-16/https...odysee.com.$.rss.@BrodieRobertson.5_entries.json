@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T18:46:21.844737+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T17:30:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/f2ViUOjtzSo\" width=\"480\" alt=\"thumbnail\" title=\"Wayland Is Suffering From Linux Permission Fatigue\" /></p>Portals are the means by which permission control is done on Wayland on the Linux operating system but much like the UAC prompts of Windows as these become more common, so do the means by<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Reddit Post: https://www.reddit.com/r/linux/comments/1mlxgiv/automatically_accept_waylandportal_permission/<br />Permission Script: https://github.com/deskflow/accept-portal-dialog<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brod",
+        "id": 3345712,
+        "language": "en",
+        "link": "https://odysee.com/wayland-is-suffering-from-linux:20e322dd641ff9a84d7318111bf089166a97a3fb",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/f2ViUOjtzSo",
+        "title": "Wayland Is Suffering From Linux Permission Fatigue",
+        "vote": 0
+    }
+]

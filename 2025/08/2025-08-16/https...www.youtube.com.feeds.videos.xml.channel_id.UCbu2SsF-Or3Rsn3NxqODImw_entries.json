@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T16:36:22.355177+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T16:00:43+00:00",
+        "description": "Max and Richard talk Marvel. Richard has old man memory and reflexes, and is considering playing Marvel as a 1v4 player! Wait, what?! Max explains Tokons' core mechanic the assists, giving us insight on on how the game is flexible enough to accommodate players of all levels. \n\n00:00 Intro\n00:30 4v4, 2v2, 1v4--the assists are up to you!\n03:28 The three applications of the assists and the advantages of having assists\n06:18 Marvel Tokon' pacing\n08:41 Assist management\n10:46 Okizeme, stage transitions, Neutral\n14:00 How the combo limiter / meter works, we think\n16:35 OH THATS RACHEL OF BLAZBLUE. Storm talk\n19:08 OH THATS DUST. Assemble Slam aka universal overhead aka Dust\n19:40 OH THATS DANTE. Starlord talk\n\nCREDITS: Max B, Richard Li\n\n#marvel   #gamespot",
+        "id": 3345097,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=T6cJShIp-ro",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T6cJShIp-ro/hqdefault.jpg",
+        "title": "Marvel Tokon Gameplay Mechanics Discussion And Things We Found",
+        "vote": 0
+    }
+]

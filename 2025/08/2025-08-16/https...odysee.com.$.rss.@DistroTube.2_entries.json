@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T15:11:34.293454+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T13:01:38+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/speTBP-NXJo\" width=\"480\" alt=\"thumbnail\" title=\"'grep' - search for patterns in files - Video Man Pages\" /></p>The 'grep' command is used to search for patterns within files.<br /><br />- Search for pattern within a file:<br />  grep \"search pattern\" path/to/file<br /><br />- Search for pattern using \"basic\" regular expressions (grep's default behavior):<br />  NOTE Supports (^, $, ., [abc], [^abc], [a-z], *, \\)<br />  grep -G \"search pattern\" path/to/file<br /><br />- Interprets patterns as \"extended\" regular expressions:<br />  NOTE Supports (?, +, {}, (), and |)<br />  grep -E \"search pattern\" path/to/file<br /><br />- Interprets patterns as \"fixed strings\" rather regular expressions (disables regex):  <br />  grep -F \"fixed string\" path/to/file<br /><br />- Search for a pattern in all files \"recursively\" in a directory:<br />  grep -r \"some pattern\" path/to/dir<br /><br />- \"Ignore\" binary files, search \"recursively\" in a directory, and pri",
+        "id": 3344736,
+        "language": "en",
+        "link": "https://odysee.com/%27grep%27-search-for-patterns-in-files:6739ce6f955661605770de90aca6f3cc1be535ac",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/speTBP-NXJo",
+        "title": "'grep' - search for patterns in files - Video Man Pages",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": 15,
+        "album": "",
+        "author": "itsRucka",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T15:01:38.662258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T15:00:14+00:00",
+        "description": null,
+        "id": 3344649,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/9q1_7xFxLY4",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 667,
+        "source_url": "https://youtube.com/channel/UC-B2LyEZcl3avG0coKeohGQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9q1_7xFxLY4/hqdefault.jpg",
+        "title": "Tweet of the day goes to...",
+        "vote": 0
+    }
+]

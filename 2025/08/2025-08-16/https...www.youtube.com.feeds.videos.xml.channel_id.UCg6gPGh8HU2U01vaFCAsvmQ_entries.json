@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T11:31:22.343927+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T11:15:08+00:00",
+        "description": "Here are alternatives to WinUtil for managing programs, tweaks, and custom windows installs.\n\nTimestamps:\n00:00 WinUtil overview\n03:55 UniGetUI\n05:15 CrapFixer\n07:30 Tiny11 Builder\n08:50 NTLite\n\nUnigetUI: https://github.com/marticliment/UniGetUI\nCrapFixer: https://github.com/builtbybel/CrapFixer\nTiny11 Builder: https://github.com/ntdevlabs/tiny11builder\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Reddit \u279c https://www.reddit.com/r/ChrisTitusTech/\n\u25ba\u25ba Titus Tech Talk \u279c https://www.youtube.com/c/TitusTechTalk\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech",
+        "id": 3343533,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=f8SRqHCsrkk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f8SRqHCsrkk/hqdefault.jpg",
+        "title": "Windows Utility Alternatives",
+        "vote": 0
+    }
+]

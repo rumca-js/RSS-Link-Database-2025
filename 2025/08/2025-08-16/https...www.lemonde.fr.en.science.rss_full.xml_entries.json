@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T17:46:16.927505+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T17:46:16+00:00",
+        "description": "From a global conference to robotic games inside the National Stadium, Beijing becomes the world capital of robots from August 8 to 17. The event showcases China's extraordinary acceleration in this sector \u2013 from automated industrial arms to AI-powered humanoids.",
+        "id": 3345399,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/economy/article/2025/08/16/china-s-robotics-industry-surges-amid-promise-of-a-5-trillion-market_6744434_19.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/08/14/0/0/4617/2308/644/322/60/0/a2f0f3a_upload-1-exaa35muc5pi-033009.jpg",
+        "title": "China's robotics industry surges amid promise of a $5 trillion market",
+        "vote": 0
+    }
+]

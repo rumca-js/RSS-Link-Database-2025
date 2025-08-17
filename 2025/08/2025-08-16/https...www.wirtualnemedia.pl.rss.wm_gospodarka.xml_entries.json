@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T11:58:09.531457+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T11:58:08+00:00",
+        "description": "Firma CCC przymierza si\u0119 do kupna kontrolnego pakietu udzia\u0142\u00f3w sp\u00f3\u0142ki MKRI, do kt\u00f3rej nale\u017c\u0105 sieci sklep\u00f3w kaes i worldbox. Pod tym drugim szyldem planuje uruchomi\u0107 ponad tysi\u0105c plac\u00f3wek sprzeda\u017cowych.",
+        "id": 3343744,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/ccc-na-zakupach-przejmuje-dwie-sieci-sklepow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CCC na zakupach odzie\u017cowych. Przejmuje dwie sieci sklep\u00f3w",
+        "vote": 0
+    }
+]

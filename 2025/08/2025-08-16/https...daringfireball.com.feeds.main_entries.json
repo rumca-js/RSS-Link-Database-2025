@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T01:07:54.651012+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T00:47:50+00:00",
+        "description": "<p>Jason Lalljee, reporting for Axios Tuesday:</p>\n\n<blockquote>\n  <p>President Trump\u2019s nomination of Heritage Foundation economist E.J.\nAntoni to head the Bureau of Labor Statistics on Monday drew\ncriticism from economists across the political spectrum. <em>Why it\nmatters</em>: The growing negative consensus among conservative\neconomists is unusual given Antoni\u2019s own conservative pedigree.</p>\n</blockquote>\n\n<p>Here we go with \u201c<a href=\"https://daringfireball.net/linked/2025/08/11/unusual-agreements\">unusual</a>\u201d as a euphemism for \u201c<a href=\"https://daringfireball.net/linked/2025/08/11/quid-pro-quo-financial-times\">unprecedented</a>\u201d\u2009\u2014\u2009or perhaps, most accurately, \u201c<a href=\"https://daringfireball.net/linked/2025/08/11/mad-king-watch-intel\">crazy</a>\u201d\u2009\u2014\u2009again. The dichotomy here is that Trump and MAGA have flipped what \u201cconservative\u201d means in US politics. Some legitimate economists are left-leaning, some are right-leaning. It\u2019s a field of study, like the law, that attracts from across",
+        "id": 3341478,
+        "language": "",
+        "link": "https://www.axios.com/2025/08/12/trump-bls-ej-antoni-economists",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump\u2019s BLS Pick E.J. Antoni Is\u2009\u2014\u2009Shocker\u2009\u2014\u2009a Crackpot Hack",
+        "vote": 0
+    }
+]

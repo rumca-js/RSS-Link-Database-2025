@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T09:40:28.990692+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T09:03:00+00:00",
+        "description": "Where does hope come from? It&#8217;s probably hard-wired, the result of an evolutionary process. A creature with hope is less likely to give up and more likely to raise offspring, thus passing down an ability to find resilience in the face of change. Disenchanted has come to mean something different from its original usage. Today, [&#8230;]",
+        "id": 3343119,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/disenchanted",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Disenchanted",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ian F. Blair",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T11:13:31.818387+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T11:01:00+00:00",
+        "description": "<p>The police seem to run reds whenever they feel like it \u2014 and only they could say whether it's a real emergency.</p>\n<p>The post <a href=\"https://theintercept.com/2025/08/16/nypd-car-red-light-laws/\">Chaos on New York&#8217;s Streets, Brought to You by the NYPD</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3343460,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/08/16/nypd-car-red-light-laws",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/08/AP20258035252545_d2db1e.jpeg?fit=7360%2C4912",
+        "title": "Chaos on New York's Streets, Brought to You by the NYPD",
+        "vote": 0
+    }
+]

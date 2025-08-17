@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-16T13:20:00.522231+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-16T13:01:38+00:00",
+        "description": "The 'grep' command is used to search for patterns within files.\n\n- Search for pattern within a file:\n  grep \"search pattern\" path/to/file\n\n- Search for pattern using \"basic\" regular expressions (grep's default behavior):\n  NOTE Supports (^, $, ., [abc], [^abc], [a-z], *, \\)\n  grep -G \"search pattern\" path/to/file\n\n- Interprets patterns as \"extended\" regular expressions:\n  NOTE Supports (?, +, {}, (), and |)\n  grep -E \"search pattern\" path/to/file\n\n- Interprets patterns as \"fixed strings\" rather regular expressions (disables regex):  \n  grep -F \"fixed string\" path/to/file\n\n- Search for a pattern in all files \"recursively\" in a directory:\n  grep -r \"some pattern\" path/to/dir\n\n- \"Ignore\" binary files, search \"recursively\" in a directory, and print file names rather than the normal line output:\n  grep -Irl \"some pattern\" path/to/dir\n\n- An inverse search for the pattern (returns lines that DO NOT contain the pattern):\n  grep -v \"some pattern\" path/to/file \n\n- Search for pattern, \"ignoring\"",
+        "id": 3344095,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=speTBP-NXJo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/speTBP-NXJo/hqdefault.jpg",
+        "title": "'grep' - search for patterns in files - Video Man Pages",
+        "vote": 0
+    }
+]
