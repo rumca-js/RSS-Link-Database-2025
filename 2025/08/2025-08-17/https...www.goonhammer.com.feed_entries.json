@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Steel Mentor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T20:46:18.815188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T19:27:51+00:00",
+        "description": "Fantastical Felt, Crab Bots and Wolf Shirts in this week's Content We Liked.",
+        "id": 3351783,
+        "language": "en-GB",
+        "link": "https://www.goonhammer.com/content-we-liked-17th-august-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 136,
+        "source_url": "https://www.goonhammer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Content We Liked: 17th August, 2025",
+        "vote": 0
+    }
+]

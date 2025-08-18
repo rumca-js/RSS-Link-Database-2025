@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Etmurbaah",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T23:18:11.987775+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T20:52:22+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://cbnemr.itch.io/blp\">https://cbnemr.itch.io/blp</a></p> <p>BLP (BLIP) is a lightweight, real-time performance overlay designed for gamers and PC enthusiasts who want instant insight into their system\u2019s performance without intrusive monitoring tools. Running seamlessly alongside any application, BLP provides clear metrics to help users understand system headroom and identify potential bottlenecks.</p> <p>BLP is a headroom visualization tool, not a full-fledged FPS meter or system profiler. It estimates potential FPS based on CPU and GPU utilization to highlight system constraints and performance trends, rather than reporting exact in-game frame rates.</p> <p>Key Features and Metrics: </p> <p>CPU &amp; GPU Potential FPS: BLP calculates the potential frames per second based on CPU and GPU utilization, giving an estimate of system headroom rather than actual in-game FPS. This helps users quickly identify whether the CPU or GPU is limiting ",
+        "id": 3352339,
+        "language": "en",
+        "link": "https://www.reddit.com/r/GameMods/comments/1mt2ab0/introducing_blp",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 533,
+        "source_url": "https://www.reddit.com/r/GameMods/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Introducing BLP!",
+        "vote": 0
+    }
+]

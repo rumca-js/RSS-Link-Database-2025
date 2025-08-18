@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Noah Hunter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T23:10:15.611445+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T19:48:23+00:00",
+        "description": null,
+        "id": 3352320,
+        "language": "en",
+        "link": "https://www.ign.com/articles/best-deals-for-august-17-2025",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 147,
+        "source_url": "https://feeds.feedburner.com/ign/all",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets-prd.ignimgs.com/2023/09/12/lie-of-p-blogroll-1694562231277.jpg",
+        "title": "The Best Deals Today: Lies of P, The First Berserker: Khazan, Doom: The Dark Ages, and More",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerrit De Vynck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T10:38:07.118541+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T10:35:00+00:00",
+        "description": "OpenAI\u2019s GPT-5 release fell short of expectations for some in tech, raising questions about whether AI would advance as rapidly as executives have claimed.",
+        "id": 3348989,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/08/17/openai-gpt5-chatgpt-superintelligence",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The new ChatGPT has some AI fans rethinking when to expect \u2018superintelligence\u2019",
+        "vote": 0
+    }
+]

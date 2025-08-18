@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T09:36:08.291286+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T09:36:07+00:00",
+        "description": "Mimo wymagaj\u0105cej sytuacji geopolitycznej w rejonie wschodniej granicy, obserwujemy sta\u0142y wzrost zainteresowania turystyk\u0105 rowerow\u0105 na terenie Podlasia, Lubelszczyzny i Roztocza \u2013 m\u00f3wi Micha\u0142 Litwiniuk, prezydent Bia\u0142ej Podlaskiej.",
+        "id": 3348703,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/okiem-samorzadowca/art42852171-prezydent-bialej-podlaskiej-green-velo-jest-magnesem-ktory-przyciaga-turystow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prezydent Bia\u0142ej Podlaskiej: Green Velo jest magnesem, kt\u00f3ry przyci\u0105ga turyst\u00f3w",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Video Advice",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T15:26:22.715199+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T14:30:35+00:00",
+        "description": "Dr. Robert Epstein, a Harvard-trained psychologist, has dedicated his career to studying how technology influences human behavior. His research has raised important questions about the power of algorithms, online platforms, and the ways digital tools can shape public opinion.\n\nIf you want to learn more from Dr. Robert Epstein, we highly recommend exploring his teachings - https://aeon.co/users/robert-epstein\nhttps://drrobertepstein.com/biography/\n\nExcerpts courtesy of Danny Jones and The Joe Rogan Experience.\nWatch the full interviews here:\nDanny Jones \u2013 https://www.youtube.com/watch?v=Jw8PQgLrLgI\nJoe Rogan \u2013 https://www.youtube.com/watch?v=Azu8XnZdxeA\n________________________________________________________________________\nFollow us: \nhttps://www.facebook.com/videoadvice\nhttps://www.instagram.com/videoadvice2025\n________________________________________________________________________\nScript and Narration by Video Advice\nFootage provided by MotionArray \nMusic provided by Epidemic Soun",
+        "id": 3350238,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gInFfkaayJI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 564,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAwylBbx8RiRD3VsaYdwNTw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gInFfkaayJI/hqdefault.jpg",
+        "title": "The Shocking Discovery of a Harvard Scientist Who Was Warned to Stay Silent",
+        "vote": 0
+    }
+]

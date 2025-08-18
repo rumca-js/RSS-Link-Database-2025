@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T17:18:30.774802+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T08:00:00+00:00",
+        "description": "<p><span>\n\nI play by ear, and when I write tunes I normally save them by making a\nrecording.  This isn't ideal for sharing, though, especially with\npeople who are more comfortable learning tunes from dots.  I last had\na go at this </span>\n\n<a href=\"https://www.jefftk.com/p/written-music-corriente\">ten years\nago</a>, and decided to give it another try.\n\n\n\n<p>\n\nI was first curious whether AI advancements meant I didn't need to\nlearn how to do this at all: could I just give my recording to a\nprogram and have it figure it out?  I tried several things without\nsuccess (each in Claude Opus 4.1, Gemini Pro 2.5, and GPT-5):\n\n</p>\n\n<p>\n\n</p>\n\n<ul>\n<li>Uploading an mp3 and asking for sheet music.\n</li>\n<li>Running <code><a href=\"https://github.com/spotify/basic-pitch\">basic-pitch</a></code> (open source pitch to midi converter), uploading the midi,\nand asking for sheet music.\n</li>\n<li>Running <code>basic-pitch</code>, then <code><a href=\"https://github.com/gin66/midi2ly\">midi2ly</a></code> to c",
+        "id": 3350901,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/writing-out-my-tunes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/corriente-opus-4-quite-bad.png",
+        "title": "Writing Out My Tunes",
+        "vote": 0
+    }
+]

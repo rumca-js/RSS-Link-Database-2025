@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T22:55:46.604491+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T14:56:00+00:00",
+        "description": "<div title=\"6531159 - Grave of the Fireflies Steelbook Blu-ray\" data-embed-type=\"buylink\" data-ref-id=\"3443\" data-template=\"2\" data-size=\"buylink__large\" data-title=\"6531159 - Grave of the Fireflies Steelbook Blu-ray\" data-collection=\"\" class=\"norewrite\">    <div class=\"buylink__container\">                                                                                                                                                                                               <div class=\"buylink__item\">                  <div class=\"buylink__image-container clickable\">                                            <img class=\"buylink__image\" src=https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4483698-grave-of-the-fireflies-square.jpg alt=\"\">                                 <a href=\"https://www.amazon.com/Grave-Fireflies-Limited-Steelbook-Blu-ray/dp/B0F4X7K3Q3?tag=gamespot-promos-20\"></a>                              </div>                   <div class=\"buylink__text\">     ",
+        "id": 3352057,
+        "language": "en-US",
+        "link": "https://www.gamespot.com/articles/grave-of-the-fireflies-limited-edition-steelbook-studio-ghibli-2025-release-deal/1100-6531159/?ftag=CAD-01-10abi2f",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 126,
+        "source_url": "https://www.gamespot.com/feeds/mashup",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4483697-grave-of-the-fireflies.jpg",
+        "title": "Studio Ghibli's Grave Of The Fireflies New Steelbook Edition Drops Below $20",
+        "vote": 0
+    }
+]

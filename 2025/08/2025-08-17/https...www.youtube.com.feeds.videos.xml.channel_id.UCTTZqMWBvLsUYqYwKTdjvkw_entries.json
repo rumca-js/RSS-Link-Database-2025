@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T16:16:02.543119+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T16:00:07+00:00",
+        "description": "\ud83d\udef4\u00a0Na minionym BlackHacie naukowcy z Uniwersytetu w Padwie oraz z francuskiego EURECOMu pokazali w jaki spos\u00f3b zaatakowa\u0107\u2026 elektryczne hulajnogi. I to z bardzo powa\u017cnymi dla nich konsekwencjami, bo mog\u0105 one nawet sp\u0142on\u0105\u0107. A to realne niebezpiecze\u0144stwo dla ich w\u0142a\u015bcicieli i nie tylko, kt\u00f3re w dodatku ich producent ca\u0142kowicie zbagatelizowa\u0142.\n \n\u0179r\u00f3d\u0142a:\n\ud83c\udfa9\u00a0E-Trojans: Ransomware, Tracking, DoS, and Data Leaks on Xiaomi Electric Scooters\nPrezentacja BlackHat\nhttps://www.blackhat.com/us-25/briefings/schedule/index.html#e-trojans-ransomware-tracking-dos-and-data-leaks-on-xiaomi-electric-scooters-45822\n\n\ud83d\udcd1\u00a0Opracowanie\nhttps://arxiv.org/abs/2411.17184\n\n\ud83d\uddd3\ufe0f\u00a0E-Spoofer: Attacking and defending Xiaomi electric scooter ecosystem\nhttps://www.eurecom.fr/en/publication/7262\n\n\ud83d\udede Don't Give Me a Brake - Xiaomi Scooter Hack Enables Dangerous Accelerations and Stops for Unsuspecting Riders\nhttps://zimperium.com/blog/dont-give-me-a-brake-xiaomi-scooter-hack-enables-dangerous-accelerations-and-stops-for-unsuspect",
+        "id": 3350578,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=67TT5ythDIs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/67TT5ythDIs/hqdefault.jpg",
+        "title": "P\u0142on\u0105ce hulajnogi #BlackHat",
+        "vote": 0
+    }
+]

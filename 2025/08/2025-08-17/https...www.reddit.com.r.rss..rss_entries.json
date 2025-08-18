@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/strawberry444",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T10:06:22.823120+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T09:14:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I see Typefully, a social media management tool, allows users to create an RSS feed of their X content. This is very useful for me as a consumer. Are there any other tools that do similar? Is there a place where one can find a directory of Typefully-based RSS X feeds to subscribe to? Is there a way to encourage X users who use or would consider using Typefully to make an RSS feed of their account available?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/strawberry444\"> /u/strawberry444 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1msm8k9/rss_for_x_via_typefully_inquiry/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1msm8k9/rss_for_x_via_typefully_inquiry/\">[comments]</a></span>",
+        "id": 3348736,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1msm8k9/rss_for_x_via_typefully_inquiry",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RSS for X via Typefully inquiry",
+        "vote": 0
+    }
+]

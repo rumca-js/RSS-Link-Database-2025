@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-17T11:42:21.151662+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-17T11:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/K%26L2-header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>At first blush, it'd be easy to take <a href=\"https://www.eurogamer.net/games/kane-lynch-2-dog-days\">Kane & Lynch 2: Dog Days</a> as just another third-person action shooter of the Xbox 360 era - a period absolutely replete with such games. To be honest, that description is certainly true of its predecessor - a game probably now more broadly remembered for its role in one of <a href=\"https://kotaku.com/yes-a-games-writer-was-fired-over-review-scores-5893785\">games media's largest scandals</a>. But the sequel is something more - something special, unique, and worth remembering.</p> <p><a href=\"https://www.eurogamer.net/15-years-ago-kane-lynch-2-took-the-crown-as-the-most-relentlessly-miserable-game-of-all-time-it-still-is-and-is-still-brilliant\">Read more</a></p>",
+        "id": 3349223,
+        "language": "en",
+        "link": "https://www.eurogamer.net/15-years-ago-kane-lynch-2-took-the-crown-as-the-most-relentlessly-miserable-game-of-all-time-it-still-is-and-is-still-brilliant",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/K%26L2-header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "15 years ago, Kane & Lynch 2 took the crown as the most relentlessly miserable game of all time. It still is - and is still brilliant",
+        "vote": 0
+    }
+]
