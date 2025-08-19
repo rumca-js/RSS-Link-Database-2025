@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T19:56:42.614564+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T12:37:21+00:00",
+        "description": "<p><img src=\"https://defcon.org/images/defcon-33/post-images/press-sample.webp\" alt=\"press sampler\"/> </p>\n\n    <p>Another DEF CON is in the books, and as usual we made a little news.  Here's a few of the stories that came out of DEF CON 33. Watch this space for the full roundup soon.<br><br>\n\n    <a href=\"https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/\">Wired: A Special Diamond Is the Key to a Fully Open Source Quantum Sensor</a><br><br>\n    \n    <a href=\"https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/\">Wired: Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World</a><br><br>\n    \n    <a href=\"https://abcnews.go.com/Politics/hacker-volunteers-set-water-utilities-cybersecurity/story?id=124456283\">ABC News: 'Hacker-volunteers' set to help water utilities with cybersecurity</a><br><br>\n    \n    <a href=\"https://www.nbcchicago.com/news/local/inside-defcon-what-happens-at-the-annual-hacker-convention/65329/\">NBC Chicago",
+        "id": 3359662,
+        "language": "en",
+        "link": "https://defcon.org/html/defcon-33/dc-33-news.html#pressample",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://defcon.org/images/defcon-33/post-images/press-sample.webp",
+        "title": "Sampling of headlines from DEF CON 33",
+        "vote": 0
+    }
+]

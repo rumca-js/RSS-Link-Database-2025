@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T09:32:17.519462+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T09:01:01+00:00",
+        "description": "Mitra I. Arthur | August 18, 2025\nWhether through his recordings, live in concert or at the Tiny Desk, South African pianist and Zulu healer Nduduzo Makhathini has the ability to transfix an audience with his deeply meditative and engaging music. His work is lush with ancestral invocation, meditations on Blackness and spiritual exploration.\n\nHere, Makhathini presents a cross-section of his works that he has dubbed for the Tiny Desk as the Ntu Sonicities Devotion Suite in Five Movements. His notes on the suite shared with the Tiny Desk team illuminate a thoughtful intentionality that is a hallmark of Makhathini's work.\n\nMovement One: \u201cKuzodlula\u201d is a meditation on stillness, an inward invitation towards emptiness and the ability to leave behind the denseness of life.\n\nMovement Two: \u201cOmnyama\u201d is an invocation of \u201cBlackness\u201d through the incarnations of various African deities and divinities.\n\nMovement Three: \u201cEquidistant Passage\u201d is a short reflection on Black aesthetics through three st",
+        "id": 3354479,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dWscjSp9B4w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dWscjSp9B4w/hqdefault.jpg",
+        "title": "Nduduzo Makhathini: Tiny Desk Concert",
+        "vote": 0
+    }
+]

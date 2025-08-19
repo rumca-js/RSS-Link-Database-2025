@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "HRejterzy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T19:40:43.927028+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T18:00:37+00:00",
+        "description": "Badania pokazuj\u0105, \u017ce wiele nowych narz\u0119dzi AI, mimo zalet, potrafi stanowi\u0107 zagro\u017cenie dla zdrowia, a nawet \u017cycia dzieci i m\u0142odzie\u017cy. Warto przyjrze\u0107 si\u0119 temu z czego korzysta Twoje dziecko.\n\nWi\u0119cej o tym na stronie https://hrejterzy.com/uwa\u017cAI\n\nBibliografia\n1. Me, myself and AI: Understanding and safeguarding children\u2019s use of AI chatbots, July 2025. Internet Matters\n2. Talk, Trust, and Trade-Offs: How and Why Teens Use AI Companions, 2025. Common Sense Media\n3. Parents and students are optimistic about AI, but parents have a lotto learn to catch up to their kids \u2013 and want rules and ratings to help them, May 2023. Common Sense Media, Impact Research\n4. AI Friend? Risks, Implications, and Recommendations on Generative AI for Children, October 2024. Autor: S. F. Pinto\n5. Alexa doesn\u2019t have that many feelings: Children\u2019s understanding of AI through interactions with smart speakers in their homes, May 2023. Autor: V. Andries, J. Robertson\n6. From loneliness to social connection: chartin",
+        "id": 3359591,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/1j29IoHjf7c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 465,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPndhUatYo4NLn3fleQ2Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1j29IoHjf7c/hqdefault.jpg",
+        "title": "Jak AI szkodzi m\u0142odzie\u017cy i dlaczego musisz si\u0119 tym zaj\u0105\u0107",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T15:35:54.669865+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T15:00:06+00:00",
+        "description": "Register: https://cppcon.org/registration/ \nJoin Barry Revzin and Kevin Carpenter from September 13th - 21st at CppCon 2025 Aurora, Colorado\n---\n\nLearn Why Experts Are Excited About C++ Reflection At Barry Revzin's CppCon 2025 Talk!\n\nCppCon 2025 is just around the corner, and Kevin Carpenter from @cppevents interviews Barry Revzin who is giving a talk on C++ reflection called \"Practical Reflection\"! Reflection is a hot topic as it is a new feature in C++26 and as a member of the standards committee, Barry's talk will outline the broader implications of c++ reflection for metaprogramming and library development, and the transformative role it could play in the future of C++\n\nSession Description\nWith the adoption of Reflection for C++26, the landscape of what is possible has shifted. This talk will focus on implementing Struct-of-Arrays for an arbitrary aggregate, but will also take some detours to cover some techniques that will prove useful for solving a wide range of problems. \n---\nB",
+        "id": 3357270,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IaLDxkMmDas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IaLDxkMmDas/hqdefault.jpg",
+        "title": "Learn Why Experts Are Excited About C++ Reflection At Barry Revzin's CppCon 2025 Talk!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T12:47:20.833700+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T11:01:34+00:00",
+        "description": "Sign up to attend IBM TechXchange 2025 in Orlando \u2192 https://ibm.biz/Bdej4m\n\nLearn more about Prompt Engineering here \u2192 https://ibm.biz/BdeYDZ\n\nContext engineering builds smarter AI systems by orchestrating RAG, memory, and agent collaboration \ud83d\udd0d. Martin Keen explains how multi-agent systems combine techniques like role assignment and chain-of-thought prompting for accurate, dynamic responses. Learn to design better AI workflows today!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdeYDY\n\n#promptengineering #ai #aiagents",
+        "id": 3355741,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vD0E3EUb8-8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vD0E3EUb8-8/hqdefault.jpg",
+        "title": "Context Engineering vs. Prompt Engineering: Smarter AI with RAG & Agents",
+        "vote": 0
+    }
+]

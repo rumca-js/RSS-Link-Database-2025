@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T13:46:03.820375+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T13:06:00+00:00",
+        "description": "<p><span style=\"background-color: transparent; color: black; font-family: arial; font-size: 11pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We are excited to share the </span><a href=\"https://lp.jetbrains.com/python-developers-survey-2024/\" style=\"font-family: arial; text-decoration: none;\"><span style=\"background-color: transparent; color: #1155cc; font-size: 11pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration-skip-ink: none; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;\">results of the eighth official annual Python Developers Survey</span></a><span style=\"background-color: transparent; color: black; font-family: arial; font-size: 11pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">. This survey is done yearly as a collaborative effort between the P",
+        "id": 3356150,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/08/the-2024-python-developer-survey.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The 2024 Python Developer Survey Results are here!",
+        "vote": 0
+    }
+]

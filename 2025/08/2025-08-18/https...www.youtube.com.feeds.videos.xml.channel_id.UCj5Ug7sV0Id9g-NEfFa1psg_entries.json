@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Samo\u0142yk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T15:14:49.873569+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T15:01:05+00:00",
+        "description": "By\u0142em u rodzic\u00f3w Adasia Orlika i us\u0142ysza\u0142em histori\u0119, kt\u00f3ra \u0142amie serce. Ada\u015b jest ci\u0119\u017cko chory, a jedyn\u0105 szans\u0105 na ratunek jest zbi\u00f3rka na Siepomaga. Zostawiam wam link do tej zbi\u00f3rki tutaj: https://www.siepomaga.pl/adam-orlik - wp\u0142a\u0107, podaj dalej, opowiedz innym t\u0119 histori\u0119.\n\nJe\u015bli wiesz jak konkretnie pom\u00f3c zebra\u0107 tak du\u017c\u0105 kwot\u0119 lub chcesz si\u0119 inaczej zaanga\u017cowa\u0107 to napisz tutaj: alicja.k.orlik@gmail.com\n\n\ud83d\udc49 Takie filmy jak ten s\u0105 mo\u017cliwe dzi\u0119ki moim Patronom i Darczy\u0144com. Je\u015bli chcesz, aby ten kana\u0142 istnia\u0142 i dalej si\u0119 rozwija\u0142, mo\u017cesz do\u0142\u0105czy\u0107 do wspieraj\u0105cych! Mo\u017cna to zrobi\u0107 na 3 sposoby:\n- Patronite: https://patronite.pl/Samolyk\n- Przycisk \"wesprzyj\" \u2013 znajduje si\u0119 tu\u017c pod filmem\n- Darowizna na konto Banku Pekao SA: 08 1240 2786 1111 0010 1984 8265 Tytu\u0142em: \"darowizna\"",
+        "id": 3356743,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=bgHSaXIpfAU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 372,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj5Ug7sV0Id9g-NEfFa1psg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bgHSaXIpfAU/hqdefault.jpg",
+        "title": "Mama Adasia prosi o pomoc - razem mo\u017cemy da\u0107 jej nadziej\u0119",
+        "vote": 0
+    }
+]

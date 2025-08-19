@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T09:27:11.544721+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T08:32:10+00:00",
+        "description": "<p>AI tools are moving deeper into the games industry, not just in code but inside the engines where games are built. Coplay, an AI copilot platform for Unity developers, is one of the companies pushing this shift. The startup recently became the official maintainer of the open-source Unity Model Context Protocol (MCP) server, launched a [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/how-ai-copilots-are-reshaping-game-development-according-to-coplays-ceo/\">How AI copilots reshape game development: Coplay\u2019s CEO</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3354477,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/how-ai-copilots-are-reshaping-game-development-according-to-coplays-ceo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How AI copilots reshape game development: Coplay\u2019s CEO",
+        "vote": 0
+    }
+]

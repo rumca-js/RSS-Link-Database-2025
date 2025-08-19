@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sean Illing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T12:28:18.604644+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T08:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A person holds a smartphone sideways that displays the DraftKings logo\" data-caption=\"What makes everything different from before 2018 is the seamlessness. | Photo illustration by Cheng Xin/Getty Images\" data-portal-copyright=\"Photo illustration by Cheng Xin/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2227994934.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tWhat makes everything different from before 2018 is the seamlessness. | Photo illustration by Cheng Xin/Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Almost every tech platform is designed to grab your attention and never let it go. You give it clicks, and it gives you dopamine. Games, news updates, social media hits \u2014 they all run on the same logic. We can add a new activity to the list: gambling. In just a few years, sports betting has gone from a legal gray area to a mainstream multibi",
+        "id": 3355719,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/458136/gambling-sports-betting-fanduel-draftkings-addiction",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2227994934.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Why sports gambling is more dangerous than ever before",
+        "vote": 0
+    }
+]

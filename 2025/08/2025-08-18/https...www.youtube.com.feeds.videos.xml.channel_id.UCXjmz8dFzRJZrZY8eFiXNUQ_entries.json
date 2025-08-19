@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T17:24:56.677619+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T17:00:09+00:00",
+        "description": "When Beavis and Butt-Head first hit MTV in the early \u201990s, it perfectly captured the slacker spirit of Generation X\u2014complete with juvenile humor, laid-back attitudes, and a deep love for music videos. The show became a cultural phenomenon, defining an era of comedy and satire.\n\nBut as Gen X aged and Millennials took over pop culture, Beavis and Butt-Head struggled to stay relevant. Despite multiple reboots and revivals, the magic never quite returned\u2014cementing it as a product of its time and a symbol of \u201990s counterculture.\n\n#beavisandbutthead #mikejudge #genx #nerdstalgic",
+        "id": 3358104,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5yTpvG5Xm0U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5yTpvG5Xm0U/hqdefault.jpg",
+        "title": "The Rise And Unfortunate Fall Of Beavis And Butt-Head",
+        "vote": 0
+    }
+]

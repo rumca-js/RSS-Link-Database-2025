@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T17:36:26.414866+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T14:00:06+00:00",
+        "description": "Adam Savage LOVES everything space-related, so he was very excited to see the countdown clock from the 1980s and 1990s space shuttle launches up close and personal! Alas, after being stored in a Florida barn, the iconic Kennedy Space Center clock arrived at Smithsonian's National Air and Space Museum with everything from dead critters to extensive salt damage. Museum conservator Kate Brugioni Gabrielli walks Adam through how she and her team is approaching its restoration, introducing Adam to some of the extraordinary tools they use to help distinguish between the materials they need to remove and those they want to remain. (And finally, Adam gets to TOUCH something!)\n\nMore on the clock: https://airandspace.si.edu/collection-objects/clock-launch-countdown-space-shuttle/nasm_A20181680000\nVisit the National Air and Space Museum's Udvar Hazy Center: https://www.si.edu/museums/air-and-space-museum-udvar-hazy-center\nVisit the National Air and Space Museum's downtown museum: https://airands",
+        "id": 3358448,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2eOJwCxW7VI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2eOJwCxW7VI/hqdefault.jpg",
+        "title": "Restoring the Iconic Space Shuttle Countdown Clock (at @airandspace)",
+        "vote": 0
+    }
+]

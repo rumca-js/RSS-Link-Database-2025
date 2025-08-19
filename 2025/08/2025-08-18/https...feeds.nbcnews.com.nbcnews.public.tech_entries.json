@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Arkin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T16:30:05.544186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T16:14:58+00:00",
+        "description": "The conservative cable news channel Newsmax will pay $67 million to settle a defamation lawsuit brought by the voting machine company Dominion over baseless claims that the 2020 presidential election was rigged, according to a new regulatory filing",
+        "id": 3357702,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/news/us-news/newsmax-pay-67m-settle-defamation-lawsuit-voting-machine-company-rcna225604",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250818-dominion-voting-systems-se-1058a-a609ea.jpg",
+        "title": "Newsmax to pay $67M to settle defamation lawsuit from voting machine company",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T19:51:39.679392+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T17:30:04+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/AeY9zfopZdo\" width=\"480\" alt=\"thumbnail\" title=\"Open Source Software Isn't Open To Everyone\" /></p>In the world of free and open source software a lot of projects are being developed in a democratic way but that doesn't mean that this is the only way to develop software, or it's the only correct way, take SQLite for example<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />The Tweet: https://x.com/tsoding/status/1953422314004971605<br />SQLite Website: https://sqlite.org/copyright.html<br />Nvidia Kernel Modules: https://github.com/NVIDIA/open-gpu-kernel-modules<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techove",
+        "id": 3359640,
+        "language": "en",
+        "link": "https://odysee.com/open-source-software-isn%27t-open-to:5a53a4830b508449b7ce523e0a6a8a6e7acb203a",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/AeY9zfopZdo",
+        "title": "Open Source Software Isn't Open To Everyone",
+        "vote": 0
+    }
+]

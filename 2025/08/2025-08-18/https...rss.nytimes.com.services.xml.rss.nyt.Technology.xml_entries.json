@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jack Ewing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-18T18:05:22.604880+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-18T17:26:27+00:00",
+        "description": "The prices of used electric cars have fallen sharply in recent months, making them a more attractive option.",
+        "id": 3358807,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/08/18/business/used-electric-vehicles-callout.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/08/18/multimedia/BIZ-EV-CALLOUT-03-hzvl/BIZ-EV-CALLOUT-03-hzvl-mediumSquareAt3X.jpg",
+        "title": "Did You Recently Buy a Used E.V.? We Want to Hear From You.",
+        "vote": 0
+    }
+]
