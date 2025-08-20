@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T14:42:14.976677+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T13:58:10+00:00",
+        "description": "Lean how to create an LLM from scratch. In this tutorial you will build Qwen 3, one line at a time. Watch gradients flow, models learn, and AI come alive in real-time.\n\nCode on Google Colab - https://colab.research.google.com/drive/12ndGn_mI7R1GTbGS8I2EvajW50esJRRk?usp=sharing\n\nGitHub - https://gist.github.com/vukrosic/94dc965a22b0892042f44fed25918598\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328 (0:00:00) Intro & Demo\n\u2328 (0:01:46) Qwen 3 Architecture\n\u2328 (0:02:36) Prerequisites\n\u2328 (0:04:01) Code Setup & Imports\n\u2328 (0:05:26) Model Configuration\n\u2328 (0:08:26) Qwen 3 Specifics\n\u2328 (0:12:24) Training Hyperparameters\n\u2328 (0:17:18) Grouped Query Attention Logic\n\u2328 (0:18:56) Muon Optimizer Explained\n\u2328 (0:29:02) Data Loading & Tokenization\n\u2328 (0:32:37) RoPE Positional Embeddings\n\u2328 (0:36:56) Self-Attention Code\n\u2328 (0:44:28) Feed-Forward & SwiGLU\n\u2328 (0:47:36) Building the Final Model\n\u2328 (0:52:34) Evaluation & Optimizer Setup\n\u2328 (0:54:08) The Training Loop\n\u2328 (0:55:43) Running the Training\n\u2328 (0:58:38) Inference & Text Generation\n\u2328 (1:00:51",
+        "id": 3365419,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Jaj_SQsF-BI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Jaj_SQsF-BI/hqdefault.jpg",
+        "title": "LLM from Scratch Tutorial \u2013 Code & Train Qwen 3",
+        "vote": 0
+    }
+]

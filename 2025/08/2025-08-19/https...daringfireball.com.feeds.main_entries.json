@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T02:13:11.195283+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T01:44:09+00:00",
+        "description": "<p>Counterpoint Research, in a report titled \u201cGlobal Smart Glasses Shipments Soared 110 Percent YoY in H1 2025, With Meta Capturing Over 70 Percent Share\u201d:</p>\n\n<blockquote>\n  <p>The global smart glasses market grew by 110% YoY in H1 2025,\nfueled by robust demand for Ray-Ban Meta Smart Glasses and the\nentry of new players such as Xiaomi and TCL-RayNeo.</p>\n\n<p>Meta\u2019s share of the global smart glasses market rose to 73% in H1\n2025, driven by strong demand and expanded manufacturing capacity\nat Luxottica, its key production partner.</p>\n</blockquote>\n\n<p>Not a single estimated sales number in the whole report. Just percentages. Pure Bezos Numbers\u2009\u2014\u2009which is not quite the same thing as a <a href=\"https://x.com/jsnell/status/481863414180896769\">Bezos Chart</a>, which has no numbers at all. How do you compute percentage change without the underlying numbers? What goes unsaid is that surely any reasonable estimate of \u201csmart glasses\u201d sales numbers is tiny. If you go from 1 to 2 that\u2019s 100 pe",
+        "id": 3361638,
+        "language": "",
+        "link": "https://www.counterpointresearch.com/en/insights/post-insight-research-briefs-blogs-global-smart-glasses-shipments-soared-110-yoy-in-h1-2025-with-meta-capturing-over-70-share",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bezos Numbers of the Week: Counterpoint Research on \u2018Smart Glasses\u2019",
+        "vote": 0
+    }
+]

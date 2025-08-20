@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T20:49:05.104581+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T20:12:44+00:00",
+        "description": "Sponsored by Mezmo\n\nPlatform and development teams are under pressure to deliver software faster, while maintaining reliability, controlling costs, and responding quickly to issues. But fragmented tooling, siloed responsibilities, and simply dumping all of your telemetry data into expensive storage just create a gap between development and SRE functions. The result: delayed incident response, unclear accountability, unmet SLOs, and escalating observability costs.\n\nIn this webinar, we\u2019ll unpack the structural and operational factors contributing to the Dev-SRE gap\u2014and show how active telemetry helps close it.\n\nYou'll learn how capabilities like AI-generated insights, data profiling, dynamic routing, and active analysis can create a unified, actionable telemetry layer that supports faster debugging, stronger cross-team alignment, and greater control over telemetry data at scale.",
+        "id": 3368786,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b6csQ99ZDbU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b6csQ99ZDbU/hqdefault.jpg",
+        "title": "LF Live Webinar: Bridging the Dev-SRE Gap with Active Telemetry",
+        "vote": 0
+    }
+]

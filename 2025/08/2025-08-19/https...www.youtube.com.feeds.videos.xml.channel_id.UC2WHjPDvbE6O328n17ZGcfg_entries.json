@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T17:22:08.284199+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T16:01:14+00:00",
+        "description": "Rust is everywhere.\n\nBuild, Upgrade, and Save All Month Long at Micro Center: https://micro.center/a8050d\nSign-Up for VIP Days at Micro Center Phoenix: https://micro.center/477d78\nShop 50 Series Laptops at Micro Center: https://micro.center/786860\nShop Raspberry Pi at Micro Center: https://micro.center/3c0eba\n\nSo everyone's rewriting everything in Rust these days. Discord rewrote their backend and got 10x performance. Dropbox spent four years rewriting their sync engine. Microsoft is putting Rust in Windows itself.\n\nBut I have been so curious as to why there is *so* much hype behind Rust and why everyone's switching to it... Is Rust really *that* good or is it mostly just hype?\n\nSo I decided to not only learn a good bit of Rust over the past 6 or so months, but take a look at the state of all things Rust in 2025 - what it actually is (not the hype, not the buzzwords), why people are obsessed with it (it's literally the most admired language\u2026 why?), how it compares to other languages, ",
+        "id": 3367025,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=meEXag1XCFw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/meEXag1XCFw/hqdefault.jpg",
+        "title": "Why Everyone's Switching to Rust (And Why You Shouldn't)",
+        "vote": 0
+    }
+]

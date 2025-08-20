@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mario Trujillo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T14:08:24.928712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T04:40:57+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>In a victory for transparency, the government contractor Pen-Link agreed to disclose the prices and descriptions of surveillance products that it sold to a local California Sheriff's office.</p>\n<p><a href=\"https://eff.org/document/eff-pen-link-settlement\">The settlement</a> ends a months-long California public records lawsuit with the Electronic Frontier Foundation and the San Joaquin County Sheriff\u2019s Office. The settlement provides further proof that the surveillance tools used by governments are not secret and shouldn\u2019t be treated that way under the law.</p>\n<p>Last year, EFF\u00a0submitted a California public records request to the San Joaquin County Sheriff\u2019s Office for information about its work with Pen-Link and its subsidy Cobwebs Technology. Pen-Link <a href=\"https://www.eff.org/cases/pen-link-v-county-san-joaquin-sheriffs-office\">went to",
+        "id": 3365246,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/08/victory-pen-links-police-tools-are-not-secret",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Victory! Pen-Link's Police Tools Are Not Secret",
+        "vote": 0
+    }
+]

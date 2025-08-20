@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lindsey Stirling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T19:37:50.434691+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T19:10:00+00:00",
+        "description": "This holiday season, we have some special VIP packages for you. From front row seats and meet & greets to my magical Gingerbread House Party with Q&A, games, cocoa, cookies, and a gallery of costumes, there\u2019s a perfect experience for everyone. Each package includes limited-edition holiday merch, early entry, and a signed keepsake.\n\n\ud83c\udf1fWe have a NEW package this year! There is a Post-Show Meet & Greet Experience where you will get premium seating plus a special meet & greet with me, a personalized holiday video greeting for you and your loved one, plus exclusive gifts.\n\nTickets here: https://www.lindseystirling.com/tour",
+        "id": 3368241,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/ao-Lf7WoTYM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 193,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ao-Lf7WoTYM/hqdefault.jpg",
+        "title": "Artist presale & VIP are both live now! Snag your tickets early! \u2764\ufe0f",
+        "vote": 0
+    }
+]

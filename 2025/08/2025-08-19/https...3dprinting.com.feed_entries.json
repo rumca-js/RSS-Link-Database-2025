@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T09:35:06.362111+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T09:00:09+00:00",
+        "description": "<div style=\"display: flex;\"><div style=\"width: calc(100% - 75px);padding-right:16px;\"><h2><a href=\"https://3dprinting.com/news/university-of-wyoming-researcher-receives-nsf-grant-to-study-3d-printing-of-soft-materials/\" style=\"color: #1a0dab;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-weight: normal;mso-line-height-rule: exactly;font-size:18px;text-decoration:none;margin-bottom:8px;\" target=\"_blank\">University of Wyoming Researcher Receives NSF Grant to Study 3D Printing of Soft Materials</a></h2><span style=\"color:#777;font-size:14px;margin-top: auto;\">August 19</span></div><div style=\"max-width:75px;\"><img width=\"500\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/7497985-500x500.jpg\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" alt=\"University of Wyoming Researcher Receives NSF Grant to Study 3D Printing of Soft Materials\" style=\"max-width:75px;border-radius:10px;overflow: hidden;\" decodi",
+        "id": 3363288,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/university-of-wyoming-researcher-receives-nsf-grant-to-study-3d-printing-of-soft-materials",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://3dprinting.com/wp-content/uploads/7497985-500x500.jpg",
+        "title": "University of Wyoming Researcher Receives NSF Grant to Study 3D Printing of Soft Materials - 3DPrinting.com",
+        "vote": 0
+    }
+]

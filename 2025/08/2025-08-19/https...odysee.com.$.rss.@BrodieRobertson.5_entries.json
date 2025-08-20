@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T18:45:03.519792+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T17:30:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/55MwAlcpvK4\" width=\"480\" alt=\"thumbnail\" title=\"The Operating System Known As Linux\" /></p>Every so often people ask what Linux is, what a Linux distro is, what the Linux operating system is so I thought I should at last put out one video on that topic.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter<br />\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon<br />\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xy",
+        "id": 3367666,
+        "language": "en",
+        "link": "https://odysee.com/the-operating-system-known-as-linux:fe0fa36bd0f58a84163d3c76f74f5f188bba339a",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/55MwAlcpvK4",
+        "title": "The Operating System Known As Linux",
+        "vote": 0
+    }
+]

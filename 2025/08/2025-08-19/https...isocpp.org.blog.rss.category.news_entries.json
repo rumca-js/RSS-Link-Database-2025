@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T15:19:10.088933+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T14:11:51+00:00",
+        "description": "<p>\n\t<img alt=\"cpponsea2025-folkestone-to-dover.jpg\" src=\"https://isocpp.org/files/img/cpponsea2025-folkestone-to-dover.jpg\" style=\"width: 201px; margin: 10px; float: right; height: 113px;\" />Another year, another trip report from C++ On Sea!</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/07/02/cpponsea-trip-report\">Trip report: C++ On Sea 2025</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tFirst, a heartfelt thank-you to the organizers for inviting me to speak, and an equally big thank-you to my wife for taking care of the kids while I spent three days in Folkestone &mdash; plus a few more in London to visit the Spotify office and catch up with some bandmates.</p>\n\t<p>\n\t\t<em>If you have the chance, try to arrive early or stay around Folkestone for an extra day. It&rsquo;s a lovely town and it&rsquo;s worth exploring it. The conference program is very busy even in the evenings, so don&rsquo;t count on the after",
+        "id": 3365901,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/08/trip-report-cpp-on-sea-2025-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/cpponsea2025-folkestone-to-dover.jpg",
+        "title": "Trip report: C++ On Sea 2025 -- Sandor Dargo",
+        "vote": 0
+    }
+]

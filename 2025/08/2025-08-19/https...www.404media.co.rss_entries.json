@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Emanuel Maiberg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T14:19:24.247281+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T14:04:51+00:00",
+        "description": "A 404 Media investigation reveals how the man who started Tea, the \u2018women dating safety\u2019 app, tried to hire a female \u2018face\u2019 for the company and then hijack her grassroots community.",
+        "id": 3365290,
+        "language": "en",
+        "link": "https://www.404media.co/how-teas-founder-convinced-millions-of-women-to-spill-their-secrets-then-exposed-them-to-the-world",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/08/teapurp.png",
+        "title": "How Tea\u2019s Founder Convinced Millions of Women to Spill Their Secrets, Then Exposed Them to the World",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T09:42:17.437973+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T09:03:00+00:00",
+        "description": "&#8220;Maybe&#8221; is the problem. If you&#8217;re serious, say, &#8220;yes.&#8221; And if it&#8217;s not for you, walk away. But endlessly reconsidering opportunities without forward motion is a place to hide.",
+        "id": 3363373,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/no-is-an-option",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cNo\u201d is an option",
+        "vote": 0
+    }
+]

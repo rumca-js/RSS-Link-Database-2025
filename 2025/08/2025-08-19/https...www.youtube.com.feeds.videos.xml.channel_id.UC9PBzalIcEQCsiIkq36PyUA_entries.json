@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T16:28:39.729235+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T15:42:18+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nMafia: The Old Country delivers some exceptionally impressive visuals on consoles, but it's one of the few games we'd actually recommend running in the 30fps quality mode on PS5, Pro and Xbox Series X. Varying frame-rates and cut-back visuals impact the 60fps mode, while unlocked performance VRR options add little to the experience. \n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Overview\n00:32 Visual features \n05:14 PS5 mode comparison \n09:17 PS5 Pro comparison \n11:12 Series X and S comparison \n12:59 PS5 Pro and Series X unlocked modes \n14:51 Analysis and conclusion",
+        "id": 3366537,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nk5GbPqUzH8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nk5GbPqUzH8/hqdefault.jpg",
+        "title": "Mafia: The Old Country - DF Review - PS5/PS5 Pro/Xbox Series X|S",
+        "vote": 0
+    }
+]

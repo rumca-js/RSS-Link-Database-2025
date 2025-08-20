@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-19T14:18:04.378434+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-19T14:00:34+00:00",
+        "description": "Tom Brown co-founded Anthropic after helping build GPT-3 at OpenAI. A self-taught engineer, he went from getting a B-minus in linear algebra to becoming one of the key people behind AI's scaling breakthroughs. And his work is paying off. \n\nToday, Anthropic's Claude 3.5 Sonnet is the go-to choice for developers and his team if overseeing what he calls \"humanity's largest infrastructure buildout ever.\" On this episode of The Lightcone, he discusses his unconventional path from YC founder to AI researcher, the discovery of scaling laws that changed everything, and his advice for young engineers entering AI today.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n0:00 - From Failure to Success\n2:30 - Early Startup Days at Linked Language\n4:12 - The Grouper Dating Experiment\n6:10 - Making the Leap to OpenAI\n8:42 - First Product Launch Challenges\n10:12 - Self-Teaching AI Research\n12:44 - Building GPT-3 Infrastructure\n15:",
+        "id": 3365281,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JdT78t1Offo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JdT78t1Offo/hqdefault.jpg",
+        "title": "Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design",
+        "vote": 0
+    }
+]
