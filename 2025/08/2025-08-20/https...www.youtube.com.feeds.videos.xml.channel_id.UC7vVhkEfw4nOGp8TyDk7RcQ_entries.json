@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T16:30:29.997937+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T16:00:38+00:00",
+        "description": "We are excited to share some of our progress on developing Large Behavior Models (LBMs) for Atlas. This work is part of a collaboration between AI research teams at Toyota Research Institute (TRI) and Boston Dynamics. We have been building end-to-end language-conditioned policies that enable Atlas to accomplish long-horizon manipulation tasks.\n\nLearn more about this research: https://bosdyn.co/4mwB2Gz\nDiscover more from TRI:  @toyotaresearchinstitute and https://www.tri.global/ \nRegister for our upcoming webinar to learn more about humanoids in the real-world: https://bosdyn.co/3UuZLPg",
+        "id": 3375450,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HYwekersccY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HYwekersccY/hqdefault.jpg",
+        "title": "Getting a Leg up with End-to-end Neural Networks | Boston Dynamics",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T19:42:20.499515+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T18:50:46+00:00",
+        "description": "(EARLY ACCESS VAULT BONUS) - https://www.codebreakthrough.com/software-engineering-fundamentals\n\nLearn more about the CodeBreakthrough Vault here - https://www.codebreakthrough.com/vault\n\nYou can use that link to join the mailing list if you miss early access, or you can join it here:\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\nTimestamps:\n00:00 - Intro\n01:14 - The Goal\n05:29 - How Mindset Changed His Life\n09:28 - Best Version of Yourself\n11:17 - How to Learn Mindset\n12:47 - The 10 BIG PROBLEMS\n\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsletter\n\ud83d\udcf8 Instagram - https://www.instagram.com/CalebCurry\n\ud83d\udc26 Twitter ",
+        "id": 3377331,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ff-Y1xYnDZo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ff-Y1xYnDZo/hqdefault.jpg",
+        "title": "What I discovered Mentoring Software Engineers (Avoid these 10 mistakes...)",
+        "vote": 0
+    }
+]

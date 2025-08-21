@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T15:00:03.447157+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T14:01:14+00:00",
+        "description": "Register: https://cppcon.org/registration/ \n\n---\nUnlock the Mystery of C++ Memory In This C++ Training Course From Assaf Tzur-El At CppCon 2025\n\nJoin Assaf Tzur-El on a guided tour under the hood of C++! This C++ training course will explore the powerful mechanisms behind your code, including what happens when you compile. We'll uncover the mysteries of memory management and how uninitialized variables can contain garbage.\n\nCourse Description\nDive deep into C++\u2019s internal mechanisms in this full-day workshop.\n\nWhile most C++ courses focus on how to write code, we\u2019ll explore what happens after you write it. You\u2019ll learn how your source code transforms into machine code, how the compiler makes decisions, and how your data is actually stored and manipulated in memory.\n\nThrough a combination of theory and hands-on exercises, you\u2019ll examine the compilation pipeline, memory layout, object internals, and runtime mechanisms. You\u2019ll use professional tools to inspect generated assembly code, in",
+        "id": 3374642,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/piU1gR6jAjA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/piU1gR6jAjA/hqdefault.jpg",
+        "title": "Unlock the Mystery of C++ Memory In This Training Course From Assaf Tzur-El",
+        "vote": 0
+    }
+]

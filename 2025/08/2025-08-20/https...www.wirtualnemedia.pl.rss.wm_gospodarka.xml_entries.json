@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T08:34:28.975286+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T08:34:28+00:00",
+        "description": "Wed\u0142ug ustale\u0144 \u201eWall Street Journal\u201d miliarder Elon Musk po cichu wstrzymuje swoje plany utworzenia partii politycznej w USA. W rozmowach z zaufanymi osobami Musk wyja\u015bnia, \u017ce chce skoncentrowa\u0107 si\u0119 na swoich firmach, przede wszystkim SpaceX i Tesli.",
+        "id": 3371933,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/elon-musk-woli-biznes-od-polityki-da-pieniadze-na-kampanie-j-d-vance-a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Elon Musk woli biznes od polityki. Da pieni\u0105dze na kampani\u0119 J.D. Vance\u2019a?",
+        "vote": 0
+    }
+]

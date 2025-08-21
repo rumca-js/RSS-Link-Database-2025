@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T17:09:11.141935+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T16:01:17+00:00",
+        "description": "Pixel 10 is finally here - it's more flagship, but mostly still very Pixel.\n\nSave 42% with code MKBHD at checkout when you bundle a Prism 2.0 and Ghost case for the Pixel 10 with dbrand at http://dbrand.com/pixel-10\n\nMKBHD Merch: http://shop.MKBHD.com\n\nIntro Track: Jordyn Edmonds https://lnk.to/jordynedmonds\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 3376034,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=269OsrzG3Ew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/269OsrzG3Ew/hqdefault.jpg",
+        "title": "Google Pixel 10/Pro/Fold Impressions: Magnets!",
+        "vote": 0
+    }
+]

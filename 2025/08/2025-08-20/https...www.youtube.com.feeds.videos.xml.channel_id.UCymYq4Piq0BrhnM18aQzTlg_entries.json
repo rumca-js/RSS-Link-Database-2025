@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T21:58:43.328366+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T21:01:02+00:00",
+        "description": "Watch Tyler's recap: https://www.youtube.com/watch?v=1jIyLPsVfv4 Tyler the @AntennaMan and I went to Washington DC to meet with the FCC about ATSC 3.0 / NextgenTV and DRM encryption. In this video I'll recreate the presentation that I made to the FCC. Tyler will do his part of the presentation in his video. See more on this topic: https://www.youtube.com/watch?v=50EdKdKb1XQ&list=PLCZHp4d1HnItSSUpA-DskfKKKrQ_LQYwP and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:28 - What's the Process?\n02:42 - FCC Presentation Begins: DRM the Root Cause\n03:18 - ATSC 1.0 Much Easier for Device Makers\n06:07 - Majority of Installed Smart TV OS's Not Compatible\n07:07 - ATSC 3.0 / NextGenTV at Retail\n09:23 - ATSC 3.0 Without DRM Works on Most Devices\n11:03 - DRM More than a Gateway Problem\n11:17 - DRM More than a Gateway Problem\n12:27 - What's Next?\n13:33 - Tyler's Video:\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/ema",
+        "id": 3378300,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pNuZ0_jq1-A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pNuZ0_jq1-A/hqdefault.jpg",
+        "title": "The FCC Met with Tyler the @AntennaMan and Me About NextgenTV DRM! Here's what we told them.",
+        "vote": 0
+    }
+]

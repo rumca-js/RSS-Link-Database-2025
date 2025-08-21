@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T15:13:52.037305+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T15:00:34+00:00",
+        "description": "It might actually get rid of most cheaters \ud83e\udd14\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\nGuide for setting up secure boot: https://steamcommunity.com/app/2807960/discussions/0/600786083349802800/\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:25 - The Actual Requirements\n1:08 - What Is Secure Boot?\n2:12 - Can\u2019t Cheats  Just Bypass It?\n4:34 - Another Example\n5:45 - What About The TPM?\n7:03 - Do They Even Help?\n8:08 - Do I Have a TPM?\n9:01 - Enabling Secure Boot\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 3374722,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=I-oRWeq09e4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I-oRWeq09e4/hqdefault.jpg",
+        "title": "Why Battlefield 6 Requires a TPM Chip",
+        "vote": 0
+    }
+]

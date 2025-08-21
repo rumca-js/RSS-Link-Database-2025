@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/DevanteWeary",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T23:41:34.166367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T22:38:38+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So I have a couple of indexers and a couple of providers.<br/> My providers have a stated retention rate, but indexers don&#39;t.</p> <p>Do indexers have retention rates?<br/> If so, with my nzbget setup, how does it know not to try and grab something beyond the provider&#39;s retention rate?</p> <p>The way I am looking at it, the indexer has infinite retention so finds everything, then sends the results to your tool (in my case, Radarr). Then Radarr sends that result to NZBGet which in turn grabs from all your indexers.</p> <p>Now what happens in the indexers don&#39;t have the retention long enough to grab the file?<br/> Are you just always stuck in a situation where there&#39;s always a chance to get a positive result in Radarr, but it&#39;s actually unobtainable?</p> <p>I hope this makes sense. </p> <p>Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DevanteWeary\"> /u/DevanteWeary </a> <br/> <span><",
+        "id": 3378941,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1mvtppe/question_trying_to_understand_retention_in",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "[question] Trying to understand retention in relation to indexers.",
+        "vote": 0
+    }
+]

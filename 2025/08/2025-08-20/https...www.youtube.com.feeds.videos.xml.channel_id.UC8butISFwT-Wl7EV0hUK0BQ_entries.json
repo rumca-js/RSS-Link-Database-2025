@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T13:48:16.092790+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T13:19:46+00:00",
+        "description": "Learn how to build a fully functional, AI-powered shopping assistant from scratch. @aniakubow will teach you how to use cutting-edge technologies like LangChain's LangGraph for agent orchestration, MongoDB Atlas for vector search and memory, and Google's Gemini as the brains of the operation. Key skills you'll learn include setting up a Node.js backend, creating a React frontend, and seeding a database with AI-generated product data. By the end, you'll have a complete e-commerce chat assistant that can take autonomous, multi-step actions to help customers in real time.\n\nCode: https://github.com/kubowania/ecommerce-chat-helper\n\nSign up for MongoDB here: https://www.mongodb.com/cloud/atlas/register\n\n\ud83c\udfd7\ufe0f MongoDB provided a grant to make this course possible.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Introduction\n\u2328\ufe0f (0:02:29) Backend Setup\n\u2328\ufe0f (0:08:03) MongoDB Setup\n\u2328\ufe0f (0:18:14) Seeding the Database\n\u2328\ufe0f (0:43:22) Building the AI Agent\n\u2328\ufe0f (1:07:10) Frontend Setup\n\u2328\ufe0f (1:19:17) Building the Chat Widget\n\u2328\ufe0f ",
+        "id": 3373961,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9tANiA0LKn4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9tANiA0LKn4/hqdefault.jpg",
+        "title": "Building an AI-Powered E-commerce Chat Assistant with MongoDB \u2013 Tutorial",
+        "vote": 0
+    }
+]

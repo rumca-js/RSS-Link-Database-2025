@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T15:09:31.176104+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T14:32:08+00:00",
+        "description": "Note: This video is being made free for all due to the nature of the news story.  While all Audio Podcasts and Articles from The Lunduke Journal are always free, many videos are exclusive for subscribers.  More details, and links, at Lunduke.com.\n\nAfter the \"Worker Intifada\" declared they would occupy Microsoft Campus \"as long as it takes\" for Microsoft to cut ties with \"the murderous Zionists\", the event barely lasted past lunch.\n\nThe Article:\nhttps://lunduke.substack.com/p/worker-intifada-occupies-microsoft\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3374706,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Av9rpgQUf_w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Av9rpgQUf_w/hqdefault.jpg",
+        "title": "Microsoft \"Intifada\" Shut Down After 4 Hours",
+        "vote": 0
+    }
+]

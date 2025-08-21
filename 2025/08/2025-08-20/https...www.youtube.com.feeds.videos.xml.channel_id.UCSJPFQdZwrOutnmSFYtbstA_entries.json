@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T17:35:04.418722+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T17:00:43+00:00",
+        "description": "It took me a while to get round to watching this, but wow, am I glad I did. Ice Cube's War of the Worlds may be the single greatest thing humanity has ever produced. Join me for my utterly glowing review.",
+        "id": 3376137,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TB5uXw0oS_4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TB5uXw0oS_4/hqdefault.jpg",
+        "title": "War Of The Worlds - The Greatest Thing Ever Made",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-20T01:17:23.853331+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-20T01:06:23+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Jellyfin on macOS for a quick self-hosted media library</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>I forgot to bring my portable Pi media server running Jellyfin on a family trip, but had a small selection of my <a href=\"https://www.jeffgeerling.com/blog/2022/how-i-rip-dvds-and-blu-rays-my-mac-2022-edition\">ripped movie and TV show library</a> on my portable SSD.</p>\n\n<p>One dreaded part of choosing a movie or show to watch after a rainy afternoon and all other avenues of entertainment are exhausted is having the kids (especially the youngest, who can't read yet) choose a movie without the 'movie shelf' showing the movie posters/cover artwork.</p>\n\n<p>So... without the Pi, and only armed with my MacBook Air, I thought I'd spin up a Jellyfin Docker container. Except, <a href=\"https://jellyfin.org/docs/general/",
+        "id": 3370211,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/jellyfin-on-macos-quick-self-hosted-media-library",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jellyfin on macOS for a quick self-hosted media library",
+        "vote": 0
+    }
+]
