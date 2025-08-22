@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T13:34:24.768217+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T13:00:09+00:00",
+        "description": "Welcome back to Fantasy News! This week we\u2019re covering everything from an unbelievable Lord of the Rings fan project to the Hugo Award winners.\n\n00:00 Unbelievable LOTR fan project: https://www.youtube.com/watch?v=TlzO4z7hPg0&ab_channel=Andymation\n\n02:07 Authors VS AI write off: https://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html?m=1\n\n05:43 Hugo Awards: https://locusmag.com/2025/08/hugo-lodestar-and-astounding-awards-winners-2/\nStatistics: https://seattlein2025.org/wp-content/uploads/2025/08/2025-Hugo-Voting-Statistics.pdf\n\n07:19 Audible Update:\nDale Roberts Video: https://www.youtube.com/watch?v=mYa0PZu_1eY&ab_channel=DaleL.Roberts\n\nRiddBooks Alternatives video: https://www.youtube.com/watch?v=nPniSz30DTg&ab_channel=riddbook\n\nThe Petition: https://www.change.org/p/convince-audible-to-revise-it-s-new-royalty-model?recruiter=146287645&recruited_by_id=4d515a04-91f6-4b1a-b497-3d372e4bfdb7&utm_source=share_petition&utm_campaign=share_petition&utm_term=share_",
+        "id": 3382950,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2K0eX-NzdBQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2K0eX-NzdBQ/hqdefault.jpg",
+        "title": "Unbelievable LOTR Fan Project\ud83e\uddd9\u200d\u2642\ufe0f Reading Crisis\ud83d\udcc9 Hugo Results\ud83e\udd47 ~FN~",
+        "vote": 0
+    }
+]

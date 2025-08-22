@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/TijnvandenEijnde",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T07:06:06.229896+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T06:01:23+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Version 1.9.2 is now live on iOS.</p> <p>RSS widgets have been one of the most used features on Android, and they are now available on iOS as well.</p> <p>Features include:</p> <ul> <li>Pick sources <ul> <li>Will also support categories and FreshRSS in the future.</li> </ul></li> <li>Adjust font size and colors</li> <li>Show/hide read articles</li> <li>Open articles</li> <li>Use filters</li> <li>Navigate through articles</li> <li>Refresh button</li> </ul> <p>You can see the widgets in action here: <a href=\"https://www.reddit.com/r/YourNewsApp/comments/1mtddz0/sneak_peek_rss_home_widgets_for_ios/\">Sneak peek of RSS home widgets</a></p> <p>Keep in mind that widgets are a <strong>premium feature.</strong></p> <p>Download: <a href=\"https://apps.apple.com/us/app/your-news-rss-feed-reader/id6744372214?platform=iphone\">Your News \u2013 RSS Feed Reader</a><br/> Website: <a href=\"https://www.yournews.app/\">yournews.app</a><br/> Join: <a href=\"https://www.reddit.com",
+        "id": 3380528,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1mw2vx4/your_news_v192_rss_widgets_for_ios",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Your News v1.9.2 - RSS Widgets for iOS",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T07:14:11.172937+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T04:16:33+00:00",
+        "description": "Sponsor: Lian Li Lancool 217 on Amazon https://geni.us/0dwg\nHardware news this week has been busy: Der8auer came into possession of a dual-12VHPWR adapter from NVIDIA for an unreleased GPU, Valve is rumored to be working on a console, the next Xbox chips promise... \u201cAI,\u201d ASUs has an 800W GPU, and the US Government wants to buy 10% of Intel.\n\nWatch our movie! https://www.youtube.com/watch?v=1H3xQaf7BFI\nGrab one of our backer packs for the new movie before they\u2019re gone: https://store.gamersnexus.net/black-market-gpu-backers\nSources doc: https://www.one-tab.com/page/5Z8iA7YcSAeuQ5Udl4SMXw\n\nTIMESTAMPS\n\n00:00 - Recapping the Week\n01:15 - GN Update: Movie Recap\n06:30 - Prototype TITAN ADA Features Two 12VHPWR Cables\n08:20 - Rumor: Valve Working on a Console\n11:05 - Next Xbox Chips Will Have Neural Rendering\n12:45 - ASUS Announces 800W RTX 5090\n15:02 - Microsoft Claimed to Kill SSDs Just Ahead of Window 10 EOL Date\n16:34 - AMD Low-End RX 7400 Doesn\u2019t Need Power Connectors\n18:05 - SoftBank Pu",
+        "id": 3380734,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jNfmz0BowxM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jNfmz0BowxM/hqdefault.jpg",
+        "title": "HW News - Valve Console, Intel Bailouts, Windows Update Kills SSDs, 2x 12VHPWR GPU",
+        "vote": 0
+    }
+]

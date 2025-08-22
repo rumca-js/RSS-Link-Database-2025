@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T12:28:19.521911+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T11:37:44+00:00",
+        "description": "Try TuxCare's Endless Lifecycle Support and simplify your security and migrations: https://tuxcare.com/endless-lifecycle-support/runtimes-libraries-eol-support//?utm_campaign=The%20Linux%20Experiment&utm_source=youtube&utm_medium=social\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\nLink to Volla (not sponsored) https://volla.online/en/\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:45 Sponsor: TuxCare\n01:52 Volla Phone Quintus\n04:10 Volla OS\n05:25 Launcher\n10:23 Security Mode\n11:38 Installing apps\n13:36",
+        "id": 3382374,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Dh-rIxrGXFU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Dh-rIxrGXFU/hqdefault.jpg",
+        "title": "DeGoogled Android : I really enjoyed the Volla Phone Quintus & Volla OS!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T20:46:45.571214+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T19:45:39+00:00",
+        "description": "Israeli Prime Minister Benjamin Netanyahu said renewed ceasefire negotiations would go \u201chand in hand\u201d with the planned expansion of military operations to take full control of Gaza City.",
+        "id": 3386669,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/netanyahu-orders-new-gaza-ceasefire-negotiations-alongside-military-operation-245514821910",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/f_mo_lon_netanyahu_250821-ii4rwj.jpg",
+        "title": "Netanyahu announces return to Gaza ceasefire negotiations",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T15:12:03.141746+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T13:00:55+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/W-xlN_czzm8\" width=\"480\" alt=\"thumbnail\" title=\"'uptime' - print system uptime - Video Man Pages\" /></p>'uptime' tells you how long the system has been running.<br /><br />- Print current time, uptime, number of users logged on, and load averages:<br />  uptime<br /><br />- Print uptime in \"pretty\" format (shows only the uptime):<br />  uptime -p<br /><br />- Print the system up \"since\" time (time since system booted up):<br />  uptime -s<br /><br />- Print values in \"raw\" format (current time and uptime displayed in seconds).<br />  uptime -r<br /><br />- Print the container uptime instead of system uptime.<br />  uptime -c<br /><br />REFERENCED:<br />\u25ba https://gitlab.com/dwt1/vidman<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2",
+        "id": 3384108,
+        "language": "en",
+        "link": "https://odysee.com/%27uptime%27-print-system-uptime-video-man:336f1ffc67b1b0fd3a4b2fa46068bd1c752b00cc",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/W-xlN_czzm8",
+        "title": "'uptime' - print system uptime - Video Man Pages",
+        "vote": 0
+    }
+]

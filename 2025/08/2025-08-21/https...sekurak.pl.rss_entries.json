@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T16:08:02.177474+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T15:48:18+00:00",
+        "description": "<p>Wiktor S\u0119dkowski &#8211; kt\u00f3rego mo\u017cecie zna\u0107 jako wsp\u00f3\u0142autora naszych ksi\u0105\u017cek i prelegenta na konferencjach, a na codzie\u0144 pracuj\u0105cy senior pensterer master blaster car destroyer w firmie Auxilium Pentest Labs, wraz z zespo\u0142em wygra\u0142 zawody CTF, zostaj\u0105c najlepsz\u0105 dru\u017cyn\u0105 na \u015bwiecie podczas konferencji DEF CON. Zapraszamy do przeczytania jego relacji z...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/jak-wygrac-ctfa-na-konferencji-def-con-relacja-wiktora-sedkowskiego/\">Jak wygra\u0107 CTFa na konferencji DEF CON? &#8211; relacja Wiktora S\u0119dkowskiego</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3384337,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/jak-wygrac-ctfa-na-konferencji-def-con-relacja-wiktora-sedkowskiego",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jak wygra\u0107 CTFa na konferencji DEF CON? \u2013 relacja Wiktora S\u0119dkowskiego",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T17:52:47.682471+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T16:56:38+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nWhat is Pragmata? Up until now, we weren't quite sure what to expect from this long-in-development title, but we've played it now on PC - and we like what we see. John and Rich explain what impressed them about the demo, how the gameplay works and what high-end features you can expect on PC (tested on RTX 5090). A bit of an update: we've now played the same content on PS5 Pro at Gamescom 2025 and can confirm 60fps and RT - this is looking very cool.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00:00 Overview \n00:01:13 Gameplay \n00:05:36 Ray-traced GI and reflections \n00:06:24 Concluding thoughts",
+        "id": 3385395,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mDNUHz0MpmI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mDNUHz0MpmI/hqdefault.jpg",
+        "title": "Pragmata: Capcom's Next Big Thing? Hands-On First Look - Gameplay Impressions, RT + More",
+        "vote": 0
+    }
+]

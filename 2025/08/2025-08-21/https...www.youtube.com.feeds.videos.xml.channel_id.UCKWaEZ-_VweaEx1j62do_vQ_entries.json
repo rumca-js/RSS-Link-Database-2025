@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T12:46:19.842257+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T11:01:39+00:00",
+        "description": "Ready to become a certified watsonx Governance Lifecycle Advisor? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdeYxU\n\nLearn more about Explainable AI here \u2192 https://ibm.biz/BdeYxN\n\nDiscover how Explainable AI (XAI) is transforming AI Agents' decision-making! Josh Spurgin explains how XAI builds trust with transparent insights in industries like healthcare and finance. Explore the benefits, challenges, and ethical impact of smarter, scalable AI systems. \ud83e\udd16\u2728\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdeYDc\n\n#ai #explainableai #aiagents #ethicalai",
+        "id": 3382614,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yJkCuEu3K68",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yJkCuEu3K68/hqdefault.jpg",
+        "title": "Explainable AI: Demystifying AI Agents Decision-Making",
+        "vote": 0
+    }
+]

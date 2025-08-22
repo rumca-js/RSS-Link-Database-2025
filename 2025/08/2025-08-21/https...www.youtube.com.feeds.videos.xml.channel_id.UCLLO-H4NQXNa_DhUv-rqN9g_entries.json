@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T18:08:03.545516+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T17:03:19+00:00",
+        "description": "Bilety kup na https://sklep.cdaction.pl",
+        "id": 3385477,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/m1ZYhHVoYlk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m1ZYhHVoYlk/hqdefault.jpg",
+        "title": "CD-Action Expo 2025. Zapraszamy!",
+        "vote": 0
+    }
+]

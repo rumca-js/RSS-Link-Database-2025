@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T09:31:14.011502+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T09:03:00+00:00",
+        "description": "Two hundred years ago, there were a lot of violinists. Many made a living at it. If you were of means and wanted to hear music, your best option was to hire someone to play it for you. Of course, the invention of the phonograph and the radio changed all of that. Now, one great [&#8230;]",
+        "id": 3381427,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/the-violinist-problem",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The violinist problem",
+        "vote": 0
+    }
+]

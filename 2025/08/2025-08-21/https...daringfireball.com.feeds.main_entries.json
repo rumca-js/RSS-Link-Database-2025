@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T19:52:16.308154+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T19:49:04+00:00",
+        "description": "<p>Added this footnote just now to yesterday\u2019s piece on MSNBC\u2019s rebranding to \u201cMS NOW\u201d:</p>\n\n<blockquote>\n  <p>Historical pedantry: from 1975\u20131979, <a href=\"https://logos.fandom.com/wiki/Microsoft\">Microsoft spelled its name \u201cMicro-Soft\u201d</a>, with, yes, an uppercase <em>S</em>. But that\u2019s not camel-case, and that hyphenated spelling is as much a footnote to Microsoft\u2019s brand history as the <a href=\"https://appleinsider.com/articles/22/03/29/how-apples-logo-started-out-as-the-most-expensive-and-became-the-most-iconic\">woodcut Isaac-Newton-under-a-tree logo</a> is to Apple. <a href=\"https://daringfireball.net/misc/2025/08/Microsoft_(1975).svg\">Microsoft\u2019s logo from that era</a> was very disco-\u201970s and kind of cool\u2009\u2014\u2009but while \u201cMicro\u201d and \u201cSoft\u201d were broken across two lines, there\u2019s no hyphen in the logotype.[</p>\n</blockquote>\n\n<div>\n<a  title=\"Permanent link to \u2018\u2018Micro-Soft\u2019\u2019\"  href=\"https://daringfireball.net/linked/2025/08/21/micro-soft\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 3386500,
+        "language": "",
+        "link": "https://daringfireball.net/2025/08/msnbc_ms_now_rebranding#fn1-2025-08-20",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2018Micro-Soft\u2019",
+        "vote": 0
+    }
+]

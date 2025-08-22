@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T14:55:38.059259+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T13:30:00+00:00",
+        "description": "In this beginner-level chess course you will learn the fundamentals of the endgame. This tutorial will guide you through the essential endgame fundamentals needed to convert an advantage into a victory. You will learn the strategic thinking required to systematically corner an opponent's king and avoid common pitfalls like stalemate. \n\n\u270f\ufe0f Course developed by @Ihechikara \n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (00:00) Introduction\n\u2328\ufe0f (02:21) What are Chess Notations?\n\u2328\ufe0f (03:14) Chess Board: Files and Ranks\n\u2328\ufe0f (05:50) Notation for Each Piece\n\u2328\ufe0f (09:02) Notation for Capturing\n\u2328\ufe0f (10:09) Notation for Check & Castling\n\u2328\ufe0f (11:38) Checkmate Pattern: Two Rooks vs. King\n\u2328\ufe0f (18:03) Checkmate Pattern: Queen & King (Knight Move Method)\n\u2328\ufe0f (25:43) Checkmate Pattern: Rook & King (Direct Opposition)\n\u2328\ufe0f (31:40) Common Checkmate Patterns\n\u2328\ufe0f (32:04) Back Rank Mates\n\u2328\ufe0f (35:07) Anastasia's Mate\n\u2328\ufe0f (39:56) Smothered Mate\n\u2328\ufe0f (42:28) Opera Mate\n\u2328\ufe0f (43:45) Course Wrap-up & Next Steps\n\n\u2764\ufe0f Support for this channel comes from our ",
+        "id": 3383527,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1AX7_aPWmbE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1AX7_aPWmbE/hqdefault.jpg",
+        "title": "Checkmate Patterns for Beginners \u2013 Full Chess Tutorial",
+        "vote": 0
+    }
+]

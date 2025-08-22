@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tripp Mickle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-21T15:29:21.577235+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-21T15:09:54+00:00",
+        "description": "Workers say the executive was volatile and retaliated when they cooperated with an investigation. Apple denies the claims.",
+        "id": 3384127,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/08/21/technology/apple-fitness-jay-blahnik.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/07/31/business/biz-apple-fitness-watch/biz-apple-fitness-watch-mediumSquareAt3X.jpg",
+        "title": "Apple Fitness Chief Accused of Toxic Workplace Culture and Harassment",
+        "vote": 0
+    }
+]
