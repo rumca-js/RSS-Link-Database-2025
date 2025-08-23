@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T20:52:38.921153+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T20:00:21+00:00",
+        "description": "How far has comedy come since the ancient days of early civilisation? You'd be surprised!\n\n\n\"Although the Philogelos is the oldest surviving joke book, there are known to be prior joke books that have since become lost. Athenaeus wrote in the Deipnosophistae that Philip II of Macedon paid for a social club in Athens to write down its members' jokes for him, and joke books are mentioned by characters in Persa and Stichus, two comedies by the 2nd century BC Roman playwright Plautus.\nAuthorship of the Philogelos is traditionally attributed to two men, Hierocles and Philagrius (also spelled Hierokles and Philagros), who are otherwise unattested and have no known works. It has been posited that the Hierocles mentioned is Neoplatonist philosopher Hierocles of Alexandria, but there is no evidence to connect the two beyond similarity of name. If Hierocles and Philagrius were indeed the creators of the book, it is more likely that they compiled and edited pre-existing jokes, rather than writin",
+        "id": 3395812,
+        "language": "rn",
+        "link": "https://www.youtube.com/watch?v=Xczn1PcDzD8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Xczn1PcDzD8/hqdefault.jpg",
+        "title": "Were Ancient People Funny? (Or Just Weird?) | Tales From the Bottle",
+        "vote": 0
+    }
+]

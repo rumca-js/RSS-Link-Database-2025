@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T06:54:03.597074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T06:54:02+00:00",
+        "description": "Nowelizacja Karty Nauczyciela to zestaw zmian, kt\u00f3re wprost odpowiadaj\u0105 na postulaty \u015brodowiska o\u015bwiatowego. Maj\u0105 one poprawi\u0107 warunki pracy nauczycieli \u2013 od wynagrodze\u0144 i \u015bwiadcze\u0144, po kwestie awansu i stabilno\u015bci zatrudnienia.",
+        "id": 3389849,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/oswiata-i-nauczyciele/art42893201-nowelizacja-karty-nauczyciela-korzystne-dla-nauczycieli-zmiany-z-podpisem-prezydenta",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowelizacja Karty Nauczyciela. Korzystne dla nauczycieli zmiany z podpisem prezydenta",
+        "vote": 0
+    }
+]

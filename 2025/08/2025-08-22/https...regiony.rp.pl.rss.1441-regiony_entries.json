@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T15:05:49.112625+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T15:05:48+00:00",
+        "description": "Pozna\u0144skie MPK og\u0142osi\u0142o przetarg na dostaw\u0119 co najmniej pi\u0119ciu nowych minibus\u00f3w. Tak\u017ce Gda\u0144sk wykorzystuje takie pojazdy do transportu mieszka\u0144c\u00f3w.",
+        "id": 3393049,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/transport/art42895021-maly-autobus-w-duzym-miescie-tez-jest-potrzebny",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ma\u0142y autobus w du\u017cym mie\u015bcie. Te\u017c jest potrzebny",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jennifer Pinsof",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T19:29:25.664946+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T18:35:28+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><i><span>EFF legal intern Noam Shemtov was the principal author of this post.</span></i></p>\n<p><span>When police have a warrant to search a phone, should they be able to see </span><i><span>everything</span></i><span> on the phone\u2014from family photos to communications with your doctor to everywhere you\u2019ve been since you first started using the phone\u2014in other words, data that is in no way connected to the crime they\u2019re investigating? The Michigan Supreme Court just ruled no.\u00a0</span></p>\n<p><span>In </span><i><span>People v. Carson</span></i><span>, the court </span><a href=\"https://www.courts.michigan.gov/4a1850/siteassets/case-documents/uploads/opinions/final/sct/166923_115_01.pdf\"><span>held</span></a><span> that to satisfy the Fourth Amendment, warrants authorizing searches of cell phones and other digital devices must contain express limit",
+        "id": 3395277,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/08/fourth-amendment-victory-michigan-supreme-court-reins-digital-device-fishing-1",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fourth Amendment Victory: Michigan Supreme Court Reins in Digital Device Fishing Expeditions",
+        "vote": 0
+    }
+]

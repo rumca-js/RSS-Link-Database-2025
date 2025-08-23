@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T15:06:55.665552+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T13:01:21+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/hpV6_B9kjWo\" width=\"480\" alt=\"thumbnail\" title=\"Hey, DT! What's Your Favorite Linux Commands?\" /></p>On this episode of Hey DT:<br /><br />0:00 Intro<br />0:18 What kind of virtualisation do you use?<br />1:38 What is your favorite linux command? <br />3:23 Could you maybe make a guide on doom emacs...<br />4:29 Your steering wheel on the wrong side of the car hmm.<br />6:36 How did you paint your terminal, added colors?<br />7:37 The 'shuf' command doesn't need 'seq' or 'head' commands to do what you show...<br />8:46 Can you please turn the Hey DT series into a podcast with RSS feeds so that I can listen to it from a podcast client?<br />9:38 You say we should never take offense to what others say, but why is it wrong to get offended?  Isn't it my right to be offended by something?<br />14:46 Thanks to Patrons<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/re",
+        "id": 3393058,
+        "language": "en",
+        "link": "https://odysee.com/hey%2C-dt!-what%27s-your-favorite-linux:1ce5620d2f4816a9eea43f50aad80c72e1d3190b",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/hpV6_B9kjWo",
+        "title": "Hey, DT! What's Your Favorite Linux Commands?",
+        "vote": 0
+    }
+]

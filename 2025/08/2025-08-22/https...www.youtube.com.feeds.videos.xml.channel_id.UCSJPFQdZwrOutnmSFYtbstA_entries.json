@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T17:40:12.555410+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T17:01:04+00:00",
+        "description": "A recent Variety article revealed that Disney is now looking for ways to win back young men to their brand, which is interesting for a company that owns both Star Wars and Marvel. How did it come to this? Let's find out how Disney destroyed their male audience.",
+        "id": 3394331,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=iQaqIbXFnHM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iQaqIbXFnHM/hqdefault.jpg",
+        "title": "Disney's Self-Inflicted \"Boy Trouble\"",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T08:20:51.992593+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T08:00:18+00:00",
+        "description": "One user went from basic privacy awareness to full Proton ecosystem adoption in one week, ditching iCloud, enabling 2FA everywhere, and switching all passwords to unique generated ones after being inspired by the Mullvad police case! Welcome to Techlore's privacy wins of the week, where our community shares their tech wins. It can be privacy, security, or anything else tech-related! Join next week's stream in the pinned post on our forum: https://discuss.techlore.tech/\n\nTimestamps:\nComing Soon\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\nWe cannot provide our content without our Patrons, huge thanks to:\nBRIGHTSIDE, Clark, Ente, Larry, Richard, Afonso, Johnny, Kevin, love your content, x, 3c3c1d, NotSure, Philip, Seth, ",
+        "id": 3390146,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=mwTU37ibQa0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mwTU37ibQa0/hqdefault.jpg",
+        "title": "Ditching Big Tech for Proton - Privacy Wins Of The Week!",
+        "vote": 0
+    }
+]

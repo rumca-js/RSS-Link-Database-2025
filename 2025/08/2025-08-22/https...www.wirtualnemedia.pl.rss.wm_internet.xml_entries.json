@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T04:52:01.228305+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T04:52:00+00:00",
+        "description": "Msza na Instagramie czy kazanie do kamery? Katoliccy influencerzy redefiniuj\u0105 to, jak przedstawiana jest wiara we wsp\u00f3\u0142czesnym \u015bwiecie \u2013 czasem w sutannie, czasem w d\u017cinsach, zawsze z tysi\u0105cami widz\u00f3w. Postanowili\u015bmy przyjrze\u0107 si\u0119, kim s\u0105 duchowni i \u015bwieccy, kt\u00f3rzy dziel\u0105 si\u0119 Ewangeli\u0105 przez ekran smartfona czy komputera.",
+        "id": 3389304,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/katoliccy-influnecerzy-czyli-o-obecnosci-kosciola-w-mediach-spolecznosciowych-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cyfrowo o religii. Kim s\u0105 i co tworz\u0105 katoliccy influencerzy?",
+        "vote": 0
+    }
+]

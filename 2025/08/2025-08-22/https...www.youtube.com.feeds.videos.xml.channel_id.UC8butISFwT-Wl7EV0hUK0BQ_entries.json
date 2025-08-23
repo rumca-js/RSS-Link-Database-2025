@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T14:30:01.626848+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T13:15:07+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Emmett Naughton. He worked as hospital janitor for years while teaching himself programming using freeCodeCamp. He's founder of Coder Dads, a chat community where dads encourage one another.\n\nWe talk about:\n- Making ends meet while raising a family\n- Recovering from getting laid off twice in the same year\n- Emmet's journey into the PHP Laravel ecosystem as a full stack JavaScript developer\n- How to use social media effectively when you don't like using social media\n- Emmett's sleep apnea and how fixing his sleep dramatically improved his thinking and coding\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 11,384 kind folks who support freeCodeCamp through a monthly donation. Yo",
+        "id": 3392439,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=L6kMdLH1S8w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L6kMdLH1S8w/hqdefault.jpg",
+        "title": "From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]",
+        "vote": 0
+    }
+]

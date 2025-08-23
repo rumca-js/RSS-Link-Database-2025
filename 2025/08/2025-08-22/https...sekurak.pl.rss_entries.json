@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T20:02:42.443635+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T19:42:20+00:00",
+        "description": "<p>Botland, popularny internetowy sklep z elektronik\u0105, poinformowa\u0142 dzi\u015b (22.08.2025) swoich klient\u00f3w, \u017ce pad\u0142 ofiar\u0105 ataku cyberprzest\u0119pc\u00f3w. \u015alady obecno\u015bci intruza w systemie zosta\u0142y zauwa\u017cone 23 lipca i 3 sierpnia 2025 r., ale wed\u0142ug firmy nie wskazywa\u0142y na naruszenie bezpiecze\u0144stwa danych. Dopiero szczeg\u00f3\u0142owe badanie zlecone niezale\u017cnemu podmiotowi zako\u0144czone 11.08.2025 r. pozwoli\u0142o ustali\u0107,...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/wyciek-danych-z-botland-com-pl/\">Wyciek danych z Botland.com.pl</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3395526,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/wyciek-danych-z-botland-com-pl",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wyciek danych z Botland.com.pl",
+        "vote": 0
+    }
+]

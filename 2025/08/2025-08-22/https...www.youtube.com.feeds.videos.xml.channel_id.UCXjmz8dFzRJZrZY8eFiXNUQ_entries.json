@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T17:41:54.003035+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T17:00:23+00:00",
+        "description": "If it wasn\u2019t obvious already, Hollywood is in crisis. While the box office still churns out millions thanks to endless remakes, reboots, and legacy sequels, the industry itself is shrinking. Filming is being shipped overseas, AI is creeping into scriptwriting, and in just the last year we\u2019ve seen two massive strikes shake the foundation of the business.\n\nBut the biggest threat to Hollywood today isn\u2019t box office fatigue\u2014it\u2019s Big Tech. Streaming giants like Netflix, Apple, and Amazon are reshaping the industry, strip-mining its talent, and turning movies and TV shows into another profit stream for investors.\n\nIs it too late for Hollywood? Or is the industry too big to fail? \n\n#hollywood #netflix #amazon #apple #bigtech",
+        "id": 3394338,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=JQ7nJVXAKy0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JQ7nJVXAKy0/hqdefault.jpg",
+        "title": "Is Big Tech Destroying Hollywood?",
+        "vote": 0
+    }
+]

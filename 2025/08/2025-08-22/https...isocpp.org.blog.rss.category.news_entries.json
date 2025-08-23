@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T15:15:49.244206+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T14:44:29+00:00",
+        "description": "<p>\n\t<strong><img alt=\"\" src=\"https://avatars.sched.co/b/23/5840957/avatar.jpg?abf\" style=\"width: 150px; height: 150px; float: right;\" />Registration is now open for CppCon 2025!</strong> The conference starts on September 13 and will be held&nbsp;<a href=\"https://cppcon.org\">in person in Aurora, CO</a>.&nbsp;To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting some upcoming talks that you will be able to attend this year. Here&rsquo;s another CppCon future talk we hope you will enjoy &ndash; and&nbsp;<strong><a href=\"https://cppcon.org/registration/\">register today</a> for CppCon 2025!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppcon2025.sched.com/event/27bPa/mastering-the-code-review-process\">Mastering the Code Review Process</a></h3>\n\t<p>\n\t\tWednesday, September 17 15:15 - 16:15 MDT</p>\n\t<p>\n\t\tby Peter Muldoon</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tIn software development, significant attention is given to writing clean, m",
+        "id": 3393127,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/08/cppcon-2025-mastering-the-code-review-process-peter-muldoon",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://avatars.sched.co/b/23/5840957/avatar.jpg?abf",
+        "title": "CppCon 2025 Mastering the Code Review Process -- Peter Muldoon",
+        "vote": 0
+    }
+]

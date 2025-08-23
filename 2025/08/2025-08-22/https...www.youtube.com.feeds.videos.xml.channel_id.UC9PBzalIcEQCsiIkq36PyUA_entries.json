@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T08:10:20.387539+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T08:02:28+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nBlending the old with the new, Metal Gear Solid Delta potentially offers the best way to play Hideo Kojima's stealth-action classic. The Unreal Engine 5 driven visuals are standout, but it's clear that Konami has not optimised for 60fps strictly here; both base PS5 in and PS5 Pro waver between 40-60fps, with drops to 30 possible as well - with Pro hardware often coming out worse in comparison. \n\nNeither base PS5 or PS5 Pro are able to lock down 60fps, where surprisingly Pro hardware \n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Introduction \n03:05 PS5 Performance vs Quality Mode Comparison\n05:40 PS5 vs PS5 Pro Comparison\n10:11 Frame-Rate Tests\n14:52 Conclusion",
+        "id": 3390126,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Am0ER7iW2lo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Am0ER7iW2lo/hqdefault.jpg",
+        "title": "Metal Gear Solid Delta - PS5/ PS5 Pro Tech Review - A Beautiful UE5 Remake With Frame-Rate Issues",
+        "vote": 0
+    }
+]

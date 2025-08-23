@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T18:22:56.095542+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T17:11:23+00:00",
+        "description": "The strange natural material that reshaped the world. Sponsored by Ground News -\nGo to https://groundnews.com/Ve to see through media misconceptions and get all sides of every story. Subscribe to save 40% off the unlimited Vantage Plan through our link.\n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n\u2580\u2580\u2580\nA huge thanks to Professor James Busfield, Dr. Katrina Cornish, and Dr. Judit Puskas\n\nWe\u2019re incredibly grateful to Toby Samples and the team at ARDL for their time and expertise. \n\nThanks also to Joe Jackson, Dr. Kevin Krause, Dr. Peter Polyak, Donald Shultz, Professor Robert Weiss for all their help on the project.\n\n\u2580\u2580\u2580\n0:00 Where does rubber come from?\n2:59 What is rubber?\n5:10 Why is rubber so stretchy?\n6:29 The problem with natural rubber\n9:02 Cured Rubber\n15:23 Vulcanisation\n18:41 What rubber is used in tires?\n22:54 How fungi could destroy the world economy\n29:17 Synthetic rubbe",
+        "id": 3394810,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AFXLZ7FEJc4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AFXLZ7FEJc4/hqdefault.jpg",
+        "title": "This material gets tougher as you break it",
+        "vote": 0
+    }
+]

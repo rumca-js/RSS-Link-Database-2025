@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T20:45:26.920250+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T20:00:19+00:00",
+        "description": "Who wants to live forever? Death and taxes, they say, are life\u2019s only certainties. The ultra-rich seem to have wriggled out of taxes, so naturally their next target is death.\n\nEnter George \u2014 a lobster off the coast of Maine, currently enjoying his 15th decade. While you and I are falling apart by middle age, George just keeps pinching along, seemingly ageless.\n\nHis secret? Telomerase.\nOur cells age because every division shaves a little off the protective \u201ccaps\u201d at the ends of our DNA, called telomeres. Eventually they get so short the cells turn into zombie husks that spew toxic signals, stir up chronic inflammation and, ultimately, kill us.\n\nLobsters, however, cheat. Their bodies are awash with telomerase, endlessly repairing those caps, sidestepping the cellular rot that makes us frail. They don\u2019t grow weak, lose fertility, or shuffle off from old age.\n\nThey\u2019re not immortal. But unlike us, they don\u2019t die of being old.",
+        "id": 3395780,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/_ZOlPz_mYtE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_ZOlPz_mYtE/hqdefault.jpg",
+        "title": "Immortality Lies in Lobsters?",
+        "vote": 0
+    }
+]

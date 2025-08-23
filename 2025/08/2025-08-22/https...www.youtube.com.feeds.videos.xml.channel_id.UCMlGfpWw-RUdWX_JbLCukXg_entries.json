@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-22T16:11:08.496183+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-22T16:00:53+00:00",
+        "description": "Register: https://cppcon.org/registration/ \n\n---\n\nWant 8x Faster C++ Code? Master AVX Vectorization with C++ Performance Expert Ivica Bogosavljevi\u0107\n\nModern CPUs have incredible potential, but software often misses out on key optimizations. Join Ivica Bogosavljevi\u0107 in this new C++ training course which focuses on boosting application performance. Learn how to maximize your code's speed through AVX vectorization and take your cpp skills to the next level. You'll come out with techniques which greatly improve efficiency and overall system performance.\n\nCourse Description\nFor software developers who wish to learn how to write fast software!\n\nAVX vectorization workshop teaches you how accelerate your programs program using AVX (Advanced Vector Extensions) available in most modern Intel and AMD CPUs. We introduce vectorization from the most basic concept up to very advanced vectorization topics.\n\nPrerequisites\n\nC++ and algorithm basics are assumed. A participant should be able to code binar",
+        "id": 3393697,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/WpfgscdlKQQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WpfgscdlKQQ/hqdefault.jpg",
+        "title": "Want 8x Faster C++ Code? Master AVX Vectorization with C++ Performance Expert Ivica Bogosavljevi\u0107",
+        "vote": 0
+    }
+]
