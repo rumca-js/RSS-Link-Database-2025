@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mark Manson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T14:05:32.414712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T13:00:13+00:00",
+        "description": null,
+        "id": 3400194,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/3BmxyoOunhg",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 671,
+        "source_url": "https://youtube.com/channel/UC0TnW9acNxqeojxXDMbohcA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3BmxyoOunhg/hqdefault.jpg",
+        "title": "Watch This Before You Use ChatGPT",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PlayStation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T08:20:46.773867+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T08:03:24+00:00",
+        "description": "Inspired by techno-dystopian aesthetics, ENCI\u2019S SOLUTION is a hand-painted, narrative 2.5D platformer following the story of Ji\u2019we, a young Aeon venturing out into the unknown in an attempt to save his dearest friend. Stumbling upon Enci, a lost encyclopedic robot who finds himself far from home, the two form an unusual bond and set out together to the surface of planet Regalia.\n\n#ps5 #ps5games",
+        "id": 3398652,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sNHuSvFeu5E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 576,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sNHuSvFeu5E/hqdefault.jpg",
+        "title": "Enci's Solution - Announcement Trailer | PS5 Games",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T16:27:58.748120+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T16:27:58+00:00",
+        "description": "Premiera GPT-5 rozczarowa\u0142a, a wielu ekspert\u00f3w ostrzega, \u017ce tempo rozwoju AI wyra\u017anie zwalnia. Czy szale\u0144stwo na rynku sztucznej inteligencji mo\u017ce si\u0119 niebawem sko\u0144czy\u0107?",
+        "id": 3400959,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42889031-ai-dostala-zadyszki-eksperci-mowia-o-spowolnieniu-i-bance-wiekszej-niz-internetowa",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI dosta\u0142a zadyszki? Eksperci m\u00f3wi\u0105 o spowolnieniu i ba\u0144ce wi\u0119kszej ni\u017c internetowa",
+        "vote": 0
+    }
+]

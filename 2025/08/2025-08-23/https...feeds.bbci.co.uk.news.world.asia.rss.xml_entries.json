@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T10:04:22.808729+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T09:31:01+00:00",
+        "description": "The former temple cleaner's startling claims threw the town of Dharmasthala in Karnataka into turmoil.",
+        "id": 3398983,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cgm2z9zjgx7o?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/17993300-7ff0-11f0-8abb-03b0ae8652c6.jpg",
+        "title": "Man who alleged rapes and secret burials in Indian temple town arrested",
+        "vote": 0
+    }
+]

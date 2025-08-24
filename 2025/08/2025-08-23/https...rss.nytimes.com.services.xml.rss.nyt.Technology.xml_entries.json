@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Natallie Rocha and Christie Hemm Klok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T12:52:46.406384+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T09:01:06+00:00",
+        "description": "FoundHer House, a home in San Francisco\u2019s Glen Park neighborhood, is the rare all-female hacker house where residents are creating a supportive community to build their start-ups.",
+        "id": 3399842,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/08/23/business/ai-female-hackers-foundher-house.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/08/20/business/FEMALE-HACKERS-group-sub/FEMALE-HACKERS-group-sub-mediumSquareAt3X.jpg",
+        "title": "The All-Female Hacker House Trying to Break A.I.\u2019s Glass Ceiling",
+        "vote": 0
+    }
+]

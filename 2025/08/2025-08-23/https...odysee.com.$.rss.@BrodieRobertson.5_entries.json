@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T18:37:08.427143+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T17:30:12+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/nWnBg8zGAeU\" width=\"480\" alt=\"thumbnail\" title=\"This Wayland Open Letter Is Incredible\" /></p>Yeah, this video ended up longer than expected, today we're going through the recent Wayland open letter and there's a lot to unpack here and a lot that is just blatantly wrong.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Wayland Open Letter: https://stoppromotingwayland.netlify.app/<br />Protocol Table: https://absurdlysuspicious.github.io/wayland-protocols-table/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media=",
+        "id": 3401644,
+        "language": "en",
+        "link": "https://odysee.com/this-wayland-open-letter-is-incredible:4d3106a596408fe7581e477705c0cba510de2888",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/nWnBg8zGAeU",
+        "title": "This Wayland Open Letter Is Incredible",
+        "vote": 0
+    }
+]

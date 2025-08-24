@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Justin Hawkins Rides Again",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T11:04:31.913179+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T10:00:05+00:00",
+        "description": "Brent Hinds, Mastodon's former guitarist and vocalist,  has been killed in a motorbike accident in Atlanta. He was 51. It's devastating. \n\n#reaction #mastodon #brenthinds",
+        "id": 3399265,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=18L6xeJt1G8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 460,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgH8NCuYcVzxxrfsrBj1u3A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/18L6xeJt1G8/hqdefault.jpg",
+        "title": "Paying Tribute to Brent Hinds",
+        "vote": 0
+    }
+]

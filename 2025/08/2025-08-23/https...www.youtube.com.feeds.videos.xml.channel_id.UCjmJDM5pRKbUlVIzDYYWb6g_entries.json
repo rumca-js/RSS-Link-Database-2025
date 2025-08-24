@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warner Bros.",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T12:41:04.484789+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T11:38:44+00:00",
+        "description": "Ready or not. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes \u201cOne Battle After Another,\u201d starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny G",
+        "id": 3399814,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BPy958x9RtE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 693,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjmJDM5pRKbUlVIzDYYWb6g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BPy958x9RtE/hqdefault.jpg",
+        "title": "One Battle After Another | \"Coming After Us\"",
+        "vote": 0
+    }
+]

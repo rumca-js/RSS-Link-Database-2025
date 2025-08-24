@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T08:35:28.910904+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T08:35:28+00:00",
+        "description": "Cybersecurity researchers are calling attention to multiple campaigns that leverage known security vulnerabilities and expose Redis servers to various malicious activities, including leveraging the compromised devices as IoT botnets, residential proxies, or cryptocurrency mining infrastructure.\nThe first set of attacks entails the exploitation of CVE-2024-36401 (CVSS score: 9.8), a critical",
+        "id": 3398666,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets",
+        "vote": 0
+    }
+]

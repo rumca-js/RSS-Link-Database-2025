@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T00:02:58.350941+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T23:00:13+00:00",
+        "description": "Believe the title, I am not lying to you. You have been warned.\n\nprevious video: https://www.youtube.com/watch?v=mpzFWNpAJ4o\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 3403082,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Eqd0sNFePyE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Eqd0sNFePyE/hqdefault.jpg",
+        "title": "This is the Most Disgusting Video You'll Ever Watch",
+        "vote": 0
+    }
+]

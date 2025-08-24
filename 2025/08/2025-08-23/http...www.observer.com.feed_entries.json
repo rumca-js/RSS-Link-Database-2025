@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tamar Lortkipanidze",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T12:54:17.756056+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T12:00:03+00:00",
+        "description": "Over the past decade, Lisbon\u2019s art scene has surged into the spotlight, transforming the city into a magnet for art lovers from around the globe.",
+        "id": 3399847,
+        "language": "en",
+        "link": "https://observer.com/2025/08/best-art-galleries-in-lisbon-portugal__trashed",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "The Best Art Galleries (and One Museum) in Lisbon, Portugal",
+        "vote": 0
+    }
+]

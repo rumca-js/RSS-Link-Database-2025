@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T11:35:40.889008+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T11:00:06+00:00",
+        "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bde2Mv\n\nLearn more about AI workflow here \u2192 https://ibm.biz/Bde2MS\n\nWhat\u2019s the difference between AI Agents and Mixture of Experts? \ud83e\udd14 Martin Keen explains how these cutting-edge AI architectures transform workflows, from modular Agentic AI systems to efficient neural networks. Discover how they optimize decision-making, automation, and real-world applications. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bde2Mm\n\n#aiagents #moe #aiworkflow",
+        "id": 3399519,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4-FH09AMsp0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4-FH09AMsp0/hqdefault.jpg",
+        "title": "AI Agents vs Mixture of Experts: AI Workflows Explained",
+        "vote": 0
+    }
+]

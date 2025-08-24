@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "RobWords",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T13:27:49.548171+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T13:00:25+00:00",
+        "description": "I'm going to show you how to read hieroglyphs. And you can start speaking a new language in 3 weeks with Babbel \ud83c\udf89. Get up to 55% OFF your subscription \u27a1\ufe0f Here: https://bit.ly/RobWordsAug\n\nHieroglyphs appear beautiful but baffling. However, these ancient Egyptian signs are not as complicated as they seem. Once you realise that they can simply spell out words just like our alphabet does, hieroglyphs become much easier to understand. Let me show you how.\n\nPLAY WITH THESE:\n\ud80c\udd3f = a   \ud80c\uddcb = i   \ud80c\udc9d = a   \ud80c\udd71 = u   \ud80c\udcc0 = b   \ud80c\udeaa = p\n\ud80c\udd91 = f   \ud80c\ude16 = n   \ud80c\ude54 = h   \ud80c\udf9b = h   \ud80d\udc0d = kh   \ud80c\udd21 = kh\n\ud80c\udd93 = j   \ud80c\udf7f = tj   \ud80c\udc8b = r   \ud80c\udd53 = m   \ud80c\udfcf = t   \ud80c\ude83 = s\n\ud80c\udef4 = sh   \ud80c\ude0e = q   \ud80c\udfa1 = k   \ud80c\udfbc = g\n\n\ud83c\udf10LINKS\ud83c\udf10\nBerlin's Egyptian Museum: https://www.smb.museum/en/museums-institutions/aegyptisches-museum-und-papyrussammlung/collection-research/collection/\nHow to read hieroglyphs book: https://www.britishmuseumshoponline.org/how-to-read-egyptian-hieroglyphs-a-step-by-step-guide-to-teach-yourself.html?srsltid=AfmBOop_IKOxP9PXJvie-CFqidd5W8RWS8WyzYsy8mRD",
+        "id": 3400023,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=90An1dnvwyc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 658,
+        "source_url": "https://youtube.com/channel/UC4a9LfdavRlVMaSSWFdIciA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/90An1dnvwyc/hqdefault.jpg",
+        "title": "Hieroglyphs are easier than they look",
+        "vote": 0
+    }
+]

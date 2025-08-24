@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T08:52:40.049306+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T08:01:40+00:00",
+        "description": "Use a secure, encrypted, and fast VPN with Proton VPN: https://protonvpn.com/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\n\nTimestamps:\n\n00:00 Intro \n01:01 Sponsor: proton VPN\n02:18 Germany could ban Adblockers\n05:26 There's no \"post Torvalds\" Linux plan\n08:03 More potential Steam Console leaks\n10:20 Ubuntu builds Dangerous Images\n11:58 The Arch websites suffer DoS attacks\n13:43 GNOME 49 beta was released\n16:02 Ubuntu wants to improve ARM Linux support\n17:50 Apple Silicon ",
+        "id": 3398676,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=oJ5sGzxxdiM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oJ5sGzxxdiM/hqdefault.jpg",
+        "title": "Will Germany ban Adblock? Arch Linux attacked, Steam OS Console rumors: Linux Weekly News",
+        "vote": 0
+    }
+]

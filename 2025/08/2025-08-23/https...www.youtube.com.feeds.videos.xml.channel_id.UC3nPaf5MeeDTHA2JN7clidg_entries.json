@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-23T15:00:58.936046+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-23T14:17:57+00:00",
+        "description": "Everyone says gaming is dying. The data says something worse - we've been stuck since 2021. While commentators scream about the next 1983, they're missing what's actually happening to the $184 billion industry that can't grow anymore.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 Yup, Things Have Changed\n00:51 What IS A Crash?\n03:09 A Decade Of Success\n06:09 THAT Crash Can't Happen Again\n09:58 What's Really Happened\n12:16 Funding Has Collapsed\n14:59 Change Is The Only Constant\n\nSources:\nhttps://www.eurogamer.net/gta-6s-delay-doesnt-mean-the-games-industrys-in-trouble-its-already-dead\n\nhttps://news.google.com/newspapers?id=qKIbAAAAIBAJ&pg=5459,6856521\n\nhttps://www.washingtonpost.com/archive/business/1983/10/15/atari-sends-warner-loss-to-122-million/4f89586d-13f5-4a57-8fe3-9236b62aeece/\n\nhttps://www.in2013dollars.com/us/inflation/1983?amount=500000000 \n\nhttps://www.nytimes.com/1983/09/28/business/atari",
+        "id": 3400561,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wUvNj9Bg2so",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wUvNj9Bg2so/hqdefault.jpg",
+        "title": "Gaming Will NEVER Be The Same",
+        "vote": 0
+    }
+]
