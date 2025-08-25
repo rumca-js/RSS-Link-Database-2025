@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T19:57:25.508463+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T17:30:02+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/70WDpA3UaJY\" width=\"480\" alt=\"thumbnail\" title=\"Email Is Even Worse Than JavaScript\" /></p>If you thought that Javascripe was a mess, don't you worry, email addresses might be just as scuffed and the creator of the javascript quiz also made email wtf.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Website: https://e-mail.wtf/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter<br />\ud83c\udf10 Mastodon: https:",
+        "id": 3407777,
+        "language": "en",
+        "link": "https://odysee.com/email-is-even-worse-than-javascript:c65a83939a0e20cdc7e1c48bea28a35f1bd777ff",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/70WDpA3UaJY",
+        "title": "Email Is Even Worse Than JavaScript",
+        "vote": 0
+    }
+]

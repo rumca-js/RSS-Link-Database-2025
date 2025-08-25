@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T16:16:47.863794+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T16:01:08+00:00",
+        "description": "\ud83d\udd11\u00a0W kwestii mened\u017cer\u00f3w hase\u0142 powiedziano ju\u017c\u00a0wszystko. Ale czy na pewno? Czy mo\u017cna jeszcze co\u015b\u00a0nowego wymy\u015bli\u0107? Okazuje si\u0119, \u017ce tak, szczeg\u00f3lnie w kwestii ochrony prywatno\u015bci u\u017cytkownik\u00f3w. Dlatego zerkam nieco za kotar\u0119\u00a02FAS Pass.\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udee1\ufe0f\u00a0Skorzystaj z 2FAS Pass\nhttps://2fas.com/download/\n \nRelevant xkcd: https://xkcd.com/792/\n \n\u00a9 Wszystkie znaki handlowe nale\u017c\u0105 do ich prawowitych w\u0142a\u015bcicieli.\n\u2764\ufe0f Dzi\u0119kuj\u0119 za Wasz\u0105 uwag\u0119.\n \nZnajdziecie mnie r\u00f3wnie\u017c na:\nInstagramie @mateuszemsi https://www.instagram.com/mateuszemsi/ \nTwixxerze @MateuszChrobok https://twitter.com/MateuszChrobok \nMastodonie https://infosec.exchange/@mateuszchrobok \nLinkedInie @mateuszchrobok https://www.linkedin.com/in/mateuszchrobok/\nPatronite https://patronite.pl/MateuszChrobok\n \nRozdzia\u0142y:\n00:00 Intro\n00:35 Po co kolejny mened\u017cer hase\u0142?\n01:11 Desktop vs telefon\n02:01 Cloud vs lokalnie\n05:45 Zagubienie urz\u0105dzenia \n08:45 Dlaczego open source?\n09:29 Prywatno\u015b\u0107 \n10:30 Biznesmodel\n12:35 Feedback\n13:21 UX: Bezpicze\u0144stwo ",
+        "id": 3406688,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=h_yH9yNngU8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h_yH9yNngU8/hqdefault.jpg",
+        "title": "Inne podej\u015bcie do mened\u017cer\u00f3w hase\u0142",
+        "vote": 0
+    }
+]

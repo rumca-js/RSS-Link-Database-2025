@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T21:09:47.641805+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T20:18:18+00:00",
+        "description": "Choose the wrong private email provider and you could lose years of data or compromise your privacy, here's how Proton Mail, Tuta, and Fastmail actually compare. From zero-knowledge encryption, speed differences, pricing, to discovering which provider fits your specific needs. Whether you want maximum privacy, a complete ecosystem, or premium performance, this comparison covers the real-world trade-offs.\n\n\ud83d\udcf1 KICKBACK LINKS:\n\u2022 https://go.getproton.me/SH12O\n\u2022 https://tuta.com/?t-src=techlore\n\u2022 https://join.fastmail.com/4eefa5abf01c\n\n\ud83d\udcf1 Regular Links:\n\u2022 https://proton.me/mail/\n\u2022 https://tuta.com/\n\u2022 https://www.fastmail.com/\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://youtu.be/hQkKdXZiVj4\n\u2022 https://youtu.be/7yADj1MSeAQ\n\u2022 https://youtu.be/_QNJXRPeT94\n\n\ud83d\udcfa RELATED CHANNELS:\n\u2022 Surveillance Report: https://www.youtube.com/@surveillancereport\n\u2022 Techlore Clips: https://www.youtube.com/@techloreclips\n\u2022 Surveillance Report Clips: https://www.youtube.com/@surveillanceclips\n\u2022 Henry's Personal Channel: https://www.you",
+        "id": 3408342,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Cn8sLpvuEKY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Cn8sLpvuEKY/hqdefault.jpg",
+        "title": "Private Email Showdown: Proton vs Tuta vs Fastmail",
+        "vote": 0
+    }
+]

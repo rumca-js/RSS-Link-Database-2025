@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T00:57:43.820473+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T00:00:26+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/08/23/trim/540/304/argentina-national-rugby-team-pumas-new-zealand-win-2085626.jpg\" alt=\"Argentina, national rugby team, Pumas, New Zealand win\" /></p>Pumas upset All Blacks with bruising 29-23 victory; Maiden win over New Zealand on home soil in 16 attempts for Argentina. <a href=\"https://www.batimes.com.ar/news/sports/argentina-stun-all-blacks-with-historic-29-23-upset-win.phtml\">Leer m\u00e1s</a>",
+        "id": 3403300,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/sports/argentina-stun-all-blacks-with-historic-29-23-upset-win.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/08/23/trim/540/304/argentina-national-rugby-team-pumas-new-zealand-win-2085626.jpg",
+        "title": "Pumas stun All Blacks with historic 29-23 upset win",
+        "vote": 0
+    }
+]

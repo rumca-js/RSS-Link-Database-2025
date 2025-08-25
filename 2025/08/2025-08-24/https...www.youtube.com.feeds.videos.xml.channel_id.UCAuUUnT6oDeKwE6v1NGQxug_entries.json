@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T15:49:44.320267+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T15:00:30+00:00",
+        "description": "In a tour de force set, multidisciplinary artist and composer Samora Pinderhughes performs four moving songs \u2014 \u201cTongues,\u201d \u201cGatsby,\u201d \u201cMasculinity\u201d and \u201cProcess/Forgive Yourself\u201d \u2014 accompanied by Elena Pinderhughes on flute, Elliott Skinner on guitar and The Healing Project Choir. (Recorded at TED2025 on April 10, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design \u2014 plus science, business, global issues, the arts and more. ",
+        "id": 3406579,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Bq7OK-I4aUs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bq7OK-I4aUs/hqdefault.jpg",
+        "title": "4 Beautifully Raw Tunes from \u201cThe Healing Project\u201d | Samora Pinderhughes | TED",
+        "vote": 0
+    }
+]

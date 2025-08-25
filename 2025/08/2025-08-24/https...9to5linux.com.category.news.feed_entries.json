@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T15:28:03.786670+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T15:07:39+00:00",
+        "description": "<p><img width=\"1920\" height=\"985\" src=\"https://9to5linux.com/wp-content/uploads/2025/08/cos825.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"CachyOS August 2025\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/cos825.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/cos825.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>The CachyOS ISO snapshot for August 2025 is now available for download with a brand-new dashboard for finding packages and other improvements.. Here\u2019s what\u2019s new!</p>\n<p>The post <a href=\"https://9to5linux.com/cachyos-iso-snapshot-for-august-2025-introduces-a-new-package-dashboard\">CachyOS ISO Snapshot for August 2025 Introduces a New Package Dashboard</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, no",
+        "id": 3406380,
+        "language": "en-US",
+        "link": "https://9to5linux.com/cachyos-iso-snapshot-for-august-2025-introduces-a-new-package-dashboard",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/08/cos825.webp",
+        "title": "CachyOS ISO Snapshot for August 2025 Introduces a New Package Dashboard",
+        "vote": 0
+    }
+]

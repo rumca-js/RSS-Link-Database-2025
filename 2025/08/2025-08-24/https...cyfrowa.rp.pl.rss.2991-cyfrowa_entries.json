@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T16:30:43.859650+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T16:30:43+00:00",
+        "description": "Doomerzy, czyli osoby o skrajnie pesymistycznym spojrzeniu na zagro\u017cenia stoj\u0105ce przed ludzko\u015bci\u0105, ostrzegaj\u0105 przed niebezpiecze\u0144stwem, jakie niesie za sob\u0105 rozw\u00f3j AI. W najnowszym raporcie oceniaj\u0105, \u017ce w ci\u0105gu dw\u00f3ch lat stanie si\u0119 ona wszechmocna. A w 2030 roku... zg\u0142adzi ludzko\u015b\u0107 broni\u0105 biologiczn\u0105.",
+        "id": 3406722,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art42893811-ai-doomerzy-ostrzegaja-sztuczna-inteligencja-nas-zniszczy-i-podaja-date",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI doomerzy ostrzegaj\u0105: Sztuczna inteligencja nas zniszczy. I podaj\u0105 dat\u0119",
+        "vote": 0
+    }
+]

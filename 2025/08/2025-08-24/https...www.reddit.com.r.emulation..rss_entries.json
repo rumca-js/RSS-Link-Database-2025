@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/thunderbird32",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T23:58:42.322948+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T15:13:57+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1myy7d1/86box_v50_has_been_released/\"> <img src=\"https://external-preview.redd.it/y4YIx3FdOBzlItOBrqhHhguBYLbxFf3zbSzTx-Yo_VM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=35bfb5980190c16a7a377d3737f57c0fb1aec314\" alt=\"86Box v5.0 has been released\" title=\"86Box v5.0 has been released\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thunderbird32\"> /u/thunderbird32 </a> <br/> <span><a href=\"https://86box.net/2025/08/24/86box-v5-0.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1myy7d1/86box_v50_has_been_released/\">[comments]</a></span> </td></tr></table>",
+        "id": 3409060,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1myy7d1/86box_v50_has_been_released",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/y4YIx3FdOBzlItOBrqhHhguBYLbxFf3zbSzTx-Yo_VM.png?width=640&crop=smart&auto=webp&s=35bfb5980190c16a7a377d3737f57c0fb1aec314",
+        "title": "86Box v5.0 has been released",
+        "vote": 0
+    }
+]

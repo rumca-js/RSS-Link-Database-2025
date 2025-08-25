@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T20:25:58.261761+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T19:30:34+00:00",
+        "description": "Register: https://cppcon.org/registration/ \nJoin Michelle Fae D'Souza and Kevin Carpenter from September 13th - 21st at CppCon 2025 Aurora, Colorado\n---\n\nLearn C++ Performance Secrets from a Bloomberg Engineer At CppCon 2025!\n\nCppCon 2025 is just around the corner, and Kevin Carpenter from @cppevents interviews Michelle Fae D'Souza from Bloomberg Engineering who is giving a talk on C++ performance called \"Cache Me Maybe: Using Caches to Improve Performance in Production Code!\" In this talk, Michelle will emphasize on how hardware awareness can change the way developers think about their code, the balance between custom data structures and standard tools, and the role of measurement and observability in performance optimization.\n\nSession Description\nCalling all code detectives! Grab your trench coats and magnifying glasses... it's time to crack the case of sluggish C++ performance. In this thrilling investigation, we'll uncover the hidden world of your computer's built-in cache and how",
+        "id": 3408151,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hyZ3gEGVvC8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hyZ3gEGVvC8/hqdefault.jpg",
+        "title": "Learn C++ Performance Secrets from a Bloomberg Engineer At CppCon 2025!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Autumn Spredemann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T23:19:56.403562+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T23:00:30+00:00",
+        "description": "As worker shortages persist on American farms, some are turning to novel solutions.",
+        "id": 3408861,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/article/why-more-farmers-are-turning-to-ai-machines-5898960",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/08/24/id5905429-outside-1080x720.jpg",
+        "title": "Why More Farmers Are Turning to AI Machines",
+        "vote": 0
+    }
+]

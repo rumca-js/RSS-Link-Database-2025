@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T16:36:07.674822+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T15:18:15+00:00",
+        "description": "More videos on this topic!\nhttps://youtu.be/zFn-cqiyQr0\nhttps://youtu.be/JE3QM_9sljI\nhttps://youtu.be/86Kr04KbfH8\n\nSupport the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nhttps://rmr.media/findme\n\nConnect:\nBluesky: https://bit.ly/3ZGYhom\nWebsite: http://bit.ly/rmrmedia\n\n00:00 intro\n02:06 what is a melody?\n08:08 dissecting lady gaga's disease\n14:01 a brief history of melody\n29:56 tips for writing melody",
+        "id": 3406736,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LC_Wwd7zPtc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LC_Wwd7zPtc/hqdefault.jpg",
+        "title": "What the Heck Is Melody?!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T18:36:45.410333+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T18:00:01+00:00",
+        "description": "Internet obieg\u0142a historia o robocie z Chin, kt\u00f3ry mia\u0142by nosi\u0107 dzieci zamiast kobiet. Nie, \u017ceby wcze\u015bniej nosi\u0142 kobiety. Wiecie, o co chodzi. Opr\u00f3cz tego w tym Tech Weeku: Nowy sk\u0142adak Google odporny na kurz (czy dla Polaka to?), polskie gad\u017cety, kt\u00f3re mog\u0105 podbi\u0107 \u015bwiat (albo i nie), oraz autonomiczne taks\u00f3wki w Nowym Jorku. I tak, Gosia Andrzejewicz z kur\u0105 te\u017c tu jest.\nLinki:\nScrolly: https://scrollyapp.io\nBudzik z kickstartera: http://bit.ly/45TE3tD\n\nW odcinku:\n00:00 Gosia Andrzejewicz poprowadzi program z kur\u0105 Pierzynk\u0105\n01:04 Dobry wiecz\u00f3r!\n01:08 Robot surogatka z Chin \n02:29 Nowe Pixele od Google i pierwszy Fold odporny na kurz\n04:06 Scrolly - zablokuje uzale\u017cniaj\u0105ce aplikacje\n07:00 AwakeUp - u\u0142atwi poranne wstawanie\n08:41 Gemini mo\u017ce wygenerowa\u0107 ASMR\n09:19 Jak przerobi\u0107 Apple Watch\u2019a w iPoda\n09:53 Waymo pojawi si\u0119 w Nowym Jorku\n10:30 Najnowsze mikrofony DJI - premiera wkr\u00f3tce\n11:24 Zno\u015bnego tygodnia!",
+        "id": 3407422,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=vd9Vf2oPuuk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vd9Vf2oPuuk/hqdefault.jpg",
+        "title": "Czy to koniec ci\u0105\u017c? Robot z Chin i inne dziwactwa | Tech Week",
+        "vote": 0
+    }
+]

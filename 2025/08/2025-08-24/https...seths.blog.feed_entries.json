@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T09:30:19.661569+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T09:03:00+00:00",
+        "description": "Pedestrian traffic in Grand Central Station is a bit of a miracle. Thousands of people, all walking quickly, in almost non-Euclidian chaos, headed toward different trains. And no one collides. We see the same thing at a more dangerous clip when a four lane highway merges. The cars are just a few feet apart (or [&#8230;]",
+        "id": 3404731,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/get-outta-my-way",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cGET OUTTA MY WAY\u201d",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-24T14:01:16.355140+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T13:20:40+00:00",
+        "description": "New Movie Trailers 2025 | Weekly #34 | 4K Ultra Hd\n00:00 The Occupant\n02:11 Beast Of War\n03:58 Tron Ares\n 04:44 Anemone\n06:59 Xeno\n09:05 Traumatika\n11:10 Anniversary\n13:33 The Girlfriend\n15:48 Good Boy\n17:30 Kiss Of The Spider Woman\n19:59 Kraken\n21:06 Predator Badlands \n23:04 Do Not Enter",
+        "id": 3405952,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=omuRymXBTl0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/omuRymXBTl0/hqdefault.jpg",
+        "title": "NEW MOVIE TRAILERS 2025 | Weekly #34 | 4K ULTRA HD",
+        "vote": 0
+    }
+]
