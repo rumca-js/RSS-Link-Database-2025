@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T22:37:20.759983+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T21:18:02+00:00",
+        "description": "That terrible Google event and the battle of switching cost...\n\nBlue Bubbles vs Green Bubbles: https://youtu.be/BuaKzm7Kq9Q\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 3416962,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=eCR17sBh-Qw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eCR17sBh-Qw/hqdefault.jpg",
+        "title": "Switching from iPhone to Android",
+        "vote": 0
+    }
+]

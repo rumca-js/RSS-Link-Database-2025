@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T11:51:15.982182+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T09:57:13+00:00",
+        "description": "<p>Agenty AI dzia\u0142aj\u0105ce w przegl\u0105darkach nie zawsze odr\u00f3\u017cniaj\u0105 instrukcje u\u017cytkownika od niezaufanych tre\u015bci stron. Mo\u017cna to wykorzysta\u0107 m.in. do wykradania danych z przegl\u0105darki u\u017cytkownika. Nadci\u0105ga nowa klasa bardzo \u0142atwych do przeprowadzenia atak\u00f3w. Najbardziej zaboli to firmy, bo wyciek danych &#8220;s\u0142u\u017cbowych&#8221; mo\u017ce wi\u0105za\u0107\u00a0si\u0119\u00a0z powa\u017cnymi problemami&#8230;<span id=\"more-26548\"></span></p>\n<h3>Agentic browsing</h3>\n<p>Na blogu tw\u00f3rc\u00f3w przegl\u0105darki <a href=\"https://niebezpiecznik.pl/tag/brave/\">Brave</a> pojawi\u0142 si\u0119 wpis o bezpiecze\u0144stwie tzw. &#8220;agentic browsingu&#8221;, czyli przegl\u0105dania sieci z u\u017cyciem asystent\u00f3w AI, kt\u00f3re podsumowuj\u0105 przegl\u0105dane tre\u015bci albo wykonuj\u0105 inne zadania na ich podstawie. Brave sama w sobie jest tw\u00f3rc\u0105 takiego agenta o nazwie Leo, kt\u00f3re cho\u0107 niew\u0105tpliwie pomocne, to jednak wprowadza do &#8220;korzystania z przegl\u0105darki&#8221; nowe ryzyka &#8212; nieautoryzowany dost\u0119p do wra\u017cliwych danych u\u017cytkownika np. w trakcie korzystania z e-bankowo\u015bci ",
+        "id": 3412080,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/twoj-agent-ai-moze-ukrasc-dane-lub-nabrac-sie-na-phishing-i-co-teraz",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/08/68a2d8bcd894469092bedbce_image-5-150x150.png",
+        "title": "Tw\u00f3j agent AI mo\u017ce ukra\u015b\u0107 dane lub nabra\u0107 si\u0119 na phishing. I co teraz?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T17:49:32.548143+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T17:00:43+00:00",
+        "description": "JMP offers a 30-day free trial for anyone, anywhere. Go to https://www.jmp.com/scishow to see the benefits of visual statistics for yourself. \n\nRocky bodies like moons, asteroids, and comets are chock full of resources, from water, to helium-3, to rare earth elements. But how can we access them? Some scientists have proposed using microbes to aid in the mining of certain metals.\n\nHosted by: Niba @NotesbyNiba (she/her)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Eric Jensen, David Johnston, Alan Wong, Cye Stoner, Bethany Matthews, Adam Brainard, Friso, Matt Curls, Chris Mackey, Garrett Galloway, J.V. Rosenbalm, Toyas Dhake, Reed Spilmann, Jeremy Mattern, Jaap We",
+        "id": 3414719,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Z57KVe7Hb5M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z57KVe7Hb5M/hqdefault.jpg",
+        "title": "Using Microbes to Mine the Moon",
+        "vote": 0
+    }
+]

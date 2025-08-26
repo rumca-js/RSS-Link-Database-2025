@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T14:35:43.395620+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T13:59:45+00:00",
+        "description": "The course combines computer vision, deep learning, and Arduino. You will build two projects using tools like MediaPipe and OpenCV. The first project will control an LCD display using your facial movements and the second project will control a robotic arm using computer vision. \n\nIn this course, you will learn: \n- Serial communication between Python and Arduino, \n- Face detection module (Landmarks), \n- LCD display and Servo motor applications and \n- Image Processing (OpenCV) project. \n\nTo connect with Y\u0131lmaz ALACA, check out his social accounts:   \nLinkedIn: https://www.linkedin.com/in/yilmazalaca \nYouTube: https://www.youtube.com/@yilmazalaca \n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Intro \n\u2328\ufe0f (0:01:43) List of materials \n\u2328\ufe0f (0:02:58) Installation of Python \n\u2328\ufe0f (0:05:01) Installation of PyCharm IDE \n\u2328\ufe0f (0:10:13) OpenCV \n\u2328\ufe0f (0:12:30) MediaPipe \n\u2328\ufe0f (0:13:55) Arduino \n\u2328\ufe0f (0:16:09) Interface of Arduino \n\u2328\ufe0f (0:17:39) LCD Display \n\u2328\ufe0f (0:19:15) I2C \n\u2328\ufe0f (0:20:59) I2C LCD Display Library \n\u2328\ufe0f (0:23:49) Ci",
+        "id": 3413126,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Q5U-b6gRTaY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q5U-b6gRTaY/hqdefault.jpg",
+        "title": "Computer Vision with Arduino Tutorial \u2013 2 Projects",
+        "vote": 0
+    }
+]

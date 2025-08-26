@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T20:47:49.335839+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T19:16:05+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Reverse Engineering ALL the Raspberry Pis</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Earlier this month I covered <a href=\"https://www.jeffgeerling.com/blog/2025/reverse-engineering-raspberry-pi-zero-2w\">Jonathan Clark's effort to reverse-engineer the Pi Zero 2 W</a>, and just yesterday, I discovered <a href=\"https://bsky.app/profile/tubetime.bsky.social/post/3lx6erpo5lc2u\">TubeTime reverse-engineered the Compute Module 5</a>.</p>\n\n<div class=\"yt-embed\">\n<blockquote class=\"bluesky-embed\" data-bluesky-uri=\"at://did:plc:lrfapunwg5trd7e2r3ccfqwc/app.bsky.feed.post/3lx6erpo5lc2u\" data-bluesky-cid=\"bafyreidfra36luasy6gkijtp6t2tjxiqmb53t36vyiwidjozmnaj6b7xya\" data-bluesky-embed-color-mode=\"system\"><p lang=\"en\">i reverse-engineered the Raspberry Pi Compute Module 5! check it out at github.com/schlae/cm5-r...<br><br>",
+        "id": 3416098,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Reverse Engineering ALL the Raspberry Pis",
+        "vote": 0
+    }
+]

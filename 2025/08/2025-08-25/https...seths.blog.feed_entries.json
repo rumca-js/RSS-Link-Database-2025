@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T08:23:25.400021+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T08:23:00+00:00",
+        "description": "Since I was born, humans have created 6 billion jobs. All while technology relentlessly disrupts existing industries. The pin making machine replaced the hand-crafted pin. The ox-pulled plow replaced millions of hours of backbreaking work. The amplification and electronic distribution of music upended the work of the live musician, and the camera replaced countless portrait [&#8230;]",
+        "id": 3410908,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/job-churn",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Job churn",
+        "vote": 0
+    }
+]

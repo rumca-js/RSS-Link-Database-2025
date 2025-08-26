@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T19:53:03.554421+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T18:29:47+00:00",
+        "description": "Stop stressing over patches! Install ThreatLocker's Patch Management and forget about patch management. Check it out using our link: \n\nTo make WhaleLAN more than just rows of PCs, we\u2019re building a rapid-deployment 8v8 gaming station. The challenge? Managing 16 pre-configured systems with minimal setup time, low power use, and easy maintenance. We walk through hardware choices, management tricks, and the trade-offs between virtualization and individual machines.\n\nDiscuss on the forum: https://linustechtips.com/topic/1621275-we%E2%80%99re-designing-the-ultimate-8v8-gaming-setup/\n\nMINISFORUM BD790I X3D Mini ITX Motherboard: https://geni.us/HZ4B\nG.SKILL Ripjaws DDR5 SO-DIMM 5600MT/s CL40 RAM: https://geni.us/SHSsE9\nCrucial P5 Plus 1TB NVMe SSD: https://geni.us/n0Wii7\nPowerColor Reaper AMD Radeon RX 9070 XT 16GB GPU: https://geni.us/KWdb\nSeasonic Focus SPX-750 750W 80+ Platinum Full-Modular SFX Power Supply (REFURBISHED): https://geni.us/GIAjr\n\n\u25ba GET OUR MERCH: https://lttstore.com\n\u25ba GET E",
+        "id": 3415719,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qE9tOjjtK4Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qE9tOjjtK4Y/hqdefault.jpg",
+        "title": "I Gave Him an IMPOSSIBLE Task",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T18:05:22.403321+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T17:22:09+00:00",
+        "description": "\ud83d\uddfa\ufe0f Your NPCs are lost\u2026 let\u2019s fix that.\n\nJoin Unity Insider, @LlamAcademy live with a step-by-step intro to Unity Navigation!Learn how to set up pathfinding, build smarter AI, and give your worlds seamless movement.\u2728 \n\nBeginner-friendly. All you need is the Unity Editor.\u25b6\ufe0f \n\nWatch live: Tomorrow, 8/26 at 8am ET / 5am PT / 12pm GMT: https://on.unity.com/3HnFGYl \n\n#madewithunity #UnityInsider #gamedev",
+        "id": 3414936,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/OCd0k_nR5Gk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OCd0k_nR5Gk/hqdefault.jpg",
+        "title": "Unity Navigation Livestream",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T14:59:33.214211+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T14:31:30+00:00",
+        "description": "Today's links Enshittification, the audiobook (the Kickstarter): A disenshittified audiobook about enshittification. Hey look at this: Delights to delectate. Object permanence: Open source DRM?!; Sad Puppies lose big; Meritocratic delusion. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Enshittification, the audiobook (the Kickstarter) (permalink) Audiobooks are hands-down the most enshittified aspect of publishing, which is why I make my own audiobooks and pre-sell them on Kickstarter, which is how I get around the fact that Amazon refuses to carry my audiobooks: http://disenshittification.org Why are audiobooks so enshittified? Because they have the two essential characteristics for enshittification: 1) They are digital, which means the rules for them can be shifted on a per-customer, per-usage basis; and 2) They are cont",
+        "id": 3413532,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/08/25/disenshittified-audiobooks",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/25Aug2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: Enshittification, the audiobook (the Kickstarter) (25 Aug 2025)",
+        "vote": 0
+    }
+]

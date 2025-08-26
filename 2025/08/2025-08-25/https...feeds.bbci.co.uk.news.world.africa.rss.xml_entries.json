@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T17:08:21.291376+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T16:36:02+00:00",
+        "description": "A large number of young South Africans are jobless and attracted by social media offers of work abroad.",
+        "id": 3414580,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c9qy2r19e75o?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76ef/live/3b137fd0-81b6-11f0-b48b-b9088fa43ba7.png",
+        "title": "South African women warned about viral Russian job videos",
+        "vote": 0
+    }
+]

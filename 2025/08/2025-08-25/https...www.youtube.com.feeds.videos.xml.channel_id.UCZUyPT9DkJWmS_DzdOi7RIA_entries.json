@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T11:06:09.758199+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T10:45:06+00:00",
+        "description": "Fundamentals Course - http://calcur.tech/fundamentals\n\n\u21aa Full Playlist - https://calcur.tech/software-engineering\nLesson Notes - https://calcur.tech/notes\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n00:00 - Intro\n01:47 - How is this lesson different?\n03:30 - What is an API?\n06:18 - Types of APIs\n07:16 - SOAP\n08:49 - GraphQL\n10:06 - gRPC\n12:30 - WebSockets\n15:18 - JSON\n19:39 - Example Collection Following this Pattern / Endpoints\n23:15 - GET\n24:30 - POST\n25:49 - GET by ID\n26:52 - PUT\n27:27 - PATCH\n30:40 - DELETE\n31:16 - POST\n33:25 - GET\n36:22 - Nested Data vs. Filtering\n40:50 - Query Parameters vs Path vs Body\n44:14 - When NOT to use query parameters (or URL paths)\n46:40 - A full request example\n47:56 - Status Codes\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/back",
+        "id": 3411675,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XvFmUE-36Kc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XvFmUE-36Kc/hqdefault.jpg",
+        "title": "API Design and Architecture  - Backend Engineering Intro (1 Hour)",
+        "vote": 0
+    }
+]

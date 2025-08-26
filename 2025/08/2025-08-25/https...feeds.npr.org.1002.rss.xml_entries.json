@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chloe Veltman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-25T16:00:43.933134+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-25T10:00:00+00:00",
+        "description": "Scrawled in pencil on a scrap of yellow legal paper by lyricist E.Y. \"Yip\" Harburg, the artifact is among dozens of treasures from<em> The Wizard of Oz </em>donated by composer Harold Arlen's sister-in-law Rita Arlen.",
+        "id": 3414000,
+        "language": "en",
+        "link": "https://www.npr.org/2025/08/25/nx-s1-5511391/library-of-congress-wizard-of-oz",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1280+0+0/resize/1920x1280!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2Ffd%2Ff840dd0643bb97fb4cfd97e2d0ce%2Fover-the-rainbow-oscar-award.jpg",
+        "title": "Library of Congress acquires only known lyrics sketch of 'Over the Rainbow'",
+        "vote": 0
+    }
+]
