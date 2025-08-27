@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Solcyr\u00e9 Burga",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T20:47:31.621493+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T20:36:11+00:00",
+        "description": "The lawsuit, filed on Tuesday, marks the first time parents have directly accused the company behind the chatbot of wrongful death.",
+        "id": 3425228,
+        "language": "en-UK",
+        "link": "https://time.com/7312484/chatgpt-openai-suicide-lawsuit",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/08/RAINE-Adam-Raine-2.jpg",
+        "title": "Parents Allege ChatGPT Is Responsible for Their Teenage Son\u2019s Death by Suicide",
+        "vote": 0
+    }
+]

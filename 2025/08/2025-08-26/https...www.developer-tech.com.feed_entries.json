@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T14:26:10.674483+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T14:15:00+00:00",
+        "description": "<p>Google has announced a new security initiative that will require all Android app developers to pass verification before their apps can be installed on devices. Yes, that even includes sideloading Android apps outside the Play Store. Android&#8217;s greatest strength and its most persistent challenge is its openness. Google\u2019s plan aims to give users more peace [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-mandate-verification-for-all-android-app-developers/\">Google to mandate verification for all Android app developers</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3421803,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-mandate-verification-for-all-android-app-developers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google to mandate verification for all Android app developers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T14:26:43.679746+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T13:42:34+00:00",
+        "description": "Prepare for the Professional Cloud Architect Certification (GCP-PCA) exam and pass!\n\nProfessional Cloud Architects enable organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud, they design, develop, and manage robust, secure, scalable, efficient, cost-effective, highly available, and flexible solutions to drive business objectives.\n\nAndrew Brown developed this course.\n\n\ud83d\udd17 Get your Free Practice and Downloadable Cheatsheets: https://www.exampro.co/gcp-pca\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 00:00:00 Introduction\n- 00:26:36 Identity access and resource setup\n- 02:55:11 Billing configuration\n- 03:05:44 Serverless and app deployment\n- 03:52:21 Data storage options\n- 06:18:58 Compute engine deployment\n- 08:43:14 GKE deployment\n- 09:45:53 Networking resources\n- 11:32:09 Infrastructure as Code (IaC)\n- 11:40:15 Compute engine operations\n- 13:10:32 Storage and database solutions\n- 13:55:04 Monitoring and Logging\n- 15:09:29 Cloud identity and dir",
+        "id": 3421824,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=u43gJJrVa1I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u43gJJrVa1I/hqdefault.jpg",
+        "title": "Professional Cloud Architect Certification Course \u2013 Pass the Exam!",
+        "vote": 0
+    }
+]

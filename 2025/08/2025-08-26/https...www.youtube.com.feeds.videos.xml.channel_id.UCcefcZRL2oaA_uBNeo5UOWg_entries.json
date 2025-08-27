@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T15:09:03.848271+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T14:01:13+00:00",
+        "description": "In this episode of Founder Firesides, YC General Partner Gustaf Alstr\u00f6mer is joined by Max Junestrand, co-founder and CEO of Legora, one of the fastest-growing legal AI startups in the world. In just 13 months, Max and his team scaled from 10 to 100 people, raised $80M, and cracked the challenge of selling to one of the most skeptical industries. Max shares insights on building a successful vertical AI company, selling to conservative markets, and sheds light on what the future of legal tech looks like.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:45 \u2013 Legora's Origin Story\n01:00 \u2013 Building an AI Workspace for Lawyers\n02:20 \u2013 The GPT Unlock\n04:10 \u2013 The \u201cAha Moment\u201d with Law Firms\n06:15 \u2013 Raising $80M and Scaling Fast\n06:30 \u2013 How Legora Works\n09:40 \u2013 How It Transforms Legal Work\n11:40 \u2013 Selling To AI Skeptics\n14:40 \u2013 Creative Use Cases: From Court Battles to NDAs\n17:30 \u2013 Starting Without Industry Expertise\n1",
+        "id": 3422324,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pHuXCzM2ntU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pHuXCzM2ntU/hqdefault.jpg",
+        "title": "How This 25-Year-Old Built A $675M Legal AI Startup (With No Legal Experience)",
+        "vote": 0
+    }
+]

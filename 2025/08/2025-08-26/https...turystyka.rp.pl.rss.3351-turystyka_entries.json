@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T07:22:59.555742+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T07:22:58+00:00",
+        "description": "Na pocz\u0105tku wrze\u015bnia otwarte zostan\u0105 dwa nowe hotele Grupy Arche - Arche Hotel Lotnisko Gda\u0144sk i Arche Hotel Siedlce. Tym samym liczba obiekt\u00f3w nale\u017c\u0105cych do tej sieci hotelowej wzro\u015bnie do 23.",
+        "id": 3419142,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/hotele/art42906481-arche-otwiera-dwa-nowe-hotele-zaoferuje-poduszkowe-menu-i-masaz-w-pokoju",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Arche otwiera dwa nowe hotele. Zaoferuje poduszkowe menu i masa\u017c w pokoju",
+        "vote": 0
+    }
+]

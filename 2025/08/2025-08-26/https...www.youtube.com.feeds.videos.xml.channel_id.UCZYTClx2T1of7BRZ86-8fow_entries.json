@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T17:38:49.826184+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T17:00:38+00:00",
+        "description": "More and more people under 50 are being diagnosed with colorectal cancer. These young people don\u2019t seem to have any of the usual risk factors for colorectal cancer, like an inherited genetic mutation. after some sleuthing, scientists might have an answer\u2026 in the form of E. coli and a toxin it produces in our own guts.\n\nHosted by: Hank Green (he/him)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Eric Jensen, David Johnston, Alan Wong, Cye Stoner, Bethany Matthews, Adam Brainard, Friso, Matt Curls, Chris Mackey, Garrett Galloway, J.V. Rosenbalm, Toyas Dhake, Reed Spilmann, Jeremy Mattern, Jaap Westera, Chris Curry, Blood Doctor Kelly, Lyndsay Brown, Kevin Bealer, ",
+        "id": 3423619,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TlgTYZYu_S8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TlgTYZYu_S8/hqdefault.jpg",
+        "title": "Why More Young People Are Getting Colon Cancer",
+        "vote": 0
+    }
+]

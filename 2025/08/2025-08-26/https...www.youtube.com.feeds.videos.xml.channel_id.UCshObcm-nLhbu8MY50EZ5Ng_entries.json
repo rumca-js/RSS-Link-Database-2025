@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Benn Jordan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T15:07:28.522263+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T15:00:07+00:00",
+        "description": "If you live in the United States, it's very likely that a private startup has been logging and sharing your vehicle's location without your consent. In this video we explore how AI can defend against being tracked by 3rd party police and retail AI tracking cameras.  \n\n\ud83d\udc97 Support this channel and join an amazing community: http://www.patreon.com/bennjordan\n\n\ud83d\udc40 Stalk me on social media for more frequent updates (Github link here): https://linktr.ee/BennJordan\n\n\ud83d\udd34 Subscribe To My Streaming Channel. I stream weekly! https://www.youtube.com/watch?v=geaIEWGhgsI\n\nVideo links:\nReject Convenience video: https://www.youtube.com/watch?v=iX3JT6q3AxA\n\n\n\u26a1Those lovely custom acoustic panels in the background: https://psyacoustics.com",
+        "id": 3422316,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Pp9MwZkHiMQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 615,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCshObcm-nLhbu8MY50EZ5Ng",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Pp9MwZkHiMQ/hqdefault.jpg",
+        "title": "Breaking The Creepy AI in Police Cameras",
+        "vote": 0
+    }
+]

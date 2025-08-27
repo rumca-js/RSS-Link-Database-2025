@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gary Hilson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T11:58:21.078258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T11:00:00+00:00",
+        "description": "<p>Demands of hyperscalers and GPU makers are putting pressure on HBM makers to rapidly innovate with custom solutions.</p>\n<p>The post <a href=\"https://www.eetimes.com/hbm-innovation-outpaces-standards-development/\">HBM Innovation Outpaces Standards Development</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>",
+        "id": 3420719,
+        "language": "en-US",
+        "link": "https://www.eetimes.com/hbm-innovation-outpaces-standards-development",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 483,
+        "source_url": "https://eetimes.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eetimes.com/wp-content/uploads/HBM-covercarousel.png",
+        "title": "HBM Innovation Outpaces Standards Development",
+        "vote": 0
+    }
+]

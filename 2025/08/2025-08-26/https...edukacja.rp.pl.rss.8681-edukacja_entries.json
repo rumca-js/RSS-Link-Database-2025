@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T02:59:55.646056+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T02:59:55+00:00",
+        "description": "Obecnie w szko\u0142ach jest ok. 22 tys. wakat\u00f3w. Dyrektorzy braki kadrowe \u0142ataj\u0105 emerytami i nauczycielami pracuj\u0105cymi w godzinach nadliczbowych \u2013 m\u00f3wi S\u0142awomir Broniarz, prezes Zwi\u0105zku Nauczycielstwa Polskiego.",
+        "id": 3418103,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/oswiata/art42902151-slawomir-broniarz-nie-chcemy-na-razie-myslec-o-strajku-ale-go-nie-wykluczamy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "S\u0142awomir Broniarz: Nie chcemy na razie my\u015ble\u0107 o strajku, ale go nie wykluczamy",
+        "vote": 0
+    }
+]

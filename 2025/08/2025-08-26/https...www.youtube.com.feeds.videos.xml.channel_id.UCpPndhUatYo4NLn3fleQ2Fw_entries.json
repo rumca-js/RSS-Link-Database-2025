@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "HRejterzy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T07:26:29.977843+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T07:13:18+00:00",
+        "description": "Rozmowa z wnuczkiem, kt\u00f3ra mo\u017ce kosztowa\u0107 50 tysi\u0119cy? Tak. To fa\u0142szywy wnuk, ale emocje i \u0142zy s\u0105 ju\u017c prawdziwe. Mimo wielu akcji nag\u0142a\u015bniaj\u0105cych ze strony s\u0142u\u017cb, skala przest\u0119pstw ro\u015bnie, a seniorzy daj\u0105 si\u0119 nabiera\u0107 tak samo, jak wcze\u015bniej. Dlaczego to te\u017c nasza wina? Bo swoich dziadk\u00f3w/rodzic\u00f3w na takie sytuacje nie przygotowujemy. Poka\u017ccie im ten film.\n\nStworzone przez: https://hrejterzy.com & https://codetwo.com",
+        "id": 3419143,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/Pz9UwcORlGk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 465,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPndhUatYo4NLn3fleQ2Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Pz9UwcORlGk/hqdefault.jpg",
+        "title": "Jak tysi\u0105ce Polak\u00f3w rocznie traci wszystko, czyli rozmowa z wnukiem za 50k #nawnuczka #napolicjanta",
+        "vote": 0
+    }
+]

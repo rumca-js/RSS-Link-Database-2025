@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel 5 with Andrew Callaghan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T15:11:07.401466+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T14:59:51+00:00",
+        "description": "Tickets for 'C5 Carnival' are now live at https://channel5.news",
+        "id": 3422329,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eo1uowKXnBk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 600,
+        "source_url": "https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eo1uowKXnBk/hqdefault.jpg",
+        "title": "Inside Trump's Military 'Takeover' of D.C.",
+        "vote": 0
+    }
+]

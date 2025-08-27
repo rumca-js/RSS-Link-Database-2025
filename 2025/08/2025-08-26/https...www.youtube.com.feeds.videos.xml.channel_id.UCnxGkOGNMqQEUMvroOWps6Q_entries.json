@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T17:03:42.702855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T17:00:16+00:00",
+        "description": "JRE #2370 w/Dave Smith\nYouTube: https://youtu.be/U-4tp0XJ1O8\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 3423488,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=E7Q4HW81kJo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E7Q4HW81kJo/hqdefault.jpg",
+        "title": "Dave Smith Criticizes Trump on Ukraine and Discusses Tulsi Gabbard Accusing Obama of Treason",
+        "vote": 0
+    }
+]

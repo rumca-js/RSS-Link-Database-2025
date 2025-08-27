@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-26T18:16:07.700794+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-26T17:58:30+00:00",
+        "description": "I over-engineered power my home network five years ago\u2014here's what actually matters.\nHollyland Lark A1 Mini Duo on Amazon - https://amzn.to/4m8Wl09\nLark A1 via Hollyland Official - https://hollyland.info/4kVrmnq\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nA five\u2011year revisit to a 130\u2011year\u2011old retrofit turns into a practical guide to smarter home networking: fewer ethernet runs to more rooms, small switches where needed, and a targeted multigig upgrade (2.5GbE everywhere, 10GbE only for servers and backbones) instead of wiring every wall for bragging rights. The rack gets refreshed with a new Ubiquiti stack, PoE/PoE++ for access points and cameras, and tidy RJ45 terminations, while an exterior, UV\u2011rated cable makes an attic drop painless for a bedroom and driveway. WiFi 7 arrive",
+        "id": 3424115,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TCDydWl46Ok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TCDydWl46Ok/hqdefault.jpg",
+        "title": "I Finally Upgraded to Multi-Gig (And You Probably Shouldn't)",
+        "vote": 0
+    }
+]
