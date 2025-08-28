@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T22:33:41.260423+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T21:51:14+00:00",
+        "description": "<p>\n\t<a href=\"https://www.boost.org/releases/1.89.0/\"><img alt=\"space.png\" src=\"https://isocpp.org/files/img/space.png\" style=\"width: 2px; margin: 10px; float: right;\" /><img alt=\"space.png\" src=\"https://isocpp.org/files/img/space.png\" style=\"width: 2px; margin: 10px; float: right;\" /><img alt=\"getboost.png\" src=\"https://isocpp.org/files/img/getboost.png\" style=\"width: 147px; margin: 10px; float: right;\" />Release 1.89 of the Boost C++ Libraries is now available.</a></p>\n<p>\n\tOne new library and updates to 28 more.</p>\n<p>\n\tBloom, configurable filters for probabilistic lookup: <a href=\"https://boost.org/libs/bloom\">https://boost.org/libs/bloom</a></p>",
+        "id": 3435242,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/08/boost-version-1.89-released",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/space.png",
+        "title": "Boost version 1.89 released!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt von Hippel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T14:48:30.060955+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T14:15:31+00:00",
+        "description": "According to Einstein\u2019s theory of gravity, black holes have only a small handful of distinguishing characteristics. Quantum theory implies they may have more. Now an experimental search finds that any of this extra \u2018hair\u2019 has to be pretty short.            <p>The post <a href=\"https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/\" target=\"_blank\">Astrophysicists Find No \u2018Hair\u2019 on Black Holes</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3431008,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/08/Black-Hole-Haircut-cr-Celsius-Pictor-Default.webp",
+        "title": "Astrophysicists Find No \u2018Hair\u2019 on Black Holes",
+        "vote": 0
+    }
+]

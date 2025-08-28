@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stephen Thompson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T17:49:30.587246+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T12:28:06+00:00",
+        "description": "This week, Morgan Wallen's <em>I'm the Problem</em> sits at No. 1 on the <em>Billboard</em> 200 albums chart again. But the two titles just below it are making the most noise: former YouTube star's Conan Gray <em>Wishbone</em> and <em>KPop Demon Hunters, </em>which pulls off something no soundtrack has ever accomplished.",
+        "id": 3433338,
+        "language": "en",
+        "link": "https://www.npr.org/2025/08/27/g-s1-85803/kpop-demon-hunters-conan-gray",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6285x3938+0+0/resize/6285x3938!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd1%2F63%2F195cb8c74579be25606ccfa190e5%2Fgettyimages-2231838992.jpg",
+        "title": "'KPop Demon Hunters' and Conan Gray set new benchmarks on the charts",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Allegro <powiadomienia@allegro.pl>",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T06:31:41.284606+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T07:51:03+00:00",
+        "description": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\">\r\n<html lang=\"pl\" xmlns=\"http://www.w3.org/1999/xhtml\">\r\n   <head>\r\n      <meta http-equiv=\"Content-Type\"  content=\"text/html charset=UTF-8\" />\r\n      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n      <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n      <link href=\"https://fonts.googleapis.com/css?family=Open+Sans|Roboto\" rel=\"stylesheet\" type=\"text/css\">\r\n      <title>Allegro</title>\r\n      <style type=\"text/css\">\r\n       a {\r\n          text-decoration:none;\r\n      }\r\n       .ReadMsgBody{\r\n           width: 100%;\r\n           background-color: #ffffff;\r\n      }\r\n       .ExternalClass {\r\n           width: 100%;\r\n           background-color: #ffffff;\r\n           line-height:100% !important;\r\n      }\r\n       body {\r\n           width: 100%;\r\n           background-color: #ffffff;\r\n           margin: 0;\r\n           padding: 0;\r\n       ",
+        "id": 3428114,
+        "language": null,
+        "link": "email://imap.poczta.onet.pl/winstonarmanip@op.pl/<notificationstwo.20250827055103.6ff82d9b1a23420c8cccd68b1527f2a79ae8f7cb@allegro.pl>",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 621,
+        "source_url": "imap.poczta.onet.pl",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Przesy\u0142ka czeka na odbi\u00f3r",
+        "vote": 0
+    }
+]

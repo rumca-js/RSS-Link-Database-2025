@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T02:28:08.008095+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T02:28:06+00:00",
+        "description": "W ci\u0105gu ostatnich 10 lat liczba os\u00f3b posiadaj\u0105cych w Polsce maj\u0105tek powy\u017cej 400 tys. z\u0142 zwi\u0119kszy\u0142a si\u0119 ponad trzykrotnie, do 4 mln. Z kolei liczba os\u00f3b z maj\u0105tkiem przewy\u017cszaj\u0105cym 4 mln z\u0142 wzros\u0142a w tym czasie dwukrotnie, z ok. 50 tys. do ok. 100 tys.",
+        "id": 3427148,
+        "language": "pl-PL",
+        "link": "https://pro.rp.pl/raporty-ekonomiczne/art42910681-coraz-wiecej-bogatych-nad-wisla-co-robia-z-pieniedzmi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Coraz wi\u0119cej bogatych nad Wis\u0142\u0105. Co robi\u0105 z pieni\u0119dzmi?",
+        "vote": 0
+    }
+]

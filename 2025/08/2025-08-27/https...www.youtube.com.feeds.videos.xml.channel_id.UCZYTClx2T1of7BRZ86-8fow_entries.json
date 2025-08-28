@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T17:27:02.221348+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T17:00:38+00:00",
+        "description": "The Narwal Flow is in early-bird sale, and only the first 2000 buyers get $400 OFF, plus a free accessories bundle and 3-year warranty. These exclusive benefits last until August 27th here: US: https://bit.ly/45tpHj4 CA: https://bit.ly/45xON0w \n\nLet's face it: The Earth is going to get hit by an asteroid someday. But how bad that'll be depends entirely how big it is. So how big would that space rock have to be to wipe us all out? Let's break it down, from the likeliest culprits to the hypothetical super-asteroids, and what we can do to hopefully not die.\n\nHosted by: Niba @NotesbyNiba (she/her)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Eric Jensen, David Johns",
+        "id": 3432908,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TeYGGwYdMBA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TeYGGwYdMBA/hqdefault.jpg",
+        "title": "The Asteroids Big Enough to Wipe Out All Life",
+        "vote": 0
+    }
+]

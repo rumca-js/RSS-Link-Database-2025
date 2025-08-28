@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T18:32:53.839656+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T17:58:42+00:00",
+        "description": "Google just announced that starting in 2026, ALL Android developers must verify their identity - even if they never publish to the Play Store. This means sideloading apps, F-Droid, and third-party APK installation could fundamentally change, making Android more like iOS than ever before. Techlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources. Discover how to protect your online data and regain control of your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/\n\u2022 https://developer.android.com/developer-verification\n\u2022 https://f-droid.org/\n\u2022 https://techlore.tech/resources/#android\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://www.youtube.com/watch?v=mzI0s7G6yJE\n\u2022 https://www.youtube.com/watch?v=dMWEym0KPcA\n\n\ud83d\udcfa RELATED CHANNELS:\n\u2022 Surveillance Report: https://www.youtube.com/@surveillancereport\n\u2022 Techlore Clips: https://www.youtube.com/@techlor",
+        "id": 3433564,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PxGjwtiI8uM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PxGjwtiI8uM/hqdefault.jpg",
+        "title": "Android Is Becoming More Like iOS: Google's New App Rules",
+        "vote": 0
+    }
+]

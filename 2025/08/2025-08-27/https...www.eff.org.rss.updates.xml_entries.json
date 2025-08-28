@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Josh Richman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T09:31:29.998966+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T07:05:44+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span data-contrast=\"none\">The human brain might be the grandest computer of all, but in this episode, we talk to two experts who confirm that the ability for tech to decipher thoughts, and perhaps even manipulate them, isn't just around the corner \u2013 it's already here. Rapidly advancing \"neurotechnology\" could offer new ways for people with brain trauma or degenerative diseases to communicate, </span><a href=\"https://www.nytimes.com/2025/08/14/science/brain-neuroscience-computers-speech.html?unlocked_article_code=1.eE8.HKxe.lfZy4CQNJQlR&amp;smid=url-share\" target=\"_blank\" rel=\"noopener noreferrer\"><span data-contrast=\"none\">as the New York Times reported this month</span></a><span data-contrast=\"none\">, but it also could open the door to abusing the privacy of the most personal data of all: our thoughts. Worse yet, it could allow manipulating",
+        "id": 3429031,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/08/podcast-episode-protecting-privacy-your-brain",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/sites/all/modules/custom/mytube/play.png",
+        "title": "Podcast Episode: Protecting Privacy in Your Brain",
+        "vote": 0
+    }
+]

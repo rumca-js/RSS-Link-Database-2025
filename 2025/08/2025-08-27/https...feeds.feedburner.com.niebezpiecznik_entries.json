@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T14:56:48.474147+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T13:26:12+00:00",
+        "description": "<p>Nag\u0142\u00f3wek brzmi przera\u017caj\u0105co, prawda? Ale wbrew pozorom, to dobrze, \u017ce dane Polak\u00f3w by\u0142y dzi\u015b &#8212; niezgodnie z wytycznymi i zdrowym rozs\u0105dkiem &#8212; przetwarzane na prywatnych grupach na Whatsappie i w nieszyfrowanej chmurze komunikatora Discord. Bo gdyby tak nie by\u0142o, to do wielu os\u00f3b karetki pogotowia ratunkowego mog\u0142yby dojecha\u0107\u00a0p\u00f3\u017aniej. Albo w og\u00f3le nie dojecha\u0107. Wszystkiemu winna awarii.<span id=\"more-26556\"></span></p>\n<p>Rano na nasz\u0105 skrzynk\u0119 wpad\u0142o zg\u0142oszenie od jednego z dyspozytor\u00f3w, \u017ce trwa awaria Systemu Wspomagania Dowodzenia Pa\u0144stwowego Ratownictwa Medycznego. Ten system, w uproszczeniu, odpowiada mi\u0119dzy innymi za przyjmowanie zg\u0142osze\u0144 alarmowych i przekazywanie ich do zespo\u0142\u00f3w ratownictwa medycznego. Dzi\u0119ki niemu wiadomo kogo trzeba uratowa\u0107 i gdzie s\u0105 zespo\u0142y. No ale aktualnie ten system przesta\u0142 dzia\u0142a\u0107 poprawnie. Jak <a href=\"https://www.kcmrm.pl/2025/08/27/komunikat-kcmrm/\" target=\"_blank\">informuje</a> Krajowe Centrum Monitorowania Ratownictwa Medycznego, ",
+        "id": 3431126,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/awaria-112-999-dane-pacjentow-wyladowaly-na-discordzie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/08/asdgs4-150x150.jpg",
+        "title": "Dzwonisz na 112 a Twoje dane medyczne i osobowe l\u0105duj\u0105 na Discrodzie i Whatsappie dyspozytor\u00f3w",
+        "vote": 0
+    }
+]

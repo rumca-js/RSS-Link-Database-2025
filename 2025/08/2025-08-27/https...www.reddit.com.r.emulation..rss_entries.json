@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/gentlebeam",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T16:08:31.949771+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T13:07:40+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1n1gk3w/new_commodore_64_emulator_c64emu_gets_it_first/\"> <img src=\"https://external-preview.redd.it/MaSsezFzPKa6Nw8P7ZkLu6BWfhlwmmXMtva2yrHRY4g.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef338b791b8bb6afa1ba4006e14082b38b757c57\" alt=\"New Commodore 64 emulator C64Emu gets it first public release\" title=\"New Commodore 64 emulator C64Emu gets it first public release\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Key features :.</strong></p> <ul> <li><p>Realistic CRT emulation with RGB or mono (green) shadow mask</p></li> <li><p>Ambient occlusion around the CRT screen</p></li> <li><p>Smooth scroll on every refresh rate by interpolating adjacent VIC-II frames (optional)</p></li> <li><p>PAL emulation only (6569R3)</p></li> <li><p>Screenshot saving option with up to 16X upscaled CRT shadow mask</p></li> <li><p>Realistic 6581 filter distortion model with R2/R3/R4/R4AR presets (there is 8580R5 emulation ",
+        "id": 3432053,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1n1gk3w/new_commodore_64_emulator_c64emu_gets_it_first",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/MaSsezFzPKa6Nw8P7ZkLu6BWfhlwmmXMtva2yrHRY4g.png?width=640&crop=smart&auto=webp&s=ef338b791b8bb6afa1ba4006e14082b38b757c57",
+        "title": "New Commodore 64 emulator C64Emu gets it first public release",
+        "vote": 0
+    }
+]

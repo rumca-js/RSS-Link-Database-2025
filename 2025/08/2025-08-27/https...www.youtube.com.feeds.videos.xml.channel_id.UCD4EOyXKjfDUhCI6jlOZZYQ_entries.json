@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T21:28:20.529057+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T20:21:04+00:00",
+        "description": "Support Content at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/",
+        "id": 3434863,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=is9DIJLqiNc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/is9DIJLqiNc/hqdefault.jpg",
+        "title": "Anthropic $10 Billion Investment Round at $170 Billion Valuation -- Another AI Stupacorn is born",
+        "vote": 0
+    }
+]

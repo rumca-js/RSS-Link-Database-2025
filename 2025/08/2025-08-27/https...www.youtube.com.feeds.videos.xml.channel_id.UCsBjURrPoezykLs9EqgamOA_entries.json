@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T17:52:11.025649+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T16:40:59+00:00",
+        "description": "Try out Atlassian\u2019s Rovo Dev CLI for free - https://fnf.dev/fireship\n\nThe actual owner of the JavaScript trademark didn't create it, doesn't maintain it and isn't even involved in its ongoing development.\n\nBut Ryan Dahl, creator of Node.js and Deno is trying to change that, even if it means waging a legal battle against a corporation with unlimited resources.\n\nIn today's video, we'll breakdown the crazy battle between Deno and Oracle to control the JavaScript trademark.\n\n#programming #tech #coding\n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n- https://deno.com/blog/deno-v-oracle4\n- https://javascript.tm/\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- Who owns JavaScript?\n- History of the JavaScript trademark\n- Why is Ryan Dahl taking on Oracle\n- Deno vs Oracle",
+        "id": 3433364,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pOF11EDprxc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pOF11EDprxc/hqdefault.jpg",
+        "title": "Deno vs Oracle: The ugly custody battle for JavaScript\u2026",
+        "vote": 0
+    }
+]

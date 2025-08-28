@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-27T05:38:45.465205+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-27T04:59:18+00:00",
+        "description": "Olimex has announced the ESP32-C5-EVB, an open-source hardware evaluation board based on the ESP32-C5-WROOM-N8R4 module from Espressif. The board integrates dual-band Wi-Fi 6, Bluetooth 5 LE, Zigbee/Thread, relays, opto-isolated inputs, and LiPo UPS support, and is designed as a flexible platform for IoT development and prototyping. The ESP32-C5 is the first RISC-V microcontroller supporting dual-band [&#8230;]",
+        "id": 3427870,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/olimex-showcases-esp32-c5-evb-development-board",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Olimex Showcases ESP32-C5-EVB Development Board",
+        "vote": 0
+    }
+]
