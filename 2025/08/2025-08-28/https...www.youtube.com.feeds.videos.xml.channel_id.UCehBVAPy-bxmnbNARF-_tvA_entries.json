@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T17:01:37.929837+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T16:01:28+00:00",
+        "description": "Data centers are driving up utility costs. As companies like Amazon and Meta pour billions into data centers across the country, it\u2019s raising electricity bills. While they\u2019re making record profits, the rest of us are forced to foot the bill.\n\nWatch more of our coverage on data centers: https://youtube.com/playlist?list=PL1UE_u2gB0jlWarYdSufb-v-ld039CI2h&feature=shared\n\n-----\n\nMore Perfect Union is an Emmy-winning, nonprofit newsroom whose mission is to build power for working people. Here\u2019s what that means: We report on the real struggles and challenges of the working class from a working-class perspective. We attempt to connect those problems to potential solutions. We report on the abuses and wrongdoing of corporate power. And we seek to hold accountable the ultra-rich who have too much power over America\u2019s political and economic systems.\n\n To support our independent journalism, subscribe, donate, and follow our other pages through the links below:\n- Help fund our reporting: https:/",
+        "id": 3441903,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YN6BEUA4jNU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YN6BEUA4jNU/hqdefault.jpg",
+        "title": "We Found the Hidden Cost of Data Centers. It's in Your Electric Bill",
+        "vote": 0
+    }
+]

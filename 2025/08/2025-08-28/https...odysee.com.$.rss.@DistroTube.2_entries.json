@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T14:52:51.363188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T13:00:20+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/ArquIrMD-0M\" width=\"480\" alt=\"thumbnail\" title=\"'shuf' - generate random permutations - Video Man Pages\" /></p>The 'shuf' command is used to generate random permutations.  In other words, it \"shuffles\" lines of text or series of numbers.<br /><br />- Shuffle the order of lines in a file and output the result:<br />  shuf path/to/file<br /><br />- Only output the a certain \"number\" of entries in the result:<br />  shuf -n 10 path/to/file<br /><br />- Write the \"output\" to another file:<br />  shuf path/to/input_file -o path/to/output_file<br /><br />- Generate a random ordering of an \"input\" range 1-10:<br />  shuf -i 1-10<br /><br />- Generate a random odering of an \"input\" range 1-100 and out 1 entry:<br />  shuf -i 1-100 -n 1<br />  NOTE Useful in situations where you want to randomize your actions based on percentages.<br /><br />- \"Repeatedly\" generate a random ordering of an \"input\" range of numbers 1-10:<br />  shuf -i 1-10 -r<br /><br />",
+        "id": 3440598,
+        "language": "en",
+        "link": "https://odysee.com/%27shuf%27-generate-random-permutations:b7dc61b947223cb4eb71aed660de494148eb2e01",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/ArquIrMD-0M",
+        "title": "'shuf' - generate random permutations - Video Man Pages",
+        "vote": 0
+    }
+]

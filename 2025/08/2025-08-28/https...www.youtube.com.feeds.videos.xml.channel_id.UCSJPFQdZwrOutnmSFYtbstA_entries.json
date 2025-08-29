@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T15:29:58.257689+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T14:51:17+00:00",
+        "description": "We're feeling particularly empowered on Open Bar this week as Red Sonja inspired us all to do better. Not to worry though, we've still got the growing disaster of Avengers Doomsday to laugh at, and Last of Us Season 3 which is apparently filming without even having finished scripts. Join me, MauLer, Disparu, Echo Chamberlain and KingKreese as we talk about it. \n\nSubscribe to Disparu: https://www.youtube.com/@disparutoo\nSubscribe to Echo: https://www.youtube.com/@EchoChamberlain\nSubscribe to KingKreese: https://www.youtube.com/@forthehomiespodcast288",
+        "id": 3440742,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ICj7pdNMiJI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ICj7pdNMiJI/hqdefault.jpg",
+        "title": "Open Bar #155 - Red Sonja, Avengers Doomsday Chaos, Last Of Us Season 3",
+        "vote": 0
+    }
+]

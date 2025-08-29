@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zeyi Yang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T15:18:56.471612+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T15:00:00+00:00",
+        "description": "In a his new book Breakneck, Dan Wang argues that if the US really wants to compete with China, it needs to focus more on engineering and less on litigating.",
+        "id": 3440682,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/dan-wang-china-breakneck-book-interview",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/68af4eacee300be2a93ac1d5/master/pass/Made-In-China-Business-dan-wang2.jpg",
+        "title": "Why China Builds Faster Than the Rest of the World",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Geoffrey A. Fowler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T10:29:59.988582+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T10:00:00+00:00",
+        "description": "An investigation into the Meta AI chatbot built into Instagram and Facebook\u00a0found that it helped teen accounts plan suicide and self harm, promoted eating disorders and drug use, and regularly claimed to be \u201creal.\u201d",
+        "id": 3438631,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/08/28/meta-ai-chatbot-safety-teens",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Instagram\u2019s chatbot helped teen accounts plan suicide \u2014 and parents can\u2019t disable it",
+        "vote": 0
+    }
+]

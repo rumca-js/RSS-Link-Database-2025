@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T14:16:44.580011+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T14:06:28+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">How to install TrueNAS on a Raspberry Pi</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Now that Joel0 in the TrueNAS community has created a <a href=\"https://forums.truenas.com/t/truenas-on-arm-now-available/49160/16?u=geerlingguy\">fork of TrueNAS that runs on Arm</a>, I thought I'd give it a spin\u2014on a Raspberry Pi.</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/pi-5-with-hard-drives.jpg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-7d31be78-66b1-44d6-85c3-3c427ad83265\" data-insert-attach=\"{&quot;id&quot;:&quot;7d31be78-66b1-44d6-85c3-3c427ad83265&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Raspberry Pi 5 with Hard Dr",
+        "id": 3439691,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/pi-5-with-hard-drives.jpg",
+        "title": "How to install TrueNAS on a Raspberry Pi",
+        "vote": 0
+    }
+]

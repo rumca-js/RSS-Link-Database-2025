@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Romero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T23:02:58.336485+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T22:57:12+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>For over\u00a035 years, the Electronic Frontier Foundation has presented awards recognizing <a href=\"https://www.eff.org/awards/past-winners\">key leaders and organizations</a> advancing innovation and championing digital rights. The EFF Awards celebrate the accomplishments of people working toward a better future for technology users, both in the public eye and behind the scenes.</p><p>EFF is pleased to welcome all members of the digital rights community, supporters, and friends to this annual award ceremony.\u00a0Join us to celebrate this year's honorees with drinks, bytes, and excellent company.</p><h3>\u00a0</h3><center><p><strong>EFF Award Ceremony<br /></strong>Wednesday, September 10th, 2025<br />6:00 PM to 10:00 PM Pacific<br />San Francisco Design Center Galleria<br />101 Henry Adams Street, San Francisco, CA</p><p class=\"take-action\"><a title=\"Link",
+        "id": 3444622,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/08/join-your-fellow-digital-rights-supporters-eff-awards-september-10",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2025/07/22/jfl_icon_medium_1.png",
+        "title": "Join Your Fellow Digital Rights Supporters for the EFF Awards on September 10!",
+        "vote": 0
+    }
+]

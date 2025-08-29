@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T17:45:30.560750+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T17:00:17+00:00",
+        "description": "Visit https://brilliant.org/scishow/ to get started learning STEM for free and get 20% off their annual premium subscription.\n\nThe Sahara is rather famously a desert, but it wasn't always that way. And during the time of lush green forests, there were plenty of people who lived there, but they've been hard to study. However, new genetic analysis has given us clues into just how the people of the Green Sahara really lived. \n\nHosted by: Stefan Chin (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Eric Jensen, David Johnston, Alan Wong, Cye Stoner, Bethany Matthews, Adam Brainard, Friso, Matt Curls, Chris Mackey, Garrett Galloway, J.V. Rosenbalm, Toyas Dhake, ",
+        "id": 3441994,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=74FreESaaPI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/74FreESaaPI/hqdefault.jpg",
+        "title": "The Sahara Used To Be Green.",
+        "vote": 0
+    }
+]

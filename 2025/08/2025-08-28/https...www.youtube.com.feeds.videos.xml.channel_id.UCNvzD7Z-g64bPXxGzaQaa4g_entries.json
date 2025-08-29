@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T17:34:23.717972+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T16:30:04+00:00",
+        "description": "Some games just play or perform better on PC. Here are some great examples.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1\n\n0:00 Intro\n0:36 Mafia: The Old Country\n2:23 Black Myth Wukong\n4:42 Red Dead Redemption 2\n6:54 Dishonored 2\n8:14 Portal 2\n9:59 Sonic and Sega All Star Racing Transformed!\n11:43 Payday 2\n13:18 Dragon Age: Origins\n15:20 They Are Billions\n16:52 Sonic Unleashed\n18:51 Assassin's Creed Unity",
+        "id": 3441966,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=wzskv1x1gho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wzskv1x1gho/hqdefault.jpg",
+        "title": "10 Games That Are WAY BETTER on PC",
+        "vote": 0
+    }
+]

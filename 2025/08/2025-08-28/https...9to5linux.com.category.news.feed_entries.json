@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T23:32:44.347437+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T23:03:34+00:00",
+        "description": "<p><img width=\"1920\" height=\"985\" src=\"https://9to5linux.com/wp-content/uploads/2025/08/os32b.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"OBS Studio 32 Beta\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/os32b.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/os32b.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>OBS Studio 32.0 enters public beta testing with OBS Studio 32.0 enters public beta testing with Voice Activity Detection for NVIDIA RTX Audio Effects, Hybrid MOV support, and other changes. Here\u2019s what to expect!</p>\n<p>The post <a href=\"https://9to5linux.com/obs-studio-32-0-enters-public-beta-testing-with-a-basic-plugin-manager\">OBS Studio 32.0 Enters Public Beta Testing with a Basic Plugin Manager</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permissio",
+        "id": 3444720,
+        "language": "en-US",
+        "link": "https://9to5linux.com/obs-studio-32-0-enters-public-beta-testing-with-a-basic-plugin-manager",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/08/os32b.webp",
+        "title": "OBS Studio 32.0 Enters Public Beta Testing with a Basic Plugin Manager",
+        "vote": 0
+    }
+]

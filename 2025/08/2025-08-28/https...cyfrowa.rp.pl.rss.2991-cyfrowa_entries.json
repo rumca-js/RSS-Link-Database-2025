@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T21:17:09.111572+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T21:17:08+00:00",
+        "description": "W wy\u015bcigu AI nie liczy si\u0119 tylko rozmiar. Nowa sztuczna inteligencja inspirowana m\u00f3zgiem cz\u0142owieka pobi\u0142a na g\u0142ow\u0119 potentat\u00f3w pokroju GPT-5 i Claude w zadaniach wymagaj\u0105cych rozumowania.",
+        "id": 3443703,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art42923861-rewolucja-w-ai-maly-bot-inspirowany-mozgiem-zdeklasowal-gigantow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rewolucja w AI? Ma\u0142y bot inspirowany m\u00f3zgiem zdeklasowa\u0142 gigant\u00f3w",
+        "vote": 0
+    }
+]

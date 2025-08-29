@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T14:41:27.997693+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T14:00:32+00:00",
+        "description": "Big thanks to KiwiCo for sponsoring today\u2019s video! Go to https://www.kiwico.com/tested and use code TESTED for 50% off your first month of KiwiCo.\n\nWhile visiting Smithsonian's @airandspace Museum recently, Adam Savage stopped by the Futures in Space exhibition to visit an old friend, his R2-D2. Curator Matt Shindell gets the story behind R2's multiyear build -- started when Adam was working at ILM and had access to the original Kenny Baker model -- and explains just how he and his team prepared R2 for its long-term display! Do you have plans to visit R2?\n\nAdam Savage's R2-D2 Finds a New Home: https://youtu.be/7fzegwOGrXw\nAdam Builds R2-D2 Parts With ILM Modeler John Duncan! https://youtu.be/6awb5NDrdaw\n\u201cFutures in Space\u201d exhibition: https://airandspace.si.edu/whats-on/exhibitions/futures-space\nNational Air and Space Museum: https://airandspace.si.edu/\nMore Smithsonian videos: https://www.youtube.com/playlist?list=PLJtitKU0CAeiJ7tjkIqcrRPfIYZHPW643\n\nShot and edited by Joey Fameli\nMusi",
+        "id": 3440304,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FzKNu47ik9w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FzKNu47ik9w/hqdefault.jpg",
+        "title": "How Adam Savage's R2D2 Was Prepared for Display at Smithsonian",
+        "vote": 0
+    }
+]

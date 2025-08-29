@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T14:16:52.096930+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T13:00:20+00:00",
+        "description": "The 'shuf' command is used to generate random permutations.  In other words, it \"shuffles\" lines of text or series of numbers.\n\n- Shuffle the order of lines in a file and output the result:\n  shuf path/to/file\n\n- Only output the a certain \"number\" of entries in the result:\n  shuf -n 10 path/to/file\n\n- Write the \"output\" to another file:\n  shuf path/to/input_file -o path/to/output_file\n\n- Generate a random ordering of an \"input\" range 1-10:\n  shuf -i 1-10\n\n- Generate a random odering of an \"input\" range 1-100 and out 1 entry:\n  shuf -i 1-100 -n 1\n  NOTE Useful in situations where you want to randomize your actions based on percentages.\n\n- \"Repeatedly\" generate a random ordering of an \"input\" range of numbers 1-10:\n  shuf -i 1-10 -r\n\n- Line delimiter is NULL rather than newline:\n  shuf -i 0-9 -z\n\nREFERENCED:\n\u25ba https://gitlab.com/dwt1/vidman\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_",
+        "id": 3439693,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ArquIrMD-0M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ArquIrMD-0M/hqdefault.jpg",
+        "title": "'shuf' - generate random permutations - Video Man Pages",
+        "vote": 0
+    }
+]

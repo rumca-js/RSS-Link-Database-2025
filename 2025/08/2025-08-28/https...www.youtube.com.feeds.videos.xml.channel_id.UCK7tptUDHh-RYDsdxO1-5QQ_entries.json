@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T15:28:09.699262+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T15:00:50+00:00",
+        "description": "Guest co-host Miriam Gottfried and Adrienne Yih, senior retail analyst at Barclays, are set to dive into the impact of tariffs on companies such as American Eagle Outfitters, Gap and Abercrombie & Fitch. Then, Yih tells Miriam why this back-to-school season is important for apparel retailers.\n\n#Retail #AI #Shorts",
+        "id": 3440733,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Un2NxoD77KM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Un2NxoD77KM/hqdefault.jpg",
+        "title": "How Back-to-School Shopping Influences Retailers and Consumers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T14:53:34.809480+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T13:01:05+00:00",
+        "description": "This short was made in support of #TeamWater \n\n\ud83d\udca7Support Team Water Here: https://www.TeamWater.org\n\nThe biggest YouTuber collab just happened on YouTube! Hundreds of creators got together to post a video about Team Water, a fundraiser launched by @MrBeast and @MarkRober to raise $40 million to give people all over the world clean drinking water!\n\nSpecial thanks to Xi Shen and his team at The Hong Kong Polytechnic University for all their help. ACS Energy Lett. 2025, 10, 7, 3419\u20133429.",
+        "id": 3440599,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/OW9Mq3wrEqY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OW9Mq3wrEqY/hqdefault.jpg",
+        "title": "How aerogel can make the ocean drinkable",
+        "vote": 0
+    }
+]

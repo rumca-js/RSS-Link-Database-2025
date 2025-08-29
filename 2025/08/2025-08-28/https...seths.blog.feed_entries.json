@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T09:22:47.477729+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T09:03:00+00:00",
+        "description": "If someone snuck into my closet and switched out one brand of sneakers for a similar model from another company, it wouldn&#8217;t bother me much. Popular cars like the Camry, the Civic and the Elantra don&#8217;t have raving fans the way the Mini or the Rivian do. Go to the rental car counter and take [&#8230;]",
+        "id": 3438218,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/for-people-who-dont-care-that-much",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "For people who don\u2019t care that much",
+        "vote": 0
+    }
+]

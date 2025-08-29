@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-28T14:48:59.482685+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-28T14:01:00+00:00",
+        "description": "Finally, TrueNAS runs on a Raspberry Pi\u2014or any other Arm server with UEFI support!\n\nFULL instructions here: https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi\n\nMentioned in this video:\n\n  - Joel0's TrueNAS on Arm thread: https://forums.truenas.com/t/truenas-on-arm-now-available/49160\n  - Links to all the TrueNAS on Arm resources: https://github.com/joel0-truenas/truenas-on-arm/issues/5\n  - My arm-nas GitHub project: https://github.com/geerlingguy/arm-nas\n  - HL15 Arm ZFS server: https://www.youtube.com/watch?v=Hz5k5WgTkcc\n  - Raspberry Pi SATA ZFS server: https://www.youtube.com/watch?v=l30sADfDiM8\n  - Homelabs Pi Storage NAS project: https://homepinas.com/en/\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nThe Homelabs Pi Server was sent to me by",
+        "id": 3440560,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=XvaXemGDSpk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XvaXemGDSpk/hqdefault.jpg",
+        "title": "TrueNAS storage server on a Raspberry Pi",
+        "vote": 0
+    }
+]
