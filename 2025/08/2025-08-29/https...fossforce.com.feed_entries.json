@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "FOSS Force",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T09:06:46.238996+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T08:04:13+00:00",
+        "description": "<p><img width=\"175\" height=\"75\" src=\"https://fossforce.com/wp-content/uploads/2025/02/quiz-time-9163843_640-175x75.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://fossforce.com/wp-content/uploads/2025/02/quiz-time-9163843_640-175x75.jpg 175w, https://fossforce.com/wp-content/uploads/2025/02/quiz-time-9163843_640-300x128.jpg 300w, https://fossforce.com/wp-content/uploads/2025/02/quiz-time-9163843_640-600x257.jpg 600w, https://fossforce.com/wp-content/uploads/2025/02/quiz-time-9163843_640.jpg 640w\" sizes=\"(max-width: 175px) 100vw, 175px\" /><em>How much were you paying attention to open-source news this week? Test your open-source news IQ by taking our quiz!</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/08/foss-force-mostly-open-tech-news-quiz-august-29-2025/\">FOSS Force Mostly Open Tech News Quiz &#8212; August 29, 2025</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 3446997,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/08/foss-force-mostly-open-tech-news-quiz-august-29-2025",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fossforce.com/wp-content/uploads/2025/02/quiz-time-9163843_640-175x75.jpg",
+        "title": "FOSS Force Mostly Open Tech News Quiz \u2014 August 29, 2025",
+        "vote": 0
+    }
+]

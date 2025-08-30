@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T11:22:35.864991+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T10:01:59+00:00",
+        "description": "Subscribe for AI updates \u2192 https://ibm.biz/BdeKV4\n\nWould you trust a 100-page prompt to do your taxes? In episode 70 of Mixture of Experts, host Tim Hwang is joined by Aaron Baughman, Chris Hay and Lauren McHugh to talk about KPMG\u2019s 100-page prompt they used to build their agentic TaxBot. Next, we debrief on OpenAI\u2019s teasing of selling infrastructure in the future. The image model generation goes bananas, with the latest AI Image Model from Gemini: nano-banana. Finally, Aaron Baughman demonstrated three new features for the US Open website, powered by IBM watsonx-built generative AI models: Match Chat, Key Points, and Live Likelihood to Win. All that and more on today\u2019s 70th episode of Mixture of Experts.\n\n00:00 \u2013 Intro \n3:05 \u2013 KPMG\u2019s monster prompt  \n16:37 \u2013 OpenAI\u2019s infra for sale? \n25:10 \u2013 Gemini's nano-banana \n35:11 \u2013 US Open experimentations  \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other ",
+        "id": 3447867,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zw0Ymg_DoEs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zw0Ymg_DoEs/hqdefault.jpg",
+        "title": "Monster prompt, OpenAI\u2019s business play, nano-banana and US Open experimentations",
+        "vote": 0
+    }
+]

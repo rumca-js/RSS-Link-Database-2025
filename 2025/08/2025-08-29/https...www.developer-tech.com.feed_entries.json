@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T17:27:09.905766+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T17:15:57+00:00",
+        "description": "<p>Mozilla engineers have accelerated the Firefox AI Runtime by replacing its WebAssembly-based backend with a native C++ ONNX Runtime implementation. This architectural shift has yielded performance gains of 2-10 times for on-device machine learning features, eliminating WASM warm-up overhead and using hardware-specific CPU instructions for faster model execution. Mozilla explains the WASM bottleneck it faced [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/mozilla-gives-firefox-ai-runtime-speed-boost-native-c/\">Mozilla gives Firefox AI Runtime a big speed boost with native C++</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3450700,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/mozilla-gives-firefox-ai-runtime-speed-boost-native-c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mozilla gives Firefox AI Runtime a big speed boost with native C++",
+        "vote": 0
+    }
+]

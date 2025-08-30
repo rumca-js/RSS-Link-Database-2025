@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T15:27:54.246093+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T14:00:34+00:00",
+        "description": "In 2025, Unreal Editor for Fortnite (UEFN) is bringing a host of new capabilities to empower Fortnite creators to make higher quality and more responsive user interfaces than ever before. \n\nThis session demonstrates how to use these new tools to craft UI widgets made using the Unreal Motion Graphics (UMG) UI Designer that are driven by custom gameplay data from Verse. \n\nA variety of techniques are demonstrated including databinding, UI materials, and powerful patterns that enable the creation of custom menus that were not previously possible. \n\nAttendees will come away from the session understanding the end-to-end workflow to create awesome UI experiences in UEFN.",
+        "id": 3449652,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ExoXYZzFZvg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ExoXYZzFZvg/hqdefault.jpg",
+        "title": "New Techniques for Building UI in UEFN | Unreal Fest Orlando 2025",
+        "vote": 0
+    }
+]

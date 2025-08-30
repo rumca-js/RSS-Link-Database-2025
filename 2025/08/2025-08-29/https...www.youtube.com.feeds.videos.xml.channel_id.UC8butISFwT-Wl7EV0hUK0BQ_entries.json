@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T01:47:51.879531+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T01:20:24+00:00",
+        "description": "For this week's interview, I'm talking with Ankur Tyagi. He's a software engineer who's worked at multinational companies like Volvo, Barclays, and Accenture. He grew up in Pune, India and now lives in Gothenburg, Sweden.\n\nAnkur is a prolific contributor to freeCodeCamp's open source learning resources. He also runs DevTools Academy, where he blogs about emerging developer tools.\n\nHe shares tips for:\n- How he uses AI tools to get more done as a dev but...\n- He thinks leveraging AI is a skill any dev can learn, and we shouldn't worry about fewer dev jobs.\n- How to run you own developer consultancy\n- How writing programming tutorials can help you become a better engineer\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 10,889 kind folks who support freeCodeCamp t",
+        "id": 3445253,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ebarbEsoHzg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ebarbEsoHzg/hqdefault.jpg",
+        "title": "How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi  [Podcast #186]",
+        "vote": 0
+    }
+]

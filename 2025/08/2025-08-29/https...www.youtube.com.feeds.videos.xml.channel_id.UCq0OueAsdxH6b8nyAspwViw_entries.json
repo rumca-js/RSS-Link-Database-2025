@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Universal Pictures",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T16:39:43.801777+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T16:01:24+00:00",
+        "description": "Head Back To The Future, again. Robert Zemeckis' classic returns to theaters October 31. Get your tickets!",
+        "id": 3450507,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ez6WQ7IX72U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 598,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ez6WQ7IX72U/hqdefault.jpg",
+        "title": "Back to the Future | 40th Anniversary Trailer",
+        "vote": 0
+    }
+]

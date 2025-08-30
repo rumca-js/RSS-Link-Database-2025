@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T20:21:20.858049+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T20:00:02+00:00",
+        "description": "Traditionally, Mongol tribes were structured by a class system. But under Temujin, people were promoted to higher ranks based entirely on ability. The most famous example is probably Subutai, son of a blacksmith and eventual Chief Military Strategist. Quite the promotion! Today he is regarded as one of history\u2019s greatest generals, conquering more territory than any other military commander. Temujin was also fairer with the spoils of war, splitting iany booty equally amongst all his men, and himself. The same opportunities and same rewards, no matter your background? Sounds like the Mongol Dream!",
+        "id": 3452175,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/aihmy-arbg8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aihmy-arbg8/hqdefault.jpg",
+        "title": "A True Meritocracy - Temujin\u2019s Mongol Tribe",
+        "vote": 0
+    }
+]

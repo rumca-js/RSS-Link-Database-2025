@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T15:36:50.938458+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T13:02:04+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/z55PFrvuBqk\" width=\"480\" alt=\"thumbnail\" title=\"'sort' - sort lines of text - Video Man Pages\" /></p>The 'sort' command sorts lines of text.<br /><br />- Sort a file in ascending order:<br />  sort path/to/file<br /><br />- Sort a file in descending (\"reverse\") order:<br />  sort -r path/to/file<br /><br />- Sort using numeric rather than alphabetic order:<br />  seq 100 | sort -n<br />  NOTE Without -n, the sort would look like: 1 10 100 2 20 ...<br /><br />- Sort \"randomly\" (similar to the \"shuf\" command):<br />  seq 10 | sort -R<br />  NOTE 'sort -R' is MUCH slower than 'shuf' when used on large files!<br /><br />- Sort /etc/passwd by the 3rd field of each line numerically, using \":\" as the field separator:<br />  sort -t : -k 3n /etc/passwd<br /><br />- Sort /etc/passwd by the 5th field and in \"reverse\" order, using \":\" as the field separator:<br />  sort -t : -k 5r /etc/passwd<br /><br />- Sort preserving only \"unique\" lines:<br />  echo -",
+        "id": 3449964,
+        "language": "en",
+        "link": "https://odysee.com/%27sort%27-sort-lines-of-text-video-man:4aaaf6ee33ae5f6f24b61423fceeb1ae5401706d",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/z55PFrvuBqk",
+        "title": "'sort' - sort lines of text - Video Man Pages",
+        "vote": 0
+    }
+]

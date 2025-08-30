@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T11:00:38.750298+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T09:03:00+00:00",
+        "description": "Don&#8217;t swallow Polonium-210. You won&#8217;t last long, and it won&#8217;t be pleasant. There are poisons all around us. The arsenic in your rice, the drain cleaner under your sink. Alas, some poisons are impossible to avoid, and it&#8217;s not productive to live a life that&#8217;s poison-free. But it might be worth considering three questions when [&#8230;]",
+        "id": 3447763,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/poison",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Poison",
+        "vote": 0
+    }
+]

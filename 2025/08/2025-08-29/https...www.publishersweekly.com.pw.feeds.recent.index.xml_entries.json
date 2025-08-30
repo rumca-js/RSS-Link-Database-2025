@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "by Sophia Stewart",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T15:13:43.855406+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T00:00:00+00:00",
+        "description": null,
+        "id": 3448974,
+        "language": "en-US",
+        "link": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/98504-gabriela-baeza-ventura-named-director-of-arte-p-blico-press.html",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 266,
+        "source_url": "https://www.publishersweekly.com/pw/feeds/recent/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gabriela Baeza Ventura Named Director of Arte P\u00fablico Press",
+        "vote": 0
+    }
+]

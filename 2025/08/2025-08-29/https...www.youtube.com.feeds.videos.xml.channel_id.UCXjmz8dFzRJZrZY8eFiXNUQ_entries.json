@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T17:26:31.145443+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T17:00:43+00:00",
+        "description": "Today, the film industry rating system seems like a no brainer.  A few rules and guidelines that determine at what age a film is appropriate for audiences.  But sometimes, filmmakers want to push the boundaries beyond what the MPAA allows. Enter the Unrated Movie.\n\nFrom outrageous comedies like American Pie to shocking horror films like Terrifier, Unrated editions have become a staple of home video releases. But what\u2019s the real story behind them?\n\nDo you prefer the theatrical cut or the Unrated version of your favorite movies? Drop your thoughts below!\n\n#movies #movierating #terrifier #americanpie",
+        "id": 3450699,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PsNgR1VTDTU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PsNgR1VTDTU/hqdefault.jpg",
+        "title": "The Unrated History Of Unrated Movies",
+        "vote": 0
+    }
+]

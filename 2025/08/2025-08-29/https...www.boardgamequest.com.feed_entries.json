@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tony Mastrangeli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T12:48:40.580501+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T11:51:42+00:00",
+        "description": "<img width=\"640\" height=\"640\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/08/Flamecraft-1024x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Flamecraft\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/08/Flamecraft-1024x1024.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Flamecraft-300x300.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Flamecraft-150x150.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Flamecraft-768x768.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Flamecraft-640x640.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Flamecraft.jpg 1080w\" sizes=\"(max-width: 640px) 100vw, 640px\" />This is a guest post from Katherine Kwong. \u201cWe eat first with our eyes,\u201d goes the millennia-old saying. And Flamecraft\u2019s d",
+        "id": 3448413,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/flamecraft-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/08/Flamecraft-1024x1024.jpg",
+        "title": "Flamecraft Review",
+        "vote": 0
+    }
+]

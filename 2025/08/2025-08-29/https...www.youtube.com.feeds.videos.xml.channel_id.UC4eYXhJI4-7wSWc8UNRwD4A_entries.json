@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T10:42:10.548883+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T09:01:01+00:00",
+        "description": "Suraya Mohamed | August 29, 2025\nOccasional sun flares showcase the beauty of Colorado near the main entrance of the Aspen Ideas Festival campus. Our crew decided to shoot here despite the nearby traffic and bustle of activity; the gorgeous view far outweighed the risk of noise. \n\nThe All-American Rejects lead singer Tyson Ritter took off his shoes and made himself comfortable in the grass as our crew worked to level the incline of the hill with a carpet-covered plywood board. At the start of the show, the band members walked up the dusty Meadows Trail, but had to pause for a moment to catch their breath. Ritter joked to the audience, \u201cCan we all just take a breath together? We need some oxygen.\u201d \n\nClose to 8,000 feet, many of us struggled with the high altitude. But once the musicians collected themselves and started to sing, their delivery was strong. And even though this set includes most of the band\u2019s greatest hits from the early aughts, it\u2019s energetic, fresh and fun. \n\nSET LIST \n",
+        "id": 3447061,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Y2pmcwop5z8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y2pmcwop5z8/hqdefault.jpg",
+        "title": "The All-American Rejects: Field Recordings x Aspen Ideas Festival",
+        "vote": 0
+    }
+]

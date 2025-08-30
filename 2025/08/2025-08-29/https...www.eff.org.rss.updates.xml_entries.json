@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christopher Vines",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T23:23:23.794384+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T23:08:01+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>The </span><a href=\"https://efa.eff.org/\"><span>Electronic Frontier Alliance</span></a><span> is growing and this year we\u2019ve been honored to welcome </span><a href=\"https://open-austin.org/\"><span>Open Austin</span></a><span> into the EFA. Open Austin began in 2009 as a meetup that successfully advocated for a city-run open data portal, and relaunched as a 501(c)3 in 2018 dedicated to reimagining civic engagement and digital equity by building volunteer open source projects for local social organizations. <br /></span></p>\n<p><span>As Central Texas\u2019 oldest and largest grassroots civic tech organization, their work has provided hands-on training for over 1,500 members in the hard and soft skills needed to build digital society, not just scroll through it. Recently, I got the chance to speak with Liani Lye, Executive Director of Open Aust",
+        "id": 3453247,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/08/open-austin-reimagining-civic-engagement-and-digital-equity-texas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Open Austin: Reimagining Civic Engagement and Digital Equity in Texas",
+        "vote": 0
+    }
+]

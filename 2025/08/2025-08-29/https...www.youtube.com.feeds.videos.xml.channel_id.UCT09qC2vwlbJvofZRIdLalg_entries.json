@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Flick Connection",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T18:48:03.094951+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T18:38:49+00:00",
+        "description": "Flicks of the Week Email: https://www.darrenvandam.com/emails\n\nMy T-shirt Shop: https://www.darrenvandam.com/shop\n________________________________________\n\nI'm your host, Darren Van Dam!\n\nTired of looking for good movies to watch on Netflix, Amazon Prime or other streaming services? Every week I recommend a handful of the best movies on Netflix, Amazon, HBO etc. so my subscribers never run out of good movies to watch on streaming. Spending 10 minutes watching one of my videos could save you hours of searching, hours that you could otherwise spend watching good movies on streaming that you otherwise might not have ever watched or even known about.\n\nThanks for watching!\n\n0:00 Intro\n0:33 10. One Hour Photo\n1:23 *Zodiac\n2:04 9. The Blob\n3:02 *Jennifer's Body\n3:44 8. The Island\n4:43 *Legion\n5:13 7. Batman: Gotham Knight\n5:48 *Animatrix\n6:19 6. Appaloosa\n7:13 *Last Man Standing\n7:53 5. Deja Vu\n9:03 *Eraser\n9:17 4. Ninja Assassin\n10:36 *Hitman\n11:21 3. Dead Presidents\n12:23 *Heat\n12:49 2. Wh",
+        "id": 3451573,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KD5kx4oYlEI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 730,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT09qC2vwlbJvofZRIdLalg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KD5kx4oYlEI/hqdefault.jpg",
+        "title": "Greatest FREE Movie Lineup Ever!",
+        "vote": 0
+    }
+]

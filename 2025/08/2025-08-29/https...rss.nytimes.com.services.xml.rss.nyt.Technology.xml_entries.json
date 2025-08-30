@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Rowan Niemisto",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T11:12:52.274557+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T11:00:08+00:00",
+        "description": "\u201cAt its core, what this is is like a state-sponsored industrial project.\u201d",
+        "id": 3447834,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/08/29/podcasts/hardfork-intel-waymo.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/08/29/podcasts/29hardfork-intel-art/29hardfork-intel-mediumSquareAt3X.png",
+        "title": "Intel\u2019s New Deal + Waymo C.E.O. Tekedra Mawakana on Scaling Driverless Cars + Trumps in Tech",
+        "vote": 0
+    }
+]

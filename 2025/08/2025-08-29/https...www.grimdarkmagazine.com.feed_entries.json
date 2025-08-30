@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Z.B. Steele",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T04:30:24.495903+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T04:12:34+00:00",
+        "description": "<p>An all time classic, The Black Company is a book that has left its mark and continues to influence the entire genre of dark fantasy. One of the original entries into grimdark, Glen Cook presents a dark world of malignant gods playing games of chess with human pawns. Cook puts us directly into the boots [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/review-the-black-company-by-glen-cook/\">REVIEW: The Black Company by Glen Cook</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 3445948,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-the-black-company-by-glen-cook",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/08/The-Black-Company-Cover-Image-186x300.jpg",
+        "title": "REVIEW: The Black Company by Glen Cook",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-29T15:46:16.657583+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-29T14:59:42+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nKeynote: Teaching an Old Dog New Tricks - Matt Godbolt - ACCU 2025\n---\n\nAs a self-proclaimed C++ dinosaur, I set out to prove that my comfortable, battle-tested ways of writing code (somewhere between C++11 and C++14) were clearly superior to all this modern constexpr-everything, coroutine-laden C++.\n\nWhat better way to demonstrate this than by implementing the same ZX Spectrum emulator twice - once in familiar C++11 style, and once with all the shiny new features that folks these days seem to love?\n\nThrough practical examples and live demonstrations, we'll explore how modern C++ features transform - for better or worse - our approach to systems programming. Watch as my preconceptions about template metaprogramming, coroutines, and modules are challenged, and discover where modern features genuinely shine... and where they might just be showing off.\n\nWhether you're another comfortable old dinosaur curious about modern C++, or a new gr",
+        "id": 3450025,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jlt_fScVl50",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jlt_fScVl50/hqdefault.jpg",
+        "title": "Keynote: Teaching an Old Dog New Tricks - Matt Godbolt - ACCU 2025",
+        "vote": 0
+    }
+]
