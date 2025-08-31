@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T15:32:45.567684+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T15:17:12+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/08/dk271.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"DXVK 2.7.1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/dk271.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/dk271.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/08/dk271.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>DXVK 2.7.1 Vulkan-based implementation of D3D9, D3D10, and D3D11 for Linux / Wine is now available for download with various improvements for many games.</p>\n<p>The post <a href=\"https://9to5linux.com/dxvk-2-7-1-brings-improvements-for-team-fortress-2-crysis-3-and-other-games\">DXVK 2.7.1 Brings Improvements for Team Fortress 2, Crysis 3, and Other Games</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> ",
+        "id": 3457092,
+        "language": "en-US",
+        "link": "https://9to5linux.com/dxvk-2-7-1-brings-improvements-for-team-fortress-2-crysis-3-and-other-games",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/08/dk271.webp",
+        "title": "DXVK 2.7.1 Brings Improvements for Team Fortress 2, Crysis 3, and Other Games",
+        "vote": 0
+    }
+]

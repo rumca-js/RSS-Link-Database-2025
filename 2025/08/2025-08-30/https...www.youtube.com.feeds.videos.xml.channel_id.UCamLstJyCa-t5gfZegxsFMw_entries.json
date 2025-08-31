@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Colin and Samir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T16:06:59.278781+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T16:00:07+00:00",
+        "description": "YouTuber Michelle Khare and director Garrett Kennell join us to break down their most dangerous video yet: recreating Tom Cruise\u2019s airplane stunt from Mission: Impossible. We get into how they pulled it off, the team behind the scenes, and what it\u2019s like to build an independent media company from the ground up. Michelle also opens up about her failed Emmy campaign, the line between YouTube and Hollywood, and where creators fit into the future of entertainment.\n\nWatch @MichelleKhare's video:\nI Tried Tom Cruise's Deadliest Stunt\nhttps://www.youtube.com/watch?v=IcDr8_oleB4\n\nI Tried Houdini's Deadliest Trick\nhttps://www.youtube.com/watch?v=0UdXsm9gJ-s\n\nSubscribe to Michelle's channel\nhttps://www.youtube.com/@MichelleKhare\n\n0:00 \u2013 Cold Open: The stunt, Emmy snub & why it matters\n2:09 \u2013 Welcome Michelle & Garrett\n3:34 \u2013 From Starbucks reviews to Tom Cruise\u2019s stunt\n4:46 \u2013 How the idea got greenlit (Houdini & \u201cwhite whales\u201d)\n6:55 \u2013 What it feels like to hang off a plane\n9:04 \u2013 The thumbnail d",
+        "id": 3457309,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5TlPHtxsBIA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 721,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCamLstJyCa-t5gfZegxsFMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5TlPHtxsBIA/hqdefault.jpg",
+        "title": "Inside YouTube's Most Dangerous Video",
+        "vote": 0
+    }
+]

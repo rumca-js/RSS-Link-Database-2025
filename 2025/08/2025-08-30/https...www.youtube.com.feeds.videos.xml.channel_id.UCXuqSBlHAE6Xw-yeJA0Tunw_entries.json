@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T16:33:34.598726+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T15:51:52+00:00",
+        "description": "Step confidently into daily life with the ultra-light Vessi Sneakers. Vessi claims they are fully waterproof, and they come with a 1-year warranty with 30-days of worry-free returns. Get 15% off your first pair at https://vessi.com/ltt at checkout!\n\nEnhance your setup with the XENEON EDGE at: https://corsair.com/xeneon-edge\n\nNINTENDO HAS DONE IT AGAIN! The Switch 2's proprietary USB-C dock issue - the most recent example of Nintendo's anti-consumer practices and \"greedy\" behavior. We demonstrate the proprietary handshake protocol using a USB PD sniffer, explaining why third-party USB-C accessories and docks fail. The video explores the impact on consumer choice, innovation, and the tech industry, comparing it to the evolution of universal mobile phone chargers. We discuss the \"slippery slope\" of proprietary lock-ins, Nintendo's refusal to allow local save file backups, and the exorbitant cost of official docks. \n\nDiscuss on the forum: https://linustechtips.com/topic/1621674-nintendos-",
+        "id": 3457418,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Lh9gnkF-Imo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Lh9gnkF-Imo/hqdefault.jpg",
+        "title": "Nintendo's Greed could Change the Tech Industry",
+        "vote": 0
+    }
+]

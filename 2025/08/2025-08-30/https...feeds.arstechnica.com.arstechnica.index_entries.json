@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deep Vakil, Inside Climate News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T12:03:02.968708+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T11:00:52+00:00",
+        "description": "It\u2019s a closely watched test of whether corporate alliances on climate efforts violate antitrust laws.",
+        "id": 3455954,
+        "language": "en-US",
+        "link": "https://arstechnica.com/science/2025/08/texas-suit-alleging-anti-coal-cartel-of-top-wall-street-firms-could-reshape-esg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2015/07/wall-street-500x500.jpg",
+        "title": "Texas suit alleging anti-coal \u201ccartel\u201d of top Wall Street firms could reshape ESG",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Code Bullet",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T09:34:36.942384+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T09:17:46+00:00",
+        "description": "Click this link https://boot.dev/?promo=CODEBULLET and use my code  CODEBULLET  to get 25% off your first payment for boot.dev.\n\nTwitter: https://twitter.com/code_bullet\nPatreon: https://www.patreon.com/CodeBullet\nDiscord: https://discord.gg/UZDMYx5\n\nArt created by @Dachi.art https://www.instagram.com/dachi.art",
+        "id": 3455267,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2YdPIB7wVFk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 665,
+        "source_url": "https://youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2YdPIB7wVFk/hqdefault.jpg",
+        "title": "I Made Snake But When it Eats it Deletes System 32 Files.",
+        "vote": 0
+    }
+]

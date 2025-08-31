@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/cuavas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T22:40:18.345947+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T21:36:56+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><h1><a href=\"https://www.mamedev.org/?p=554\">MAME 0.280</a></h1> <p>It\u2019s been a month, so it must be time for MAME 0.280 to be released! One interesting addition this month is the very rare 1986 arcade game 119 from Coreland and Sega (the game is named after the ambulance/fire emergency telephone number used in Japan). If you\u2019ve been following along with the work on Namco System 23 emulation, you can now see several more video hardware features emulated. Sound issues in Konami\u2019s Golfing Greats have finally been fixed properly.</p> <p>You\u2019ll also find improved Acorn BBC Micro emulation, a few more working TV games and handheld multi-game systems, and quite a few more playable video gambling systems. Improvements to Mega Drive emulation fix issues with some of the more sensitive games on the system. A number of graphical glitches plaguing arcade games have been solved, too.</p> <p>You can read about everything we\u2019ve been working on over the past few weeks ",
+        "id": 3459272,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1n4dava/mame_0280",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MAME 0.280",
+        "vote": 0
+    }
+]

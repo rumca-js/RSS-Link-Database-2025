@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linda Holmes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T12:53:48.899288+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T07:00:00+00:00",
+        "description": "The 1989 film <em>The War of the Roses</em> was a nihilistic story of a dissolving marriage. A new reimagining starring Olivia Colman and Benedict Cumberbatch plays like a standard studio comedy.",
+        "id": 3456237,
+        "language": "en",
+        "link": "https://www.npr.org/2025/08/30/nx-s1-5511312/the-roses-review-benedict-cumberbatch-olivia-colman",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F62%2Fa0c84d7348feb6fe3cf62c0627c4%2Ftr-00621-v3.jpg",
+        "title": "No one hates you like someone who used to love you. 'The Roses' misses that",
+        "vote": 0
+    }
+]

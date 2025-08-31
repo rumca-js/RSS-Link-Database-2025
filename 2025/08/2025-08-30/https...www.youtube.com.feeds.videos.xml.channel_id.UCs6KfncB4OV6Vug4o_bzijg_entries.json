@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T22:00:54.360772+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T20:55:52+00:00",
+        "description": "I sat down with Session's CTO Kee Jefferys to discuss their decentralized messenger that uses private routing by default, requires no phone number, and runs on a network of thousands community-operated nodes. We dive deep into the technical decisions behind Session, including why they chose decentralization over perfect forward secrecy and how they're building a trustless messaging platform. Techlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources. Discover how to protect your online data and regain control of your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 https://getsession.org/\n\u2022 https://www.linkedin.com/in/kee-j-090502157/\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://youtu.be/aVwl892hqb4\n\u2022 https://youtu.be/DPjg3651oJM\n\n\ud83d\udcfa RELATED CHANNELS:\n\u2022 Surveillance Report: https://www.youtube.com/@surveillancereport\n\u2022 Techlore Clips: https://www.youtube.com/@techloreclips\n\u2022 Surveillance Report Clips: https://www.youtube.com/@surveillanceclips\n\u2022 Henry's Pe",
+        "id": 3458940,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pxJMpRJQPw8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pxJMpRJQPw8/hqdefault.jpg",
+        "title": "Session Interview: The Decentralized Signal Alternative",
+        "vote": 0
+    }
+]

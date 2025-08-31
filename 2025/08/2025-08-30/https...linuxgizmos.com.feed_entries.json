@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T03:09:04.361799+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T02:08:56+00:00",
+        "description": "The August 2025 release of DietPi v9.16 introduces full support for Debian 13 &#8220;Trixie,&#8221; initial support for Debian 14 &#8220;Forky,&#8221; and a wide set of software and system enhancements. Released on August 23rd, this update also includes optimizations to DietPi tools, additional RISC-V support, and numerous bug fixes. &#160; DietPi: DietPi is a lightweight, Debian-based [&#8230;]",
+        "id": 3453986,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/dietpi-august-2025-update-goes-trixie-and-prepares-forky",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DietPi August 2025 Update Goes Trixie and Prepares Forky",
+        "vote": 0
+    }
+]

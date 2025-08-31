@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T09:27:08.376004+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T09:27:07+00:00",
+        "description": "Sixteen others, including two children, were wounded in the region of Zaporizhzhia during the overnight strikes, authorities said.",
+        "id": 3455206,
+        "language": "en-us",
+        "link": "https://www.themoscowtimes.com/2025/08/30/russian-attacks-in-southeastern-ukraine-kill-at-least-1-a90384",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 350,
+        "source_url": "https://www.themoscowtimes.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Russian Attacks in Southeastern Ukraine Kill at Least 1",
+        "vote": 0
+    }
+]

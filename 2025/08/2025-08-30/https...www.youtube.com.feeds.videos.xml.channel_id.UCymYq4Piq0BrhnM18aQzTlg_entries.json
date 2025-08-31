@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-30T23:07:22.017392+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-30T22:45:02+00:00",
+        "description": "Sign up for a Plex Pass: http://lon.tv/plexpass (compensated affilate link) - I found an old Sony laptop that served as my Plex media server for a number of years before I upgraded to a NAS. In this video I'll take you on a journey through each of my Plex servers and why I upgraded them. See all of my Plex content: https://www.youtube.com/playlist?list=PLCZHp4d1HnIvqJPAmMooCKOHieLdi3I7o and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:39 - My First Plex Server - Sony Vaio Laptop\n02:14 - Intel Quicksync Feature Tutorial\n04:36 - WD My Cloud PR2100 - 2017\n06:47 - Current Server: Beelink ME NAS - https://lon.tv/z0sl5 (aff link)\n07:58 - Transcoding on a GPU?\n09:03 - Why I like Docker for Serving in 2025\n10:30 - Cheap Server Recommendation - https://lon.tv/v6yhd (aff link)\n\nRelated:\nHardware Transcoding Explained: https://www.youtube.com/watch?v=2PyRpYb66-Y\nPlex Docker Migration: https://www.youtube.com/watch?v=nRnWObZyUC0\n\nLinks:\nPlex Hardware Transcoding Support: https://lon.",
+        "id": 3459298,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=desjWWrfZso",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/desjWWrfZso/hqdefault.jpg",
+        "title": "Plex Server Upgrades: When should you upgrade hardware? Here's my server journey",
+        "vote": 0
+    }
+]
