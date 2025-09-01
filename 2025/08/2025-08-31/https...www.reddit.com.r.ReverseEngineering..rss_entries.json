@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/mcidclan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T16:30:39.086546+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T15:27:50+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi!</p> <p>We all know the PSP has a second CPU and this since its release. This CPU is part of a specialized unit called the Media Engine, which we&#39;ve never really been able to exploit to its full potential.</p> <p>This second CPU is a MIPS Allegrex running at 333MHz just like the main one, close to an R4000 arch with its CP0 and an FPU as CP1. But there&#39;s also a DSP alongside it! With few dedicated opcodes.</p> <p>On this specialized unit, PSP 1000 has 2MB of local eDRAM, and newer ones have 4MB. And this unit also has access to the main RAM.</p> <p>There are also ping pong buffers linked to the main local DMA. These are 24bit buffers with a size of around 64KB segmented in 8KB.</p> <p>In mid 2005, a homebrewer called crazyc has done crucial work, which included getting code running over there.</p> <p>After him, the scene more or less settled on using the Media Engine, mainly its CPU, by relying on the reverse engineering of the code that gi",
+        "id": 3463087,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1n4xn3a/psp_media_engine_reload",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PSP Media Engine Reload.",
+        "vote": 0
+    }
+]

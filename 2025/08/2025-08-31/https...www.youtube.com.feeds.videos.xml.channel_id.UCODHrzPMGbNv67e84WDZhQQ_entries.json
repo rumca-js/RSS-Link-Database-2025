@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fern",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T14:59:30.653658+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T14:01:09+00:00",
+        "description": "Start learning on Brilliant for free today: https://brilliant.org/fern. Our viewers get 20% off an annual premium subscription. It\u2019s a great way to support our channel while building new skills (ad).\n\nThis is the story of the kid who hacked Elon Musk. \n\nShoutout to the Cybercrime Magazine Podcast and their episode with Gregg Benett: https://soundcloud.com/cybercrimemagazine/losing-identity-and-bitcoin-getting-hacked-by-sim-swapping-gregg-bennett \n\nSources: \nhttps://docs.google.com/document/d/1wxpxm7uq90wULrjsGvFmW-qJeMb2p2bUg8FaJa7fGqo/edit?usp=share_link \n\nMusic: \n\nArtlist\n\nFlint - Don\u2019t open (Instrumental)\nWav Haven - Same Ones (Instrumental)\nFabien Fustinoni - Beauty in a Dark Place\nJonathan Guerstein - Pulse\nKyle Preston - Lurking Danger\nLance Conrad - Waiting and Hoping - Stripped Version\nJimmy Svensson - Connect Now\nJimmy Svensson - Bad Connection\nTheatre of Delays - Pulse\nDanny Shields - Cybernetic Reflection\nThe Magnetic Buzz - Shadows in Motion\nFlorian - Forward Ever Backward",
+        "id": 3462354,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=imCjhNEovL4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 703,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/imCjhNEovL4/hqdefault.jpg",
+        "title": "The Kid Who Hacked Twitter",
+        "vote": 0
+    }
+]

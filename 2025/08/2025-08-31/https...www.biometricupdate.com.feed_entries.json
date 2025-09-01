@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Burt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T21:46:48.758915+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T20:01:02+00:00",
+        "description": "<img width=\"2048\" height=\"1229\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-scaled.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-300x180.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-1024x614.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-150x90.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-768x461.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-1536x922.jpg 1536w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-2000x1",
+        "id": 3464300,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202508/most-organizations-playing-catch-up-on-deepfake-fraud-but-protections-are-available",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07120241/deepfake-media-scaled.jpg",
+        "title": "Most organizations playing catch-up on deepfake fraud, but protections are available",
+        "vote": 0
+    }
+]

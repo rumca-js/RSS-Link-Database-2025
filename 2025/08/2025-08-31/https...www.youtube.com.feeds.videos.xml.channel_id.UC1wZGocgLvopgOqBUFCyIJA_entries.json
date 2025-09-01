@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T15:41:25.534119+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T15:01:47+00:00",
+        "description": "This week on Yahtzee Tries, Yahtzee checked out Sword of the Sea, Supraworld, Space Adventure Cobra, and Sands of Hope\n\nSupport us on Patreon: https://www.patreon.com/SecondWindGroup\n\nSecond Wind Merch: \nhttps://store.dftba.com/collections/second-wind\nhttps://sharkrobot.com/collections/second-wind",
+        "id": 3462668,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zl1c1b111Lk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zl1c1b111Lk/hqdefault.jpg",
+        "title": "Sword of the Sea, Supraworld, Space Adventure Cobra, and Sands of Hope | Yahtzee Tries",
+        "vote": 0
+    }
+]

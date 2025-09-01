@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdwriter1",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T13:18:14.085268+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T13:00:16+00:00",
+        "description": "Go to https://www.squarespace.com/nerdwriter for 10% off your first purchase.\nSUPPORT THE SHOW ON PATREON: https://patreon.com/nerdwriter\n\nMY BOOK: https://amzn.to/3ymfQPV \n\nSOURCES\n\nBrown, David Alan. \u201cRaphael\u2019s \u2018Small Cowper Madonna\u2019 and \u2018Madonna of the Meadow\u2019: Their Technique and Leonardo Sources.\u201d Artibus et Historiae, vol. 4, no. 8, 1983, pp. 9\u201326. JSTOR, https://doi.org/10.2307/1483213\n\nHugo Chapman, Tom Henry, Carol Plazzotta, \"Raphael: From Urbino To Rome\"\nhttps://cima.ng-london.org.uk/documentation/files/2009/10/01/Raphael%20Catalogue%20Complete.pdf\n\nJoannides, Paul. \u201cRaphael: A Sorority of Madonnas.\u201d The Burlington Magazine, vol. 146, no. 1220, 2004, pp. 749\u201352. JSTOR, http://www.jstor.org/stable/20073748\n\nWASSERMAN, JACK. \u201cThe Genesis of Raphael\u2019s \u2018Alba Madonna.\u2019\u201d Studies in the History of Art, vol. 8, 1978, pp. 35\u201361. JSTOR, http://www.jstor.org/stable/42617900\n\nPenny, Nicholas. \u201cRaphael\u2019s \u2018Madonna Dei Garofani\u2019 Rediscovered.\u201d The Burlington Magazine, vol. 134, no. 1067, ",
+        "id": 3461819,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7izh06YBxHY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 496,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7izh06YBxHY/hqdefault.jpg",
+        "title": "How Raphael Became A Master",
+        "vote": 0
+    }
+]

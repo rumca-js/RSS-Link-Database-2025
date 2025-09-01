@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T16:20:47.918418+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T15:00:15+00:00",
+        "description": "In an enchanting talk and performance, singer, multi-instrumentalist and songwriter Yijia Tu traces a path from the world\u2019s biggest stages to a family lullaby passed down through the generations, showing how music carries memory across centuries and cultures. Blending East Asian folk traditions into modern sound, she shows how honoring tradition isn\u2019t worshiping ashes \u2014 it\u2019s keeping the fire alive. (Recorded at TED2025 on April 11, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to o",
+        "id": 3463012,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3kkMPD744dY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3kkMPD744dY/hqdefault.jpg",
+        "title": "A Multigenerational Musical Journey | Yijia Tu | TED",
+        "vote": 0
+    }
+]

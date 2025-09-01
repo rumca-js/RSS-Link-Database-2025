@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T16:44:04.873261+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T16:01:33+00:00",
+        "description": "\ud83d\uddd3\ufe0f\u00a0Dostajesz zaproszenie mailem do kalendarza i wszystkie Twoje sekrety wyciekaj\u0105. Kto\u015b przejmuje Twoje maile, pods\u0142uchuje Ci\u0119\u00a0mikrofonem z telefonu a nawet otwar\u0142 sobie od \u015brodka drzwi do Twojego domu. A za wszystko odpowiada zbuntowana sztuczna inteligencja! Brzmi jak scenariusz marnego filmu o hakerach? No troch\u0119\u00a0tak, ale nie do ko\u0144ca. Bo okazuje si\u0119, \u017ce jest to jak najbardziej mo\u017cliwe, cho\u0107\u00a0oczywi\u015bcie pod paroma warunkami.\n\nChcesz nauczy\u0107 si\u0119 hackowa\u0107 AI? Mog\u0119 ci pom\u00f3c \ud83d\udc49\u00a0https://easl.ink/L10jF\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udce9\u00a0Invitation Is All You Need! Invoking Gemini for Workspace Agents with a Simple Google Calendar Invite\nhttps://infocondb.org/con/def-con/def-con-33/invitation-is-all-you-need-invoking-gemini-for-workspace-agents-with-a-simple-google-calendar-invite\n\n\ud83d\udce7\u00a0SafeBreach: Invitation Is All You Need\nhttps://www.safebreach.com/blog/invitation-is-all-you-need-hacking-gemini/\n\n\ud83e\udd4a\u00a0Mitigating prompt injection attacks with a layered defense strategy\nhttps://security.googleblog.com/2025/06/mitigati",
+        "id": 3463120,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=uKEBlOH57uw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uKEBlOH57uw/hqdefault.jpg",
+        "title": "Mo\u017cna Ci\u0119 zhakowa\u0107 przez\u2026 kalendarz?",
+        "vote": 0
+    }
+]

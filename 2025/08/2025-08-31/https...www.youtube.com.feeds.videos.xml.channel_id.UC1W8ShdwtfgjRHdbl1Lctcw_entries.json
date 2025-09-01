@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T17:09:47.384256+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T16:12:44+00:00",
+        "description": "I colorized, restored, and created a full sound design for this rare footage of a street scene in Berlin (1945\u20131948). The video offers a glimpse into daily life in the city during the post-war years, capturing ordinary moments, movements, and interactions that reflect the atmosphere of Berlin at that time.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound design only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nB&W Video Source: US National Archives\n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\n- - - - - - - - - - - - - - - - - - - -\n\ud83d\udce8 Contact me at :nassthegoodman@gmail.com\n- - - - - - - - - - - - - - - - - - - -\nFor any Copyright issues, please reach out to us first before filing a c",
+        "id": 3463158,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=BlwINaupti8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BlwINaupti8/hqdefault.jpg",
+        "title": "Berlin After WWII (1945\u20131948) in Color [60fps,Remastered] w/sound design added",
+        "vote": 0
+    }
+]

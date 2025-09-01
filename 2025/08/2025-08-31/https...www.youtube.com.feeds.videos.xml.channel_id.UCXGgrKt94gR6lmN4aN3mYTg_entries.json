@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Evans",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T15:45:40.830435+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T15:02:12+00:00",
+        "description": "Subscribe for more! https://www.youtube.com/austinevans\nCheck out our @thisis channel! https://www.youtube.com/thisis\nAs well as the @Denki channel! https://www.youtube.com/@Denki\nInstagram: https://instagram.com/austinnotduncan\nThreads: https://www.threads.net/@austinnotduncan\n\nI hit up three different pawn shops looking for tech deals and found some seriously questionable stuff. That scratched up Switch looked promising for $77 but is it really worth it? Plus I discovered a vintage typewriter missing the number 1 key and a PS4 that someone definitely should have logged out of first...\n\nChapter Titles:\n0:00 Intro\n0:23 Game Boy Pocket\n2:51 Switch Lite\n5:31 PS4 Slim\n8:52 Smith-Corona Typewriter\n11:47 Super Mario World 2\n13:42 Nintendo Switch\n16:58 Sega Dreamcast Controller\n19:12 Sony PSP\n21:28 iMac M1",
+        "id": 3462680,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4-MOUH-71UE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 24,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4-MOUH-71UE/hqdefault.jpg",
+        "title": "I Bought MORE Pawn Shop Tech",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T13:12:19.391606+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T09:03:00+00:00",
+        "description": "It is impossible to make a perpetual motion machine, you&#8217;ll waste your time if you try. It is possible to write a book of poetry that will sell 10 million copies. It is unlikely, it probably won\u2019t happen, but it is possible. Science and innovation and creativity engage with the possible. Possible means &#8220;might.&#8221; It [&#8230;]",
+        "id": 3461750,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/08/possibility-vs-certainty",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Possibility vs. certainty",
+        "vote": 0
+    }
+]

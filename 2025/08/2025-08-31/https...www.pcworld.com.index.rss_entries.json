@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T15:25:33.467102+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T15:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>I\u2019ve been using Windows for as long as I can remember. It was on the very first PC I recall using, literally on my father\u2019s knee. But I don\u2019t need it anymore. That\u2019s a weird thing to say as a writer for a site named PCWorld. But it\u2019s been a long time coming, a slow mix of broad tech trends, feeling betrayed by multiple brands, and a little bit of intention on my part.\u00a0</p>\n\n\n\n<p>To be clear, I still <em>use </em>Windows. It\u2019s what I\u2019m using right now to type this, <a href=\"https://files.mastodon.social/media_attachments/files/109/642/844/995/072/330/original/4edd35721a3337a3.jpg\">on a beefy gaming desktop</a> I assembled myself, with triple monitors and all sorts of googaws attached. But I don\u2019t <em>need </em>all that anymore, and for the first time in my adult life, I can see myself transitioning to an entirely different operating system.\u00a0</p>\n\n\n\n<p>That\u2019s",
+        "id": 3462648,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2648498/i-dont-need-windows-11-anymore-one-final-tool-freed-me-from-microsoft.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2025/03/image_7b3624.png",
+        "title": "I don\u2019t need Windows 11 anymore. One final tool freed me from Microsoft",
+        "vote": 0
+    }
+]

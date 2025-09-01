@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Boyle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T21:49:36.828073+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T20:00:07+00:00",
+        "description": "Tello Mobile offers flexible & affordable phone plans with prices up to $25/month! Check out Tello using my link \u2192 https://tello.com/?utm_source=partner&utm_medium=cpc&utm_campaign=PatrickBoyle&src=partner&mdm=cpc&cmg=PatrickBoyle\n\nAI chatbots are replacing search engines\u2014and in the process, they\u2019re gutting the economics of journalism, reviews, and the open internet. In this video, we explore how tools like ChatGPT, Claude, and Google\u2019s AI Overviews are intercepting audiences, scraping content without compensation, and threatening the viability of independent news and trusted information. From collapsing traffic to lawsuits and poisoned training data, this is a story about what happens when the web\u2019s information economy starts to eat itself.\n\nPatrick's Books:\nStatistics For The Trading Floor:  https://amzn.to/3eerLA0\nDerivatives For The Trading Floor:  https://amzn.to/3cjsyPF\nCorporate Finance:  https://amzn.to/3fn3rvC \n\nVideos Mentioned:\n@BennJordan  Poisonify: https://www.youtube.co",
+        "id": 3464313,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=M4MruTOrLyM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 732,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCASM0cgfkJxQ1ICmRilfHLw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M4MruTOrLyM/hqdefault.jpg",
+        "title": "Is AI Slop Killing the Internet?",
+        "vote": 0
+    }
+]

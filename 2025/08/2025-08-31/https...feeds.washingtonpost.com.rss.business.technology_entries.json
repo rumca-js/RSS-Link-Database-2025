@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Drew Harwell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T13:14:29.651696+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T11:05:00+00:00",
+        "description": "The new age-verification laws in the United States and United Kingdom have brought some surprising downsides, including soaring traffic to seedy parts of the web.",
+        "id": 3461789,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/08/31/age-verification-uk-porn-sites",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2018Scan your face\u2019 laws for the web are having unexpected consequences",
+        "vote": 0
+    }
+]

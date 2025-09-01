@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T22:10:18.779737+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T19:25:14+00:00",
+        "description": "Click this link https://sponsr.is/bootdev_bellularnews and use my code BELLULARNEWS to get 25% off your first payment for boot.dev. Sponsored by Boot.Dev.\nAs much as Valve wants to help customers, this change to Steam Reviews risks hurting games, leaving customers with less information, and will make echo chambers worse.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 Steam's Great Firewall\n03:36 What Changed?\n05:39 The Details That Matter\n08:20 Why Do This Now?!\n10:46 Unintended Consequences...\n13:05 This Isn't The Valve We Know",
+        "id": 3464613,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=szyTmOACr-c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/szyTmOACr-c/hqdefault.jpg",
+        "title": "Steam Review Scores Now Hide The Truth",
+        "vote": 0
+    }
+]

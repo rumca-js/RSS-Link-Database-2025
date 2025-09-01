@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T21:48:04.579836+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T19:11:24+00:00",
+        "description": "Rozpocz\u0105\u0142em karier\u0119 modela, sprawd\u017a zanim sko\u0144cz\u0119: Zno\u015bne kurtki [Release 1.0] - https://znosne.pl\nFilm zawiera fragment sponsorowany Wy\u017cszej Szko\u0142y Kszta\u0142cenia Zawodowego, ofert\u0119 uczelni znajdziecie tutaj: https://bit.ly/4mJYCzM\n\n00:00 Dzi\u015b w odcinku\u2026\n00:18 Dobry wiecz\u00f3r!\n00:22 Nowe Pixele jak iPhone\u2019y?\n04:56 Nano Banana i Zno\u015bna kurtka Release 1.0\n09:08 Pixel vs iPhone \u2013 pozosta\u0142e r\u00f3\u017cnice\n09:55 Jeste\u015b za g\u0142upi na iPhone\u2019a? Kup Pixela\n12:28 Wrze\u015bniowe premiery Apple\u2019a i Samsunga\n12:55 FRAGMENT SPONSOROWANY \u2013 Wy\u017csza Szko\u0142a Kszta\u0142cenia Zawodowego\n13:26 Scrolly czy BRICK - co by\u0142o pierwsze? \n14:36 Nothing \u2013 stockowe zdj\u0119cia z aparatu\n15:30 OpenAI pozwane \n16:31 Will Smith i publiczno\u015b\u0107 wygenerowana przez AI\n16:52 Mikroporty \u2013 DJI Mic 3 vs Hollyland\n20:25 Zno\u015bnego tygodnia!",
+        "id": 3464308,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=s01wBMjk2PI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s01wBMjk2PI/hqdefault.jpg",
+        "title": "Jeste\u015b za g\u0142upi na iPhone\u2019a? Kup Pixela | Tech Week",
+        "vote": 0
+    }
+]

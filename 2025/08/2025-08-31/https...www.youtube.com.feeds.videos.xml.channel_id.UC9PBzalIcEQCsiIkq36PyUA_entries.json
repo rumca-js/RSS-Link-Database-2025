@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-08-31T14:40:05.015661+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-31T14:17:03+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nRounding out our MGS Delta coverage we turn to the Xbox versions. Series X release puts in a smoother overall 60fps experience next to the PS5 consoles - though it does demand leaning on VRR display technology to enjoy to the most extreme. Series S is a 30fps-only affair with significant cutbacks to consider though, and as such might be one to swerve if other means to play the game are available.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Introduction/Patch 1.1.2 Update Test\n02:29 Series X vs PS5 comparison\n04:51 Series X Frame-Rate Test\n08:39 Series S Frame-Rate Test\n09:37 What Are The Series S Cutbacks?\n11:56 Conclusion",
+        "id": 3462287,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JNj-cqourCM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JNj-cqourCM/hqdefault.jpg",
+        "title": "Metal Gear Solid Delta - Xbox Series X|S Tech Review - X Faster Than PS5? Plus Patch 1.1.2 Tested!",
+        "vote": 0
+    }
+]
