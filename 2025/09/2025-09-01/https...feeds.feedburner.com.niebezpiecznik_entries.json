@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-01T10:58:30.243715+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-01T09:35:12+00:00",
+        "description": "<p>W oprogramowaniu HikCentral s\u0142u\u017c\u0105cym do zarz\u0105dzania instalacjami system\u00f3w bezpiecze\u0144stwa marki HikVision znaleziono b\u0142\u0119dy. Jeden z nich, CVE-2025-39247, dotyczy HikCentral Professional (od v2.3.1 do v2.6.2) i pozwala na nieautoryzowany dost\u0119p nieuprawnionej osobie do poziomu administratora. CVSS a\u017c 8.6.</p>\n<p>Oficjalne powiadomienie <a href=\"https://www.hikvision.com/en/support/cybersecurity/security-advisory/security-vulnerabilities-in-some-hikcentral-products/\" target=\"_blank\">HSRC-202508-01</a> zosta\u0142o wydane przez Hikvision Security Response Center 28 sierpnia 2025r. </p>\n<p>Aktualizujcie, jak macie zabawki od HikVision na stanie i z jakiego\u015b powodu nie trzymacie tego w oddzielnym, odci\u0119tym od \u015bwiata vlanie. A jakby\u015bcie chcieli si\u0119 dowiedzie\u0107, jak zapewni\u0107 najwy\u017csze bezpiecze\u0144stwo swoim firmowym sieciom i systemom, to zapraszamy na nasze <a href=\"https://niebezpiecznik.pl/net\" target=\"_blank\">3-dniowe szkolenie dla admin\u00f3w i devops\u00f3w</a>, kt\u00f3re nauczy Was jak wykrywa\u0107 s\u0142abe pu",
+        "id": 3467512,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/jesli-macie-kamery-od-hikvision-zaktualizujcie-sobie-oprogramowanie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Je\u015bli macie kamery od Hikvision, zaktualizujcie sobie oprogramowanie",
+        "vote": 0
+    }
+]

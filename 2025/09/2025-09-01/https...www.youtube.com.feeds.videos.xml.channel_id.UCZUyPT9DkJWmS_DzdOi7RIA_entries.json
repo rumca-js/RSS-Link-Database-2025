@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-01T12:57:32.499731+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-01T12:01:11+00:00",
+        "description": "\ud83d\udcdd Lesson Notes - https://calcur.tech/notes\n\u21aa Full Playlist - https://calcur.tech/software-engineering\n\n\nFundamentals Course - http://calcur.tech/fundamentals\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n00:00 - Intro\n00:34 - Server response basics\n02:44 - Body structure\n11:17 - Status Codes\n12:49 - Standard Status Codes for CRUD\n13:29 - GET many response\n13:52 - GET one response\n14:36 - POST response \n15:09 - PUT and PATCH response\n15:41 - DELETE response\n16:50 - Client flow\n18:49 - Middleware\n22:50 - API Docs and OpenAPI specs\n24:59 - When do you need API docs?\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsle",
+        "id": 3468295,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=doR604EaOhM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/doR604EaOhM/hqdefault.jpg",
+        "title": "API Status Codes and OpenAPI Documentation - Backend Engineering",
+        "vote": 0
+    }
+]

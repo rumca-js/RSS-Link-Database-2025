@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-01T20:24:00.740911+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-01T19:55:24+00:00",
+        "description": "<p>\n\t<strong><img alt=\"\" src=\"https://avatars.sched.co/d/31/19180340/avatar.jpg?906\" style=\"width: 150px; height: 150px; float: right;\" />Registration is now open for CppCon 2025!</strong> The conference starts on September 13 and will be held&nbsp;<a href=\"https://cppcon.org\">in person in Aurora, CO</a>.&nbsp;To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting some upcoming talks that you will be able to attend this year. Here&rsquo;s another CppCon future talk we hope you will enjoy &ndash; and&nbsp;<strong><a href=\"https://cppcon.org/registration/\">register today</a> for CppCon 2025!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppcon2025.sched.com/event/27bPt/back-to-basics-static-inline-const-and-constexpr\">Back to Basics: static, inline, const, and constexpr</a></h3>\n\t<p>\n\t\tThursday, September 18 09:00 - 10:00 MDT</p>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tC++ comes with a whole toolbox of keywor",
+        "id": 3471374,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/09/cppcon-2025-back-to-basics-static-inline-const-and-constexpr-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://avatars.sched.co/d/31/19180340/avatar.jpg?906",
+        "title": "CppCon 2025 Back to Basics: static, inline, const, and constexpr -- Andreas Fertig",
+        "vote": 0
+    }
+]

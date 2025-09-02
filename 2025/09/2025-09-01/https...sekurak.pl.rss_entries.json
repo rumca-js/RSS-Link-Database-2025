@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-01T07:35:45.009160+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-01T07:13:47+00:00",
+        "description": "<p>Team AXON opublikowa\u0142 raport na temat mo\u017cliwo\u015bci wykorzystania Microsoft Teams, jako wektora ataku phishingowego i pocz\u0105tkowego dost\u0119pu do organizacji. G\u0142\u00f3wn\u0105 \u015bcie\u017ck\u0105 dost\u0119pu ma by\u0107 funkcja komunikacji zewn\u0119trznej, wykorzystywana przez atakuj\u0105cych do nawi\u0105zania bezpo\u015bredniego kontaktu z wybranymi ofiarami. Spraw\u0119 mocno u\u0142atwia fakt, \u017ce ta opcja jest domy\u015blnie w\u0142\u0105czona w tenantach Microsoft...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/microsoft-teams-jako-wektor-atakow-phishingowych/\">Microsoft Teams jako wektor atak\u00f3w phishingowych</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3466748,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/microsoft-teams-jako-wektor-atakow-phishingowych",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft Teams jako wektor atak\u00f3w phishingowych",
+        "vote": 0
+    }
+]

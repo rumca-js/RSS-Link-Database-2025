@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Emanuel Maiberg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-01T14:04:45.346753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-01T13:00:12+00:00",
+        "description": "Innocent sites are being delisted from Google because of copyright takedown requests against rampant OnlyFans piracy.",
+        "id": 3468724,
+        "language": "en",
+        "link": "https://www.404media.co/how-onlyfans-piracy-is-ruining-the-internet-for-everyone",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://images.unsplash.com/photo-1663090859310-97a1af639a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdvb2dsZSUyMHNlYXJjaHxlbnwwfHx8fDE3NTYyMzc3MzF8MA&ixlib=rb-4.1.0&q=80&w=2000",
+        "title": "How OnlyFans Piracy Is Ruining the Internet for Everyone",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-01T14:16:37.504025+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-01T13:55:39+00:00",
+        "description": "Three former officials of the Centers for Disease Control and Prevention, including recently resigned Chief Medical Officer Debra Houry, discuss the future of the agency and public health in the U.S.",
+        "id": 3468861,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=REc9-R4SekY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/REc9-R4SekY/hqdefault.jpg",
+        "title": "Three Former CDC Leaders: Politics Is Now Prioritized Over Science at Agency | WSJ",
+        "vote": 0
+    }
+]
