@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T22:24:39.146470+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T21:52:43+00:00",
+        "description": "How will AI and new technology change art? Visual effects artist Rob Bredow, known for his work on Star Wars, and curator Nora Atkinson, who brought Burning Man to the Smithsonian, dive deep into the future of creativity, trading behind-the-scenes stories that show how to blend stop\u2011motion, LED walls and algorithms in art \u2014 while still keeping the soul in the work. (This conversation is part of \u201cTED Intersections,\u201d a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)",
+        "id": 3480591,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/aakITN-2rXc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aakITN-2rXc/hqdefault.jpg",
+        "title": "The amazing tech powering the fastest hunk of junk in the galaxy. #TEDTalks",
+        "vote": 0
+    }
+]

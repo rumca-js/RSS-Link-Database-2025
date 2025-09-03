@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T15:05:21.710477+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T14:29:09+00:00",
+        "description": "Watch this video for an insight into how Bloober Team used Unreal Engine 5 features to craft the intense combat, survival horror mechanics, and eerie atmosphere of \u2018Cronos: The New Dawn\u2019.\n\n\u2018Cronos: The New Dawn\u2019 is a pulse-pounding, third-person survival horror that throws you into the heart of a deadly struggle against overwhelming foes, all while uncovering the mysteries of a twisted time travel story. \n\nHaving used Unreal Engine on previous projects, Bloober chose to stick with UE and take advantage of key UE5 features such as Lumen, Nanite, and Niagara to bring its eerie atmosphere and intense action to life.\n\nRead the interview to find out how they did it: https://www.unrealengine.com/developer-interviews/cronos-the-new-dawn-is-set-to-deliver-pulse-pounding-survival-horror-using-ue5\n\n#CronosTheNewDawn, #BlooberTeam,  #Lumen, #Nanite, #Niagara, #UnrealEngine5, #UE5, #UE4",
+        "id": 3476906,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BsLbJnrGMhM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BsLbJnrGMhM/hqdefault.jpg",
+        "title": "Cronos: The New Dawn | Game Profile | Unreal Engine",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T18:18:23.656723+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T18:15:46+00:00",
+        "description": "Ground forces are already pushing into the city, where hospitals say more than 50 people were killed by Israeli strikes on Tuesday.",
+        "id": 3478739,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cyvnv5lv4zpo?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6530/live/03d6e710-881d-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "title": "Thousands of Israeli reservists report for duty ahead of Gaza City offensive",
+        "vote": 0
+    }
+]

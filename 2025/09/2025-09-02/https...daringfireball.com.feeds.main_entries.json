@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daring Fireball Department of Commerce",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T23:31:59.411317+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T23:00:49+00:00",
+        "description": "<p>We\u2019re excited to launch TextJam this week, a multi-player editor with a novel twist on how humans interact with AI. Ever tried to \u201cAI chat\u201d your way to a polished piece of writing, and wanted more control over the result?</p>\n\n<p>TextJam has new inventions that make it easy to tell the AI what to keep and what to change, so you can get from draft to done faster. From typing in pen and pencil, to multi-touch gestures that intelligently resize text, TextJam is a bold new take on what a word processor can be. <a href=\"https://textjam.com/show/demo?df\">Try it today for free</a>.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018TextJam\u2019\"  href=\"https://daringfireball.net/feeds/sponsors/2025/09/textjam\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 3481014,
+        "language": "",
+        "link": "https://textjam.com/show/demo?df",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "[Sponsor] TextJam",
+        "vote": 0
+    }
+]

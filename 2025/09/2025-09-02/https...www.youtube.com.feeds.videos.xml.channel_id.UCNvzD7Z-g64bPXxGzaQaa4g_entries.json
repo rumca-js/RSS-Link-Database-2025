@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T15:02:50.483308+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T14:00:40+00:00",
+        "description": "Certain video games are just known for looking incredible.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1\n\n0:00 Intro  \n0:27 Cyberpunk 2077  \n2:44 Red Dead Redemption 2  \n4:58 Silent Hill 2 Remake  \n7:08 Elden Ring: Shadow of the Erdtree  \n9:42 Marvel\u2019s Guardians of the Galaxy  \n11:44 Indiana Jones and the Great Circle  \n13:40 Horizon Zero Dawn Remastered  \n15:22 Clair Obscur: Expedition 33  \n16:54 Black Myth: Wukong  \n18:14 Final Fantasy 7 Rebirth",
+        "id": 3476896,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PWcUdE7u6Xk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PWcUdE7u6Xk/hqdefault.jpg",
+        "title": "10 Beautiful Game Worlds That Actually Look Lived In",
+        "vote": 0
+    }
+]

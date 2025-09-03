@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T22:24:03.955931+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T21:33:43+00:00",
+        "description": "https://consumerrights.wiki/Sony_Xperia_turns_camera_monitor_into_subscription",
+        "id": 3480575,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PqPfM6lxv90",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PqPfM6lxv90/hqdefault.jpg",
+        "title": "Sony puts $5/mo paywall on $2000 phone - WHAT THE ACTUAL F",
+        "vote": 0
+    }
+]

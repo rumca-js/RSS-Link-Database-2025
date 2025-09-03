@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Pavlus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T13:18:58.612198+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T13:17:56+00:00",
+        "description": "You\u2019re carrying around in your head a model of how the world works. Will AI systems need to do the same?            <p>The post <a href=\"https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/\" target=\"_blank\">\u2018World Models,\u2019 an Old Idea in AI, Mount a Comeback</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3476003,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/09/World-Models-explainer-cr-Nash-Weerasekera-Default.webp",
+        "title": "\u2018World Models,\u2019 an Old Idea in AI, Mount a Comeback",
+        "vote": 0
+    }
+]

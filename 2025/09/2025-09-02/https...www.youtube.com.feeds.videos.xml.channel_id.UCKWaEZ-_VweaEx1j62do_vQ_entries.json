@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T13:19:16.017496+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T11:00:00+00:00",
+        "description": "Ready to become a certified Data Scientist - Associate? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdevzV\n\nLearn more about Streaming Data here \u2192 https://ibm.biz/BdevzA\n\n\ud83c\udf1f Data moves fast\u2014how can we harness its real-time potential? Brandon Swink breaks down the essentials of real-time data streaming, exploring its architecture, AI & Machine Learning applications, and how businesses can maximize value. Discover how to unlock insights and stay ahead in the data-driven world!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdevzu\n\n#datastreaming #ai #machinelearning",
+        "id": 3476023,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aBIxpJ1_EyY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aBIxpJ1_EyY/hqdefault.jpg",
+        "title": "What Is Real-Time Data Streaming? AI & Machine Learning Applications",
+        "vote": 0
+    }
+]

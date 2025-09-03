@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T13:20:01.859001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T13:20:00+00:00",
+        "description": "W niedziel\u0119 oddano do ruchu pierwszy odcinek najwi\u0119kszego projektu kolejowego w po\u0142udniowej Polsce.",
+        "id": 3476035,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/inwestycje/art42929851-z-krakowa-pod-tatry-pociagiem-dojedziemy-szybciej-dzieki-dofinansowaniu-z-kpo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Z Krakowa pod Tatry poci\u0105giem dojedziemy szybciej. Dzi\u0119ki dofinansowaniu z KPO",
+        "vote": 0
+    }
+]

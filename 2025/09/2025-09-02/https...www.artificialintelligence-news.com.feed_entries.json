@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T14:29:32.830056+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T14:22:42+00:00",
+        "description": "<p>Millions of US federal government workers are about to get a new AI assistant on their devices for free in the form of Microsoft Copilot. The move is part of a deal between Microsoft and the US General Services Administration (GSA) that\u2019s also expected to save taxpayers $3.1 billion in its first year. The centrepiece [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/microsoft-gives-free-copilot-ai-services-to-us-government-workers/\">Microsoft gives free Copilot AI services to US government workers</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3476611,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/microsoft-gives-free-copilot-ai-services-to-us-government-workers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+        "title": "Microsoft gives free Copilot AI services to US government workers",
+        "vote": 0
+    }
+]

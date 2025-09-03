@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JerryRigEverything",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T13:32:26.412996+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T13:07:00+00:00",
+        "description": "It is time to teardown the Samsung Z Fold 7. Head to https://www.surfshark.com/jerryrig or use code JERRYRIG at checkout to get 4 extra months of Surfshark VPN! Normally when I take apart Samsungs folding phones - the center screen does not survive. But today... We are going to take special care to remove the center screen and PROVE once and for all that I can handle Samsungs folding screens.",
+        "id": 3476151,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GyfQQrECOfw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 705,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GyfQQrECOfw/hqdefault.jpg",
+        "title": "I lit my Samsung Fold 7 on Fire - (For a good reason)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T16:10:54.218559+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T16:00:37+00:00",
+        "description": "How many times have you seen incredibly technically impressive VFX in very expensive movies... that left you feeling just meh?",
+        "id": 3477443,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/N60kG4g-SN4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N60kG4g-SN4/hqdefault.jpg",
+        "title": "VFX should FEEL right..",
+        "vote": 0
+    }
+]

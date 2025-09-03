@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bethesda Softworks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T18:13:32.187228+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T17:30:43+00:00",
+        "description": "Reimagine the C.A.M.P. of your dreams with the newly organized workshop menu and relaxed building restrictions.\n\nFallout 76: C.A.M.P. Revamp is available now.\n\nFollow us on the following sites and social media:\nOfficial Site \u2013 https://fallout.com\nFacebook \u2013   / fallout  \nTwitter \u2013 https://x.com/Fallout\nInstagram \u2013   / fallout  \n\nESRB RATING: Mature with Blood and Gore, Drug Reference, Intense Violence, Strong Language, Suggestive Themes, and Use of Alcohol.",
+        "id": 3478654,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eAuKBX5Nzsc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 724,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZHe-SP3xC7DdOk4Ri8QBw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eAuKBX5Nzsc/hqdefault.jpg",
+        "title": "Fallout 76: C.A.M.P. Revamp Launch Trailer",
+        "vote": 0
+    }
+]

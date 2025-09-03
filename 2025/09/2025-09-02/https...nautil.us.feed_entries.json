@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kristen French",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T22:05:42.590774+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T21:46:25+00:00",
+        "description": "<p>Some people have extraordinary powers of mental time travel</p>\n<p>The post <a href=\"https://nautil.us/why-this-17-year-old-girl-cant-forget-1235558/\">Why This 17-Year-Old Girl Can\u2019t Forget</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 3480426,
+        "language": "en-US",
+        "link": "https://nautil.us/why-this-17-year-old-girl-cant-forget-1235558",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets.nautil.us/sites/3/nautilus/nautilus-favicon-14.png?fm=png",
+        "title": "Why This 17-Year-Old Girl Can\u2019t Forget",
+        "vote": 0
+    }
+]

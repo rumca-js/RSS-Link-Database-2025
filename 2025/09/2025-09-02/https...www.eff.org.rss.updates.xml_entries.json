@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thorin Klosowski",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T19:28:07.183407+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T18:28:43+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>In April, WhatsApp launched its \u201c</span><a href=\"https://blog.whatsapp.com/introducing-advanced-chat-privacy\"><span>Advanced Chat Privacy</span></a><span>\u201d feature, which, once enabled, disables using certain AI features in chats and prevents conversations from being exported. Since its launch, an inaccurate viral post has been </span><a href=\"https://www.snopes.com/fact-check/whatsapp-ai-chat-privacy/\"><span>ping-ponging around social networks</span></a><span>, creating confusion around what exactly it does. <br /></span></p>\n<p><span>The viral post falsely claims that if you do not enable Advanced Chat Privacy, Meta\u2019s AI tools will be able to access your private conversations. This isn\u2019t true, and it misrepresents both how Meta AI works and what Advanced Chat Privacy is.</span></p>\n<p><span>The confusion seems to spawn from the fact t",
+        "id": 3479280,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/09/what-whatsapps-advanced-chat-privacy-really-does",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2025/09/02/acp.png",
+        "title": "What WhatsApp\u2019s \u201cAdvanced Chat Privacy\u201d Really Does",
+        "vote": 0
+    }
+]

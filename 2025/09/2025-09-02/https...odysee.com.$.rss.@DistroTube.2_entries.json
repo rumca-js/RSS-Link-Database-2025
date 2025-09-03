@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T14:22:35.613622+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T13:00:04+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/26gFIhHM09E\" width=\"480\" alt=\"thumbnail\" title=\"Getting Started With Doom Emacs\" /></p>I've been using my own custom GNU Emacs config for a few years, but people have asked for more \"Doom Emacs\" content.  So I'm switching back to Doom Emacs.  This is day one!<br /><br />REFERENCED:<br />\u25ba https://github.com/doomemacs/doomemacs<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube<br />\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/<br />\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2<br /><br />FREE AND OPEN SOURCE SOFTWARE THAT I LIKE:<br />\ud83c\udf10 Brave Browser - https://brave.com/<br />\ud83d\udcfd\ufe0f O",
+        "id": 3476536,
+        "language": "en",
+        "link": "https://odysee.com/getting-started-with-doom-emacs:4a2157d9a6d06fc968611ab8b236f2eb2a3e6f33",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/26gFIhHM09E",
+        "title": "Getting Started With Doom Emacs",
+        "vote": 0
+    }
+]

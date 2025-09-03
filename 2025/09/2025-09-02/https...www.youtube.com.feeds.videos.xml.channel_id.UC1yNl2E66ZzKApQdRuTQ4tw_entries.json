@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T15:40:34.069592+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T15:01:38+00:00",
+        "description": "Use code sabine at https://incogni.com/sabine to get an exclusive 60% off an annual Incogni plan.\n\nOver the years, astrophysicists have made many observations that they can\u2019t explain with normal gravity and normal matter combined. Most physicists explain these differences between observation and prediction with dark matter. However, some believe that modified Newtonian dynamics (MOND for short) \u2013 which modifies the laws of gravity \u2013 is an alternative explanation. While that theory was supposedly \u201ckilled\u201d a few years ago, the discussion over MOND has now been revived with a new series of papers. Let\u2019s take a look.\n\nPaper 1: https://iopscience.iop.org/article/10.3847/1538-4357/adce09\nPaper 2: https://arxiv.org/abs/2504.07569\nPaper 3: https://www.aanda.org/articles/aa/full_html/2025/06/aa54793-25/aa54793-25.html\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written new",
+        "id": 3477348,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=v8tiQHQ6Dv4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v8tiQHQ6Dv4/hqdefault.jpg",
+        "title": "News from MOND: Dark Matter\u2019s Biggest Competitor Attempts Comeback",
+        "vote": 0
+    }
+]

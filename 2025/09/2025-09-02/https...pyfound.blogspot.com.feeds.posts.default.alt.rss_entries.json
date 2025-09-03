@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-02T14:13:25.253388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-02T14:02:00+00:00",
+        "description": "<p>It\u2019s time to cast your vote! Voting for the 2025 PSF Board Election is open starting today Tuesday, September 2nd, 2:00 pm UTC, through Tuesday, September 16th, 2:00 pm UTC.&nbsp;<br /></p><h2 style=\"text-align: left;\">How to Vote</h2><p>If you are a voting member of the PSF who <a href=\"https://pyfound.blogspot.com/2025/07/affirm-your-psf-membership-voting-status.html\" target=\"_blank\">affirmed your intention to participate</a> in this year\u2019s election or you voted in last year\u2019s election, you will receive an email today from \u201cOpaVote Voting Link &lt;noreply@opavote.com&gt;\u201d with a link to your ballot. The subject line will read \u201cPython Software Foundation Board of Directors Election 2025\u201d. If you haven\u2019t seen your ballot by Wednesday, please first check your spam folder for a message from \u201cnoreply@opavote.com\u201d. If you can\u2019t find the ballot email from OpaVote please get in touch by emailing psf-elections@pyfound.org so we can look into your account and make sure we have the most up-",
+        "id": 3476370,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/09/the-2025-psf-board-election-is-open.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The 2025 PSF Board Election is Open!",
+        "vote": 0
+    }
+]
