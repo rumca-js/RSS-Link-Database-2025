@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shalma Wegsman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T14:04:01.539457+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T13:53:31+00:00",
+        "description": "Amid the chaos of revolutionary France, one man\u2019s mathematical obsession gave way to a calculation that now underpins much of mathematics and physics. The calculation, called the Fourier transform, decomposes any function into its parts.            <p>The post <a href=\"https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/\" target=\"_blank\">What Is the Fourier Transform?</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3485334,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/what-is-the-fourier-transform-20250903",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/09/FourierTransform-cr.SierraBoucher_Samuel-Velasco-Default.webp",
+        "title": "What Is the Fourier Transform?",
+        "vote": 0
+    }
+]

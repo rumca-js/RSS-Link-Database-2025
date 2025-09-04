@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T17:51:07.514759+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T17:01:03+00:00",
+        "description": "Hey, you! Wanna watch a show about a middle-aged Karen who saves the world from her garden shed by monitoring people's conversations on the internet? Then the Savant just might be the show for you. Join me as I take a look at the trailor for this little gem that's already spawned a million memes.",
+        "id": 3487668,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=hklsd1XY1To",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hklsd1XY1To/hqdefault.jpg",
+        "title": "The Savant - The Ultimate Karen Power Fantasy?",
+        "vote": 0
+    }
+]

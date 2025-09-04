@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "joe@techforge.pub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T13:52:20.475745+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T12:52:49+00:00",
+        "description": "<p>According to the Financial Times [paywall], older car companies are struggling to produce in-vehicle software that is as reliable as that found in cans from newer companies like China&#8217;s BYD. Although stacks such as Toyota&#8217;s Arene can be updated OTA (over the air), one developer quoted in the FT article described Arene as &#8220;full of [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/carmakers-struggle-to-avoid-crashes-sdv-toyota-vw-issues/\">Carmaker devs struggle to avoid crashes</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3485262,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/carmakers-struggle-to-avoid-crashes-sdv-toyota-vw-issues",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Carmaker devs struggle to avoid crashes",
+        "vote": 0
+    }
+]

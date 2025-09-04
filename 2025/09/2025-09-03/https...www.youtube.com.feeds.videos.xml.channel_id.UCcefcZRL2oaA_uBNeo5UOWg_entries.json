@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T14:21:21.118817+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T14:00:50+00:00",
+        "description": "Michael Truell on June 17th, 2025 at AI Startup School in San Francisco.\n\nAt 24, Michael Truell has already built Cursor into one of the fastest-growing companies in AI coding, hitting $100M ARR in just a year. \n\nIn this fireside chat with YC General Partner Diana Hu, he shares the lessons that came from years of failed projects with his co-founders, why he believes programming is still essential even as AI changes how we code, and how Cursor is taking on GitHub Copilot with the conviction that all of software development will flow through models.\n\nChapters:\n00:38 \u2013 PG essays & first code\n02:36 \u2013 Games, robots, and hacking ML as a teenager\n06:54 \u2013 From Hemisphere to Cursor: first startup attempts\n09:54 \u2013 Pivoting hard when nothing was working\n12:04 \u2013 Taking on GitHub Copilot\n13:10 \u2013 Shipping the first Cursor editor\n15:24 \u2013 Early lessons: features, feedback, and VS Code shift\n16:26 \u2013 Codex, custom models, and pragmatic bets\n17:58 \u2013 Wandering in 2023\n20:00 \u2013 Breakthrough: $1M \u2192 $100M in",
+        "id": 3485572,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TrXi3naD6Og",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TrXi3naD6Og/hqdefault.jpg",
+        "title": "Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students",
+        "vote": 0
+    }
+]

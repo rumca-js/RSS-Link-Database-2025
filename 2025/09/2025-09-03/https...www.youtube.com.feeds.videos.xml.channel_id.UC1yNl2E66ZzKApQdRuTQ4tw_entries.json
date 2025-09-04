@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T15:25:18.599711+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T15:00:26+00:00",
+        "description": "Check out the newly updated mathematics course on Brilliant! Start learning for free at https://brilliant.org/sabine/ and get 20% off a premium subscription, which includes daily unlimited access!\n\nZero-point energy is one of the most intriguing phenomena of quantum mechanics. Because quantum particles are also waves, they must always have more than zero energy. Zero-point motion is even crazier \u2013 it means that quantum particles at their lowest-energy point should also move, because of literally nothing. Zero point motion has been very hard to experimentally verify, but physicists confirmed it in a recent experiment \u2013 let\u2019s take a look.\n\nPaper: https://www.science.org/doi/10.1126/science.adu2637\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patr",
+        "id": 3486276,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DpePFDDstwE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DpePFDDstwE/hqdefault.jpg",
+        "title": "Hypothetical Zero Point Motion is Real, Clever Experiment Shows",
+        "vote": 0
+    }
+]

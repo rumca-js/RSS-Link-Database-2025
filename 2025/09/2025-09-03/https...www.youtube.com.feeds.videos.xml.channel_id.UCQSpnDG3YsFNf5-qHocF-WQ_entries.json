@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T15:25:25.491605+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T14:45:07+00:00",
+        "description": "Microsoft has released a statement basically saying they found no connection between the recent Windows update KB5063878 and SSDs reportedly failing. But there's several reasons why I'm not convinced which I go over in this video. For example, they say the telemetry doesn't suggest an increase in failures, but I don't think their telemetry could even alert them to the drives failing. They also said they didn't receive reports from customers, but I also explain why that doesn't mean much either. Most importantly, another YouTuber JayzTwoCents was able to reproduce the issue himself and demonstrated it on video. So I explain why his demonstration actually seems consistent with the other reports about being related to heavy writing, but also possibly simultaneous reading.\n\nJayzTwoCents' Video: https://www.youtube.com/watch?v=TbFIUu_7LIc\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n1:08 - JayzTwoCents Reproduces It\n2:25 - It's Probably Still The Same Cause\n4:28 - Power Cycling Brings It Back\n5:05 - The",
+        "id": 3486278,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EIoBvKtZFGU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EIoBvKtZFGU/hqdefault.jpg",
+        "title": "I Think Microsoft is WRONG (They Deny SSDs Are Failing)",
+        "vote": 0
+    }
+]

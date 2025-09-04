@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T01:25:02.837892+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T00:55:27+00:00",
+        "description": "https://consumerrights.wiki/CF_Moto_puts_previously_included_features_behind_paywall",
+        "id": 3481480,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HlyiLQ6WPRU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HlyiLQ6WPRU/hqdefault.jpg",
+        "title": "CF Motorcycles turns $900 purchase into a subscription AFTER people bought it!",
+        "vote": 0
+    }
+]

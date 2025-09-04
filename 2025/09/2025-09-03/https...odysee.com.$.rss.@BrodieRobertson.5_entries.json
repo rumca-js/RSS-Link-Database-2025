@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T19:44:20.031621+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T17:30:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/5UTjPgScOO0\" width=\"480\" alt=\"thumbnail\" title=\"Everyone Wants Bcachefs Deleted From Linux Kernel\" /></p>It seems like everyone has just hit a breaking point with the Bcachefs project in the Linux kernel, so much so that Linus Torvalds has gone and marked the project as externally maintained. The problem is that doesn't mean anything, it's not a defined state.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Externally Maintained: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ebf2bfec412ad293a0b118fb1a20a551088ebc9b<br />Phoronix Comments: https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1572618-linus-torvalds-marks-bcachefs-as-now-",
+        "id": 3488613,
+        "language": "en",
+        "link": "https://odysee.com/everyone-wants-bcachefs-deleted-from:9c80884d0819c6162a1b05fdefc1b8bdd325b8fc",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/5UTjPgScOO0",
+        "title": "Everyone Wants Bcachefs Deleted From Linux Kernel",
+        "vote": 0
+    }
+]

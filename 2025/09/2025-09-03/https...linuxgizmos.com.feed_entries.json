@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T03:16:59.115263+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T03:12:16+00:00",
+        "description": "Radxa has published hardware specifications for its upcoming CM4 compute module, an Edge AI platform built around the Rockchip RK3576(J) processor. The module is not yet available for purchase, but Radxa has released full documentation to help developers prepare for adoption in future designs. The CM4 integrates an octa-core CPU with four Cortex-A72 and four [&#8230;]",
+        "id": 3481853,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/radxa-cm4-compute-module-supports-8k-video-wifi-6-and-pcie-expansion",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radxa CM4 compute module supports 8K video, WiFi 6, and PCIe expansion",
+        "vote": 0
+    }
+]

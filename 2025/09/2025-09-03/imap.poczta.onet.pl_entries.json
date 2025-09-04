@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Team Mapbox <hello@mapbox.com>",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T17:53:42.683983+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T12:02:57+00:00",
+        "description": "BUILD with Mapbox 2025 starts next week \r\n \r\n\r\n Join us at BUILD with Mapbox <http://info.mapbox.com/MTE3LU5YSy00OTAAAAGcr4DDXJZ-1rx-qELzUIFv-hyMB3wJs2jhl_vHYEcUnfg4KljB2M3GC4H7XdsCUFnRkm9KMNI=> September 8-12. This online event offers 60 sessions spanning guest speakers, lightning talks, technical content, and step-by-step trainings. \r\n\r\nBUILD has something for everyone: \r\n\r\n \t- Stay current with the latest on building with Mapbox maps, search, and navigation. Learn how to customize Mapbox Standard, create and manage tilesets, streamline map development, add geofencing, and more. \t- Discover the newest Mapbox features for web and mobile \u2014 from new styling options to cutting-edge AI tools. \t- Learn from what others are building across industries \u2014 see innovative Mapbox use cases to spark your next idea. \r\n\r\n \r\n\r\nTickets are free but spots are limited, so register now before it\u2019s too late.\r\nREGISTER NOW <http://info.mapbox.com/MTE3LU5YSy00OTAAAAGcr4DDXE2Q3R5AY623t5kWTSCg-TtEGHRmKI8rgP2",
+        "id": 3487686,
+        "language": null,
+        "link": "email://imap.poczta.onet.pl/winstonarmanip@op.pl/<1776592756.159356682.1756918977375@abmktmail-batch1g.marketo.org>",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 621,
+        "source_url": "imap.poczta.onet.pl",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "BUILD starts next week | 60 sessions available",
+        "vote": 0
+    }
+]

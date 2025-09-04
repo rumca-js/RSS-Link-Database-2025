@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T19:17:49.848695+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T17:46:15+00:00",
+        "description": "<p>Czy Tw\u00f3j s\u0142u\u017cbowy smartfon jest monitorowany przez firmowy dzia\u0142 IT? A je\u015bli tak, to czy Tw\u00f3j szef (lub kolega z IT) widzi wszystko to, co robisz na swoim smartfonie? Czy mo\u017cna ustali\u0107 Twoj\u0105 lokalizacj\u0119 nawet po wy\u0142\u0105czeniu s\u0142u\u017cbowej kom\u00f3rki? <span id=\"more-26568\"></span></p>\n<p>O tym, ju\u017c <strong>17 wrze\u015bnia o godz. 19:00</strong>, porozmawiamy na lajwie z Arturem, wsp\u00f3\u0142za\u0142o\u017cycielem firmy Proget, kt\u00f3ra jest producentem jedynego w pe\u0142ni polskiego MDM-a. Rozwiejemy mity i poka\u017cemy jak poprawnie wdro\u017cy\u0107 monitoring firmowych urz\u0105dze\u0144 mobilnych.</p>\n<p><a name=\"rejestracja\"></a><br />\n<a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/09/mdm-live-scaled.jpg\"><img fetchpriority=\"high\" decoding=\"async\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2025/09/mdm-live-600x345.jpg\" alt=\"\" width=\"600\" height=\"345\" class=\"aligncenter size-large wp-image-26569\" srcset=\"https://niebezpiecznik.pl/wp-content/uploads/2025/09/mdm-live-600x345.jpg 600w, https://niebezpiecznik.pl/wp-content/",
+        "id": 3488472,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/czy-twoj-szef-cie-podglada-czyli-cala-prawda-o-systemach-mdm-monitorujacych-smartfony-pracownikow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/09/mdm-live-150x150.jpg",
+        "title": "Czy Tw\u00f3j szef Ci\u0119\u00a0podgl\u0105da? Czyli ca\u0142a prawda o systemach MDM monitoruj\u0105cych smartfony pracownik\u00f3w",
+        "vote": 0
+    }
+]

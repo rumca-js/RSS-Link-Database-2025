@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T18:09:16.395423+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T16:59:52+00:00",
+        "description": "Czy Tw\u00f3j s\u0142u\u017cbowy smartfon jest monitorowany przez firmowy dzia\u0142 IT? A je\u015bli tak, to czy Tw\u00f3j szef widzi wszystko to, co na nim robisz i zna Twoj\u0105 lokalizacj\u0119 nawet po wy\u0142\u0105czeniu kom\u00f3rki?\n\nO tym, ju\u017c \u200b17 wrze\u015bnia, porozmawiamy na lajwie z Arturem, wsp\u00f3\u0142za\u0142o\u017cycielem firmy Proget, kt\u00f3ra jest producentem jedynego w pe\u0142ni polskiego MDM-a. \n\nRozwiejemy mity i poka\u017cemy jak poprawnie wdro\u017cy\u0107 monitoring firmowych urz\u0105dze\u0144 mobilnych.\n\nZe spotkania dowiesz si\u0119:\n\u2705 jak faktycznie dzia\u0142aj\u0105 systemy MDM s\u0142u\u017c\u0105ce do zarz\u0105dzania i kontroli firmowych smartfon\u00f3w?Co mog\u0105, a czego nie mog\u0105?\n\u2705  czy da si\u0119 za ich pomoc\u0105 \"\u015bledzi\u0107\" i podgl\u0105da\u0107 pracownik\u00f3w?\n\u2705  co najgorszego mo\u017ce si\u0119 sta\u0107, je\u015bli taki system wpadnie w niepowo\u0142ane r\u0119ce?\n\u2705  czy jest sens podpi\u0105\u0107 pod MDM-a swoje prywatne urz\u0105dzenia mobilne?\n\nWbij t\u0119 dat\u0119\u00a0w kalendarz! We\u017a udzia\u0142 w spotkaniu na \u017cywo, bo to jedyna szansa, aby zapyta\u0107 eksperta o wszystko, co chcia\u0142by\u015b wiedzie\u0107 o mo\u017cliwo\u015bciach MDM-\u00f3w.",
+        "id": 3487803,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=8vKyie-V3ks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8vKyie-V3ks/hqdefault.jpg",
+        "title": "Czy Tw\u00f3j szef Ci\u0119 podgl\u0105da? Czyli co potrafi firmowy system MDM",
+        "vote": 0
+    }
+]

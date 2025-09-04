@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Current",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T13:10:53.355103+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T12:48:00+00:00",
+        "description": "Singer-songwriter Gigi Perez describes the growth of her songwriting #gigiperez #artistinterviews #songwriting",
+        "id": 3484812,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/x0FFjFXQjQY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 335,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKcSON6PSG_JkTbXh2WdIg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x0FFjFXQjQY/hqdefault.jpg",
+        "title": "Singer-songwriter Gigi Perez describes the growth of her songwriting #gigiperez #artistinterviews",
+        "vote": 0
+    }
+]

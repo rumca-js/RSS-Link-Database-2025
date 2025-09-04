@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T20:27:23.651163+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T20:00:21+00:00",
+        "description": "3D NAND Flash stores data by holding an electrical charge, but over time this slowly dissipates. Data on solid state hard drives can last around 10 years before fading and being lost forever, if not backed up. A magnetic medium can last a little bit longer - around 10 to 30 years. Optical storage mediums promise 100 years of data retention. But eventually all the contents will fade into nothing and there may be limits to packing the data that we still aren\u2019t aware of\u2026",
+        "id": 3488976,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/Nn-4qS4BUS4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Nn-4qS4BUS4/hqdefault.jpg",
+        "title": "When It Comes to Your Data, You Really Need a Back-up Plan!",
+        "vote": 0
+    }
+]

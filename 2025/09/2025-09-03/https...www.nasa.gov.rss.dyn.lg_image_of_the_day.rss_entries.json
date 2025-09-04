@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T16:23:02.724363+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T15:19:00+00:00",
+        "description": "Sea ice is\u00a0frozen seawater that floats in the ocean. This photo, taken from NASA\u2019s Gulfstream V Research Aircraft on July 21, 2022, shows Arctic sea ice in the Lincoln Sea north of Greenland.",
+        "id": 3486869,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/nasa-september-2025-hd-1920x1080",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Thinning Arctic Sea Ice",
+        "vote": 0
+    }
+]

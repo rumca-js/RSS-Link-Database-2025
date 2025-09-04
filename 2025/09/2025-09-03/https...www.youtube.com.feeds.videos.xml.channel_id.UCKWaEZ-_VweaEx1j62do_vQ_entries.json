@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T12:19:56.062155+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T11:00:11+00:00",
+        "description": "Ready to become a certified Guardium Data Protection v12.x Administrator - Professional? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdev2t\n\nLearn more about Unlocking Trustworthy AI here \u2192 https://ibm.biz/BdeSB6\n\nHow do you reduce AI risks while ensuring trust and reliability? \ud83d\udd12 Jeff Crume explains the critical roles of security and AI governance in protecting systems from vulnerabilities and ethical lapses. Learn how to safeguard AI systems with best practices in governance, compliance, and risk management.\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/BdeSBU\n\n#aigovernance #aisecurity #responsibleai",
+        "id": 3484260,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4QXtObc61Lw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4QXtObc61Lw/hqdefault.jpg",
+        "title": "Security & AI Governance: Reducing Risks in AI Systems",
+        "vote": 0
+    }
+]

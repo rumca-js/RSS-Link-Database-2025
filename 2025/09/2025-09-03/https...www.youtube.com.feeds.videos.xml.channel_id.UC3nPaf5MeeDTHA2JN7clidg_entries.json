@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T19:10:05.408359+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T18:45:33+00:00",
+        "description": "Steam just locked adult games behind credit cards\u2014blocking 32% of UK adults who don't have one. Valve says they're complying with the Online Safety Act, but we tested their system and found massive gaps that could trigger 10% global revenue fines. The rushed implementation reveals just how impossible these laws are.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 Valve Had No Choice\n01:38 The Law Comes For Valve\n02:59 Valve's New Policy\n05:19 Does It Work?\n07:11 Oh Dear...\n10:56 The True Test Begins\n\nSources:\nhttps://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer\n\nhttps://www.thegamer.com/itch-io-censorship-adult-games-author-developer-pages-blocked-in-uk/\n\nhttps://help.steampowered.com/en/faqs/view/292B-3DA3-CFC8-97F6\n\nhttps://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A\n\nhttps://x.com/ChristinaTasty/status/1961558437373853925\n\nhttps://x.com/tomwar",
+        "id": 3488304,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hOaGUfy6NTw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hOaGUfy6NTw/hqdefault.jpg",
+        "title": "The Online Safety Act Finally Hit Steam. It's Bad.",
+        "vote": 0
+    }
+]

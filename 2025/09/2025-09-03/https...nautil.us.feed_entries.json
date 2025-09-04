@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Webb",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-03T12:14:53.542209+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-03T09:50:00+00:00",
+        "description": "<p>Christine Webb on her 3 greatest revelations while writing <i>The Arrogant Ape</i></p>\n<p>The post <a href=\"https://nautil.us/putting-humans-first-is-not-natural-1235544/\">Putting Humans First Is Not Natural</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 3484142,
+        "language": "en-US",
+        "link": "https://nautil.us/putting-humans-first-is-not-natural-1235544",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets.nautil.us/sites/3/nautilus/SGiazW5u-1.png?auto=compress&fit=scale&fm=png&h=99&ixlib=php-3.3.1&w=1024&wpsize=large",
+        "title": "Putting Humans First Is Not Natural",
+        "vote": 0
+    }
+]
