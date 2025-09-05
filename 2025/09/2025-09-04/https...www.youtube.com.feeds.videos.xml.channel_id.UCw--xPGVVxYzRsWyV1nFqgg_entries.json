@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T18:25:47.652710+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T18:01:01+00:00",
+        "description": "Audible has long claimed to have fixed its notorious return issue \u2014 the policy that allowed listeners to exploit loopholes and cost authors their royalties. But after digging deeper into the ecosystem, I\u2019ve found a serious exploit that proves the problem was never truly solved.\nPrevious videos: https://youtu.be/2BJIZA_OpDw \nHere is Robin's petition: https://chng.it/mdgp8mZffb \nIf you\u2019d like to sign up to libro fm and support the channel, you can do so here: https://libro.fm/referral?rf_code=lfm456628\n\nIn this video, we\u2019ll break down how the Kindle + Audible bundle loophole still allows customers to get audiobooks for drastically reduced prices \u2014 while authors and publishers eat the cost. This is not just a bug; it\u2019s a systemic flaw in how Audible\u2019s purchasing and return systems interact.\n\nMy Books:\nNeon Ghosts: A Witch's Sin Hardcover: https://shop.wraithmarked.com/collections/standard-editions-1/products/neon-ghosts-a-witchs-sin-hardcover\nBreach of Peace: https://tinyurl.com/BoPTLT\nR",
+        "id": 3496493,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qdM-iez45os",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qdM-iez45os/hqdefault.jpg",
+        "title": "I Found ANOTHER Audible Return Exploit... yes, really",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T18:40:49.695944+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T17:30:09+00:00",
+        "description": "In all the world of software development we're seeing the use of AI, and that's even the case in the Linux kernel, but not just for use with software development\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nAI RFC: https://lore.kernel.org/all/20250725175358.1989323-1-sashal@kernel.org/\nAI Patch: https://lore.kernel.org/all/20250727195802.2222764-2-sashal@kernel.org/\nLinux Foundation Guideline: https://www.linuxfoundation.org/legal/generative-ai\nZDNet Article: https://www.zdnet.com/article/ai-is-creeping-into-the-linux-kernel-and-official-policy-is-needed-asap/\nAUTOSEL: https://lists.linaro.org/archives/list/linux-stable-mirror@lists.linaro.org/thread/EJWMRUH2JTI34CPWVZZG62XJ7HMIH5WT/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 P",
+        "id": 3496707,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=OH5XtHkcu6k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OH5XtHkcu6k/hqdefault.jpg",
+        "title": "AI Is Creeping Into The Linux Kernel",
+        "vote": 0
+    }
+]

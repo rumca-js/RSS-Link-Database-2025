@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T16:15:32.006000+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T14:09:42+00:00",
+        "description": "Learn about fine-tuning large language models (LLMs). The course covers key methodologies, including supervised fine-tuning and reinforcement learning with human feedback (RLHF). It also introduces a technique called QLoRA, which enables you to fine-tune massive models like Llama 70B on a home workstation. The course guides you from theory to practical implementation using tools like Python, PyTorch, and Hugging Face. \n\n\u270f\ufe0f Created by @LunarTech_ai \n\n\u2764\ufe0f Try interactive AI courses we love, right in your browser: https://scrimba.com/freeCodeCamp-AI (Made possible by a grant from our friends at Scrimba)\n\n\u2b50\ufe0f Contents \u2764\ufe0f\n- 0:00:00 Course Overview\n- 0:00:15 What is Fine-Tuning and How is it Different?\n- 0:00:21 Hands-on Methodologies\n- 0:00:28 Deep Dive into Parameter Efficient Fine-Tuning\n- 0:00:36 Exploring QLoRA: A Revolutionary Method\n- 0:00:44 Practical Case Studies\n- 0:01:15 Instructor Introduction\n- 0:02:05 Course Outline (More Detail)\n- 0:02:30 Highlight of the Course: Parameter Effi",
+        "id": 3495533,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=H-oCV5brtU4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H-oCV5brtU4/hqdefault.jpg",
+        "title": "Intro to Fine-Tuning Large Language Models",
+        "vote": 0
+    }
+]

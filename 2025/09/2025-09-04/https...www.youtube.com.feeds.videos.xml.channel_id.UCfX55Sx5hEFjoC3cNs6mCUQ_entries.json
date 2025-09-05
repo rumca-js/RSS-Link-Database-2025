@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T16:55:32.921952+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T16:01:00+00:00",
+        "description": "The State of Commercial Open Source 2025 report demonstrates how open source companies are achieving superior outcomes:\n\n\ud83d\udcb0$26.4B raised in 2024\n\ud83d\udcc8Median IPO valuations 7\u00d7 higher \n\ud83e\udd1dMedian M&A valuations 14\u00d7 higher \n\u26a1Faster progression through funding rounds \n\ud83c\udf10Strong correlation between community health and business value \n\nThis research highlights the growing strength of commercial open source as both a business model and a foundation for innovation.\n\n#OpenSource #LinuxFoundation #Innovation #Research #TechTrends #OSS #CommercialOpenSource",
+        "id": 3496013,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2cPfGqqro_Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2cPfGqqro_Y/hqdefault.jpg",
+        "title": "The State of Commercial Open Source 2025",
+        "vote": 0
+    }
+]

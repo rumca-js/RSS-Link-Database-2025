@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T16:27:11.863760+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T15:47:56+00:00",
+        "description": "Today's links Canny Valley: My little art-book is here! Hey look at this: Delights to delectate. Object permanence: Ballmer throws a chair; Bruce Sterling on Singapore; RIP David Graeber; Big Car warns of lethal Right to Repair. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Canny Valley (permalink) I've spent every evening this week painstakingly unpacking, numbering and signing 500 copies of my very first art-book, a strange and sturdy little volume called Canny Valley. Canny Valley collects 80 of the best collages I've made for my Pluralistic newsletter, where I publish 5-6 essays every week, usually headed by a strange, humorous and/or grotesque image made up of public domain sources and Creative Commons works. These images are made from open access sources, and they are themselves open access, licensed Creative Commons",
+        "id": 3495697,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/09/04/illustrious",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/04Sep2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: Canny Valley (04 Sep 2025)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T14:32:33.020631+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T14:01:11+00:00",
+        "description": "I'm just a guy who drives a car.\n\nMentioned in this video:\n\n  - Electric Car GitHub repo: https://github.com/geerlingguy/electric-car\n  - Level 1 J1772 charger (Lectron): https://amzn.to/3HIt2Tx\n  - Level 2 J1772 charger (Grizzl-E): https://amzn.to/4k0tHwX\n  - Level 3 CCS1 to CHAdeMO adapter (A2Z): https://a2zevshop.com/products/ccs1-to-chademo\n  - LeLink 2 OBD-II BLE dongle: https://amzn.to/45GYUls\n  - LeafSpy Pro App: https://leafspy.com/\n  - CarlinKit 5.0 Wireless CarPlay/Android Auto adapter: https://amzn.to/3SW9AVH\n  - VIOFO A119 Mini Dashcam: https://amzn.to/4n8HqEB\n  - Dongar wiring harness adapter (for dashcam): https://amzn.to/44hbi9f\n  - Technology Connections video on car chargers: https://www.youtube.com/watch?v=W96a8svXo14\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/",
+        "id": 3494509,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=hQQtFnLefqw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hQQtFnLefqw/hqdefault.jpg",
+        "title": "Do I regret buying the cheapest EV?",
+        "vote": 0
+    }
+]

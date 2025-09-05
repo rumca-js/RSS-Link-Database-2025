@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T19:53:38.151403+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T17:30:09+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/OH5XtHkcu6k\" width=\"480\" alt=\"thumbnail\" title=\"AI Is Creeping Into The Linux Kernel\" /></p>In all the world of software development we're seeing the use of AI, and that's even the case in the Linux kernel, but not just for use with software development<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />AI RFC: https://lore.kernel.org/all/20250725175358.1989323-1-sashal@kernel.org/<br />AI Patch: https://lore.kernel.org/all/20250727195802.2222764-2-sashal@kernel.org/<br />Linux Foundation Guideline: https://www.linuxfoundation.org/legal/generative-ai<br />ZDNet Article: https://www.zdnet.com/article/ai-is-creeping-into-the-linux-kernel-and-official-policy-is-needed-asap/<br />AUTOSEL: htt",
+        "id": 3497477,
+        "language": "en",
+        "link": "https://odysee.com/ai-is-creeping-into-the-linux-kernel:79dc41819bafb91d121fbabb3992cbdbd6920a67",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/OH5XtHkcu6k",
+        "title": "AI Is Creeping Into The Linux Kernel",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T14:26:15.940957+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T13:03:21+00:00",
+        "description": "NEW COURSES: http://bradsartschool.com\n\nAwanqi's Prints https://www.inprnt.com/gallery/awanqi/heartache/canvas/\nMore of Chee Fong's work https://www.instagram.com/cheef0ng/\n\n00:00 Intro\n00:29 1. Architecture\n06:29 2. Text\n08:48 3. Object Permanence\n11:44 4. Stuff That Makes No Sense\n14:47 5. Swirlies and nonsense textures\n\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradsartschool.com\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 3494292,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EyrlM5Qa5pw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EyrlM5Qa5pw/hqdefault.jpg",
+        "title": "I Can Spot AI Art Instantly - 5 Ways You Can Too",
+        "vote": 0
+    }
+]

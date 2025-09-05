@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Play On Tabletop",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T19:30:54.904818+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T19:00:06+00:00",
+        "description": "Super Fun Game where two of our video editors play the game they edit! Nick has some special announcements in this video too!  We will be bringing King of the Colosseum, the format you saw in the video today, to Las Vegas, Swizterland, and Kansas City.\n\nHEROFEST in Bern October 3-5 https://herofest.ch/\nNick and Ben from Play On are going to Switzerland! They will be doing three shows in front of a live audience there. \nVIP Tickets for Friday: https://merch.playontabletop.com/products/hero-fest-vip-ticket-oct-3\nVIP Tickets for Sat: https://merch.playontabletop.com/products/hero-fest-vip-ticket-oct-4\nVIP Tickets for Sun: https://merch.playontabletop.com/products/hero-fest-vip-ticket-oct-5\n\nYou will need a convention ticket as well and you can use code: HEF25POT for 20% off!\n\nSpecial thank you to Hoppy Dice Tactics (https://hoppydicetactics.ch/en/) and DieSpieler (https://diespieler.ch/en) for doing Demo Games of King of the Colosseum and selling our merch at HeroFest!\n\nLAS VEGAS OPEN Oc",
+        "id": 3497300,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AidUvXpqw5g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 566,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ4-WFTrDNWvcM7dEC6E2mw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AidUvXpqw5g/hqdefault.jpg",
+        "title": "Video Editors Try Warhammer 40,000 for the First Time!",
+        "vote": 0
+    }
+]

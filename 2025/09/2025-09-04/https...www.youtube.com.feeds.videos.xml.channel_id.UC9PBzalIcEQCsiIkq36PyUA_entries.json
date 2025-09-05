@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T16:44:29.740138+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T15:24:02+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nCronos: The New Dawn sees Bloober doing what it does best in delivering an excellent survival horror experience. However, unfortunately, it also sees Bloober repeating many of the UE5 problems from Silent Hill 2. Alex shares his experiences and delivers some optimised settings that can literally double performance. \n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00:00 Introduction\n00:00:59 What kind of a game is Cronos: The New Dawn?\n00:03:32 Technical qualities\n00:07:16 Hello stuttering my old friend...\n00:10:27 Optimised Settings\n00:14:00 Conclusion",
+        "id": 3495895,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xC8BjDoX-xM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xC8BjDoX-xM/hqdefault.jpg",
+        "title": "Cronos: The New Dawn PC - DF Review - Plus: 113% Perf Boosts via Optimised Settings",
+        "vote": 0
+    }
+]

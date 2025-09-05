@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "captainmidnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T18:51:22.658213+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T18:38:48+00:00",
+        "description": "This video is brought to you by Nebula Originals. Get a GREAT deal on Nebula now: https://go.nebula.tv/captainmidnight\nLilo & Stitch changed everything for Disney. It's wildly successful in a way many other remakes (like Snow White) have not been, how will that change how they view their remakes?\nRead my comic BINARY SEA on Amazon Kindle: https://a.co/d/9JfoZC0\nMusic by Epidemic Sound (http://www.epidemicsound.com)\nFollow me on Twitter: https://twitter.com/midnightcap\nFollow me on Facebook: https://www.facebook.com/midnightcap\nVideo edited by Andrew Elliott (Stalli111: https://www.youtube.com/user/Stalli111  )\nWritten by Graham Blackaby",
+        "id": 3496844,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xNILqhQpF8Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 63,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCROQqK3_z79JuTetNP3pIXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xNILqhQpF8Q/hqdefault.jpg",
+        "title": "The Bizarre State of Disney Remakes",
+        "vote": 0
+    }
+]

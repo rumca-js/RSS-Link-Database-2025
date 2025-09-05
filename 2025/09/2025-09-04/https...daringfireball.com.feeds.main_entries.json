@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T20:42:55.965482+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T20:22:25+00:00",
+        "description": "<p>There are finallys, and there are <em>finallys</em>. Apple shipped the original iPad in April 2010. Instagram shipped in October 2010\u2009\u2014\u2009<a href=\"https://www.idownloadblog.com/2012/04/19/phil-schiller-quits-instagram/\">and was iPhone-exclusive until 2012</a>. That Instagram didn\u2019t ship a native iPad version of its app until now is really one of the strangest things in tech. But here it is.</p>\n\n<p>One significant difference from Instagram on phones is that on iPad, it defaults to the Reels view, and you have to tap below Reels in the sidebar to get to your following timeline. Adam Mosseri explains their thinking behind this <a href=\"https://www.instagram.com/reel/DOJWGJyETYq/?igsh=MWFwMXNsdWFwNHp1ZQ==\">in this Reel</a> (natch).</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Instagram Finally Launches an iPad App\u2019\"  href=\"https://daringfireball.net/linked/2025/09/04/instagram-ipad\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 3497960,
+        "language": "",
+        "link": "https://about.instagram.com/blog/announcements/instagram-for-ipad",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Instagram Finally Launches an iPad App",
+        "vote": 0
+    }
+]

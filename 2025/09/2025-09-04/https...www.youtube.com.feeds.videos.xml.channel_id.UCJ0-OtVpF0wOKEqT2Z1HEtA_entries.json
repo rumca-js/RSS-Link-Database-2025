@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ElectroBOOM",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T15:51:02.694074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T15:17:31+00:00",
+        "description": "This is why all electronic devices must meet EMI requirements. Otherwise in more safety critical units, well, you are not safe!",
+        "id": 3495213,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/56Eq3EMYX68",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 708,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/56Eq3EMYX68/hqdefault.jpg",
+        "title": "Door Fails EMI #tech #electronics #science #funny",
+        "vote": 0
+    }
+]

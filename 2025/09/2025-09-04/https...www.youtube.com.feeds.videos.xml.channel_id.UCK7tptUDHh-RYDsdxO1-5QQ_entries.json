@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-04T19:56:19.120333+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-04T19:00:46+00:00",
+        "description": "It took two people to make WSJ\u2019s Amy Dockser Marcus feel like a woman in her 80s.\u2060\n\u2060\nAt the MIT AgeLab, which works on finding ways to improve life for the elderly, researchers let her spend a day in their age-simulation suit. She hoped the experience might bring greater insight into what it\u2019s really like to age\u2014and how to prepare.\u2060\n\n#MIT #Aging #Shorts",
+        "id": 3497505,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/khzaTm8edBk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/khzaTm8edBk/hqdefault.jpg",
+        "title": "I Wore a Suit That Made Me Feel Like I Was 80",
+        "vote": 0
+    }
+]
