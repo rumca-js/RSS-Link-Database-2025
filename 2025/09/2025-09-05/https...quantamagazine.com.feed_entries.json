@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shalma Wegsman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T14:51:15.823981+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T14:09:17+00:00",
+        "description": "Recent progress on both analog and digital simulations of quantum fields foreshadows a future in which quantum computers could illuminate phenomena that are far too complex for even the most powerful supercomputers.            <p>The post <a href=\"https://www.quantamagazine.org/analog-vs-digital-the-race-is-on-to-simulate-our-quantum-universe-20250905/\" target=\"_blank\">Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3502901,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/analog-vs-digital-the-race-is-on-to-simulate-our-quantum-universe-20250905",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/09/NewQuantumSims-crKristinaArmitage-Default.webp",
+        "title": "Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe",
+        "vote": 0
+    }
+]

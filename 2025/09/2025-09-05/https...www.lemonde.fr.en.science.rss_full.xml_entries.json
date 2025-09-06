@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T06:47:15.542653+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T05:30:04+00:00",
+        "description": "'Of Volcanoes and Men' (5/6). In southern Japan, Kagoshima's residents live under the constant threat of Sakurajima, one of the most active volcanoes in the archipelago. Photographer Chikashi Suzuki observed the city, with both fear and reverence, prepare for the volcano's next eruption.",
+        "id": 3498721,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/summer-reads/article/2025/09/05/sakurajima-life-in-the-shadow-of-the-japanese-monster_6745056_183.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/07/31/235/0/2882/1441/644/322/60/0/aa0c142_ftp-import-images-1-k10dfvloyldu-392158-3432882.jpg",
+        "title": "Sakurajima: Life in the shadow of the Japanese monster",
+        "vote": 0
+    }
+]

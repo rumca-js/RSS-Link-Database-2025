@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T20:29:35.757336+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T19:24:09+00:00",
+        "description": "\u2699\ufe0f FREE Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\nTimestamps:\n00:00:00 - Intro\n00:00:40 - Getting Started\n00:04:33 - How it is done without OOP\n00:08:47 - Create a Class\n00:10:51 - Class vs object\n00:13:45 - Using vectors with Custom Type\n00:16:47 - range based for loop\n00:18:22 - What are methods\n00:19:03 - struct vs class\n00:21:18 - Methods\n00:24:34 - Important Naming Conventions\n00:25:37 - arguments and return values\n00:30:55 - Reviewing method call syntax\n00:32:02 - method calls in loop\n00:35:38 - Constructors\n00:37:39 - Aggregate Initialization Syntax\n00:41:01 - Why we use constructors\n00:42:17 - Removing the default constructor\n00:43:12 - understanding the this keyword\n00:45:24 - Constructor Initializer\n00:46:22 - Benefits of Constructors\n00:48:57 - Encapsulation\n00:52:32 - Understanding Abstractions\n00:56:08 - static Methods\n01:00:48 - Nested Classes\n01:01:47 - Composition vs Inheritance\n01:05",
+        "id": 3505886,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zZpLRBHfY3Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zZpLRBHfY3Q/hqdefault.jpg",
+        "title": "C++ Object Oriented Programming Crash Course (1.5 HOURS)",
+        "vote": 0
+    }
+]

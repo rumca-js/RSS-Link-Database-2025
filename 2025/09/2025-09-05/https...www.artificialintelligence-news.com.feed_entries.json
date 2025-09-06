@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T17:58:14.677332+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T15:13:58+00:00",
+        "description": "<p>A government report has found that surging investment has driven UK AI sector growth to outpace the wider economy by 150 times since 2022. The UK\u2019s AI sector is clearly in the throes of a boom, with revenues shattering previous records to hit \u00a323.9 billion in the last year. The engine room of this growth [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/uk-ai-sector-growth-hits-record-2-9b-investment/\">UK AI sector growth hits record \u00a32.9B investment\u00a0</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3504361,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/uk-ai-sector-growth-hits-record-2-9b-investment",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+        "title": "UK AI sector growth hits record \u00a32.9B investment",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy Jahns",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T13:30:13.733060+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T13:00:55+00:00",
+        "description": "Thanks Fabletics for sponsoring this video! Click here to get up to 80% off the whole site when you sign up to be a VIP: https://Fabletics.com/jahns\n\nThe Conjuring comes to an end...until it gets raised from the dead. But for now, here's my review of the supposed final chapter THE CONJURING: LAST RITES!\n\n#TheConjuring #TheConjuringLastRites",
+        "id": 3502485,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NDP93QsbbU8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 164,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NDP93QsbbU8/hqdefault.jpg",
+        "title": "The Conjuring: Last Rites - Movie Review",
+        "vote": 0
+    }
+]

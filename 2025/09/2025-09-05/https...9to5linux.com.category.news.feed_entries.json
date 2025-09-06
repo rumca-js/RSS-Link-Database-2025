@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T12:22:33.799927+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T11:36:13+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/09/cl810.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Calibre 8.10\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/09/cl810.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/09/cl810.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/09/cl810.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>Calibre 8.10 open-source e-book management software is now available for download with improvements to the Kindle MTP driver and other changes. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/calibre-8-10-e-book-manager-brings-improvements-to-the-kindle-mtp-driver\">Calibre 8.10 E-Book Manager Brings Improvements to the Kindle MTP Driver</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</",
+        "id": 3501938,
+        "language": "en-US",
+        "link": "https://9to5linux.com/calibre-8-10-e-book-manager-brings-improvements-to-the-kindle-mtp-driver",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/09/cl810.webp",
+        "title": "Calibre 8.10 E-Book Manager Brings Improvements to the Kindle MTP Driver",
+        "vote": 0
+    }
+]

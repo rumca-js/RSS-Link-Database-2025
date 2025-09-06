@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/indolering",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T07:22:46.934466+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T06:51:41+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1n8y74r/evm_riscv_discussion/\"> <img src=\"https://external-preview.redd.it/ZRQ9QysKb8clbPRXisp-fWACfh8CiKE6ie6DFPP51YM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f836f4b8cfc2c278e9d94fc822a9396d5ffc3b73\" alt=\"EVM -&gt; RISC-V Discussion\" title=\"EVM -&gt; RISC-V Discussion\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>While there was a post recently that linked to an article covering the proposal, this is where it actually gets hashed out by Ethereum devs. It is a much more interesting read regarding the tradeoffs.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/indolering\"> /u/indolering </a> <br/> <span><a href=\"https://ethereum-magicians.org/t/long-term-l1-execution-layer-proposal-replace-the-evm-with-risc-v/23617\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1n8y74r/evm_riscv_discussion/\">[comments]</a></span> </td></tr></table>",
+        "id": 3499429,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1n8y74r/evm_riscv_discussion",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/ZRQ9QysKb8clbPRXisp-fWACfh8CiKE6ie6DFPP51YM.png?width=640&crop=smart&auto=webp&s=f836f4b8cfc2c278e9d94fc822a9396d5ffc3b73",
+        "title": "EVM -> RISC-V Discussion",
+        "vote": 0
+    }
+]

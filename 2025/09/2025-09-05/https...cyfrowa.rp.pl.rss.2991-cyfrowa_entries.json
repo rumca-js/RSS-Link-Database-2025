@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T12:12:24.460945+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T12:12:23+00:00",
+        "description": "Zarz\u0105d Tesli og\u0142osi\u0142, \u017ce za\u0142o\u017cyciel tej sp\u00f3\u0142ki Elon Musk mo\u017ce dosta\u0107 1 bln dolar\u00f3w wynagrodzenia, je\u015bli spe\u0142ni szereg cel\u00f3w dotycz\u0105cych kapitalizacji firmy oraz jej wynik\u00f3w.",
+        "id": 3501864,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42965191-rekordowe-wynagrodzenie-w-historii-elon-musk-moze-dostac-od-firmy-bilion-dolarow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rekordowe wynagrodzenie w historii? Elon Musk mo\u017ce dosta\u0107 od firmy bilion dolar\u00f3w",
+        "vote": 0
+    }
+]

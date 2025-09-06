@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T20:46:58.905098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T20:03:20+00:00",
+        "description": "Click this link https://sponsr.is/bootdev_bellularnews and use my code BELLULARNEWS to get 25% off your first payment for boot.dev. Sponsored by Boot.Dev.\n\nHelldivers 2 sold 926k on Xbox in 6 days vs PS5's 633k at launch. But with 500k+ players, technical debt is crippling the game. CEO Shams Jorjani promises fixes with \"a bigger knife.\"\n\n00:00 Numbers BIG\n02:31 The Difference A Year Makes\n04:09 Sony's Success On Xbox\n06:32 An Underlying Problem\n08:30 No Brakes On This Train\n10:54 Success Is Its Own Problem\n\nSources:\nhttps://bellular.games/the-helldivers-problem-a-game-for-everyone-is-a-game-for-no-one/\n\nhttps://bellular.games/helldivers-developers-changed-the-game-again/\n\nhttps://www.ign.com/articles/phil-spencer-on-helldivers-2-not-being-on-xbox-im-not-exactly-sure-who-it-helps\n\nhttps://alineaanalytics.substack.com/p/augusts-most-downloaded-games-across\n\nhttps://www.windowscentral.com/gaming/it-was-all-playstation-helldivers-2-ceo-comments-on-xbox-release\n\nhttps://www.youtube.com/wa",
+        "id": 3505984,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DTnIrWJ8iss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DTnIrWJ8iss/hqdefault.jpg",
+        "title": "CEO: Helldivers 2 Has A \"Crippling\" Problem",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T15:57:57.041574+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T14:04:14+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nThe 10 Essential Features for the Future of C++ Libraries - Mateusz Pusz - ACCU 2025\n---\n\nC++ is a powerful language for building high-performance, flexible libraries. However, language and standard library limitations often hinder library developers from achieving their full potential.\n\nThis talk will unveil 10 critical missing C++ features that could significantly improve library development. By addressing common pain points and unlocking new possibilities, these features will empower developers to create more robust, efficient, and expressive libraries.\n\nThrough concrete examples from the quantities and units library, we'll explore how these features can:\n- Simplify complex generic programming,\n- Improve type safety without sacrificing functionality,\n- Enable more concise and expressive code,\n- Serve as building blocks for crucial new library features.\n\nSome of the presented features are already proposed for standardization but hav",
+        "id": 3503508,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=K-uzaG9S8bg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K-uzaG9S8bg/hqdefault.jpg",
+        "title": "The 10 Essential Features for the Future of C++ Libraries - Mateusz Pusz - ACCU 2025",
+        "vote": 0
+    }
+]

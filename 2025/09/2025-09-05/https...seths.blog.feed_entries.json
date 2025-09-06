@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T11:38:27.102358+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T09:03:00+00:00",
+        "description": "One sort of delusion is believing that we&#8217;re smart and skilled simply because we got lucky. This perpetuates a cycle of bad decisions that just happened to lead to good outcomes, and causes people to confuse their wins with hard-earned skill. Often, when someone successful in one field (where they compounded an early lead) moves [&#8230;]",
+        "id": 3501546,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/09/self-awareness-and-the-luck-skill-gap",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Self awareness and the luck-skill gap",
+        "vote": 0
+    }
+]

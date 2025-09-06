@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Epic Games",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T18:34:43.039975+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T18:18:50+00:00",
+        "description": "The excruciating wait is ALMOST OVER!!! Borderlands 4 launches Sep. 11 on the Epic Games Store. Pre-purchase Now: https://epic.gm/borderlands-4",
+        "id": 3504872,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=L9Km5GY8ZCg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 722,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5Qk8mWBwtMyEj7iQQYRk1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L9Km5GY8ZCg/hqdefault.jpg",
+        "title": "Borderlands 4 | Official Launch Week Trailer",
+        "vote": 0
+    }
+]

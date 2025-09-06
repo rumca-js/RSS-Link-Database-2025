@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T19:28:35.160604+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T17:53:49+00:00",
+        "description": "Today's links Why Wikipedia works: Agreeing on source notability, not facts. Hey look at this: Delights to delectate. Object permanence: Zero History; XKCD cake; Kazaa judgment. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Why Wikipedia works (permalink) If you've ever spent time around Wikipedians, you've doubtless heard its motto: \"Wikipedia only works in practice. In theory, it's a mess.\" It's a delicious line, which is why I stole it for my 2017 novel Walkaway. But this is one of those lines that's too good to fact-check. The truth is that there's a theory that very neatly describes how Wikipedia works; that is, how Wikipedia is one of the best sources of information ever assembled, despite allowing tens of thousands of anonymous and pseudonymous people with no verifiable credentials to participate in a collective kno",
+        "id": 3505333,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/09/05/be-the-first-person",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/05Sep2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: Why Wikipedia works (05 Sep 2025)",
+        "vote": 0
+    }
+]

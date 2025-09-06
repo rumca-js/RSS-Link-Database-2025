@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T11:57:35.718165+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T10:00:44+00:00",
+        "description": "Subscribe for AI updates \u2192 https://ibm.biz/BdeerG\n\nAre browsers the right entry point for AI tools? In episode 71 of Mixture of Experts, guest host Bryan Casey is joined by Gabe Goodhart, Kaoutar El Maghraoui and Mihai Criveti to talk about the verdict in the Google antitrust case and what it means for agentic AI. Next, as Anthropic raised  $13 billion in a recent funding round, bringing its valuation to $183 billion, we discuss investment in AI startups. Finally, the discourse on GPT-5 and AI model innovation created \u201cAI winter.\u201d What does this mean for the future of AI innovation? All that and more on today\u2019s Mixture of Experts. \n\n00:00 \u2013 Intro \n1:38 \u2013 Safer GPT, IBM and AMD, Amazon Lens Live and AI and Starbucks \n2:59 \u2013 Google antitrust \n27:08 \u2013 Anthropic and AI valuation \n41:42 \u2013 AI winter \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\nVisit Mixture of Experts podc",
+        "id": 3501785,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Qw8GOzs3Z0g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qw8GOzs3Z0g/hqdefault.jpg",
+        "title": "Google Antitrust, Anthropic's $183B leap and are we in the AI winter?",
+        "vote": 0
+    }
+]

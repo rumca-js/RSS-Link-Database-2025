@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T17:18:30.676116+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T17:00:59+00:00",
+        "description": "Ever since his debut on Saturday Night Live, Pete Davidson has been one of the most talked-about comedians of his generation. From his early struggles on SNL, to his highly public personal life, to navigating the pressures of fame, Pete has faced more than his share of ups and downs.  But early on in his tenure at Saturday Night Live things got so bad he actually went to creator Lorne Michaels and asked to be fired.  Luckily Lorne said no, and the rest is history. \n\n#petedavidson #snl #billhader #saturdaynightlive #nerdstalgic",
+        "id": 3503859,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=iYBL_Je9CbA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iYBL_Je9CbA/hqdefault.jpg",
+        "title": "Why This SNL Star ASKED To Be Fired From The Show",
+        "vote": 0
+    }
+]

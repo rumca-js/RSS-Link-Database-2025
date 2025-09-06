@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dylan Matthews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-05T11:35:45.626649+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-05T07:15:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Two robots, one with red hat and gloves and one with blue hat and gloves, box inside a ring.\" data-caption=\"Two boxing robots from Unitree at Shanghai New Expo Center on July 28, 2025. | Ying Tang/NurPhoto via Getty Images\" data-portal-copyright=\"Ying Tang/NurPhoto via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2226761571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tTwo boxing robots from Unitree at Shanghai New Expo Center on July 28, 2025. | Ying Tang/NurPhoto via Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Two of the smartest people I follow in the AI world <a href=\"https://www.youtube.com/watch?v=1if6XbzD5Yg\">recently sat down</a> to check in on how the field is going.</p>\n\n<p class=\"has-text-align-none\">One was Fran\u00e7ois Chollet, creator of the widely used <a href=\"https://keras.io/\">Keras library</a> and author of the <a href=\"https",
+        "id": 3501510,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/460222/ai-forecasting-tournament-superforecaster-expert-tetlock",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2226761571.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "A tournament tried to test how well experts could forecast AI progress. They were all wrong.",
+        "vote": 0
+    }
+]
