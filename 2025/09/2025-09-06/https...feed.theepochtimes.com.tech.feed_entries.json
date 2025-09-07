@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sean Tseng",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-06T10:12:31.666258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-06T10:00:55+00:00",
+        "description": "Washington tightened control over tools and know-how that China needs to move beyond the chip technology used in autos, telecom gear, and consumer goods.",
+        "id": 3508813,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/china/us-tightening-shipments-to-chip-factories-in-china-will-slow-beijings-advances-analysts-say-5911128",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/09/05/id5911134-GettyImages-1485437725-1080x720.jpg",
+        "title": "US Tightening Shipments to Chip Factories in China Will Slow Beijing\u2019s Advances, Analysts Say",
+        "vote": 0
+    }
+]

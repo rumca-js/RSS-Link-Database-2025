@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Burt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-06T19:21:11.637324+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-06T18:49:32+00:00",
+        "description": "<img width=\"1280\" height=\"722\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/06/12165031/wicket-at-us-open.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/06/12165031/wicket-at-us-open.jpg 1280w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/06/12165031/wicket-at-us-open-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/06/12165031/wicket-at-us-open-1024x578.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/06/12165031/wicket-at-us-open-150x85.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/06/12165031/wicket-at-us-open-768x433.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />\n\t\tBiometrics are often probabilistic, but in questions of data privacy, law enforcement and investments, people want certainty. The search for that certaint",
+        "id": 3511566,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202509/biometrics-confidence-builds-in-several-use-cases-but-gradually",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/06/12165031/wicket-at-us-open.jpg",
+        "title": "Biometrics confidence builds in several use cases, but gradually",
+        "vote": 0
+    }
+]

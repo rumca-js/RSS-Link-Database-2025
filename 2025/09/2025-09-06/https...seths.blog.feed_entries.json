@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-06T09:40:31.582490+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-06T09:03:00+00:00",
+        "description": "Don&#8217;t play games you can&#8217;t win. If the deck is stacked against you, a smart option is to go to a different table and play with a different deck. The dominant system wants you to wait to get picked. It indoctrinates people, again and again, in accepting its hegemony and insight and wisdom, so that [&#8230;]",
+        "id": 3508649,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/09/system-architect-system-victim",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "System architect/system victim",
+        "vote": 0
+    }
+]

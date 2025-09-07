@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niekryty Krytyk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-06T17:02:24.868045+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-06T16:00:52+00:00",
+        "description": "Ogl\u0105daj odcinek: https://youtu.be/OeZCJDPy0kQ",
+        "id": 3510867,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/SCkF8SIFL1s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 441,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCura5JPb8QkzXrMfAxq4Ssw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SCkF8SIFL1s/hqdefault.jpg",
+        "title": "\u0141y\u017cka",
+        "vote": 0
+    }
+]

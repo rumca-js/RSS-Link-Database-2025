@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-06T18:56:52.237855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-06T18:34:55+00:00",
+        "description": "<p>MG Siegler, writing at Spyglass:</p>\n\n<blockquote>\n  <p>And so you can\u2019t help but wonder if part of the equation in this settlement wasn\u2019t decidedly more cynical. Fresh off <a href=\"https://spyglass.org/signal-the-google-antitrust-nuance/#:~:text=%F0%9F%A7%A0%20Anthropic%27s%20%2413B,%5BBloomberg%20%F0%9F%94%92%5D\">a new massive fundraise</a>\u2009\u2014\u2009one in which they raised <a href=\"https://www.bloomberg.com/news/articles/2025-09-02/anthropic-completes-new-funding-round-at-183-billion-valuation?embedded-checkout=true&amp;ref=spyglass.org\">far more</a> than they were initially targeting, I might add\u2009\u2014\u2009Anthropic has a lot of money. More than perhaps <a href=\"https://spyglass.org/openai-ipo-ish/\">all but one of their competitors</a> on the startup side. By settling for $1.5B, is Anthropic sort of pulling up a drawbridge, making it so that other startups can\u2019t possibly come into their castle? I mean, am I crazy?</p>\n\n<p>I\u2019m not so sure I am. At $1.5B, there are only a handful of companies t",
+        "id": 3511426,
+        "language": "",
+        "link": "https://spyglass.org/cynical-read-on-anthropics-book-settlement",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A Cynical Read on Anthropic\u2019s Book Settlement",
+        "vote": 0
+    }
+]
