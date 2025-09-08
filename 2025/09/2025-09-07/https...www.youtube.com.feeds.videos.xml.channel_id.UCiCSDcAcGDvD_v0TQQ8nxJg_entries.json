@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T14:30:30.594331+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T14:09:58+00:00",
+        "description": "New Movie Trailers 2025 | Weekly #36 | 4K Ultra Hd\n00:00 Delivery Run\n 01:50 Shell\n04:15 The Partisan\n06:28 Xeno\n08:35 Predator Badlands",
+        "id": 3516030,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YPEVLGHce44",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YPEVLGHce44/hqdefault.jpg",
+        "title": "NEW MOVIE TRAILERS 2025 | Weekly #36 | 4K ULTRA HD",
+        "vote": 0
+    }
+]

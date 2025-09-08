@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T16:35:29.340357+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T16:01:29+00:00",
+        "description": "\ud83d\udcad\u00a0Bezpiecze\u0144stwo i prywatno\u015b\u0107 nie zawsze id\u0105\u00a0ze sob\u0105 w parze. Na minionym DEFCONie Gabriel Gegenhuber oraz Max Gunther zaprezentowali swoje odkrycia i okazuje si\u0119, \u017ce mo\u017cna \u015bledzi\u0107\u00a0kiedy i na jakim urz\u0105dzeniu aktywny jest u\u017cytkownik WhatsAppa, Signala i w sumie pewnie nawet ka\u017cdego innego komunikatora korzystaj\u0105cego z pe\u0142nego szyfrowania end-to-end. Czy leg\u0142y w gruzach wszystkie zasady na kt\u00f3rych opiera si\u0119 nowoczesna, bezpieczna komunikacja?\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udcac\u00a0DEFCON 33: Silent Signals: Exploiting Security and Privacy Side-Channels in End-to-End Encrypted Messengers\nhttps://defcon.org/html/defcon-33/dc-33-speakers.html#content_60388\n\n\ud83d\udcfd\ufe0f\u00a0Slajdy z prezentacji\nhttps://media.defcon.org/DEF CON 33/DEF CON 33 presentations/Gabriel Gegenhuber Maximilian G\u00fcnther - Silent Signals Exploiting Security and Privacy Side-Channels in End-to-End Encrypted Messengers.pdf\n\n\ud83d\udcad\u00a0Careless Whisper: Exploiting Silent Delivery Receipts to Monitor Users on Mobile Instant Messengers\nhttps://arxiv.org/abs/2411.11194\n \n",
+        "id": 3516753,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=rmjdAEPU4Y0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rmjdAEPU4Y0/hqdefault.jpg",
+        "title": "Krytyczna podatno\u015b\u0107 w bezpiecznych komunikatorach?",
+        "vote": 0
+    }
+]

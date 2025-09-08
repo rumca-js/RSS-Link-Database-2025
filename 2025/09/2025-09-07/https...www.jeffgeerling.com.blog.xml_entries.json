@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T18:16:09.252739+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T17:51:20+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">YouTube views are down (don't panic)</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Many YouTube content creators, myself included, noticed something in early to mid-August: views were down.</p>\n\n<p>After being on the platform since 2006 (though for me, not being a 'professional' YouTuber until about 5 years ago), I'm used to seasonal dips, adjustments after new tweaks to the algorithm or layout/design changes.</p>\n\n<p>But this was <em>substantial</em>.</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/youtube-jeffgeerling-views-down.jpg\" width=\"700\" height=\"350\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-f664a6cf-27d5-4866-b3a5-93f83a8460b2\" data-insert-attach=\"{&quot;id&quot;:&quot;f664a6cf-27d5-4866-b3a5-93f83a8460b2&quot;,&quot;",
+        "id": 3517298,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/youtube-jeffgeerling-views-down.jpg",
+        "title": "YouTube views are down (don't panic)",
+        "vote": 0
+    }
+]

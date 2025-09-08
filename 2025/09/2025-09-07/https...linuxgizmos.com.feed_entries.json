@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T05:09:12.656708+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T04:43:16+00:00",
+        "description": "MSI has unveiled the MS-CF16 V3.0, the latest revision of its compact Pico-ITX single-board computer. Designed for fanless, low-power, and wide-temperature operation, the board targets industrial and embedded applications that demand reliability in harsh environments. The MS-CF16 V3.0 supports a wider selection of Intel processors than its predecessor, with all configurations featuring up to 16 [&#8230;]",
+        "id": 3513796,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/msi-unveils-ms-cf16-v3-0-pico-itx-sbc-with-alder-lake-n-amston-lake-and-twin-lake-processors",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MSI unveils MS-CF16 V3.0 Pico-ITX SBC with Alder Lake-N, Amston Lake, and Twin Lake processors",
+        "vote": 0
+    }
+]

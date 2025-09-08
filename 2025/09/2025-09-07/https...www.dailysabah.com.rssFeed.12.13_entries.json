@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T12:18:00.369787+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T12:17:59+00:00",
+        "description": "Israel urged Hamas to surrender Sunday as its military pounded Gaza\u2019s largest urban center, where hundreds of thousands of displaced Palestinians have taken refuge.\n\nForeign Minist...",
+        "id": 3515331,
+        "language": "en-US",
+        "link": "https://www.dailysabah.com/world/mid-east/israel-keeps-pounding-gaza-demands-hamas-surrender-for-truce",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 81,
+        "source_url": "https://www.dailysabah.com/rssFeed/12/13",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://idsb.tmgrup.com.tr/ly/uploads/images/2025/09/07/400113.jpg",
+        "title": "Israel keeps pounding Gaza, demands Hamas surrender for truce",
+        "vote": 0
+    }
+]

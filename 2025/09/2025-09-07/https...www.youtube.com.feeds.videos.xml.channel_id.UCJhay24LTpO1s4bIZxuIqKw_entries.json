@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T15:42:40.977857+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T14:06:07+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nAn Introduction To Go - Dom Davis - ACCU 2025\n---\n\nUnless you've been hiding under a rock, you've no doubt heard of Go - a lightweight, simple, type safe, C-like language. I love Go. It's not the perfect language (far from it), but it fills its niche very well, and makes writing nice, easy to read code a breeze. If you'd like to share in my love of the language, and perhaps see what the fuss is all about then come along to this brief introduction to Go. We'll look at the language fundamentals, what it gets right, what it gets wrong, and where it fits in among the myriad of languages available to you.\n\nSlides: https://accu.org/conf-previous/accu2025/\n\nJoin think-cell as a C++ Developer and work on cutting-edge challenges with a focus on code excellence, innovation, and working alongside an international team of experts \u2014 apply now to be part of a team shaping the future of business presentations. https://www.think-cell.com/en/career\n--",
+        "id": 3516464,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l36Wqmw2JZo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l36Wqmw2JZo/hqdefault.jpg",
+        "title": "An Introduction To Go - Dom Davis - ACCU 2025",
+        "vote": 0
+    }
+]

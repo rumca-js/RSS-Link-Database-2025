@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kyle Orland, Ars Technica",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T10:48:32.223202+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T10:00:00+00:00",
+        "description": "Researchers convinced large language model chatbots to comply with \u201cforbidden\u201d requests using a variety of conversational tactics.",
+        "id": 3514874,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/psychological-tricks-can-get-ai-to-break-the-rules",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/68bb387605bd4703f9fea0aa/master/pass/ARS-Psychological-Tricks-Can-Get-AI-to-Break-Rules-Business-2217679953.jpg",
+        "title": "Psychological Tricks Can Get AI to Break the Rules",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Michael Kinnucan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T11:08:26.777537+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T10:00:00+00:00",
+        "description": "<p>Politicians, like New York Gov. Kathy Hochul, like to say that kicking healthy people off Medicaid saves money. That's bullshit.</p>\n<p>The post <a href=\"https://theintercept.com/2025/09/07/medicaid-cuts-trump-big-beautiful-bill/\">The Only Way to Save Money on Medicaid Is to Let People Die</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3514974,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/09/07/medicaid-cuts-trump-big-beautiful-bill",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/09/GettyImages-2166045226_d6ecde.jpg?fit=2400%2C1514",
+        "title": "The Only Way to Save Money on Medicaid Is to Let People Die",
+        "vote": 0
+    }
+]

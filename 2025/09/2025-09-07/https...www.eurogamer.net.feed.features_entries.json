@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ed Nightingale",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T14:23:37.734100+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T14:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/dark-soulslike.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Back in 1993, a little-known game called Doom came out. It wasn't the first game to offer shooting in first-person, but it did popularise the genre. The games that followed became known as Doom-clones (often because they used the same engine), and it wasn't until the likes of GoldenEye, Half-Life, Halo, and more developed the genre further in the late 90s that the more neutral term first-person shooter was more widely used.</p> <p><a href=\"https://www.eurogamer.net/the-games-industry-has-a-soulslike-problem-but-probably-not-the-one-you-think\">Read more</a></p>",
+        "id": 3515986,
+        "language": "en",
+        "link": "https://www.eurogamer.net/the-games-industry-has-a-soulslike-problem-but-probably-not-the-one-you-think",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/dark-soulslike.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "The games industry has a Soulslike problem, but probably not the one you think",
+        "vote": 0
+    }
+]

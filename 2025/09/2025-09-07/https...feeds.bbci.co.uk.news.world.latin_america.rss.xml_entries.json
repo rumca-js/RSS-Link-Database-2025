@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T17:36:00.216443+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T16:41:17+00:00",
+        "description": "A leading member of the Grandmothers of Plaza de Mayo, she helped convict men who abducted hundreds of babies.",
+        "id": 3517130,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cewn2nky1w2o?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1220/live/2cc00900-8bf0-11f0-ab2a-4b19af1c03ef.jpg",
+        "title": "Argentine rights activist Rosa Roisinblit dies aged 106",
+        "vote": 0
+    }
+]

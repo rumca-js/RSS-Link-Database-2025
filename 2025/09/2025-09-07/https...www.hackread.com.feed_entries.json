@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T22:36:07.265067+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T21:43:42+00:00",
+        "description": "Salesloft Drift breach traced to GitHub compromise and stolen OAuth tokens, Mandiant confirms breach contained and Salesforce data targeted.",
+        "id": 3518486,
+        "language": "en-US",
+        "link": "https://hackread.com/salesloft-drift-breach-github-compromise-oauth-tokens",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Salesloft Drift Breach Traced to GitHub Compromise and Stolen OAuth Tokens",
+        "vote": 0
+    }
+]

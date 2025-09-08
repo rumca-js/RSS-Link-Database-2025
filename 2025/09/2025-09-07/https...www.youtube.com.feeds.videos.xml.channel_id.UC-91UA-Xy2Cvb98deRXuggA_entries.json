@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joshua Fluke",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T23:37:58.626908+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T22:55:10+00:00",
+        "description": "Need a resume / cover letter? \u27a1\ufe0f https://joshuafluke.store\n\u2022 \ud83d\udd0d Resume Reviews\n\u2022 \u270d\ufe0f Custom Resumes\n\u2022 \ud83c\udf93 Courses: Hacking the Resume & Interview\n\u2022 \ud83d\udcde 1-on-1 Consults\n\n\ud83d\udcac Join the Discord:   / discord  \n\u2764\ufe0f Support:   / joshuafluke  \n\n\ud83d\udcf8 TikTok:   / joshua_fluke  \n\ud83d\udcf8 IG:   / joshuafluke  \n\ud83d\udc26 Twitter:   / joshuafluke  \n\n\ud83d\udce7 Contact: grindreel@gmail.com | Business: joshuafluke@thoughtleaders.io\n\nAT&T CEO John Stankey (sorry, Stany) just gave employees a masterclass in corporate word vomit. After 99,000 employees filled out a survey hoping for improvements, they got a 2,000-word sermon about why they\u2019re wrong and why \u201cmarket-based culture\u201d means bye-bye perks, hello cubicles.\n\nIn this video, I break down how CEOs like John Stankey talk in endless loops of jargon \u2014 penetration, churn, synergy, autonomy, machine vision \u2014 without saying anything real. If you\u2019ve ever sat through a company all-hands and wondered, \u201cwhat the hell did that even mean?\u201d \u2014 this one\u2019s for you.",
+        "id": 3518710,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Qq10jrnO2SM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 169,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-91UA-Xy2Cvb98deRXuggA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qq10jrnO2SM/hqdefault.jpg",
+        "title": "CEO WORD VOMITS ABOUT RTO (AT&T)",
+        "vote": 0
+    }
+]

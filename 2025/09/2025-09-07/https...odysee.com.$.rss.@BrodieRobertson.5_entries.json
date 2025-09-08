@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T18:16:53.395159+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T17:30:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/A4riY3RG_bw\" width=\"480\" alt=\"thumbnail\" title=\"It's Easy To Learn Arch Linux, Just Do It\" /></p>Whether you want to learn how to use Arch Linux, Gentoo or Ubuntu Linux learning a Linux distro is going to have some shared ideas and the first thing you need to learn is how to learn<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter<br />\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon<br />\ud83d\udda5\ufe0f GitHub",
+        "id": 3517299,
+        "language": "en",
+        "link": "https://odysee.com/it%27s-easy-to-learn-arch-linux%2C-just-do:71e6f6e3d4d730cf4ac81a2a702d0b1c4ada5bbe",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/A4riY3RG_bw",
+        "title": "It's Easy To Learn Arch Linux, Just Do It",
+        "vote": 0
+    }
+]

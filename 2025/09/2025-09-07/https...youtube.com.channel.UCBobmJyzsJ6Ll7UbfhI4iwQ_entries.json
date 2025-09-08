@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-07T14:48:35.327488+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-07T14:01:19+00:00",
+        "description": "In this session recorded at Unreal Fest Orlando 2025, Daniel Orozco of Sony Pictures Imageworks explores the exciting results the company has achieved via Python integration with Unreal Engine\u2019s Sequencer. \n\nDespite the creative nature of content creation in a VFX environment, users often go through repetitive actions to achieve their artistic vision. After manually doing processes in Sequencer like splitting subsequences, binding several tracks to the same camera, or inserting a shot in the middle of the sequence, a question arises: \"Could this be done with a tool?\" Thanks to Unreal's Python integration, the answer is, \"Yes!\" \n\nThis session covers some of the tools Sony Pictures Imageworks developed for layout work in Unreal's Sequencer, such as prototyping and iterating tools. It also presents common concepts and considerations for optimizing the artist's workflow while still complying with the studio pipeline.\n\nFind out more about Sequencer in Unreal Engine here: dev.epicgames.com/",
+        "id": 3516147,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=moQTQzAOFVA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/moQTQzAOFVA/hqdefault.jpg",
+        "title": "Automate and Expand Sequencer\u2019s Functionality with Python | Unreal Fest Orlando 2025",
+        "vote": 0
+    }
+]
