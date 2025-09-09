@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T23:22:45.512169+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T22:45:00+00:00",
+        "description": "Find the eGPU on Amazon :  https://lon.tv/z79bq and the PC: https://lon.tv/4eil5  (compensated affiliate links) - In a follow-up to my last gaming on Linux video, I take a look at performance using an AMD GPU vs. the Nvidia GPU we tried in our last video. Learn more about Oculink - https://www.youtube.com/playlist?list=PLCZHp4d1HnItjakNpg7ufmyyLEjljOQbg  and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:30 - System Configuration\n01:57 - Cyberpunk 2077 Performance\n03:54 - No Man's Sky\n04:28 - Red Dead Redemption 2 Compatibility Issue\n04:51 - Terminator Resistance\n05:52 - Return of Steam Machines?\n06:23 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/amazonshop\n\nJoin the Facebook group to connect with me and other viewers!",
+        "id": 3527214,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6wxT6D0lYk4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6wxT6D0lYk4/hqdefault.jpg",
+        "title": "Linux Gaming is Much Better on AMD Radeon..",
+        "vote": 0
+    }
+]

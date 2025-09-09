@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T05:53:47.439713+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T05:26:57+00:00",
+        "description": "Kickstarter recently featured the Photonicat 2, a portable ARM-based computer aimed at travelers, vehicle setups, and homelab users needing reliable connectivity and long runtime. Building on the original Photonicat launched two years ago, the new model delivers higher performance, extended battery life, and added flexibility while staying fully open-source. Photonicat 2 is built around the [&#8230;]",
+        "id": 3520037,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/photonicat-2-portable-arm-computer-with-5g-nvme-and-24-hour-battery-life",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Photonicat 2 Portable ARM Computer with 5G, NVMe, and 24-Hour Battery Life",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T13:55:15.877572+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T08:00:00+00:00",
+        "description": "<p><span>\n\nWe planned to trial </span>\n\n<a href=\"https://blog.bidadance.org/2025/08/trialing-far-uvc-and-glycol-vapors.html\">far\nUVC and glycol vapors</a> at the BIDA contra dance last night: these\nare two options (beyond masks and ventilation) for reducing infectious\naerosol inhalation.  Both worked without issues.\n\n\n\n<p>\n\nI set up the far UVC <a href=\"https://aerolamp.net/\">Aerolamp</a> on\nthe stage, slightly angled down, primarily aiming to clear the air\nabove the dancers:\n\n</p>\n\n<p>\n\n<a highlight href=\"https://www.jefftk.com/far-uvc-at-bida-2025-09-07-big.jpg\"><img src=\"https://www.jefftk.com/far-uvc-at-bida-2025-09-07.jpg\" width=\"550\" height=\"228\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:41.5vw;\" srcset=\"https://www.jefftk.com/far-uvc-at-bida-2025-09-07.jpg 550w,https://www.jefftk.com/far-uvc-at-bida-2025-09-07-2x.jpg 1100w\"><div style=\"height:min(41.5vw, 228px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nAnd the glycol vapor, <a href=\"https://www.j",
+        "id": 3522726,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/glycol-far-uvc-and-cfm-measurement-at-bida",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/far-uvc-at-bida-2025-09-07.jpg",
+        "title": "Glycol, Far UVC, and CFM Measurement at BIDA",
+        "vote": 0
+    }
+]

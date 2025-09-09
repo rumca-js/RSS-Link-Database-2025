@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T15:44:32.910553+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T15:03:28+00:00",
+        "description": "<p><img width=\"1200\" height=\"676\" src=\"https://9to5linux.com/wp-content/uploads/2025/09/k22a.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Kodi 22 Piers\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/09/k22a.webp?w=1200&amp;ssl=1 1200w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/09/k22a.webp?resize=445%2C250&amp;ssl=1 445w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /></p>\n<p>Kodi 22 \"Piers\" open-source media center is now available for public testing promising HDR on Wayland support for Linux systems and many other new features and improvements. Here's what to expect!</p>\n<p>The post <a href=\"https://9to5linux.com/kodi-22-piers-promises-hdr-passthrough-on-opengl-and-hdr-on-wayland\">Kodi 22 &#8220;Piers&#8221; Promises HDR Passthrough on OpenGL and HDR on Wayland</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This",
+        "id": 3523619,
+        "language": "en-US",
+        "link": "https://9to5linux.com/kodi-22-piers-promises-hdr-passthrough-on-opengl-and-hdr-on-wayland",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/09/k22a.webp",
+        "title": "Kodi 22 \u201cPiers\u201d Promises HDR Passthrough on OpenGL and HDR on Wayland",
+        "vote": 0
+    }
+]

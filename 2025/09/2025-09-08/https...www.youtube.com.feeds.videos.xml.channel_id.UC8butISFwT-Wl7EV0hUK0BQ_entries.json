@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T16:02:52.168720+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T14:50:28+00:00",
+        "description": "This course provides a comprehensive guide to submitting your iOS application to the App Store. You'll master the manual submission process, from registering your app ID and managing development devices to generating the necessary certificates and provisioning profiles. The tutorial then introduces the power of CI/CD by teaching you how to automate your build, testing, and distribution pipelines using Xcode Cloud and GitHub. \n\n\u270f\ufe0f Course from @mobidevtalk \n\n\u2b50\ufe0f Course Contents \u2b50\ufe0f\n- 0:00:00 Course Introduction\n- 0:01:49 Demystifying the Submission Process\n- 0:03:11 Understanding and Creating an App ID\n- 0:07:15 Registering Devices for Testing\n- 0:10:41 Certificates Explained (Development vs. Distribution)\n- 0:17:26 How to Create a Certificate Signing Request (CSR) & Certificate\n- 0:21:39 Installing Certificates & Fixing the \"Not Trusted\" Issue\n- 0:24:02 What is a Provisioning Profile?\n- 0:25:00 Creating a Development Provisioning Profile\n- 0:27:28 Editing Profiles & Using Them in Xcode\n-",
+        "id": 3523820,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9vkkJ4tC4SQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9vkkJ4tC4SQ/hqdefault.jpg",
+        "title": "iOS App Store Submission Tutorial",
+        "vote": 0
+    }
+]

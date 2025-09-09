@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T08:55:53.958088+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T08:55:53+00:00",
+        "description": "Uczestnicy b\u0119d\u0105 wypowiada\u0107 si\u0119 na tematy takie, jak m.in.: edukacja dla bezpiecze\u0144stwa, edukacja obywatelska, wczesnoszkolna, etyka, historia, informatyka, j\u0119zyki (polski, obce, mniejszo\u015bci), matematyka, muzyka, plastyka, zaj\u0119cia praktyczno-techniczne, edukacja przedszkolna oraz dla uczni\u00f3w z niepe\u0142nosprawno\u015bci\u0105 intelektualn\u0105.",
+        "id": 3520769,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/prawo-oswiatowe/art42973611-ibe-zaprasza-do-wysluchania-publicznego-i-zbierania-opinii-na-temat-nowych-podstaw-programowych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "IBE zaprasza do wys\u0142uchania publicznego i zbierania opinii na temat nowych podstaw programowych",
+        "vote": 0
+    }
+]

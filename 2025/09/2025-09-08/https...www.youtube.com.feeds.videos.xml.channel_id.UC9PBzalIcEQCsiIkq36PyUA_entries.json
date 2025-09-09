@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T15:21:11.294672+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T14:56:25+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nIn the latest DF Direct, we finally get some idea of Switch 2's ray tracing capabilities via Star Wars Outlaws - and the team likes what they see. Meanwhile, details emerge of just how much slower Switch 2 carts are compared to internal storage and MicroSD Express - and it's a touch concerning. A reported storage downgrade for PlayStation 5 isn't exactly great news, and neither is the final death of Perfect Dark - but 007 First Night and Hollow Knight: Silksong have much to commend them.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n0:00:00 Introduction \n0:01:06 News 1: Star Wars Outlaws impresses on Switch 2!\n0:23:58 News 2: Switch 2 carts are too slow for Star Wars Outlaws\n0:34:43 News 3: Report: PS5 Digital to get storage downgrade \n0:44:19 News 4: 007 First Light gameplay debuts \n1:0",
+        "id": 3523364,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TMWPIT7F5e4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TMWPIT7F5e4/hqdefault.jpg",
+        "title": "DF Direct Weekly #230: Switch 2 Ray Tracing - Finally! Hollow Knight: Silksong, 007 First Light!",
+        "vote": 0
+    }
+]

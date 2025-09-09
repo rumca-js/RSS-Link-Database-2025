@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T15:37:23.932653+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T14:40:28+00:00",
+        "description": "Check out Equinix and learn more about how they power the internet: https://eqix.it/4gioy31\n\nWhat if I told you the world\u2019s biggest companies don\u2019t use the internet like you and me? Instead, they connect directly to each other inside some of the most secure and connected buildings on earth. Today, we\u2019re going inside one of those places, the legendary Dallas infomart and Equinix DA11, where billions of dollars of equipment, AI GPUs, and the backbone of the internet lives.\n\n\nTIMESTAMPS:\n0:00 - Intro / The Internet Lives Here\n0:40 - Why Getting Inside is SO Hard\n1:30 - The Dreaded Man Trap\n2:18 - We're Not Allowed to Walk Alone\n3:04 - Finally Entering the Data Center\n5:26 - What's Hiding in Those Server Cages?\n7:30 - Cooling & Power\n9:15 - The Generator Yard (Heartbeat of the Building)\n9:47 - Bypassing the Internet\n13:47 - Equinix Fabric\n17:06 - The People Who Make it All Work\n\n\n\n\ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy \n\n\n\n**Sponsored by Equinix\n\n\n\n\n\n\n\nSUPPORT NETWORK",
+        "id": 3523517,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=v477fvbj3rk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v477fvbj3rk/hqdefault.jpg",
+        "title": "THIS Is Where the Internet Lives",
+        "vote": 0
+    }
+]

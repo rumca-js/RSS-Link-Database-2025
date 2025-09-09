@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T13:43:22.118493+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T13:01:13+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/eFRzRsWTXPk\" width=\"480\" alt=\"thumbnail\" title=\"Doom Emacs And Creating A Literate Config\" /></p>I recently switched back to Doom Emacs and I'm in the early stages of configuring it.  In this video, I configure variable font sized Org headers, set eshell as the initial buffer when I launch emacs, and convert my config.el over to a literate config.org.<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube<br />\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/<br />\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2<br /><br />FREE AND OPEN SOURCE SOFTWARE THAT I LIKE:<br />\ud83c\udf10 Brave Browser - htt",
+        "id": 3522622,
+        "language": "en",
+        "link": "https://odysee.com/doom-emacs-and-creating-a-literate:a38d21edd4a9db7f54a4183ed98513db7b709448",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/eFRzRsWTXPk",
+        "title": "Doom Emacs And Creating A Literate Config",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T16:15:57.421307+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T16:15:56+00:00",
+        "description": "Samorz\u0105dowcy przygl\u0105daj\u0105 si\u0119 propozycjom dochod\u00f3w zapisanych dla lokalnych spo\u0142eczno\u015bci w projekcie bud\u017cetu na 2026 r. Podkre\u015blaj\u0105 jednak, \u017ce niezb\u0119dna jest realna zmiana sposobu finansowania o\u015bwiaty i zakresu samorz\u0105dowej odpowiedzialno\u015bci za ni\u0105.",
+        "id": 3523899,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/budzet/art42966321-nowy-budzet-panstwa-stare-i-wciaz-nierozwiazane-problemy-samorzadow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowy bud\u017cet pa\u0144stwa, stare i wci\u0105\u017c nierozwi\u0105zane problemy samorz\u0105d\u00f3w",
+        "vote": 0
+    }
+]

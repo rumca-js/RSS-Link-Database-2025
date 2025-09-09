@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T18:22:07.920705+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T17:00:31+00:00",
+        "description": "Science can help solve the world\u2019s most important problems, and what could be more important than keeping pee off your shoes? Yes, even the lowly urinal\u2014and those who use it\u2014can benefit from the occasional peer-reviewed study. So let\u2019s take a look at the science of urinals, and how folks are trying to make them better.\n\nHosted by: Reid Reimers (he/him)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Eric Jensen, David Johnston, Alan Wong, Cye Stoner, Bethany Matthews, Adam Brainard, Friso, Matt Curls, Chris Mackey, Garrett Galloway, J.V. Rosenbalm, Toyas Dhake, Reed Spilmann, Jeremy Mattern, Jaap Westera, Chris Curry, Blood Doctor Kelly, Lyndsay Brown, Kevin Beale",
+        "id": 3525007,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=I9PBB6xrOJU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I9PBB6xrOJU/hqdefault.jpg",
+        "title": "Scientists Have Found the Perfect Urinal Shape",
+        "vote": 0
+    }
+]

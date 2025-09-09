@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T22:07:49.707013+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T21:20:40+00:00",
+        "description": "Shader Graph Wizard @BenCloward is back to showcase MORE new Shader Graph features coming with Unity 6.3!\n\nJoin live to be the first to learn about creating stylized lighting and how you can break up terrain tiling, all in Shader Graph!\n\nCheck out Ben's shortform Shader tutorials: http://youtube.com/@UCoG9TB1eL6dm9eNbLFueHBQ",
+        "id": 3526736,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=g6klJzqnlus",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g6klJzqnlus/hqdefault.jpg",
+        "title": "NEW Unity 6.3 Shader Graph Features - Custom Lighting Shaders & Shaders for Terrain",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Wizards with Guns",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T00:57:12.338516+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T00:00:43+00:00",
+        "description": "Our Patreon: https://www.patreon.com/wizardswithguns\nOur Merch: https://wizardswithguns.shop\nSubReddit: https://www.reddit.com/r/WizardsWithGuns/\nInsta: @wizardswithguns @frankst.john\nTwitter: @WWG_TV\nTikTok: wizardswithguns\n\n\"Are you tired of Grandma and Grandpa just lying around, underground, doing JACK SQUAT? Well, here at Dale's Taxidermy Solutions, we believe loved ones should stick around a little longer... FOREVER.\"\n\nWritten and Directed by:\nFrank St. John and Michael Romaniello\n\nProduction Assistance & Cinematography by:\nSabrina Perez & Leah Romaniello\n\nSpecial thanks to Beachside Retro in Cocoa Beach!\n\n#wizards #comedy #sketchcomedy",
+        "id": 3519039,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DGvmeul2KoA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 746,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJxmjbygyA5KEdzzZv6Pbw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DGvmeul2KoA/hqdefault.jpg",
+        "title": "I taxidermied my grandpa.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "EMMA TAGGART",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T18:17:03.882818+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T17:24:33+00:00",
+        "description": "Argentina\u2019s bonds fall sharply after Milei election drubbing",
+        "id": 3524935,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/09/08/oil-prices-rise-market-supply-glut",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Argentina\u2019s bonds fall sharply after Milei election drubbing",
+        "vote": 0
+    }
+]

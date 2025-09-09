@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xbox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T13:42:06.144310+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T13:00:30+00:00",
+        "description": "Karma is coming to Xbox on September 10th 2025 - with an exclusive green Xbox filter mode!\n\nKarma: the Dark World is a first-person cinematic psychological horror title where players will be investigating the deepest secrets of their suspects\u00ed minds.\n\nSet in an alternate timeline where post-war Germany has fallen into a dystopian state, ruled over by the Leviathan Corporation using mass surveillance and mind bending technology - what starts out as another case for Roam Agent Daniel McGovern, sees him uncover a world of deceit and betrayal, where he begins to doubt everything he knows, including his own identity. \n\nInspired by the works of visionary creators such as David Lynch (Twin Peaks), Hideo Kojima (Metal Gear Solid, Death Stranding), and Christopher Nolan (Inception, Interstellar), KARMA: The Dark World pushes the boundaries of immersive storytelling. Developed in Unreal Engine 5, the game promises to deliver a gripping and visually stunning experience.\n\nhttps://www.xbox.com/gam",
+        "id": 3522613,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9T1kBDBjo40",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 577,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9T1kBDBjo40/hqdefault.jpg",
+        "title": "KARMA: The Dark World | Xbox Launch Trailer",
+        "vote": 0
+    }
+]

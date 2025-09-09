@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T21:25:09.205083+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T21:04:16+00:00",
+        "description": "Click this link https://sponsr.is/bootdev_bellularnews and use my code BELLULARNEWS to get 25% off your first payment for boot.dev. Sponsored by Boot.Dev.\n\n98,000 people were playing a nine-year-old game last week. And here's the thing - Hello Games hadn't even released their new expedition for No Man's Sky yet. How can a studio keep releasing whole new mechanics and systems for free? Here's the secret. They're not. You're just not seeing the cost yet.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 New Peaks\n01:45 No More Engoodening. (It's Good Now!)\n03:32 This Changes Everything\n05:44 Let Us Pay You, Sean!\n07:43 Everything Reworked\n09:57 Play Now, Pay Later\n\nSources:\nhttps://x.com/NoMansSky/status/1962181779231576561\n\nhttps://x.com/NoMansSky/status/1962598264387108899\n\nhttps://steamdb.info/app/275850/charts/#1w\n\nhttps://www.youtube.com/watch?v=qHZLz1MW0aE\n\nhttps://www.nomanssky.com/voyagers-update/\n",
+        "id": 3526429,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jxxRXe1hRjQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jxxRXe1hRjQ/hqdefault.jpg",
+        "title": "No Man's Sky Treated Players Right, Now It's Unstoppable",
+        "vote": 0
+    }
+]

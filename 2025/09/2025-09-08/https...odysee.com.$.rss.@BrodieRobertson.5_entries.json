@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-08T18:27:53.199412+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-08T17:30:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/M0WsfwcMc7k\" width=\"480\" alt=\"thumbnail\" title=\"The Biggest Failure Of Every Linux Organization\" /></p>Most big linux projects have some sort of non-profit behind them but like a lot of other non-profits in the tech space they have a kind of failing in providing information to the donor.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Blog Post: https://mitchellh.com/writing/advice-for-tech-nonprofits<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord",
+        "id": 3525056,
+        "language": "en",
+        "link": "https://odysee.com/the-biggest-failure-of-every-linux:b7cebc5f86c91e4dac3ba08c33e879d2aad4583d",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/M0WsfwcMc7k",
+        "title": "The Biggest Failure Of Every Linux Organization",
+        "vote": 0
+    }
+]
