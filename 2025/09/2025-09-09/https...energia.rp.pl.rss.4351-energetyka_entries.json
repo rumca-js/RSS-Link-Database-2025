@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T16:53:13.574374+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T16:53:12+00:00",
+        "description": "Po prezydenckich wetach rz\u0105d przyj\u0105\u0142 nowe wersje projekt\u00f3w ustaw dotycz\u0105ce mro\u017cenia cen energii oraz o zapasach ropy i gazu. Projekt dotycz\u0105cy mro\u017cenia cen energii zosta\u0142 wzbogacony tak\u017ce o bony ciep\u0142ownicze. Tego elementu nie zawiera\u0142 projekt prezydencki dot. mro\u017cenia cen energii z\u0142o\u017cony pod koniec sierpnia.",
+        "id": 3533347,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ceny-energii/art42982611-rzad-wraca-z-mrozeniem-cen-energii-juz-bez-wiatrakow-ale-z-bonem-cieplowniczym",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rz\u0105d wraca z mro\u017ceniem cen energii. Ju\u017c bez wiatrak\u00f3w, ale z bonem ciep\u0142owniczym",
+        "vote": 0
+    }
+]

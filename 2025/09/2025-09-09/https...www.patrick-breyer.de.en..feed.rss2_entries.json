@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Breyer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T12:13:48.603250+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T12:11:25+00:00",
+        "description": "<p><strong>Over 500 of the world\u2019s leading cryptographers, security researchers, and scientists from 34 countries have today delivered a devastating verdict on the EU\u2019s proposed &#8220;Chat Control&#8221; regulation. An <a href=\"https://csa-scientist-open-letter.org/Sep2025\">open letter</a> <span >\u2026</span></strong></p>",
+        "id": 3530882,
+        "language": "en-GB",
+        "link": "https://www.patrick-breyer.de/en/danger-to-democracy-500-top-scientists-urge-eu-governments-to-reject-technically-infeasible-chat-control",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 249,
+        "source_url": "https://www.patrick-breyer.de/en/?feed=rss2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2018Danger to Democracy\u2019: 500+ Top Scientists Urge EU Governments to Reject \u2018Technically Infeasible\u2019 Chat Control",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T18:32:17.620667+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T17:06:26+00:00",
+        "description": "Get 20% off Mobbin Pro to make your apps not ugly - https://mobbin.com/fireship\n\nYesterday, npm got rocked by a record-breaking exploit which created a domino effect across the entire JavaScript ecosystem. In today's video, we'll take a look at exactly what went down.\n\n#coding #programming #tech #npm \n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n- https://socket.dev/blog/npm-author-qix-compromised-in-major-supply-chain-attack\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- npm exploit\n- qix npm hack\n- phishing\n- crypto attack\n- Levenshtein Distance Algorithm",
+        "id": 3534258,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QVqIx-Y8s-s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QVqIx-Y8s-s/hqdefault.jpg",
+        "title": "The largest supply-chain attack ever\u2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T19:40:53.479525+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T19:40:52+00:00",
+        "description": "Koncern z Cupertino zaprezentowa\u0142 cztery warianty iPhone\u2019a, w tym ultra-cienki model Air, zegarki Apple Watch Series 11, SE 3 i Ultra 3, a tak\u017ce AirPods Pro 3. Sprz\u0119ty debiutuj\u0105 z zaawansowanymi funkcjami AI i autorskimi chipami.",
+        "id": 3534852,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42984431-apple-pokazal-iphone-a-17-kiedy-i-w-jakiej-cenie-trafi-do-sprzedazy-w-polsce",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple pokaza\u0142 iPhone\u2019a 17. Kiedy i w jakiej cenie trafi do sprzeda\u017cy w Polsce?",
+        "vote": 0
+    }
+]

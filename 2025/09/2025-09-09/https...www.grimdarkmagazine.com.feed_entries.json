@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adrian Collins",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T05:20:17.055866+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T04:19:49+00:00",
+        "description": "<p>Grimdark Magazine had the absolute honour of hosting the exclusive cover reveal for Anderson Versus Death\u00a0written by our ridiculously talented friend Anna Smith Spark back in May. I was then lucky enough to get my hands on an advanced copy of the novel. It was my first experience stepping in to the off screen world [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/exclusive-extract-from-anderson-versus-death-by-anna-smith-spark/\">EXCLUSIVE: Extract from Anderson Versus Death by Anna Smith Spark</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 3528575,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/exclusive-extract-from-anderson-versus-death-by-anna-smith-spark",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/07/anderson-versus-death-9781837865918_hr-194x300.jpg",
+        "title": "EXCLUSIVE: Extract from Anderson Versus Death by Anna Smith Spark",
+        "vote": 0
+    }
+]

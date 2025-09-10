@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T18:21:54.058167+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T17:33:41+00:00",
+        "description": "A new initiative called Hackabone has been launched with the goal of providing more accessible Embedded Linux training. Created by long-time Embedded and real-time Linux instructor Alejandro Lucero, the project combines detailed documentation with a web-based emulation framework centered around the BeagleBone Black single-board computer. The project name, short for &#8220;Hack-a-Bone,&#8221; reflects its emphasis on [&#8230;]",
+        "id": 3534195,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/hackabone-project-offers-beaglebone-based-embedded-linux-training-with-emulated-framework",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hackabone Project Offers BeagleBone-Based Embedded Linux Training with Emulated Framework",
+        "vote": 0
+    }
+]

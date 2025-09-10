@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T16:44:42.367503+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T15:59:35+00:00",
+        "description": "<p>Przedstawiamy atak na \u0142a\u0144cuch dostaw, kt\u00f3ry mia\u0142 wstrz\u0105sn\u0105\u0107 \u015bwiatem, ale na szcz\u0119\u015bcie sta\u0142 si\u0119 tylko bolesnym przypominieniem, jak du\u017co trzeba jeszcze zrobi\u0107 w kontek\u015bcie bezpiecze\u0144stwa zale\u017cno\u015bci. </p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05/\">&#8222;Tak, zhakowali mnie, przepraszam&#8221; &#8211; czyli &#8222;najwi\u0119kszy&#8221; atak na \u0142a\u0144cuch dostaw (z phishingiem w tle) &#8211; straty wyceniono na $20.05</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3533246,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/tak-zhakowali-mnie-przepraszam-czyli-najwiekszy-atak-na-lancuch-dostaw-z-phishingiem-w-tle-straty-wyceniono-na-20-05",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201eTak, zhakowali mnie, przepraszam\u201d \u2013 czyli \u201enajwi\u0119kszy\u201d atak na \u0142a\u0144cuch dostaw (z phishingiem w tle) \u2013 straty wyceniono na $20.05",
+        "vote": 0
+    }
+]

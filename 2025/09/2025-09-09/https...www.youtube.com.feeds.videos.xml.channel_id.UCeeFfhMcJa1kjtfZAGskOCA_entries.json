@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechLinked",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T04:37:51.506383+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T03:34:45+00:00",
+        "description": "Get a free 15-day trial of Odoo\u2019s all-in-one business solution and see how it can make your life easier! Check it out at https://www.odoo.com/r/mFDe \n\nNEWS SOURCES: [https://lmg.gg/sYvNj\n\n\u25ba GET MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba GET A VPN: https://www.piavpn.com/TechLinked\n\u25ba LISTEN TO THE TECH NEWS: https://lmg.gg/TLPodcast\n\u25ba SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\u25ba OUR PODCAST GEAR: https://lmg.gg/podcastgear\n\n---------------------------------------------------\nTimestamps:\n0:00 tech shouldn't really smell like anything\n0:11 Google admits web in \"rapid decline\"\n1:56 Anthropic copyright settlement for $1.5B\n3:09 Damaged undersea cables cause chaos\n4:17 Odoo!\n4:59 QUICK BITS INTRO\n5:12 Neuralink wants 'telekinesis' trademark\n6:09 Amazon Project Kuiper test, JetBlue deal\n6:51 Microsoft releases 6502 BASIC open-source\n7:36 Silksong Chinese version bad, apparently",
+        "id": 3528423,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WLTQn-tcbn0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 326,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WLTQn-tcbn0/hqdefault.jpg",
+        "title": "Google Admits It: The Web is in Trouble",
+        "vote": 0
+    }
+]

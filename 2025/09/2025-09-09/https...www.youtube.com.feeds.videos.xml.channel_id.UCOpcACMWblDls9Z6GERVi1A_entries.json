@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Screen Junkies",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T17:32:48.370495+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T17:00:32+00:00",
+        "description": "All right you snot-nosed little ingrates, it\u2019s detention time, and we\u2019re watching the Honest Trailer for The Breakfast Club on repeat! Enjoy being locked in the library all day with 5 teenage stereotypes complaining about being stereotyped! Yeah it\u2019s a little dated, but just be glad John Hughes didn\u2019t write it today or it\u2019d be 90 minutes of them slack-jawed scrolling on their phones. \n\nIf you\u2019re still reading, comment below with \u201cEmiliooooo\u201d\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert and Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #trailer #breakfastclub #1980s",
+        "id": 3533697,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=K4Ny8G2qekE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 296,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K4Ny8G2qekE/hqdefault.jpg",
+        "title": "Honest Trailers | The Breakfast Club",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Universal Pictures",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T19:44:17.341781+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T19:00:57+00:00",
+        "description": "Mike (Robert De Niro) quietly returns home from Vietnam and reconnects with Linda (Meryl Streep), both changed by the war and the absence of Nick.\n\nBuy/Rent The Deer Hunter:\nAmazon: https://www.amazon.com/Deer-Hunter-Robert-Niro/dp/B01N0P6A8Y\niTunes: https://itunes.apple.com/us/movie/the-deer-hunter/id1174102590\nYouTube Movies: https://www.youtube.com/watch?v=3aED2kxM2qM\nGoogle Play: https://play.google.com/store/movies/details/Deer_Hunter?id=3aED2kxM2qM&hl=en_US\nFandango Now: https://www.fandangonow.com/details/movie/the-deer-hunter-1978/MMVE09DA7EACDAC5C6AC519E111734A99734\nVUDU: https://www.vudu.com/content/movies/details/The-Deer-Hunter/4805\nUniversal Pictures Home Entertainment: https://www.uphe.com/movies/the-deer-hunter\n\nSynopsis:\nWinner of five Academy Awards\u00ae, including Best Picture and Best Director, and one of AFI's Top 100 Films of All Time, The Deer Hunter follows a group of Pennsylvania steelworkers from their blue-collar lives, hunting in the woods of the Alleghenies, to",
+        "id": 3534897,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yclEgsr8NzQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 598,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yclEgsr8NzQ/hqdefault.jpg",
+        "title": "The Deer Hunter | Mike Comes Home to Linda (Robert De Niro, Meryl Streep)",
+        "vote": 0
+    }
+]

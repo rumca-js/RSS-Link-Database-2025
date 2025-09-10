@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T22:28:35.768387+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T22:01:03+00:00",
+        "description": "Candys Cooking, a name I haven't thought of in quite some time. Until a few weeks ago, when she called me out to a cook off. Lets make it happen Candy.\n\nprevious video: https://www.youtube.com/watch?v=iOZ9H1lFf08\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 3536097,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=r7td5OoV0Ks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r7td5OoV0Ks/hqdefault.jpg",
+        "title": "I've Been Called Out..",
+        "vote": 0
+    }
+]

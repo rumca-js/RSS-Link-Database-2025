@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T19:45:13.610063+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T19:00:47+00:00",
+        "description": "Should you be polite to robots? Political strategist Bradley Tusk and roboticist Ali Kashani explore how new technology is poised to make your life easier \u2014 from voting on your phone to having a robot deliver your lunch. They discuss the best ways to use technology to meet people where they are and the challenges that come with disrupting the status quo.",
+        "id": 3534905,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/l5aRf9wj3wg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l5aRf9wj3wg/hqdefault.jpg",
+        "title": "Humans are kinder \u2013 and robots are more reliable \u2013 than we think! #TEDTalks",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T11:30:41.917089+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T11:01:38+00:00",
+        "description": "Ready to become a certified z/OS System Operator? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdeGA6\n\nLearn more about Data Center Optimization here \u2192 https://ibm.biz/Bdeaiq\n\n\u2699\ufe0f Rising cloud costs and energy demands are reshaping data center strategies. Joy Deng explores how energy efficiency, workload consolidation, and cloud repatriation optimize infrastructure performance while ensuring scalability and resilience. Learn practical steps to transform your data center into a cost-efficient, high-performing system!\n\nSign up for a monthly newsletter for Cloud updates from IBM \u2192 https://ibm.biz/Bdeaiy\n\n#datacenter #energyefficiency #cloud",
+        "id": 3530540,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=slEPd5qb98U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/slEPd5qb98U/hqdefault.jpg",
+        "title": "Optimizing Data Centers: Energy Efficiency & Cloud Repatriation Strategies",
+        "vote": 0
+    }
+]

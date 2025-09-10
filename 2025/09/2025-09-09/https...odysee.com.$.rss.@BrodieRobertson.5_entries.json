@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-09T19:30:16.648636+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-09T17:30:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/-8ZCu5uaI5s\" width=\"480\" alt=\"thumbnail\" title=\"Ubuntu Linux Just Annoyed A Lot Of People\" /></p>Just the other day the moderators on the Ubuntu forum decided to create a bit of a problem for Canonical and decided to remove some text from an introduction that lit the Linux community of fire.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Mastodon Thread: https://bark.lgbt/@gimmechocolate/115164408860865811<br />Thread: https://discourse.ubuntu.com/t/lukas-here-hello-to-all/66658<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />====",
+        "id": 3534746,
+        "language": "en",
+        "link": "https://odysee.com/ubuntu-linux-just-annoyed-a-lot-of:1ff9c42bdbcaeeb88acd4bc01bd3217f589aadfd",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/-8ZCu5uaI5s",
+        "title": "Ubuntu Linux Just Annoyed A Lot Of People",
+        "vote": 0
+    }
+]
