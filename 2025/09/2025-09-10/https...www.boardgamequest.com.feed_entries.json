@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bailey Dunn",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T13:28:16.415823+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T12:55:24+00:00",
+        "description": "<img width=\"640\" height=\"908\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-722x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Concordia\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-722x1024.jpg 722w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-212x300.jpg 212w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-106x150.jpg 106w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-768x1089.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-1083x1536.jpg 1083w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-1444x2048.jpg 1444w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-640x908.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-1280x18",
+        "id": 3540873,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/concordia-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/08/Concordia-722x1024.jpg",
+        "title": "Concordia Review",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T03:57:36.401169+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T03:29:34+00:00",
+        "description": "The SpecFive Strike is a handheld Linux workstation with integrated LoRa mesh networking. Built on the Raspberry Pi Compute Module 4 and a custom SpecFive carrier board, it targets developers, makers, hackers, and off-grid communicators by combining Linux computing, wireless connectivity, and portability. The device comes in a PETG enclosure featuring a 4.3-inch touchscreen and [&#8230;]",
+        "id": 3537608,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/specfive-strike-handheld-linux-workstation-with-lora-mesh",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SpecFive Strike Handheld Linux Workstation with LoRa Mesh",
+        "vote": 0
+    }
+]

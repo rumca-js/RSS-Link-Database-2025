@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T18:50:22.768721+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T17:30:14+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/vxajcHaLp4I\" width=\"480\" alt=\"thumbnail\" title=\"Thank You Linus Tech Tips\" /></p>The other week I put out a video on the algorithm changes to Youtube that appear to be culling both VOD views and livestream viewers whilst not effecting overall revenue, the problem is Youtube hasn't explained what is going on but now people are discovering the video I put out on the problem<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />LTT Video: https://youtu.be/KqCV6Rk8kOA<br />SecondWind Video: https://youtu.be/cpVnx4_yqTo<br />DarkViper Video: https://youtu.be/zjphsaR75Jk<br />Ludwig Video: https://youtu.be/jOA5zf2hXXI<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierober",
+        "id": 3543786,
+        "language": "en",
+        "link": "https://odysee.com/thank-you-linus-tech-tips:47cbd797cda10088c24380fc379504dcc2360d77",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/vxajcHaLp4I",
+        "title": "Thank You Linus Tech Tips",
+        "vote": 0
+    }
+]

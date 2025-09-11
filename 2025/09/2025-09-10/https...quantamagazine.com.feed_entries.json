@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "George Musser",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T15:26:58.298002+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T14:00:38+00:00",
+        "description": "In cellular automata, simple rules create elaborate structures. Now researchers can start with the structures and reverse-engineer the rules.             <p>The post <a href=\"https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/\" target=\"_blank\">Self-Assembly Gets Automated in Reverse of \u2018Game of Life\u2019</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3541258,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/09/Neural-Cellular-Automata-cr-Michael-Waraksa-Default.webp",
+        "title": "Self-Assembly Gets Automated in Reverse of \u2018Game of Life\u2019",
+        "vote": 0
+    }
+]

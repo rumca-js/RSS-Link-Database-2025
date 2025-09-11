@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Dlargo1",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T00:36:12.993704+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T00:18:30+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Good day all,</p> <p>Just a question out of curiosity. Within Unraid I am running the typical media stack and SABNZB. The system is built around an Intel 12400, 16GB ram, 1 x 256GB ssd cache for apps and a 2TB ssd cache for media storage before it hits the array. All works as it should. My question is will the nzb unpacking process benefit from a processor upgrade as I have a 13600FK with an Intel ARC A310 waiting to go somewhere. </p> <p>They system overall works well and sips power, but if the processing of files can benefit from an upgrade. then a bit more power would be fine.</p> <p>Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dlargo1\"> /u/Dlargo1 </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1nczou2/sabnzb_and_cpu/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1nczou2/sabnzb_and_cpu/\">[comments]</a></span>",
+        "id": 3536832,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1nczou2/sabnzb_and_cpu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SABNZB and CPU",
+        "vote": 0
+    }
+]

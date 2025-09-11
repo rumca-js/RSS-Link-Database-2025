@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Connor Makar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T15:57:10.342169+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T15:50:16+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/evo-grass-roots.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Last week, the news broke that the Saudi Arabian city project Qiddiya had <a href=\"https://www.eurogamer.net/fighting-game-players-in-uproar-after-evos-new-saudi-government-owners-calls-to-support-grassroots-events\">acquired an American talent management and brand consulting firm called RTS</a>. Now, you may not have heard of RTS, but you may have heard of the video game event it co-owns: Evo.</p> <p><a href=\"https://www.eurogamer.net/as-government-money-tightens-its-grip-on-fighting-games-the-push-back-to-grassroots-events-gains-momentum\">Read more</a></p>",
+        "id": 3541904,
+        "language": "en",
+        "link": "https://www.eurogamer.net/as-government-money-tightens-its-grip-on-fighting-games-the-push-back-to-grassroots-events-gains-momentum",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/evo-grass-roots.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "As government money tightens its grip on fighting games, the push back to grassroots events gains momentum",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Team Mapbox <hello@mapbox.com>",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T15:16:08.025024+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T09:09:05+00:00",
+        "description": "Tune in for BUILD with Mapbox \r\n \r\n\r\n We\u2019re halfway through BUILD with Mapbox 2025 <http://info.mapbox.com/MTE3LU5YSy00OTAAAAGc0u4ZoutxHAes4_7tHzqTwo6sEMg0lMv84kQHdNyBLApETB7iP0UBcXOnHkQ80EyOGEXWJRg=> and there are still 33 sessions coming up! Join the virtual event live today, Thursday, and Friday to catch:  \r\n\r\n \t- Keynotes from Kraken Technologies (Wednesday - starting in 1 hour) and Watch Duty (Friday) \t- The Art of Geospatial Storytelling: Mapbox Boundaries in Tableau (Wednesday) \t- Mapbox Search Box vs. Mapbox Geocoding (Wednesday) \t- Artificial Intelligence, Meet Location Intelligence (Wednesday) \t- Design Show and Tell Lightning Talks (Thursday) \t- +17 skills workshops on the Mapox Tiling Service, Geofencing API, Search APIs, advanced styling in Studio and more. \t- +9 guest speakers from Delivery Hero, Earthshot Labs, Viata, MIT, Lemontree, Pixonal, International Crisis Group, DataKind, and Cecilian Partners. \r\n\r\n \r\n\r\nMissed a session? All registrants can access recordings for",
+        "id": 3541053,
+        "language": null,
+        "link": "email://imap.poczta.onet.pl/winstonarmanip@op.pl/<901563889.264081838.1757513345445@abmktmail-batch1d.marketo.org>",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 621,
+        "source_url": "imap.poczta.onet.pl",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "We\u2019re Halfway Through BUILD",
+        "vote": 0
+    }
+]

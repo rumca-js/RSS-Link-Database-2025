@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy Jahns",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T16:04:13.366808+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T13:01:09+00:00",
+        "description": "It's gotten a lot of talk, chatter, and hype....And I want to talk about it before I lose myself to New Game+. Here's my review for CLAIR OBSCUR: EXPEDITION 33!\n\n#Expedition33",
+        "id": 3542057,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Y68VeiYAoKQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 164,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y68VeiYAoKQ/hqdefault.jpg",
+        "title": "Clair Obscur: Expedition 33 Is as AMAZING As You've Heard!",
+        "vote": 0
+    }
+]

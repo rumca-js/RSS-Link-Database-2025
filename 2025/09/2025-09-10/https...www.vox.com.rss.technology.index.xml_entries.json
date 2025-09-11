@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Clark Estes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T19:32:06.665813+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T14:20:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"Apple CEO Tim Cook holds up the new and very orange iPhone 17 Pro, which Mr. Beast appears to admire.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/09/GettyImages-2234532848.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tApple CEO Tim Cook holds up the new and very orange iPhone 17 Pro, which Mr. Beast appears to admire.\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Apple did something wild at its big annual new iPhone event on Tuesday: It announced a phone that\u2019s actually new. It\u2019s called the <a href=\"https://www.theverge.com/news/771942/apple-iphone-17-air-announcement\">iPhone Air</a>, and it\u2019s thin \u2014 \u201cthe thinnest iPhone ever\u201d \u2014 light, and eye-catching. Also its battery life sort of stinks.&nbsp;</p>\n\n<p class=\"has-text-align-none\">You might not want a super thin phone with crappy battery life, but that\u2019s probably not why Apple built the iPh",
+        "id": 3544179,
+        "language": "",
+        "link": "https://www.vox.com/technology/460929/apple-iphone-air-17-pro-verizon-att-tmobile-deals",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/GettyImages-2234532848.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "You\u2019re paying too much for your phone",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T03:39:15.778755+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T03:39:14+00:00",
+        "description": "Nawet w\u00a0obliczu spadaj\u0105cych st\u00f3p procentowych obligacje pozostaj\u0105 bardziej atrakcyjne ni\u017c lokaty bankowe.",
+        "id": 3537546,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/portfel-inwestycyjny/art42984461-obligacje-korporacyjne-wciaz-atrakcyjnym-wyborem-dla-inwestorow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Obligacje korporacyjne wci\u0105\u017c atrakcyjnym wyborem dla inwestor\u00f3w",
+        "vote": 0
+    }
+]

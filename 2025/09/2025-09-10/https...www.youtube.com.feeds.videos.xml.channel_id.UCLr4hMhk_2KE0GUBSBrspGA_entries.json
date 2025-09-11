@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-10T06:18:43.744621+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-10T05:00:21+00:00",
+        "description": "iPhone 17, Watch 11, AirPods 3 Pro. Co jest warte uwagi, a co mo\u017cna ola\u0107?",
+        "id": 3538183,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=PBb21EBP5kU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PBb21EBP5kU/hqdefault.jpg",
+        "title": "Nowe produkty Apple - Wszystko, co musisz wiedzie\u0107 po premierze.",
+        "vote": 0
+    }
+]
