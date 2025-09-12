@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T17:27:26.206753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T16:23:04+00:00",
+        "description": "In our latest course, learn how to build your own 3D stealth game set in a spooky haunted house!\n\nCheck out the course on Unity Learn: https://unity3d.info/haunted-house \n\nPlay our version of Haunted House on Unity Play: https://unity3d.info/play-haunted-house",
+        "id": 3550321,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cayRVMJOuVk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cayRVMJOuVk/hqdefault.jpg",
+        "title": "3D Stealth Game: Haunted House",
+        "vote": 0
+    }
+]

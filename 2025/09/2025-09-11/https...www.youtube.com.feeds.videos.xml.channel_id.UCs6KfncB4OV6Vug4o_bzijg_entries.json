@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T08:29:19.650873+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T00:03:31+00:00",
+        "description": "With global attacks on encryption, it's more important than ever to use encrypted services. In this video, I break down seven essential categories of encrypted services that everyone should know about, from password managers to secure messaging, with specific recommendations in each category. Techlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources. Discover how to protect your online data and regain control of your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\nPassword Managers:\n\u2022 KeePass: https://keepass.info/\n\u2022 Proton Pass Kickback \u2728: https://go.getproton.me/SH1Iq\n\u2022 Proton Pass: https://proton.me/pass\n\u2022 Bitwarden: https://bitwarden.com/\n\u2022 1Password Kickback \u2728: https://www.tkqlhce.com/click-100370169-15734885\n\u2022 1Password: https://1password.com/\n\nEmail:\n\u2022 Proton Mail Kickback \u2728: https://go.getproton.me/SH12O\n\u2022 Proton Mail: https://proton.me/mail\n\u2022 Tuta Kickback \u2728: https://tuta.com/?t-src=techlore\n\u2022 Tuta: https://tuta.com/\n\u2022 Startmail K",
+        "id": 3545902,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=USNy6fwJyME",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/USNy6fwJyME/hqdefault.jpg",
+        "title": "7 Essential Encrypted Services (Privacy Crash Course)",
+        "vote": 0
+    }
+]

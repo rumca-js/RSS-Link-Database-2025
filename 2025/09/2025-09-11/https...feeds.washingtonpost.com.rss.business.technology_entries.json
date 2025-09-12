@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Danielle Abril",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T16:17:22.603755+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T10:00:00+00:00",
+        "description": "More companies are cracking down on flexibility and requiring more in-office work, with some threatening consequences for noncompliance.",
+        "id": 3548892,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/business/2025/09/11/return-to-office-microsoft-mandate",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Another wave of return-to-office crackdowns is coming",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T17:28:00.400516+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T16:17:19+00:00",
+        "description": "Dive into a new Unreal Engine sample that provides a fully designed, animated, and rigged project covering a range of broadcast artist workflows. \n\nWhether you\u2019re a motion designer, a livestreamer, or just dabbling in motion graphics, this project is for you.  \n\nDownload the Sports Broadcast Motion Design Sample project on Fab: https://www.fab.com/listings/a7a18cf4-1020-4d84-921f-949b8c9233e9\nMotion Design Playlist: https://www.youtube.com/playlist?list=PLZlv_N0_O1gYGS8cv2klwuXTS3jexSJox\n\n#MotionDesign #UnrealEngine #SampleProject",
+        "id": 3550324,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LQO4Q-1CHyM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LQO4Q-1CHyM/hqdefault.jpg",
+        "title": "Sports Broadcast Motion Design Sample | Unreal Engine",
+        "vote": 0
+    }
+]

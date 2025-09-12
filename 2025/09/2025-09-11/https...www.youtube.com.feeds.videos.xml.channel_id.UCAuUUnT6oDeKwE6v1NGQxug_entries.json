@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T16:34:48.152796+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T15:46:30+00:00",
+        "description": "Does the world still need classical music? What about orchestras? In this gorgeous talk and performance, violinist Joshua Bell and the Chamber Orchestra of America play selections of classical music masterpieces \u2014 from Mozart\u2019s Symphony No. 25 to Schubert\u2019s Unfinished Symphony and more \u2014 sharing why this art form remains a singularly unifying force. (Recorded at TED2025 on April 9, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment ",
+        "id": 3549483,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UmX4M4Np43A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UmX4M4Np43A/hqdefault.jpg",
+        "title": "300 Years of Classical Music in 18 Minutes | Joshua Bell | TED",
+        "vote": 0
+    }
+]

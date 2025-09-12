@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T08:12:28.798258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T04:56:00+00:00",
+        "description": "Cena z\u0142ota ustanawia\u0142a w\u00a0ostatnich dniach rekord za rekordem. Bardzo dobrze radzi sobie r\u00f3wnie\u017c ostatnio srebro.",
+        "id": 3545433,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/inwestycje-alternatywne/art42992911-zloto-bije-rekordy-czy-cena-uncji-siegnie-4000-dolarow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Z\u0142oto bije rekordy. Czy cena uncji si\u0119gnie 4000 dolar\u00f3w?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T16:20:33.621721+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T13:00:27+00:00",
+        "description": "The 'sed' command is a very powerful shell utility that is used to filter and transform text.\n\n- Replace first instance on each line of \"old\" with \"new\" using basic regex and print to stdout:\n  command | sed 's/old/new/'\n\n- Replace \"old\" with \"new\" on all lines using basic regex and print to stdout:\n  sed 's/old/new/g' path/to/file\n\n- Replace case-insensitive \"old\" with  \"new\" on all lines and print to stdout:\n  sed 's/old/new/gi' path/to/file\n\n- Replace \"old\" with \"OLD\" on all lines using extended regex and print to stdout:\n  sed -E 's/(old)/\\U\\1/g' path/to/file\n  command | sed -E 's/(old)/\\U\\1/g'\n\n  NOTE \\U convert to uppercase; \\1 tells it to convert the first capture group of the sed command (which is \"old\").\n\n- Replace \"old\" with \"new\" in-place in a file (writes to the file!):\n  sed -i 's/old/new/g' path/to/file\n\n- Replace \"old\" with \"new\" and \"first\" with \"second\" in-place in a file (writes to the file!):\n  sed -i -e 's/old/new/g' -e 's/first/second/g' path/to/file\n\n- Print the ",
+        "id": 3549013,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=D7aDAXWi5SM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D7aDAXWi5SM/hqdefault.jpg",
+        "title": "'sed' - filter and transform text - Video Man Pages",
+        "vote": 0
+    }
+]

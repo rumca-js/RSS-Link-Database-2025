@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T16:37:41.401664+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T15:01:38+00:00",
+        "description": "To try everything Brilliant has to offer for free for a full 30 days, visit http://brilliant.org/ForrestKnight/ and get 20% off Brilliant\u2019s annual premium subscription.\n\nJava just turned 30. For a language everyone loves to roast as \u201cverbose\u201d and \u201ccorporate,\u201d it somehow powers banks, Netflix, and an entire generation of Minecraft coders. In this video, I walk through why Java survived when so many \u201cbetter\u201d platforms didn\u2019t - from the JVM\u2019s \u201cwrite once, run anywhere\u201d promise to enterprise reliability, Spring\u2019s rise, modern performance (JIT/GraalVM), and the broader JVM ecosystem. Happy 30th, Java. You\u2019re boring\u2026 and that\u2019s exactly why you win.\n\n0:00 Java turns 30, still everywhere\n0:55 The Hate\n1:45 The Graveyard\n3:26 Write once, run anywhere\n5:12 The Evolution\n6:40 Java isn\u2019t perfect\n7:26 Happy 30th, Java\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com",
+        "id": 3549553,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=spJwsa4KFrU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/spJwsa4KFrU/hqdefault.jpg",
+        "title": "Java is 30 Years Old // Here\u2019s Why It\u2019s Still Winning",
+        "vote": 0
+    }
+]

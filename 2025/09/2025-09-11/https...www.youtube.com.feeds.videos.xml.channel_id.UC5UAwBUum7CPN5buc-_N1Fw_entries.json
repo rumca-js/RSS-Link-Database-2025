@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T16:23:11.710114+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T10:09:54+00:00",
+        "description": "Try out Proton Mail, the secure email that protects your privacy: https://proton.me/mail/TheLinuxEXP\n\nPage for the Stellaris 16 Gen 7: https://www.tuxedocomputers.com/en/TUXEDO-Stellaris-16-Gen7\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:50 Sponsor: ProtonMail\n01:46 What is KDE Linux\n03:58 Distro & Hardware basics\n05:30 Defaults & Flatpak\n07:27 Install experience on the Stellaris 16\n11:44 Containers & updates\n13:39 Systemd-System Extensions\n15:18 Other details on the Stellaris 16 Gen 7\n18:12 Parting Thoughts\n\n#linuxdesktop #kde #linuxlaptop",
+        "id": 3549090,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=eSJ7TmIXtis",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eSJ7TmIXtis/hqdefault.jpg",
+        "title": "Testing KDE LINUX ALPHA on REAL hardware: Tuxedo Stellaris 16 Gen 7 !",
+        "vote": 0
+    }
+]

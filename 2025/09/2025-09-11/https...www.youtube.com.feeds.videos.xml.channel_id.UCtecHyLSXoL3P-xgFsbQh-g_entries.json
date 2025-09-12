@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T15:29:14.832851+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T13:41:40+00:00",
+        "description": "Pobierz aplikacj\u0119 Trade Republic - https://trade.re/NAGALEZI\n\nSuperman na przestrzeni lat przeszed\u0142 bardzo d\u0142ug\u0105 drog\u0119. Od film\u00f3w i seriali pe\u0142nych nieporadno\u015bci, cha\u0142upniczych efekt\u00f3w specjalnych i cz\u0119sto niezamierzonego komizmu, po produkcje niemal\u017ce monumentalne i epickie. Dzisiaj zapraszam Was na cz\u0119sto burzliw\u0105 i pe\u0142n\u0105 napi\u0119\u0107 histori\u0119 tego ikonicznego bohatera.\n\nSpis tre\u015bci:\n0:00 - Wst\u0119p\n1:10 - Segment partnera\n2:37 - Seriale i George Reeves\n12:25 - Christopher Reeve\n23:08 - etap wsp\u00f3\u0142czesny i Snyder\n\nMateria\u0142 powsta\u0142 we wsp\u00f3\u0142pracy z @TradeRepublic",
+        "id": 3547200,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=3VGfdc2DSO8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3VGfdc2DSO8/hqdefault.jpg",
+        "title": "Jak zmienia\u0142 si\u0119 Superman?",
+        "vote": 0
+    }
+]

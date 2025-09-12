@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T18:42:54.404796+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T18:02:47+00:00",
+        "description": "I used a new colorization technique, restored and applied face restoration, and created a sound design for this video of British Empire 1940s, takes us on a journey across London at the heart of the Empire, then to Australia, New Zealand, Canada, South Africa, and India, showcasing the ties that connected these nations in the postwar years. The restoration brings vivid life to these historic images, ending with a return to London as the symbol of unity and reconstruction.\n\n00:10-00:51 LONDON\n00:52-01:45 AUSTRALIA\n01:46-02:29 NEW ZEALAND\n02:30-03:38 CANADA\n03:39-04:22 SOUTH AFRICA\n04:23-05:36 INDIA\n05:37-08:47 LONDON\n\n\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nPlease, be aware that colorization colors are not real and fake, colorizatio",
+        "id": 3550991,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=DAxAa5fjm04",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DAxAa5fjm04/hqdefault.jpg",
+        "title": "British Empire 1940s in color  [60fps,Remastered] w/sound design added",
+        "vote": 0
+    }
+]

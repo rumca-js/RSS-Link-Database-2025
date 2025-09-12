@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Betty Gedlu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T08:44:58.202218+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T00:25:59+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>If the Supreme Court doesn\u2019t reverse a lower court\u2019s ruling, internet service providers (ISPs) could be forced to terminate people\u2019s internet access based on nothing more than mere accusations of copyright infringement. This would threaten innocent users who rely on broadband for essential aspects of daily life. EFF\u2014along with the American Library Association, the Association of Research Libraries, and Re:Create\u2014filed an\u00a0<a href=\"https://www.eff.org/document/cox-v-sonyeff-amicus-brief\">amicus brief</a> urging the Court to reverse the decision.</p>\n<h3><strong>The Stakes: Turning ISPs into Copyright Police</strong></h3>\n<p>Among other things, the Supreme Court approving the appeals court\u2019s findings will radically change the amount of risk your ISP takes on if a customer infringes on copyright, forcing the ISP to terminate access to the interne",
+        "id": 3546427,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF to Court: The Supreme Court Must Rein in Expansive Secondary Copyright Liability",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Guy Birchall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T16:26:04.272507+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T15:04:08+00:00",
+        "description": "The tech giants argued that the way the European Commission calculated the supervisory fees they must pay under the Digital Services Act was flawed.",
+        "id": 3549152,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/meta-tiktok-successfully-challenge-eu-tech-fees-5912933",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/09/11/id5913548-EpochImages-9060503906-xl-1080x720.jpg",
+        "title": "Meta, TikTok Successfully Challenge EU Tech Fees",
+        "vote": 0
+    }
+]

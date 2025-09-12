@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T15:45:39.820701+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T13:58:46+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nWe had the chance to go hands-on with a very special PC demo of Phantom Blade Zero at Gamescom 2025, running maxed out with RT features. John and Alex compare notes on what seems to be an Unreal Engine 5 title that isn't actually using all of its cutting-edge features - but impresses nonetheless.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe",
+        "id": 3547608,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PnoyBByM7JU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PnoyBByM7JU/hqdefault.jpg",
+        "title": "Phantom Blade Zero Hands-On - First Look - Unreal Engine With A Difference",
+        "vote": 0
+    }
+]

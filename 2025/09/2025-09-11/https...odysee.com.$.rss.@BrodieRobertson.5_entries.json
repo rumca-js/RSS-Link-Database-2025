@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T18:49:13.955679+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T17:30:25+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/rIuxhy21eLQ\" width=\"480\" alt=\"thumbnail\" title=\"32 Bit Linux Isn't Dead Yet... But It's Coming\" /></p>The end of the 32 Bit support on Linux will come eventually but it's not going to be anywhere near as soon as you might expect, we'll likely still be seeing 32 bit support in the kernel for another decade.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />2025 Article: https://lwn.net/Articles/1035727/<br />2020 Article: https://lwn.net/Articles/1035727/<br />Talk Slides: https://static.sched.com/hosted_files/osseu2025/75/32-bit%20Linux%20in%202025%20%28OSS%20Europe%29.pdf<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: http",
+        "id": 3551026,
+        "language": "en",
+        "link": "https://odysee.com/32-bit-linux-isn%27t-dead-yet...-but-it%27s:d49b671f717ce53d75eb1592ec2d7c02b8fe8453",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/rIuxhy21eLQ",
+        "title": "32 Bit Linux Isn't Dead Yet... But It's Coming",
+        "vote": 0
+    }
+]

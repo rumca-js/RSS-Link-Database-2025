@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wales",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T15:54:51.861549+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T15:03:48+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/steam-itch-no.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>When developer and Itch Queer Games Bundle co-founder Taylor McCue awoke one morning in late July it was to panic online. Overnight and without warning, indie-focused storefront itch.io had indiscriminately de-indexed all titles tagged as NSFW from its browse and search pages, regardless of content or nature. Suddenly, thousands of games were far harder to discover on the platform, and less easily accessible to paying customers.</p> <p><a href=\"https://www.eurogamer.net/queer-developers-speak-out-as-adult-games-remain-in-limbo-following-payment-processor-showdown-at-steam-and-itchio\">Read more</a></p>",
+        "id": 3547858,
+        "language": "en",
+        "link": "https://www.eurogamer.net/queer-developers-speak-out-as-adult-games-remain-in-limbo-following-payment-processor-showdown-at-steam-and-itchio",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/steam-itch-no.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Queer developers speak out as adult games remain in limbo following payment processor showdown at Steam and itch.io",
+        "vote": 0
+    }
+]

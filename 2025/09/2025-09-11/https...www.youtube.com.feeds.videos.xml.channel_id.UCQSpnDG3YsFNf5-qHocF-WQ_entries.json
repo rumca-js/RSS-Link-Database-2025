@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T15:59:55.992958+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T14:45:03+00:00",
+        "description": "The biggest hack ever, but was it consequential?\n\nThe other day there was a successful spear phishing attack on a developer who was a maintainer for many extremely popular packages on the NPM package manager. The packages total over 2.5 Billion weekly downloads, and they were all injected with malware. Even though the malicious versions were only up for a few hours, it's likely they were downloaded 10s of millions of times. In this video I explain what the malware did and how the the developer got phished, and more.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:23 - What is NPM?\n0:54 - What Happened?\n2:48 - What Did The Malware Do?\n5:06 - Did The Attack Work?\n6:34 - How Did He Get Phished?\n7:41 - Do You Need To Do Anything?\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 3548079,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VGE69JSdAFs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VGE69JSdAFs/hqdefault.jpg",
+        "title": "The Biggest Supply Chain Hack Ever Just Happened (But it Doesn't Matter?)",
+        "vote": 0
+    }
+]

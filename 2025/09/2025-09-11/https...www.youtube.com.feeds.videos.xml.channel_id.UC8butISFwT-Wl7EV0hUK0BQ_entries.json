@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T16:25:58.809079+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T13:01:06+00:00",
+        "description": "Build highly secure web applications using PHP and Symfony. You'll learn to code a financial transactions application from the ground up, leveraging PHP, Symfony, MongoDB Atlas, Doctrine MongoDB ODM, and MongoDB's Queryable Encryption (QE) to perform queries on encrypted data without ever decrypting it on the database server. \n\n\u270f\ufe0f Course created by @beau \n\nSign up for MongoDB Atlas: https://www.mongodb.com/\n\n\ud83c\udfd7\ufe0f MongoDB provided a grant to make this course possible.\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n\u2328\ufe0f 00:00 Introduction\n\u2328\ufe0f 01:21 Technology Stack Overview\n\u2328\ufe0f 03:45 Project Setup\n\u2328\ufe0f 04:46 Database & Encryption Configuration\n\u2328\ufe0f 10:08 Creating Document Classes\n\u2328\ufe0f 16:10 Building the Financial Service\n\u2328\ufe0f 21:47 Creating the Controller\n\u2328\ufe0f 28:48 Creating Encrypted Collections & Demo Data\n\u2328\ufe0f 31:51 Building the Front End\n\u2328\ufe0f 34:55 Running and Testing the Application\n\u2328\ufe0f 38:24 Conclusion",
+        "id": 3549151,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UuknxVdqzb4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UuknxVdqzb4/hqdefault.jpg",
+        "title": "Secure PHP Apps with Symfony & MongoDB \u2013 Full Course for Beginners",
+        "vote": 0
+    }
+]

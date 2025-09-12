@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T16:19:22.008197+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T15:38:43+00:00",
+        "description": "The six-month inquiry also proposes an overnight \"digital curfew\" for 15-18 year olds from 22:00 to 08:00.",
+        "id": 3548992,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/crkjep23403o?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9630/live/94e1f4c0-8f2a-11f0-b391-6936825093bd.jpg",
+        "title": "Ban social media for under-15s, says French report warning of TikTok risks",
+        "vote": 0
+    }
+]

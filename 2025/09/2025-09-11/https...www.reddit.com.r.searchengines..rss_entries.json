@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/incandescentink",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T20:06:15.975258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T19:10:49+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Today I learned that adding -ai to Google search does not in fact stop the environmental cost of creating the AI Overview. It just doesn&#39;t show it to you, but it still makes it. Or that&#39;s my understanding from doing some reading (including, ironically, from the AI Overview). From reading up on duckduckgo, it looked to me like the same story - you can request a view without the AI search results so you don&#39;t have to see them, but it still costs as much energy-wise as a search with it turned on. 99% of the time I search, I don&#39;t need or want AI results. I&#39;m fine with manually hitting a toggle/button on the rare occasion I do and waiting a bit for it to come in. Are there alternative search engines that either don&#39;t have ai features or that let you actually disable them? Or am I wrong and one of those actually lets you disable it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/incandescentin",
+        "id": 3551607,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1nehnle/search_engines_that_actually_let_you_disable_ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Search Engines that actually let you disable AI?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T15:24:36.071683+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T13:00:27+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/D7aDAXWi5SM\" width=\"480\" alt=\"thumbnail\" title=\"'sed' - filter and transform text - Video Man Pages\" /></p>The 'sed' command is a very powerful shell utility that is used to filter and transform text.<br /><br />- Replace first instance on each line of \"old\" with \"new\" using basic regex and print to stdout:<br />  command | sed 's/old/new/'<br /><br />- Replace \"old\" with \"new\" on all lines using basic regex and print to stdout:<br />  sed 's/old/new/g' path/to/file<br /><br />- Replace case-insensitive \"old\" with  \"new\" on all lines and print to stdout:<br />  sed 's/old/new/gi' path/to/file<br /><br />- Replace \"old\" with \"OLD\" on all lines using extended regex and print to stdout:<br />  sed -E 's/(old)/\\U\\1/g' path/to/file<br />  command | sed -E 's/(old)/\\U\\1/g'<br /><br />  NOTE \\U convert to uppercase; \\1 tells it to convert the first capture group of the sed command (which is \"old\").<br /><br />- Replace \"old\" with \"new\" in-place in a f",
+        "id": 3547050,
+        "language": "en",
+        "link": "https://odysee.com/%27sed%27-filter-and-transform-text-video:306633105270474a15f934fd5162e3024ff39631",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/D7aDAXWi5SM",
+        "title": "'sed' - filter and transform text - Video Man Pages",
+        "vote": 0
+    }
+]

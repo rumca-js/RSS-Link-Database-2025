@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-11T15:27:32.788972+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-11T14:22:52+00:00",
+        "description": "The surprising science of escalators. Sponsored by Brilliant - check out https://brilliant.org/veritasium to start learning for free. \nPlus, our viewers get 20% off an annual Premium subscription for unlimited daily access to all Brilliant courses.\n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\n\n\u2580\u2580\u2580\nA huge thanks to the team at OTIS, especially Ed Jacovino, Gregory Sefcik and Dirk Winkelhake, for their time and expertise.\n\nThank you also to Professor Gero Gschwendtner, Professor Michael Fu, and Dr. Peter Kauffmann for all their help on the project.\n\n\n\u2580\u2580\u2580\n0:00 When escalators go wrong\n2:43 The first escalator\n5:01 How does an escalator work?\n8:35 Why do escalators have grooves?\n10:05 Why do escalators have brushes?\n10:21 The hand rail moves faster than the steps\n12:05 You generate electricity on escalators\n14:09 How does an escalator break?\n18:47 How safe are escalators really?\n\n\n\u2580\u2580\u2580",
+        "id": 3547142,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tZ8ehplVFp4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tZ8ehplVFp4/hqdefault.jpg",
+        "title": "The Surprising Genius of Escalators",
+        "vote": 0
+    }
+]
