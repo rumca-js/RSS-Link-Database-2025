@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T14:35:42.584201+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T14:01:41+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">CubeSats are fascinating learning tools for space</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/four-cubesats-together.jpeg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-fbd23249-1ddc-40cf-a157-77b2ea4f0c6e\" data-insert-attach=\"{&quot;id&quot;:&quot;fbd23249-1ddc-40cf-a157-77b2ea4f0c6e&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Cubesats together\"></p>\n\n<p>These are CubeSats. Satellites that are going to space\u2014or at least, the ones I have here are <em>prototypes</em>. But these have one thing in common: they're all powered by either a Raspberry Pi, or a microcontroller.</p></div>",
+        "id": 3557879,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/four-cubesats-together.jpeg",
+        "title": "CubeSats are fascinating learning tools for space",
+        "vote": 0
+    }
+]

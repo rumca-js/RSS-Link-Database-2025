@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PomplamooseMusic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T16:07:02.447545+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T15:47:33+00:00",
+        "description": "Mmmmlyrics. The visuals and fonts are very pleasing. \u00c0 Cabo, with Larry Goldings, from the album Photog\u00e9nique. Now streaming in all the places.\n\nStream Photog\u00e9nique: https://ffm.to/photogenique\nGet Photog\u00e9nique merch: https://photogenique.diggers.store/\n\nSave this song on Spotify: https://spoti.fi/2r3Yqkh\nFollow us on instagram: https://instagram.com/pomplamoosemusic\nBecome a patron of our music (to vote on the songs we cover and get merch and stuff like that): http://www.patreon.com/pomplamoose",
+        "id": 3558705,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=f6q3z079nQA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 259,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSiPjfAJBgbFlIUsxOWpK0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f6q3z079nQA/hqdefault.jpg",
+        "title": "Pomplamoose - \u00c0 Cabo feat. Larry Goldings (Lyric Video)",
+        "vote": 0
+    }
+]

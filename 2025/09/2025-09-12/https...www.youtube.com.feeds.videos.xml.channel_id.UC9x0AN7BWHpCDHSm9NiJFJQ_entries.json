@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T19:35:07.496134+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T18:49:40+00:00",
+        "description": "\ud83d\udc33 Try for FREE the Docker MCP Catalog: https://dockr.ly/3UFTCj4\n\ud83d\udda5\ufe0f Download Docker Desktop: https://dockr.ly/3HgjIGj\n\n\nYou need to learn MCP Right Now!! The Model Context Protocol (MCP) changes everything. It gives LLMs like Claude and ChatGPT the ability to use real tools through APIs instead of clunky GUIs. In this video, I\u2019ll break down how MCP works, why it\u2019s so powerful, and how you can run it using Docker containers. I\u2019ll even show you how to build your own custom MCP servers so you can connect AI to literally ANYTHING: Obsidian, Brave, Kali Linux, and more. Grab your coffee. Let\u2019s go.\n\n\nRESOURCES:\n\ud83d\udcc4 Guide/walkthrough (with MCP prompt example): https://github.com/theNetworkChuck/docker-mcp-tutorial\n\n\ud83d\udc33 Docker Desktop Install Docs: https://docs.docker.com/desktop\n\n\ud83e\udd16 Model Context Protocol Official Site (Anthropic): https://modelcontextprotocol.io\n\n\ud83d\udc19 Docker MCP Gateway (github): https://github.com/docker/mcp-gateway\n\n\n\nTIMESTAMPS:\n\n0:00 - Intro\n0:40 - Problem: LLMs Suck at Accessin",
+        "id": 3560393,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GuTcle5edjk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GuTcle5edjk/hqdefault.jpg",
+        "title": "you need to learn MCP RIGHT NOW!! (Model Context Protocol)",
+        "vote": 0
+    }
+]

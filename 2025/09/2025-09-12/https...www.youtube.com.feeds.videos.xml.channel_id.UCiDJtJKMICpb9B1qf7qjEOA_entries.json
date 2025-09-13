@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T15:43:05.740889+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T14:01:22+00:00",
+        "description": "In 1910, William Randolph offered $50,000 to the first person to complete a transcontinental flight across the United States in under 30 days. Calbraith Perry Rodgers (notably NOT a pilot) decided he was up for the challenge in this Wright Model EX, which is being prepared for display in @airandspace's Udvar-Hazy Center. Museum specialist Pat Robinson spins the fascinating tale of the journey's up and downs (literally), and walks Adam Savage through the work he and his team have done to welcome the historic plane to its new home. (Also: Drink Vin Fiz!)\n\nMore about the flight: https://airandspace.si.edu/stories/editorial/how-brand-new-pilot-and-grape-soda-made-history-crossing-us\nVisit the National Air and Space Museum's Udvar Hazy Center: https://www.si.edu/museums/air-and-space-museum-udvar-hazy-center\nVisit the National Air and Space Museum's downtown museum: https://airandspace.si.edu/\nAdam Savage's Top 5 Artifacts at @airandspace: https://youtu.be/jxag0s4-zwo \nAdam Savage Visits N",
+        "id": 3558525,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pKd_1jVuKcQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pKd_1jVuKcQ/hqdefault.jpg",
+        "title": "This Wright Brothers Plane Has a FASCINATING Past",
+        "vote": 0
+    }
+]

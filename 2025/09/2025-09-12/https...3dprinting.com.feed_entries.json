@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T09:39:51.833335+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T09:11:05+00:00",
+        "description": "Autodesk Research has partnered with Additive Tectonics to develop a new approach to concrete floor construction using 3D printing technology. The collaboration combines 3D-printed formwork, natural fiber reinforcement, and low-carbon geopolymer concrete as alternatives to conventional building methods. The system addresses three issues with traditional concrete floors: single-use formwork waste, material inefficiency in flat slab [&#8230;]",
+        "id": 3555683,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/autodesk-research-and-additive-tectonics-develop-3d-printed-floor-system-with-alternative-materials",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Autodesk Research and Additive Tectonics Develop 3D Printed Floor System with Alternative Materials - 3DPrinting.com",
+        "vote": 0
+    }
+]

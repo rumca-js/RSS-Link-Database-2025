@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T18:33:58.981718+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T17:00:49+00:00",
+        "description": "Once upon a time, the home video market was unstoppable. From VHS and DVD to Blu-ray and 4K, owning a physical copy of your favorite movie meant it was yours forever. No removals. No restrictions. Just press play.\n\nBut with the rise of streaming platforms, everything changed. On the surface, having millions of films and TV shows available 24/7 sounds like a dream. Yet as many fans have discovered, when your favorite movie or series suddenly vanishes from a streaming service\u2026 you\u2019re left with no way to watch.\n\nDo you prefer the convenience of streaming, or the security of physical media? Let us know in the comments!\n\n#physicalmedia #streaming #netflix #amazonprime",
+        "id": 3559970,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=V-l5_O2BMZ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V-l5_O2BMZ4/hqdefault.jpg",
+        "title": "All Your Favorite Movies Are Disappearing...",
+        "vote": 0
+    }
+]

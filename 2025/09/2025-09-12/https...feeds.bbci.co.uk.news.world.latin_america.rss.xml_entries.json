@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T07:47:09.796110+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T06:14:03+00:00",
+        "description": "The former president of Brazil has been sentenced to 27 years in prison after being found guilty for plotting a military coup.",
+        "id": 3555085,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/cvgr589ygxro?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/c0da8830-8f9d-11f0-b391-6936825093bd.jpg",
+        "title": "What you need to know about Bolsonaro's coup prison sentence",
+        "vote": 0
+    }
+]

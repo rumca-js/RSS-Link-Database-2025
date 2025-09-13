@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T15:26:08.642077+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T14:01:21+00:00",
+        "description": "Amjad Masad is the co-founder & CEO of Replit, now valued at $3B after a recent $250M Series C. He's spent nearly a decade making programming accessible to all\u2014and with the rise of AI, that vision is closer than ever.\n\nIn this talk from AI Startup School on June 17, 2025, Amjad traces the arc of computing from mainframes to personal computers to a future where AI agents can create software on demand. He explains why the value of traditional software will approach zero, fundamentally reshaping how companies are built and how work gets done.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:22 - Evolution of Computing\n01:27 - The Rise of Software Engineering\n02:16 - Replit's Vision: Making Programming Accessible\n02:42 - The Role of AI in Software Development\n04:32 - Challenges and Infrastructure for AI Agents\n05:03 - Building a Scalable and Secure Environment\n06:08 - Future of Software Engineering Agents\n09:25 - A",
+        "id": 3558347,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lWmDiDGsLK4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lWmDiDGsLK4/hqdefault.jpg",
+        "title": "The Future of Software Creation with Replit CEO Amjad Masad",
+        "vote": 0
+    }
+]

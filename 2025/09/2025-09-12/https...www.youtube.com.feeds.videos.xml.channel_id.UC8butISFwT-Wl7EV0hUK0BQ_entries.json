@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T14:44:25.009400+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T14:00:17+00:00",
+        "description": "For this week's interview, we've got a special treat. I'm talking with two legends in the self-taught developer community.\n\nDanny Thompson worked for 10 years at a Tennessee gas station, frying chicken for people to eat, sometimes working 80 hour weeks just to provide for his family. And yet, Danny had ambition. He taught himself to code using freeCodeCamp. He built his network through local tech events. And eventually, he landed his first job as as software developer. He's since worked at tech companies like Google.\n\nLeon Noel grew up with everyone telling him he had to become a doctor, lawyer, or dentist. He skipped college, taught himself programming, and had a successful exit with a startup. Leon then turned his attention to helping folks who were struggling during the pandemic. He started 100Devs, a charity which has helped thousands of people learn to code.\n\nDanny and Leon run the Programming Podcast which you can find in the podcast player freeCodeCamp iPhone or Android app, al",
+        "id": 3557932,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6_qwLx8jwBY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6_qwLx8jwBY/hqdefault.jpg",
+        "title": "Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]",
+        "vote": 0
+    }
+]

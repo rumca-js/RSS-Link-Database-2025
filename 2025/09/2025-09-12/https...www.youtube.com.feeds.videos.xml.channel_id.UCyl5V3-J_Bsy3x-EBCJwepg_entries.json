@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T15:15:18.453557+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T14:01:22+00:00",
+        "description": "After public outcry over the Navy's assassination of cartel members without due process, a public defender is dropped onto a drug boat to make sure the proper process is followed. Ay, caramba!\n\nBecome a premium subscriber: https://buff.ly/3mxrUba\n\nThe Official The Babylon Bee Store: https://shop.babylonbee.com/\n\nFollow The Babylon Bee:\nWebsite: https://babylonbee.com/\nX: https://X.com/thebabylonbee\nFacebook: https://www.facebook.com/TheBabylonBee\nInstagram: http://instagram.com/thebabylonbee",
+        "id": 3558248,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=k88qMZvS9PA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k88qMZvS9PA/hqdefault.jpg",
+        "title": "Navy Airdrops Public Defender Onto Drug Boat To Give Cartel Members Due Process",
+        "vote": 0
+    }
+]

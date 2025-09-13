@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T16:43:11.089663+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T15:37:00+00:00",
+        "description": "The Sun blew out a coronal mass ejection along with part of a solar filament over a three-hour period on Feb. 24, 2015. While some of the strands fell back into the Sun, a substantial part raced into space in a bright cloud of particles (as observed by the NASA-ESA Solar and Heliospheric Observatory spacecraft). Because this occurred way over near the edge of the Sun, it was unlikely to have any effect on Earth.",
+        "id": 3559111,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/brief-outburst-16760026566-oorig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A Brief Outburst",
+        "vote": 0
+    }
+]

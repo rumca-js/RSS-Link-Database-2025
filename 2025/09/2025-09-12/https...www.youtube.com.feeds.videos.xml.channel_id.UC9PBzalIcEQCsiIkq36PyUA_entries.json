@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T16:37:39.779836+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T15:36:19+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nNote: we will be looking at Switch 2 in a separate Unreal Engine/Switch 2 special. A year on from its stellar efforts on the Silent Hill 2 Remake, developer Bloober Team presents another UE5 horror project. The console versions are in the spotlight this time around, where PS5 Pro is unfortunately missing any notable upgrades \u2013 though does offer up the best image quality and frame-rates of the quartet.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Introduction\n01:31 Quality vs Performance Mode Comparison\n02:31 The Resolution Advantage on PS5 Pro\n05:51 Series S Cutbacks\n07:11 Performance Tests/Conclusion",
+        "id": 3559059,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=avFKZF6r0RI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/avFKZF6r0RI/hqdefault.jpg",
+        "title": "Cronos: The New Dawn - DF Review - PS5/PS5 Pro/Xbox Series X|S Console Face-Off",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T18:03:36.461433+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T15:19:50+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nC++ Error Handling Omitted - Roger Orr - ACCU 2025\n---\n\nA large number of articles and books on programming provide sample code, which all too often is either totally silent about errors or contains a comment such as error handling omitted for brevity. While this may be fine for simple examples, it doesn't work so well for actual real-world programs where all sorts of things can go wrong and the program is expected to cope.\n\nIn this presentation I'll look at some techniques for handling errors and we'll look at their strength and weaknesses and also some pointers on how to combine different error handling techniques.\n\nShould error handling be local or non-local?\nHow do you test error handling?\nCan you reduce the likelihood, and impact, of errors?\n\nWhile many of the examples will use C++ code many of the design principles are applicable more widely.\n\nSlides: https://accu.org/conf-previous/accu2025/\n\nJoin think-cell as a C++ Developer a",
+        "id": 3559693,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QXpk8oKiFB8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QXpk8oKiFB8/hqdefault.jpg",
+        "title": "C++ Error Handling Omitted - Roger Orr - ACCU 2025",
+        "vote": 0
+    }
+]

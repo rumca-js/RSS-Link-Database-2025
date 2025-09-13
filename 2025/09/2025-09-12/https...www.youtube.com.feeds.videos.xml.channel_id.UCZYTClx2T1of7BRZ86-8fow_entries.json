@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T15:51:02.577851+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T15:02:00+00:00",
+        "description": "In this special episode, soft matter physicist Madelyn Leembruggen (@mleembruggen) joins Hank Green for a conversation all about \"squishy physics\"! As our second SciShow Resident, Madelyn spent the last 17 weeks writing and hosting a series of videos that will post on our channel every Friday for the next 10 weeks. The Residency gives the most promising young science communicators an opportunity to learn from the editorial team at SciShow and get their ideas in front of a large audience. Please join us in welcoming Madelyn!\n\nHosted by: Hank Green (he/him) & Madelyn Leembruggen (she/her)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Eric Jensen, David Johnston, Al",
+        "id": 3558616,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vYf0ytn_vkw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vYf0ytn_vkw/hqdefault.jpg",
+        "title": "Hank Green Asks A Physicist Anything",
+        "vote": 0
+    }
+]

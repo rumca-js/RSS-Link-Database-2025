@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fern",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T21:19:02.151963+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T20:10:08+00:00",
+        "description": "The most affordable, fast and easy-to-use blender render farm on the planet - get $10 off instantly when you use code \u201cFERN\u201d at https://fern.deals/superluminal (ad)\n\nA reconstruction of the attack on right-wing activist Charlie Kirk. The events are still unfolding.\n\nCheck out Hoog's mapping of the assassination here: https://youtu.be/OboCDDMAxxQ?si=MnZ9yODgAw0ZB8_J\n\nSources:\nhttps://docs.google.com/document/d/1a24BQ9yvLyHxTPnAbcC-JvxBPOg7GYJ6pR9FKyyJJP4/edit?usp=sharing\n\nCorrection:\n00:42 This should say \"Mapping of the shooting\". \n\nMusic:\n\nEpidemic Sound:\nDead if They Catch You - Philip Ayers\nDip Diet - Sidelined\nFabien Tell - Rememberance\nPhilip Ayers - Are You Ready\nCraft Case - Mental Strain\nCraft Case - Avoid Alarms\nCraft Case - Cold Sweat\nJon Bjork - An Abyss of Sadness\nLoving Caliber - Quit Calling Me Your Lover (Instrumental Version)\n_____\nArmchair documentaries, almost weekly",
+        "id": 3561012,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OpUEEr-F5dY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 703,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OpUEEr-F5dY/hqdefault.jpg",
+        "title": "The Hunt for the Charlie Kirk Shooter",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T17:02:12.631558+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T15:50:06+00:00",
+        "description": "\ud83d\udcdd Lesson Notes & Code - https://calcur.tech/notes\n\u21aa Full Playlist - https://calcur.tech/software-engineering\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\nFundamentals Course - http://calcur.tech/fundamentals\n\nTimestamps:\n00:00 - Intro\n00:52 - Preview\n01:30 - Offset Pagination Review\n02:39 - Building Cursor Pagination\n07:49 - Encoding the Cursor\n12:25 - Limit + 1 \n15:18 - What next? \n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsletter\n\ud83d\udcf8 Instagram - https://www.instagram.com/CalebCurry\n\ud83d\udc26 Twitter - https://twitter.com/calebCurry\n\ud83d\udd17 LinkedIn - https://www.linkedin.com/in/calebcurry\n\u25b6\ufe0f Subscribe - http://calcur.tech/subscribe\n\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf93 Courses - https://www.codebreakthrough.com\n\ud83c\udd7f Patreon - h",
+        "id": 3559259,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6W5_HoOKMPg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6W5_HoOKMPg/hqdefault.jpg",
+        "title": "API Cursor Pagination (Infinite Scroll) - Backend Engineering",
+        "vote": 0
+    }
+]

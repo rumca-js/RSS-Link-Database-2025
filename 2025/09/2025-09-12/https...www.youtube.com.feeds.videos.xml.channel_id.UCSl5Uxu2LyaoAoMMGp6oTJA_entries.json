@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Atomic Shrimp",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-12T16:52:41.332452+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-12T16:01:13+00:00",
+        "description": "Very much a sequel. The Purple Jam I made a couple of years ago has all run out, so let's make another batch!  This video goes into a lot of detail about the rationale for some of the methods.\n\nJoin the Atomic Shrimp official Discord server for FREE early access to videos! - https://discord.gg/atomicshrimp\nAtomic Shrimp subreddit: https://www.reddit.com/r/AtomicShrimp/\n\nTimestamps:\n0:00 Intro\n0:39 The fruit\n1:09 Elderberries\n4:35 Blackberries\n5:05 Cooking elderberries\n5:17 Fruit mix\n5:47 Straining elderberries\n7:35 Cooking blackberries\n8:01 Straining blackberries\n9:57 Jam vs jelly\n11:29 Yield\n11:48 Weighing\n12:04 Cherry plums\n16:31 Bullaces\n19:19 More weighing\n20:09 Jam hygiene\n21:36 Sugar\n23:47 Boiling\n25:02 Froth\n26:37 Final preparation\n27:04 Skimming\n27:32 Packing\n29:06 Sneaky taste\n29:39 Waste not\n30:12 Set\n31:01 Tasting\n32:22 Toast Tax\n32:32 Labelling",
+        "id": 3559182,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dJeFLnKFB1M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 704,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5Uxu2LyaoAoMMGp6oTJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dJeFLnKFB1M/hqdefault.jpg",
+        "title": "Purple Jam 2  (This Time it's Purp-sonal!)",
+        "vote": 0
+    }
+]
