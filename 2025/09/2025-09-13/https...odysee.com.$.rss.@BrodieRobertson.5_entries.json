@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-13T19:28:41.446002+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-13T17:30:10+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/gTFxWY10umY\" width=\"480\" alt=\"thumbnail\" title=\"Would You Use A KDE Linux Distro?\" /></p>A little while back there was a soft announcement of the KDE Linux distro, but now there has been a proper official announcement of the project alpha<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />KDE Linux Announcement: https://blogs.kde.org/2025/09/05/this-week-in-plasma-more-app-permission-configuration-pre-akademy-edition/<br />KDE Linux Issue: https://invent.kde.org/kde-linux/kde-linux/-/issues/new<br />KDE Bugs: https://bugs.kde.org/<br />KDE Linux Non Goals: https://community.kde.org/KDE_Linux#Non-goals<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz",
+        "id": 3566856,
+        "language": "en",
+        "link": "https://odysee.com/would-you-use-a-kde-linux-distro:5335c87970baee8b91bebb9d32038c030ea830d4",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/gTFxWY10umY",
+        "title": "Would You Use A KDE Linux Distro?",
+        "vote": 0
+    }
+]

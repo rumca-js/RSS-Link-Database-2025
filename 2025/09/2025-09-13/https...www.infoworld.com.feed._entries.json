@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-13T18:59:08.873067+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-13T18:10:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Databricks finds itself in an awkward situation following the departure of <a href=\"https://www.linkedin.com/in/naveen-rao-bba5b01/\" target=\"_blank\" rel=\"noreferrer noopener\">Naveen Rao</a>, its head of artificial intelligence, as rivals like Snowflake, Teradata, and hyperscalers such as AWS, Azure, and Google Cloud, intensify their push to develop offerings for building generative AI applications.</p>\n\n\n\n<p>Rao\u2019s exit comes at a time when Databricks is aggressively trying to expand its offerings inside the Data Intelligence Platform, mainly with <a href=\"https://www.infoworld.com/article/4007541/databricks-data-ai-summit-2025-five-takeaways-for-data-professionals-developers.html\" target=\"_blank",
+        "id": 3566735,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4056636/databricks-at-a-crossroads-can-its-ai-strategy-prevail-without-naveen-rao.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Databricks at a crossroads: Can its AI strategy prevail without Naveen Rao?",
+        "vote": 0
+    }
+]

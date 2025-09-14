@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-13T16:13:58.813292+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-13T16:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>I\u2019ve been using PCs long enough to know that the widely adopted way of doing things isn\u2019t always the best or most secure. Recently I\u2019ve found that to be the case with my email accounts.</p>\n\n\n\n<p>I switched from Gmail to Proton mail on a whim and now I\u2019m very glad I did. Here are the five key benefits I now enjoy with <a href=\"https://go.getproton.me/aff_c?offer_id=7&aff_id=1194\" data-type=\"link\" data-id=\"https://proton.me/\">Proton</a> mail.</p>\n\n\n\n<div class=\"wp-block-idg-base-theme-listicle-chart-block wp-block-product-chart product-chart\">\n<div class=\"wp-block-listicle-chart\"><div class=\"listicle-chart-separator\"></div><div class=\"wp-block-listicle-chart-item listicle-chart-item\">\n<h3 class=\"wp-block-heading\" id=\"1-proton-has-anonymous-sign-up\">1. Proton has anonymous sign-up</h3>\n\n\n\n<p>At no stage during the sign-up process for Proton\u2019s free-tier accoun",
+        "id": 3565797,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2896829/i-switched-from-gmail-to-proton-mail-5-deeply-refreshing-takeaways.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2025/09/pexels-olly-925786.jpg?quality=50&strip=all&w=1200",
+        "title": "I switched from Gmail to Proton mail: 5 deeply refreshing takeaways",
+        "vote": 0
+    }
+]

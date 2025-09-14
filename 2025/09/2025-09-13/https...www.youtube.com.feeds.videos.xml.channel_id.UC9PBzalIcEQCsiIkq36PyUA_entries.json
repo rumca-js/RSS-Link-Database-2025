@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-13T15:26:33.944968+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-13T14:05:34+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nUnreal Engine 5 is swiftly become the middleware engine of choice for the generation - but there's no denying that its cutting-edge feature set can be highly demanding... so where does that leave Switch 2? In this video, Oliver Mackenzie and Alex Battaglia tackle a trio of UE5 titles, from Bloober Studios' Cronos: The New Dawn through to Hazelight Studios' Split Fiction. And of course, Epic itself has delivered a Switch 2 port of Fortnite at 60fps - surely the standard bearer for the engine?\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Overview\n00:48 Cronos: what features does Switch 2 use? \n06:39 Cronos: Switch 2 vs Series S \n14:51 Fortnite \n23:00 Split Fiction \n29:05 Final thoughts",
+        "id": 3565589,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2tPvLuU_JxQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2tPvLuU_JxQ/hqdefault.jpg",
+        "title": "Switch 2 vs Unreal Engine - Fortnite, Cronos + Split Fiction Tested - The Full-Fat UE5 Experience?",
+        "vote": 0
+    }
+]

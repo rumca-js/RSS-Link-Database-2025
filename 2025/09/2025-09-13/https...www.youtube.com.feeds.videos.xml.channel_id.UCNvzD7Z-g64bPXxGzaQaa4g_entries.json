@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-13T15:43:44.714225+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-13T15:02:37+00:00",
+        "description": "There's a lot of stuff you're not going to know because they're not going to say it.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:24 Number 10\n2:19 Number 9\n4:44 Number 8\n6:48 Number 7\n9:11 Number 6\n10:17 Number 5\n11:29 Number 4\n12:32 Number 3\n13:51 Number 2\n14:52 Number 1",
+        "id": 3565692,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_5aUTIA0DvI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 3,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_5aUTIA0DvI/hqdefault.jpg",
+        "title": "Borderlands 4: 10 Things The Game DOESN'T TELL YOU",
+        "vote": 0
+    }
+]

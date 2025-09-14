@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-13T08:59:46.195316+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-13T08:06:30+00:00",
+        "description": "Try TuxCare Radar to detect and prevent vulnerabilities in your Linux stack: https://tuxcare.com/tuxcare-radar/?utm_campaign=The%20Linux%20Experiment&utm_source=youtube&utm_medium=social\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:33 Sponsor: TuxCare\n01:52 Red Hat's being eaten by IBM\n04:07 KDE Linux alpha is here\n06:23 Budgie gets minor update, still no news on its future\n08:44 Firefox keeps adding AI and ad related features\n11:23 Firefox drops 32 bit ent",
+        "id": 3563729,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=74vw2TbJtm4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/74vw2TbJtm4/hqdefault.jpg",
+        "title": "Red Hat being eaten, KDE Linux, Firefox getting worse -  Linux Weekly News",
+        "vote": 0
+    }
+]

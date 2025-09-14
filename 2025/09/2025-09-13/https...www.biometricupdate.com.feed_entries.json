@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Burt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-13T18:04:45.384670+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-13T17:04:39+00:00",
+        "description": "<img width=\"2048\" height=\"1239\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/09105954/identy-contactless-finger-scan-scaled.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/09105954/identy-contactless-finger-scan-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/09105954/identy-contactless-finger-scan-300x181.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/09105954/identy-contactless-finger-scan-1024x619.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/09105954/identy-contactless-finger-scan-150x91.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/09105954/identy-contactless-finger-scan-768x465.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/09105954/identy-contactless-finger-scan-153",
+        "id": 3566441,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202509/biometrics-inspire-trust-policy-makers-invite-backlash",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/09105954/identy-contactless-finger-scan-scaled.jpg",
+        "title": "Biometrics inspire trust, policy-makers invite backlash",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "captainmidnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-13T20:19:56.228547+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-13T19:10:32+00:00",
+        "description": "This video is sponsored by Displate. Use my code CAPTAIN or hit the link in the description to get a discount on Displate!\nLink: https://displate.com/@captainmidnight Collector's Fest discounts: It\u2019s that time of the year again - Displate is back with our annual Collectors Fest! Special discount until the end of September, it's time to start or continue your Displate collection:\n1/2 Displate -32%\n3+ Displates -37%\nValid on Textra\nNot valid on Lumino and Limited Edition\nThe Paper is Peacock/NBC's new attempt to follow up The Office, but how does it stand up to the original? Not well. But maybe there is still something here.\nRead my comic BINARY SEA on Amazon Kindle: https://a.co/d/9JfoZC0\nMusic by Epidemic Sound (http://www.epidemicsound.com)\nFollow me on Twitter: https://twitter.com/midnightcap\nFollow me on Facebook: https://www.facebook.com/midnightcap\nVideo edited by Andrew Elliott (Stalli111: https://www.youtube.com/user/Stalli111  )\nWritten by Graham Blackaby",
+        "id": 3566913,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=SFF6xT5MhmE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 63,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCROQqK3_z79JuTetNP3pIXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SFF6xT5MhmE/hqdefault.jpg",
+        "title": "The Paper Fails The Office",
+        "vote": 0
+    }
+]
