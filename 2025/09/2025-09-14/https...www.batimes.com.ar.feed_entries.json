@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T12:40:24.221617+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T11:44:00+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/07/02/trim/540/304/argentinas-foreign-ministry-headquarters-2054243.jpg\" alt=\"Argentina's Foreign Ministry headquarters\" /></p>\u00darsula Basset and Nahuel Sotelo, two members of ideological pro-Milei group, are departing Foreign Ministry, paving the way for a more pragmatic approach to international relations. <a href=\"https://www.batimes.com.ar/news/argentina/after-ursula-basset-and-nahuel-sotelos-exit-foreign-ministry-reduces-influence-of-las-fuerzas-del-cielo.phtml\">Leer m\u00e1s</a>",
+        "id": 3570406,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/argentina/after-ursula-basset-and-nahuel-sotelos-exit-foreign-ministry-reduces-influence-of-las-fuerzas-del-cielo.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/07/02/trim/540/304/argentinas-foreign-ministry-headquarters-2054243.jpg",
+        "title": "Exit of officials reduces influence of Las Fuerzas del Cielo at Argentina's Foreign Ministry",
+        "vote": 0
+    }
+]

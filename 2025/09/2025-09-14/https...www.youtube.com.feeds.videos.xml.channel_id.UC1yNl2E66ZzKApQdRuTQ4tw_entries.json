@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T16:09:20.113463+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T15:01:34+00:00",
+        "description": "Learn more about quantum physics, mathematics, or science with Brilliant! Start learning for free at https://brilliant.org/sabine/ and get 20% off a premium subscription, which includes daily unlimited access!\n\nI recently made a video about 10 physics myths, and a lot of you asked that I do another one about quantum myths in particular. Let\u2019s take a look.\n\n00:00-00:09 Introduction\n00:10-01:01 10. Quantum Physics Means Discreteness\n01:02-02:30 9. Quantum Physics Proves That Parallel Universes Exist\n02:31-03:04 8. Quantum Physics Means that Nature is Fundamentally Random\n03:05-04:31 7. Einstein was wrong about quantum physics\n04:32-05:12 6. Quantum Entanglement is Faster than Light\n05:13-06:04 5. We can\u2019t quantize gravity\n06:05-07:31 4. Superpositions Are Strange\n07:32-08:15 3. Superpositions are the same as Entanglement\n08:16-09:05 2. Quantum Physics is a Theory for the Microscopic Range\n09:06-11:23 1. Consciousness Influences the Outcome of Quantum Processes\n11:24-12:29 Learn Science ",
+        "id": 3571756,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rBKclxauMX4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rBKclxauMX4/hqdefault.jpg",
+        "title": "10 Quantum Myths, Debunked",
+        "vote": 0
+    }
+]

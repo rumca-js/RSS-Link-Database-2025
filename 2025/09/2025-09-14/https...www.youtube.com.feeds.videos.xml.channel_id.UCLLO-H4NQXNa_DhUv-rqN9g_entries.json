@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T16:23:15.552902+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T15:28:20+00:00",
+        "description": "Byli\u015bmy na CD-Action Expo i zadali\u015bmy troch\u0119\u00a0g\u0142upich pyta\u0144\u00a0wam oraz redakcji CD-Action. Pograli\u015bmy te\u017c w gry, pon\u0119kali\u015bmy robota i dowiedzieli\u015bmy si\u0119, ile kosztuje 9/10 w TVGry. Odpowied\u017a was zaskoczy!!! [SPRAWD\u0179 CEN\u0118]\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\nDawid \u201espikain\" Bojarski (http://dawid.omg.lol)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 3571850,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=_VWaLzjt5dk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_VWaLzjt5dk/hqdefault.jpg",
+        "title": "Zadajemy wam G\u0141UPIE PYTANIA na CD-Action Expo 2025",
+        "vote": 0
+    }
+]

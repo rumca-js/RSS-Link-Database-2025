@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T22:33:35.438665+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T22:17:43+00:00",
+        "description": "Samsung patched CVE-2025-21043, a critical flaw in its Android devices exploited in live attacks. Users urged to install September 2025 update.",
+        "id": 3573856,
+        "language": "en-US",
+        "link": "https://hackread.com/samsung-android-image-parsing-vulnerability-attacks",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Samsung Fixes Image Parsing Vulnerability Exploited in Android Attacks",
+        "vote": 0
+    }
+]

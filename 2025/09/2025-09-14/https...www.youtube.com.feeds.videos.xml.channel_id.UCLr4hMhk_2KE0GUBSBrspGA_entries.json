@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T19:37:43.652149+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T18:18:17+00:00",
+        "description": "Film zawiera fragment sponsorowany platformy Hostinger. Z kodem KLAWIATURHOST otrzymacie 10% zni\u017cki - https://www.hostinger.com/kuban8n\n\nW odcinku:\n00:00 Wst\u0119p\n00:21 Dobry wiecz\u00f3r!\n00:25 Apple Watch 11 jednak nie jest najcie\u0144szy? \n01:12 Nowa funkcja AirPods Pro 3 nie dla wszystkich\n01:56 \u015awiec\u0105ce implanty piersi nie istniej\u0105\n02:25 Albania ma ministra AI\n03:58 REKLAMA \u2013 Hostinger\n04:52 Kawa spowalnia starzenie si\u0119 kom\u00f3rek\n05:32 Pytania, kt\u00f3re nie mog\u0105 pozosta\u0107 bez odpowiedzi\n07:31 Dlaczego ChatGPT halucynuje?\n09:58 Wspomnienie lata\u2026\n10:13 Zno\u015bnego tygodnia!",
+        "id": 3573066,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=YBzXs69oF4s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YBzXs69oF4s/hqdefault.jpg",
+        "title": "Apple k\u0142amie, Niemcy przegrali, Albania ma ministra AI | Tech Week",
+        "vote": 0
+    }
+]

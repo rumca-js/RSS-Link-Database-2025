@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T07:11:39.421547+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T07:11:38+00:00",
+        "description": "Za bezpiecze\u0144stwo dzieci odpowiada dyrektor szko\u0142y, a bezpo\u015brednio \u2013 opiekun wycieczki. Ich zadaniem jest przestrzeganie zasad bezpiecze\u0144stwa i zapewnienie odpowiednich warunk\u00f3w podczas ca\u0142ego pobytu.",
+        "id": 3569148,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/rodzice-i-uczniowie/art43001921-wycieczki-szkolne-2025-2026-co-warto-wiedziec-o-ubezpieczeniu-i-ich-organizacji",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wycieczki szkolne 2025/2026. Co warto wiedzie\u0107 o ubezpieczeniu i ich organizacji?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jason Koebler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T19:11:08.577740+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T18:25:10+00:00",
+        "description": "How Trump's tariffs are impacting all sorts of hobbies; how OnlyFans piracy is ruining the internet for everyone; and ChatGPT's reckoning.",
+        "id": 3572860,
+        "language": "en",
+        "link": "https://www.404media.co/podcast-ai-slop-is-drowning-out-human-youtubers",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/09/youtube-algo-ai-yt-cover.jpg",
+        "title": "Podcast: AI Slop Is Drowning Out Human YouTubers",
+        "vote": 0
+    }
+]

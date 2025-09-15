@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jules",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T07:05:05.334914+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T06:47:01+00:00",
+        "description": "In this one I explore a hypothetical thought experiment about awareness, enlightenment and denial around existence.\n\nCHAPTERS:\n0:00 - The Ant Conundrum\n6:00 - FLATLAND \n14:29 - MY EARS\n57:06 - \u201cNUKES AREN\u2019T REAL\u201d\n1:11:49 - The Loneliness of God\n\nPATREON: https://www.patreon.com/cw/julesthekingYT\nDISCORD: discord.gg/CkpWrM2Kzm",
+        "id": 3569123,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=W0COCLMlcVQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 602,
+        "source_url": "https://www.youtube.com/channel/UCPOv_c7pdPxidIVmp2SXwFA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W0COCLMlcVQ/hqdefault.jpg",
+        "title": "The Ant Conundrum",
+        "vote": 0
+    }
+]

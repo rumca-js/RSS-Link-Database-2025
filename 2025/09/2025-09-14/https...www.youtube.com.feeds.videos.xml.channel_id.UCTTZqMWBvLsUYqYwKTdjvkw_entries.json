@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T17:00:26.611283+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T16:01:17+00:00",
+        "description": "\ud83c\udf4f\u00a0Kilka dni temu, na corocznej konferencji Apple zaprezentowa\u0142o mi\u0119dzy innymi najnowsze ajfony, siedemnastej generacji. Jest nawet taki pomara\u0144czowy! Ale moj\u0105 uwag\u0119 zwr\u00f3ci\u0142o co\u015b\u00a0zupe\u0142nie innego. Bo Apple po raz kolejny zaskoczy\u0142o naprawd\u0119 ciekawym rozwi\u0105zaniem z zakresu bezpiecze\u0144stwa, kt\u00f3re ma w zamy\u015ble uniemo\u017cliwi\u0107 - albo przynajmniej znacznie utrudni\u0107\u00a0- ataki przer\u00f3\u017cnym z\u0142o\u015bliwym oprogramowaniem.\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udd12\u00a0Memory Integrity Enforcement: A complete vision for memory safety in Apple devices\nhttps://security.apple.com/blog/memory-integrity-enforcement/\n\n\ud83d\udd10\u00a0Towards the next generation of XNU memory safety: kalloc_type\nhttps://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/\n\n\ud83e\udd14\u00a0What if we had the SockPuppet vulnerability in iOS 16? \nhttps://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/\n\n\ud83d\udee1\ufe0f\u00a0Enabling enhanced security for your app\nhttps://developer.apple.com/documentation/xcode/enabling-enhanced-security-for-your-app#Adopt-hardware-memory-tagging\n\n\ud83e\udd2f\u00a0",
+        "id": 3572046,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=j7IGOPFBNr8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/j7IGOPFBNr8/hqdefault.jpg",
+        "title": "Nowe iPhony - dlaczego nikt o tym nie m\u00f3wi?",
+        "vote": 0
+    }
+]

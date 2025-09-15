@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T23:24:04.565853+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T23:10:50+00:00",
+        "description": "Secretary of State Marco Rubio visited Israel over the weekend, signaling that Washington wants answers after Israel\u2019s unprecedented attack on Hamas leaders inside Qatar, another key American partner in the Middle East. NBC News' Keir Simmons reports.",
+        "id": 3574014,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/rubio-visits-israel-amid-heightened-tensions-after-attack-on-qatar-247562821808",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757891442237_wnn_ksi_rubio_in_israel_arab_summit_250914_1920x1080-r3ibcy.jpg",
+        "title": "Rubio visits Israel amid heightened tensions after attack on Qatar",
+        "vote": 0
+    }
+]

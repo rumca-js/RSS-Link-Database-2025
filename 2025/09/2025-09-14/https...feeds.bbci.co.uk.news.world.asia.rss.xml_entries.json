@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-14T09:09:13.320412+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-14T08:48:42+00:00",
+        "description": "Sushila Karki said the government must heed protesters' demands for \"an end to corruption, good governance and economic equality\".",
+        "id": 3569543,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cp8wjz90z4no?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65e1/live/c67a2200-9141-11f0-ae3c-7750c96df4e3.jpg",
+        "title": "Nepal's interim PM to hand over power within six months",
+        "vote": 0
+    }
+]
