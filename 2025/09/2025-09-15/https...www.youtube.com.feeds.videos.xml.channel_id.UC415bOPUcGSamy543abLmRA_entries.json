@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cleo Abram",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T18:57:21.943394+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T17:18:08+00:00",
+        "description": "This new plastic has a superpower, and it\u2019s incredible. \n\nIt looks and feels like regular plastic\u2026 it\u2019s just as strong\u2026BUT it\u2019s made of something unique and that matters. \n\nTo find out why, subscribe! \n\ndoi: 10.1126/science.ado1782\n\n#shorts #plastic #technology #science",
+        "id": 3581041,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/oMTOZFu3Zbk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 771,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oMTOZFu3Zbk/hqdefault.jpg",
+        "title": "This New Plastic Does Something Special",
+        "vote": 0
+    }
+]

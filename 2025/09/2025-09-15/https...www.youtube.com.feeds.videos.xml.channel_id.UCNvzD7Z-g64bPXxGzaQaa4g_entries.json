@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T15:21:10.457959+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T15:13:29+00:00",
+        "description": "Some games are flawed, strange, or outright disastrously bad..but you can't help but love them.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:42 Bionic Commando\n3:20 The Earth Defense Force Series\n5:30 Heavy Rain\n8:18 Sonic \u201906\n10:13 Two Worlds\n11:45 50 Cent: Blood on the Sand\n13:38 Wanted: Dead\n17:28 Matrix: Path of Neo \n20:21 Rogue Warrior\n23:17 Deadly Premonition",
+        "id": 3579076,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=n8UJgAuLF3I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n8UJgAuLF3I/hqdefault.jpg",
+        "title": "10 Best WORST Games of ALL Time",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T09:24:48.097540+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T08:58:35+00:00",
+        "description": "Israel's strike targeting Hamas leaders in Doha last week drew international outrage and was publicly criticised by the US.",
+        "id": 3576434,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/46f38540-920d-11f0-85c7-5bdf6c05d36f.jpg",
+        "title": "Rubio meets Netanyahu to discuss fallout from Israel's Qatar strike",
+        "vote": 0
+    }
+]

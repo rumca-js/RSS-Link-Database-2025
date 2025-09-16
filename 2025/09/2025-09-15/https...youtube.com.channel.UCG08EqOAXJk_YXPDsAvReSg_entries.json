@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T14:20:20.525412+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T13:20:36+00:00",
+        "description": "The Shader Graph and World Building teams are excited to announce that in Unity 6.3 Shader Graph is now officially supported for creating terrain shaders in both HDRP and URP. In addition to a new target and nodes in Shader Graph, we've also created new sample content to help you get started quickly with creating terrain shaders. Watch this video for all of the details, and then let us know what you think!\n\n[0:00] - Introduction\n[0:50] - Examples\n[2:52] - How it works\n[4:13] - Sample content\n[8:22] - How to import\n[9:20] - Summary",
+        "id": 3578596,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jhsfdTmHi5c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jhsfdTmHi5c/hqdefault.jpg",
+        "title": "Terrain Shaders in Shader Graph",
+        "vote": 0
+    }
+]

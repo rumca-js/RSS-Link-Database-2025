@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T11:28:58.589386+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T10:20:59+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/DK-Bananza-DLC-header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>If you had to push me for criticisms of <a href=\"https://www.eurogamer.net/games/donkey-kong-bananza\">Donkey Kong Bananza</a>, there aren't that many I can level at it. It's a smashing time - hur hur - and though it perhaps doesn't have that jaw-dropping impetus of a Mario Odyssey, it is nevertheless something special. Here's one, though: the post-game offering is over way too quickly. Nintendo has now addressed that with a new downloadable content, DK Island & Emerald Rush.</p> <p><a href=\"https://www.eurogamer.net/i-love-donkey-kong-bananzas-new-dk-island-emerald-rush-dlc-but-should-it-have-been-in-the-base-game\">Read more</a></p>",
+        "id": 3577214,
+        "language": "en",
+        "link": "https://www.eurogamer.net/i-love-donkey-kong-bananzas-new-dk-island-emerald-rush-dlc-but-should-it-have-been-in-the-base-game",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/DK-Bananza-DLC-header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "I love Donkey Kong Bananza's new DK Island & Emerald Rush DLC - but should it have been in the base game?",
+        "vote": 0
+    }
+]

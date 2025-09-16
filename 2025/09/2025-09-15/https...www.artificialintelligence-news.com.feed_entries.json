@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Thomas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T14:56:36.933605+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T14:05:48+00:00",
+        "description": "<p>American maritime technology company Mythos AI has completed the installation of its Advanced Pilot Assistance System (APAS) aboard the vessel CB Pacific, a chemical cargo ship owned by CB Tankers. The APAS project is designed to manage navigation at sea. Unlike most traditional systems in this space that depend largely on machine vision, APAS uses [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/apas-radar-sea-trial-tests-ai-ocean-transport/\">Mythos AI and lomarlabs deploy sea-pilot AI assistance</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3578891,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/apas-radar-sea-trial-tests-ai-ocean-transport",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+        "title": "Mythos AI and lomarlabs deploy sea-pilot AI assistance",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T23:14:10.877253+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T22:45:05+00:00",
+        "description": "See more in this series : https://www.youtube.com/watch?v=qQsf3a7YS-4&list=PLCZHp4d1HnItSSUpA-DskfKKKrQ_LQYwP - In my latest ATSC 3 / NextGenTV DRM update, we look at a recent broadcaster meeting with the FCC that's rife with contradictions. See more tech analysis: https://www.youtube.com/playlist?list=PLCZHp4d1HnIsJJ0Gy1ENvGjbCp7PslRyz and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:52 - Broadcaster Response to Our DRM Concerns\n02:01 - Consumer Technology Association (CTA) Fires Back\n02:31 - Public Knowledge's Response\n03:21 - Broadcaster's Contradictions on Mandates\n04:24 - 2021: Broadcasters promoted the HDHomerun!\n05:40 - 2023: \"Where's the Problem?\"\n06:31 - Broadcasters Deny Component Gatekeeping Right After They Did It\n07:41 - Lack of Technical Understanding Among Broadcast Execs\n12:17 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon",
+        "id": 3582910,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=YPHeQK6rV2E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YPHeQK6rV2E/hqdefault.jpg",
+        "title": "ATSC 3.0 Update: Contradictions Everywhere in Broadcasters' Latest Filing",
+        "vote": 0
+    }
+]

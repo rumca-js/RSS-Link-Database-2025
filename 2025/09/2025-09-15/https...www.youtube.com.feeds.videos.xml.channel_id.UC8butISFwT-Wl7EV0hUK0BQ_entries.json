@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T15:47:00.045995+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T14:42:47+00:00",
+        "description": "Code your own code editor! This course shows you how to build a lightweight, browser-based code editor that runs entirely on a single HTML page. You\u2019ll create tabbed editors for HTML, CSS, and JavaScript, complete with an instant live preview in a sandboxed iframe.\n\nCourse developed by @programmingoceanacademy \n\nCode: https://github.com/MOHAMMEDFAHD/Web-Development-Collections/tree/main/code-editor\n\nhttps://www.programming-ocean.com/\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2014 0:00:00 Intro\n\u2014 0:01:54 Project walkthrough & showcase\n\u2014 0:18:02 HTML structure: scaffolding the page\n\u2014 1:04:05 CSS styling & layout (panels, tabs, responsive)\n\u2014 2:20:20 JavaScript functionality: tabs, live preview, save/load\n\u2014 4:06:35 Importing Ace Editor & final touches\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e Drake Milly\n\ud83d\udc7e Ulises Moralez\n\ud83d\udc7e Goddard Tan\n\ud83d\udc7e David MG\n\ud83d\udc7e Matt",
+        "id": 3579314,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Vs4hQsDpxww",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vs4hQsDpxww/hqdefault.jpg",
+        "title": "Code Your Own Code Editor \u2013 JavaScript, HTML, CSS Tutorial",
+        "vote": 0
+    }
+]

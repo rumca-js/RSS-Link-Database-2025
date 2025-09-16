@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T15:58:01.737572+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T15:58:00+00:00",
+        "description": "Wszystko wskazuje na to, \u017ce jeszcze w tym miesi\u0105cu zobaczymy projekt nowelizacji ustawy o utrzymaniu czysto\u015bci i porz\u0105dku w gminach. To ju\u017c drugi front, jaki obok startu systemu kaucyjnego otworzy si\u0119 w gospodarce komunalnej.",
+        "id": 3579482,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/uslugi-komunalne/art43001481-nowelizacja-ustawy-czystosciowej-nadciaga-wielkimi-krokami-towarzysza-jej-spory",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowelizacja ustawy czysto\u015bciowej nadci\u0105ga wielkimi krokami. Towarzysz\u0105 jej spory",
+        "vote": 0
+    }
+]

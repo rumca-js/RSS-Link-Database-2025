@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jennifer Pinsof",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T19:58:08.840602+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T19:07:16+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><i><span data-contrast=\"none\">This is the first installment in a blog series documenting EFF's findings from the </span></i><a href=\"https://www.eff.org/deeplinks/2025/02/stop-censoring-abortion-fight-reproductive-rights-digital-age\"><i><span data-contrast=\"none\">Stop Censoring Abortion</span></i></a><i><span data-contrast=\"none\"> campaign. You can read additional posts </span></i><a href=\"https://www.eff.org/pages/stop-censoring-abortion\"><i><span data-contrast=\"none\">here</span></i></a><i><span data-contrast=\"none\">.</span></i><span data-ccp-props=\"{}\">\u00a0</span></p>\n<p><span data-contrast=\"none\">We\u2019ve been hearing that social media platforms are censoring abortion-related content, even when no law requires them to do so. Now, we\u2019ve got the receipts.</span><span data-ccp-props=\"240}\">\u00a0</span></p>\n<p><span data-contrast=\"none\">For months, EFF ",
+        "id": 3581556,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/09/our-stop-censoring-abortion-campaign-uncovers-social-media-censorship-crisis",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2025/09/11/screenshot_2025-09-11_at_2.59.39_pm.png",
+        "title": "Our Stop Censoring Abortion Campaign Uncovers a Social Media Censorship Crisis",
+        "vote": 0
+    }
+]

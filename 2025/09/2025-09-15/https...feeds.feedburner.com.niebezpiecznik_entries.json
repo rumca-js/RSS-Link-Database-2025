@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T11:12:43.041586+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T10:50:34+00:00",
+        "description": "<p>Upadek firmy transportowej, kt\u00f3ra dzia\u0142a\u0142a ponad 150 lat. Jedna z rekordowych kar za naruszenie RODO. Najwi\u0119kszy w historii wyciek danych zdrowotnych Polak\u00f3w. Te trzy pozornie r\u00f3\u017cne wydarzenia \u0142\u0105czy wsp\u00f3lny mianownik, o kt\u00f3rym specjali\u015bci czasem zapominaj\u0105. Je\u015bli chcesz wi\u0119cej si\u0119 o nim dowiedzie\u0107 to b\u0119dzie ku temu dobra okazja.<span id=\"more-26579\"></span></p>\n<p>W lipcu tego roku swoj\u0105 dzia\u0142alno\u015b\u0107 po 158 latach <a href=\"https://specopssoft.com/blog/weak-password-destroyed-knp-lessons/\">zako\u0144czy\u0142a firma KNP</a> z Northamptonshire, kt\u00f3ra zatrudnia\u0142a ponad 700 ludzi i mia\u0142a flot\u0119 ponad 500 ci\u0119\u017car\u00f3wek. W przestrzeni medialnej by\u0142o troch\u0119 news\u00f3w na ten temat i wi\u0119kszo\u015b\u0107 z nich koncentrowa\u0142a si\u0119 na s\u0142abym ha\u015ble. Niestety wiele nag\u0142\u00f3wk\u00f3w i news\u00f3w zepchn\u0119\u0142o na drugi plan informacj\u0119 o tym, \u017ce ataku dokona\u0142a grupa przest\u0119pcza Akira, kt\u00f3ra jest gangiem\u00a0 <strong>ransomware</strong>. Dok\u0142adnie ta sama, kt\u00f3ra w ubieg\u0142ym roku zaatakowa\u0142a <a href=\"https://niebezpiecznik.pl/post/uniwersytet-zielo",
+        "id": 3577136,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/lepiej-zrozum-to-zagrozenie-zanim-ono-zniszczy-twoja-firme",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/09/ransomware-wykr-150x150.png",
+        "title": "Lepiej zrozum TO zagro\u017cenie zanim ONO zniszczy Twoj\u0105 firm\u0119",
+        "vote": 0
+    }
+]

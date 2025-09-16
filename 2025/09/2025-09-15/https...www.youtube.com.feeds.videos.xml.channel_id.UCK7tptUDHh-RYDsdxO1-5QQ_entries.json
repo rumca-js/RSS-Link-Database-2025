@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T18:14:46.916346+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T17:00:48+00:00",
+        "description": "Apple\u2019s latest iPhone software iOS26 is the biggest visual makeover in years. New features include Liquid Glass, a built-in assistant to screen your calls, hold assist and more. AI features like live translation in calls and FaceTimes require Apple Intelligence, which only runs on iPhone 15 Pro and newer.\n\nWSJ\u2019s Joanna Stern shows you what\u2019s new\u2014and how to turn off the changes you don\u2019t like.\n\nChapters:\n0:00 iOS26\n0:35 Lessen the glass\n1:10 Glassify your home screen\n1:34 Revert your phone app\n1:53 Call screening\n2:34 Hold assist \n3:18 Live translate calls\n4:00 Filter unknown senders\n4:32 Add messages backgrounds \n5:04 Add a poll to messages\n5:22 Adjust snooze time \n5:36 Ask about screenshots \n6:00 Re-learn the camera app\n6:24 Turn on adaptive power\n6:44 More tips and tricks \n\nTech Things With Joanna Stern\nEverything is now a tech thing. In creative and humorous videos, WSJ senior personal tech columnist Joanna Stern explains and reviews the products, services and trends that are chang",
+        "id": 3580736,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cbD2LWnDCIc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cbD2LWnDCIc/hqdefault.jpg",
+        "title": "iOS 26: 26 New Features for Apple\u2019s New iPhone Software Update | WSJ",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/TENNYJESSE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T05:07:01.902317+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T04:12:42+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/searchengines/comments/1nhc3rj/google_is_finally_deploying_ai_overviews_filter/\"> <img src=\"https://preview.redd.it/lyye6tja79pf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d939f510d9dae6d3cb0077e9deba92d145a8278\" alt=\"Google is finally deploying AI Overviews filter in GSC\" title=\"Google is finally deploying AI Overviews filter in GSC\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TENNYJESSE\"> /u/TENNYJESSE </a> <br/> <span><a href=\"https://i.redd.it/lyye6tja79pf1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/searchengines/comments/1nhc3rj/google_is_finally_deploying_ai_overviews_filter/\">[comments]</a></span> </td></tr></table>",
+        "id": 3575349,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1nhc3rj/google_is_finally_deploying_ai_overviews_filter",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/lyye6tja79pf1.jpeg?width=640&crop=smart&auto=webp&s=2d939f510d9dae6d3cb0077e9deba92d145a8278",
+        "title": "Google is finally deploying AI Overviews filter in GSC",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T16:19:03.320884+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T15:07:28+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nIn this week's gigantic DF Direct, Alex shares first impressions of Borderlands 4 PC performance, Oliver pops up for a guest appearance as the team summarise Nintendo's latest Direct, Rich enthuses about GeForce Now's new 5080 tier, while cloud coverage continues with a hands-on look at Microsoft xCloud's new 1440p streaming. Meanwhile, there's a cautious welcome for reports that PS6 will features a detachable, optional Blu-ray drive.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n\n0:00:00 Introduction \n0:01:09 News 1:  Borderlands 4 suffers PC performance issues\n0:25:11 News 2: Nintendo Direct: Mario Galaxy, Mario Wonder, Mario Tennis Fever, Yoshi and the Mysterious Book \n0:33:11 Resident Evil Requiem \n0:41:03 Metroid Prime 4: Beyond, Fire Emblem: Fortune\u2019s Weave, Persona 3 Reload \n0:52:",
+        "id": 3579712,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2v1ST5qMoaY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2v1ST5qMoaY/hqdefault.jpg",
+        "title": "DF Direct Weekly #231: Borderlands 4 Perf Issues, Nintendo Direct, PS6 BD Drive, GeForce Now 5080!",
+        "vote": 0
+    }
+]

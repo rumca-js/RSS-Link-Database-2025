@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/SkyAdministrative459",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-15T11:04:56.162262+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-15T10:48:28+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Greetings,</p> <p>I have a perfectly fine working Arr-Stack.</p> <p>I just dodged a bullet though. </p> <p>My Storage went kaputt but i was able to revive it. </p> <p>However it raised an issue incase it seriously breaks.</p> <p>Re-Downloading all the Stuff from usenet is not the real problem here to rebuild the library, but the indexer is.</p> <p>My indexer has a limit of 400 downloads per day. When rebuilding a library of ~50.000 items this could take a few feeks.</p> <p>Now my thought is, is there an existing (automated) way to store all downloaded nzb files in a self hosted indexer for such occasions? </p> <p>Any ideas? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SkyAdministrative459\"> /u/SkyAdministrative459 </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1nhiib1/selfhosted_backup_indexer/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1nhiib1/selfhos",
+        "id": 3577068,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1nhiib1/selfhosted_backup_indexer",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "selfhosted backup indexer",
+        "vote": 0
+    }
+]
