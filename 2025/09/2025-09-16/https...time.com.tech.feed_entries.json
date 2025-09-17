@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew R. Chow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-16T16:32:57.213322+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-16T15:51:25+00:00",
+        "description": "Dario Amodei and other Anthropic leaders pushed for export controls and safety guardrails at a D.C. event.",
+        "id": 3589200,
+        "language": "en-UK",
+        "link": "https://time.com/7317553/anthropic-futures-forum-dc",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/09/GettyImages-1554515033.jpg",
+        "title": "Inside Anthropic\u2019s Big Washington Push",
+        "vote": 0
+    }
+]

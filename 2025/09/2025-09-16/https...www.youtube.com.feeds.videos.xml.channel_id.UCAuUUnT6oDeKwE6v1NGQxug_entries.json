@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-16T19:10:19.448615+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-16T19:00:33+00:00",
+        "description": "What happens when following the \u201cright\u201d path leads you to the \u201cwrong\u201d place? Kickstarter cofounder Yancey Strickler and scientist Jenny Du discuss how they\u2019ve made careers out of rethinking old systems and imagining new ones. They dive into the spark that led to their success \u2014 and show why it\u2019s important to love your own \u201cweird ways\u201d of being. (This conversation is part of \"TED Intersections,\" a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)",
+        "id": 3590547,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Qu6xTcDmEs0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qu6xTcDmEs0/hqdefault.jpg",
+        "title": "Broken systems are not inevitable \u2014 here\u2019s how to enact change #TEDTalks",
+        "vote": 0
+    }
+]

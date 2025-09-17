@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-16T14:17:04.732968+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-16T14:01:35+00:00",
+        "description": "For nearly two decades, Box co-founder and CEO Aaron Levie has been at the frontlines of how technology reshapes work\u2014guiding the company through the rise of mobile, the cloud, and now the age of AI.\n\nIn his fireside with YC General Partner David Lieb at AI Startup School, Aaron reflects on what it means to adapt a company over the long term, the hard lessons of staying relevant across multiple technology waves, and why he believes AI represents the most transformative shift yet.\n\nChapters:\n00:00 \u2013 AI hype vs. reality inside companies\n01:00 \u2013 Early days: starting Box in 2005\n03:30 \u2013 Pivoting from consumer storage to enterprise cloud\n05:45 \u2013 Cloud transition lessons vs. AI today\n07:10 \u2013 Why unstructured data is AI\u2019s biggest opportunity\n09:05 \u2013 Will AI replace jobs or create more work?\n13:15 \u2013 Startups vs. incumbents in the AI era\n15:20 \u2013 Finding the next \u201cnouns and verbs\u201d for startups\n20:25 \u2013 Rethinking SaaS business models for AI agents\n27:05 \u2013 Why companies won\u2019t just build everythin",
+        "id": 3587814,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uqc_vt95GJg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uqc_vt95GJg/hqdefault.jpg",
+        "title": "Aaron Levie: Why Startups Win In The AI Era",
+        "vote": 0
+    }
+]

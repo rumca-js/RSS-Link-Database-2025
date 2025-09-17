@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-16T17:44:16.192325+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-16T17:11:00+00:00",
+        "description": "<p>The 2025 election for the PSF Board created an opportunity for conversations about the PSF's work to serve the global Python community. We appreciate community members' perspectives, passion, and engagement in the election process this year.&nbsp;</p><p>We want to send a big thanks to everyone who ran and was willing to serve on the PSF Board. Even if you were not elected, we appreciate all the time and effort you put into thinking about how to improve the PSF and represent the parts of the community you participate in. We hope that you will continue to think about these issues, share your ideas, and join a PSF Work Group or PSF initiative if you feel called to do so.</p><h2 style=\"text-align: left;\">Board Members Elect</h2><p>Congratulations to our two new and two returning Board members who have been elected!&nbsp;<br /></p><ul style=\"text-align: left;\"><li>Abigail Dogbe</li><li>Jannis Leidel</li><li>Sheena O\u2019Connell</li><li>Simon Willison</li></ul><p>We\u2019ll be in touch with all t",
+        "id": 3589851,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/09/announcing-2025-psf-board-election.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Announcing the 2025 PSF Board Election Results!",
+        "vote": 0
+    }
+]

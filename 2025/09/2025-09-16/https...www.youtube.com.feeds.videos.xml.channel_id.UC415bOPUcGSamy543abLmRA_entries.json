@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cleo Abram",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-16T18:29:41.174722+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-16T18:10:48+00:00",
+        "description": "This train is driving itself, and it\u2019s changing the way stuff gets to you! Traditional trains are great for long routes, but for smaller towns shipments can sit for days until there\u2019s enough to justify a huge train to carry it. \n\nThe solution? Creating autonomous trains\u2026this is how they work. \n\nFor more optimistic science and technology, subscribe!\n\n#shorts #train #engineering #selfdriving #autonomous #technology",
+        "id": 3590287,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/nZGZToCJYK8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 771,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nZGZToCJYK8/hqdefault.jpg",
+        "title": "This New Train Drives Itself",
+        "vote": 0
+    }
+]

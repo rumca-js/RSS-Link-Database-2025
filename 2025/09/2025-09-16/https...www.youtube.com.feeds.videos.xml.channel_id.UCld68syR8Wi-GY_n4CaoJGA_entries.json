@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-16T18:00:15.907584+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-16T17:30:03+00:00",
+        "description": "There have recently been phishing attacks on both the Rust Crates Ecosystem and NPM for Javascript and since they're both pretty similar I've decided to just bundle them together.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nGithub Discussion: https://github.com/orgs/community/discussions/172738\nBleeping Computer Article: https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/\nTechnical Breakdown: https://www.varonis.com/blog/npm-hijacking\nCrates Phishing: https://fasterthanli.me/articles/crates-io-phishing-attempt\nRust Discussion: https://github.com/rust-lang/crates.io/discussions/11889\nRust Blog: https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/\n\n=========Video Platforms====",
+        "id": 3589999,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=C_IJskzSe1I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C_IJskzSe1I/hqdefault.jpg",
+        "title": "NPM And Rust Are Constantly Under Attack",
+        "vote": 0
+    }
+]

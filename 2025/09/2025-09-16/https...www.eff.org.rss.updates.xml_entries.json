@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Guariglia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-16T20:22:40.697700+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-16T19:30:26+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>The California Legislature has passed a necessary piece of legislation, S.B. 524, which starts to regulate police reports written by generative AI. Now, it\u2019s up to us to make sure Governor Newsom will sign the bill.\u00a0</span></p>\n<p><span>We must make our voices heard. These technologies </span><a href=\"https://www.eff.org/deeplinks/2025/07/effs-guide-getting-records-about-axons-ai-generated-police-reports\"><span>obscure certain records and drafts from public disclosure</span></a><span>. Vendors have</span><a href=\"https://finance.yahoo.com/news/axon-enterprise-inc-axon-rise-161418536.html\"><span> invested heavily </span></a><span>on their ability to sell police genAI.\u00a0</span></p>\n<p class=\"take-action\"><a href=\"https://act.eff.org/action/tell-governor-newsom-rein-in-ai-police-reports-and-sign-s-b-524\">TAKE ACTION</a></p>\n<p><span>AI-gene",
+        "id": 3591153,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/09/california-tell-governor-newsom-regulate-ai-police-reports-and-sign-sb-524",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "California, Tell Governor Newsom: Regulate AI Police Reports and Sign S.B. 524",
+        "vote": 0
+    }
+]

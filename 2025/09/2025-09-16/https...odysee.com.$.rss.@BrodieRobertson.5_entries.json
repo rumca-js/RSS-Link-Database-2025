@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-16T17:55:49.446991+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-16T17:30:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/C_IJskzSe1I\" width=\"480\" alt=\"thumbnail\" title=\"NPM And Rust Are Constantly Under Attack\" /></p>There have recently been phishing attacks on both the Rust Crates Ecosystem and NPM for Javascript and since they're both pretty similar I've decided to just bundle them together.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Github Discussion: https://github.com/orgs/community/discussions/172738<br />Bleeping Computer Article: https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/<br />Technical Breakdown: https://www.varonis.com/blog/npm-hijacking<br />Crates Phishing: https://fasterthanli.me/articles/crates-io-p",
+        "id": 3589952,
+        "language": "en",
+        "link": "https://odysee.com/npm-and-rust-are-constantly-under-attack:cd5d7f1df69bec1d21ce1d1b9ae366ac8abe6ceb",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/C_IJskzSe1I",
+        "title": "NPM And Rust Are Constantly Under Attack",
+        "vote": 0
+    }
+]
