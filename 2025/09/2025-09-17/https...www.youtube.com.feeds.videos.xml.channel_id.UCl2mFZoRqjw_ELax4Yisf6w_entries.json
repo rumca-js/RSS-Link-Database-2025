@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T23:29:32.741245+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T23:07:08+00:00",
+        "description": "email: youtube@rossmanngroup.com\n\nhttps://revanced.app/announcements/15-spotify-dmca-notice-seeking-legal-help",
+        "id": 3601425,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=kgFCC9haqB4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kgFCC9haqB4/hqdefault.jpg",
+        "title": "Spotify wants you in prison for skipping lines of code: the revanced case & where I stand",
+        "vote": 0
+    }
+]

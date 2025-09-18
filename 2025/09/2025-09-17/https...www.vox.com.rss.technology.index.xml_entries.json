@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sigal Samuel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T12:40:53.337745+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T08:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A collage artwork showing two versions of the same black-and-white aerial photo of skyscrapers. On the left, the photo is crumpled and fragmented, with a strip of binary code running across it. On the right, the same photo is intact but covered in scattered colorful dots in red, green, yellow, and blue. More dots float beyond the edges of the photo against a black background.\" data-caption=\"\" data-portal-copyright=\"Lucy Jones for Vox\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/09/LucyJones_Vox_SigalSamuel.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">You\u2019ve probably seen this one before: first it looks like a rabbit. You\u2019re totally sure: yes, that\u2019s a rabbit! But then \u2014 wait, no \u2014&nbsp;it\u2019s a duck. Definitely, absolutely a duck. A few seconds later, it\u2019s flipped again, and all you can see is rabbit.</p>\n\n<p class=\"has-text-align-none\">",
+        "id": 3596312,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/461680/if-anyone-builds-it-yudkowsky-soares-ai-risk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/LucyJones_Vox_SigalSamuel.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The AI doomers are not making an argument. They\u2019re selling a worldview.",
+        "vote": 0
+    }
+]

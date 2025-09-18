@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Low Level",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T15:23:51.316324+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T15:01:19+00:00",
+        "description": "WhatsApp? nm u? Anyway today it looks like a really interesting bug came out targeting people using WhatsApp on iOS.\n\nhttps://www.whatsapp.com/security/advisories/2025?lang=en_US\n\nGo to go.lowlevel.tv/flare-august for a free trial of Flare and see if you're information is floating around on the dark web!\n\n\ud83c\udfeb MY COURSES\nSign-up for my FREE 3-Day C Course: https://lowlevel.academy\n\n\ud83e\uddd9\u200d\u2642\ufe0f HACK YOUR CAREER\nWanna learn to hack? Join my new CTF platform: https://stacksmash.io\n\n\ud83d\udd25COME HANG OUT   \nCheck out my other stuff: https://lowlevel.tv",
+        "id": 3597786,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jO9RSppTirQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 736,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jO9RSppTirQ/hqdefault.jpg",
+        "title": "this was genuinely interesting",
+        "vote": 0
+    }
+]

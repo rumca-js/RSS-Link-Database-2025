@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uwaga! Naukowy Be\u0142kot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T18:09:40.975856+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T17:10:45+00:00",
+        "description": "\ud83d\udc49 Patronite \u25ba https://patronite.pl/NaukowyBelkot \n\ud83d\udcda Moja ksi\u0105\u017cka \u25ba https://altenberg.pl/geny/\n\ud83d\udcda E-book \u25ba https://tinyurl.com/pnp-ebook\n\nW tym roku lato nas nie rozpieszcza\u0142o pogod\u0105. I niewielkim pocieszeniem powinno dla nas by\u0107, \u017ce stosunkowo niedawno pogoda w tym okresie by\u0142a du\u017co, du\u017co gorsza. Na tyle gorsza, \u017ce ca\u0142y rok nazwano \"rokiem bez lata\".\n\n===\nOdcinek o cholerze \ud83d\udc49 https://www.youtube.com/watch?v=BS2vwkhml5g\nOdcinek o wulkanach \ud83d\udc49 https://www.youtube.com/watch?v=86aCsmHoEp0\n\n===\nRozk\u0142ad jazdy:\n\n0:00 Nie takie zle to nasze lato\n1:17 Pami\u0119tny rok 1816\n7:33 Przyczyny\n11:17 G\u0142\u00f3wny winowajc\u0105\n13:39 Podsumowanie\n\n===\n\u0179r\u00f3d\u0142a (wybrane):",
+        "id": 3599227,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=ovW_S9wax8c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 377,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7PqixGIdE-jjoHKMPYpGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ovW_S9wax8c/hqdefault.jpg",
+        "title": "Rok bez lata",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T15:25:04.587182+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T14:23:06+00:00",
+        "description": "Can a cheap second GPU supercharge your FPS? I built a budget dual-GPU rig\u2014RTX 3060 + Intel Arc A380\u2014and used Lossless Scaling Frame Generation (LSFG) to boost smoothness in modern AAA games (yes, even Borderlands 4). No SLI, no NVLink\u2014just a smart way to offload frame gen to a helper GPU on a tight budget.\nWe\u2019ll cover setup, game testing at 1440p, latency feel, stability, power draw, and whether this trick is actually worth it for lower-end and midrange PCs.\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Back to school code for software\uff1aETA\nWindows 11 Pro Key($23):https://biitt.ly/RUZiX\nWindows 11 Home Key($22):https://biitt.ly/SQKqi\nWindows 10 Pro OEM Key($17):https://biitt.ly/KpEmf\nWindows10 Home Key($16):https://biitt.ly/2tPi1\nOffice 2019 pro key($62):https://biitt.ly/o0OQT\n2016 pro key($31):\u00a0https://biitt.ly/xWmvn\nBuy Windows 11 CDkeys at\u00a0https://www.vip-urcdkey.com\n\nDISCLAIMER: This video and de",
+        "id": 3597805,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WBu7f9uNPwE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WBu7f9uNPwE/hqdefault.jpg",
+        "title": "Cheap Dual-GPU Build: 2\u00d7 Smoother AAA Gaming?",
+        "vote": 0
+    }
+]

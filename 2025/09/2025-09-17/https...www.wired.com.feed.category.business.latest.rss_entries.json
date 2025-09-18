@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Natasha Bernal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T14:06:43.471378+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T13:53:12+00:00",
+        "description": "The Nvidia CEO reveals his consuming love for Google\u2019s image generator, the artsy side of Grok, and what exactly he uses Perplexity, Gemini, and ChatGPT for right now.",
+        "id": 3597033,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/jensen-huang-has-gone-nano-bananas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/68cab7d93e5e2149419670d9/master/pass/JensenBanana.png",
+        "title": "Nvidia CEO Jensen Huang Is Bananas for Google Gemini\u2019s AI Image Generator",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T08:55:16.510276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T08:32:36+00:00",
+        "description": "Signup to Poliigon: https://www.poliigon.com/blenderguru\n\n===Links\ud83d\udd17===\n\nGeonode setup coming soon!\n\nBlender Guru Discord: https://blenderguru.com/discord\n\nKeyboard Shortcut Cheat Sheet: https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit?usp=sharing\n\nIndustry Compatible Cheat Sheet (not mine, used with permission): https://www.dropbox.com/scl/fi/dboz7fuh0f5255n5ocrdl/BlenderKeymap-IndustryCompatible_v2.pdf?rlkey=2yxe23jev9y2qmdg7txrzy8ip&dl=0\n\nBlender Guru: http://www.blenderguru.com \nPoliigon (My sister company): https://www.poliigon.com/blenderguru \n\n\n===Follow me\ud83e\udef0===\n\nTwitter: https://twitter.com/andrewpprice\nInstagram: http://instagram.com/andrewpprice\nArtStation: http://artstation.com/artist/andrewprice\nLinkedIn: www.linkedin.com/in/andrew-price-17678911",
+        "id": 3594763,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gaYjZ8IBvds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gaYjZ8IBvds/hqdefault.jpg",
+        "title": "I made a mineshaft in Blender",
+        "vote": 0
+    }
+]

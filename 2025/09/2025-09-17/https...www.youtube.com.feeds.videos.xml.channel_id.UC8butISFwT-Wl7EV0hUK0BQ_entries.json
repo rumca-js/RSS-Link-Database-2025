@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T14:36:06.340045+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T13:52:14+00:00",
+        "description": "Prepare for the Databricks Data Engineer Associate Certification exam and pass!\n\nThe Databricks Certified Data Engineer Associate certification exam assesses an individual\u2019s ability to use the Databricks Data Intelligence Platform to complete introductory data engineering tasks. This includes an understanding of the Data Intelligence Platform and its workspace, its architecture, and its capabilities. It also assesses the ability to perform ETL tasks using Apache Spark SQL or PySpark, covering extraction, complex data handling and User defined functions. Finally, the exam assesses the tester\u2019s ability to  deploy and orchestrate workloads with Databricks workflows configuring and scheduling jobs effectively. \n\nAndrew Brown developed this course.\n\n\ud83d\udd17 Get your Free Practice and Downloadable Cheatsheets: https://www.exampro.co/gcp-pca\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Introduction\n- 0:11:21 Data Basics\n- 0:23:04 Data Models Processing\n- 0:36:38 Data Integrity\n- 0:43:24 Data Sources\n- 0:52:56 Introd",
+        "id": 3597324,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0Hd5vYqin7w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0Hd5vYqin7w/hqdefault.jpg",
+        "title": "Databricks Data Engineer Associate Certification Course \u2013 Pass the Exam!",
+        "vote": 0
+    }
+]

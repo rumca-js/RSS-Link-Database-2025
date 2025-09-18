@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T19:15:51.350617+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T19:00:53+00:00",
+        "description": "This may be the 70s\u2019 strangest case of Stockholm Syndrome! Student Patty Hearst was kidnapped by the anti-capitalist terror org, The Symbionese Liberation Army, in 1974. She then surprised everyone by swearing allegiance to the group and committing crimes on their behalf. When she was arrested on 18th September, 1975, her defence claimed she had been brainwashed. But was this true?",
+        "id": 3599838,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/ppPEali88zg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ppPEali88zg/hqdefault.jpg",
+        "title": "The Radical Left Isn\u2019t a New Concept - Just Check Out Patty Hearst!",
+        "vote": 0
+    }
+]

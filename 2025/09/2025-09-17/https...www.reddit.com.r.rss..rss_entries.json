@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/phos_nostos",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T08:17:19.844543+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T07:29:16+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I recently saw feeder has add &quot;Summarise&quot; feature while adding a feed, mostly by chatgpt but as of now it&#39;s showing this error, is it due to api issue of feeder or from my side?</p> <p>Error: You didn&#39;t provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you&#39;re accessing the API from your browser and are prompted for a username and password. You can obtain an API key from <a href=\"https://platform.openai.com\">https://platform.openai.com</a> /account/api-keys.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/phos_nostos\"> /u/phos_nostos </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1nj6m4s/feeder_summarise_feature_issue/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1nj6m4s/feeder_summarise_feature_issue/\">[comm",
+        "id": 3594514,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1nj6m4s/feeder_summarise_feature_issue",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Feeder summarise feature issue",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T19:42:58.283113+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T17:30:04+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/ICMPuFfen5g\" width=\"480\" alt=\"thumbnail\" title=\"AMD Drivers Are Dead, Long Live The AMD Drivers\" /></p>Recently we saw the end of the AMDVLK drivers on Linux to be fully replaced by the RADV drivers in the Mesa project but what does this actually mean for you.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />AMDVLK Discussion: https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416<br />Mesa Repo: https://gitlab.freedesktop.org/mesa/mesa<br />Arch Wiki Vulkan: https://wiki.archlinux.org/title/Vulkan<br />AMDVLK Repo: https://github.com/GPUOpen-Drivers/AMDVLK<br />Dave Airlie Blogpost: https://airlied.blogspot.com/2025/09/radv-takes-over-from-amdvlk.html<br /><br />=========Video Platf",
+        "id": 3599995,
+        "language": "en",
+        "link": "https://odysee.com/amd-drivers-are-dead%2C-long-live-the-amd:10788d0b4ad8d878f3e7d6b92cc96f941014c808",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/ICMPuFfen5g",
+        "title": "AMD Drivers Are Dead, Long Live The AMD Drivers",
+        "vote": 0
+    }
+]

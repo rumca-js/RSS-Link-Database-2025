@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T17:40:48.125879+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T16:45:52+00:00",
+        "description": "iPadOS 26 is a big learning curve\u2014learn what I\u2019ve done to switch from a Mac full-time.\n\u2728 One robot vacuum that handles thresholds, obstacles, and every corner\ud83d\udc47 \nMova V50 Ultra on Amazon:\u00a0https://amzn.to/4691Y9N\nMova V50 Ultra on Official Website:\u00a0https://bit.ly/48h200A\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nThe new M4 iPad Pro running iPadOS 26 has officially replaced my MacBook Air, Mac mini, and even my Apple Vision Pro as my main computer. In this video I show you how I built a full-time iPad workflow, from Apple\u2019s new windowed multitasking modes, Stage Manager improvements, and background tasks, to productivity hacks with Shortcuts, Apple Intelligence AI automation, and the updated Files app. If you\u2019ve ever wondered can the iPad replace a Mac or how to make the most of",
+        "id": 3598903,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Ap5h2OUeiWs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ap5h2OUeiWs/hqdefault.jpg",
+        "title": "From Mac to iPad: How I Switched",
+        "vote": 0
+    }
+]

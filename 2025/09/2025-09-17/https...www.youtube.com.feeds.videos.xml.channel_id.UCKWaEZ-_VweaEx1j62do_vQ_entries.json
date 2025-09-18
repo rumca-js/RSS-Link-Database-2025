@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T12:10:15.715897+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T10:01:09+00:00",
+        "description": "Explore the Podcast \u2192 https://ibm.biz/BdeAgH\nLearn more about cybersecurity \u2192 https://ibm.biz/BdeAhx\n\nHas the most notorious cybercrime gang of the moment really hung up its keyboards? In this episode of Security Intelligence, host Matt Kosinski along with panelists Dave Bales, Michelle Alvarez and Sridhar Muppidi discuss Scattered Lapsus$ Hunters\u2019 retirement announcement, the ethics of ransomware research, software supply chain security lessons from the npm hack, the state of OT security, and hiring fraud.  \n\nPlus: Dave takes on CVSS scores. \n\nAll this and more, on Security Intelligence.  \n\n00:00 \u2013 Intro  \n02:12 \u2013 Scattered Lapsus$ Hunters retire \n8:05 \u2013 AI ransomware is here \n15:43 \u2013 npm hijacking \n24:51 \u2013 X-Force on OT threats \n35:27 \u2013 AI hiring fraud \n41:36 \u2013 A hacker and Huntress EDR \n\nSubscribe to the IBM Think newsletter \u2192 https://ibm.biz/BdeAgF\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any ot",
+        "id": 3596100,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dAS4zgMiSuQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dAS4zgMiSuQ/hqdefault.jpg",
+        "title": "AI ransomware, hiring fraud and the end of Scattered Lapsus$ Hunters",
+        "vote": 0
+    }
+]

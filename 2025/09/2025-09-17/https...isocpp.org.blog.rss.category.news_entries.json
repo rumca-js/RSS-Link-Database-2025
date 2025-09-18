@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-17T22:47:30.290765+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-17T22:10:14+00:00",
+        "description": "<p>\n\t<img alt=\"797f4c8c0b89b22b.png\" src=\"https://isocpp.org/files/img/797f4c8c0b89b22b.png\" style=\"width: 150px; margin: 10px; float: right; height: 150px;\" />In today&#39;s post, I like to talk about C++26 and one of the probably most impactful features that have been added to the working draft. While C++26 is still some months away from official completion, since the WG21 summer meeting in June we all now know what will be in C++26.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2025/08/cpp26-reflection-at-compile-time/\">C++26 reflection at compile-time</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tWhile the new standard will have plenty of great improvements the one that will most likely change a lot is reflection at compile-time! In Sofia we voted seven reflection papers into C++26:</p>\n\t<ul>\n\t\t<li>\n\t\t\t<a href=\"https://wg21.link/P1306R5\" target=\"_blank\">P1306R5</a>&nbsp;<em>Expansion statements</em></li>\n\t\t<li",
+        "id": 3601224,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/09/cpp26-reflection-at-compile-time-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/797f4c8c0b89b22b.png",
+        "title": "C++26 reflection at compile-time -- Andreas Fertig",
+        "vote": 0
+    }
+]
