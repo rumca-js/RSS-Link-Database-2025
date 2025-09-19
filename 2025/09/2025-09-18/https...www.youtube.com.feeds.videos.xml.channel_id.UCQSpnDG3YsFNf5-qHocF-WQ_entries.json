@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T22:28:02.969445+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T21:07:31+00:00",
+        "description": "Patch now, a new zero-day exploit in Chromium-based browsers was found\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:31 - Info About The Exploit\n1:36 - The Patch\n1:58 - How To Disable The V8 Optimizer\n2:36 - Disabling It In Edge Browser\n3:01 - Patch Times For Other Browsers\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 3610776,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=blVlKoAlfY0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/blVlKoAlfY0/hqdefault.jpg",
+        "title": "\ud83d\udea8UPDATE NOW\ud83d\udea8- New Exploit Found in Chrome (Also Edge/Brave/Opera)",
+        "vote": 0
+    }
+]

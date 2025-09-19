@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jennifer Pinsof",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T20:52:52.287896+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T19:44:15+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>The San Francisco Police Department is the latest California law enforcement agency to get caught sharing automated license plate reader (ALPR) data with out-of-state and federal agencies. EFF and the ACLU of Northern California are calling them out for this direct violation of California law, which has put every driver in the city at risk and is especially dangerous for immigrants, abortion seekers, and other targets of the federal government.</p>\n<p>This week, we sent the San Francisco Police Department a demand letter and request for records under the city\u2019s Sunshine Ordinance following the <a href=\"https://sfstandard.com/2025/09/08/sfpd-flock-alpr-ice-data-sharing/\">SF Standard\u2019s recent report</a> that SFPD provided non-California agencies direct access to the city\u2019s ALPR database. Reporters uncovered that at least 19 searches run by thes",
+        "id": 3610012,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/09/eff-aclu-sfpd-stop-illegally-sharing-data-ice-and-anti-abortion-states",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF, ACLU to SFPD: Stop Illegally Sharing Data With ICE and Anti-Abortion States",
+        "vote": 0
+    }
+]

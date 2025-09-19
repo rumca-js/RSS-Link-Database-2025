@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hank Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T21:09:19.471897+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T20:38:04+00:00",
+        "description": "I noticed this pattern and I want to know if anyone else is seeing these same effects. \n\nEdited by Nies: https://bsky.app/profile/nies.bsky.social",
+        "id": 3610132,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QC9glJa1-c0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QC9glJa1-c0/hqdefault.jpg",
+        "title": "The Problem was Never the \"Horse Dewormer\"",
+        "vote": 0
+    }
+]

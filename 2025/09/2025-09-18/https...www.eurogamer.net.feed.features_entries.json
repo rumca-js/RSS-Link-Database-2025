@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wales",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T09:27:12.838080+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T08:30:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/crow-country-header-crop.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Even without the cloying darkness and lumbering monsters, you get the impression <a href=\"https://www.eurogamer.net/games/crow-country\">Crow Country</a> would be a pretty awful day out, what with its cramped thoroughfares and tatty d&eacute;cor, its frazzled animatronics and the kind of browning water features you can practically smell through the screen. It's certainly no Disneyland that's for sure, but there's no arguing this delightfully grim Atlanta theme park is a perfect horror setting.</p> <p><a href=\"https://www.eurogamer.net/brilliant-retro-horror-throwback-crow-country-has-landed-on-playstation-plus-and-its-well-worth-your-time\">Read more</a></p>",
+        "id": 3604437,
+        "language": "en",
+        "link": "https://www.eurogamer.net/brilliant-retro-horror-throwback-crow-country-has-landed-on-playstation-plus-and-its-well-worth-your-time",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/crow-country-header-crop.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Brilliant retro horror throwback Crow Country has landed on PlayStation Plus, and it's well worth your time",
+        "vote": 0
+    }
+]

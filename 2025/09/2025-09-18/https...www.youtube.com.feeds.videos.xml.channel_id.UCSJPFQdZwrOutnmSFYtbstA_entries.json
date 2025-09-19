@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T16:28:46.742319+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T15:30:54+00:00",
+        "description": "Somehow The Witcher returned... for ANOTHER season, and the trailer got predictably destroyed. But do you know who isn't returning? Jimmy Kimmel, who just got fired by ABC for his recent comments on Charlie Kirk. And meanwhile, we grind our way to the end of Alien: Earth. Join me, MauLer, Reaper, Robot Head and The Plot Strikes Back for Open Bar 158. \n\nSubscribe to Reaper: https://www.youtube.com/@RealReaper\nSubscribe to Robot Head: https://www.youtube.com/@robothead\nSubscribe to The Plot Strikes Back: https://www.youtube.com/@theplotstrikesback",
+        "id": 3607853,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AKjZKT8MjVg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AKjZKT8MjVg/hqdefault.jpg",
+        "title": "Open Bar #158 - Witcher Disaster, Jimmy Kimmel Fired, Alien Earth Madness",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T10:54:04.524839+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T10:54:03+00:00",
+        "description": "Kreml zakaza\u0142 publikacji map i wykres\u00f3w zawieraj\u0105cych dane o z\u0142o\u017cach mineralnych Rosji. Pow\u00f3d? Takie mapy zagra\u017caj\u0105 \u201ebezpiecze\u0144stwu narodowemu\u201d. Teraz nie tylko zachodni szpiedzy, ale i obywatele Rosji nie dowiedz\u0105 si\u0119, czy i jakie z\u0142o\u017ca znajduj\u0105 si\u0119 pod ich ziemi\u0105.",
+        "id": 3605035,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art43032951-kreml-utajnia-dane-o-zlozach-i-budzecie-kolejne-ograniczenia-dla-obywateli",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kreml utajnia dane o z\u0142o\u017cach i bud\u017cecie \u2013 kolejne ograniczenia dla obywateli",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T14:43:50.514072+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T13:42:23+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\n1670 to serial niesamowicie b\u0142yskotliwy i zabawny lub \u017cenuj\u0105cy i tragiczny - wszystko zale\u017cy od tego, kogo akurat o to zapytacie. Dyskusj\u0119 o nim mo\u017cna jednak podzieli\u0107 na dwie kwestie. Jedn\u0105, zwi\u0105zan\u0105 z warsztatem filmowym, kt\u00f3r\u0105 mo\u017cna obiektywnie oceni\u0107, oraz drug\u0105, zwi\u0105zan\u0105 z humorem, kt\u00f3ra ju\u017c podlega ocenie subiektywnej. Jaki jest drugi sezon 1670? Zapraszam na recenzj\u0119!",
+        "id": 3606887,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=1Wd9_dtXMQE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1Wd9_dtXMQE/hqdefault.jpg",
+        "title": "Najg\u0142upszy polski serial powraca!",
+        "vote": 0
+    }
+]

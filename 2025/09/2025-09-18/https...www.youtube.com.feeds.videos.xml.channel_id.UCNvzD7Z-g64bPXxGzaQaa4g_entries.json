@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T20:08:03.159712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T17:28:04+00:00",
+        "description": "Dying Light: The Beast (PC, PS5, Xbox Series X/S) marks the return of the protagonist and gameplay concepts of the original Dying Light. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv \u25bc\u25bc\n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6",
+        "id": 3609592,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=v65Y28Wj5Xo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v65Y28Wj5Xo/hqdefault.jpg",
+        "title": "Dying Light: The Beast - Before You Buy",
+        "vote": 0
+    }
+]

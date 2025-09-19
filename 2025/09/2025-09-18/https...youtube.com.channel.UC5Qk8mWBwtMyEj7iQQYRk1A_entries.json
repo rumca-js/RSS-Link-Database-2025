@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Epic Games",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T17:15:17.487767+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T16:35:20+00:00",
+        "description": "The original Match-3 RPG is back and bigger than ever! Puzzle Quest: Immortal Edition is out now on Epic Games Store! https://epic.gm/pq-immortal\n\nPuzzle Quest: Immortal Edition contains the original Puzzle Quest: Challenge of Warlords, Revenge of the Plague Lord, and The Legend Returns. What's more, enjoy all-new content, including a new class, and upgraded visuals to 4K. \n\nThis really is the definitive Puzzle Quest experience. \nAre you ready to save the kingdom of Etheria? It's time to find out!",
+        "id": 3608341,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wCloztYrCI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 684,
+        "source_url": "https://youtube.com/channel/UC5Qk8mWBwtMyEj7iQQYRk1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wCloztYrCI4/hqdefault.jpg",
+        "title": "Puzzle Quest: Immortal Edition | Launch Trailer",
+        "vote": 0
+    }
+]

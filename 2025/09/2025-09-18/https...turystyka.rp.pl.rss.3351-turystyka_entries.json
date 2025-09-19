@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T09:10:33.986946+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T09:10:33+00:00",
+        "description": "Biuro podr\u00f3\u017cy Join UP! Polska otworzy\u0142o dwa nowe sklepy ze swoimi wycieczkami \u2013 w centrum handlowym Avenida w Poznaniu i w Galerii Dominika\u0144skiej we Wroc\u0142awiu. Jak podkre\u015bla, celem jest wzmocnienie sprzeda\u017cy i zwi\u0119kszenie rozpoznawalno\u015bci marki w aglomeracjach.",
+        "id": 3604329,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art43032851-dwa-nowe-salony-join-up-polska-tym-razem-w-poznaniu-i-wroclawiu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dwa nowe salony Join UP! Polska. Tym razem w Poznaniu i Wroc\u0142awiu",
+        "vote": 0
+    }
+]

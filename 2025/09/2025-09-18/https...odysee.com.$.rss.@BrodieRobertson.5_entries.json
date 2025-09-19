@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T20:29:38.656147+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T17:30:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/aG-nmpCTkoY\" width=\"480\" alt=\"thumbnail\" title=\"Future Of BcacheFS Outside The Linux Kernel\" /></p>Now that Bcachefs is marked as externally maintained, what does that mean for the project and the Linux kernel from now on<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Linux Kernel Email:  https://lore.kernel.org/linux-bcachefs/yokpt2d2g2lluyomtqrdvmkl3amv3kgnipmenobkpgx537kay7@xgcgjviv3n7x/T/#u<br />Orphaned Package: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=%231079375<br />OpenSUSE Listing: https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/TOXF7FZXDRFPR356WO37DXZLMVVPMVHW/<br />Return The Tooling: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1080",
+        "id": 3609851,
+        "language": "en",
+        "link": "https://odysee.com/future-of-bcachefs-outside-the-linux:a11ad438d019b43bfa84b2040334f414aa1ccccd",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/aG-nmpCTkoY",
+        "title": "Future Of BcacheFS Outside The Linux Kernel",
+        "vote": 0
+    }
+]

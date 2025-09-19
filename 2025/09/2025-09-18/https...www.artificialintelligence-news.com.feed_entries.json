@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T17:15:04.204129+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T16:50:12+00:00",
+        "description": "<p>Chinese technology giant Huawei announced its plans for the next generations of its Ascend chip line at the Huawei Connect 2025 event in Shanghai this week. In his keynote to the conference, deputy chair of the Huawei board, Eric Xu, said that 2025 had been a &#8220;memorable year,&#8221; and noted the debut of DeepSeek-R1 in [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/huawei-announces-new-ascend-chips-to-power-worlds-most-powerful-clusters/\">Huawei announces new Ascend chips, to power world&#8217;s most powerful clusters</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3608340,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/huawei-announces-new-ascend-chips-to-power-worlds-most-powerful-clusters",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+        "title": "Huawei announces new Ascend chips, to power world\u2019s most powerful clusters",
+        "vote": 0
+    }
+]

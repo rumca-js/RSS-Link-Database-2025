@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mary Prenon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-18T22:55:23.663259+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-18T22:02:09+00:00",
+        "description": "Agentic commerce is the latest form of online and mobile shopping that features an AI agent that completes tasks for a user.",
+        "id": 3610971,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/google-and-paypal-partner-on-agentic-commerce-to-transform-online-shopping-5917145",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2022/08/1.tagreuters.com2022binary_LYNXMPEI710YA-FILEDIMAGE-1080x720.jpg",
+        "title": "Google and PayPal Partner on Agentic Commerce to Transform Online Shopping",
+        "vote": 0
+    }
+]
