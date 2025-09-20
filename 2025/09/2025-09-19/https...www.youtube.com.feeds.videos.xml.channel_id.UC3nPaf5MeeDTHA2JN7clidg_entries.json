@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T21:10:25.427131+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T20:00:05+00:00",
+        "description": "Join us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 'They Own SUMMONING Now??'\n00:47 Nintendo's Legal Crusade\n02:16 The New Patent\n04:04 Details Make The Difference\n05:30 Legacy At Risk\n06:59 A Broken System\n08:53 Entrenched Power\n\nSources:\nhttps://gamesfray.com/last-week-nintendo-and-the-pokemon-company-received-a-u-s-patent-on-summoning-a-character-and-letting-it-fight-another/\n\nhttps://www.windowscentral.com/gaming/palworld-isnt-the-only-target-nintendos-latest-patent-could-touch-hundreds-of-games\n\nhttps://x.com/Palworld_EN/status/1920360001794945232 \n\nhttps://www.youtube.com/watch?v=wCkPK-IdSoM\n\nhttps://ppubs.uspto.gov/api/patents/html/12403397\n\nhttps://www.pcgamer.com/gaming-industry/an-embarrassing-failure-of-the-us-patent-system-videogame-ip-lawyer-says-nintendos-latest-patents-on-pokemon-mechanics-should-not-have-happened-full-stop/\n\nhttps://bellular.games/its-too-risky-games-preservation-might-lead",
+        "id": 3618775,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7xd_iGJQJbQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7xd_iGJQJbQ/hqdefault.jpg",
+        "title": "Nintendos Strikes Games Again\u2014This Has Gone TOO FAR",
+        "vote": 0
+    }
+]

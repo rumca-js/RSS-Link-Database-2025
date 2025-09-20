@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T11:16:01.772856+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T11:16:00+00:00",
+        "description": "Przekazanie przez Skarb Pa\u0144stwa ponad 550 milion\u00f3w z\u0142otych z Funduszu Reprywatyzacji na dokapitalizowanie Polskiego Holdingu Hotelowego by\u0142o nielegalne - oceni\u0142a Najwy\u017csza Izba Kontroli. I zg\u0142osi\u0142a to prokuraturze.",
+        "id": 3613855,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/hotele/art43042371-nik-pol-miliarda-zlotych-dla-polskiego-holdingu-hotelowego-nielegalne",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NIK: P\u00f3\u0142 miliarda z\u0142otych dla Polskiego Holdingu Hotelowego nielegalne",
+        "vote": 0
+    }
+]

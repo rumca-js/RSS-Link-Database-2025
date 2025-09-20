@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rex Widerstrom",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T04:23:11.068849+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T03:56:41+00:00",
+        "description": "A prototype of the app has been launched this week, with public feedback being sought.",
+        "id": 3612301,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/new-zealand-moves-a-step-closer-to-single-app-for-all-government-functions-5916837",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/09/18/id5916840-Collins-with-app-1024x720.jpg",
+        "title": "New Zealand Moves a Step Closer to Single App for All Government Functions",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T23:07:14.260808+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T22:40:36+00:00",
+        "description": "Run AI Code Reviews with the new CodeRabbit cli. Micro tutorial to help you stop shipping ai slop. coderabbit.ai/cli",
+        "id": 3619497,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/z_fGhtrTw3U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z_fGhtrTw3U/hqdefault.jpg",
+        "title": "Run AI Code Reviews with the new CodeRabbit cli. Micro tutorial to help you stop shipping ai slop",
+        "vote": 0
+    }
+]

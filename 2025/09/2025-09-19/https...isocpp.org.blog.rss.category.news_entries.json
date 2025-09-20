@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T22:44:55.477959+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T22:15:15+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />Compile time code can be very efficient. Andrew Drakeford demonstrates how to write efficient chains of matrix multiplication.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/33/188/drakeford/\">Simple Compile-Time Dynamic Programming in Modern C++</a></h3>\n\t<p>\n\t\tby Andrew Drakeford</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tModern C++ enables us to solve mathematical optimisation problems at compile time. With the expanded constexpr capabilities [<a href=\"https://accu.org/journals/overload/33/188/drakeford/#_idTextAnchor002\">Fertig21</a>,&nbsp;<a href=\"https://accu.org/journals/overload/33/188/drakeford/#_idTextAnchor004\">Turner18</a>,&nbsp;<a href=\"https://accu.org/journals/overload/33/188/drakeford/#_idTextAnchor005\">Turner19</a>,&nbsp;<a href=\"https://accu.org/journals/overload/33/188/drakeford/#_idTextAnchor006\">Wu24</",
+        "id": 3619401,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/09/simple-compile-time-dynamic-programming-in-modern-cpp-andrew-drakeford",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/logo.png",
+        "title": "Simple Compile-Time Dynamic Programming in Modern C++ -- Andrew Drakeford",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jillian C. York",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T16:13:52.766945+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T15:48:47+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span><span class=\"normaltextrun\"><i><span>This is the third installment in a blog series documenting EFF's findings from the </span></i></span><span><a href=\"https://www.eff.org/deeplinks/2025/02/stop-censoring-abortion-fight-reproductive-rights-digital-age\" target=\"_blank\" title=\"https://www.eff.org/deeplinks/2025/02/stop-censoring-abortion-fight-reproductive-rights-digital-age\" data-outlook-id=\"2e10f1ae-5e98-48ff-ae7e-4f7f3a98c465\" rel=\"noopener noreferrer\"><span class=\"normaltextrun\"><i><span>Stop Censoring Abortion</span></i></span></a><span class=\"normaltextrun\"><i> campaign. You can read additional posts </i></span><a href=\"https://www.eff.org/pages/stop-censoring-abortion\" target=\"_blank\" title=\"https://www.eff.org/pages/stop-censoring-abortion\" data-outlook-id=\"993fc9b0-0b7d-40c1-bca2-78c0f8fd8e52\" rel=\"noopener noreferrer\"><span cla",
+        "id": 3616486,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/09/companies-must-provide-accurate-and-transparent-information-users-when-posts-are",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2025/09/16/img_2528.jpeg_img_2528.jpeg",
+        "title": "Companies Must Provide Accurate and Transparent Information to Users When Posts are Removed",
+        "vote": 0
+    }
+]

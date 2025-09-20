@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T20:57:54.215227+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T20:00:18+00:00",
+        "description": "This country had an official wizard for decades, then they fired him.\n\n\n\"In 1974, the Wizard migrated to Christchurch in New Zealand and began to speak on a ladder in Cathedral Square. The city council attempted to have him arrested, but he became so popular that they made the square a public speaking area. Wearing his costume as a false prophet of the Church of England, or his wizard's pointy hat, he has spoken there at lunchtimes in the summer months.\nHe confronted Telecom over the colour of public telephone boxes, played for the local rugby team, heckled Christian evangelist Ray Comfort, evaded the compulsory New Zealand census and performed rain dances in Canterbury, Auckland and the Australian outback.\nIn 1982, the New Zealand Art Gallery directors association issued a statement that in their opinion the Wizard was an authentic living work of art and the city council appointed him \"Wizard of Christchurch\". In 1990, the Prime Minister of New Zealand, Mike Moore, an old friend, app",
+        "id": 3618704,
+        "language": "rn",
+        "link": "https://www.youtube.com/watch?v=OJS0oXsO0iA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OJS0oXsO0iA/hqdefault.jpg",
+        "title": "The Only Country to Have an OFFICIAL WIZARD | Tales From the Bottle",
+        "vote": 0
+    }
+]

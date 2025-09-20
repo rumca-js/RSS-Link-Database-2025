@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T10:57:21.066457+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T09:01:29+00:00",
+        "description": "This Sept. 15 to Oct. 15, NPR Music celebrates artists from all corners of Latinidad with an 'El Tiny' takeover.\n\nFelix Contreras | September 19, 2025\nEvery aspect of a Lido Pimienta performance is intensely intentional. Her turn behind the Tiny Desk is, as expected, rich with symbolism and musical beauty.\n\nThis year\u2019s La Belleza is a deliberate break from the electro-cultural pastiche of 2020\u2019s Miss Colombia, leaning on European-influenced chamber music. Think minimal string arrangements under the resonant vocals we\u2019ve come to love. The way she opens her Tiny Desk with \u201cQuiero Que Me Beses\u201d is very Pimienta: after three minutes of violin, bassoon and clarinet, we are then introduced to the Afro-Colombian percussion and marimba familiar to Colombian folk music. \n\nPimenta is often clothed in costumes that act as visual representation of her singular musical vision. To my eyes, the elaborately designed, multi-layered, all-black dress she wears can be seen as a blank canvas on which we c",
+        "id": 3613505,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=mYGP07nLnUY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mYGP07nLnUY/hqdefault.jpg",
+        "title": "Lido Pimienta: Tiny Desk Concert",
+        "vote": 0
+    }
+]

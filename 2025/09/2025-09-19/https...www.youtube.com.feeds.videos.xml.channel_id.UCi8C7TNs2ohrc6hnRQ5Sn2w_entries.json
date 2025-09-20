@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T23:40:46.087182+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T22:15:00+00:00",
+        "description": "Strictest Code Review.... If build time over 5 minutes, your dot files get pushed to public.\n\nPartnership with CodeRabbit. \n\nCode reviews\nprogramminghumor\nvim\ncoding style guide\nlinter\nBig Tech Code Review\nAi Code Review",
+        "id": 3619709,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/H761eZdCzJQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H761eZdCzJQ/hqdefault.jpg",
+        "title": "Your Elitist Code Reviewer: Vim edition",
+        "vote": 0
+    }
+]

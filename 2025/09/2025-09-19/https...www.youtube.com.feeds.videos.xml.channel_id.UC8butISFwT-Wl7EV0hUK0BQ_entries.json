@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T02:13:46.711970+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T01:09:07+00:00",
+        "description": "On this week's freeCodeCamp podcast we're talking with software engineer Ihechikara Abba, who has a chess ELO rating of 2285, putting him among top competitive chess players. We just published his freeCodeCamp course on chess end games, and an accompanying handbook. \n\nWe talk about:\nhow learning chess can make you a better developer\ntips for getting into embedded systems development with Arduino\nhow contributing to open source can serve as an alternative to building up a social media presence\n\nLinks from our discussion:\n\nIhechikara's checkmate patterns handbook: https://www.freecodecamp.org/news/checkmate-patterns-in-chess-for-beginners/\n\nIhechikara's Arduino embedded systems handbook: https://www.freecodecamp.org/news/the-arduino-handbook/\n\nLinks from community news segment at the beginning: \n\n1. freeCodeCamp just published a GameDev for beginners course that will help you build your first 2D platformer game. First you'll learn the basics of the open source Godot game engine, and its",
+        "id": 3611867,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MiGXhDvuvEg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MiGXhDvuvEg/hqdefault.jpg",
+        "title": "Learn Chess and Become a Better Developer with Ihechikara Abba (ELO rating of 2285) [Podcast #189]",
+        "vote": 0
+    }
+]

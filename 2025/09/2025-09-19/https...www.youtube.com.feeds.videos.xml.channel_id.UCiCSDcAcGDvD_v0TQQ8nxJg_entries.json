@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T19:21:40.385560+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T18:05:50+00:00",
+        "description": "Trailer For The Housemaid in 4K ULTRA HD Quality\nThe Housemaid Plot : Follows a struggling woman who is happy to start over as a housemaid for an affluent, elite couple.",
+        "id": 3618072,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_PX7fPIqI-E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_PX7fPIqI-E/hqdefault.jpg",
+        "title": "THE HOUSEMAID Trailer (4K ULTRA HD) 2025 | Sydney Sweeney, Amanda Seyfried",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T17:39:50.865474+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T16:44:44+00:00",
+        "description": "<p>Hello dear readers. Daring Fireball has been silent for the last week. I realize how unusual it is for the site to go un-updated any week of the year, let alone this particular week of the year. I\u2019m so sorry about that, and also sorry about not being able to write this note to you sooner.</p>\n\n<p>I have been dealing with\u2009\u2014\u2009and working through\u2009\u2014\u2009a very personal situation for the past week. It\u2019s OK. I\u2019m going to be OK. But it has kept me offline for some time. Given the one-man nature of this site, that has meant that nothing has been published.</p>\n\n<p>I look forward to getting back to writing very soon. I can feel it: I will be back soon. I\u2019m itching to go. I mean, jiminy, it\u2019s new iPhones week. But it\u2019ll be a few more days before I get those reviews out. In the meantime, I so profoundly appreciate your patience and understanding.</p>\n\n<p>Your faithful correspondent, <br />\nJohn Gruber</p>",
+        "id": 3617275,
+        "language": "",
+        "link": "https://daringfireball.net/2025/09/personal_note",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Personal Note",
+        "vote": 0
+    }
+]

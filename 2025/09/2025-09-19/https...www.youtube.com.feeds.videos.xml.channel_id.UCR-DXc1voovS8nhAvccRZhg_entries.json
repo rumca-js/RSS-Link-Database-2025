@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T14:56:13.183191+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T14:00:14+00:00",
+        "description": "It's been a while. Some Kickstarters take time.\n\nWhat do you think about doing the same thing 10 times in a row, over and over? If that's your jam, build a cluster like I did in this video!\n\nIf you want to replicate the Compute Blade Cluster, here are all the parts I used (some links are affiliate links):\n\n  - Compute Blade DEV: https://www.pishop.us/product/compute-blade-dev/\n  - Compute Blade Standard Fan Unit: https://www.pishop.us/product/fansta-1v1-0/\n  - Compute Blade 10\" 3D Print Rackmount: https://github.com/Uptime-Lab/compute-blade/tree/main/models/bladerunner\n  - Raspberry Pi CM5 16GB (CM5016000): https://www.pishop.us/product/raspberry-pi-compute-module-5-16gb-ram-lite-cm5016000/\n  - GLOTRENDS Aluminum CM5 Heatsink: https://amzn.to/45YACBV\n  - Patriot P300 256GB NVMe SSD 10-pack: https://amzn.to/4lPJ0JC\n  - GigaPlus 2.5 Gbps 10 port PoE+ switch: https://amzn.to/3UNOwSd\n  - GigaPlus 10\" Rack Mount 3D Print ears: https://www.printables.com/model/1215585-unified-10-rack-gigapl",
+        "id": 3615820,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8SiB-bNyP5E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8SiB-bNyP5E/hqdefault.jpg",
+        "title": "I regret building a $3000 Pi AI Cluster",
+        "vote": 0
+    }
+]

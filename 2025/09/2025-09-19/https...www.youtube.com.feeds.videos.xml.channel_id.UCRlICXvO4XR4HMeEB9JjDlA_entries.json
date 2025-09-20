@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T19:16:44.695327+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T19:00:08+00:00",
+        "description": "The Klu Klux Klan experience a comeback in the 1920s, with their membership reaching one million people. This was largely thanks to Edward Young Clarke, who was granted the (somewhat ridiculous) title of \u2018Imperial Kleagle\u2019 for his efforts. Despite all of the horrific hate crimes committed by the Klan, Clarke could not be investigated by the FBI, as none of the laws he was breaking were federal. However, as soon as he crossed a state line with his mistress, he could officially became a federal target for violating \u2018The Mann Act\u2019.",
+        "id": 3618027,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/AWfbfWGq_FY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AWfbfWGq_FY/hqdefault.jpg",
+        "title": "This Legal Loophole Finally Caught a Notorious Racist",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T19:12:10.600738+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T18:18:24+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nAlex Stepanov, Generic Programming in Cpp, and the STL - Jon Kalb - ACCU 2025\n---\n\nThis talk introduces Alex Stepanov, the creator of the Standard Template Library and the founder of the Generic Programming paradigm.\n\nAudiences will come away knowing about Alex\u2019s career, but more importantly, knowledge of the Generic Programming paradigm and a deep understanding of the STL and how best to use and extending it to solve real-world problems with high levels of reliability and efficiency\n\nSlides: https://accu.org/conf-previous/accu2025/\n\nJoin think-cell as a C++ Developer and work on cutting-edge challenges with a focus on code excellence, innovation, and working alongside an international team of experts \u2014 apply now to be part of a team shaping the future of business presentations. https://www.think-cell.com/en/career\n---\n\nJon Kalb\n\nJon Kalb is using his decades of software engineering experience and knowledge about C++ to make other peo",
+        "id": 3617999,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=d_DlHYX5w5w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d_DlHYX5w5w/hqdefault.jpg",
+        "title": "Alex Stepanov, Generic Programming in Cpp, and the STL - Jon Kalb - ACCU 2025",
+        "vote": 0
+    }
+]

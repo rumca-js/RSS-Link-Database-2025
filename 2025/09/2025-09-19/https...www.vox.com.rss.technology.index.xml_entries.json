@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dylan Matthews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T11:31:25.245170+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T06:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"ChatGPT on App Store displayed on a phone screen is seen on September 14, 2025.\" data-caption=\"\" data-portal-copyright=\"Jakub Porzycki/NurPhoto via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2234913410.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">The year is 1956. You\u2019re a researcher working at International Business Machines, the world\u2019s leading tabulating machine company, which has recently diversified into the brand-new field of electronic computers. You have been tasked with determining for what purposes, exactly, your customers are using IBM\u2019s huge mainframes.</p>\n\n<div class=\"wp-block-vox-media-highlight vox-media-highlight\">\n<h2 class=\"wp-block-heading\">This story was first featured in the <a href=\"https://www.vox.com/pages/future-perfect-newsletter-signup\">Future Perfect newsletter</a>.</h2>\n\n\n\n<p ",
+        "id": 3614124,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/461927/ai-study-openai-anthropic-claude",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2234913410.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "We\u2019ve been wrong about new technology before. Are we wrong about AI?",
+        "vote": 0
+    }
+]

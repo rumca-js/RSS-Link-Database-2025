@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T22:02:44.455304+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T20:54:16+00:00",
+        "description": "I colorized, restored, and created sound design for this rare video of Christian Street in Jerusalem, City of Nazareth in Galilee, Holy Land 1920s. These historic cities are central to religious and cultural heritage, with Jerusalem standing as a spiritual crossroads for centuries, while Nazareth embodies the traditions and daily life of Galilee. Together, they offer a timeless glimpse into the landscapes and communities that have shaped history and faith.\n\n00:06-06:45 Jerusalem \n06:46-08:42 Nazareth \n08:43-08:48 Solomon Sir Jones\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nB&W Video So",
+        "id": 3619172,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Sr3t1nZv8Ko",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sr3t1nZv8Ko/hqdefault.jpg",
+        "title": "Rare 1920s \u2013 Jerusalem & Nazareth in Color [60fps, Remastered, w/ Sound]",
+        "vote": 0
+    }
+]

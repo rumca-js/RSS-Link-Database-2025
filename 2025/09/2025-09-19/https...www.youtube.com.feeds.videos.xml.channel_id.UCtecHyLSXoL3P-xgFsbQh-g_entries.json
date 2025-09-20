@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-19T17:37:12.183099+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-19T17:00:59+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nWielki marsz Stephena Kinga, to ksi\u0105\u017cka niezwykle trudna do sensownej kinowej adaptacji. Czy tw\u00f3rcom uda\u0142o si\u0119 osi\u0105gn\u0105\u0107 sukces? Nie do ko\u0144ca, chocia\u017c wida\u0107, \u017ce si\u0119 starali i mieli kilka ciekawych pomys\u0142\u00f3w, kt\u00f3re ca\u0142kiem sensownie zrealizowali. Zapraszam na recenzj\u0119!",
+        "id": 3617260,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=VZVjhooFORs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VZVjhooFORs/hqdefault.jpg",
+        "title": "Wielki marsz - to si\u0119 w og\u00f3le mog\u0142o uda\u0107?",
+        "vote": 0
+    }
+]
