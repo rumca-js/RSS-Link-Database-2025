@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Burt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T18:17:45.392294+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T17:17:09+00:00",
+        "description": "<img width=\"1028\" height=\"685\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/05/30111825/australia-smartgates-idemia.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/05/30111825/australia-smartgates-idemia.jpg 1028w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/05/30111825/australia-smartgates-idemia-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/05/30111825/australia-smartgates-idemia-1024x682.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/05/30111825/australia-smartgates-idemia-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/05/30111825/australia-smartgates-idemia-768x512.jpg 768w\" sizes=\"(max-width: 1028px) 100vw, 1028px\" />\n\t\tBiometrics mean a lot of different things to different people. They are a method of forensic ",
+        "id": 3624410,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202509/biometrics-blend-into-daily-life-as-a-rorschach-test",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/05/30111825/australia-smartgates-idemia.jpg",
+        "title": "Biometrics blend into daily life as a Rorschach test",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T23:52:51.511249+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T22:45:01+00:00",
+        "description": "Find an Apple TV on Amazon - https://lon.tv/uhakc (compensated affiliate link) - This is one of the coolest cord cutting features I've seen in years! A new beta of the Channels App on Apple TV and iPad allows for tuning into four over the air television sources simultaneously from an HDHomerun tuner. See more on the Channels App: https://www.youtube.com/playlist?list=PLCZHp4d1HnIu0SsVEWc6FgTX_nVZnwm1p and subscribe! http://lon.tv/s\n\nMore Info : https://community.getchannels.com/t/beta-tvos-ipad-multiview/44480\n\nTest Flight Link: https://testflight.apple.com/join/kxU7lcEN\n\nJared Newman's PC World Article: https://lon.tv/xgwkd\n\nATSC 3.0 Encryption Background: https://www.youtube.com/playlist?list=PLCZHp4d1HnItSSUpA-DskfKKKrQ_LQYwP\n\nVIDEO INDEX:\n00:00 - Intro\n01:15 - Background on the Channels App\n02:00 - ATSC 3.0 Encryption Will Not Allow This Feature\n02:55 - How It Works\n05:45 - iPad Demo\n06:18 - Channels App Source Configuration\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my ema",
+        "id": 3625912,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=XajM1I5z7Xo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XajM1I5z7Xo/hqdefault.jpg",
+        "title": "Multiview Four OTA Channels at Once on Apple TV and iPad with the Channels App Beta",
+        "vote": 0
+    }
+]

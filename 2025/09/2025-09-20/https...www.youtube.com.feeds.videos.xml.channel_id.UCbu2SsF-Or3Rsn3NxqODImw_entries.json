@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T17:21:44.855169+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T16:01:19+00:00",
+        "description": "DC and Warner Bros. Games have teamed up for a new LEGO Batman: Legacy of the Dark Knight behind-the-scenes video in celebration of Batman Day 2025, the annual tradition commemorating one of the most iconic characters in the world, DC\u2019s Batman.\n\nThis new featurette includes a fresh look at gameplay for LEGO Batman: Legacy of the Dark Knight, along with commentary from James Gunn (Co-Chairman & Chief Executive Officer, DC Studios), Jim Lee (President, Publisher & Chief Creative Officer, DC), Jonathan Smith (Strategic Director & Head of Development Team, TT Games), Jesper C. Nielsen (Creative Lead, The LEGO Group), and other development team members, who all expand on how the 86-year history of Batman films, television shows, comics, and games has been brought together with TT Games\u2019 signature LEGO humor in the upcoming interactive videogame experience.\n\n#legobatman #legacyofthedarkknight #gaming #videogames #batmanday",
+        "id": 3624149,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=oZ2vHNB170c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oZ2vHNB170c/hqdefault.jpg",
+        "title": "LEGO Batman: Legacy of the Dark Knight - Official Batman Day Behind the Scenes Trailer",
+        "vote": 0
+    }
+]

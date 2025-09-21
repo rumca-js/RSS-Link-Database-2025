@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T17:03:53.823403+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T16:39:32+00:00",
+        "description": "Video games aren't getting any easier and we've got PROOF!\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro\n0:21 Hollow Knight: Silksong\n2:45 Doom Eternal: The Ancient Gods Pt. 1\n5:01 Elden Ring: Shadow of the Erdtree\n7:40 Kingdom Come: Deliverance 2\n9:34 Blue Prince\n11:01 Cuphead\n12:42 Sifu\n14:53 Baba Is You\n16:31 Crash Bandicoot 4: It\u2019s About Time\n18:41 Mafia: Definitive Edition\n20:08 Wo Long: Fallen Dynasty\n21:35 Warhammer 40K: Rogue Trader\n23:00 Ready or Not\n25:13 Bravely Default 2\n26:26 Sekiro: Shadows Die Twice\n27:48 XCOM 2: War of the Chosen\n30:41 Armored Core 6: Fires of Rubicon\n33:37 Spelunky 2\n35:57 The First Berserker: Khazan\n38:08 Nine Sols",
+        "id": 3624086,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8SGfPSUxKgY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8SGfPSUxKgY/hqdefault.jpg",
+        "title": "20 Recent Games With The HARSHEST DIFFICULTY CURVES",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T15:39:45.092291+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T14:46:44+00:00",
+        "description": "Cyberattack on Collins Aerospace check-in system disrupts major European airports, causing flight delays and cancellations across hubs.",
+        "id": 3623597,
+        "language": "en-US",
+        "link": "https://hackread.com/cyberattack-disrupts-airport-check-in-systems-europe",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cyberattack Disrupts Airport Check-In Systems Across Europe",
+        "vote": 0
+    }
+]

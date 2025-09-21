@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joseph Menn",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T10:36:29.676843+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T10:00:00+00:00",
+        "description": "Hackers are using AI\u2019s immense capabilities to find ways into more networks -- and turn their victims\u2019 AI against them.",
+        "id": 3622060,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/09/20/ai-hacking-cybersecurity-cyberthreats",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Artificial intelligence ushers in a golden age of hacking, experts say",
+        "vote": 0
+    }
+]

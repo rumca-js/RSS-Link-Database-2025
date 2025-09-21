@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T17:38:54.116500+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T16:38:57+00:00",
+        "description": "Use code BELLULARNEWS at the link below to get an exclusive 60% off an annual Incogni plan: https://incogni.com/bellularnews Sponsored by Incogni.\n\nSteam lost PayPal for most countries. A dev has \u00a380,000 frozen. And that's just the beginning: we have Valve's admission, government petitions hitting thresholds, and proof the financial system is attacking gaming.\n\n00:00 Chaos Reigns!\n02:38 The Story So Far\n04:16 Debanking\n06:12 Steam Lockdown\n09:37 The Petitions\n12:00 No Consequences\n\nSources:\nhttps://www.tweaktown.com/news/107433/collective-shout-interview-steams-sexual-violence-game-defenders-are-abusers-in-real-life/index.html\n\nhttps://www.reddit.com/r/LegalAdviceUK/comments/1mzsj8l/i_owe_a_massive_corporation_tax_bill_to_hmrc_and/?sort=new\n\nhttps://x.com/Miilkywayz/status/1960607816475140277\n\nhttps://steamdb.info/tag/493/?tagid=12095\n\nhttps://help.steampowered.com/en/faqs/view/731C-13C7-7D04-A11E\n\nhttps://www.rockpapershotgun.com/valve-explain-why-using-paypal-for-steam-purchases-isn",
+        "id": 3624236,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ECpWyMuQZBI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ECpWyMuQZBI/hqdefault.jpg",
+        "title": "PayPal Cut Millions From Steam, Now They're Freezing Dev Funds",
+        "vote": 0
+    }
+]

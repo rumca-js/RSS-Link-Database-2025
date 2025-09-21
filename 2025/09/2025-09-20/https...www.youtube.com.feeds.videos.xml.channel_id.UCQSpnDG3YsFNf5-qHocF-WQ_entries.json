@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T15:56:21.748832+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T15:49:09+00:00",
+        "description": "Sponsored: Get 90 Days of Bitdefender Premium Security - Absolutely Free: https://bitdefend.me/90ThioJoe\n\nBad actors have figured out a new way to trick people that is surprisingly effective. Instead of trying to get them to download and run malicious files, they instead trick people into running a command which downloads and runs the files. Without the person even knowing they downloaded anything. Usually they'll have some web page with a fake captcha, or some other thing that gives the user some reason they need to open the Run box and paste in text (which ends up being the malicious command). They may also have them paste it into the command prompt or run it via a special Windows protocol. So in this video I show you examples and how it all works so you can watch out for it. Simply knowing about these should be enough to protect yourself.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:17 - How The Strategy Works\n1:14 - What The Sites Actually Do\n2:11 - If You Run The Malicious Command\n3:35 - Why",
+        "id": 3623686,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4OZJZA_OJWw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4OZJZA_OJWw/hqdefault.jpg",
+        "title": "The New Hacker Strategy You NEED To Know About",
+        "vote": 0
+    }
+]

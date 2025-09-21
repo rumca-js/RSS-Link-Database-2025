@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brian X. Chen, Eli Tan and Jason Henry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T09:59:25.992805+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T09:02:39+00:00",
+        "description": "Mark Zuckerberg\u2019s glitch-filled unveiling of computerized glasses revealed a company that may struggle to deliver on its promise for the future of computing.",
+        "id": 3621883,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/09/20/technology/personaltech/meta-smart-glasses-mark-zuckerberg.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/09/20/multimedia/20TECHFIX-03-tbmz/20TECHFIX-03-tbmz-mediumSquareAt3X.jpg",
+        "title": "Seeing Through the Reality of Meta\u2019s Smart Glasses",
+        "vote": 0
+    }
+]

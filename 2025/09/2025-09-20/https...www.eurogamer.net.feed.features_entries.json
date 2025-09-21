@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Orry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-20T09:07:24.411035+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-20T09:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Wobbly_Life_header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>\"Kids are quite discerning, actually,\" says someone who has never really spent any time with kids, and perhaps doesn't even know what a child is. My experience with kids has revealed that, no, they aren't discerning at all. They are happy to watch absolute drivel, demand to be bought 'toys' that are little more than sludge, and dress in whatever triple-stained clothes they've been wearing for the last week. So, when a game is labelled as an imitation of a huge franchise, but \"for kids\", my quality alarm sounds and I expect the worst.</p> <p><a href=\"https://www.eurogamer.net/gta-for-kids-has-arrived-on-xbox-game-pass-and-its-a-delightful-example-of-how-to-treat-a-younger-audience-with-respect\">Read more</a></p>",
+        "id": 3621672,
+        "language": "en",
+        "link": "https://www.eurogamer.net/gta-for-kids-has-arrived-on-xbox-game-pass-and-its-a-delightful-example-of-how-to-treat-a-younger-audience-with-respect",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Wobbly_Life_header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "\"GTA for kids\" has arrived on Xbox Game Pass, and it's a delightful example of how to treat a younger audience with respect",
+        "vote": 0
+    }
+]
