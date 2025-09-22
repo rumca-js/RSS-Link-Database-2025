@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T16:16:17.854591+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T14:00:41+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nAn Introduction to Reinforcement Learning - Snake Your Way Out of a Paper Bag - Frances Buontempo - ACCU 2025\n---\n\nWhen people talk about AI they tend to mean LLMs, so this talk will to remind us of other approaches to AI. Reinforcement learning (RL) is a type of machine learning, so part of AI. An \"agent\" takes actions in a dynamic environment. Better outcomes are rewarded and worse outcomes are penalised. Reinforcement Learning can be used for targeted marketing, infrastructure optimisation or making financial decisions.\n\nReinforcement Learning has also been used to learn to play Go and PacMan. We won't have time for these, so we will implement Snake instead and see if the machine can learn to play the game. We'll see some code, and come away with an understanding of machine learning in general and Reinforcement Learning in particular.\n\nThis is a fun opportunity to learn and revise some C++, tracking better outcomes and probabilisti",
+        "id": 3629692,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NdHPnMtdSXs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NdHPnMtdSXs/hqdefault.jpg",
+        "title": "An Introduction to Reinforcement Learning - Snake Your Way Out of a Paper Bag - Frances Buontempo",
+        "vote": 0
+    }
+]

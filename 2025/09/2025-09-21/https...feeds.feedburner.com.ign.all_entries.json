@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Noah Hunter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T20:15:22.085558+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T18:26:25+00:00",
+        "description": null,
+        "id": 3630980,
+        "language": "en",
+        "link": "https://www.ign.com/articles/best-deals-for-september-21-2025",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 147,
+        "source_url": "https://feeds.feedburner.com/ign/all",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets-prd.ignimgs.com/2025/03/13/silent-1741906131619.png",
+        "title": "The Best Deals Today: Silent Hill f, Apple Watch Ultra 3, PS5 Slim, and More",
+        "vote": 0
+    }
+]

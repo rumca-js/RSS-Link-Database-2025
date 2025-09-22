@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fantano",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T22:28:13.187653+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T21:40:39+00:00",
+        "description": "Talking about a handful of albums from 2005 that just turned the big 2-O.\n\nThe full article: https://theneedledrop.com/20-turning-20-a-retrospective-on-2005-in-music/\n\n===================================\n\nPatreon: https://www.patreon.com/theneedledrop\n\nFollow your melon:\nTwitter: https://twitter.com/theneedledrop\nInstagram: https://www.instagram.com/afantano\nTwitch: https://www.twitch.tv/theneedledrop\nTikTok: https://www.tiktok.com/@theneedletok",
+        "id": 3631592,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TVg8QeqDE9k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 649,
+        "source_url": "https://youtube.com/channel/UCnxQ8o9RpqxGF2oLHcCn9VQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TVg8QeqDE9k/hqdefault.jpg",
+        "title": "These Albums Are OLD Now",
+        "vote": 0
+    }
+]

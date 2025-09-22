@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T16:09:57.068528+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T15:01:16+00:00",
+        "description": "The Netherlands is the world\u2019s second-largest agricultural exporter by value despite being only about the size of Maryland. Inside large greenhouses, farmers grow millions of tons of tomatoes and peppers with the help of bees, robots, and custom LED lights. The country's research hub, Wageningen University, has turned this innovation into a global model for farming. But now the industry faces rising energy prices, labor shortages, and a nitrogen pollution crisis. So how are the Dutch adapting, and can their model really feed the world?\n\n00:00 - 01:07 - Intro\n01:08 - 01:30 - How the Dutch Reclaimed Farmland\n01:30 - 02:00 - WWII & The Winter of Hunger\n02:00 - 02:50 - Industrialized Farming and Research\n02:50 - 03:12 - Inside Advanced Dutch Greenhouses\n03:12 - 07:35 - Looye Kwekers Tomato Harvest\n07:48 - 10:21 - VD Holland Pepper Harvest\n10:21-12:04 - Energy Use\n12:04 - 14:43 - LED Lights, Plant Growth, and Robots\n14:43 -15:14 - Postwar Research\n15:14 - 16:20 - Emissions and Environmenta",
+        "id": 3629649,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=diBS0VfVcbs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/diBS0VfVcbs/hqdefault.jpg",
+        "title": "How A Tiny Country Became The 2nd Biggest Agricultural Exporter In The World",
+        "vote": 0
+    }
+]

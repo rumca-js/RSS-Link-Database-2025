@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T17:10:52.295185+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T16:05:56+00:00",
+        "description": "\u269b\ufe0f\u00a0\u00a0Protona, czyli niegdy\u015b ProtonMaila, kojarzy chyba ka\u017cdy, kto na problem ochrony prywatno\u015bci zwraca jak\u0105kolwiek uwag\u0119. Ponad dekad\u0119 temu zacz\u0119li od \u015bwiadczenia us\u0142ug poczty elektronicznej, aby z czasem rozszerzy\u0107\u00a0swoje portfolio o VPNa, pakiet b\u0119d\u0105cy konkurencj\u0105\u00a0dla Dokument\u00f3w i Dysku Google i jeszcze kilka innych aplikacji. Szwajcarska sp\u00f3\u0142ka zbudowa\u0142a swoj\u0105 renom\u0119 na dbaniu o prywatno\u015b\u0107 u\u017cytkownik\u00f3w. Niestety ostatnio na charakterze Protona pojawi\u0142a si\u0119\u00a0pewna, sporych rozmiar\u00f3w, rysa.\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udd0d\u00a0Proton Mail Suspended Journalist Accounts at Request of Cybersecurity Agency \nhttps://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/\n\n\ud83d\udc26\u00a0Andy Yen @ Twixxer\nhttps://x.com/andyyen/status/1965761873644810749\n\n\ud83d\udc26\u00a0@gnukeith @ Twixxer\nhttps://x.com/gnukeith/status/1967285983927484544\n\n\ud83d\udcd1\u00a0Proton Transparency report\nhttps://proton.me/legal/transparency\n\n\ud83c\uddf0\ud83c\uddf5\u00a0Phrack: APT Down - The North Korea Files\nhttps://phrack.org/issues/72/7_md\n\n\u203c\ufe0f\u00a0 Clarifying recent misinformation\nhttps:/",
+        "id": 3630014,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=nw1kjslHsZ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nw1kjslHsZ0/hqdefault.jpg",
+        "title": "Proton zacz\u0105\u0142 sprzedawa\u0107 dobrych ch\u0142opak\u00f3w (i dziewczyny)?",
+        "vote": 0
+    }
+]

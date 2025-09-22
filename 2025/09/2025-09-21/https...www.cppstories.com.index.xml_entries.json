@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T20:40:03.129591+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T00:00:00+00:00",
+        "description": "<p>In the previous article on the tuple iteration, we covered the basics. As a result, we implemented a function template that took a tuple and could nicely print it to the output. There was also a version with <code>operator &lt;&lt;</code>.</p>\n<p>Today we can go further and see some other techniques. The first one is with <code>std::apply</code> from C++17, a helper function for tuples. Today&rsquo;s article will also cover some strategies to make the iteration more generic and handle custom callable objects, not just printing.</p>\n<blockquote class=\"hint note\">\n\n  This is the second part of the small series. See the first article <a href=\"https://www.cppstories.com/2022/tuple-iteration-basics/\">here</a> where we discuss the basics.\n</blockquote>\n<blockquote class=\"hint info\">\n\n  Updated in Sept 2025: Extended the &ldquo;Return value&rdquo; section.\n</blockquote>\n<h2 id=\"stdapply-approach\">\nstd:apply approach \n  \n<a class=\"hash-link\" href=\"#stdapply-approach\" aria-hidden=\"true\">\n<s",
+        "id": 3631116,
+        "language": "en-us",
+        "link": "https://www.cppstories.com/2022/tuple-iteration-apply",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 47,
+        "source_url": "https://www.cppstories.com/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "../images/apply_diagram.png",
+        "title": "C++ Templates: How to Iterate through std::tuple: std::apply and More",
+        "vote": 0
+    }
+]

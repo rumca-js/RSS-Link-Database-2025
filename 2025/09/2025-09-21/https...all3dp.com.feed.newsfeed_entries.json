@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T22:10:01.229782+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T08:25:30+00:00",
+        "description": "Find out which filaments are your best options for 3D printing UV-resistant and weatherproof parts and prints.",
+        "id": 3631531,
+        "language": "en",
+        "link": "https://all3dp.com/1/best-3d-printing-materials-for-outdoor-use",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 16,
+        "source_url": "https://all3dp.com/feed/newsfeed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Come Rain, Shine or Snow: The Best 3D Printing Materials for the Outdoors",
+        "vote": 0
+    }
+]

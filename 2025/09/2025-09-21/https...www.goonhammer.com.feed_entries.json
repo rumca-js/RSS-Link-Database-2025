@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Steel Mentor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T19:20:16.727597+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T19:14:16+00:00",
+        "description": "Slugmen and Pointy Elven Grandpas are on the menu in this week's Content We Liked.",
+        "id": 3630713,
+        "language": "en-GB",
+        "link": "https://www.goonhammer.com/content-we-liked-21st-september-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 136,
+        "source_url": "https://www.goonhammer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Content We Liked: 21st September, 2025",
+        "vote": 0
+    }
+]

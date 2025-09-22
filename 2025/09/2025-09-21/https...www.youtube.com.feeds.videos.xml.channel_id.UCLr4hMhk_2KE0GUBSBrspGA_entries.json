@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T18:54:23.681512+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T18:00:02+00:00",
+        "description": "Dzisiaj w ramach Tech Weeka kr\u0119c\u0119 afer\u0119. Czy s\u0142usznie - oce\u0144cie sami.\n\nW odcinku:\n00:00 Nowe produkty Apple\u2019a\n00:56 Dobry wiecz\u00f3r!\n01:00 Podr\u00f3\u017ce PR-owe dla tw\u00f3rc\u00f3w\n04:49 Etyka w \u015bwiecie recenzent\u00f3w\n05:26 Jak Apple manipuluje recenzentami?\n05:59 Jak sytuacja wygl\u0105da\u0142aby w \u015bwiecie motoryzacji?\n07:18 Jak Apple manipuluje widzami?\n08:40 Metoda kija i marchewki\n09:32 Jak dzia\u0142aj\u0105 inne firmy? \u2013 Samsung, Google\n10:12 Walka z nieuczciwymi praktykami\n11:02 Inne metody podporz\u0105dkowania sobie tw\u00f3rc\u00f3w\n11:47 Zasady panuj\u0105ce na tym kanale\n13:09 Recenzja \u2013 iPhone 17 Air\n14:58 Recenzja \u2013 iPhone 17\n15:17 Recenzja \u2013 iPhone 17 Pro\n16:22 Recenzja \u2013 AirPods Pro 3\n17:02 Apple Watch 11 - kt\u00f3ry Apple Watch najlepszy\n17:53 Zako\u0144czenie\n18:37 Zno\u015bnego tygodnia!",
+        "id": 3630593,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=XaatGXvOvxg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XaatGXvOvxg/hqdefault.jpg",
+        "title": "Jak Apple manipuluje recenzentami (i widzami)",
+        "vote": 0
+    }
+]

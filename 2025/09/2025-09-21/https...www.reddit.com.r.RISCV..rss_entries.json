@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Nearby_Foundation484",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T19:23:25.619959+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T18:47:21+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve been experimenting with a different kind of project management system \u2014 instead of syncing Jira with GitHub, what if the repo <em>itself</em> was the project manager?</p> <p>I wired together 5 agents to make this work:</p> <ol> <li><strong>PlannerAgent</strong> \u2013 takes your messy ideas / prompts, structures them into a spec doc, and then breaks them down into GitHub issues (with labels, assignees, and priorities).</li> <li><strong>ScaffoldAgent</strong> \u2013 generates starter code from lightweight prompts + labels (so you don\u2019t waste credits). It can open draft PRs or hand you files directly.</li> <li><strong>ReviewAgent</strong> \u2013 connects to your code review flow, runs linting + reviews before merge.</li> <li><strong>QAAgent</strong> \u2013 generates test cases, runs them, and reports results.</li> <li><strong>ReleaseAgent</strong> \u2013 prepares release notes + announcements once milestones are hit.</li> </ol> <p>The idea:<br/> \ud83d\udc49 Instead of pushing tasks ",
+        "id": 3630738,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1nn036f/i_built_a_agentic_jira_that_runs_directly_on",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built a AGENTIC Jira that runs directly on GitHub repos \u2014 powered by multi-agents. Here\u2019s what I learned (and what\u2019s missing).",
+        "vote": 0
+    }
+]

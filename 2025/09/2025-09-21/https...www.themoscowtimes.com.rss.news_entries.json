@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T15:19:13.228958+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T15:00:00+00:00",
+        "description": "The revival of the Soviet-era Intervision contest was marked by awkward moments, forced solidarity and performances that often fell flat.",
+        "id": 3629356,
+        "language": "en-us",
+        "link": "https://www.themoscowtimes.com/2025/09/21/russias-answer-to-eurovision-hits-a-flat-note-a90570",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 350,
+        "source_url": "https://www.themoscowtimes.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Russia\u2019s Answer to Eurovision Hits a Flat Note",
+        "vote": 0
+    }
+]

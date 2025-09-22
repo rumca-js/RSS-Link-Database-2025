@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bryan Walsh",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T11:44:04.143765+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Two Apple researchers in a hearing aid lab surrounded by speakers, microphones and soundproof walls.\" data-caption=\"Apple\u2019s hearing aid audio lab.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/09/hearing-one.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tApple\u2019s hearing aid audio lab.\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">As a person firmly ensconced in middle age \u2014 57 percent of the way through life, to be precise, if <a href=\"https://www.ssa.gov/oact/STATS/table4c6.html\">government actuarial tables hold</a> \u2014 I have begun to notice certain things not working quite as well as they used to. Specifically, my eyes and my ears.&nbsp;</p>\n\n<p class=\"has-text-align-none\">You can ask my family: My hearing is not what it once was, and not just because I have been known to hear selectively from time to time. As for my eyes, I had them zapped with lasers back i",
+        "id": 3628173,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/462172/apple-airpods-translation-hearing-device-vision-google-diabetes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/hearing-one.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The accessibility revolution hiding in your AirPods",
+        "vote": 0
+    }
+]

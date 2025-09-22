@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T09:37:49.204544+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T09:03:00+00:00",
+        "description": "We spend a lot of time responding and reacting to the throws of others. Ejected, rejected, projected, interjected&#8230; No one dejects you, of course, but it&#8217;s easy to feel dejected. Perhaps this is a good moment to take initiative, which is rarely given on its own. No one is coming to pick you. Today&#8217;s a [&#8230;]",
+        "id": 3627652,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/09/ject",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ject!",
+        "vote": 0
+    }
+]

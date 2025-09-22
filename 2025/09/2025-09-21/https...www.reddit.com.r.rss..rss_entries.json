@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/andregarzia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T12:21:14.715625+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T12:12:27+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I came across linkgraphs by checking out Artemis calm web reader:</p> <p><a href=\"https://artemis.jamesg.blog/\">https://artemis.jamesg.blog/</a></p> <p>It is a very neat feature. It works by surfacing posts from sites you follow that mention the page you&#39;re current reading. Inspired by that I implemented the same feature on my own web reader, BlogCat:</p> <p><a href=\"https://blogcat.org\">https://blogcat.org</a></p> <p>Linkgraphs are such a nice way to make connections, I think more clients should implement it. I wrote a bit about them at:</p> <p><a href=\"https://andregarzia.com/2025/09/linkgraphs-are-fun.html\">https://andregarzia.com/2025/09/linkgraphs-are-fun.html</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/andregarzia\"> /u/andregarzia </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1nmqc66/linkgraphs_should_be_implemented_by_more_rss/\">[link]</a></span> &#32; <span><a href=\"https://w",
+        "id": 3628325,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1nmqc66/linkgraphs_should_be_implemented_by_more_rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Linkgraphs should be implemented by more RSS readers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T14:20:07.831110+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T13:31:24+00:00",
+        "description": "W skr\u00f3cie:\n\n1. CD-Action Air przenosi si\u0119 na sw\u00f3j w\u0142asny kana\u0142. Zasubuj tutaj: https://www.youtube.com/channel/UCOX2lX6-OC-bfbczm261_qA?sub_confirmation=1\n2. CD-Action Air Plus zostaje na tym kanale.\n3. Dzi\u0119ki temu oba kana\u0142y mog\u0105 si\u0119 rozwija\u0107 i wszyscy s\u0105 szcz\u0119\u015bliwi.",
+        "id": 3628999,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=jsrMa4aky30",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jsrMa4aky30/hqdefault.jpg",
+        "title": "CD-Action Air: Wa\u017cny komunikat! Nowy kana\u0142!",
+        "vote": 0
+    }
+]

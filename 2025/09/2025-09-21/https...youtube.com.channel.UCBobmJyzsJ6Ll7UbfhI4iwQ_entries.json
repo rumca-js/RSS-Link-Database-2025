@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T17:38:08.548964+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T17:00:07+00:00",
+        "description": "It was no small feat creating an interactive Model for Sweden's Largest Stadium\ud83c\udfdf\ufe0f\n\nJonathan's going to be showing us how it's all done and what the transition from traditional architectural visualization to using MegaLights, Lumen, and Nanite other UE features was like in his talk at Unreal Fest Stockholm:\nhttp://epic.gm/unreal-fest-stockholm-agenda",
+        "id": 3630175,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/8QWsWyAex4g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8QWsWyAex4g/hqdefault.jpg",
+        "title": "Unreal Fest Stockholm Meet the Presenter: Jonathan",
+        "vote": 0
+    }
+]

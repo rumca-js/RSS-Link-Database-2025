@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T11:39:44.297748+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T11:39:43+00:00",
+        "description": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed leveraging ClickFix-style lures to deliver a known malware called BeaverTail and InvisibleFerret.\n\"The threat actor used ClickFix lures to target marketing and trader roles in cryptocurrency and retail sector organizations rather than targeting software development roles,\" GitLab",
+        "id": 3628141,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T18:56:13.777037+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T17:30:06+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/KBpYI4tKLE0\" width=\"480\" alt=\"thumbnail\" title=\"Your Xorg Will Never Do This!\" /></p>People keep asking me what can Wayland do that Xorg can't, well I think I've found the answer, can you make an terminal X11 environment<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Term Everything Repo: https://github.com/mmulet/term.everything<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter<br />\ud83c\udf10 Mastodon: ht",
+        "id": 3630595,
+        "language": "en",
+        "link": "https://odysee.com/your-xorg-will-never-do-this!:85eba0c540c5deddaff601ac7de225934e2181f1",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/KBpYI4tKLE0",
+        "title": "Your Xorg Will Never Do This!",
+        "vote": 0
+    }
+]

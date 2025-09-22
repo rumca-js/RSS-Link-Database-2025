@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T19:56:40.777307+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T19:25:12+00:00",
+        "description": "I colorized, restored, and meticulously crafted the sound design for this remarkable footage capturing a sightseeing tour around Rio de Janeiro, Brazil. Filmed by U.S. Marines in the aftermath of World War I, it includes extended sequences from moving cable cars and boats, showcasing rare views of Tijuca, Sylvester, Niter\u00f3i, and Paquet\u00e1 Island.\n\nvideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714sound design added only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nB&W Video Source from: Prelinger Archives (Rick Prelinger)\n\nMany thanks to Mr. Rick Prelinger for his hard work and dedication to preserving archival sources. Please Support Them\n\nRick Prelinger ",
+        "id": 3630914,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dRvpLq1yPqo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dRvpLq1yPqo/hqdefault.jpg",
+        "title": "Rio de Janeiro 1920s in color, Post-War  [60fps, Remastered, w/ Sound]",
+        "vote": 0
+    }
+]

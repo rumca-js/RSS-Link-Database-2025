@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-21T23:25:34.401551+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-21T23:12:20+00:00",
+        "description": "EchoEar is a compact AI development kit for voice interaction and edge AI applications. It targets use cases such as smart toys, voice-enabled speakers, and control systems. The device features a circular touch display, dual microphones with local wake-word detection and sound localization, and supports large model integration from OpenAI, Xiaozhi AI, and Gemini. The [&#8230;]",
+        "id": 3631802,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/echoear-development-kit-targets-voice-interaction-and-edge-ai-applications",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EchoEar Development Kit Targets Voice Interaction and Edge AI Applications",
+        "vote": 0
+    }
+]
