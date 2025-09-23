@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T12:40:33.122560+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T11:56:09+00:00",
+        "description": "<p>A developer, curious about a slight performance lag on his computer, accidentally discovered the XZ attack\u2014a backdoor that reminds us some of our biggest open-source security threats are from decades of unlearned lessons. The hero of our story is Andres Freund, a Microsoft developer who in March 2024 noticed his Linux system\u2019s ssh service was [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/xz-attack-reveals-unlearned-open-source-security-lessons/\">XZ attack reveals unlearned open-source security lessons</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3635387,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/xz-attack-reveals-unlearned-open-source-security-lessons",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "XZ attack reveals unlearned open-source security lessons",
+        "vote": 0
+    }
+]

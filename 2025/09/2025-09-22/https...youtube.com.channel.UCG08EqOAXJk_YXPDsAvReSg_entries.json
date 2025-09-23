@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T17:25:28.386474+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T16:30:15+00:00",
+        "description": "Cinemachine 3.1 offers a full range of camera templates you can use straight out of the box. This video covers Cinemachine 3.1 basics and the types of cameras you can use, including the Follow Camera, Third Person Aim extension, FreeLook Camera, Spline Dolly, Sequencer Camera, and more.\n\nThis is the first video in our five-part series on Cinemachine. Watch the entire series here: https://on.unity.com/CinemachineTutorials\n\nLinks: \nUnity Warehouse: http://on.unity.com/3dEnvironment\n\nCinemachine documentation: https://on.unity.com/CinemachineDoc\n\n#unity #unitylearn #cinemachine\n\nTime Stamps: \n\n00:00 Introduction\n00:38 Cinemachine series introduction\n01:08 How Cinemachine works\n02:33 Create a Cinemachine camera\n06:10 Types of Cinemachine cameras\n10:53 Cinemachine blends\n12:32 Custom blends\n13:29 Blend hints\n14:19 Sequencer camera\n16:57 State driven camera",
+        "id": 3637827,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XTVzs4B1d7I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XTVzs4B1d7I/hqdefault.jpg",
+        "title": "Types of Cinemachine Cameras",
+        "vote": 0
+    }
+]

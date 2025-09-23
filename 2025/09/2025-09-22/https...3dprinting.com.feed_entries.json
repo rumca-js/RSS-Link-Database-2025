@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T13:49:47.103366+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T12:49:38+00:00",
+        "description": "<div style=\"display: flex;\"><div style=\"width: calc(100% - 75px);padding-right:16px;\"><h2><a href=\"https://3dprinting.com/news/ford-uses-3d-printing-to-optimize-mustang-gtd-aerodynamics-for-record-nurburgring-lap/\" style=\"color: #1a0dab;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-weight: normal;mso-line-height-rule: exactly;font-size:18px;text-decoration:none;margin-bottom:8px;\" target=\"_blank\">Ford Uses 3D Printing to Optimize Mustang GTD Aerodynamics for Record N\u00fcrburgring Lap</a></h2><span style=\"color:#777;font-size:14px;margin-top: auto;\">September 22</span></div><div style=\"max-width:75px;\"><img width=\"500\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/2025-ford-mustang-gtd-500x500.jpg\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" alt=\"\" style=\"max-width:75px;border-radius:10px;overflow: hidden;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://3dprinting.com/wp-content/uploads/2",
+        "id": 3635932,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/ford-uses-3d-printing-to-optimize-mustang-gtd-aerodynamics-for-record-nurburgring-lap",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://3dprinting.com/wp-content/uploads/2025-ford-mustang-gtd-500x500.jpg",
+        "title": "Ford Uses 3D Printing to Optimize Mustang GTD Aerodynamics for Record N\u00fcrburgring Lap - 3DPrinting.com",
+        "vote": 0
+    }
+]

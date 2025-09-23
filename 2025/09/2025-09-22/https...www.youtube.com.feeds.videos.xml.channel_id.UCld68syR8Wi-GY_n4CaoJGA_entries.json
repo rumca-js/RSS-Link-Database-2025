@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T18:44:13.637332+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T17:30:24+00:00",
+        "description": "Early this week it was announced that starting next term South Australian schools will have access to the government endorsed ChatGPT powered EdChat, and I'm sure nothing at all is going to go wrong with this.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nNews Article: https://www.news.com.au/national/australias-public-education-systems-bans-chatbot/news-story/6360c35f7ba84da8c9f1263015a0da57\nEdchat: https://www.education.sa.gov.au/parents-and-families/curriculum-and-learning/ai/edchat\nPremier Article: https://www.premier.sa.gov.au/media-releases/news-archive/nation-leading-trial-in-sa-schools-to-focus-on-the-safe-use-of-ai\nTrials: https://www.premier.sa.gov.au/media-releases/news-items/ai-tool-to-roll-out-to-all-public-high-schools\nTrial Report: https://www.education",
+        "id": 3638506,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vQ6nahdRKCA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vQ6nahdRKCA/hqdefault.jpg",
+        "title": "I'm Sure This Experiment Can Only End Well",
+        "vote": 0
+    }
+]

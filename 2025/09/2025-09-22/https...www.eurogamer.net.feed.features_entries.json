@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T13:29:52.387570+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T13:09:20+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/id-at-xbox-header_kJXo19F.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>My first major memory of Indie Games on Xbox platforms is a pleasant one, and it's precisely the sort of memory I feel most appropriate for the medium. This was a tiny self-published affair - nary a publisher in sight, what I assume was a solo developer, and an extremely limited scope. I'm not talking about <a href=\"https://www.eurogamer.net/games/hollow-knight\">Hollow Knight</a>, or Balatro, or Braid, or <a href=\"https://www.eurogamer.net/games/limbo\">Limbo</a> or what have you. I'm talking about Curling 2010.</p> <p><a href=\"https://www.eurogamer.net/inside-xboxs-increasingly-vital-indie-publishing-operation\">Read more</a></p>",
+        "id": 3635769,
+        "language": "en",
+        "link": "https://www.eurogamer.net/inside-xboxs-increasingly-vital-indie-publishing-operation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/id-at-xbox-header_kJXo19F.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "\"It was really hard to publish on Xbox. It was our job to make it easier\" - inside Xbox's increasingly vital indie publishing operation",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Akela Lacy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T13:47:30.792124+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T13:09:04+00:00",
+        "description": "<p>\u201cThis concession shows that student campaigns do have an influence,\u201d one student said. \"These ties cannot survive transparency.\"</p>\n<p>The post <a href=\"https://theintercept.com/2025/09/22/mit-israeli-military-funding-grant-protests/\">MIT Professor Cancels Israeli Military Grant After Student Pressure</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3635910,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/09/22/mit-israeli-military-funding-grant-protests",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/09/AP25258755525916-e1758501154629.jpg?w=440&h=440&crop=1",
+        "title": "MIT Professor Cancels Israeli Military Grant After Student Pressure",
+        "vote": 0
+    }
+]

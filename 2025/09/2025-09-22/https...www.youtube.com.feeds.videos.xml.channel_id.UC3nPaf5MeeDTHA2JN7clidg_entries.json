@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T16:33:55.093122+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T16:15:05+00:00",
+        "description": "Hollow Knight: Silksong is stunningly good. Today, we'll see why.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 An Absurd Launch\n00:40 \"We've Been Having Fun\"\n01:43 Recipe For Success\n04:18 They're Just Normal Devs\n07:22 Leftover Triangle Sandwiches\n11:34 An Industry Without Fear\n\nSources:\nhttps://alineaanalytics.substack.com/p/silksong-passed-5m-players-in-three\n\nhttps://web.archive.org/web/20180724032155/https://www.kotaku.com.au/2018/07/hollow-knight-has-sold-more-than-1-million-copies-on-pc/\n\nhttps://www.bloomberg.com/news/newsletters/2025-08-21/why-silksong-team-cherry-s-sequel-to-hollow-knight-took-so-long-to-make\n\nhttps://web.archive.org/web/20201124120704/http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=27654\n\nhttps://www.reddit.com/r/StardewValley/comments/1n9c7nh/concernedape_in_hollow_night_silksong_credits_what/ \n\nhttps://www.acmi.net.au/stories-and-ideas/from-ludum-dare-to-ph",
+        "id": 3637352,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rR2lFFtj4WU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rR2lFFtj4WU/hqdefault.jpg",
+        "title": "Silksong Shouldn't Be A Miracle. But It Is",
+        "vote": 0
+    }
+]

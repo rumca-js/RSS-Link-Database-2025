@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T11:28:49.533795+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T11:00:56+00:00",
+        "description": "When there\u2019s so much to see in Korea, but so little time\u2026 \u23f3 Get more from every experience with Galaxy S25 Ultra\u2014your true AI companion. Learn more: http://smsng.co/S25Ultra_Tour-Guide_yt\n\n#GalaxyS25Ultra #GalaxyS25 #Samsung",
+        "id": 3634940,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Tb0nFak5j-c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Tb0nFak5j-c/hqdefault.jpg",
+        "title": "Tour Guide | Galaxy S25 Ultra | Samsung",
+        "vote": 0
+    }
+]

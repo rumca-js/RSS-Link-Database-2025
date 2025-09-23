@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T15:07:41.455250+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T14:01:42+00:00",
+        "description": "The Trump administration\u2019s DOGE initiative threatens the future of the F-35 program, which Elon Musk has labelled an obsolete boondoggle. But Lockheed Martin is using AI to evolve the jet, integrating drones into its system to boost capability and relevance. But after missing out on big contracts due to increased competition and tariffs, can Lockheed pivot to stay relevant?\n\nWSJ visited Lockheed Martin\u2019s facilities in Fort Worth, Texas, to get a closer look at the jets and their new capabilities. \n\nChapters:\n0:00 The F-35 with drones\n0:50 Breaking down the F-35\n2:16 Skunk Works: collaborative combat aircraft\n4:48 Lockheed Martin\u2019s difficulties \n\nEquipped\nEquipped examines military innovation and tactics emerging around the world, breaking down the tech behind the weaponry and its potential impact.\n\n#F35 #LockheedMartin #WSJ",
+        "id": 3636620,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zi8XZyAD8mM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zi8XZyAD8mM/hqdefault.jpg",
+        "title": "Lockheed Martin Showed Us Their New F-35 Drone Tech | WSJ Equipped",
+        "vote": 0
+    }
+]

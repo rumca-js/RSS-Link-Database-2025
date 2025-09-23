@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T23:26:33.156748+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T22:45:03+00:00",
+        "description": "See more streaming: https://www.youtube.com/watch?v=elnwjE31LPA&list=PLCZHp4d1HnIusyoxR4_FrDB8zPyHByNdc - Tubi just released a Chrome extension that helps people hide their at-work TV watching from their boss. While this is a PR stunt, it did remind me of the old \"boss key\" feature that was on many 80s computer games. Subscribe for more! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:14 - Tubi Chrome Extension Demo\n01:39 - Customizing the Extension / Source code & docs\n02:52 - History of Boss Keys\n03:19 - March Madness \"Boss Button\"\n03:52 - The First Boss Key: Bezare for the Apple II\n04:23 - Spectrum Holobyte Tetris Boss Key\n04:45 - Leisure Suit Larry Boss Key\n05:21 - Space Quest 3 Boss Key\n05:48 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! ht",
+        "id": 3640414,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VlHKnLcF1_o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VlHKnLcF1_o/hqdefault.jpg",
+        "title": "Tubi Made a Panic Button for Watching TV at Work & \"Boss Key\" History!",
+        "vote": 0
+    }
+]

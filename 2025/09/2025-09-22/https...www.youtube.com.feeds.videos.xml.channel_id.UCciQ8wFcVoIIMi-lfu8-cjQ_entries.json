@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T22:33:05.631290+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T22:01:07+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about the Little Red Dot mystery from the James Webb Space Telescope\nLinks:\nhttps://arxiv.org/pdf/2509.09607 \nhttps://discovery.ucl.ac.uk/id/eprint/10212395/1/Taylor_2025_ApJL_989_L7.pdf \nhttps://aasnova.org/2025/05/21/a-new-theory-for-little-red-dots-shredded-stars-feeding-growing-black-holes/ \nhttps://www.aanda.org/articles/aa/full_html/2025/09/aa54681-25/aa54681-25.html \nhttps://aasnova.org/2025/08/06/distant-little-red-dot-hosts-a-huge-and-growing-black-hole/ \nPrevious videos:\nhttps://youtu.be/xkdAbOS9AcA\nhttps://youtu.be/7CvIpTRiuJw\nhttps://youtu.be/-oX7tfz80DU\nh",
+        "id": 3640110,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tkkWrKMDzzk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tkkWrKMDzzk/hqdefault.jpg",
+        "title": "Little Red Dots May Be Strange Cocoon Objects After All",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "captainmidnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-22T23:37:34.761904+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-22T22:27:38+00:00",
+        "description": "This video is sponsored by Brilliant. Go to https://brilliant.org/midnight or scan the QR code onscreen, Brilliant\u2019s also given our viewers 20% off an annual Premium subscription, which gives you unlimited daily access to everything on Brilliant.\nDungeons & Dragons has a couple theatrical releases under its belt, but audiences have not shown up for them. Even when Honor Among Thieves was pretty good! So what happened? Here's my theory.\nRead my comic BINARY SEA on Amazon Kindle: https://a.co/d/9JfoZC0\nMusic by Epidemic Sound (http://www.epidemicsound.com)\nFollow me on Twitter: https://twitter.com/midnightcap\nFollow me on Facebook: https://www.facebook.com/midnightcap\nVideo edited by Andrew Elliott (Stalli111: https://www.youtube.com/user/Stalli111  )\nWritten by Graham Blackaby",
+        "id": 3640502,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=QVZAW4H2UB4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 63,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCROQqK3_z79JuTetNP3pIXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QVZAW4H2UB4/hqdefault.jpg",
+        "title": "Why D&D Movies Keep Failing",
+        "vote": 0
+    }
+]
