@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AsapSCIENCE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T15:43:42.183363+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T15:15:11+00:00",
+        "description": "What is REALLY causing the increase in autism diagnosis since the early 1990s? Is it pollution? Is it plastics? Is it Tylenol? Is it screen time? Today we explain the up to date science and research, because right now people are trying to claim that Tylenol use during pregnancy is the main reason.\n\nThis information is important as ASD has been increasing in recent years, but science and research has answers outside of one specific claim. It is important that we share this video, and people understand the real cause of increased ASD diagnoses, and also why focusing on ONE CAUSE is not the real issue here.\n\nCreated by: Mitchell Moffit and Gregory Brown\nWritten by: Gregory Brown\nEdited by: Luka Sarlija\n\nReferences:\nhttps://jamanetwork.com/journals/jama/fullarticle/2817406\nhttps://www.nature.com/articles/d41586-025-02636-1\nhttps://www.nature.com/articles/d41586-025-00709-9\nhttps://pubmed.ncbi.nlm.nih.gov/38592388/\nhttps://pubmed.ncbi.nlm.nih.gov/28068486/\nhttps://pubmed.ncbi.nlm.nih.gov/2",
+        "id": 3645708,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=f0lWoYz8ETE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 22,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f0lWoYz8ETE/hqdefault.jpg",
+        "title": "Is Tylenol Actually Causing Autism?",
+        "vote": 0
+    }
+]

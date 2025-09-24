@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T18:26:26.602288+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T18:26:25+00:00",
+        "description": "Polska gospodarka osi\u0105ga historyczne sukcesy. Dzi\u0119ki lepszym zarobkom Polacy mog\u0105 podr\u00f3\u017cowa\u0107, zarazem nasz kraj sta\u0142 si\u0119 atrakcyjnym celem podr\u00f3\u017cy zagranicznych go\u015bci. Turystyka daje prac\u0119 i rozw\u00f3j, a w efekcie staje si\u0119 wa\u017cn\u0105 ga\u0142\u0119zi\u0105 gospodarki - m\u00f3wi\u0142 minister finans\u00f3w i gospodarki do uczestnik\u00f3w rozpoczynaj\u0105cego si\u0119 dzisiaj Kongresu \u201eTurystyka przysz\u0142o\u015bci\u201d.",
+        "id": 3647326,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art43060411-minister-finansow-i-gospodarki-andrzej-domanski-turystyka-jednym-z-motorow-gospodarki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Minister finans\u00f3w i gospodarki Andrzej Doma\u0144ski: Turystyka jednym z motor\u00f3w gospodarki",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T16:48:53.023887+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T16:00:01+00:00",
+        "description": "Jordan describes how Krypto, Superman's dog, was created for James Gunn's Superman. Hard to believe due to the incredible good result, this dog is fully CGI in the whole movie. Created by Framestore studios, who have done other incredible CGi dogs like Cosmo in Guardians of the Galaxy, they used James Gunn's own dog as a reference.\n\nDid you know it was fully CGI the whole time?",
+        "id": 3646383,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/0moeoYafRn4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0moeoYafRn4/hqdefault.jpg",
+        "title": "This dog is NOT REAL..",
+        "vote": 0
+    }
+]

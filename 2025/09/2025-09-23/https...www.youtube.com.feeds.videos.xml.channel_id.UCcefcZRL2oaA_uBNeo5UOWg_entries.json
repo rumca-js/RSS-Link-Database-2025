@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T15:00:15.162155+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T14:45:03+00:00",
+        "description": "We are entering the era of Fintech 3.0. Regulatory clarity, growing consumer adoption, and low-cost chains have paved the way for a golden age of building in crypto \u2014 and at YC, Base, and Coinbase we want to fund builders to seize this moment. \n\nIn this episode of Main Function, YC's Harj Taggar and Base's Jesse Pollak sat down to discuss what kinds of companies they're most excited to see, why this is such an exciting time in crypto, and what the future could look like onchain.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 \u2013 The Golden Age of Crypto\n02:00 \u2013 Jesse\u2019s Path to Coinbase & Base\n04:00 \u2013 From Fintech 1.0 to Fintech 3.0\n07:00 \u2013 Why Lowering Costs Changes Everything\n10:00 \u2013 L1 vs. L2, Simply Explained\n13:00 \u2013 How to Build Your First Crypto App\n16:00 \u2013 Regulation: Bottleneck or Unlock?\n19:00 \u2013 Stablecoins as the Killer Use Case\n23:00 \u2013 Beyond the Dollar: Local Stablecoins\n27:00 \u2013 Tokenization of As",
+        "id": 3645343,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Pdne9xaRLUc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Pdne9xaRLUc/hqdefault.jpg",
+        "title": "Now Is The Best Time To Build In Crypto",
+        "vote": 0
+    }
+]

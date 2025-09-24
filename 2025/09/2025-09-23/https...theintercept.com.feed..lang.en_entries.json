@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Loubna Mrie",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T10:38:42.661954+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T10:00:00+00:00",
+        "description": "<p>Authoritarianism flourishes when people learn that silence is survival. That\u2019s why the response to Charlie Kirk\u2019s killing troubled me.</p>\n<p>The post <a href=\"https://theintercept.com/2025/09/23/charlie-kirk-trump-free-speech-syria-surveillance/\">Take It From a Syrian: Here\u2019s How Informant Culture Rots Your Society</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3643259,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/09/23/charlie-kirk-trump-free-speech-syria-surveillance",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/09/GettyImages-2187475217_8ecefd.jpg?fit=5000%2C3333",
+        "title": "Take It From a Syrian: Here\u2019s How Informant Culture Rots Your Society",
+        "vote": 0
+    }
+]

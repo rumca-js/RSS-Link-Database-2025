@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T22:59:42.204312+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T22:00:36+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about the bizarre way animals are evolving because of various types of human activity and habitat\nLinks:\nhttps://link.springer.com/article/10.1007/s13752-019-00324-8\nhttps://arxiv.org/pdf/1812.05662\nhttps://royalsocietypublishing.org/doi/10.1098/rspb.2024.2443\nhttps://learn.genetics.utah.edu/content/evolution/corn/\nhttps://www.pnas.org/doi/10.1073/pnas.2503428122\nhttps://www.pnas.org/doi/epdf/10.1073/pnas.2216526119\nhttps://www.ncbi.nlm.nih.gov/books/NBK219730/\nhttps://www.nwf.org/Magazines/National-Wildlife/2025/Winter/Conservation/Rapid-Evolution\nhttps://www.nature.",
+        "id": 3649298,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PnQ0eQrKF4g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PnQ0eQrKF4g/hqdefault.jpg",
+        "title": "Animals Are Evolving to Survive in the Human World But Often in a Weird Way",
+        "vote": 0
+    }
+]

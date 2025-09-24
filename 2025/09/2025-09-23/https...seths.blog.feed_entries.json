@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T09:09:05.169635+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T09:03:00+00:00",
+        "description": "Big company customer service has evolved to be pointless, a useless shadow of its former self. Big companies can&#8217;t take responsibility, only humans can. And when we depersonalize our interactions and work to minimize the time spent and use a refund or policy to &#8216;make it right&#8217;, we forget what service is usually for. It&#8217;s [&#8230;]",
+        "id": 3642758,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/09/to-be-heard",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "To be heard",
+        "vote": 0
+    }
+]

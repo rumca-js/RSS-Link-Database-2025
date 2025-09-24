@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T17:53:31.996698+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T17:34:24+00:00",
+        "description": null,
+        "id": 3647004,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=UZx49KmAdrY",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UZx49KmAdrY/hqdefault.jpg",
+        "title": "Okulary zamiast smartfona? S\u0142uchawki z mikrofonem w etui i dron, kt\u00f3ry si\u0119 nie myli",
+        "vote": 0
+    }
+]

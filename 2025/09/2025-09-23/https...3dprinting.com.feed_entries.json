@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T09:33:55.326008+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T08:53:29+00:00",
+        "description": "Excamera Labs has created a 3D-printed box forming mandrel to streamline packaging assembly for their TermDriver2 product shipments. The company developed the tool to address the time-intensive process of manually folding thousands of product boxes for shipping. The mandrel functions as a tapered jig that allows flat box blanks to be pressed into their final [&#8230;]",
+        "id": 3642899,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/excamera-labs-develops-3d-printed-box-assembly-tool-for-small-scale-production",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Excamera Labs Develops 3D-Printed Box Assembly Tool for Small-Scale Production - 3DPrinting.com",
+        "vote": 0
+    }
+]

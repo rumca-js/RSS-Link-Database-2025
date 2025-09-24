@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T15:53:07.097666+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T14:59:49+00:00",
+        "description": "Microfluidic cooling is part of Microsoft\u2019s systems approach to advancing AI infrastructure - from chips to servers to datacenters, all the way to the cloud. This video shows how we\u2019re able to deliver precision cooling with designs inspired by nature and optimized by AI. By etching microchannels directly onto the chip, coolant flows to the hottest regions of each CPU and GPU, enabling up to 3x better cooling performance than cold plates* and 65% reduction in maximum temperature rise of the silicon inside a GPU. Through innovations like this, we\u2019re opening the door to new architectures that use less water and power, helping us build more sustainable, performant datacenters for the world\u2019s most demanding AI workloads. \n\n*depending on depend on workloads and configurations involved\n\nRead more in our blog: https://aka.ms/AApbc2e \nExplore the microfluidic cooling infographic: https://aka.ms/microfluidicsinfographic\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r",
+        "id": 3645816,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MZBwLi3ajYE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MZBwLi3ajYE/hqdefault.jpg",
+        "title": "Introducing microfluidic cooling: a breakthrough in chip cooling technology",
+        "vote": 0
+    }
+]

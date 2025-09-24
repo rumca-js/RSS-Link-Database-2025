@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T17:14:55.960703+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T16:34:26+00:00",
+        "description": "<p>As companies race to implement AI, many are finding that project success hinges directly on the quality of their data. This dependency is causing many ambitious initiatives to stall, never making it beyond the experimental proof-of-concept stage. So, what\u2019s the secret to turning these experiments into real revenue generators? AI News caught up with Martin [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth/\">Martin Frederik, Snowflake: Data quality is key to AI-driven growth</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3646660,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/09/image-14.png",
+        "title": "Martin Frederik, Snowflake: Data quality is key to AI-driven growth",
+        "vote": 0
+    }
+]

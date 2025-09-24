@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tony Mastrangeli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T14:02:50.038974+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T12:57:38+00:00",
+        "description": "<img width=\"640\" height=\"894\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-733x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Light Speed Arena\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-733x1024.jpg 733w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-215x300.jpg 215w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-107x150.jpg 107w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-768x1073.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-1099x1536.jpg 1099w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-640x894.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-1280x1788.jpg 1280w, htt",
+        "id": 3644786,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/light-speed-arena-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/09/Light-Speed-Arena-733x1024.jpg",
+        "title": "Light Speed Arena Review",
+        "vote": 0
+    }
+]

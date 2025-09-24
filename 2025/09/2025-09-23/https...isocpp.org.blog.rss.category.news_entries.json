@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T23:12:20.221006+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T22:17:57+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 150px; margin: 10px; float: right; height: 153px;\" />Let&rsquo;s talk about templates, constraints, and concepts. We&rsquo;ll start with a quick reminder of why concepts are essential when working with templates. Then we&rsquo;ll dive into the challenge posed by reference-qualified types and finish with a practical solution.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/08/13/use-concepts-with-remove_cvref\">Use concepts with std::remove_cvref_t</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tBy now, it&rsquo;s well known that using unconstrained templates is discouraged. Even the C++ Core Guidelines strongly recommend against it.</p>\n\t<p>\n\t\t<a href=\"https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#t47-avoid-highly-visible-unconstrained-templates-with-common-names\">T.47</a>&nbsp;only advises",
+        "id": 3649408,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/09/use-concepts-with-stdremove-cvref-t-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "Use concepts with std::remove_cvref_t -- Sandor Dargo",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-23T20:02:40.702128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-23T19:31:32+00:00",
+        "description": "Sponsor: Hyte Y70 and Touch Infinite on their site https://geni.us/Ir9vKEK\nNVIDIA announced its intent to invest into chipmaker Intel, which was recently invested in by the US Government, following the US Government's direct cooperation with Jensen Huang to modify export control limitations previously stated to be for national security. The stated reason for the investment is to create custom x86 CPUs fused with NVLink solutions, RTX chiplets, and notebook solutions (alongside enterprise solutions). Intel has been struggling hard for a year now and has recently found itself the recipient of billions of dollars of investment across multiple private and public institutions, including SoftBank, the United States Government, and now NVIDIA.\n\nGrab a \"Blind Eye\" T-Shirt and support us directly! https://store.gamersnexus.net/products/blind-eye-t-shirt-black-market\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becomin",
+        "id": 3648180,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VbI4BAaSZb8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VbI4BAaSZb8/hqdefault.jpg",
+        "title": "NVIDIA's Monopolistic Takeover",
+        "vote": 0
+    }
+]
