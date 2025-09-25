@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T18:30:17.649044+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T17:34:49+00:00",
+        "description": "Introducing Early Decision.\n\nFor students who want to do a startup but also want to finish school first. Apply now, get funded the moment you're accepted, and do YC after you graduate.\n\nycombinator.com/early-decision",
+        "id": 3655867,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xKRCd0ovMqs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xKRCd0ovMqs/hqdefault.jpg",
+        "title": "Early Decision for Students",
+        "vote": 0
+    }
+]

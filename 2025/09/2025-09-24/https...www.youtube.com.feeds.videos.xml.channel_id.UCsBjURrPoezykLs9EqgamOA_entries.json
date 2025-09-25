@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T20:10:35.135367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T18:52:15+00:00",
+        "description": "Install CodeRabbit CLI for free to catch all your AI slop code - https://coderabbit.link/fireship-cli\n\nOmarchy is a new omakase distro based on Arch Linux that's been designed for programmers, courtesy of final boss developer David Heinemeier Hansson. Let's run it and find out if it's the ultimate operating system for people who code.\n\n#linux  #coding #programming #tech \n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n- https://omarchy.org/\n\n\ud83d\udcda Chapters\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- What is Omarchy?\n- Hyprland\n- Why run Linux?\n- Omarchy first look\n- David Heinemeier Hansson\n- Coding on Linux\n- Arch Linux",
+        "id": 3656475,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DC2p3kFjcK0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DC2p3kFjcK0/hqdefault.jpg",
+        "title": "There's a new Linux distro in town for developers...",
+        "vote": 0
+    }
+]

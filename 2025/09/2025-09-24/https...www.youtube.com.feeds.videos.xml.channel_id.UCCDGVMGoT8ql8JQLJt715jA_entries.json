@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T21:28:11.012142+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T20:46:55+00:00",
+        "description": "Tutaj mo\u017cesz mnie wesprze\u0107: https://tipply.pl/@emzdanowicz\n\nOko\u0142o 40 minut prezentacji Sony, cho\u0107 nie tylko gry first-party. Co ciekawego zobaczymy?",
+        "id": 3657050,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=hkYa7LPvGvI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hkYa7LPvGvI/hqdefault.jpg",
+        "title": "Nowy God of War? Ogl\u0105damy State of Play",
+        "vote": 0
+    }
+]

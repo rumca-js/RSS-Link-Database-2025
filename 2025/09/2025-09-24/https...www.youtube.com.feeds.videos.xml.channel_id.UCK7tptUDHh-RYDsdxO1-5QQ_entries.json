@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T15:33:38.642650+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T14:15:00+00:00",
+        "description": "In the latest WSJ-NORC poll, women viewed President Trump\u2019s economy much more negatively than men. The gender gap remained persistent among many categories including financial circumstances, views on consumer prices and more. Political analysts say that men tend to look at macro elements of the economy like the stock market and unemployment, and women tend to look at cues from their immediate lives like grocery prices. \n\nWSJ\u2019s Aaron Zitner breaks down the latest poll and what it could mean for midterm elections next year.\n\nChapters:\n0:00 WSJ\u2019s latest poll\n0:46 Satisfaction gap between men and women\n1:36 Gender gap among different categories\n2:22 Why women feel more uncertain \n5:39 Political ramifications\n\n#Trump #Economy #WSJ",
+        "id": 3654399,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aiGQja2yRYo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aiGQja2yRYo/hqdefault.jpg",
+        "title": "This Poll Exposes a Gender Gap That May Shape 2026 Midterms | WSJ",
+        "vote": 0
+    }
+]

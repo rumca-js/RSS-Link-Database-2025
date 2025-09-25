@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Francis Sideco",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T12:37:10.519231+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T12:00:00+00:00",
+        "description": "<p>Developing a scalable quantum solution will require more than just selecting the qubit on which to base it.</p>\n<p>The post <a href=\"https://www.eetimes.com/designing-a-qubit-is-one-thing-achieving-large-scale-quantum-computing-is-another/\">Designing a Qubit is One Thing, Achieving Large-Scale Quantum Computing is Another\u00a0</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>",
+        "id": 3652926,
+        "language": "en-US",
+        "link": "https://www.eetimes.com/designing-a-qubit-is-one-thing-achieving-large-scale-quantum-computing-is-another",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 483,
+        "source_url": "https://eetimes.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eetimes.com/wp-content/uploads/starling-data-center.jpg",
+        "title": "Designing a Qubit is One Thing, Achieving Large-Scale Quantum Computing is Another",
+        "vote": 0
+    }
+]

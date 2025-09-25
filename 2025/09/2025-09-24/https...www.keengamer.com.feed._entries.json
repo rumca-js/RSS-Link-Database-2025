@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Adams",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T13:52:11.081769+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T10:07:40+00:00",
+        "description": "<p><img width=\"2560\" height=\"1440\" src=\"https://www.keengamer.com/wp-content/uploads/2025/09/cover-image-valheim-failed-to-connect.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-image-788394 wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" data-mwl-img-id=\"788394\" /></p>\n<p><a href=\"https://www.keengamer.com/wp-content/uploads/2025/09/cover-image-valheim-failed-to-connect.png\"><img class=\"aligncenter wp-image-788394 size-medium\" src=\"https://www.keengamer.com/wp-content/uploads/2025/09/cover-image-valheim-failed-to-connect-780x439.png\" alt=\"5 Ways to Fix the Valheim &quot;Failed to Connect&quot; Error on Windows PCs\" width=\"780\" height=\"439\"></a></p>\n<p>Some<a href=\"https://www.valheimgame.com/\" target=\"_blank\" rel=\"noopener\"><em> Valheim</em></a> players have reported they can't connect to local or dedicated services because of a \"<em>Failed to connect</em>\" error message. For example, one <a href=\"https://www.reddit.com/r/valheim/comments/1j3rt63/failed_to_c",
+        "id": 3653861,
+        "language": "en-US",
+        "link": "https://www.keengamer.com/articles/features/troubleshooting/5-ways-to-fix-the-valheim-failed-to-connect-error-on-windows-pcs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 474,
+        "source_url": "https://www.keengamer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.keengamer.com/wp-content/uploads/2025/09/cover-image-valheim-failed-to-connect.png",
+        "title": "5 Ways to Fix the Valheim \u201cFailed to Connect\u201d Error on Windows PCs",
+        "vote": 0
+    }
+]

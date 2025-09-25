@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T06:35:18.348270+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T02:00:51+00:00",
+        "description": "Researchers reviewing 46 studies found evidence linking prenatal acetaminophen (Tylenol) exposure with higher risks of autism and ADHD. The FDA has since urged caution, echoing scientists\u2019 advice that the drug be used only at the lowest effective dose and shortest duration. While important for managing fever and pain in pregnancy, prolonged use may pose risks to fetal development. Experts stress careful medical oversight and further investigation.",
+        "id": 3651398,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/09/250924012222.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tylenol in pregnancy linked to higher autism risk, Harvard scientists report",
+        "vote": 0
+    }
+]

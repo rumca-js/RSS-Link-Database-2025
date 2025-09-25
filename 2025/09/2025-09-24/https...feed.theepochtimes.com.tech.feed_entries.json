@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew Moran",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T13:07:10.557253+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T09:00:39+00:00",
+        "description": "Examining the trinity of 2025 issues impacting corporate America.",
+        "id": 3653315,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/inflation-tariffs-ai-what-corporate-america-is-saying-doing-5918572",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/04/16/id5843042-DSC06810-stock-exchange-1080x720.jpg",
+        "title": "Inflation, Tariffs, AI: What Corporate America Is Saying, Doing",
+        "vote": 0
+    }
+]

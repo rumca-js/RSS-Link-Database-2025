@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T15:11:51.297647+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T13:57:20+00:00",
+        "description": "With Spot on the job, Michelin has generated more than 72 work orders. By delegating the mundane task of inspection, the reliability team can proactively  plan and execute maintenance events. Baselines for equipment performance are set up using Orbit, , and work orders are generated when equipment runs out of specification.\n\n#bostondynamics",
+        "id": 3654290,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/gafzTfN42jI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gafzTfN42jI/hqdefault.jpg",
+        "title": "Spot at Michelin Excerpt | Boston Dynamics",
+        "vote": 0
+    }
+]

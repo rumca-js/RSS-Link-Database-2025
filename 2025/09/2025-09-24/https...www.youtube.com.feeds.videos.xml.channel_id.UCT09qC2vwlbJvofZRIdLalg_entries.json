@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Flick Connection",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T20:33:42.116432+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T19:36:41+00:00",
+        "description": "Get weekly movie recommendations in your inbox: https://www.darrenvandam.com/emails\n\nD.V.D.'s T-shirt Designs: https://www.darrenvandam.com/shop\n________________________________________\n\nI'm your host, Darren Van Dam!\n\nTired of looking for good movies to watch on Netflix, Amazon Prime or other streaming services? Every week I recommend a handful of the best movies on Netflix, Amazon, HBO etc. so my subscribers never run out of good movies to watch on streaming. Spending 10 minutes watching one of my videos could save you hours of searching, hours that you could otherwise spend watching good movies on streaming that you otherwise might not have ever watched or even known about.\n\nThanks for watching!\n\n0:00 Intro\n0:29 Reign of Fire\n1:32 The X-Files\n3:01 Unleashed\n4:13 The Poseidon Adventure\n4:56 Executive Decision\n6:33 The A-Team\n7:55 The Big Red One\n9:49 The 13th Warrior\n11:37 Legend\n13:04 The Count of Monte Cristo\n14:25 List Recap",
+        "id": 3656659,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=t5_-yV5k95Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 730,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT09qC2vwlbJvofZRIdLalg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t5_-yV5k95Y/hqdefault.jpg",
+        "title": "YouTube Secretly Has Overlooked Epic Movies for FREE",
+        "vote": 0
+    }
+]

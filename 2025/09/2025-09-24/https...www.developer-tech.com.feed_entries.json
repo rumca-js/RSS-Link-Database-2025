@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T12:52:49.087010+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T09:13:42+00:00",
+        "description": "<p>GitLab&#8217;s latest release uses AI for more than just making code completion smarter, with customisable agents, a Knowledge Graph, and more. A developer&#8217;s day is often a constant juggle. You&#8217;re not just writing code; you&#8217;re deciphering legacy systems, navigating complex dependencies, wrestling with pipelines, and trying to remember your team\u2019s specific, unwritten rules for formatting [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/gitlab-launches-custom-ai-agents-and-knowledge-graph/\">GitLab launches custom AI agents and Knowledge Graph</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3653154,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/gitlab-launches-custom-ai-agents-and-knowledge-graph",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GitLab launches custom AI agents and Knowledge Graph",
+        "vote": 0
+    }
+]

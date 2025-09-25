@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-24T18:56:37.481276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-24T17:30:10+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/WheFywYGKeM\" width=\"480\" alt=\"thumbnail\" title=\"Maybe Fedora Linux Was Right All Along\" /></p>A few months back you may recall Fedora Linux trying to drop multilib and getting a lot of push back for doing so by developers and gamers alike most importantly because the Steam client itself is a 32 bit, but with Valve dropping support for 32 bit Windows 10, maybe there is finally hope.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Fedora Change: https://fedoraproject.org/wiki/Changes/Drop_i686_support<br />FEX: https://github.com/FEX-Emu/FEX<br />32 Bit Windows: https://help.steampowered.com/en/faqs/view/49A1-B944-48B8-FF00<br />MacOS 32 Bit: https://help.steampowered.com/en/faqs/view/74",
+        "id": 3656053,
+        "language": "en",
+        "link": "https://odysee.com/maybe-fedora-linux-was-right-all-along:bebe8122cd236c16b842c19c2b2b77ea3be3509e",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/WheFywYGKeM",
+        "title": "Maybe Fedora Linux Was Right All Along",
+        "vote": 0
+    }
+]
