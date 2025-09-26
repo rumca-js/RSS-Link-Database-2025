@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T07:43:43.583017+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T07:00:24+00:00",
+        "description": "The Raspberry Pi 500+ adds on things missing from the regular 500. But at what cost?\n\nAnd with full RGB... is it any better at gaming? What if we throw in an eGPU?\n\nMentioned in this video:\n\n  - Raspberry Pi 500+: https://www.raspberrypi.com/products/raspberry-pi-500-plus/\n  - Raspberry Pi Monitor: https://www.raspberrypi.com/products/raspberry-pi-monitor/\n  - Lumafield scans:\n    - Pi 500+ 'top' (right side): https://voyager.lumafield.com/project/79ccb3a4-21a0-40eb-ba95-21057900883f\n    - Pi 500+ 'bottom' (left side): https://voyager.lumafield.com/project/0506155d-2d8f-4a49-832b-104d215999c9\n  - ZX Spectrum Video by Adrian's Digital Basement: https://www.youtube.com/watch?v=RMG_StQ67kA\n\nAnd here are all the parts I used in testing the Pi 500+ (some links are affiliate links):\n\n  - RIITOP NVMe to USB Docking Station: https://amzn.to/46yvPaC\n  - JMT M.2 M-Key to OCuLink PCIe Dock: https://amzn.to/4pCCokS\n  - chenyang SFF-8611 OCuLink Cable: https://amzn.to/481Otdn\n  - Lian Li 750W SFX ",
+        "id": 3660024,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Dv3RRAx7G6E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Dv3RRAx7G6E/hqdefault.jpg",
+        "title": "Raspberry Pi 500+: NOW we're gaming!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T16:56:14.454480+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T16:38:29+00:00",
+        "description": "Watch this video to find out how the team at Hangar 13 used UE5 to deliver an authentic world and characters in the latest installment of the blockbuster \u2018Mafia\u2019 franchise.\n\nIn \u2018Mafia: The Old Country\u2019, players take on the role of Enzo Favara, who seeks to prove his worth to The Family in an immersive third-person action-adventure set in a dangerous, unforgiving era. \n\nBuilt with Unreal Engine 5, \u2018Mafia: The Old Country\u2019 brings its characters and world to life utilizing features such as Lumen, Niagara, MetaHuman and more.\n\nRead the full interview with Alex Cox, Game Director at Hangar 13, to learn more about the goals for the project and how using Unreal Engine 5 helped the team achieve them: https://epic.gm/dev-interviews-mafia-old-country\n\n#MafiaTheOldCountry, #UnrealEngine, #UE5, #Hangar13, #Lumen, #Niagara, #MetaHuman",
+        "id": 3663507,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sFZNq6woCbQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sFZNq6woCbQ/hqdefault.jpg",
+        "title": "Mafia: The Old Country | Spotlight | Unreal Engine",
+        "vote": 0
+    }
+]

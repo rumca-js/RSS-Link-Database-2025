@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T15:14:05.636480+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T14:21:42+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nIstnieje wiele skrajnych opinii o nowym sezonie serialu 1670. Jedni pokochali, inni znienawidzili, jedni wychwalaj\u0105, inni s\u0105 za\u017cenowani. Przygl\u0105damy si\u0119 komentarzom na temat serialu!",
+        "id": 3662742,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=QT-2CXKWuw8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QT-2CXKWuw8/hqdefault.jpg",
+        "title": "Co inni m\u00f3wi\u0105 o 1670?",
+        "vote": 0
+    }
+]

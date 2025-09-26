@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T17:00:42.738515+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T16:01:19+00:00",
+        "description": "Adam Savage describes how pivotal Ralph McQuarrie's role as an illustrator was to make Star Wars possible. His illustrations brought to life George Lucas's vision for the original movies, which made it possible for him to both receive the funding needed for the project as well as define the visual style of the original trilogy.\n\nFollowing his steps, illustrators like Doug Chiang and modelists like Grant McCune continued to develop George's style and vision throughout the original trilogy and its sequels.",
+        "id": 3663523,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/kE_tha_QnNw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kE_tha_QnNw/hqdefault.jpg",
+        "title": "THE REASON why Star Wars looks the way it looks",
+        "vote": 0
+    }
+]

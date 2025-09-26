@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T16:55:57.700356+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T16:30:31+00:00",
+        "description": "This video explores the different types of Cinemachine cameras you can use to track your playable characters. It covers switching between camera types, adding object avoidance to ensure the camera does not clip through walls, and tips for how to use the Deoccluder extension, Clear Shot component, and more.\n\nThis is the fourth video in our five-part series on Cinemachine. Watch the entire series here: https://on.unity.com/CinemachineTutorials\n\nLinks: \nUpgrade from Cinemachine 2 to Cinemachine 3:\nhttps://on.unity.com/CinemachineUpgrade\n\nStarter Assets Third Person: \nhttps://on.unity.com/StarterAssets\n\nFantasy Kingdom in Unity 6:\nhttp://on.unity.com/FantasyKingdom\n\nCinemachine documentation: https://docs.unity3d.com/Packages/com.unity.cinemachine@3.1/manual/index.html\n\nTimestamps:\n\n00:00 Introduction\n00:38 Update cinemachine\n02:04 Types of player cameras\n03:38 Third person aim camera\n04:38 Freelook camera\n07:08 Pan tilt camera\n08:03 Overhead camera\n08:55 Switching cameras\n10:42 Object av",
+        "id": 3663506,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=u0a1F6BlczE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u0a1F6BlczE/hqdefault.jpg",
+        "title": "Cinemachine Player Controller Cameras",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T20:22:08.341704+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T02:21:48+00:00",
+        "description": "Kling 2.5 Turbo review & tutorial. New top AI video generator. Kling 2.5 vs Hailuo 02 vs Veo3 #ai #aivideo #videogenerator #aitools\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nTry Kling 2.5: https://klingai.com/\n\n0:00 Kling2.5 intro\n0:25 Kling 2.5 demos\n4:30 Kling 2.5 vs Hailuo 02 vs Veo3 \n5:31 Anatomy and camera movements\n6:14 3D pixar test\n6:58 Expressions and camera control\n8:00 High action scenes\n9:04 Physics test\n10:31 Fight scene\n11:01 ChatLLM\n11:54 Prompt adherence\n13:00 Text\n13:59 Deepfakes\n14:38 Image to video\n15:14 Jiggle physics\n16:17 Consistency test\n17:09 Dance videos\n18:07 Anime test\n19:08 Benchmark scores\n19:43 How to use Kling 2.5 Turbo\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technol",
+        "id": 3664949,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5MqEbjTPp3A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5MqEbjTPp3A/hqdefault.jpg",
+        "title": "Kling 2.5 is a freak",
+        "vote": 0
+    }
+]

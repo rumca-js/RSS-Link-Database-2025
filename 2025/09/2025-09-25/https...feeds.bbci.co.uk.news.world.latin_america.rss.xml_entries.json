@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T15:19:40.226893+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T14:11:26+00:00",
+        "description": "Felipe C\u00e1ceres is the latest counternarcotics official to be detained over an alleged drugs offence.",
+        "id": 3662776,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/crkj735r746o?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e162/live/17e643a0-99f1-11f0-8075-a1f3b14172f9.jpg",
+        "title": "Cocaine lab found on property of Bolivia's former anti-drug czar",
+        "vote": 0
+    }
+]

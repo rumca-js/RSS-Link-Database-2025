@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T22:09:19.419546+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T21:41:42+00:00",
+        "description": "Ghost of Yotei (PS5) is PlayStation and Sucker Punch's follow up to the acclaimed Ghost of Tsushima. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv \u25bc\u25bc\n\nBuy Yotei: https://amzn.to/3VE5gM2\n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6",
+        "id": 3665653,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_mq_Yj0q2QM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_mq_Yj0q2QM/hqdefault.jpg",
+        "title": "Ghost of Yotei - Before You Buy",
+        "vote": 0
+    }
+]

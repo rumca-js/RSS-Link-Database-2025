@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T17:58:14.049211+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T17:30:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/2oChh1XN5xM\" width=\"480\" alt=\"thumbnail\" title=\"COSMIC Desktop Beta Has Arrived... 6 Months Late\" /></p>After a very long time we're finally seeing the release of the COSMIC desktop beta and today to get you ready for it we're going over what to expect from it and it's hybrid tiling and floating model<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />COSMIC Website: https://system76.com/cosmic<br />COSMIC Repo: https://github.com/pop-os/cosmic-epoch<br />COSMIC Download: https://system76.com/cosmic/download<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.",
+        "id": 3663952,
+        "language": "en",
+        "link": "https://odysee.com/cosmic-desktop-beta-has-arrived...-6:9557241f2893c65d98a3a086ef5ea262a0edab85",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/2oChh1XN5xM",
+        "title": "COSMIC Desktop Beta Has Arrived... 6 Months Late",
+        "vote": 0
+    }
+]

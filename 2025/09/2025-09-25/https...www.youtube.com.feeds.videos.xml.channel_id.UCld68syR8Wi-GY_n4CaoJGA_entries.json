@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T18:02:02.147001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T17:30:00+00:00",
+        "description": "After a very long time we're finally seeing the release of the COSMIC desktop beta and today to get you ready for it we're going over what to expect from it and it's hybrid tiling and floating model\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nCOSMIC Website: https://system76.com/cosmic\nCOSMIC Repo: https://github.com/pop-os/cosmic-epoch\nCOSMIC Download: https://system76.com/cosmic/download\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xy",
+        "id": 3663967,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2oChh1XN5xM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2oChh1XN5xM/hqdefault.jpg",
+        "title": "COSMIC Desktop Beta Has Arrived... 6 Months Late",
+        "vote": 0
+    }
+]

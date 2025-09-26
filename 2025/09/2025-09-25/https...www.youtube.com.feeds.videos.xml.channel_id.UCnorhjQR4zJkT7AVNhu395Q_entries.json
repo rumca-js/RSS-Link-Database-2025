@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home RenoVision DIY",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T21:50:54.579084+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T21:00:18+00:00",
+        "description": "Learn how to protect glass when painting with this simple liquid mask trick, no painter\u2019s tape required! This method keeps windows, glass doors, and frames clean while saving time on your DIY projects. Perfect for anyone tackling home improvement, door painting, or window frame painting without the mess.",
+        "id": 3665557,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/K2kAg6Ae6nE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 143,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnorhjQR4zJkT7AVNhu395Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K2kAg6Ae6nE/hqdefault.jpg",
+        "title": "Pro Painter\u2019s Secret to a Perfect Front Door Paint Job",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-25T15:36:54.981248+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-25T15:00:18+00:00",
+        "description": "Check out Emergent here: https://app.emergent.sh/?via=sabine\n\nDNA is more than just a cool little shape that stores genetic information inside your cells. It\u2019s actually a remarkably useful molecule which researchers are trying to use for a wide variety of mind-blowing applications \u2013 these include storing data, building neural networks, and creating materials for specific applications. Let\u2019s have a look at the future of DNA innovations.\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.spotify.com/show/0MkNfXlKnMPEUMEeKQYmYC\n\ud83d\udd17 Join this channel to get access to perks \u279c \nhttps://www.youtube.com/channel/UC1yNl2E66ZzKApQ",
+        "id": 3662875,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5GN7Wqy-uY8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5GN7Wqy-uY8/hqdefault.jpg",
+        "title": "Very cool: DNA Data Storage only 5 Years Away, New Report Says",
+        "vote": 0
+    }
+]
