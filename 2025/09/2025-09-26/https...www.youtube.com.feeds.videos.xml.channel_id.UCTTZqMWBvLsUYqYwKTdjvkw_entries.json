@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T16:58:05.265242+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T16:10:03+00:00",
+        "description": "Ostrzegam, \u017ce pada tu troch\u0119 uproszcze\u0144 i skr\u00f3t\u00f3w my\u015blowych - najlepiej sami zajrzyjcie do eksperymentu. \n\n\u0179r\u00f3d\u0142a:\nhttps://zurl.co/vyL7G\nhttps://zurl.co/xto5A \n\n#cyberbezpiecze\u0144stwo  #ai #chatGPT #AmongUs #shorts #ma\u0142aautopromocja",
+        "id": 3672017,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/P1m90ht2zRs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P1m90ht2zRs/hqdefault.jpg",
+        "title": "\ud83e\udd16 Modele AI te\u017c graj\u0105 w gry",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mark Manson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T13:15:35.944518+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T13:00:22+00:00",
+        "description": "Oh and if you want the guide to these books from my favorite book summary service Shortform, go to\u00a0shortform.com/markmanson\u00a0and get 20% off.",
+        "id": 3670178,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/9VNep_69eC8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 671,
+        "source_url": "https://youtube.com/channel/UC0TnW9acNxqeojxXDMbohcA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9VNep_69eC8/hqdefault.jpg",
+        "title": "Blind Ranking Self-Help Books",
+        "vote": 0
+    }
+]

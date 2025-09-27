@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T03:28:22.961519+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T02:42:27+00:00",
+        "description": "Wan Animate installation tutorial. Best AI for deepfakes, character control, character replacement. Free & open source #ai #aivideo #deepfake\n\nWan Animate https://humanaigc.github.io/wan-animate/\nWan2GP https://github.com/deepbeepmeep/Wan2GP\nLucy Edit tutorial (video nano banana) https://youtu.be/ATgK0UIU8qU\nQwen Image Edit tutorial (open source nano banana) https://youtu.be/YDJ9TEgcWPU\nGit https://git-scm.com/downloads\nConda https://www.anaconda.com/docs/getting-started/miniconda/main\n\n\n0:00 Wan Animate intro\n0:28 WanAnimate demos\n3:00 Comparison with other tools\n3:29 How to use WanAnimate online\n4:35 How to use WanAnimate in ComfyUI\n5:45 Easiest way to use WanAnimate locally\n7:16 Git\n8:04 Installation continued\n9:03 Conda\n11:58 Installation continued\n13:56 How to update existing Wan2GP\n14:52 How to use Wan2GP\n17:25 How to use WanAnimate character control\n23:32 How to use character replacement\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSu",
+        "id": 3667234,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EqdYO_9o6xk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EqdYO_9o6xk/hqdefault.jpg",
+        "title": "This is the ultimate AI video tool. Wan Animate tutorial",
+        "vote": 0
+    }
+]

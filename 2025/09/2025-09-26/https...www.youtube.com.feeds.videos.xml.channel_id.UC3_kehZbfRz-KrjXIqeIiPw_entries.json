@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leadhead",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T16:45:27.829519+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T16:30:15+00:00",
+        "description": "Patreon: https://www.patreon.com/LeadheadYT\nDiscord: https://discord.gg/PVvXESU7WU\nSecond Channel: https://www.youtube.com/Porkbrain\n\nI recommend watching in 4K, even if you aren't on a 4K screen. YouTube compression will be a little bit less noticeable \ud83d\ude4f\n\nThe music in this video is all my own remixes of Stray Cat Strut by The Stray Cats",
+        "id": 3671864,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F-Ry5CHp3U4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 416,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3_kehZbfRz-KrjXIqeIiPw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F-Ry5CHp3U4/hqdefault.jpg",
+        "title": "Giving Up",
+        "vote": 0
+    }
+]

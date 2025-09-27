@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T14:01:59.404822+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T14:01:53+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nRace Conditions - Practical Tools & Techniques for Testing, Preventing, and  Debugging C++/C Code - Greg Law - ACCU 2025\n---\n\nRace conditions are hard, and your code is littered with them whether or not you realise it! They often escape testing to crop up in production, but wherever they raise their ugly head they are fiendishly difficult to track down. So often the dreaded 'Heisenbug' -- you add some logging or attach a debugger, and the bug goes away.\n\nThere are many tools and techniques that can help: some well known, others less so. This talk contains few slides, lots of practical examples of how to test for them, and how to fix them. Includes introduction and advanced usage of Thread Sanitizer, Helgrind and DRD, how to get the most of GDB with threaded programs, super-lightweight and lock-free logging with L3, an introduction to use thread fuzzing, introduction to static analysis, and some tips and tricks on how to test for them ",
+        "id": 3670595,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zzgW2ehOToU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zzgW2ehOToU/hqdefault.jpg",
+        "title": "Race Conditions - Practical Tools & Techniques for Testing, Preventing, and  Debugging C++/C Code",
+        "vote": 0
+    }
+]

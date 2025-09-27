@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T11:04:30.431713+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T10:01:25+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/BdeNK5 \n\nWhy did NVIDIA invest USD 100bn into OpenAI? In episode 74 of Mixture of Experts, host Tim Hwang is joined by Sandi Besen, Mihai Criveti and Gabe Goodhart to talk about the AI chipmaker\u2019s next big move. Next, we analyze Tongyi DeepResearch and get into a conversation around open source. Then, Google released a new agent protocol, AP2. After that, will AI take over? We debrief a new book, If Anyone Builds It, Everyone Dies. Finally, Apple shared that the new AirPods will have a translation feature powered by AI. Is Apple back in the game? Tune in to Mixture of Experts to find out. \n\n00:00 \u2013 Intro \n01:17 \u2013 OpenAI's data centers, Alibaba and NVIDIA partnership, IBM Granite Docling and Meta's dating AI assistant\n02:23 \u2013 Tongyi DeepResearch \n13:12 \u2013 Google's AP2 \n23:31 \u2013 \"If Anyone Builds It, Everyone Dies\" \n33:50 \u2013 AirPods translation feature \n43:49 \u2013 NVIDIA invests USD100bn in OpenAI \n\nThe opinions ex",
+        "id": 3669564,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h1YqbXQN5N8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h1YqbXQN5N8/hqdefault.jpg",
+        "title": "NVIDIA\u2019s USD 100bn investment and Google's AP2",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T06:50:55.808239+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T06:00:01+00:00",
+        "description": "CEO of Shopify calls the activists \"divisive clowns\" who act in \"bad faith\".\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3668121,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SHzc6Y2xDro",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SHzc6Y2xDro/hqdefault.jpg",
+        "title": "Leftist Activists Demand Removal of Ruby on Rails Founder, DHH",
+        "vote": 0
+    }
+]

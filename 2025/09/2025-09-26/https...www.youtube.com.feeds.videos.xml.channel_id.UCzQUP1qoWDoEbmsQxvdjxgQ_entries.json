@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T17:22:58.747722+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T17:01:19+00:00",
+        "description": "Rick Strassman, MD, is a Clinical Associate Professor of Psychiatry at the University of New Mexico School of Medicine. He is the author of several books, the most recent of which is 2024's \"My Altered States: A Doctor's Extraordinary Account of Trauma, Psychedelics, and Spiritual Growth.\"\nhttps://www.rickstrassman.com\n\nBuy 1 Get 1 Free Trucker Hat with code ROGAN at\u00a0https://happydad.com\n\nVisit https://WildPastures.com/rogan today to get 20% off for life, plus $15 off your first box.",
+        "id": 3672243,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qxj8M4ewjS0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qxj8M4ewjS0/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2385 - Rick Strassman",
+        "vote": 0
+    }
+]

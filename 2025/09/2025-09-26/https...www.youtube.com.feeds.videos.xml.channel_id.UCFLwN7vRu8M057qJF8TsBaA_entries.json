@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "UpIsNotJump",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T17:08:55.844296+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T16:01:55+00:00",
+        "description": "From my chicken nugget vid, linked as the related video",
+        "id": 3672142,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/T0GFviFB8X4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 374,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFLwN7vRu8M057qJF8TsBaA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T0GFviFB8X4/hqdefault.jpg",
+        "title": "this made me very sick #chickennuggets #cooking",
+        "vote": 0
+    }
+]

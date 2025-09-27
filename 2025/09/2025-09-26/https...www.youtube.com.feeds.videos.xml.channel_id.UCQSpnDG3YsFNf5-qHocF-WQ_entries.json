@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T16:01:39.042004+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T14:45:05+00:00",
+        "description": "You might never have thought of something like this, but it can really come in handy \ud83e\uddd0\n\nLink to the Tool: https://mark0.net/soft-tridnet-e.html\n\nEvery once in a while you need to know exactly what kind of file you're dealing with. But you can't always rely on the file extension. File extensions aren't necessarily unique and the more generic ones might use any number of formats behind the scenes. Even files associated with specific apps, like docx for MS Word, are secretly just Zip files! But there's a tool called TrID which has patterns and definitions for identifying nearly 20,000 filetypes and adding more all the time. So I go over how it works and some situations it might be useful.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:25 - Real-Life Example\n1:16 - Many File Extensions Are \u201cLies\u201d\n2:07 - Extra Tip For Archive Files\n2:33 - More Example Use Cases\n4:15 - More About The App\n4:53 - GUI vs Command Line Version\n5:51 - TrIDScan Tool\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://ki",
+        "id": 3671555,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NNODraLBYi4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NNODraLBYi4/hqdefault.jpg",
+        "title": "Obscure Useful Tools You Need: TrID File Identifier",
+        "vote": 0
+    }
+]

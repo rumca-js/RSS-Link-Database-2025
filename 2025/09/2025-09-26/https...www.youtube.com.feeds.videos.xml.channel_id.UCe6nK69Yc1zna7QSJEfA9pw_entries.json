@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T11:33:05.113687+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T10:35:09+00:00",
+        "description": "Dzisiejszy podcast dotyczy incydentu na Mapach Google, gdzie w nazwie szpitala Jana Paw\u0142a w Krakowie pojawi\u0142o si\u0119 dodatkowe s\u0142owo: \"ofiar\". Jak do tego dosz\u0142o? Co za to grozi? I jak chroni\u0107 swoje \"wizyt\u00f3wki\" przed takimi zmianami? O tym w dzisiejszym odcinku. Ale nie tylko bo:\n\n\ud83d\udd75\ufe0f\u200d\u2640\ufe0f Przygotowali\u015bmy jednorazowe wydarzenie: 3 dniowe szkolenie z OSINT-u, kt\u00f3re zawiera laboratoria i \u0107wiczenia do samodzielnego wykonania pod okiem trenera i poszerzon\u0105 agend\u0119. Tylko jeden termin, wi\u0119c nie przegapcie -- szceg\u00f3\u0142y tu: https://niebezpiecznik.pl/osint3\n\n\ud83d\udc68\u200d\ud83c\udfeb Zn\u00f3w ruszyli\u015bmy w tras\u0119 po Polsce! W najbli\u017cszych tygodniach odwiedzimy wiele miast, by\u0107 mo\u017ce tak\u017ce Twoje? Zobacz gdzie b\u0119dziemy i wpadnij na nasz wyk\u0142ad: https://bilety.niebezpiecznik.pl\u00a0\n\nS\u0142uchaj nas i komentuj ten odcinek na:\n\ud83d\udd34 YouTube: https://niebezpiecznik.tv\n\ud83d\udfe2 Spotify: https://open.spotify.com/show/5MxNt9v6eCH4xxSFqRY1oS\n\nGdziekolwiek nas s\u0142uchasz, b\u0119dziemy Ci wdzi\u0119czni za zostawienie \"\u0142apki w g\u00f3r\u0119\" lub oceny/recenzji. To pomaga innym ",
+        "id": 3669707,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=TjAkls7O72Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TjAkls7O72Q/hqdefault.jpg",
+        "title": "Ten o Janie Pawle Zhakowanym (NP #062)",
+        "vote": 0
+    }
+]

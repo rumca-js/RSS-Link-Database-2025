@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T14:14:38.812601+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T13:51:05+00:00",
+        "description": "Get Enterprise Support for AlmaLinux and Rocky Linux: https://tuxcare.com/almalinux-enterprise-support/?utm_campaign=The%20Linux%20Experiment&utm_source=youtube&utm_medium=social\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Video Intro\n00:38 Sponsor: TuxCare\n01:49 Cosmic beta finally released\n04:52 Cookie banners might become less annoying \n07:22 Multikernel Linux architecture proposed\n10:26 New distributed Filesystem open sourced\n12:29 BcacheFS benchmarks show ext4",
+        "id": 3670687,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=MnJNZKtORYs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MnJNZKtORYs/hqdefault.jpg",
+        "title": "The Cosmic & PopOS betas are here! Linux Weekly News",
+        "vote": 0
+    }
+]

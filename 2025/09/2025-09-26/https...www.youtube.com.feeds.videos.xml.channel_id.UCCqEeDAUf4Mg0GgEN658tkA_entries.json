@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T21:35:23.744268+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T20:41:03+00:00",
+        "description": "Let my sponsor BetterHelp help you be the best you. Click https://betterhelp.com/chrisstuckmann for a discount on your first month of therapy.\n\nChris Stuckmann reviews One Battle After Another, starring Leonardo DiCaprio, Teyana Taylor, Regina Hall, Sean Penn, Benicio Del Toro, Chase Infiniti, Wood Harris, Tony Goldwyn. Directed by Paul Thomas Anderson.",
+        "id": 3673845,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=e_h9AbiS568",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e_h9AbiS568/hqdefault.jpg",
+        "title": "One Battle After Another - Movie Review",
+        "vote": 0
+    }
+]

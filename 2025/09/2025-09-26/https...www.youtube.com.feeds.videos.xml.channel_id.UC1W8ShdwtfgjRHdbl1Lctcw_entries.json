@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T20:24:19.707468+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T19:15:40+00:00",
+        "description": "I colorized, restored, and created sound design for this rare film showing excursions along Germany\u2019s Rhine Valley, from Bingen to Boppard, during the 1920s.\nThe video reveals picturesque river landscapes, historic towns, and the timeless charm of daily life along the Rhine.\n\n\ud83d\udee0\ufe0f Video Restoration Process:\n\u2714 FPS boosted to 60 frames per second\n\u2714 Image resolution enhanced up to HD quality\n\u2714 Improved video sharpness and brightness\n\u2714 Colorization applied for ambiance (not historically accurate)\n\u2714 Sound design created for immersive atmosphere\n\u2714 Full restoration: stabilization, denoise, cleaning, and deblurring\n\nB&W Video Source: Mus\u00e9e d\u00e9partemental Albert-Kahn dans le d\u00e9partement des Hauts-de-Seine (Sauvageot, Camille)\n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nAlbert Kahn, born Abraham Kahn in Marmoutier, Alsace, on March 3, 1860, and died in Boulogne-Billancourt on November 14, ",
+        "id": 3673413,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PJoH-yhY3ck",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PJoH-yhY3ck/hqdefault.jpg",
+        "title": "Germany 1920s in color, Rhine Valley [60fps,Remastered] w/sound design added",
+        "vote": 0
+    }
+]

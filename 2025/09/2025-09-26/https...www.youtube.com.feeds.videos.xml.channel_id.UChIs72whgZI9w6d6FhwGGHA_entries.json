@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T20:24:13.936097+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T19:45:54+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nWe're starting to research Linux distributions for standardized GPU benchmarking, and possibly later CPU benchmarking (depending on complexity and time). Wendell from Level1 Techs joins us to talk about Linux distributions and help us choose which one to use for standardized our first set of Linux GPU benchmark charts against. We asked him about Bazzite, Arch, and Valve's SteamOS, and he explained some limitations and benefits of these and more (such as CachyOS, Ubuntu, and others). This video is just meant to be a discussion as we prepare and plan for our eventual Linux benchmarking suite. We roll these things out slowly and methodically to try and account for variables, so it'll take us a little bit, but we are actively working on it right now!\n\nCheck out our video about the \"PCIE Future\" with Wendell! https://www.youtube.com/watch?v=qgv5KybY1L8\nWatch Wendell on Level1 Techs here! https://www.youtube.com/c/Level1T",
+        "id": 3673412,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5O6tQYJSEMw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5O6tQYJSEMw/hqdefault.jpg",
+        "title": "Adding Linux GPU Benchmarks: Best Distributions for Gaming Tests, ft. Wendell of Level1 Techs",
+        "vote": 0
+    }
+]

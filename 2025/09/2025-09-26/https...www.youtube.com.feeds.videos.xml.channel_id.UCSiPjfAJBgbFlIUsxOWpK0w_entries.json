@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PomplamooseMusic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-26T15:25:18.707569+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-26T15:01:14+00:00",
+        "description": "Mmmm what a pleasant way to learn the lyrics to a song\u2026the flowers, the trees, the mirror metaphor (what does it MEAN??) And just so you know, \u201cTu peux pas savoir\u201d is streamable in all the places now \ud83d\ude18\n\nStream Photog\u00e9nique: https://ffm.to/photogenique\nGet Photog\u00e9nique merch: https://photogenique.diggers.store/\n\nSave this song on Spotify: https://open.spotify.com/album/2KbBJRk9tztlwbrMnrfFcN?si=ocNasGxTQWWgZhQQwvDvPg\nFollow us on instagram: https://instagram.com/pomplamoosemusic\nBecome a patron of our music (to vote on the songs we cover and get merch and stuff like that): http://www.patreon.com/pomplamoose",
+        "id": 3671295,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_0nJmmPWSDU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 259,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSiPjfAJBgbFlIUsxOWpK0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_0nJmmPWSDU/hqdefault.jpg",
+        "title": "Pomplamoose - Tu peux pas savoir feat. Larry Goldings (Lyric Video)",
+        "vote": 0
+    }
+]
