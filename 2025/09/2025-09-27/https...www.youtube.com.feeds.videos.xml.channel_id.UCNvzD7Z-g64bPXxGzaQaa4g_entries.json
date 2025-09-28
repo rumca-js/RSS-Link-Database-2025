@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T19:19:49.746709+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T19:12:37+00:00",
+        "description": "Hades 2 (PC, Nintendo Switch 2) is the return of the roguelike king. How is it? Let's talk!\nSubscribe for more: http://youtube.com/gameranxtv \u25bc\u25bc\n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6",
+        "id": 3679073,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=z15Pz-50mcc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z15Pz-50mcc/hqdefault.jpg",
+        "title": "Hades 2 - Before You Buy",
+        "vote": 0
+    }
+]

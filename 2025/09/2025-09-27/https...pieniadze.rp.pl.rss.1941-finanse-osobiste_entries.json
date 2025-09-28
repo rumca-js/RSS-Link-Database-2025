@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T08:09:53.304898+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T08:09:51+00:00",
+        "description": "W ostatnich miesi\u0105cach wida\u0107 rosn\u0105ce zainteresowanie Polak\u00f3w inwestycjami w platyn\u0119. Najch\u0119tniej kupowane s\u0105 sztabki, dost\u0119pne w gramaturach od 1 g do 100 g, oraz monety bulionowe.",
+        "id": 3676039,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/inwestycje-alternatywne/art43079641-nie-tylko-zloto-platyna-tez-swieci-inwestycyjnie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nie tylko z\u0142oto. Platyna te\u017c \u015bwieci inwestycyjnie",
+        "vote": 0
+    }
+]

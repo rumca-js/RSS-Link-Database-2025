@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hugh Jeffreys",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T23:36:53.508059+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T23:00:52+00:00",
+        "description": "Home made repair tools put to the test.\n----------------------------------------Links---------------------------------------\nScreen Repair Clamps:\nhttps://makerworld.com/en/models/1384133-screen-repair-clamps?from=search#profileId-1433177\nPhone Repair LCD Holder Stand:\nhttps://makerworld.com/en/models/18331-phone-repair-lcd-holder-stand?from=search#profileId-17206\nBlack Stick Spudger - Tech Repair Tool:\nhttps://makerworld.com/en/models/471477-black-stick-spudger-tech-repair-tool?from=search#profileId-381235\nElectronics opening tools:\nhttps://makerworld.com/en/models/597291-electronics-opening-tools?from=search#profileId-521502\nGridfinity I Fixit Phone Repairs:\nhttps://makerworld.com/en/models/1073842-gridfinity-i-fixit-phone-repairs?from=search#profileId-1064251\n4mm bit (iFixit) - Nano Screwdriwer Handle:\nhttps://makerworld.com/en/models/778562-4mm-bit-ifixit-nano-screwdriwer-handle?from=search#profileId-715435\nPhone Charge Port Dust and Lint Cleaning Tool:\nhttps://makerworld.com/en/m",
+        "id": 3680046,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vLYK7JM9dkQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 145,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vLYK7JM9dkQ/hqdefault.jpg",
+        "title": "Repairing My Phone Using 3D Printed Tools - Is It Possible?",
+        "vote": 0
+    }
+]

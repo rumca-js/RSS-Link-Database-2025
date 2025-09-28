@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Real Science",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T12:03:52.239545+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T12:00:46+00:00",
+        "description": "To get 20% off an annual premium subscription to Brilliant, go to https://brilliant.org/realscience/\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/realscience-why-dragonfly-larvae-are-even-scarier-than-the-adults\n\nMy socials:\nPatreon: https://www.patreon.com/realscience\nInstagram: https://www.instagram.com/stephaniesammann\n\nImages Courtesy of Getty Images\n\nThanks to our Patreon Supporters:\nEric Ypsilantis\nRobert Thompson\nKeith Skipper\n\nReferences:\n[1] https://www.researchgate.net/publication/350466862_Search_image_formation_and_female_recognition_in_Ischnura_elegans_males_behavioural_observations_in_a_natural_population_in_Central_Italy_Trasimeno_Lake_Umbria\n[2]https://british-dragonflies.org.uk/odonata/life-cycle-and-biology/\n[3]https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/gomphidae#:~:text=Burrowers%20have%20a%20compact%20body,intermediate%20between%20hiders%20and%20burrowers.\n[4] https://static1.squarespace.com/static/5bf443d3f8370a0c796",
+        "id": 3676912,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nq_tGiprNlU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 859,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nq_tGiprNlU/hqdefault.jpg",
+        "title": "Dragonflies Are Not What You Think",
+        "vote": 0
+    }
+]

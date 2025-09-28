@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T17:36:38.998480+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T17:17:17+00:00",
+        "description": "This video is sponsored by the City of Quincy. To discover more about Quincy, check out the link - https://discoverquincy.com\n\n\u201cI think I have every day less ambition than the former to pursue a political career. In my profession I trudge along, without eminence, and without total idleness. I see very few things in this life beyond the wants of nature that I desire: and whether it be philosophy or insensibility, I find myself contented with my state as it is.\u201d\n\nThese are the words of a 27 year old future world changer John Quincy Adams, written to his father on May 26, 1794. It was at this stage that, for the first time in his life, the junior Adams had finally, barely, achieved financial independence from his parents. But while this had for years been one of his principle goals, this was a man who was taught from childhood that his life was to be used in the service of his nation, meticulously trained to be one of the preeminent men of his era, and then with his parents tripling down",
+        "id": 3678550,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hYi80gUF4q8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hYi80gUF4q8/hqdefault.jpg",
+        "title": "The Secretary- A Major Paine",
+        "vote": 0
+    }
+]

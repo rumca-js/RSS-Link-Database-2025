@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T18:23:21.768012+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T18:06:21+00:00",
+        "description": "Israel is continuing its offensive against Hamas, after PM Benjamin Netanyahu told the UN \u200b\u200bIsrael \u201cmust finish the job\u201d in Gaza.",
+        "id": 3678813,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e064/live/6c52fed0-9bc0-11f0-852e-075d0572b37f.jpg",
+        "title": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
+        "vote": 0
+    }
+]

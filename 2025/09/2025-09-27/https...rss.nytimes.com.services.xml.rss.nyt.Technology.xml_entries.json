@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rebecca F. Elliott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T10:07:32.137242+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T09:02:34+00:00",
+        "description": "Business leaders and trade organizations have been especially worried by attempts to stop work on wind farms that had already secured federal approval.",
+        "id": 3676453,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/09/27/business/energy-environment/oil-gas-trump-offshore-wind.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/09/26/multimedia/26biz-oil-wind-mhpt/26biz-oil-wind-mhpt-mediumSquareAt3X.jpg",
+        "title": "Unexpected Critics of Trump\u2019s Attacks on Wind Energy: Oil Executives",
+        "vote": 0
+    }
+]

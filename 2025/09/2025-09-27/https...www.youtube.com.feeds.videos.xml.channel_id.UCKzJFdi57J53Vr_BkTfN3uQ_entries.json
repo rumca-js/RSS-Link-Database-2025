@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Primer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T15:45:19.977184+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T15:09:03+00:00",
+        "description": "Patreon:\nhttps://www.patreon.com/primerlearning\n\nHelpful resources if you want to learn more about neural networks\nhttps://www.youtube.com/@AndrejKarpathy\nhttps://course.fast.ai/\nhttps://www.youtube.com/@WelchLabsVideo\nhttps://www.youtube.com/@3blue1brown\n\nEarly papers. These probably aren't helpful for understanding the concepts in this video, but if you're interested in history.\nThe Perceptron \u2013 A perceiving and recognizing automaton: https://bpb-us-e2.wpmucdn.com/websites.umass.edu/dist/a/27637/files/2016/03/rosenblatt-1957.pdf\nThe Perceptron: A probabilistic model for information storage and organization in the brain: https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf \nA Logical Calculus of the Ideas Immanent In Nervous Activity: https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf#page=15.66\nOn the legacy of WS McCulloch: https://pubmed.ncbi.nlm.nih.gov/17184902/\n\nOther connections:\nStore: https://store.dftba.com/collections/primer",
+        "id": 3677981,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GkiITbgu0V0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 839,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GkiITbgu0V0/hqdefault.jpg",
+        "title": "Simulating a single brain cell",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/xUmutHector",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T07:24:27.972797+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T07:04:49+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I&#39;m 18 years old high schooler who&#39;s interested in low level programming and reverse engineering. I&#39;m looking for an internship for next summer either as a Vulnerability Researcher/Reverse Engineer or anything related such as malware developer. Is there any recruiters? Do you guys have any leads for me?<br/> My most valuable works are:<br/> <a href=\"https://www.rapid7.com/db/modules/payload/linux/x64/set_hostname/\">payload/linux/x64/set_hostname/ Metasploit Module</a><br/> <a href=\"https://www.rapid7.com/db/modules/payload/windows/x64/download_exec/\">payload/windows/x64/download_exec/ Metasploit Module</a><br/> <a href=\"https://github.com/rapid7/metasploit-payloads/pull/764\">Add Meterpreter support for PoolParty WorkerFactory Overwrite variant </a><br/> <a href=\"https://www.exploit-db.com/shellcodes/52395\">Linux/x86_64 Arbitrary Command Execution Shellcode on ExploitDB</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"h",
+        "id": 3675879,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hacking/comments/1nronx4/looking_for_an_internship_as_a_vulnerabilitry",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Looking for an Internship as a Vulnerabilitry Researcher/Reverse Engineer as a High Schooler",
+        "vote": 0
+    }
+]

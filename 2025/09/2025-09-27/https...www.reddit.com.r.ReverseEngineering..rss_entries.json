@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/krish4b",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T08:46:15.322872+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T07:34:33+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>After a recent bgmi update, BlueStacks, gameloop, mumu player and other emulators have stopped working for bgmi, all of them shows error &quot;restricted area&quot;, after much research I found a paid software which can bypass the restrictions and run bgmi, I tried to crack it and found many leads but ended up on certain closed sourced files that did the job, i got the main exe file which orchestrates everything, if there is any person who can reverse engineer this software then please contact me via this thread so we can discuss about this in detail</p> <p>The bypass works on the latest versions too, i can&#39;t discuss my findings openly as the creator may find and further restrict the software</p> <p>Only contact me if you have findings of your own or are an expert who can reverse engineer the exe file</p> <p>You can contact me via <a href=\"mailto:krish4pop@gmail.com\">krish4pop@gmail.com</a> or via this thread</p> </div><!-- SC_ON --> &#32; submitt",
+        "id": 3676107,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1nrp4wt/bgmi_emulator_bypass",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bgmi Emulator Bypass",
+        "vote": 0
+    }
+]

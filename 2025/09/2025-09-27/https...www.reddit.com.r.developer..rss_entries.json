@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/landynmorri",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T17:49:55.276761+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T17:06:49+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019m building RewiredX, an AI productivity app that uses neuroscience and adaptive 10 minute \u201cPaths\u201d to help people sharpen focus and unlock lasting change.</p> <p>I\u2019m looking for a true partner, CTO / technical cofounder, not a contractor, not someone dabbling.</p> <p>\u2e3b</p> <p>The first demo (small + simple)</p> <p>To start, I only need a demo slice: \u2022 Basic sign in / auth \u2022 One Path with 3 Stages (adaptive tasks pulled from AI) \u2022 End screen with a Focus Score (before/after)</p> <p>That\u2019s it. Just enough to prove execution and collaboration. I\u2019ll design the UI visuals (brain map, circuits, etc.) in Canva, you just handle functionality.</p> <p>\u2e3b</p> <p>\ud83d\udee0 Equity, NO PAY</p> <p>This is NO PAY, I\u2019m not paying you anything. I\u2019m offering a 50-50 founders\u2019 split if I see real drive and commitment. If you\u2019re in it for cash, this isn\u2019t for you.</p> <p>\u2e3b</p> <p>About Me \u2022 Nebraska based founder \u2022 Product vision, branding, and landing already underway \u2022 Fundrais",
+        "id": 3678628,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1ns0hkk/cto_technical_cofounder_wanted_ai_productivity_app",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CTO / Technical Cofounder Wanted, AI Productivity App",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T09:49:01.378050+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T09:49:00+00:00",
+        "description": "Polscy absolwenci Uniwersytetu Cambridge stworzyli agenta AI, po kt\u00f3ry si\u0119gaj\u0105 zespo\u0142y bank\u00f3w inwestycyjnych i firm doradczych. Start-up ju\u017c skusi\u0142 inwestor\u00f3w, a teraz dodaje gazu i og\u0142asza: \u201ePracujemy nad czym\u015b znacznie wi\u0119kszym\u201d.",
+        "id": 3676377,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art43073581-wpuscili-bota-ai-do-excela-ten-polski-pomysl-okazal-sie-hitem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wpu\u015bcili bota AI do Excela. Ten polski pomys\u0142 okaza\u0142 si\u0119 hitem",
+        "vote": 0
+    }
+]

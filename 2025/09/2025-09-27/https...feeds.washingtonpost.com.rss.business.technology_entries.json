@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tatum Hunter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T09:35:17.661164+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T09:30:56+00:00",
+        "description": "On social media, some comedians have audiences larger than network TV \u2013 and new pressures to navigate.",
+        "id": 3676358,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/09/27/jimmy-kimmel-had-answer-fcc-internet-comedians-answer-algorithm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jimmy Kimmel had to answer to the FCC. Internet comedians answer to the algorithm.",
+        "vote": 0
+    }
+]

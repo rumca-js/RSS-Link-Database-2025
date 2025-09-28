@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T08:53:01.899739+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T07:43:53+00:00",
+        "description": "I'll be back ... with even better technology.\n\nRobot Fights\nVR Robot fight\nAGI\nAI News",
+        "id": 3676120,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/L3wfatZ8RBY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L3wfatZ8RBY/hqdefault.jpg",
+        "title": "Terminator 4 (real life)",
+        "vote": 0
+    }
+]

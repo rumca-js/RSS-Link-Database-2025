@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ubisoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T14:34:59.173071+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T14:00:31+00:00",
+        "description": "In this first-ever adaptation of the acclaimed stealth video game franchise Tom Clancy\u2019s Splinter Cell, legendary agent Sam Fisher is drawn back into the field when a wounded young operative seeks out his help. Produced by Ubisoft, in partnership with Derek Kolstad (John Wick), Sun Creature and Fost.",
+        "id": 3677668,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EbZAN1YbLMA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 763,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0KU8F9jJqSLS11LRXvFWmg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EbZAN1YbLMA/hqdefault.jpg",
+        "title": "Splinter Cell: Deathwatch | Sneak Peek #1 | Netflix",
+        "vote": 0
+    }
+]

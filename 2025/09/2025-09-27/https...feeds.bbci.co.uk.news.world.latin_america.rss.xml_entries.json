@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-27T10:10:54.181485+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-27T09:07:53+00:00",
+        "description": "Gustavo Petro told US soldiers to \"disobey Trump's orders\" while addressing a protest in New York.",
+        "id": 3676466,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cz9jv8kne7no?at_medium=RSS&at_campaign=rss",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5875/live/f9f37d30-9b6d-11f0-928c-71dbb8619e94.jpg",
+        "title": "US revokes Colombian president's visa over 'reckless and incendiary' remarks",
+        "vote": 0
+    }
+]
