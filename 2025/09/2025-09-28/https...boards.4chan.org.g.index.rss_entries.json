@@ -1,0 +1,29 @@
+[
+    {
+        "age": 15,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T00:15:23.357969+00:00",
+        "date_dead_since": "2025-09-28T20:04:49.927444+00:00",
+        "date_published": "2025-09-28T20:04:49.888411+00:00",
+        "description": "Threads on /g/ - /QA/ FUCKING WON at 4chan.org.",
+        "id": 2721101,
+        "language": "en",
+        "link": "https://boards.4chan.org/g/index.rss",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 622,
+        "source_url": "https://boards.4chan.org/g/index.rss",
+        "status_code": 404,
+        "tags": [],
+        "thumbnail": null,
+        "title": "/g/ - /QA/ FUCKING WON",
+        "vote": 0
+    }
+]

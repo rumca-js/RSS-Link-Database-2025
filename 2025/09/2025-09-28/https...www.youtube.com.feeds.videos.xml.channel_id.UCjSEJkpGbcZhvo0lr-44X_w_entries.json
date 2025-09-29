@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T13:24:05.634838+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T10:33:15+00:00",
+        "description": "Checkout AMP by CubeCode, my favorite game server hosting panel: https://cubecoders.com/AMP/TH its what we use to host the servers in our LXC, then we will use a VM with Nobara Linux to Stream our games!\n\n\ud83d\udcd6 RESOURCES\nAMP Game Panel: https://cubecoders.com/AMP/TH\nNobara: https://nobaraproject.org/download-nobara/\nSunshine: https://github.com/LizardByte/Sunshine\nMoonlight: https://moonlight-stream.org/\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.org/?referred_by=673908\n\n\ud83d\udcf7 MY GEAR \nHARD DRIVES: https://serverpartdeals.com/techhut\nMinisForum Tablet: https://amzn.to/3SeMmds\nBeelink N200: https://amz",
+        "id": 3682631,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hAqGEUt9V_M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hAqGEUt9V_M/hqdefault.jpg",
+        "title": "Proxmox Gaming Guide - SELF-HOST Game Streaming and Servers!",
+        "vote": 0
+    }
+]

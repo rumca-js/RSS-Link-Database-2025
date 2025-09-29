@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T12:48:46.784432+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T11:01:45+00:00",
+        "description": "Ready to become a certified Mainframe Modernization Architect? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdeLUb\n\nLearn more about What is a Mainframe here \u2192 https://ibm.biz/BdeLUp\n\n\ud83c\udf10 Are mainframes and hybrid cloud so different? Rosalind Radcliffe decodes key terms\u2014like Linux Kernel, Nucleus, and Workload Manager\u2014that bridge mainframe technology and modern cloud systems. Learn how integration systems enable seamless IT modernization and enterprise efficiency.\n\nSign up for a monthly newsletter for Cloud updates from IBM \u2192 https://ibm.biz/Bde3Ez\n\n#mainframe #hybridcloud #cloudintegration",
+        "id": 3682504,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zMumDbfjeQs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zMumDbfjeQs/hqdefault.jpg",
+        "title": "Mainframe vs. Hybrid Cloud: Integration Systems, Linux Kernel & Nucleus",
+        "vote": 0
+    }
+]

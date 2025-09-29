@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rex Reed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T21:15:45.382344+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T20:16:20+00:00",
+        "description": "Like almost every other actor of renown in today's diminished world of second-rate movies, Emma Thompson is forced to face the challenge of inventing her own projects to keep her film career alive. Times are bad all over.",
+        "id": 3685953,
+        "language": "en",
+        "link": "https://observer.com/2025/09/dead-of-winter-movie-review-emma-thompsons-talent-frozen-in-mediocre-horror",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "Emma Thompson Produces Her Own Career Nightmare In \u2018Dead of Winter\u2019",
+        "vote": 0
+    }
+]

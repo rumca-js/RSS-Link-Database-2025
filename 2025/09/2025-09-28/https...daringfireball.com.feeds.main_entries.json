@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T22:27:33.633084+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T22:12:42+00:00",
+        "description": "<p>My thanks to Drata for sponsoring this last week at DF. Their message is short and sweet: Automate compliance. Streamline security. Manage risk. Drata delivers the world\u2019s most advanced Trust Management platform.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Drata\u2019\"  href=\"https://daringfireball.net/linked/2025/09/28/drata\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 3686251,
+        "language": "",
+        "link": "https://drata.com/daring",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Drata",
+        "vote": 0
+    }
+]

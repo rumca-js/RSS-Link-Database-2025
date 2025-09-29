@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T19:49:06.373989+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T08:44:00+00:00",
+        "description": "Start where you are. Start with what you&#8217;ve got. Start now. Now is the perfect moment. It only feels &#8216;fast&#8217; if we&#8217;re rushing. Don&#8217;t rush. But act. With deliberate progress.",
+        "id": 3685345,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/09/act-fast",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Act now!",
+        "vote": 0
+    }
+]

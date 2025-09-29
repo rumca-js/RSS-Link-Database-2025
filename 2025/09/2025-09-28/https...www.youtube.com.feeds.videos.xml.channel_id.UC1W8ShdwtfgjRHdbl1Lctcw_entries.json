@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T21:05:53.832288+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T20:12:46+00:00",
+        "description": "I colorized, restored, and created sound design for this rare home movie showing Palm Beach and Miami Beach in the 1920s. At that time, South Florida was entering its famous land boom: luxury hotels, Art Deco buildings, and lavish resorts began to flourish along the coastline, attracting wealthy vacationers from the North. Palm Beach symbolized glamour with its grand estates and exclusive social gatherings, while Miami Beach quickly became a playground of leisure, where people enjoyed bathing in the ocean, strolling the promenades, yachting, and dancing in vibrant nightclubs.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do no",
+        "id": 3685902,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6F3ChkAIdEI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6F3ChkAIdEI/hqdefault.jpg",
+        "title": "Florida 1920s in color, Palm Beach, Miami Beach [60fps,Remastered] w/sound design Added",
+        "vote": 0
+    }
+]

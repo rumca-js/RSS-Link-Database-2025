@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T18:32:56.953181+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T17:30:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/4d8jLfa5Mx8\" width=\"480\" alt=\"thumbnail\" title=\"Hot Take: Developers Should Understand Code\" /></p>Developers should write and understand code, I know such a hot take but this is an actual discussion that had to happen within the Mesa project following an AI contribution<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Mastodon Thread: https://social.treehouse.systems/@gfxstrand/115220843956925235<br />Gitlab Thread: https://gitlab.freedesktop.org/mesa/mesa/-/work_items/13736<br />Document PR: https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/37233<br />Curl Thread: https://mstdn.social/@bagder@mastodon.social/115241241272196497<br /><br />=========Video Platforms==========<br /",
+        "id": 3684074,
+        "language": "en",
+        "link": "https://odysee.com/hot-take-developers-should-understand:f04507ec94698e96cc0ec6c93631969aeefa4da2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/4d8jLfa5Mx8",
+        "title": "Hot Take: Developers Should Understand Code",
+        "vote": 0
+    }
+]

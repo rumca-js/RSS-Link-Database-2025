@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T16:08:47.167569+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T14:01:04+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nRust - Cargo Cult? - Victor Ciura - ACCU 2025\n---\n\n\"Let's rewrite it in Rust\" is no longer a party joke. It's happening!\n\nLet me share a couple of stories of learning, appreciating and rewriting stuff in Rust. How we came to love Ferris: cargo cult or real need?\n\nWhat is it like to come to Rust from two very different directions: C++ and C#? What are the gaps, the needs, the gems and the tools you should know about? Here's a real journey and the various experiments leading up towards the success stories at Microsoft.\n\nWhat have we learned and can bring back to day-to-day C++?\n\nWant to compare notes? Let's chat.\n\nSlides: https://accu.org/conf-previous/accu2025/\n\nJoin think-cell as a C++ Developer and work on cutting-edge challenges with a focus on code excellence, innovation, and working alongside an international team of experts \u2014 apply now to be part of a team shaping the future of business presentations. https://www.think-cell.com/e",
+        "id": 3683436,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cEEBwg6Aaww",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cEEBwg6Aaww/hqdefault.jpg",
+        "title": "Rust - Cargo Cult? - Victor Ciura - ACCU 2025",
+        "vote": 0
+    }
+]

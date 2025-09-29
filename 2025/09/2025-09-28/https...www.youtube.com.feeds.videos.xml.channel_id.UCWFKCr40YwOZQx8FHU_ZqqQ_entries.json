@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JerryRigEverything",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T14:26:33.624153+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T13:07:00+00:00",
+        "description": "The new iPhone Air is here \u2013 and today we get to see it from the inside. Get my new Smartphone Repair iFixit Tool Kit HERE: https://www.ifixit.com/products/ifixit-x-jerryrigeverything-toolkit Its got all the important little bits to fix all the popular electronics. Honestly \u2013 for the past few years I kinda assumed apple was coasting. But then they drop the thinnest iPhone they have ever made \u2013 the iPhone Air.  With its Sensor Shift camera sensor, and 3D Printed Titanium charging port... there is a whole lot going on inside the iPhone Air thats worth checking out. \n\nGet a Teardown Skin for your phone here: https://www.dbrand.com/teardown\n\nWatch the iPhone Air Durability Test HERE: https://youtu.be/sQ56ve39l2I",
+        "id": 3682956,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7eDcvSfk7BQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 705,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7eDcvSfk7BQ/hqdefault.jpg",
+        "title": "iPhone Air Teardown \u2013 APPLE IS SO BACK",
+        "vote": 0
+    }
+]

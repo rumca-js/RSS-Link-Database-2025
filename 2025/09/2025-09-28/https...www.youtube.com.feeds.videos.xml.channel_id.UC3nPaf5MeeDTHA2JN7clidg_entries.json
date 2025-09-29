@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T16:21:24.736785+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T15:45:12+00:00",
+        "description": "Thanks to Storyblocks for sponsoring this video! Download unlimited stock media at one set price with Storyblocks: http://storyblocks.com/Bellular\n\n00:00 YouTube's Response\n01:59 YouTube's Defence\n03:47 The Invisible Viewers\n06:09 YouTube's Weird Summer\n09:31 The New Normal\n13:58 TVs, Phones & Livestreams\n\nSources:\nhttps://support.google.com/youtube/thread/373195597\n\nhttps://x.com/thiojoe/status/1967818011706003508\n\nhttps://x.com/thiojoe/status/1968010742151717243\n\nhttps://www.jeffgeerling.com/blog/2025/digging-deeper-youtubes-view-count-discrepancy\n\nhttps://x.com/Scrxtchy/status/1968005715282596024\n\nhttps://www.youtube.com/howyoutubeworks/ai/\n\nhttps://blog.youtube/news-and-events/live-updates/\n\nhttps://blog.youtube/news-and-events/youtube-studio-made-on-youtube-2025/\n\nhttps://blog.youtube/news-and-events/generative-ai-creation-tools-made-on-youtube-2025/\n\nhttps://blog.youtube/news-and-events/youtube-studio-made-on-youtube-2025/\n\nhttps://www.vulture.com/article/youtube-tv-devices-stre",
+        "id": 3683475,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wVKx8ZH4DOQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wVKx8ZH4DOQ/hqdefault.jpg",
+        "title": "YouTube Responded. Creators Were Right To Panic.",
+        "vote": 0
+    }
+]

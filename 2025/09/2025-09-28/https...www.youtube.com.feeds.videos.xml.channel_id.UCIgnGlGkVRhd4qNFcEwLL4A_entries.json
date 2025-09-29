@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T03:26:49.310678+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T02:18:38+00:00",
+        "description": "INSANE AI NEWS: Wan2.5, Qwen3 Max, Qwen3 VL, Qwen 3 Omni, ChatGPT Pulse, DeepSeek 3.1 Terminus, Suno v5, OmniHuman 1.5, Qwen Image Edit #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Hailuo. Try Hailuo AI Agent for free: https://hailuoai.video/?utm_media_source=YT&utm_campaign=kol&utm_content=AISearch\n\nSources in order of mention:\nhttps://kimgeonung.github.io/VideoFrom3D/\nhttps://byteaigc.github.io/Lynx/\nhttps://github.com/Tencent-Hunyuan/Hunyuan3D-Part\nhttps://research.nvidia.com/labs/toronto-ai/lyra/\nhttps://phantom-video.github.io/OmniInsert/\nhttps://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/\nQwen 3-MAX https://qwen.ai/blog?id=87dc93fc8a590dc718c77e1f6e84c07b474f6c5a&from=home.latest-research-list\nQwen3 Omni https://qwen.ai/blog?id=65f766fc2dcba7905c1cb69cc4cab90e94126bf4&from=research.latest-advancements-list\nQwen3 VL https://qwen.ai/blog?id=3c4280109ecf762fe430ad5cd15f18c06cfc77fd&from=hom",
+        "id": 3680699,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tzQcvxOU33o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tzQcvxOU33o/hqdefault.jpg",
+        "title": "New DeepSeek & Gemini, Wan 2.5, Alibaba dominates AI, 3D scenes, new deepfake lipsync: AI NEWS",
+        "vote": 0
+    }
+]

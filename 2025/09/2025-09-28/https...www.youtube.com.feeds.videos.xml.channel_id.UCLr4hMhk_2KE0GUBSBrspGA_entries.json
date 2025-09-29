@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-28T19:51:50.563821+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-28T19:05:29+00:00",
+        "description": "Film zawiera fragment sponsorowany aplikacji BookBeat -\nhttps://bit.ly/4mCDBpC - z kodem: \u201cklawiaturbook\u201d macie 30 dni za darmo korzystania z aplikacji, w tym 20 godzin s\u0142uchania.\n\nW odcinku:\n00:00 Wst\u0119p\n00:50 Dobry wiecz\u00f3r!\n00:54 Selfie camera w nowych iPhone\u2019ach\n01:52 Dlaczego wszyscy kupuj\u0105 iPhone\u2019a 17 Pro?\n02:59 Co ma wsp\u00f3lnego Apple Watch 11 z iPhone\u2019em 17 Pro Max?\n04:15 Xiaomi 17 Pro i 17 Pro Max - odpowied\u017a na iPhone\u2019a 17\n06:10 Nvidia zainwestuje w OpenAI\n06:48 REKLAMA - BookBeat\n07:33 ChatGPT z now\u0105 funkcj\u0105 Pulse\n10:06 Spotify usuwa utwory stworzone przez AI\n11:01 Woven City - inteligentne miasto Toyoty\n12:55 Dzie\u0144 Kawy i wlepy na znosne.pl!\n13:19 Zno\u015bnego tygodnia!",
+        "id": 3685537,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=p9sye06wKjA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p9sye06wKjA/hqdefault.jpg",
+        "title": "Tech Week: Dlaczego wszyscy kupuj\u0105 iPhone\u2019a 17 Pro?",
+        "vote": 0
+    }
+]
