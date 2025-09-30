@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T09:32:26.152949+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T04:00:00+00:00",
+        "description": "<img src='https://i.cbc.ca/1.7644930.1758910055!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/food-basics-jobs-fair-1.jpg' alt='People holding papers in their hands with their arms by their side.' width='620' height='349' title='Hundreds of people attended a Food Basics jobs fair Sept. 18, vying a position at the grocery store opening in Barrhaven at the end of the month.'/><p>Can't find a job? You're not alone. Unemployment reached 7.1 per cent in August, the highest rate since May 2016. But one experts says it's \"not yet the time to panic.\"</p>",
+        "id": 3688605,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/ottawa/as-unemployment-climbs-the-promise-of-a-grocery-store-job-lures-hundreds-1.7644463?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/1.7644930.1758910055!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/food-basics-jobs-fair-1.jpg",
+        "title": "As unemployment climbs, the promise of a grocery store job lures hundreds",
+        "vote": 0
+    }
+]

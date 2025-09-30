@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T18:18:53.142402+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T17:00:07+00:00",
+        "description": "The first trailer for The Mandalorian And Grogu movie came out a few days ago, and nobody cared. Which is a bit of a problem when its the first theatrical Star Wars release in six years, and desperately needs to succeed if its to resurrect the franchise. Can Jon Favreau's movie hope to succeed? Will Pedro Pascal have ANOTHER flop to add to his resume? Does anyone even care?",
+        "id": 3692340,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aywbc-DIKUk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 3,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aywbc-DIKUk/hqdefault.jpg",
+        "title": "The Mandalorian Isn't Going To Save Star Wars",
+        "vote": 0
+    }
+]

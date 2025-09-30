@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T16:42:32.936465+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T15:12:05+00:00",
+        "description": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to  https://ground.news/joescott\n\nClone Robotics\u2019 new prototype (named Protoclone) uses hydraulic muscles that work much more like the human body. More efficient perhaps, but there\u2019s not getting around it - they\u2019re creepy as hell.\n\nToday we\u2019re talking about Clone Robotics, plus updates on life extension research, AI therapists, and how to stand out in the age of AI slop.\n\nWant to support the channel? Here's how:\n\nPatreon: http://www.patreon.com/answerswithjoe\nChannel Memberships: https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg/join\nT-Shirts & Merch: https://laughsmarter.com\n\nCheck out my 2nd channel, Joe Scott TMI:\nhttps://www.youtube.com/channel/UCqi721JsXlf0wq3Z_cNA_Ew\n\nAnd my podcast channel, Conversations With Joe:\nhttps://www.youtube.com/channel/UCJzc7TiJ2nnuyJkUpOZ8RKA\n\nYou can listen to my podcast, Conversations With Joe on Spotify, Apple Podcasts,",
+        "id": 3691579,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=D9LNLU6t3g4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D9LNLU6t3g4/hqdefault.jpg",
+        "title": "The Robot Of Your Nightmares Is Here \u26a1\ufe0f",
+        "vote": 0
+    }
+]

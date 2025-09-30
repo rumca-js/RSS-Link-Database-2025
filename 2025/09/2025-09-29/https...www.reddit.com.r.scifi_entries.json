@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-22T09:55:20.192563+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T09:55:57.157780+00:00",
+        "description": null,
+        "id": 2742651,
+        "language": "en-US",
+        "link": "https://www.reddit.com/r/scifi",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 629,
+        "source_url": "https://www.reddit.com/r/scifi",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Reddit - The heart of the internet",
+        "vote": 0
+    }
+]

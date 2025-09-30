@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T14:32:20.570609+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T14:30:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>CCleaner has long been a classic among Windows system optimizers, and next year the much-loved tool will celebrate its 20th anniversary.</p>\n\n\n\n<p>It has such an enduring legacy and has been so popular that according to the provider, the freeware has now been downloaded almost three billion times worldwide. So, it\u2019s time to take a detailed look at how to get the most out of the program to optimize your system.</p>\n\n\n\n<p><strong>Just to explain: </strong>the large double C at the beginning of the word is not a spelling mistake, the spelling comes from the former tool name Crap Cleaner.</p>\n\n\n<div class=\"extendedBlock-wrapper block-coreImage undefined\"><figure data-wp-context='{\"imageId\":\"68da9870dcb35\"}' data-wp-interactive=\"core/image\" class=\"wp-block-image size-full wp-lightbox-container\"><img decoding=\"async\" data-wp-class--hide=\"state.isContentHidden\" da",
+        "id": 3690537,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2909300/how-to-use-ccleaner-to-free-up-pc-storage-and-boost-performance.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2025/09/CCleaner_32d4b0.png",
+        "title": "How to use CCleaner to free up PC storage and boost performance",
+        "vote": 0
+    }
+]

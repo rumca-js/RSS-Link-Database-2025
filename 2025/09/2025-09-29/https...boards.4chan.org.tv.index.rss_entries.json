@@ -1,0 +1,29 @@
+[
+    {
+        "age": 15,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-20T00:15:35.923136+00:00",
+        "date_dead_since": "2025-09-29T08:24:30.923962+00:00",
+        "date_published": "2025-09-29T08:24:30.879873+00:00",
+        "description": "Threads on /tv/ - /QA/ FUCKING WON at 4chan.org.",
+        "id": 2721102,
+        "language": "en-US",
+        "link": "https://boards.4chan.org/tv/index.rss",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 624,
+        "source_url": "https://boards.4chan.org/tv/index.rss",
+        "status_code": 404,
+        "tags": [],
+        "thumbnail": null,
+        "title": "/tv/ - /QA/ FUCKING WON",
+        "vote": 0
+    }
+]

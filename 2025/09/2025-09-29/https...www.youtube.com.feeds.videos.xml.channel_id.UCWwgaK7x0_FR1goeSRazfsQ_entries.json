@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T14:20:04.133699+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T12:31:06+00:00",
+        "description": "Discover how Samsung and Zalgiris\u2014one of Lithuania\u2019s most iconic basketball clubs\u2014created exclusive Galaxy devices and accessories with Knox Configure to deliver a premium fan experience, and bring supporters closer together. Learn more: http://smsng.co/Knox_BC-Zalgiris_yt\n\n#GalaxyS24 #GalaxyWatch6 #GalaxyBuds FE #SamsungKnox",
+        "id": 3690449,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o-JchxkBRo8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o-JchxkBRo8/hqdefault.jpg",
+        "title": "Knox Configure: Custom tech for Zalgiris supporters | Samsung",
+        "vote": 0
+    }
+]

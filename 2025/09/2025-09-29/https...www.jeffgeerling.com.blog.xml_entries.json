@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T15:52:39.155755+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T14:39:02+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Not all OCuLink eGPU docks are created equal</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>I recently tried using the <a href=\"https://amzn.to/46Y65Wo\">Minisforum DEG1 GPU Dock</a> with a Raspberry Pi 500+, using an M.2 to OCuLink adapter, and <a href=\"https://amzn.to/48CZlyl\">this chenyang SFF-8611 Cable</a>.</p>\n\n<p>After figuring out there's a power button on the DEG1 (which needs to be turned on), and after fiddling around with the switches on the PCB (hidden under the large metal plate on the bottom; TGX to OFF was the most important setting), I was able to get the Raspberry Pi's PCIe bus to at least tell the graphics card installed in the eGPU dock to spin up its fans and initialize.</p>\n\n<p>But I wasn't able to get any output from the card (using <a href=\"https://github.com/geerlingguy/raspberry-pi-pcie-d",
+        "id": 3691128,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Not all OCuLink eGPU docks are created equal",
+        "vote": 0
+    }
+]

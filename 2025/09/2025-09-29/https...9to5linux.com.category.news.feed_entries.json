@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T14:19:14.095172+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T13:40:51+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/09/gll617.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"GNU Linux-Libre 6.17\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/09/gll617.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/09/gll617.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/09/gll617.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>GNU Linux-libre 6.17 kernel is now available for download. This release is based on Linux kernel 6.17 and it\u2019s targeted at those who seek 100% freedom for their personal computers.</p>\n<p>The post <a href=\"https://9to5linux.com/gnu-linux-libre-6-17-kernel-is-now-available-for-software-freedom-lovers\">GNU Linux-Libre 6.17 Kernel Is Now Available for Software Freedom Lovers</a> appeared first on <a href=\"http",
+        "id": 3690448,
+        "language": "en-US",
+        "link": "https://9to5linux.com/gnu-linux-libre-6-17-kernel-is-now-available-for-software-freedom-lovers",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/09/gll617.webp",
+        "title": "GNU Linux-Libre 6.17 Kernel Is Now Available for Software Freedom Lovers",
+        "vote": 0
+    }
+]

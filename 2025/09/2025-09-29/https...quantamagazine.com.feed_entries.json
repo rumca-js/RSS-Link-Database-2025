@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Yasemin Saplakoglu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T15:54:42.680299+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T15:23:33+00:00",
+        "description": "A healthy brain maintains a harmony of neurons that excite or inhibit other neurons, but the lines between different types of cells are blurrier than researchers once thought.             <p>The post <a href=\"https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/\" target=\"_blank\">How the Brain Balances Excitation and Inhibition</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3691165,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/09/Neurons-crWei-AnJin-Default.webp",
+        "title": "How the Brain Balances Excitation and Inhibition",
+        "vote": 0
+    }
+]

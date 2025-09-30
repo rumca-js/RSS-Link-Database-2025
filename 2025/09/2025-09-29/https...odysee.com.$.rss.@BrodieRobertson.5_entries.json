@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T18:46:41.656403+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T17:30:11+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/srdP33GQTcI\" width=\"480\" alt=\"thumbnail\" title=\"Don't Host Your Web Server On A Vape\" /></p>There are many sensible things you could host a server on and a vape is not one but that doesn't mean you can't do it if it has a microcontroller and you have some patience<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Slow Page: http://ewaste.fka.wtf<br />Github io Hosting: https://bogdanthegeek.github.io/blog/projects/vapeserver/<br />Jay Carlson Blog: jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/<br />Datasheet: https://download.py32.org/Datasheet%26Reference%20manual/PY32F002B%20datasheet%20EN_V0.3.pdf<br />Reddit Post: https://www.r",
+        "id": 3692528,
+        "language": "en",
+        "link": "https://odysee.com/don%27t-host-your-web-server-on-a-vape:0c086f11e5a0bfc3017ddca432181a049782acf9",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/srdP33GQTcI",
+        "title": "Don't Host Your Web Server On A Vape",
+        "vote": 0
+    }
+]

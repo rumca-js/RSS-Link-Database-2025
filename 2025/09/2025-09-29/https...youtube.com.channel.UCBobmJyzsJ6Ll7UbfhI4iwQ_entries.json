@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T17:22:25.110341+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T15:59:29+00:00",
+        "description": "\u2018Rematch\u2019 is a football game that lets you control one player at a time as you compete alongside your teammates in fast-paced matches from an immersive third-person perspective. \n\nWatch this video for an insight into how Sloclap leveraged UE5 features such as Virtual Shadow Maps and Temporal Super Resolution to reimagine football in an original way.\n\nTo get the full story, check out our interview with Sloclap: https://epic.gm/dev-interviews-rematch\n\n#Sloclap #Rematch, #UnrealEngine5, #UE5, #UE4",
+        "id": 3691935,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oC9LJC_zacQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oC9LJC_zacQ/hqdefault.jpg",
+        "title": "Rematch | Game Profile | Unreal Engine",
+        "vote": 0
+    }
+]

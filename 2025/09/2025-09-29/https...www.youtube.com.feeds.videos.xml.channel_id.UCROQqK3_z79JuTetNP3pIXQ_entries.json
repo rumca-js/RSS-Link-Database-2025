@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "captainmidnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T16:18:22.776157+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T16:00:48+00:00",
+        "description": "This video is sponsored by Schell Games. Go to: https://www.meta.com/addons/1707948539995865 and use code MIDNIGHTRISING-8904FC to get a 45% discount on the I Expect You to Die trilogy through Nov. 19.\nJulie Kavner's Marge Simpson is in a very rough spot these days, after so many seasons on Fox. It's time to acknowledge that and talk about where to go next.\nRead my comic BINARY SEA on Amazon Kindle: https://a.co/d/9JfoZC0\nMusic by Epidemic Sound (http://www.epidemicsound.com)\nFollow me on Twitter: https://twitter.com/midnightcap\nFollow me on Facebook: https://www.facebook.com/midnightcap\nVideo edited and written by Andrew Elliott (Stalli111: https://www.youtube.com/user/Stalli111  )\nScript edited by Graham Blackaby",
+        "id": 3691310,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UldT3EMiKtg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 63,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCROQqK3_z79JuTetNP3pIXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UldT3EMiKtg/hqdefault.jpg",
+        "title": "The Sad Decline of Marge Simpsons Voice",
+        "vote": 0
+    }
+]

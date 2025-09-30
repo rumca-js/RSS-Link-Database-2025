@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T19:03:46.587910+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T18:10:28+00:00",
+        "description": "From GNOME to NixOS & beyond, the Extreme Leftist Activists of Linux & Open Source have two primary tactics: subvert elections & incite violence.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3692606,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=x5ZT9VnKRCc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x5ZT9VnKRCc/hqdefault.jpg",
+        "title": "The Tactics of Leftist Open Source: Overturn Elections & Encourage Violence",
+        "vote": 0
+    }
+]

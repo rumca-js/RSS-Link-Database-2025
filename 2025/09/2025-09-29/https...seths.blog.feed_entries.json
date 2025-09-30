@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T09:17:51.102157+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T09:03:00+00:00",
+        "description": "On an airplane, we notice even tiny changes in acceleration (including direction) but we&#8217;re completely unaware that we&#8217;re traveling at hundreds of miles an hour. &#8220;Compared to what&#8221; is the unstated question that we ask ourselves, all the time. Consumers, employees and peers are unlikely to think about what&#8217;s already a given. It&#8217;s the changes [&#8230;]",
+        "id": 3688530,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/09/acceleration-is-felt-velocity-is-ignored",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Acceleration is felt, velocity is ignored",
+        "vote": 0
+    }
+]

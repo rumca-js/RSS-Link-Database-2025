@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JayzTwoCents",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T22:32:23.542145+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T22:01:54+00:00",
+        "description": "Today we set off to build a $1000 Gaming PC that can ANY retro console PC including up to PS4, but can still play modern PC games without issue! No Raspberry Pi's here! Easily turn any PC into a retro gaming PC for free! \n\nSponsored Links: \nShop Micro Center\u2019s Clearance and Overstock Event: \nhttps://micro.center/cf483c\nSign up for a FREE 128gig Flash Drive at the Phoenix Location: https://micro.center/213b43\nCheck out Micro Center News: https://micro.center/9a0a6f\nPlan Your Next Build: https://micro.center/6323ae\n\nNew Players sign up for World of Warships for free (https://wo.ws/Jayz2cents) and use Offer Code XVOYAGE to receive the following instantly! \n\u00b7 20 days of Premium Account,\n\u00b7 Japanese Tier III cruiser Tenry\u016b,\n\u00b7 Port slot, and Commander\nAlso players can perform a series of simple combat missions to unlock additional awards which includes the following:\n\u00b7 U.S. Tier VII cruiser Boise\n\u00b7 7x Supercontainers\n\u00b7 40,000,000 Credits\n\u00b7 1,000,000 Elite Commander XP\n\n\u25cb Get your JayzTwoCent",
+        "id": 3693900,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4z78IX9ohC4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 760,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkWQ0gDrqOCarmUKmppD7GQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4z78IX9ohC4/hqdefault.jpg",
+        "title": "Turn any PC into a Retro Gaming PC for free!",
+        "vote": 0
+    }
+]

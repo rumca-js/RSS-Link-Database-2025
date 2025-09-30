@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-29T16:09:23.018753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T15:33:57+00:00",
+        "description": "Prepare for the AWS CloudOps Engineer Associate exam and pass!\n\nAWS Certified CloudOps Engineer - Associate (formerly known as AWS Certified SysOps Administrator - Associate) validates skills and knowledge in monitoring and maintaining AWS workloads, implementing security controls and networking concepts, performing business continuity procedures, and implementing cost and performance optimizations.\n\nAndrew Brown developed this course.\n\n\ud83d\udd17 Get your Free Practice and Downloadable Cheatsheets: https://www.exampro.co/soa-c03 \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 00:00:00 Introduction\n- 00:34:39 Amazon EC2\n- 02:34:03 Amazon Machine Images AMIs\n- 03:03:51 EC2 Image Builder\n- 04:30:21 EBS\n- 05:16:03 RDS\n- 06:27:19 Amazon DynamoDB\n- 06:57:35 Amazon ElastiCache\n- 07:42:14 S3\n- 25:48:05 Amazon S3 Glacier\n- 26:12:24 EFS\n- 26:37:17 FSx\n- 26:48:28 Storage Gatew",
+        "id": 3691249,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5JTBS09e7ew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5JTBS09e7ew/hqdefault.jpg",
+        "title": "AWS CloudOps Engineer Associate (SOA-C03) Certification Course \u2013 Pass the Exam!",
+        "vote": 0
+    }
+]
