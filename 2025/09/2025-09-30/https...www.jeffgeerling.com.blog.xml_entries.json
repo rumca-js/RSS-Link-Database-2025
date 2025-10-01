@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T05:30:07.315117+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T04:13:29+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">The AI Emperor Has No Clothes</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/ai-influencer-deal-offer.png\" width=\"400\" height=\"auto\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-7bac7114-4965-4f33-8f5e-bcc8d3b6d165\" data-insert-attach=\"{&quot;id&quot;:&quot;7bac7114-4965-4f33-8f5e-bcc8d3b6d165&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"AI influencer deal offer\"></p>\n\n<p>If the size of the current AI bubble can be estimated by how many</p>\n\n<ul>\n<li>AI job offers</li>\n<li>AI product review offers</li>\n<li>AI service paid sponsorship offers</li>\n<li>AI creator representation offers</li>\n</ul>\n\n<p>I receive",
+        "id": 3695397,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/ai-emperor-has-no-clothes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/ai-influencer-deal-offer.png",
+        "title": "The AI Emperor Has No Clothes",
+        "vote": 0
+    }
+]

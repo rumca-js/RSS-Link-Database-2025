@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechLinked",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T02:11:17.965653+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T01:36:40+00:00",
+        "description": "Check out Proton Mail at http://proton.me/techlinked to create a free account, and get up to 23% off their plans!\n\nNEWS SOURCES: https://lmg.gg/yo6Or\n\n\u25ba GET MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba GET A VPN: https://www.piavpn.com/TechLinked\n\u25ba LISTEN TO THE TECH NEWS: https://lmg.gg/TLPodcast\n\u25ba SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\u25ba OUR PODCAST GEAR: https://lmg.gg/podcastgear\n\n---------------------------------------------------\nTimestamps:\n0:00 does this make any sense\n0:19 EA acquired in $55B deal\n1:21 Snapdragon X2 Elite Extreme benchmarks\n2:42 ChatGPT parental controls, Instant Checkout\n4:08 Proton!\n5:05 QUICK BITS INTRO\n5:17 RTX 50 Super series \n5:56 ASUS starts to fix ROG laptop stuttering\n6:39 Apple's internal Siri chatbot app\n7:19 Microsoft introduces 'vibe working'\n8:09 Skyrim Grandma retires",
+        "id": 3694759,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=CT2h2-cKnbc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 326,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CT2h2-cKnbc/hqdefault.jpg",
+        "title": "Oh. This is Fine.",
+        "vote": 0
+    }
+]

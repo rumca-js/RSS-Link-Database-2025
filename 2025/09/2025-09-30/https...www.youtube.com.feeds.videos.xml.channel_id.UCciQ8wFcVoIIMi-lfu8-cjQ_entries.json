@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T22:08:29.279837+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T22:00:41+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about recent updates about the comet 3I/ATLAS that are based on legit scientific findings and not speculations or guesswork\nLinks:\nhttps://arxiv.org/abs/2508.18382\nhttps://articles.adsabs.harvard.edu//full/1994ApJ...436..885K/0000889.000.html\nhttps://arxiv.org/pdf/2509.07678\nhttps://arxiv.org/pdf/2508.18382\nhttps://arxiv.org/pdf/2509.05181\nhttps://arxiv.org/pdf/2509.05562\nhttps://arxiv.org/pdf/2509.07678\nhttps://arxiv.org/pdf/2509.08792\nhttps://arxiv.org/pdf/2508.18209\nhttps://arxiv.org/pdf/2509.02813\nhttps://arxiv.org/pdf/2509.01647\nhttps://www.eurekalert.org/news-re",
+        "id": 3703414,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TPLwBU9G_Xw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TPLwBU9G_Xw/hqdefault.jpg",
+        "title": "Comet 3I/ATLAS Turned Green But We Don't Know Why + Other Updates",
+        "vote": 0
+    }
+]

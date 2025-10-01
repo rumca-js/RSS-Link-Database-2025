@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T23:25:45.548869+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T22:00:54+00:00",
+        "description": "The beautiful math behind six degrees of separation. Sponsored by Incogni - use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off.\n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\nTo play around with the simulations in the video, you can follow these links:\nDisease spreading - https://ve42.co/wattsStrogatzSim \nPreferential attachment - https://ve42.co/barabasiAlbertSim \n\n\n\u2580\u2580\u2580\nA huge thank you to: \nDuncan Watts, for creating the small-world model that inspired this video and expanding on his further work; Steve Strogatz, for telling the story with such clarity & humour; Albert-L\u00e1szl\u00f3 Barab\u00e1si, for revealing the the inevitability and impact of hubs; Mark Buchanan, for his insightful takeaways that pulled it all together.\n\nCheck out Duncan Watts\u2019 books here - ve42.co",
+        "id": 3703890,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=CYlon2tvywA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CYlon2tvywA/hqdefault.jpg",
+        "title": "Why is it *6* degrees of separation?",
+        "vote": 0
+    }
+]

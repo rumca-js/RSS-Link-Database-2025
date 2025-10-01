@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T14:36:31.042851+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T13:00:41+00:00",
+        "description": "This week in Fantasy News: Stephen King\u2019s novella Rat is getting a film adaptation, Audible faces a class-action lawsuit over audiobook ownership, The Wheel of Time gets a major fan event, Reddit reveals the top self-published fantasy books of 2025, Stan Lee is resurrected with AI, and Magic: The Gathering goes to Middle-earth with The Hobbit. Plus\u2014Brandon Sanderson may be building a Cosmere Disneyland, we\u2019ve got multiple new cover reveals, Liam Hemsworth speaks on playing Geralt, and Christopher Paolini names a new Dragon Rider!\n\n\ud83c\udf99\ufe0f Guest Hosts: 2 To Ramble\nYouTube: https://www.youtube.com/@2ToRamble\nTikTok: https://www.tiktok.com/@2toramble?lang=en\n\n\u23f0 Timestamps & Sources\n00:00 Intro\n00:16 Stephen King \u201cRat\u201d Adaptation \u2013 https://deadline.com/2025/09/stephen-king-rat-movie-adaptation-witch-lighthouse-producer-1236554470/\n\n\u2003\u2003More: https://screenrant.com/rat-movie-development-plot-details-stephen-king/\n\n\u2003\u2003Novella Info: https://stephenking.com/works/novella/rat.html\n\n02:34 Audible Class",
+        "id": 3699104,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KKQROcFFsas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KKQROcFFsas/hqdefault.jpg",
+        "title": "AUDIBLE GETS SUED! Sanderson Theme Park? || FN",
+        "vote": 0
+    }
+]

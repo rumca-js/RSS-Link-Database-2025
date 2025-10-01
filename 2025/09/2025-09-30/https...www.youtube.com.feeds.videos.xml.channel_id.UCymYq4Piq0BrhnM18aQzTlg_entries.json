@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T23:06:25.210287+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T22:45:01+00:00",
+        "description": "Sign up for a Plex Pass: https://lon.tv/plexpass - In a followup to my Plex Pro Week video, I take a look at a simpler and free way to create automations using the Plex Pass webhook feature. See more Plex: https://www.youtube.com/playlist?list=PLCZHp4d1HnIvqJPAmMooCKOHieLdi3I7o and subscribe! http://lon.tv/s\n\nLinks: \nPlex Pro Week: https://www.plex.tv/pro-week/\nMy Plex Pro Week Video: https://www.youtube.com/watch?v=s4SFeEJuzek\nPlex API Info : https://www.plex.tv/blog/plex-pro-week-25-api-unlocked/\n\nVIDEO INDEX:\n00:00 - Intro\n01:49 - Price\n01:56 - About Plex Webhooks\n03:04 - Make.com Step 1: Add Scenario\n04:40 - Adding Webhook to Plex\n05:51 - Receiving our first webhook from Plex\n06:29 - Parsing Plex data\n07:43 - Setting up a Make.com route based on player state\n11:24 - Running the workflow\n12:08 - Adding a media.stop event\n13:50 - Other simple webhook services\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email",
+        "id": 3703818,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NXxiQFhb-94",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NXxiQFhb-94/hqdefault.jpg",
+        "title": "Plex Pro Week Followup: Webhooks on a Free, No Code Platform!",
+        "vote": 0
+    }
+]

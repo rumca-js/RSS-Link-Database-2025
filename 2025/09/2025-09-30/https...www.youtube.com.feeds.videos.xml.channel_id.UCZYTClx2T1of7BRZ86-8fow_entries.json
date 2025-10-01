@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T18:22:52.747900+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T17:00:14+00:00",
+        "description": "To explain how the world works, scientists occasionally have an idea that \u2014 upon further testing \u2014 turns out to be wrong. From rays that carry coldness instead of heat, to a neighboring star that causes regular mass extinctions on Earth, here are 5 things that some natural philosophers and scientists thought could be real.\n\nHosted by: Reid Reimers (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Eric Jensen, David Johnston, Alan Wong, Cye Stoner, Bethany Matthews, Adam Brainard, Friso, Matt Curls, Chris Mackey, Garrett Galloway, J.V. Rosenbalm, Toyas Dhake, Reed Spilmann, Jeremy Mattern, Jaap Westera, Chris Curry, Blood Doctor Kelly, Lyndsay Brown, Kevin Be",
+        "id": 3701501,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=B_jkyNaYQmU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B_jkyNaYQmU/hqdefault.jpg",
+        "title": "Cold Doesn\u2019t Exist (And 4 Other Things Scientists Used to Think Were Real)",
+        "vote": 0
+    }
+]

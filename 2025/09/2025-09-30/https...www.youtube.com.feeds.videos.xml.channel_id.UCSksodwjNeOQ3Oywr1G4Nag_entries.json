@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T23:12:22.368282+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T22:23:18+00:00",
+        "description": "My @shopify  store needed an over-engineered sale notification system\n\u2022\u2022\u2022\nSetting up my online store with @shopify was incredibly easy- and the sale notification work really well, but there was nothing mechanical about a phone notification.  The split flap displays you can get from Shopify are technically mechanical, but they are missing a key ingredient\u2026 marbles.  That\u2019s why I decided to make an entirely unnecessary but very Engineezy style notification system.  When the machine receives a web hook from the backend of my store, the motor turns, charging and releasing a spring powered gear, which smashes into a compliant baffle, which sets of an explosion of marbles. Pretty cursed.\n\u2022\u2022\u2022\n#ad #shopifypartner #engineering #engineeringstudents",
+        "id": 3703848,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/2a52_3NET8A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2a52_3NET8A/hqdefault.jpg",
+        "title": "The Most Over Engineered Notification System",
+        "vote": 0
+    }
+]

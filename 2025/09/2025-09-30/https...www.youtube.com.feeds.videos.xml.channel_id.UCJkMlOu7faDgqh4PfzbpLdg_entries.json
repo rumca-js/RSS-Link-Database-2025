@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdwriter1",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T13:56:58.032555+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T12:30:58+00:00",
+        "description": "Go to https://www.squarespace.com/nerdwriter for 10% off your first purchase.\nSUPPORT THE SHOW ON PATREON: https://patreon.com/nerdwriter\n\nMY BOOK: https://amzn.to/3ymfQPV \n\nSOURCES\n\nSammarcelli, Fran\u00e7oise. \u201cOf Art, Codes, and Transcoding: Revisiting Intersemiotic Conversations in The Age of Innocence by Edith Wharton (1920) and Martin Scorsese (1993).\u201d Edith Wharton Review, vol. 36, no. 2, 2021, pp. 125\u201347. JSTOR, https://doi.org/10.5325/editwharrevi.36.2.0125\n\nStern,\u00a0Lesley.\u00a0The Scorsese Connection.\u00a0United Kingdom,\u00a0Indiana University Press,\u00a01995.\n\nCahir, Linda Costanza. \u201cThe Perils of Politeness in a New Age: Edith Wharton, Martin Scorsese and \u2018The Age of Innocence.\u2019\u201d Edith Wharton Review, vol. 10, no. 2, 1993, pp. 12\u201319. JSTOR, http://www.jstor.org/stable/43512826\n\nKottaras, Ekaterini. \u201cMetaphors of Deception: Incomplete Speech Acts in Edith Wharton\u2019s \u2018The Age of Innocence.\u2019\u201d Edith Wharton Review, vol. 26, no. 1, 2010, pp. 10\u201317. JSTOR, http://www.jstor.org/stable/43513028\n\nJessee,",
+        "id": 3698361,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lTIvg7-RNUw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 496,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lTIvg7-RNUw/hqdefault.jpg",
+        "title": "The Age Of Innocence: Adaptation Done Right",
+        "vote": 0
+    }
+]

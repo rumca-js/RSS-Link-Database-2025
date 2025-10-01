@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T13:31:50.875712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T12:28:36+00:00",
+        "description": "Lean how to build a complete full-stack movie streaming app with AI-powered movie recommendations. You\u2019ll use Go with the Gin-Gonic framework on the backend, React on the frontend, and MongoDB for data storage. For the AI features, you\u2019ll connect your Go backend to OpenAI using LangChainGo.\n\nSign up for MongoDB Atlas: https://www.mongodb.com/\n\n\u270f\ufe0f Course developed by @GavinLon \n\n\ud83d\udcbb Code: https://github.com/GavinLonDigital/MagicStream\n\n\ud83c\udfd7\ufe0f MongoDB provided a grant to make this course possible.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Introduction and Overview of the Course\n- 0:10:14 Setup Development Environment \n- 0:10:19 Install MongoDB and Compass (GUI for MongoDB)\n- 0:14:05 Install MongoDB Shell\n- 0:17:54 Launch Compass, Create and Seed MagicStream MongoDB Database\n- 0:23:38 Use MongoDB Shell to Interact with MongoDB Database\n- 0:29:42 Install Go (Golang) on Dev Machine\n- 0:34:31 Create Basic Go Application using Command Line Interface and Notepad\n- 0:38:45 Install Visual Studio Code on Dev Machine\n",
+        "id": 3698127,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jBf7of9JTV8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jBf7of9JTV8/hqdefault.jpg",
+        "title": "Build a Full Stack Movie Streaming App \u2013 Go, React, MongoDB, OpenAI",
+        "vote": 0
+    }
+]

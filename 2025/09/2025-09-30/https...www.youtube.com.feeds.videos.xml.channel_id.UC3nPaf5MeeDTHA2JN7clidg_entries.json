@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T15:22:08.199743+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T14:31:24+00:00",
+        "description": "During 48 hours, enjoy 15% OFF on all Hoverpens with code BELLULARNEWS, or click on the link https://noviumdesign.shop/BellularNews - Free shipping available worldwide! Sponsored by Novium.\n\nThis situation sucks. Valve's systems are being used against them. And they're the very systems that have us loving Steam. \nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 $32,000 Stolen\n02:02 A Breach Of Trust\n03:04 The Stream Hack\n05:19 Fourth Time This Year\n06:51 Valve's Dilemma\n09:30 New Compromise\n11:43 No Easy Solutions\n\nSources:\nhttps://x.com/rastalandTV/status/1969629808788181258\n\nhttps://x.com/vxunderground/status/1969900675078201631\n\nhttps://x.com/vxunderground/status/1970170201736933604\n\nhttps://vx-underground.org/Malware%20Analysis/2025/2025-09-21%20-%20Block%20Blasters%20-%20Forensic%20Report/Paper\n\nhttps://steamdb.info/app/3872350/charts/\n\nhttps://steamcommunity.com/discussions/forum/7/5951404239529335",
+        "id": 3699661,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fMkUoyA20ts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fMkUoyA20ts/hqdefault.jpg",
+        "title": "Steam Games Are Hiding Malware, Valve Can't Stop It",
+        "vote": 0
+    }
+]

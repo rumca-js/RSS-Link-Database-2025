@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Basically Homeless",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T17:33:59.872785+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T17:01:09+00:00",
+        "description": "In this video the long awaited Waldo visual ML cheat detection program is released in an alpha state. It works, and can be further trained by an average PC user with the friendly user interface. \n\nGo to https://SAN.com/basicallyhomeless to get better news only on the Straight Arrow News app and stay fully informed with Unbiased, Straight facts. \n\n\nWaldo links:\nDownload waldo - https://github.com/Mr-Homeless/waldo\n\nDownload the base model to use for training - https://huggingface.co/jinggu/jing-model/blob/main/vit_g_ps14_ak_ft_ckpt_7_clean.pth\n\nDownload my model that has already been trained on 1000~ clips - https://www.patreon.com/posts/139968535\n\nKeep in mind, this model is tiny compared to what the final model will need to be. It is not yet the \"know all\" model. \n\n\n\nChapters/Timestamps:\n\n00:00 Recap - What is Waldo Visual FPS Aim Cheat Detection\n\n01:50 Project goals\n\n02:23 Waldo development \n\n04:50 You can use it now! Here's how \n\n06:27 Do not do this \n\n07:45 How to Install Waldo Ai",
+        "id": 3700791,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b9X3mqRSt_I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 446,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChHxJaKDqH4bOs0pX3hkKnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b9X3mqRSt_I/hqdefault.jpg",
+        "title": "Visual FPS Cheat Detection is Here - Waldo Release",
+        "vote": 0
+    }
+]

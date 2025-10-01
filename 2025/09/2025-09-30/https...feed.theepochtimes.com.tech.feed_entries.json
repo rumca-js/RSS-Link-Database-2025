@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Travis Gillmore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T23:07:04.009311+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T21:56:18+00:00",
+        "description": "Researchers and scientists will leverage advanced data collection and analysis tools to identify effective treatments.",
+        "id": 3703819,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/trump-signs-order-harnessing-ai-to-combat-childhood-cancer-5922541",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/09/30/id5922641-GettyImages-2238384559-1080x720.jpg",
+        "title": "Trump Signs Order Harnessing AI to Combat Childhood Cancer",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T14:18:33.092413+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T14:00:56+00:00",
+        "description": "Ever wonder what it actually takes to train a frontier AI model?\n\nAnkit Gupta, YC General Partner, sits down with Nick Joseph, Anthropic's Head of Pre-training, to explore the engineering challenges behind training Claude\u2014from managing thousands of GPUs and debugging cursed bugs to balancing compute between pre-training and RL. We cover scaling laws, data strategies, team composition, and why the hardest problems in AI are often infrastructure problems, not ML problems.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 \u2013 Introduction\n01:05 \u2013 From Vicarious to OpenAI to Anthropic\n06:40 \u2013 What pretraining is\n11:20 \u2013 Why next-word prediction won out\n16:05 \u2013 Scaling laws and the feedback loop of compute \u2192 models \u2192 revenue\n21:50 \u2013 Building Anthropic\u2019s early infrastructure\n27:35 \u2013 Efficiency hacks and debugging at scale\n33:10 \u2013 Generalists vs. specialists on the pretraining team\n38:45 \u2013 Challenges of training acros",
+        "id": 3698843,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YFeb3yAxtjE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YFeb3yAxtjE/hqdefault.jpg",
+        "title": "How To Train An LLM with Anthropic's Head of Pretraining",
+        "vote": 0
+    }
+]

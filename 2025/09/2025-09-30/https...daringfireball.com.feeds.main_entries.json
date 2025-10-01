@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T13:20:37.924037+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T12:20:04+00:00",
+        "description": "<p>Jason Snell:</p>\n\n<blockquote>\n  <p>According to Apple, four iPhone 17 Pros will be positioned at\nFenway Park\u2009\u2014\u2009in the Green Monster, the home dugout, and roaming\nthe stands. In contrast to the secrecy of last week, the\nTigers-Red Sox game will feature a bug in the corner of the screen\nthat shows off the shots that are coming from an iPhone.</p>\n\n<p>Is it a self-promotional gimmick? Sure, but Apple is paying a lot\nof money for MLB rights. Also, it\u2019s not as if the company hasn\u2019t\npushed its MLB telecasts in a bunch of different ways. The Friday\nNight Baseball broadcasts look great, and have featured loads of\nhelmet and body cams, a cinematic depth-of-field camera, and even\nin-stadium drone shots. Apple has probably earned at least one\nnight of iPhone Pro product integration.</p>\n</blockquote>\n\n<p>I skipped through the archive of the game and the footage from the iPhones was indistinguishable from the regular cameras. If not for the (subtle!) \u201cShot on iPhone\u201d bug in the top right corn",
+        "id": 3697944,
+        "language": "",
+        "link": "https://sixcolors.com/post/2025/09/apple-adds-iphones-to-friday-night-baseball-coverage",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple Started Using iPhone 17 Pros as Cameras for Friday Night Baseball Broadcasts",
+        "vote": 0
+    }
+]

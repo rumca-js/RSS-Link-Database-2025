@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T09:55:47.928340+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T09:03:00+00:00",
+        "description": "This is the quickest and most direct way to manage. In the short run, compliance is predictable and might even be effective. Over time, it&#8217;s always outdone by the generative and resilient alternative of, &#8220;because it&#8217;s the course that most effectively helps us achieve our shared objectives.&#8221; That opens the door to the brains and [&#8230;]",
+        "id": 3696584,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/09/because-i-said-so",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cBecause I said so\u201d",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T02:28:47.490787+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T02:28:46+00:00",
+        "description": "An exhibition at the Museum of the History of Medicine in Paris traces the saga of this medical specialty, from its beginnings to the major advances that transformed medical practice.",
+        "id": 3694792,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/09/30/anesthesia-s-remarkable-journey-since-the-19th-century_6745922_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/09/29/60/0/1920/960/644/322/60/0/7978f0a_upload-1-fup4mpmj6w20-expo-anesthesie-1920x1080.jpg",
+        "title": "Anesthesia's remarkable journey since the 19th century",
+        "vote": 0
+    }
+]

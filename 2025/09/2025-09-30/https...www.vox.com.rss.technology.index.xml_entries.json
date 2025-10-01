@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sean Illing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T14:18:10.095334+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T07:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"The TikTok logo over a ruffled American flag\" data-caption=\"Whoever owns the app moving forward will steer policy. | Nikolas Kokovlis/NurPhoto via Getty Images\" data-portal-copyright=\"Nikolas Kokovlis/NurPhoto via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2237166724.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tWhoever owns the app moving forward will steer policy. | Nikolas Kokovlis/NurPhoto via Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">TikTok is not just the most downloaded app in the world; it\u2019s the most powerful information platform on the planet.&nbsp;</p>\n\n<p class=\"has-text-align-none\">The app is also a political flashpoint. TikTok is owned by ByteDance, a Chinese company under the shadow of Beijing. For years, US lawmakers have tried to rein it in, either by banning it outright or forcing a sale to American investors. Now, with",
+        "id": 3698828,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/463206/tiktok-deal-us-china-ellison-murdoch",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2237166724.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Why TikTok is so influential \u2014 and why that\u2019s particularly worrisome now",
+        "vote": 0
+    }
+]

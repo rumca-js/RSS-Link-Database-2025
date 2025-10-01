@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T19:36:42.183531+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T18:43:02+00:00",
+        "description": "Sponsor: ID-Cooling Frozn A720 Black on Amazon https://geni.us/VDnou4Y\nASRock motherboards have been killing AMD CPUs all year, and in particular, the AMD Ryzen 7 9800X3D CPUs. The mystery has been unsolved for 9 months now (and remains unsolved), but ASRock and AMD are both investigating, as are we. In theory, they should find an answer before us -- but for whatever reason, it's been complete silence from both companies beyond some blame-gaming between them. In this video, we do our best to test for internet theories as to the root cause of ASRock's murderboard failures that cause the destruction of X3D CPUs.\n\nWe are losing money on this content, but we're able to fund it thanks to the supporters of our AI GPU Smuggling Documentary on YouTube. Please consider buying a Blind Eye T-Shirt to help us further offset the cost on this piece: https://store.gamersnexus.net/products/blind-eye-t-shirt-black-market\n\nYou might also like our e-waste inductor tabletop gaming dice kit! https://store",
+        "id": 3702341,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bmoN6D1roXM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bmoN6D1roXM/hqdefault.jpg",
+        "title": "Exploding AMD CPUs | Investigating ASRock's Murderboards",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kurzgesagt \u2013 In a Nutshell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T14:22:43.657361+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T14:00:03+00:00",
+        "description": "Go to https://ground.news/nutshell to get 40% off unlimited access to Ground News so you can compare coverage and think critically about the news you read.\n\nSign up to the Birb\u2019s Nest newsletter \u2192 https://shop.kgs.link/birb-nest \nGet exclusive freebies, early access, and much more from the kurzgesagt universe.\n\nSources & further reading:\nhttps://sites.google.com/view/sources-surviveheatdeath/\n\nCan we survive the heat death of the universe? One day, the last star will die, galaxies will dissolve, and black holes will evaporate. The universe becomes a cold, empty void where nothing happens. \nForever. But there might be a loophole that lets life keep going.\n\n\nOUR CHANNELS\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/you",
+        "id": 3698912,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VMm-U2pHrXE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 181,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VMm-U2pHrXE/hqdefault.jpg",
+        "title": "How a Future Civilization Will Become Immortal",
+        "vote": 0
+    }
+]

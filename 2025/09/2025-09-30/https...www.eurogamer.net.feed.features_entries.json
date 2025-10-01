@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-09-30T13:14:42.137807+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-30T13:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/mario-galaxy-1-2-switch.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>While <a href=\"https://www.eurogamer.net/games/super-mario-galaxy\">Super Mario Galaxy</a> has appeared on Nintendo Switch before, via 2020's <a href=\"https://www.eurogamer.net/games/super-mario-3d-all-stars\">Super Mario 3D All-Stars</a>, next week's re-release is still momentous. For one, 3D All-Stars was bizarrely only for sale for a limited time - so this will be the first time this game has a 'standard', ever-available Switch version. More importantly, this is the first time that Galaxy 2 is on Switch, meaning we now have one of gaming's finest duologies reunited and available on modern hardware. All of this is great news.</p> <p><a href=\"https://www.eurogamer.net/super-mario-galaxy-1-2s-ports-bring-two-all-timers-to-the-switch-2-but-i-wish-nintendo-made-that-just-a-little-easier-to-celebrate\">Read more</a></p>",
+        "id": 3697855,
+        "language": "en",
+        "link": "https://www.eurogamer.net/super-mario-galaxy-1-2s-ports-bring-two-all-timers-to-the-switch-2-but-i-wish-nintendo-made-that-just-a-little-easier-to-celebrate",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/mario-galaxy-1-2-switch.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Super Mario Galaxy 1 + 2's ports bring two all-timers to the Switch 2, but I wish Nintendo made that just a little easier to celebrate",
+        "vote": 0
+    }
+]
