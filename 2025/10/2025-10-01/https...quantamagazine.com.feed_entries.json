@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Philip Ball",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T15:39:38.884688+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T14:07:27+00:00",
+        "description": "\u201cAnomalous\u201d heat flow, which at first appears to violate the second law of thermodynamics, gives physicists a way to detect quantum entanglement without destroying it.            <p>The post <a href=\"https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/\" target=\"_blank\">A Thermometer for Measuring Quantumness</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3709677,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Quantum-2nd-Law-cr-Daniel-Garcia-Default.webp",
+        "title": "A Thermometer for Measuring Quantumness",
+        "vote": 0
+    }
+]

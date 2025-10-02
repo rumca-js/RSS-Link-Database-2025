@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T16:26:39.069761+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T16:26:38+00:00",
+        "description": "OpenAI prezentuje Sor\u0119 2 \u2013 aplikacj\u0119 spo\u0142eczno\u015bciow\u0105, w kt\u00f3rej wszystkie filmy tworzy sztuczna inteligencja. Nowy projekt Sama Altmana ma by\u0107 konkurencj\u0105 dla TikToka, ale eksperci ostrzegaj\u0105: to tak\u017ce idealne narz\u0119dzie do deepfake\u2019\u00f3w i fake news\u00f3w.",
+        "id": 3710724,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art43109941-gigant-ai-wchodzi-do-social-mediow-bat-na-tiktoka-i-fabryka-fake-newsow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gigant AI wchodzi do social medi\u00f3w. Bat na TikToka i fabryka fake news\u00f3w?",
+        "vote": 0
+    }
+]

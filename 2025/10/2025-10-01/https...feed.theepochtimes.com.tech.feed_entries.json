@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dorothy Li",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T21:43:59.044575+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T20:41:18+00:00",
+        "description": "Taiwan's world-leading chip industry is considered vital for self-defense and garnering international backing in the event of a potential Chinese invasion.",
+        "id": 3713601,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/china/taiwan-wouldnt-agree-to-50-50-chip-production-split-with-us-negotiator-says-5923022",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/10/01/id5923025-GettyImages-2234012343-1080x720.jpg",
+        "title": "Taiwan Wouldn\u2019t Agree to 50-50 Chip Production Split With US: Negotiator Says",
+        "vote": 0
+    }
+]

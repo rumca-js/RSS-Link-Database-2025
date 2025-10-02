@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T20:59:50.937145+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T20:16:24+00:00",
+        "description": "Don't miss out! Join us at the next Open Source Summit in Seoul, South Korea (November 4-5). Join us at the premier vendor-neutral open source conference, where developers and technologists come together to collaborate, share knowledge, and explore the latest innovations and advancements in open source technology. Learn more at https://events.linuxfoundation.org/\n\nPanel Discussion: Open Source as a Path for a Competitive Automotive Industry - Philipp Ahmann, Etas GmbH; Ana Jim\u00e9nez Santamar\u00eda, Linux Foundation; Masato Endo, Toyota Motor Corporation; Carl-Eric Mols, Volvo Cars; Julian Schregle, Mercedes-Benz Tech\n\nOpen source software has evolved from a supplement to a strategic element in the Software-Defined Vehicle era, evidenced by the growing number of OSPOs across automotive organizations. This panel examines this transition, focusing on the practical challenges at the intersection of innovation, license plus regulatory compliance, and community contribution.\n\nThe panelists will s",
+        "id": 3713331,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6fk97Y3VSZk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6fk97Y3VSZk/hqdefault.jpg",
+        "title": "Panel Discussion: Open Source as a Path for a Competitive Automotive Industry",
+        "vote": 0
+    }
+]

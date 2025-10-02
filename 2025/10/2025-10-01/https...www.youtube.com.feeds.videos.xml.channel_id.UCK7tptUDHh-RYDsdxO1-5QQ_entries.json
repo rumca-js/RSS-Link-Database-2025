@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T06:18:34.490544+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T04:33:39+00:00",
+        "description": "WSJ\u2019s Damian Paletta explains what\u2019s at stake in the first shutdown of the U.S. federal government in seven years.\n\n#wsj #trump #shutdown",
+        "id": 3705189,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Yt8wZjz7th8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Yt8wZjz7th8/hqdefault.jpg",
+        "title": "Government Shutdown 2025: Why This Time Seems Different | WSJ News",
+        "vote": 0
+    }
+]

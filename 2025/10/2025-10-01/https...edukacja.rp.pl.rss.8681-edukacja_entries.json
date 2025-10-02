@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T12:15:20.533484+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T12:15:19+00:00",
+        "description": "Nowe regulacje dotycz\u0105 m.in. termin\u00f3w sk\u0142adania deklaracji zwi\u0105zanych z wyborem j\u0119zyka obcego nowo\u017cytnego na egzaminach, a tak\u017ce zasad przekazywania danych uczni\u00f3w do okr\u0119gowych komisji egzaminacyjnych.",
+        "id": 3707890,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/szkoly-podstawowe-i-srednie/art43109371-nowe-zasady-dla-uczniow-z-ukrainy-men-okreslilo-terminy-egzaminacyjnych-deklaracji",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowe zasady dla uczni\u00f3w z Ukrainy. MEN okre\u015bli\u0142o terminy egzaminacyjnych deklaracji",
+        "vote": 0
+    }
+]

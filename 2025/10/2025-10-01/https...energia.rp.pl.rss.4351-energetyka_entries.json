@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T07:22:06.968071+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T07:22:06+00:00",
+        "description": "JSW zn\u00f3w przynosi miliardowe straty. Na horyzoncie nie wida\u0107 perspektyw dotycz\u0105cych wzrostu cen w\u0119gla i\u00a0koksu. Sp\u00f3\u0142ce ko\u0144cz\u0105 si\u0119 oszcz\u0119dno\u015bci. Nadziej\u0105 jest nowela ustawy g\u00f3rniczej.",
+        "id": 3705894,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/wegiel/art43108371-jsw-bez-wsparcia-nie-przetrwa-pomoze-rzad",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "JSW bez wsparcia nie przetrwa? Pomo\u017ce rz\u0105d?",
+        "vote": 0
+    }
+]

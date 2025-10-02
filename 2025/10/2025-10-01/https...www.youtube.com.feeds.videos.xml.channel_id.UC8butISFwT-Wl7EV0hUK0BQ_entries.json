@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T17:36:06.779548+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T15:57:12+00:00",
+        "description": "Learn full-stack web development from the ground up in one complete course. Try the interactive expanded version here: https://scrimba.com/fullstack-path-c0fullstack\n\nBuild hireable skills in the JavaScript ecosystem, including HTML, CSS, JavaScript, React, Node.js, Next.js, TypeScript, databases, and testing. \n\nYou can study this course interactively on Scrimba. Code is available on the Scrimba course page for each lesson.\n\nChallenge code on GitHub:\nhttps://github.com/scrimba/learn-fullstack-development\n\nScrimba on YouTube: https://www.youtube.com/c/Scrimba\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 00:00:00 Introduction\n- 00:01:27 Html and CSS\n- 01:04:19 Intro to CSS\n- 02:21:01 Building a business card\n- 03:32:02 Space exploration\n- 04:17:21 Birthday website\n- 05:22:25 Solo project hometown homepage\n- 05:30:38 Build a counter app\n- 06:46:17 Javascript challenges part 1\n- 07:07:22 Git and Github basics\n- 07:19:59 Build a blackjack game\n- 10:15:19 Javascript challenges part 2\n- 10:41:09 Build a Chrome extensi",
+        "id": 3711414,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LzMnsfqjzkA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LzMnsfqjzkA/hqdefault.jpg",
+        "title": "Become a Fullstack Developer from Scratch \u2013 Full Beginner\u2019s Tutorial",
+        "vote": 0
+    }
+]

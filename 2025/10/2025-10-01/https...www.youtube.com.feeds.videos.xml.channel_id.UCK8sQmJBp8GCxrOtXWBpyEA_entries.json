@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T22:29:23.897464+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T21:29:01+00:00",
+        "description": "In this episode of the Made by Google Podcast, we\u2019re plugging in with the brand new Pixel Buds 2a. Find out how the team packed pro-level Active Noise Cancellation and a massive battery life upgrade into the new A-series buds. Join our host, Rachid Finge, as he chats with Vanessa Pau, Product Manager for Pixel Buds, about the smart trade-offs and clever solutions that make Pixel Buds 2a an incredible value.\n\nDiscover the engineering behind the 1.5x stronger Active Noise Cancellation, the AI-powered call clarity, and the surprising new repairability features that put you in control. Vanessa also shares how the team is catering to both power users and those looking for the essentials, and gives a peek into the design process that delivers a comfortable, secure fit for everyone.\n\n02:44 Improving on the Pixel Buds A-Series\n08:08 A More Comfortable Fit & Repairable Case\n12:29 Finding Your Case & AI-Powered Calls\n15:16 Catering to All Users & Launch Day\n\n#PixelBuds2a #MadeByGoogle #TechPodc",
+        "id": 3713910,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2xzoQpJXvTg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2xzoQpJXvTg/hqdefault.jpg",
+        "title": "Hear What Matters: The Pixel Buds 2a Experience | Made by Google Podcast S8E5",
+        "vote": 0
+    }
+]

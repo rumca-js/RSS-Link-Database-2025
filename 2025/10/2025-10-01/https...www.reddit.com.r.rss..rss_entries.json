@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Cachao-on-Reddit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T10:33:44.814653+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T09:33:49+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Personally not a huge fan. But it&#39;s on the HN front page and driven by RSS.</p> <p><a href=\"https://blog.kagi.com/kagi-news\">https://blog.kagi.com/kagi-news</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Cachao-on-Reddit\"> /u/Cachao-on-Reddit </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1nv3o50/kagi_news_an_rssdriven_aggregator/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1nv3o50/kagi_news_an_rssdriven_aggregator/\">[comments]</a></span>",
+        "id": 3707172,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1nv3o50/kagi_news_an_rssdriven_aggregator",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kagi News: an RSS-driven aggregator",
+        "vote": 0
+    }
+]

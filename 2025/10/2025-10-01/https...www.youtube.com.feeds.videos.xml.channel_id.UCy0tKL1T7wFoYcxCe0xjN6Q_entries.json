@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Technology Connections",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T16:11:06.120975+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T15:23:12+00:00",
+        "description": "Looking for info on those cool socks? They're available for two weeks only!\nhttps://good.store/products/technology-connections-6-months-of-socks\nhttps://good.store/products/technology-connections-12-months-of-socks\n\nOther stuff:\nTechnology Connections on Bluesky:\nhttps://bsky.app/profile/techconnectify.bsky.social\n\nTechnology Connections on Mastodon:\nhttps://mas.to/@TechConnectify\n\nHave you ever noticed that I've never done that whole influencer thing? Well, except maybe this one time? If you think socks for charity counts. Anyway, that's all thanks to people like you! Viewer support through Patreon keeps this channel independent and possible. If you'd like to join the amazing folks who fund my work, check out the link below. Thank you!\nhttps://www.patreon.com/technologyconnections",
+        "id": 3710408,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Aytf6ARcs8s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 328,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Aytf6ARcs8s/hqdefault.jpg",
+        "title": "Catalytic converters are simple, but getting them to work is not",
+        "vote": 0
+    }
+]

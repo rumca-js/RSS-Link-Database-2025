@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T14:44:16.248010+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T11:01:34+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/BdbBv6\n\nWhat does it take to trick an AI agent? Not a whole lot, it turns out. This week, panelists Nick Bradley, Claire Nu\u00f1ez and Jeff Crume join host Matt Kosinski to discuss a couple of new methods for hijacking AI agents and breaking their guardrails. We also talk recent evolutions in DDoS attack trends, the legacy of zero trust and some glaring security flaws in an extremely popular AI training app. \n\nPlus: We ring in Cybersecurity Awareness Month with the traditional airing of grievances.  \n\n00:00 \u2013 Introduction \n01:38 \u2013 Tricking AI agents \n15:18 \u2013 The DDoS comeback \n26:03 \u2013 15 years of zero trust \n36:02 \u2013 Neon exposes user calls \n44:34 \u2013 Cybersecurity myths \n\nSubscribe for AI and security updates \u2192 https://ibm.biz/BdbBvN\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity.\n\n#aisecurity #aiagents #zerotrust #ddosattack #socialengineer",
+        "id": 3708947,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mDpUZD1ogEE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mDpUZD1ogEE/hqdefault.jpg",
+        "title": "How to scam an AI agent, DDoS attack trends and busting cybersecurity myths",
+        "vote": 0
+    }
+]

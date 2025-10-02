@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T19:08:45.920060+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T18:38:26+00:00",
+        "description": "Try out Blitzy\u2019s codegen platform for enterprise codebases for free - https://blitzy.com\n\nOpenAI's new Sora 2 model is the most accurate, realistic and controllable than anything we've seen before.\n\nIn today's video, we'll take a look at what Sora 2 means video content creators and whether they're about to go the way of the dodo. \n\n#Coding #programming #tech \n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n-   https://openai.com/index/sora-2/\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- OpenAI Sora 2\n- What can Sora 2 do?\n- The future of generative video",
+        "id": 3712355,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hkSj-QapfZo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hkSj-QapfZo/hqdefault.jpg",
+        "title": "OpenAI\u2019s new slop machine is open for business\u2026",
+        "vote": 0
+    }
+]

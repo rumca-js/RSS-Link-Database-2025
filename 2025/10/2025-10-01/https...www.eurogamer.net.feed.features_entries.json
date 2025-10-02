@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-01T15:33:14.640340+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-01T15:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/tgs-header_8cELmrL.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>It's fair to say that the <a href=\"https://www.eurogamer.net/xbox-tokyo-game-show-2025-broadcast-live-watch-it-with-us\">Tokyo Game Show</a> is back. This may have been the case over the last few years, to be honest - but this year marked my first post-pandemic return to Japan's premier gaming festival - and in honesty, walking around the venue, I was shocked.</p> <p><a href=\"https://www.eurogamer.net/as-the-western-games-industry-sprials-tgs-2025-showed-japan-is-resurgent-though-you-might-not-recognize-that-over-live-streams\">Read more</a></p>",
+        "id": 3709539,
+        "language": "en",
+        "link": "https://www.eurogamer.net/as-the-western-games-industry-sprials-tgs-2025-showed-japan-is-resurgent-though-you-might-not-recognize-that-over-live-streams",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/tgs-header_8cELmrL.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "As the Western games industry sprials, TGS 2025 showed Japan is resurgent - though you might not recognize that over live streams",
+        "vote": 0
+    }
+]
