@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T22:46:49.298613+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T21:37:20+00:00",
+        "description": "New Teslas drive themselves off the line at Giga Berlin\n\nAutonomously navigating the factory premises, they stop by the on-site Supercharger, then park in the outbound lot\n\nFSD (Supervised) - https://www.tesla.com/fsd",
+        "id": 3722207,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UKpagx0yLc8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UKpagx0yLc8/hqdefault.jpg",
+        "title": "Teslas Drive Themselves Off The Line At Giga Berlin",
+        "vote": 0
+    }
+]

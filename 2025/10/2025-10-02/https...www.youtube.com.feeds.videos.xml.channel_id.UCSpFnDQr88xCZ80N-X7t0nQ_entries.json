@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T17:19:03.586371+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T16:00:28+00:00",
+        "description": "Mickey 17, directed by Bong Joon Ho and starring Robert Pattinson, has some serious clone effects to portray the multiple Mickeys that share the screen in multiple shots. DNEG, the VFX studio behind it and led by Chris McLoughlin as supervisor, came up with a solution merging smart planning, CGI compositing, and AI deepfake, using Volucap's Crazy Rig system.",
+        "id": 3719646,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/AeERdqcD6Wk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AeERdqcD6Wk/hqdefault.jpg",
+        "title": "Is this the BEST clone effect in FILM HISTORY?!",
+        "vote": 0
+    }
+]

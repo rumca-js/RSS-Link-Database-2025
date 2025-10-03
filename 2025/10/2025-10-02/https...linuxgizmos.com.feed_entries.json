@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T23:07:43.454769+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T23:00:19+00:00",
+        "description": "wafer.space has launched its first pooled silicon fabrication run on Crowd Supply, known as GF180MCU Run 1. The campaign offers designers the opportunity to fabricate 1,000 chips of their own design using GlobalFoundries&#8217; 180 nm mixed-signal process. The initiative is aimed at providing accessible, structured access to custom silicon, with dies expected to ship in [&#8230;]",
+        "id": 3722320,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/wafer-space-launches-gf180mcu-run-1-for-custom-silicon-fabrication",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "wafer.space Launches GF180MCU Run 1 for Custom Silicon Fabrication",
+        "vote": 0
+    }
+]

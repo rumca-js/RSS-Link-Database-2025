@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MinuteEarth",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T19:21:49.043673+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T18:08:30+00:00",
+        "description": "Take action to prevent the AI apocalypse at: https://campaign.controlai.com/\n\nOk so \u201cmisaligned AI\u201d is dangerous. But if it does decide to kill us, what SPECIFICALLY could it do?\n\nLEARN MORE\n**************\nTo learn more about this topic, start your googling with these keywords: \n- Superintelligence: Any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest.\n- Misaligned AI: Artificial intelligence systems whose goals, behaviors, or outcomes do not match human intentions or ethical principles.\n- AI Value Alignment: The process of designing and developing Artificial Intelligence systems so their goals and actions are consistent with beneficial human values and ethical principles.\n\nSUPPORT MINUTEEARTH\n**************************\nIf you like what we do, you can help us!:\n- Become our patron: https://patreon.com/MinuteEarth\n- Our merch: http://dftba.com/minuteearth \n- Our book: https://minuteearth.com/books \n- Sign up to our newsletter: http",
+        "id": 3720811,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AxHMvghsXXg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 838,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AxHMvghsXXg/hqdefault.jpg",
+        "title": "Artificial Intelligence Apocalypse Scenarios",
+        "vote": 0
+    }
+]

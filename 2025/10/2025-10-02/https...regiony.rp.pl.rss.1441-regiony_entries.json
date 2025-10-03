@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T14:26:41.081606+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T14:26:40+00:00",
+        "description": "Samorz\u0105dy lokalne prowadz\u0105 polityk\u0119 zdrowotn\u0105 dla swoich mieszka\u0144c\u00f3w. To, czy jest skuteczna i jak wp\u0142ywa na standard \u017cycia oszacowano w Indeksie Zdrowych Miast.",
+        "id": 3716855,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/jakosc-zycia/art43110411-w-jakich-miastach-zyje-sie-najzdrowiej-nowy-ranking",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W jakich miastach \u017cyje si\u0119 najzdrowiej? Nowy ranking",
+        "vote": 0
+    }
+]

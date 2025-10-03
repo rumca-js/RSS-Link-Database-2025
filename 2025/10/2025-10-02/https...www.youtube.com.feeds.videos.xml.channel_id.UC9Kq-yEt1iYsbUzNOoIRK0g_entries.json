@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pitch Meeting",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T19:16:35.027883+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T18:00:56+00:00",
+        "description": "Subscribe for more Pitch Meetings: https://www.youtube.com/channel/UC9Kq-yEt1iYsbUzNOoIRK0g \n\nStep inside the Pitch Meetings that led to your favorite installments in the Star Wars franchise! \n\n0:00 The Acolyte Pitch Meeting\n5:50 Star Wars: Episode I - The Phantom Menace Pitch Meeting\n11:48 Star Wars: Episode II - Attack Of The Clones Pitch Meeting\n18:07 Star Wars: Episode III - Revenge Of The Sith Pitch Meeting\n23:34 Obi-Wan Kenobi Pitch Meeting\n\n30:28 Solo: A Star Wars Story Pitch Meeting\n37:08 Rogue One: A Star Wars Story Pitch Meeting\n42:40 Star Wars: Episode IV - A New Hope Pitch Meeting\n49:21 Star Wars: Episode V - The Empire Strikes Back Pitch Meeting\n54:45 Star Wars: Episode VI - Return Of The Jedi Pitch Meeting\n59:45 The Mandalorian Pitch Meeting\n\n1:08:10 The Book of Boba Fett Pitch Meeting\n\n1:14:09 Ahsoka Pitch Meeting\n1:20:24 Star Wars: The Force Awakens Pitch Meeting\n1:25:04 Star Wars: The Last Jedi Pitch Meeting\n1:30:40 Star Wars: The Rise of Skywalker Pitch Meeting\n\nChec",
+        "id": 3720762,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tpLb7SsqXnM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 252,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9Kq-yEt1iYsbUzNOoIRK0g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tpLb7SsqXnM/hqdefault.jpg",
+        "title": "Star Wars Pitch Meeting Compilation",
+        "vote": 0
+    }
+]

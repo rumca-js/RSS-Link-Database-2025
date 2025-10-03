@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T14:12:43.161843+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T09:01:35+00:00",
+        "description": "This Sept. 15 to Oct. 15, NPR Music celebrates artists from all corners of Latinidad with an 'El Tiny' takeover.\n\nAnamaria Sayre | October 2, 2025\nRubio's electronic-pop music is full of ambient sound, but at the Tiny Desk, her flow is reborn. Enchanting strings and piano bring darker tones, evoking the mountains of Chile. In these sweeping arrangements, she casts a new spell.\n\nAs punk as she is rock as she is classic in her approach, her biting lyrics and deeply varied musical sensibilities on songs like \"Lo Que No Hablas\" and \"Seres Invisibles\" are as effective as they are gripping. From shrillness to quiet, it's in the spaces of discomfort that her star emerges \u2014 she was made to shine brightest in a space like the Tiny Desk.\n\nSET LIST\n\"Hacia el Fondo\"\n\"Seres Invisibles\"\n\"Lo Que No Hablas\"\n\"Voy Creciendo\"\n\nMUSICIANS\nRubio: vocals\nRafael Durand: piano, guitar, string and vocal arrangements\nPablo Stipicic: guitar\nMike Hernandez: bass\nNicol\u00e1s \"Lego Mustache\" Arancibia: drums\nDaniela Ar",
+        "id": 3716587,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ygRywAXrdgA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ygRywAXrdgA/hqdefault.jpg",
+        "title": "Rubio: Tiny Desk Concert",
+        "vote": 0
+    }
+]

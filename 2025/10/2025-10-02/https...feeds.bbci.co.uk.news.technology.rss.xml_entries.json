@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T01:39:01.462455+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T00:41:19+00:00",
+        "description": "The rise has been driven by a sharp increase in the value of his electric car company Tesla.",
+        "id": 3714935,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c89d3547npjo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1507/live/787fe140-9f1d-11f0-9667-7bc33bda5819.jpg",
+        "title": "Musk becomes world's first half-trillion-dollar man",
+        "vote": 0
+    }
+]

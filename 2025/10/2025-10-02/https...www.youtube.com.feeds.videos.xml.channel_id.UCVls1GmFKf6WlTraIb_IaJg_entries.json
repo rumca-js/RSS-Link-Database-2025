@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T14:01:42.061032+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T13:01:36+00:00",
+        "description": "The 'lsblk' command is used to list your block devices (drives) on your system.\n\n- List all storage devices (that aren't empty) in a tree-like format:\n  lsblk\n\n- List all devices including empty devices:\n  lsblk -a\n\n- Print sizes in bytes rather than in human-readable format:\n  lsblk -b\n\n- Output info about filesystems:\n  lsblk -f\n\n- Exclude the devices specified by the MAJ device number:\n  lsblk -e 7\n\n  NOTE The above removes loopback devices, which is useful if you want to filter out snaps from 'lsblk' output.\n\n- Exclude the devices specified by the comma-separated list of MAJ device numbers:\n  lsblk -e 7,8\n\n- Specify columns for the output using a comma-separated list:\n  lsblk -o NAME,SERIAL,MODEL,TRAN,TYPE,SIZE,FSTYPE,MOUNTPOINT\n\n- Specify and additioanl column added to the default output:\n  lsblk -o +UUID\n\n- Output info about device topology:\n  lsblk -t\n\n  NOTE The above is equivalent to...\n  '-o NAME,ALIGNMENT,MIN-IO,OPT-IO,PHY-SEC,LOG-SEC,ROTA,SCHED,RQ-SIZE,RA,WSAME'\n\n- Output ",
+        "id": 3716474,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=nEKqJUD9yAs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nEKqJUD9yAs/hqdefault.jpg",
+        "title": "'lsblk' - list block devices - Video Man Pages",
+        "vote": 0
+    }
+]

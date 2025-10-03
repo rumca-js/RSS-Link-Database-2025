@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bethesda Softworks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T21:51:20.261107+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T20:31:15+00:00",
+        "description": "DOOM: The Dark Ages | Hugo Martin's Game Director Playthrough - Ch. 13 - Harbor of Souls\n\nJoin us as DOOM: The Dark Ages' Game Director Hugo Martin plays through a different level per week while providing his unique insights into the game\u2019s design.\n\nWe're also gonna try and play some of these amazing DOOM Eternal Mods:\nARC Complex Master Level by Beth - https://mods.bethesda.net/en/doometernal/details/73ddf10f-08ef-4598-b79d-d0dc12885b15/ARC_Complex_Master_Levels_by_Beth\nNicer Loot Drops by Proteh - https://mods.bethesda.net/en/doometernal/details/4b8fb4dc-d73b-44d1-b3c9-1dde404c1f97/Nicer_Loot_Drops_by_proteh\nMagic Crucible by Blacklight9699 - https://mods.bethesda.net/en/doometernal/details/4e773aa9-0f64-4e56-8ebd-4481685793af/magic_crucible\n\nFor more information on all things DOOM: The Dark Ages and id Software, follow these channels and join the Slayers Club.  \n\nBluesky: https://bsky.app/profile/doom.com\nTwitter: https://x.com/DOOM/\nInstagram: https://www.instagram.com/doom/ \nThre",
+        "id": 3721890,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yvYW9wL-YqY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 724,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZHe-SP3xC7DdOk4Ri8QBw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yvYW9wL-YqY/hqdefault.jpg",
+        "title": "Slayers Club Live | DOOM: The Dark Ages | Hugo Martin's Game Director Playthrough - Ch. 13",
+        "vote": 0
+    }
+]

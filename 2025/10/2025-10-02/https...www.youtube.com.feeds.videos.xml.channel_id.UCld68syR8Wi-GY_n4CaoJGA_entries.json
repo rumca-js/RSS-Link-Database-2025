@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T18:51:03.587247+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T17:30:30+00:00",
+        "description": "A few months back there was a discussion about increasing the dependence on Systemd within the GNOME project and now that this has come into play, the distros without systemd have to make some changes.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nAdrian Vovk Article: https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/\nArtix Thread: https://forum.artixlinux.org/index.php/topic,8700.0.html\nArtix Subreddit Thread: https://www.reddit.com/r/artixlinux/comments/1np8phe/gnome_49_drops_support_for_nonsystemd_artix_linux/\nLinux Subreddit Thread: or_nonsystemd_artix_linux/\nGNU Guix: https://piaille.fr/@baleine/114910397837172799\nOpenRC: https://social.vlhl.dev/notice/Ay3r6NDMc07LYNL8RE\nelogind: https://github.com/elogind/elogind/commit/75c45d63c8a08a1512c",
+        "id": 3720562,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zzcoZ6zijIk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zzcoZ6zijIk/hqdefault.jpg",
+        "title": "GNOME's Future On Systemd-less Linux Distros",
+        "vote": 0
+    }
+]

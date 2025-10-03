@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T08:43:22.559097+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T08:00:17+00:00",
+        "description": "<div style=\"display: flex;\"><div style=\"width: calc(100% - 75px);padding-right:16px;\"><h2><a href=\"https://3dprinting.com/news/bambu-lab-partners-with-presq-to-launch-open-source-3d-printed-shoe-designs/\" style=\"color: #1a0dab;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-weight: normal;mso-line-height-rule: exactly;font-size:18px;text-decoration:none;margin-bottom:8px;\" target=\"_blank\">Bambu Lab Partners with Presq to Launch Open-Source 3D-Printed Shoe Designs</a></h2><span style=\"color:#777;font-size:14px;margin-top: auto;\">October 2</span></div><div style=\"max-width:75px;\"><img width=\"500\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/754786874-500x500.jpg\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" alt=\"Bambu Lab Partners with Presq to Launch Open-Source 3D-Printed Shoe Designs\" style=\"max-width:75px;border-radius:10px;overflow: hidden;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"htt",
+        "id": 3716249,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/bambu-lab-partners-with-presq-to-launch-open-source-3d-printed-shoe-designs",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://3dprinting.com/wp-content/uploads/754786874-500x500.jpg",
+        "title": "Bambu Lab Partners with Presq to Launch Open-Source 3D-Printed Shoe Designs - 3DPrinting.com",
+        "vote": 0
+    }
+]

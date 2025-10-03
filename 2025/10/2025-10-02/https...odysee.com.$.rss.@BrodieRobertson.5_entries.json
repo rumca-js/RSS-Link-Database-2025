@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T18:44:58.008396+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T17:30:30+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/zzcoZ6zijIk\" width=\"480\" alt=\"thumbnail\" title=\"GNOME's Future On Systemd-less Linux Distros\" /></p>A few months back there was a discussion about increasing the dependence on Systemd within the GNOME project and now that this has come into play, the distros without systemd have to make some changes.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Adrian Vovk Article: https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/<br />Artix Thread: https://forum.artixlinux.org/index.php/topic,8700.0.html<br />Artix Subreddit Thread: https://www.reddit.com/r/artixlinux/comments/1np8phe/gnome_49_drops_support_for_nonsystemd_artix_linux/<br />Linux Subreddit Thread: or_nonsyste",
+        "id": 3720532,
+        "language": "en",
+        "link": "https://odysee.com/gnome%27s-future-on-systemd-less-linux:1df30b16353d39a2a3a6cd8fc192d6dca75ba519",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/zzcoZ6zijIk",
+        "title": "GNOME's Future On Systemd-less Linux Distros",
+        "vote": 0
+    }
+]

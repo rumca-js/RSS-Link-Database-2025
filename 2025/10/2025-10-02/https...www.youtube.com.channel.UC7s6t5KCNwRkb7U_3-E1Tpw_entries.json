@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T01:25:48.843655+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T00:37:55+00:00",
+        "description": "EA (Electronic Arts) is officially selling to private equity in a record-breaking $55 billion deal. What does this mean? Is this bad? Will games be canceled? How long will it take?  I consulted a professional smart lawyer person - Taylor Bartholomew, Partner at Troutman Pepper Locke. \n\n~~SOURCES & REFERENCES~~\n\nhttps://arstechnica.com/gaming/2025/09/its-official-ea-is-selling-to-private-equity-in-55-billion-deal/\n\nhttps://www.nytimes.com/2025/09/29/business/dealbook/electronic-arts-buyout-jared-kushner.html\n\nhttps://www.pcgamer.com/games/fps/ea-reportedly-expects-battlefield-6-to-bring-in-100-million-players-a-number-that-even-dice-devs-dont-think-is-feasible/",
+        "id": 3714856,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KTzOsH41hzU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KTzOsH41hzU/hqdefault.jpg",
+        "title": "the EA Situation is crazy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fantano",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T03:17:29.144880+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T01:56:18+00:00",
+        "description": "Talking about the current state of hip hop a year on from Kendrick Lamar's \"Watch the Party Die.\"\n\nEricTheYoungGawd: https://www.youtube.com/@EricTheYoungGawd/featured\nEric on IG: https://www.instagram.com/youaintpackinmeat/\n\n===================================\n\nPatreon: https://www.patreon.com/theneedledrop\n\nFollow your melon:\nTwitter: https://twitter.com/theneedledrop\nInstagram: https://www.instagram.com/afantano\nTwitch: https://www.twitch.tv/theneedledrop\nTikTok: https://www.tiktok.com/@theneedletok",
+        "id": 3715252,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=U_ClYeuA0S0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 649,
+        "source_url": "https://youtube.com/channel/UCnxQ8o9RpqxGF2oLHcCn9VQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U_ClYeuA0S0/hqdefault.jpg",
+        "title": "Was Kendrick Right?",
+        "vote": 0
+    }
+]

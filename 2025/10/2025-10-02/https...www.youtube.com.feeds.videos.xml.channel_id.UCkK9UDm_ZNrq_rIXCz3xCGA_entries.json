@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T16:03:50.160143+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T14:20:27+00:00",
+        "description": "Using the term \"Master\" in our software projects is racist, right? I guess that makes Linux, and most of the \"Woke\" Open Source Projects super, duper racist.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3718907,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5X2Iqq2IXtw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5X2Iqq2IXtw/hqdefault.jpg",
+        "title": "Linux, Rust, & NixOS Use Master Branch, Support Human Slavery",
+        "vote": 0
+    }
+]

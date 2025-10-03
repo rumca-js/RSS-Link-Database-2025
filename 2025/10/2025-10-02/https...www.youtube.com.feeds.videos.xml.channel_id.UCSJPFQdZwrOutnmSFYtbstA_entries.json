@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T15:06:34.699225+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T13:11:31+00:00",
+        "description": "Is Star Wars Starfighter just a backdoor Rey movie? The latest rumours definitely suggest so. Meanwhile, Emma Watson just got completely destroyed by none other than JK Rowling, and Netflix mass cancellations are biting hard as the backlash against controversial programming grows. Join me, MauLer, Disparu, Chris Gore and Stuttering Craig for Open Bar episode 159.\n\nSubscribe to Disparu: https://www.youtube.com/@disparutoo\nSubscribe to Chris Gore: https://www.youtube.com/@FilmThreat\nSubscribe to Stuttering Craig: https://www.youtube.com/@SideScrollersPodcast",
+        "id": 3717938,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8jGkQIMZHLo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8jGkQIMZHLo/hqdefault.jpg",
+        "title": "Open Bar #159 - Rey's Starfighter, Emma Watson Blasted, Netflix Collapse?",
+        "vote": 0
+    }
+]

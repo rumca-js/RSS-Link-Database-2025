@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/arbee37",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T16:31:30.205363+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T14:31:45+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>We&#39;ve made some pretty big improvements since 0.281 already. <a href=\"/u/galibert\">/u/galibert</a> figured out how the 12 bit samples were packed into 8 bits, which cleaned up the sound significantly, and contributed a new low pass filter with more likely correct characteristics. I fixed issues with the filter envelopes and the chip&#39;s mixing to eliminate some clipping and distortion, and I also figured out the odd way the loop parameters are encoded, which makes looping samples loop properly now. Most recently, I figured out an emulation scheduling problem causing Xtreme Rally (Off Beat Racer in some regions) to lose up to 2/3rds of the commands sent to the sound CPU. This was causing stuck and missing sounds, the engine sound not following the RPM, and other weird issues.</p> <p>So all 7 games for the system now have good sound. And to make a common question explicit: yes, the stuck sounds in Samurai Shodown 64 and SS64 2 are fixed.</p> <p>Ha",
+        "id": 3719266,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1nw5evd/mame_hyper_neo_geo_64_sound_update",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MAME Hyper Neo Geo 64 sound update",
+        "vote": 0
+    }
+]

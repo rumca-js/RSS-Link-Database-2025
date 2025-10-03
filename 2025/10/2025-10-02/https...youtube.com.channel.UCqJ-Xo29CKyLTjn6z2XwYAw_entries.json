@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Game Maker's Toolkit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-02T16:33:35.895978+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-02T16:00:52+00:00",
+        "description": "\ud83d\udd34 Get my premium monthly newsletter - https://gamemakerstoolkit.com/digest/ \ud83d\udd34\n\nLet's talk about video game destruction, and break down the techniques used to dent cars, break boxes, tear through scenery, and blow up buildings.\n\n=== Sources and Resources ===\n\n- Sources\n\n[1] Massive D: Stranglehold's Breakable Object System | GDC Vault\nhttps://gdcvault.com/play/462/Massive-D-STRANGLEHOLD-s-Breakable\n\n[2] Destructible Environments in Control: Lessons in Procedural Destruction | GDC Vault\nhttps://gdcvault.com/play/1030643/Destructible-Environments-in-Control-Lessons\n\n[3] Advanced Physics in Astro Bot | GDC Vault (Paid Access)\nhttps://gdcvault.com/play/1035282/Advanced-Physics-in-ASTRO-BOT\n\n[4] The Art of Destruction in Rainbow Six: Siege | GDC Vault\nhttps://gdcvault.com/play/1023307/The-Art-of-Destruction-in\n\n[5] How to Dissect an Exploding Spaceship in Hardspace: Shipbreaker | GDC Vault\nhttps://gdcvault.com/play/1026837/How-to-Dissect-an-Exploding\n\n[6] How Red Faction's Geomods Work | Jo",
+        "id": 3719309,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JZ9GRFD-mSc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 799,
+        "source_url": "https://youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JZ9GRFD-mSc/hqdefault.jpg",
+        "title": "How Games Do Destruction",
+        "vote": 0
+    }
+]
