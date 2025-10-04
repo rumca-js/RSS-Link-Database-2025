@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lost in Time",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T17:18:26.300987+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T16:00:40+00:00",
+        "description": "Prints: https://lostintime.io/pages/cold-war\n\nIn this video we go through 3 times we came dangerously close to nuclear war.\n\nTimestamps:\n00:00 Intro\n01:37 How A Bear Almost Started World War 3\n03:30 The Man Who Saved The World\n08:00 The Nuclear Submarine Outside The US Coast",
+        "id": 3728162,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KvV6sQz8f0M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 435,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCac6m8K3OGHUT4itHwpCAmw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KvV6sQz8f0M/hqdefault.jpg",
+        "title": "How A Bear Almost Started WW3",
+        "vote": 0
+    }
+]

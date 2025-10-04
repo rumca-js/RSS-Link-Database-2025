@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Epic Games",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T17:22:29.296364+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T16:30:06+00:00",
+        "description": "Your team. Your season. Your Rematch.\n\nStep onto the pitch like never before in Rematch Season 1. Kicking off September 23, this season brings crossplay, competitive 3v3 ranked play, and a Season Pass packed with cosmetics, arenas, and more. \n\nAvailable now on the Epic Games Store! Get it 20% off until October 7. https://epic.gm/rematch\n\n\nHIGHLIGHTS\nCrossplay \u2013 no limits, no barriers. Play with friends on any platform, anytime. Your squad all in one place.\n3v3 Ranked \u2013  bring on your two best mates and climb the ladder with your team, prove your skill, and earn bragging rights.\nSeason Pass \u2013 take your game somewhere new. Unlock the frozen cliffs of Iceberg and the molten chaos of Volcano, plus fresh cosmetics to flex your style.\nYour season starts now. See you on the pitch. \n\u26bd",
+        "id": 3728199,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=viSk471y0A4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 722,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5Qk8mWBwtMyEj7iQQYRk1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/viSk471y0A4/hqdefault.jpg",
+        "title": "Rematch | Season 1 Trailer",
+        "vote": 0
+    }
+]

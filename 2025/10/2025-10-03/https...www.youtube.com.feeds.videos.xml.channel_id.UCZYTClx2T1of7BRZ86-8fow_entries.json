@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T16:05:16.173705+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T15:00:02+00:00",
+        "description": "When particle physicist John Huth was briefly lost at sea, he started to wonder how the people around the world who navigate vast oceans figured their way around. What started as an afternoon activity gone awry led him to a years-long research journey, meeting many Pacific Islanders, expert navigators, and other researchers, hoping to crack the puzzle of open ocean navigation. And the key to all of it lies in these ancient stick charts, a non-writing form of communication passed down for generations. Here's how these charts and the observations of expert navigators are teaching physics researchers all about the motion of the ocean. \n\nHosted by: Madelyn Leembruggen (she/her)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporte",
+        "id": 3727535,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=0cc35RyshdE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0cc35RyshdE/hqdefault.jpg",
+        "title": "These Ancient Stick Maps are Teaching Us Physics",
+        "vote": 0
+    }
+]

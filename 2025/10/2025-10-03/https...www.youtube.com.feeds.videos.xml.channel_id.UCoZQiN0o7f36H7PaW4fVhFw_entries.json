@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T10:32:45.316861+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T09:40:00+00:00",
+        "description": "The AYN Thor is here, let's take a look.\n\nBuy one here: https://tinyurl.com/ThorRGC\n\nEmulators tested:\nMelonDS fork: https://github.com/SapphireRhodonite/melonDS-android/releases\nAzahar fork: https://github.com/SapphireRhodonite/azahar/releases\nCemu fork: https://github.com/SapphireRhodonite/Cemu/releases\n\nAndroid handheld starter guide: https://youtu.be/I4mqgcDYZFo\n\nThis was a review unit sent to me by the manufacturer.  All opinions are my own, they did not see this review ahead of time, and no money was exchanged in any way.\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nStickers and magnets: https://www.ebay.com/str/retrogamecorpscharitystore\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n01:31 specs and pricing\n05:13 unboxing and impressions\n06:29 size and weight\n08:08 overall design\n09:46 control",
+        "id": 3725023,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=B2sUrakqWt0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B2sUrakqWt0/hqdefault.jpg",
+        "title": "AYN Thor Impressions: No Dealbreakers",
+        "vote": 0
+    }
+]

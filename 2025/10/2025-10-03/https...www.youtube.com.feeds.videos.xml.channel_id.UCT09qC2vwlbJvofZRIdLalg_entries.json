@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Flick Connection",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T20:54:38.020476+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T20:39:43+00:00",
+        "description": "Get weekly movie recommendations in your inbox: https://www.darrenvandam.com/emails\n\nD.V.D.'s T-shirt Designs: https://www.darrenvandam.com/shop\n________________________________________\n\nI'm your host, Darren Van Dam!\n\nTired of looking for good movies to watch on Netflix, Amazon Prime or other streaming services? Every week I recommend a handful of the best movies on Netflix, Amazon, HBO etc. so my subscribers never run out of good movies to watch on streaming. Spending 10 minutes watching one of my videos could save you hours of searching, hours that you could otherwise spend watching good movies on streaming that you otherwise might not have ever watched or even known about.\n\nThanks for watching!\n\n0:00 Intro\n0:27 Play Dirty\n2:17 Bodies Bodies Bodies\n3:58 Halloween Picks\n6:15 I Like Me\n6:55 Dracula Untold\n7:46 The Companion\n9:08 007/U.N.C.L.E\n10:09 The Woman in the Yard\n11:22 Also in October\n13:34 List Recap",
+        "id": 3729801,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ucYERcQakUM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 730,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT09qC2vwlbJvofZRIdLalg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ucYERcQakUM/hqdefault.jpg",
+        "title": "Absolute Best NEW Movies on Prime Video",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T16:08:57.008525+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T15:37:38+00:00",
+        "description": "<p>29 wrze\u015bnia 2025 r. Broadcom poinformowa\u0142 o luce bezpiecze\u0144stwa CVE-2025-41244 w oprogramowaniu VMware Tools i VMware Aria, umo\u017cliwiaj\u0105cej lokaln\u0105 eskalacj\u0119 uprawnie\u0144. Zgodnie z opini\u0105 badaczy z NVISO, luka by\u0142a aktywnie wykorzystywana jako zero-day od co najmniej pa\u017adziernika 2024 roku. Za atakami sta\u0142a grupa UNC5174 uto\u017csamiana przez analityk\u00f3w z chi\u0144skim aparatem...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/podniesienie-uprawnien-w-vmware-grupa-unc5174-powiazana-z-chinami-wykorzystuje-luke-cve-2025-41244/\">Podniesienie uprawnie\u0144 w VMware &#8211; grupa UNC5174 powi\u0105zana z Chinami wykorzystuje luk\u0119 CVE-2025-41244</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3727555,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/podniesienie-uprawnien-w-vmware-grupa-unc5174-powiazana-z-chinami-wykorzystuje-luke-cve-2025-41244",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podniesienie uprawnie\u0144 w VMware \u2013 grupa UNC5174 powi\u0105zana z Chinami wykorzystuje luk\u0119 CVE-2025-41244",
+        "vote": 0
+    }
+]

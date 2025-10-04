@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T13:25:44.104097+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T13:25:43+00:00",
+        "description": "Starych ubra\u0144, but\u00f3w czy po\u015bcieli nie mo\u017cna ju\u017c wrzuca\u0107 do odpad\u00f3w zmieszanych. Dlatego coraz wi\u0119cej gmin organizuje specjalne zbi\u00f3rki albo buduje Punkty Selektywnej Zbi\u00f3rki Odpad\u00f3w Komunalnych, gdzie mo\u017cna odda\u0107 niechciane tekstylia.",
+        "id": 3726180,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/uslugi-komunalne/art43124151-przyjada-po-zuzyte-ubrania-nalezy-tylko-zamowic-specjalny-transport",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Przyjad\u0105 po zu\u017cyte ubrania. Nale\u017cy tylko zam\u00f3wi\u0107 specjalny transport",
+        "vote": 0
+    }
+]

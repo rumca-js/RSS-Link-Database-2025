@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anil Ananthaswamy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T14:54:20.362636+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T13:30:31+00:00",
+        "description": "The V-JEPA system uses ordinary videos to understand the physics of the real world.             <p>The post <a href=\"https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003/\" target=\"_blank\">How One AI Model Creates a Physical Intuition of Its Environment</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3726756,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-one-ai-model-creates-a-physical-intuition-of-its-environment-20251003",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/11/AIIntuitsPhysics-crKristinaArmitage-Default.webp",
+        "title": "How One AI Model Creates a Physical Intuition of Its Environment",
+        "vote": 0
+    }
+]

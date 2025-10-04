@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T12:00:38.499193+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T10:00:28+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/Bdbxtb\n\nWhat\u2019s new in AI models? In episode 75 of Mixture of Experts, host Tim Hwang is joined by Kaoutar El Maghraoui, Kate Soule and Kush Varshney to debrief a frenzy of model drops this week. IBM debuts Granite 4.0 hyper-efficient hybrid models, Claude Sonnet 4.5 delivers longer run times and sharper reasoning and Sora 2 takes vibe coding to the next level with vibe video production. Then, we dig into OpenAI\u2019s new feature, Buy in ChatGPT. Finally, it\u2019s Cybersecurity Awareness Month, and we are joined by special guest, Matt Kosinski, host of the Security Intelligence podcast\u2014can you trust your AI? Tune in to Mixture of Experts to find out. \n\n00:00 \u2013 Intro \n1:17 \u2013 Meta Ads assistant, DoorDash Dot, Microsoft vibe working and Tilly AI Actor \n2:23 \u2013 Granite 4.0 \n10:21 \u2013 Claude 4.5 \n17:57 \u2013 Sora 2 \n29:15 \u2013 Buy in ChatGPT \n37: 00 \u2013 Introducing Security Intelligence \n\nThe opinions expressed in this podcast are s",
+        "id": 3725591,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LAXAmXHNGeM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LAXAmXHNGeM/hqdefault.jpg",
+        "title": "This week in AI models: Granite 4.0, Claude 4.5, Sora 2",
+        "vote": 0
+    }
+]

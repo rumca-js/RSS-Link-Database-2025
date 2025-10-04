@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T19:25:47.503055+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T19:25:46+00:00",
+        "description": "Twierdza Srebrna G\u00f3ra zosta\u0142a zdobywc\u0105 tegorocznego Z\u0142otego Certyfikatu Polskiej Organizacji Turystycznej. Jak przyznaj\u0105 mened\u017cerki tego obiektu, na pocz\u0105tku widzia\u0142y wszystko przez r\u00f3\u017cowe okulary, ale podniesienie zabytku do rangi atrakcji turystycznej kosztowa\u0142o je wiele \"potu, \u0142ez i krwi\".",
+        "id": 3729147,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art43125631-twierdza-srebrna-gora-ze-zlotym-certyfikatem-pot-rozowe-okulary-ale-i-pot-krew-i-lzy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Twierdza Srebrna G\u00f3ra ze z\u0142otym certyfikatem POT. \"R\u00f3\u017cowe okulary,ale i pot, krew i \u0142zy\"",
+        "vote": 0
+    }
+]

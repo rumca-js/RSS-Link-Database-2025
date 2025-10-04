@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T19:19:43.307894+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T18:27:55+00:00",
+        "description": "Reminder: Debian allows convicted child rapists to be Debian team members. Also, Debian left X.com, citing \"Gender\"& \"Diversity\", and offers internships... but not to Straight White Men.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3729103,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fb16jNGrK0E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fb16jNGrK0E/hqdefault.jpg",
+        "title": "Debian: XLibre is Not Allowed, Devs Are Nazis",
+        "vote": 0
+    }
+]

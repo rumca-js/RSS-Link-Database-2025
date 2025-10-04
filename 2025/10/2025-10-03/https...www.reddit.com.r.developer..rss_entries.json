@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/justlearningthingss",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T06:44:52.181927+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T04:21:06+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>From past 4 months I am learning React + FastAPI + Postgresql and also made few AI based web applications with <a href=\"http://groq.com\">groq.com</a> free api keys.</p> <p>Still there is a lot to learn and I am still under experienced. I started learning coding so that i could make my own SaaS or some cool projects myself but still struggling a lot even after investing time. This is my <a href=\"http://zohair.vercel.app\">portfolio</a>.</p> <p>The projects i made took me a lot of time to make. What should i do next? Start freelancing to get some experience? Continue my progress towards SaaS? Try getting a job(lolll).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/justlearningthingss\"> /u/justlearningthingss </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1nwph2d/teenager_developer_here_need_advice/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/developer/comments/1nwph2d/tee",
+        "id": 3723213,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1nwph2d/teenager_developer_here_need_advice",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Teenager Developer here - Need advice",
+        "vote": 0
+    }
+]

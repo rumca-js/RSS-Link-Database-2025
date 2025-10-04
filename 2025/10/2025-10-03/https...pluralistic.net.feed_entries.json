@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T17:40:02.541595+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T17:24:37+00:00",
+        "description": "Today's links When your ISP pays you: The New Deal keeps on giving. Hey look at this: Delights to delectate. Object permanence: Internet Archive scans books; Europe's Broadcast Flag; Three middle-finger salute; The enshittification of Prime. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. When your ISP pays you (permalink) Holy shit I love my internet service provider said no one ever! Except, some people do love their ISPs. Across American more than 400 community-owned fiber networks, serving more than 700 communities, bring joy and satisfaction to their customers: https://communitynets.org/content/community-network-map Many of these are in blood-red states, the kind of places where it's impossible to find a readable copy of Atlas Shrugged because every page of every copy is stuck together. Nevertheless, these publicly owne",
+        "id": 3728371,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/10/03/we-dont-care-we-dont-have-to",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/03Oct2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: When your ISP pays you (03 Oct 2025)",
+        "vote": 0
+    }
+]

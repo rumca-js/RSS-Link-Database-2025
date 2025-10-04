@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T15:16:44.817770+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T15:01:28+00:00",
+        "description": "What if ending food insecurity meant ditching charity models that haven\u2019t been updated since the 1960s? Dion Dawson, TED Fellow and founder of Dion\u2019s Chicago Dream, shares how he turned a spontaneous idea for giving back to his community into a thriving social enterprise, delivering top-quality produce to thousands of Chicago households every week and reaching a million dollars in revenue in just 18 months. He\u2019s proving that it\u2019s possible to replace the outdated food pantry model with a data-driven system that delivers high-quality food \u2014 so your zip code doesn\u2019t decide how long you live. (Recorded at TED Fellows Films 2025 on April 7, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.",
+        "id": 3726975,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=n--KABNiV4g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n--KABNiV4g/hqdefault.jpg",
+        "title": "Your Zip Code Shouldn\u2019t Determine Your Lifespan | Dion Dawson | TED",
+        "vote": 0
+    }
+]

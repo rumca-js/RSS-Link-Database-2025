@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcus E. Burchers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T12:57:22.236163+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T12:55:34+00:00",
+        "description": "<img width=\"640\" height=\"640\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Masters-of-the-Universe-Battleground-1024x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Masters of the Universe: Battleground\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Masters-of-the-Universe-Battleground-1024x1024.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Masters-of-the-Universe-Battleground-300x300.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Masters-of-the-Universe-Battleground-150x150.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Masters-of-the-Universe-Battleground-768x768.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Masters-of-the-Universe-Battleground-640x640.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Mas",
+        "id": 3725991,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/masters-of-the-universe-battleground-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/09/Masters-of-the-Universe-Battleground-1024x1024.jpg",
+        "title": "Masters of the Universe: Battleground Review",
+        "vote": 0
+    }
+]

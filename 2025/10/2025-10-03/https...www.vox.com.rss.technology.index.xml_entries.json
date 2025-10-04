@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bryan Walsh",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T14:02:31.680848+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T08:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/SoraArt_Vox5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Really, it\u2019s almost unfair to hold a tech company to its mission statement. From <a href=\"https://www.vox.com/recode/2021/2/16/22280502/google-dont-be-evil-land-of-the-giants-podcast\">Google\u2019s</a> \u201cDon\u2019t Be Evil\u201d to <a href=\"https://www.wework.com/newsroom/wecompany\">WeWork\u2019s</a> \u201cElevate the World\u2019s Consciousness,\u201d mission statements are usually written in a company\u2019s adolescence, at that awkward moment when their dreams stretch to the horizon, the venture capitalists are all smiles, and no one has heard of the term \u201cfiduciary responsibility.\u201d It\u2019s like judging someone based on the sentiments expressed in the back of their high school yearbook.</p>\n\n<p class=\"has-text-align-none\">But OpenA",
+        "id": 3726433,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/463596/openai-sora2-reels-videos-tiktok-chatgpt-deepfakes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/SoraArt_Vox5.png?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The age of endless AI slop is here",
+        "vote": 0
+    }
+]

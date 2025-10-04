@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T15:24:58.803156+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T13:01:42+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/oJnwSVHAJsc\" width=\"480\" alt=\"thumbnail\" title=\"'uniq' - print or omit repeated lines - Video Man Pages\" /></p>The 'uniq' command is used to print or omit repeated lines of text.<br /><br />- Display each line once (duplicate lines printed only once):<br />  sort path/to/file | uniq<br /><br />- Display only unique lines (duplicate lines not printed at all):<br />  sort path/to/file | uniq -u<br /><br />- Display only duplicate lines (duplicate lines printed only once):<br />  sort path/to/file | uniq -d<br /><br />- Display only duplicate line and count number of occurrences of each line:<br />  sort path/to/file | uniq -cd<br /><br />- Compare no more than 5 characters in lines:<br />  sort path/to/file | uniq -w 5<br /><br />- Avoid comparing the first 5 characters in lines:<br />  sort path/to/file | uniq -s 5<br /><br />REFERENCED:<br />\u25ba https://gitlab.com/dwt1/vidman<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.pa",
+        "id": 3727095,
+        "language": "en",
+        "link": "https://odysee.com/%27uniq%27-print-or-omit-repeated-lines:ee6ec30fa975e2e95d8b68f7f4ef5a702dbeea14",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/oJnwSVHAJsc",
+        "title": "'uniq' - print or omit repeated lines - Video Man Pages",
+        "vote": 0
+    }
+]

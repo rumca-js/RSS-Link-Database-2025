@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-03T22:24:20.923445+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-03T21:17:06+00:00",
+        "description": "In a recent Pew survey, over half of Americans now say that if fewer people have kids, it would negatively impact the US. This includes not just Republicans, but also more Democrats, Democratic-aligned independents, and women, since 2024.\n\nAnd yet, most Americans don\u2019t think the government should play a role in encouraging people to have more kids. However, among the 44% who do, they believe the government should provide more tax credits for parents and require businesses to offer paid leave.\n\nSenior policy correspondent Rachel Booth looks at the new data and its relationship to the pronatalism movement. \n\nRead more:\n- The movement desperately trying to get people to have more babies (Vox):\nhttps://www.vox.com/policy/363543/pronatalism-vance-birth-rates-population-decline-fertility\n\n- Growing share of Americans say fewer people having kids would negatively impact the U.S. (Pew)\nhttps://www.pewresearch.org/short-reads/2025/09/30/growing-share-of-americans-say-fewer-people-having-kids-w",
+        "id": 3730358,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/QkPJzp9NROY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 779,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QkPJzp9NROY/hqdefault.jpg",
+        "title": "More Americans see the declining birth rate as a problem #shorts",
+        "vote": 0
+    }
+]
