@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Don Hopper",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T19:42:31.567605+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T12:01:33+00:00",
+        "description": "Playing a 26-year-old game like Star Wars: X-Wing Alliance in full VR with motion shows the power of mods.",
+        "id": 3735897,
+        "language": "en",
+        "link": "https://www.uploadvr.com/star-wars-x-wing-alliance-upgrade-mod-revitalizes-a-classic-in-full-vr",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/10/2025-06-20_XWAU2025--4-.jpg",
+        "title": "Star Wars: X-Wing Alliance Upgrade Mod Revitalizes A Classic In Full VR",
+        "vote": 0
+    }
+]

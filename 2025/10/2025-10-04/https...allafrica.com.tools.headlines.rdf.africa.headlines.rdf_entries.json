@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T18:11:26.864942+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T17:47:59+00:00",
+        "description": "[InfoWire] Over the years, African film and television have undergone a significant trend: filmmakers are shifting away from conventional distribution avenues and streaming platforms. They are increasingly embracing YouTube as a primary distribution channel. As streaming platforms reduce their investments in African originals, and infrastructure remains limited, many filmmakers are taking distribution into their own hands by going direct to viewers.",
+        "id": 3735438,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202510040107.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: How Creators Pivoted to YouTube And What It Means for African Film and TV",
+        "vote": 0
+    }
+]

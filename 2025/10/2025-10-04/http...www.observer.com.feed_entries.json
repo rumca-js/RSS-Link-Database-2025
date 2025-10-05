@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leah von Essen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T13:08:55.596924+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T13:00:23+00:00",
+        "description": "The genre explores some of our most intriguing questions as humans: what our future might look like, and how our history influences our present and future.",
+        "id": 3733788,
+        "language": "en",
+        "link": "https://observer.com/2025/10/best-books-about-time-travel",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "The Best Books About Time Travel, From Classics to Modern Favorites",
+        "vote": 0
+    }
+]

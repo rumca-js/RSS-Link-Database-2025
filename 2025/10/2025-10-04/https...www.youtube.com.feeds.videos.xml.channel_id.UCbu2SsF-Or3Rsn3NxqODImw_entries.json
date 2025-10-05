@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T16:56:37.452582+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T16:00:51+00:00",
+        "description": "Its the first episode of Kurt & Lucy Gotcha Covered, a new GameSpot show where Kurt Indovina and Lucy James tackle the biggest gaming news, debates, and challenges\u2026 with a twist. \n\nEmail your letters to gotchacovered@gamespot.com\n\nCheck out the audio version:\nSpotify: https://open.spotify.com/show/4S5mfmLES0ubhj5xcDZJni\nApple Podcasts: https://podcasts.apple.com/us/podcast/kurt-lucy-gotcha-covered/id1843230752\nRSS Feed: https://www.spreaker.com/show/6752166/episodes/feed\n\nTimestamps: \n00:00 - Intro\n00:37 - Xbox Game Pass Price Increase\n06:07 - $100 Steam Sale Challenge\n09:19 - How Do You Save EA?\n15:13 - Lucy's Dream Lord of the Rings Game\n20:17 - Was Losing Bully 2 Worth it?\n21:42 - Rockstar's The Warriors game rules\n25:19 - Can We Saved or Destroy Halo?\n29:41 - Console Generations\n36:16 - Let's Play Sonic Racing Crossworlds\n40:14 - Outro",
+        "id": 3735008,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=QVPObAwaeFQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QVPObAwaeFQ/hqdefault.jpg",
+        "title": "Heck of a Week to Start a Gaming News Show | Kurt & Lucy Gotcha Covered",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/AnoyRC",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T07:59:49.124880+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T07:04:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>tldr;</p> <p>One month ago, I embarked on a personal project to create a to-do app. I was tired of paying subscriptions for various apps like to-do, timer, and habit tracker apps. I wanted a single app that could handle all my tasks. So, I set out to build PrioSpace with a few key objectives in mind: it would be <strong>free forever</strong>, have <strong>no hidden paywalls</strong>, be <strong>open-source</strong>, and <strong>fully private</strong>.</p> <p>Today, this project has surpassed 450 stars on GitHub. Consequently, I have developed a stable version and released it on the App Store, incorporating additional themes, automatic startup for Macs, and significant bug fixes.</p> <p>I\u2019m delighted to hear your feedback and suggestions. Your contributions on GitHub are greatly appreciated.</p> <p>Try it out: <a href=\"https://prio.space/home\">https://prio.space/home</a><br/> Upvote on Product Hunt: <a href=\"https://www.producthunt.com/products/priospa",
+        "id": 3732429,
+        "language": "en",
+        "link": "https://www.reddit.com/r/InternetIsBeautiful/comments/1nxn7f8/i_built_my_own_productivity_app_cause_i_was_tired",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 539,
+        "source_url": "https://www.reddit.com/r/InternetIsBeautiful/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built my own productivity app 'cause I was tired of switching apps and paying individual subscriptions.",
+        "vote": 0
+    }
+]

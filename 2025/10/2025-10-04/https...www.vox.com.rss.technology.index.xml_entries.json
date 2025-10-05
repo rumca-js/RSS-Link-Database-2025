@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kyndall Cunningham",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T11:23:45.531059+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Strikers picketing outside of FOX Studios and holding an \u201cAI has no soul\u201d sign during the Hollywood writers strike on May 2, 2023 in Los Angeles. \" data-caption=\"Strikers picketing outside of FOX Studios during the Hollywood writers strike on May 2, 2023, in Los Angeles. | David McNew/Getty Images\" data-portal-copyright=\"David McNew/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-1252545292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tStrikers picketing outside of FOX Studios during the Hollywood writers strike on May 2, 2023, in Los Angeles. | David McNew/Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Could a badly named, synthetic starlet really be coming to a theater near you?&nbsp;</p>\n\n<p class=\"has-text-align-none\">Tilly Norwood hopes so. No, that\u2019s not the name of a Hollywood executive or an indie director. It\u2019s an AI-generated avatar tha",
+        "id": 3733319,
+        "language": "",
+        "link": "https://www.vox.com/culture/463825/tilly-norwood-hollywood-ai-generated-actress-sag-meta-openai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-1252545292.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The AI-generated actress that has Hollywood panicking",
+        "vote": 0
+    }
+]

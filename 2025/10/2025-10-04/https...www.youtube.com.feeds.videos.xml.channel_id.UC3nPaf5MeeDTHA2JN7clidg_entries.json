@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T19:45:32.292371+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T18:28:39+00:00",
+        "description": "Oblivion Remastered is the second-best selling game of 2025. Most buyers never played it before. 85% of people playing remakes are first-timers. Publishers cracked the code: there are more gamers now, and they don't care about your nostalgia.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 - We've All Noticed It\n00:51 - The State Of Remakes\n02:10 - The Survey\n03:39 - The Dangers\n06:26 - The Business Case\n10:07 - Paying For The Future",
+        "id": 3735903,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mWfSYZP0U5o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mWfSYZP0U5o/hqdefault.jpg",
+        "title": "Remakes Are Beating New Games, And It's NOT Nostalgia",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T10:33:31.773619+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T10:24:13+00:00",
+        "description": "Czy dwa g\u0142upki znowu wybior\u0105 normick\u0105\u00a0gr\u0119, obra\u017c\u0105\u00a0Polsk\u0119, rozw\u015bciecz\u0105 t\u0142umy? Pewnie tak. Oto wybory najlepszej gry 2002 roku. Oficjalne i kanoniczne.\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\nDawid \u201espikain\" Bojarski (http://dawid.omg.lol)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 3733087,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=05vaPuYN_HQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/05vaPuYN_HQ/hqdefault.jpg",
+        "title": "NAJLEPSZA GRA 2002 ROKU",
+        "vote": 0
+    }
+]

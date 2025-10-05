@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T09:36:28.500851+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T09:01:54+00:00",
+        "description": "Head to https://squarespace.com/thelinuxexperiment to save 10% off your first purchase of a website or domain using code thelinuxexperiment\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:44 Sponsor: Squarespace\n02:02 Google's Android change could mean the end of F Droid\n04:52 Red Hat Gitlab breached by hackers\n07:14 Linux kernel 6.17 is out\n09:43 OpenSUSE Leap 16 released\n12:00 Plasma 6.5 beta released\n13:44 Artix ditches GNOME\n15:32 Nvidia working with Red H",
+        "id": 3732818,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=iMqpm2Ahmt0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iMqpm2Ahmt0/hqdefault.jpg",
+        "title": "The end of F Droid? Red Hat hacked, Leap 16 & more Linux Weekly News",
+        "vote": 0
+    }
+]

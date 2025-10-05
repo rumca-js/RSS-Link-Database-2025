@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T18:14:51.613751+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T16:30:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/LpZiAXIVfX0\" width=\"480\" alt=\"thumbnail\" title=\"Beta Software Has Beta Problems\" /></p>Beta software has beta problems and Ubuntu 25.10 with the rust rewrite of the core utils project called uutils is going to run into those problems, it's going to be a rough release but ultimately it is needed to bring this project to a good state.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Core Utils Issue 1: https://github.com/uutils/coreutils/issues/8573<br />Core Utils Issue 2: https://github.com/uutils/coreutils/issues/8583<br />Tracking Change: https://github.com/orgs/uutils/projects/1<br />Core Utils Docs: https://uutils.github.io/coreutils/docs/extensions.html<br />Makeself: https://makes",
+        "id": 3735450,
+        "language": "en",
+        "link": "https://odysee.com/beta-software-has-beta-problems:94ac4be83e80e9a75da3fbed691a4c50373d2f47",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/LpZiAXIVfX0",
+        "title": "Beta Software Has Beta Problems",
+        "vote": 0
+    }
+]

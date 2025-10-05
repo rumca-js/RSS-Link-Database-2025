@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T11:05:18.826177+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T11:01:34+00:00",
+        "description": "Schluter DITRA-HEAT thermostat installation tips\u2026I connect the ground braid to the Romex ground with a wire nut. The 12/2 Romex wires go into the Line terminals, hot goes into L1 and neutral into L2N. The heat cable wires go into the Load terminals and the sensor wires feed to the C and D slots. Always follow your local electrical code and work with the breaker off!! Many thanks to Schluter for sponsoring this tutorial \ud83d\udd25#heatedfloor #schlutersystems #bathroomremodel #homerepairtutor #brandpartner",
+        "id": 3733228,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/qZD8LBZgMb0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qZD8LBZgMb0/hqdefault.jpg",
+        "title": "Schluter DITRA HEAT Thermostat Installation Tips - #shorts #schlutersystems  #brandpartner",
+        "vote": 0
+    }
+]

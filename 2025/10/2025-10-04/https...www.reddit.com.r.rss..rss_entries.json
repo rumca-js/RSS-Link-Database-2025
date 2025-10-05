@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Lazy_Ease_2611",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T14:38:46.648733+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T13:41:19+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve never been a classic RSS power user. Back in the day I used Google Reader (RIP), then moved to fully algorithmic news apps, and for a while I was getting most of my \u201cnews\u201d from X and YouTube feeds. It always felt like I was stuck inside a filter bubble.</p> <p>By chance, a failed side project left me with a bunch of web-crawling tools. I repurposed them into a topic-subscription news app. Instead of following publishers or feeds, you subscribe to topics\u2014anything from a specific company like <em>OpenAI</em> to broader things like <em>natural disasters in Oregon</em>. The app filters for high-signal, strongly related items and sends you push notifications for the important stuff.</p> <p>It\u2019s still super bare-bones (just me and a few friends have tested it) and stability isn\u2019t great yet. But a friend suggested I invite more people to try it.</p> <p>If you\u2019re interested, please join the Discord Server <a href=\"https://discord.gg/nXhPcnZgws\">https://d",
+        "id": 3734216,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1nxub8v/i_built_a_topicbased_news_app_not_rss_to_break",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built a topic-based news app (not RSS) to break the filter bubble\u2014looking for early testers",
+        "vote": 0
+    }
+]

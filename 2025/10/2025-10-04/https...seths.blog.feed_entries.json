@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T09:30:41.472091+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T09:03:00+00:00",
+        "description": "&#8220;I&#8217;m applying to work at Disney, do you know anyone who can give me a reference&#8230;&#8221; &#8220;My two partners and I are planning a new company, can we ask you for feedback on our business plan before we go out to raise a seed round?&#8221; &#8220;We&#8217;re moving to Centerville, which neighborhood should we consider?&#8221; &#8220;Which [&#8230;]",
+        "id": 3732790,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/the-questions-before-the-questions",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The questions before the questions",
+        "vote": 0
+    }
+]

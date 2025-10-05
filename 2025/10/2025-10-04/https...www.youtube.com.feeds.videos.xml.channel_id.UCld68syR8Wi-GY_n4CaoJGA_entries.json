@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-04T17:01:17.347244+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-04T16:30:08+00:00",
+        "description": "Beta software has beta problems and Ubuntu 25.10 with the rust rewrite of the core utils project called uutils is going to run into those problems, it's going to be a rough release but ultimately it is needed to bring this project to a good state.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nCore Utils Issue 1: https://github.com/uutils/coreutils/issues/8573\nCore Utils Issue 2: https://github.com/uutils/coreutils/issues/8583\nTracking Change: https://github.com/orgs/uutils/projects/1\nCore Utils Docs: https://uutils.github.io/coreutils/docs/extensions.html\nMakeself: https://makeself.io/\nLaunchpad Report: https://bugs.launchpad.net/ubuntu/+source/makeself/+bug/2125535\nVirtual Box Report: https://github.com/VirtualBox/virtualbox/issues/226\nMake Self Report: https://githu",
+        "id": 3735033,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LpZiAXIVfX0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LpZiAXIVfX0/hqdefault.jpg",
+        "title": "Beta Software Has Beta Problems",
+        "vote": 0
+    }
+]
