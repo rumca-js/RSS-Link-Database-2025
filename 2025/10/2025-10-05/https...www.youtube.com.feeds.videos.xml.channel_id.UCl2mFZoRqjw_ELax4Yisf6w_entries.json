@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T08:49:55.227680+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T07:42:24+00:00",
+        "description": "old style sennheiser system(g4 though, one generation ahead of mine) - https://amzn.to/4q0gQ24\ndji mic 2 https://amzn.to/48blyn9\ndji mic 2 sony camera adapter https://amzn.to/3KHw63z\ndpa 4066(close to my 4065): https://amzn.to/4nLbwxV\nzoom f3 recorder: https://amzn.to/3VQhSzJ\n\nbuy this stuff used, not new. \n\nVideos by the great Curtis Judd:\nhttps://youtu.be/vj9LGlLfbkw\nhttps://www.youtube.com/watch?v=THEBOa0UUJo\nhttps://www.youtube.com/watch?v=3tFZfhUyihQ\nhttps://www.youtube.com/watch?v=fE7Nbc8Uz9A\nhttps://www.youtube.com/watch?v=cck707uAUqQ\nhttps://youtu.be/w433J-C97Ec",
+        "id": 3738508,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=17QsYwb0MYg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/17QsYwb0MYg/hqdefault.jpg",
+        "title": "DJi Mic 2 vs Saramonic Ultra Mic. vs Zoom F3 vs. Sennheiser EW100g3 wireless",
+        "vote": 0
+    }
+]

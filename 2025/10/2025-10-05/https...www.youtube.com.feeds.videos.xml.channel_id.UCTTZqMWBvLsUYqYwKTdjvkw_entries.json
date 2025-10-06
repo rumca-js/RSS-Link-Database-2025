@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T16:40:03.421497+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T16:01:16+00:00",
+        "description": "\u274c\u00a0CERT Polska prowadzi list\u0119 niebezpiecznych domen, aby w \u0142atwy spos\u00f3b mo\u017cna by\u0142o je blokowa\u0107. U\u017cywa jej wielu rodzimych operator\u00f3w, wi\u0119c spora cz\u0119\u015b\u0107\u00a0polskiego internetu chroniona jest nawet bez wiedzy u\u017cytkownik\u00f3w. Naprawd\u0119 szkoda by\u0142oby, gdyby kto\u015b\u00a0chcia\u0142 to popsu\u0107, prawda? Na przyk\u0142ad politycy czy lobby\u015bci?\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udc54\u00a0Skandal z wrzutk\u0105 lobbyst\u00f3w na list\u0119 ostrze\u017ce\u0144 CERT Polska\nhttps://zaufanatrzeciastrona.pl/post/skandal-z-wrzutka-lobbystow-na-liste-ostrzezen-cert-polska/\n\n\ud83d\udc26\u00a0Zaufana Trzecia Strona @ Twixxer\nhttps://x.com/Zaufana3Strona/status/1971463101968212053\n\n\ud83e\uddfb\u00a0Ochrona przed nielegalnymi tre\u015bciami w internecie b\u0119dzie skuteczniejsza - wa\u017cny projekt ustawy przyj\u0119ty przez Rad\u0119 Ministr\u00f3w\nhttps://www.gov.pl/web/cyfryzacja/ochrona-przed-nielegalnymi-tresciami-w-internecie-bedzie-skuteczniejsza--wazny-projekt-ustawy-przyjety-przez-rade-ministrow\n\n\ud83d\udc68\u200d\ud83d\udcbc\u00a0Post Ministerstwa Cyfryzacji @ LinkedIn\nhttps://www.linkedin.com/posts/ministerstwo-cyfryzacji_dsa-ministerstwocyfryzacji-bezpiecznyinte",
+        "id": 3740623,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=jkCO5ssgb4U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jkCO5ssgb4U/hqdefault.jpg",
+        "title": "CERT Polska vs lobby\u015bci",
+        "vote": 0
+    }
+]

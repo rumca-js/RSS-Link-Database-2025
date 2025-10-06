@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T05:10:49.605521+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T04:19:09+00:00",
+        "description": "The R1 Neo from Muzi Works is a compact, water-resistant Meshtastic device designed for long-range communication and GPS-based location tracking. Developed and assembled in Atlanta, it is the company&#8217;s first model built on a custom PCB featuring a dedicated I/O controller and integrated power management. The unit is powered by a Nordic nRF52840 microcontroller paired [&#8230;]",
+        "id": 3737891,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/r1-neo-meshtastic-device-introduced-with-gps-and-nrf52840-processor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "R1 Neo Meshtastic Device Introduced with GPS and nRF52840 Processor",
+        "vote": 0
+    }
+]

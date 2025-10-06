@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T22:52:44.568871+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T22:27:37+00:00",
+        "description": "<p>Przyzwyczaili\u015bmy si\u0119 ju\u017c do tego, \u017ce mechanizmy sztucznej inteligencji sukcesywnie zdobywaj\u0105 kolejne obszary naszego \u017cycia. Nie od dzi\u015b wiele kontrowersji budzi temat u\u017cywania sztucznej inteligencji w szeroko rozumianym bezpiecze\u0144stwie ofensywnym. Wiele wskazuje na to, \u017ce debata na ten temat wkr\u00f3tce mo\u017ce wkroczy\u0107 na wy\u017cszy poziom. TLDR: &#8211; Badacze z firmy...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/villager-framework-wspomagany-ai-w-sluzbie-pentesterom-i-cyberprzestepcom/\">Villager \u2013 framework wspomagany AI w s\u0142u\u017cbie pentesterom (i cyberprzest\u0119pcom)</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3742296,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/villager-framework-wspomagany-ai-w-sluzbie-pentesterom-i-cyberprzestepcom",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Villager \u2013 framework wspomagany AI w s\u0142u\u017cbie pentesterom (i cyberprzest\u0119pcom)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T18:47:31.517954+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T18:47:30+00:00",
+        "description": "Niespe\u0142na 40 proc. Polak\u00f3w pozytywnie ocenia dzia\u0142ania ministry edukacji Barbary Nowackiej z Koalicji Obywatelskiej. Sonda\u017c United Surveys dla Wirtualnej Polski.",
+        "id": 3741273,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/polityka/art43130821-sondaz-polacy-ocenili-minister-edukacji-nie-dostala-szostki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sonda\u017c. Polacy ocenili minister edukacji. Nie dosta\u0142a sz\u00f3stki",
+        "vote": 0
+    }
+]

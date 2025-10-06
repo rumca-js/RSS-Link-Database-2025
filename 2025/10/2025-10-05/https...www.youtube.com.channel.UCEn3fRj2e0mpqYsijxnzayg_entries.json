@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xyla Foxlin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T08:59:33.300035+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T08:27:41+00:00",
+        "description": "Join me in raising money for Reinvented Inc: https://www.reinventedmagazine.com/\n\nReinvented Inc is a 501(c)3 nonprofit I have the honor of serving on the board on who's mission is to lower barriers for girls in STEM. Reinvented has some amazing programming including our Princesses with Power Tools program-- where volunteer princesses have taught over *20,000 kids* (and counting!) to use hand drills for the first time.\n\nDONATION REWARDS:\n$5 -- Donor's name on build mat\n$10 -- AMA\n$25 -- Beanboozled roulette\n$50 -- Steal a LEGO piece\n$100 -- Add an XL Press-On Nail \n\nEvery $500 -- Mystery shot \nEvery $1000 -- Wear upside-down glasses for 5 mins",
+        "id": 3738531,
+        "language": "",
+        "link": "https://www.youtube.com/watch?v=4Qucewr2EqM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 601,
+        "source_url": "https://www.youtube.com/channel/UCEn3fRj2e0mpqYsijxnzayg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4Qucewr2EqM/hqdefault.jpg",
+        "title": "Charity Stream: Build LEGOs With Me to Benefit Reinvented Inc!",
+        "vote": 0
+    }
+]

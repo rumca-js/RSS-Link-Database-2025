@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Irza Waraich",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T17:10:28.211289+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T16:38:21+00:00",
+        "description": "Two decades after selling PayPal, its founders remain some of the most powerful and polarizing figures in tech.",
+        "id": 3740793,
+        "language": "en",
+        "link": "https://observer.com/2025/10/paypal-cofounders-today",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "Where the \u2018PayPal Mafia\u2019 Is Today: Founders, Fortunes and Feuds",
+        "vote": 0
+    }
+]

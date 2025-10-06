@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T12:49:11.526107+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T12:09:53+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/10/05/trim/540/304/president-javier-milei-campaign-rally-lla-parana-river-2112531.jpg\" alt=\"President Javier Milei, campaign rally, LLA, Paran\u00e1 river.\" /></p>Two people were arrested on Saturday in Santa Fe following minor clashes at a campaign rally staged by President Javier Milei.\n <a href=\"https://www.batimes.com.ar/news/argentina/two-arrests-in-santa-fe-during-milei-campaign-rally.phtml\">Leer m\u00e1s</a>",
+        "id": 3739410,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/argentina/two-arrests-in-santa-fe-during-milei-campaign-rally.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/10/05/trim/540/304/president-javier-milei-campaign-rally-lla-parana-river-2112531.jpg",
+        "title": "Two arrests in Santa Fe during Milei campaign rally",
+        "vote": 0
+    }
+]

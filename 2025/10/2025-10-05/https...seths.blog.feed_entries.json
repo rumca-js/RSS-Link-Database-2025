@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T09:53:17.715891+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T09:45:00+00:00",
+        "description": "It&#8217;s easy to come to the conclusion that people with means and high cultural status choose things that are better. Organic vegetables instead of junk food. But there&#8217;s a long history of traditionally high-status cultural roles embracing demonstrably un-good choices. Things like bound feet, fox hunting, absinthe or cruise ships. It&#8217;s hard to acknowledge that [&#8230;]",
+        "id": 3738751,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/status-vs-goodness",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Status vs. goodness",
+        "vote": 0
+    }
+]

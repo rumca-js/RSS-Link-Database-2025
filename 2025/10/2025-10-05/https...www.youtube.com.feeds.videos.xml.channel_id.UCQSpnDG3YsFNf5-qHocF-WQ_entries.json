@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T15:35:25.983758+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T14:45:04+00:00",
+        "description": "The annual major Windows update is here, what's new?\n\nIt's time again for the annual major \"feature update\" that Windows gets once a year. A lot of articles seem to be saying that there are \"no new features\", but that's not really true. For the past couple years Windows has been getting continuous feature additions throughout the year instead of all at once, but that doesn't mean 25H2 has no new features. There was a recent monthly feature update that released around the same time so I include those too. And some features are actually included new in 25H2.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:12 - How to Install The Update\n0:25 - How Many New Features?\n0:51 - Staged Rollout of Features\n1:08 - AI Actions\n2:20 - \"Advanced\" Settings Menu\n2:31 - File Explorer Version Control\n3:16 - Some New Date & Time Settings\n3:33 - Keyboard Shortcuts For En and Em Dashes\n3:48 - Sharing Menu Pin Apps\n3:56 - Change Hardware Indicator Location\n4:33 - Click To Do\n5:02 - Agent in Settings\n5:59 - Improved Window",
+        "id": 3740259,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VNLkzWjDxUo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VNLkzWjDxUo/hqdefault.jpg",
+        "title": "Windows 11 Major Annual Update 2025 - Biggest Changes (25H2)",
+        "vote": 0
+    }
+]

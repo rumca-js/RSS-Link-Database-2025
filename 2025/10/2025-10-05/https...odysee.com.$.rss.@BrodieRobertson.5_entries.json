@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T17:14:37.680835+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T16:30:11+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/SPWfPLATdo8\" width=\"480\" alt=\"thumbnail\" title=\"We Found The GNU Copypasta Origin... I Think!\" /></p>A few weeks back I put out a video on the GNU copypasta and couldn't find the original source, but someone actually went back and did a search and I think we've made a bit of progress.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Stallman Post: http://www.gnu.org/gnu/linux-and-gnu.html<br />Archive: https://web.archive.org/web/20091031140239/https://xercestech.com/linux-not-gnulinux.geek<br />24th May 2009: https://old.sage.moe/prog/thread/215662/#215701<br />Blog Archive: https://web.archive.org/web/20091031140239/https://xercestech.com/linux-not-gnulinux.geek<br />22nd May 2009: ht",
+        "id": 3740809,
+        "language": "en",
+        "link": "https://odysee.com/we-found-the-gnu-copypasta-origin...-i:3926d400f7382761dce31da4e11030a96759c7d6",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/SPWfPLATdo8",
+        "title": "We Found The GNU Copypasta Origin... I Think!",
+        "vote": 0
+    }
+]

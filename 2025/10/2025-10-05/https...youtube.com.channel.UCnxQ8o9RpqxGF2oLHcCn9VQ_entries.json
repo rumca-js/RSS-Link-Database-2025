@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fantano",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T05:19:20.694290+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T04:28:21+00:00",
+        "description": "Reacting to P4k's list of the 100 best hip hop albums of all time.\n\nThe full list: https://pitchfork.com/features/lists-and-guides/best-rap-albums-all-time/\n\n===================================\n\nPatreon: https://www.patreon.com/theneedledrop\n\nFollow your melon:\nTwitter: https://twitter.com/theneedledrop\nInstagram: https://www.instagram.com/afantano\nTwitch: https://www.twitch.tv/theneedledrop\nTikTok: https://www.tiktok.com/@theneedletok\n\neditor : austen",
+        "id": 3737905,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_hsF_rSH-_Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 649,
+        "source_url": "https://youtube.com/channel/UCnxQ8o9RpqxGF2oLHcCn9VQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_hsF_rSH-_Q/hqdefault.jpg",
+        "title": "Pitchfork's Top 100 Rap Albums List Is Weird...",
+        "vote": 0
+    }
+]

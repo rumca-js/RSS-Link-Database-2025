@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T02:45:33.799412+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T02:24:37+00:00",
+        "description": "INSANE AI NEWS: Ovi, Sora 2, Hunyuan Image 3.0, Dreamer 4, Deepseek 3.2, Claude 4.5, Kani TTS #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nSources in order of mention:\nhttps://donghaotian123.github.io/Wan-Alpha/\nhttps://www.nineninesix.ai/n/kani-tts\nhttps://felixtaubner.github.io/cap4d/\nhttps://developers.googleblog.com/en/gemini-2-5-flash-image-now-ready-for-production-with-new-aspect-ratios/\nhttps://github.com/Tencent-Hunyuan/HunyuanImage-3.0\nhttps://nvlabs.github.io/LongLive/\nSora 2 review https://youtu.be/El-G4cO4x4I\nhttps://aaxwaz.github.io/Ovi/\nhttps://omniretarget.github.io/\nhttps://docs.z.ai/guides/llm/glm-4.6\nhttps://huggingface.co/lightx2v/Wan2.2-Lightning/tree/main/Wan2.2-T2V-A14B-4steps-lora-250928\nWan tutorial: https://youtu.be/SVDKYwt-DBg\nhttps://www.anthropic.com/news/claude-sonnet-4-5\nhttps://github.com/deepseek-ai/DeepSeek-V3.2-Exp/tree/main\nhttps://danijar.com/project/dreamer4/",
+        "id": 3737528,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bVxBrzSe3kA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bVxBrzSe3kA/hqdefault.jpg",
+        "title": "Open-source Sora 2, realtime AI video, new DeepSeek, Nanobanana upgrades, Claude 4.5, realtime TTS",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T15:08:44.534156+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T15:01:26+00:00",
+        "description": "What if we could get a heads-up about serious health issues before they begin, from the moment a baby is born? In this groundbreaking talk, geneticist and physician Robert C. Green shares how his team became the first in the world to comprehensively sequence and analyze the DNA of healthy newborns, revealing hidden risks for treatable conditions. The future of medicine isn\u2019t just about curing illness, he says \u2014 it's about predicting and preventing it. (Recorded at TED2025 on April 10, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from ",
+        "id": 3740104,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tC7ZfO1_x9M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tC7ZfO1_x9M/hqdefault.jpg",
+        "title": "The Life-Saving Secrets in Your Baby\u2019s DNA | Robert C. Green | TED",
+        "vote": 0
+    }
+]

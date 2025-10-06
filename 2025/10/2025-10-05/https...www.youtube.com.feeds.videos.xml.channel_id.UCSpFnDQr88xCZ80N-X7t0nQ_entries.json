@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-05T16:08:07.417140+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-05T16:01:20+00:00",
+        "description": "This video is sponsored by NVIDIA and Puget Systems. Explore the best GPUs from NVIDIA, including the GeForce RTX 5090 series, and discover the top custom PC workstations with a Puget System. https://www.nvidia.com/en-us/ai-on-rtx/ // https://hubs.ly/Q03FBj260\n\nI'll be doing a deep dive into the techniques I used to recreate this shot. Join me LIVE on Oct 10 or watch the video on our site. Your subscription keeps us alive and independent! \u25ba http://corridordigital.com/\n\nEvery once in a while, a shot comes along that pushes the artform forward. It advances cinematic language, or action filmmaking, or visual effects. Bullet Time did all three. I'm gonna try to recreate it with nothing but a personal computer and a coupla phones.\n\nTECH DETAILS -------------\nHey whaddup everybody. Interested in some deeper details on how I approached this shot? I got you covered-\n\nI'm using a Wan 2.1 + VACE workflow here in order to interpolate the keyframes. Utilizing the VACE add-on, you are able to cont",
+        "id": 3740436,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iq5JaG53dho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iq5JaG53dho/hqdefault.jpg",
+        "title": "ONE YEAR of Work for TEN SECONDS of Film",
+        "vote": 0
+    }
+]
