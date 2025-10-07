@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T17:59:38.662742+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T16:47:49+00:00",
+        "description": "Google's new developer verification requirements starting September 2026 will force ALL Android app developers to register with Google - even those avoiding the Play Store entirely. F-Droid, the trusted open-source app store used by millions, just published a damning response calling it a \"death sentence\" that creates an impossible catch-22 designed to kill alternative app distribution. I break down F-Droid's response, why Google's security argument falls apart, and what you need to do before it's too late to save Android's open ecosystem. Techlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources. Discover how to protect your online data and regain control of your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 F-Droid Blog: https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html\n\u2022 F-Droid Website: https://f-droid.org/\n\u2022 What Google is Doing: https://www.androidauthority.com/android-developer-verification-requirements",
+        "id": 3748380,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=wRvqdLsnsKY",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wRvqdLsnsKY/hqdefault.jpg",
+        "title": "Google is Killing Open Source Android Apps (Here's Why)",
+        "vote": 0
+    }
+]

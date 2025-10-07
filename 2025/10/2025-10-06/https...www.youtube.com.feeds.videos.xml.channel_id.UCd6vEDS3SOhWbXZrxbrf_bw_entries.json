@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SAMTIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T19:05:22.321593+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T18:11:02+00:00",
+        "description": "OpenAI just unleashed the scariest and stupidest AI app, Sora 2.\n\nSORA 2 CLIPS\u2026\nScarface Ted Talk - https://x.com/ShrinkSol/status/1975004794881544290\nSpongebob Body Cam - https://x.com/angrypenguinPNG/status/1974144279955325191\nBob Ross King Kong - https://x.com/BenjaminDEKR/status/1973177268169244931\nDesk Chair Racing - https://x.com/maxescu/status/1973359312966971500\nCat Driving Car - https://www.youtube.com/shorts/7BEIHtB1Lbk\nAiJustine - https://www.youtube.com/shorts/V2OhXIhNSQw\nCasey Niestat - https://youtu.be/I1dW-nZqhew\nCat Floating - https://x.com/scaling01/status/1973414549987512680\nCat Takes a Fish - https://x.com/ginacostag_/status/1974452724898144607\nMario Cops - https://x.com/Ror_Fly/status/1974173242014249314\nSpongebob Car - https://x.com/Vox_Oculi/status/1973916657471918583\nSam Altman Stealing GPU 1 - https://x.com/bearlyai/status/1973163390328782898\nSam Altman Stealing GPU 2 - https://x.com/K8292288065827/status/1973365230286807299\nPikachu Cooking - https://x.com/Eman",
+        "id": 3749007,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xyOP5eCQgUI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 290,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd6vEDS3SOhWbXZrxbrf_bw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xyOP5eCQgUI/hqdefault.jpg",
+        "title": "Sora 2 AI Video App is Terrifying",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Current",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T19:57:58.197952+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T19:37:29+00:00",
+        "description": "Minneapolis-based, Fargo-raised musician Walker Rider\u2019s new alt-country LP \u201cFair\u201d incorporates busy instrumentation and lo-fi production while exploring relationship complexities. \n\nStandout tracks like \u201cThe Comeback\u201d were brought to life by producers Colin Miller (MJ Lenderman, Merce Lemon), Landon George (Indigo De Souza), and fellow Minnesotan Nat Harvie. Hear it Sunday nights on The Local Show. Hit Play!",
+        "id": 3749478,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/vYlL2T0FQag",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 335,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKcSON6PSG_JkTbXh2WdIg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vYlL2T0FQag/hqdefault.jpg",
+        "title": "@walkerrider444 talks about his song \"The Comeback\" #altcountrymusic #songwriting #shorts",
+        "vote": 0
+    }
+]

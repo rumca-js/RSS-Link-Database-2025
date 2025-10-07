@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T20:55:57.984667+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T18:54:11+00:00",
+        "description": "Sponsor: Montech HS01 Pro on Amazon https://geni.us/UYLeZn and HS02 Pro https://geni.us/ABM9fEB\nEarlier this year, we worked with a local computer refurbishing and e-waste recycling organization to part-out computers that were discarded by everyone from end users to corporations. These laptops and desktops can be saved, or in the very least, the valuables (like aluminum and copper) can be removed and smelted down into reusable materials. Parts like CPUs can be repurposed into computers with broken CPUs or used in education, good batteries can be taken from laptops with dead motherboards and installed into laptops with dead batteries, and so forth. Kramden organizes these \"Geek-a-Thon\" events and Steve attended one nearly 20 years ago, but this time, he got to see how they actually arrange them.\n\nThis event was super fun! Not everything in here is because of Windows 10 support ending; Kramden does this all the time, for any computer or reason. That's also why you see some Macs in here.",
+        "id": 3749722,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NHLTOdsqDRg",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NHLTOdsqDRg/hqdefault.jpg",
+        "title": "Installing Linux on Hundreds of \"Obsolete\" Computers | Microsoft Windows 10 Support Ending",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T15:49:05.607260+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T14:22:26+00:00",
+        "description": "Sprawd\u017acie mo\u017cliwo\u015bci kart graficznych NVIDIA GeForce RTX z serii 5000\nDo kupienia w sklepie Morele.net: https://lp.morele.net/nvidia-studio/\n\nNiekt\u00f3re filmy s\u0105 pe\u0142ne powa\u017cnych b\u0142\u0119d\u00f3w monta\u017cowych. Jednak bardzo cz\u0119sto te b\u0142\u0119dy wykorzystywane s\u0105 kreatywnie do zupe\u0142nego odmienienia scen filmowych. Jak \u0142amanie podstawowych zasad mo\u017ce wp\u0142yn\u0105\u0107 na odbi\u00f3r filmu?\n\nMateria\u0142 powsta\u0142 przy wsp\u00f3\u0142pracy z mark\u0105 @NVIDIAPolska \n\nSpis tre\u015bci:\n0:00 - Wst\u0119p\n1:31 - \u0141amanie monta\u017cowej ci\u0105g\u0142o\u015bci\n7:12 - Jump cuty\n11:39 - Przesiadka na Resolve\n14:38 - Segment partnera\n17:17 - Niszczenie chronologii",
+        "id": 3747357,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=bcm8tww8b-M",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bcm8tww8b-M/hqdefault.jpg",
+        "title": "Ra\u017c\u0105ce b\u0142\u0119dy, kt\u00f3re odmieniaj\u0105 filmy",
+        "vote": 0
+    }
+]

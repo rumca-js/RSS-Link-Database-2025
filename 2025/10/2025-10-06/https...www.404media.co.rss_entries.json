@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Emanuel Maiberg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T14:40:56.130466+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T14:05:04+00:00",
+        "description": "Libraries have shared their collections internationally for decades. Trump\u2019s tariffs are throwing that system into chaos and can \u2018hinder academic progress.\u2019",
+        "id": 3746641,
+        "language": "en",
+        "link": "https://www.404media.co/libraries-cant-get-their-loaned-books-back-because-of-trumps-tariffs",
+        "manual_status_code": 0,
+        "page_rating": 90,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://images.unsplash.com/photo-1549503017-48c5ddd5a729?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQwfHx5YWxlJTIwbGlicmFyeXxlbnwwfHx8fDE3NTkzNDE2MzF8MA&ixlib=rb-4.1.0&q=80&w=2000",
+        "title": "Libraries Can\u2019t Get Their Loaned Books Back Because of Trump\u2019s Tariffs",
+        "vote": 0
+    }
+]

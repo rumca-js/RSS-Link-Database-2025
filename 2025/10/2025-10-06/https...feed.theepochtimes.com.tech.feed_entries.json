@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew Moran",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T15:10:42.282714+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T14:19:58+00:00",
+        "description": "Shares of AMD soared as Wall Street's AI-fueled rally persists.",
+        "id": 3746788,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/openai-seeks-10-percent-stake-in-amd-after-new-chip-supply-deal-5925216",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2022/05/1.timothy-dykes-nwgpce-lqa4-unsplash.jpg-1080x720.jpg",
+        "title": "OpenAI Seeks 10 Percent Stake in AMD After New Chip Supply Deal",
+        "vote": 0
+    }
+]

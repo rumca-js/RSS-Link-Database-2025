@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Apple Explained",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T02:59:57.795949+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T02:43:22+00:00",
+        "description": "\ud83d\udc49 TORRAS WEBSITE:\nShop Your TORRAS Favorite: https://bit.ly/46LRoEx\n\n\ud83d\udc49 AMAZON:\nTORRAS Q3 Air Phone Case: https://amzn.to/48aCydf\nTORRAS OrigArmor Screen Protector: https://amzn.to/4onKBZ9\n________\n\nApple released iPhone 17 Pro and iPhone 17 Pro Max just last week. And within days, customers began posting photos of the device with scratches, chips, markings, and dents. News outlets have already nicknamed the issue \u201cscratch-gate.\u201d It\u2019s become so widespread that Apple publicly addressed it just five days after the iPhone 17 Pro went on sale.",
+        "id": 3743116,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=p89cGm6X8i4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 714,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfw2hvuj40AChU7n-N-PRHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p89cGm6X8i4/hqdefault.jpg",
+        "title": "Apple Screwed Up Again",
+        "vote": 0
+    }
+]

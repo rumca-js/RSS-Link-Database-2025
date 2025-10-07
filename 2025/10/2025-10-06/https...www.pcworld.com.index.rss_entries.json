@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T14:59:23.148683+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T14:58:35+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Most days, finding a top-tier gaming laptop at a decent price can be an absolute chore. Not today, though! The <a href=\"https://www.bestbuy.com/product/gigabyte-aero-x16-copilot-pc-16-25601600-wqxga-amd-ryzen-al-7-350-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5070-space-gray/J3GWPQCCFK\">Gigabyte Aero X16 is $450 off at Best Buy right now</a>, which means you can get it for just $1,199.99 instead of its original $1,649.99. Now <em>that\u2019s</em> an insane deal!</p>\n\n\n\n<p>This powerhouse laptop is ready to handle everything you need from it, from standard Word and Excel tasks to AI-enhanced gaming to fast video editing. Under the hood, you\u2019ll find heavy-hitting specs: AMD Ryzen AI 7 350 CPU, plus 32GB of DDR5 memory, plus a spacious 1TB SSD, plus an Nvidia GeForce RTX 5070 graphics card. That\u2019s right! Get DLSS 4 and all the other great Nvidia tech to boost your gaming e",
+        "id": 3746726,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2931099/this-rtx-5070-laptop-with-32gb-ram-is-an-insane-450-off-right-now.html",
+        "manual_status_code": 0,
+        "page_rating": 85,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "This RTX 5070 laptop with 32GB RAM is an insane $450 off right now",
+        "vote": 0
+    }
+]

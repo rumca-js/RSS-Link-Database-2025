@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Low Level",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T17:31:00.850502+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T16:19:44+00:00",
+        "description": "Cisco just had a few majors CVEs drop and the ratings are sort of confusing. In this video I break down the CVEs and talk about what it means for you and your networks.\n\nGo try Flare and get ahead of cyber threats! https://go.lowlevel.tv/flare-oct\n\nhttps://github.com/artkond/cisco-snmp-rce/blob/master/c2800nm-adventerprisek9-mz.151-4.M12a.py\n\nhttps://www.rapid7.com/blog/post/etr-cve-2025-20333-cve-2025-20362-cve-2025-20363-multiple-critical-vulnerabilities-affecting-cisco-products/\n\n\ud83c\udfeb MY COURSES\nSign-up for my FREE 3-Day C Course: https://lowlevel.academy\n\n\ud83e\uddd9\u200d\u2642\ufe0f HACK YOUR CAREER\nWanna learn to hack? Join my new CTF platform: https://stacksmash.io\n\n\ud83d\udd25COME HANG OUT   \nCheck out my other stuff: https://lowlevel.tv",
+        "id": 3748262,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ik9b5jRhwFA",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 736,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ik9b5jRhwFA/hqdefault.jpg",
+        "title": "cisco situation keeps getting worse",
+        "vote": 0
+    }
+]

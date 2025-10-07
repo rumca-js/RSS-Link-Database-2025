@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T17:49:12.805813+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T16:50:20+00:00",
+        "description": "<p>MacKenzie Sigalos, CNBC:</p>\n\n<blockquote>\n  <p>OpenAI and Advanced Micro Devices have reached a deal that could\nsee Sam Altman\u2019s company take a 10% stake in the chipmaker. AMD\nstock skyrocketed more than 30% on Monday following the news.</p>\n\n<p>OpenAI will deploy 6 gigawatts of AMD\u2019s Instinct graphics\nprocessing units over multiple years and across multiple\ngenerations of hardware, the companies said Monday. It will kick\noff with an initial 1-gigawatt rollout of chips in the second half\nof 2026.</p>\n</blockquote>\n\n<p>It only happens once a decade or so, but the most exciting times in tech occur when there\u2019s a breakthrough that\u2019s severely hardware constrained. That includes hardware like infrastructure\u2009\u2014\u2009bandwidth was a massive constraint during the dot-com boom. It wasn\u2019t even feasible to download <em>audio</em>, like podcasts, for the first decade of the consumer internet boom, let alone video. But it was inevitable that we\u2019d get there.</p>\n\n<p>Right now we\u2019re <em>severely</em> ",
+        "id": 3748342,
+        "language": "",
+        "link": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
+        "manual_status_code": 0,
+        "page_rating": 90,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenAI Looks to Take 10 Percent Stake in AMD Through AI Chip Deal",
+        "vote": 0
+    }
+]

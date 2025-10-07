@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T17:46:12.616463+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T17:18:53+00:00",
+        "description": "French borrowing costs surge as prime minister resigns",
+        "id": 3748332,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/10/06/france-prime-minister-resigns-bond-markets-debt-japan-gold",
+        "manual_status_code": 0,
+        "page_rating": 81,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "French borrowing costs surge as prime minister resigns",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T16:27:57.346155+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T15:29:46+00:00",
+        "description": "\u261f\u261f Awesome T-Shirts! Sponsors! Books! \u261f\u261f\n\nconstexpr ALL the things! - https://www.youtube.com/watch?v=HMB9oXFobJc\nEp 313 - The `constexpr` Problem That Took Me 5 Years To Fix! - https://youtu.be/ABg4_EV5L3w\nUnderstanding The constexpr 2-Step - https://www.youtube.com/watch?v=_AefJX66io8\n\n\nUpcoming Workshops:\n\u25ba C++ Best Practices Workshop, CppCon, Aurora, CO, USA, Sept 13-14, 2025: https://cppcon.org/class-2025-best-practices/\n\u25ba C++ Best Practices Workshop, NDC TechTown, Kongsberg, NO, Sept 22-23, 2025: https://ndctechtown.com/workshops/c-best-practices/e8e3819af0f6\n\nEpisode details: https://github.com/lefticus/cpp_weekly/issues/491\n\nT-SHIRTS AVAILABLE!\n\n\u25ba The best C++ T-Shirts anywhere! https://jason-turner-shop.fourthwall.com/\n\n\nWANT MORE JASON?\n\n\u25ba My Training Classes: http://emptycrate.com/training.html\n\u25ba Follow me on twitter: https://twitter.com/lefticus\n\n\nSUPPORT THE CHANNEL\n\n\u25ba Patreon: https://www.patreon.com/lefticus \n\u25ba Github Sponsors: https://github.com/sponsors/lefticus\n\u25ba Pay",
+        "id": 3747563,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=x3Z-k34u3Q8",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x3Z-k34u3Q8/hqdefault.jpg",
+        "title": "C++ Weekly - Ep 501 - Does C++26 Solve the constexpr Problem?",
+        "vote": 0
+    }
+]

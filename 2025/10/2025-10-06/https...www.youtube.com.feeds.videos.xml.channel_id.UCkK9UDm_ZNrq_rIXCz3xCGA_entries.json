@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T21:21:04.735753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T21:07:14+00:00",
+        "description": "Broadcast Live on Locals, Rumble, X, & YouTube. All Articles, Videos, & Audio Podcasts freely available at Lunduke.com",
+        "id": 3750055,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6n4Vk7b1IVM",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6n4Vk7b1IVM/hqdefault.jpg",
+        "title": "Lunduke Live - NixOS, Fascism, & Bass-Ackwards Garbage",
+        "vote": 0
+    }
+]

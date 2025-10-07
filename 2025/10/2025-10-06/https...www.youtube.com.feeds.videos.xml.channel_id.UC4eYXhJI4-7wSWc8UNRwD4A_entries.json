@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T09:42:04.012186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T09:00:43+00:00",
+        "description": "This Sept. 15 to Oct. 15, NPR Music celebrates artists from all corners of Latinidad with an 'El Tiny' takeover.\n\nAnamaria Sayre | October 6, 2025\nThe Tiny Desk has witnessed some pretty legendary guitar solos. Shrouded in fog, this one opens with some shred played by a puppet. Only the deeply beloved 31 Minutos could pull off such a dramatic feat, even at the Desk.\n\n31 Minutos is a Chilean TV show, but more than that, it's an institution of Latin American children's programming. Known for being equal parts educational and just plain silly, it's smart, cutting and dynamic in its presentation of Chilean social issues and broader culture. In between classic rock refrains characteristic of the Southern Cone and cutesy choral moments, the puppeteers and musicians of 31 Minutos transform the Desk into a true playground. Everyone is invited to sing, dance, laugh and celebrate the show's first trip ever to the United States.\n\nSET LIST\n\"Mi Equilibrio Espiritual\" \n\"Bailan sin Cesar\"\n\"Objeci\u00f3n ",
+        "id": 3744596,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UEqTIwRrWvA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UEqTIwRrWvA/hqdefault.jpg",
+        "title": "31 Minutos: Tiny Desk Concert",
+        "vote": 0
+    }
+]

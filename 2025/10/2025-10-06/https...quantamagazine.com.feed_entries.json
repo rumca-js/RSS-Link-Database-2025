@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Hartnett",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T14:59:54.857239+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T14:48:25+00:00",
+        "description": "The amplituhedron, a shape at the heart of particle physics, appears to be deeply connected to the mathematics of paper folding.            <p>The post <a href=\"https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/\" target=\"_blank\">Origami Patterns Solve a Major Physics Riddle</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3746734,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006",
+        "manual_status_code": 0,
+        "page_rating": 91,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Amplituhedron-cr.Ibrahim-Rayintakath-Default.webp",
+        "title": "Origami Patterns Solve a Major Physics Riddle",
+        "vote": 0
+    }
+]

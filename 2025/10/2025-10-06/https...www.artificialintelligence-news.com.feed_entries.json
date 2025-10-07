@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-06T15:01:29.022119+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-06T13:56:40+00:00",
+        "description": "<p>Google DeepMind has deployed a new AI agent designed to autonomously find and fix critical security vulnerabilities in software code. The system, aptly-named CodeMender, has already contributed 72 security fixes to established open-source projects in the last six months. Identifying and patching vulnerabilities is a notoriously difficult and time-consuming process, even with the aid of [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/google-new-ai-agent-rewrites-code-automate-vulnerability-fixes/\">Google\u2019s new AI agent rewrites code to automate vulnerability fixes</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3746749,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/google-new-ai-agent-rewrites-code-automate-vulnerability-fixes",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/09/image-18.png",
+        "title": "Google\u2019s new AI agent rewrites code to automate vulnerability fixes",
+        "vote": 0
+    }
+]
