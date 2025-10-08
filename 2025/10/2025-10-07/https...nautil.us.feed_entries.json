@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Steve Paulson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T11:58:25.191369+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T09:50:00+00:00",
+        "description": "<p>Three questions for Manvir Singh, author of <i>Shamanism: The Timeless Religion</i></p>\n<p>The post <a href=\"https://nautil.us/was-jesus-a-shaman-1240964/\">Was Jesus a Shaman?</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 3754701,
+        "language": "en-US",
+        "link": "https://nautil.us/was-jesus-a-shaman-1240964",
+        "manual_status_code": 0,
+        "page_rating": 100,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets.nautil.us/sites/3/nautilus/Paulson_shaman-breaker.png?auto=compress&fit=scale&fm=png&h=1024&ixlib=php-3.3.1&w=819&wpsize=large",
+        "title": "Was Jesus a Shaman?",
+        "vote": 0
+    }
+]

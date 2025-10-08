@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Practical Engineering",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T13:48:28.412618+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T13:00:06+00:00",
+        "description": "Want to restore the planet\u2019s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code PRACTICAL10 will get the first month for free at: https://planetwild.com/r/practicalengineering/join\nIf you want to get to know them better first, check out their project protecting the Little Owl https://planetwild.com/r/practicalengineering/m4\n\nAn ode to the engineering of guyed masts: Cool to look at, incredibly tall, just rare enough that seeing one is kind of special.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-the-bizarre-bases-of-antenna-towers\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that \u2018",
+        "id": 3755584,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3nDdLiXS5wk",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 807,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3nDdLiXS5wk/hqdefault.jpg",
+        "title": "The Bizarre Bases of Antenna Towers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T16:58:57.594162+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T16:17:24+00:00",
+        "description": "This course is a conceptual and architectural journey through deep learning vision models, tracing the evolution from LeNet and AlexNet to ResNet, EfficientNet, and Vision Transformers. The course explains the design philosophies behind skip connections, bottlenecks, identity preservation, depth/width trade-offs, and attention. Each chapter combines clear visuals, historical context, and side-by-side comparisons to reveal why architectures look the way they do and how they process information.\n\nCourse developed by @programmingoceanacademy \n\nCourse notes: https://www.programming-ocean.com/knowledge-hub/cnn-architect-mind-ai-atlas.php\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Welcoming and Introduction \n\u2328\ufe0f (0:01:44) What We'll Cover Broadly \n\u2328\ufe0f (0:05:34) LeNet Architecture Model \n\u2328\ufe0f (0:22:51) AlexNet Architecture Model \n\u2328\ufe0f (0:46:26) VGG Architecture Model \n\u2328\ufe0f (1:01:41) GoogLeNet / Inception Architecture Model \n\u2328\ufe0f (1:36:50) Highway Networks Architecture Model \n\u2328\ufe0f (2:00:45) Pathways of Information Pre",
+        "id": 3757396,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tfpGS_doPvY",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tfpGS_doPvY/hqdefault.jpg",
+        "title": "Deep Learning Vision Architectures Explained \u2013 CNNs from LeNet to Vision Transformers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Screen Junkies",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T17:48:25.713695+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T17:00:26+00:00",
+        "description": "It\u2019s the Honest Trailer for Tron colon Legacy! The rebootquel to the 80\u2019s movie that imagined: \u201cwhat if the story, was IN the computer?\u201d It\u2019s a cool looking action adventure despite the plot soup, and holy crap that Daft Punk soundtrack rips. It\u2019s too bad it\u2019s considered a flop because it was literally the most expensive movie ever made at the time. I\u2019ve got an idea: try again with Jared Leto!\n\nComment below with \u201cIt\u2019s Morbin\u2019 Time\u201d if you\u2019re actually reading this\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert and Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Randy Whitlock\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #parody #trailer #tron #tronlegacy",
+        "id": 3758211,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LSsYT0utKHw",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 296,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LSsYT0utKHw/hqdefault.jpg",
+        "title": "Honest Trailers | Tron: Legacy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T19:37:24.222070+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T19:20:51+00:00",
+        "description": "The Linux Foundation recently released its 2025 State of Tech Talent report in collaboration with LF Research and Linux Foundation Education. Based on insights from more than 500 global hiring and training leaders, the report highlights AI\u2019s growing influence on tech roles, preparedness for the workplace shift, and leveraging open source and upskilling to meet new demands. Download a copy for free: https://training.linuxfoundation.org/",
+        "id": 3758988,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Vyfag-Ze-Hg",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vyfag-Ze-Hg/hqdefault.jpg",
+        "title": "What Makes Tech Talent Stick 2025 State of Tech Talent Report",
+        "vote": 0
+    }
+]

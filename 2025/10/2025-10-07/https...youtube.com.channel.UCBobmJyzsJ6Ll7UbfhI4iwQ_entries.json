@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T18:31:57.418089+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T18:00:03+00:00",
+        "description": "In this session recorded at Unreal Fest Orlando 2025, SweejTech explores the many ways developers can add to audio functionality in UE projects, touching on MetaSounds nodes and interfaces, the Builder API, audio subsystems, editor windows, source data overrides, feature plugins, bus effects, and unit tests. \n\nThe session also shows how SweejTech are making use of these extension points to speed up audio workflows in Unreal Engine.\n\nThe session describes the development process of audio features like HDR, ambience, global parameters, and reverb with UE5\u2019s numerous extension points in mind. It also covers case studies that highlight various extension setups within prototypes, and explores decisions made regarding which to use for production. \n\nThe session concludes with a discussion of an approach to extending UE5 audio, one that can scale from small projects to the types of large-scale games that demand the most from Audio Engine extensions. \n\nFind out more about audio in Unreal Engin",
+        "id": 3758340,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3jIE6eo8t6A",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3jIE6eo8t6A/hqdefault.jpg",
+        "title": "Amplifying the Unreal Audio Engine With Extensions and Plugins | Unreal Fest Orlando 2025",
+        "vote": 0
+    }
+]

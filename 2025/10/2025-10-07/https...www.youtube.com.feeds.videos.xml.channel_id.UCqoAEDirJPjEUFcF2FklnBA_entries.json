@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "StarTalk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T18:16:19.191028+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T17:38:14+00:00",
+        "description": "What will the future of space look like? Neil deGrasse Tyson and comic co-host Chuck Nice explore the engineering challenges and scientific questions shaping the next era of aerospace with aerospace engineer and CEO of Portal Space Systems, Jeff Thornburg.\n\nFrom the Mars missions to the development of reliable, reusable rockets, we ask: how do we build spacecraft that are fast, safe, and simple enough to transform space into a true commercial frontier? We discuss the balancing act between government funding and private investment: why do we still need public dollars to seed technologies that don\u2019t yet have a business case? \n\nWhy is \u201cfailure\u201d embraced by startups but avoided in legacy programs? And what lessons can be learned from disasters like Hubble\u2019s flawed mirrors or the Mars Climate Orbiter\u2019s metric\u2013imperial mix-up?\n\nWe explore reusable rockets, the tradeoff between fuel and payload, and the art of designing systems around unknowns. We also discuss the U.S.\u2019s international compet",
+        "id": 3758284,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kuK8Z7sxX_8",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 804,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqoAEDirJPjEUFcF2FklnBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kuK8Z7sxX_8/hqdefault.jpg",
+        "title": "The Future of the Commercial Space Industry, with Jeff Thornburg",
+        "vote": 0
+    }
+]

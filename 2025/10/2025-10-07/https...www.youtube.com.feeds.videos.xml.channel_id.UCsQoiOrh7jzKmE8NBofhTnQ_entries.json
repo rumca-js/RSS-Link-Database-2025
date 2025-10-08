@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Varun Mayya",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T15:35:20.901449+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T14:21:07+00:00",
+        "description": null,
+        "id": 3756551,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6u-snbY_CXs",
+        "manual_status_code": 0,
+        "page_rating": 82,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 882,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQoiOrh7jzKmE8NBofhTnQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6u-snbY_CXs/hqdefault.jpg",
+        "title": "Here are 3 Major Announcements from OpenAI DevDay",
+        "vote": 0
+    }
+]

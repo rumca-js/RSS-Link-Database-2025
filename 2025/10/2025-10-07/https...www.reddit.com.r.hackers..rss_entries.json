@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Brave_Star_Baker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T04:08:16.417875+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T03:18:15+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hackers/comments/1o03ukp/bank_account_compromised/\"> <img src=\"https://b.thumbs.redditmedia.com/UiZO7Wd23fAS_iO0XYojfj10iNSZl2t5nqAHEvFCigs.jpg\" alt=\"Bank account compromised?\" title=\"Bank account compromised?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/cotm7u8nwltf1.png?width=649&amp;format=png&amp;auto=webp&amp;s=3f1028fd70b0d232a27826f94422b380143be7c6\">https://preview.redd.it/cotm7u8nwltf1.png?width=649&amp;format=png&amp;auto=webp&amp;s=3f1028fd70b0d232a27826f94422b380143be7c6</a></p> <p>I was checking my bank account on my laptop today and the website gives me a notification about when my last login was. I didn&#39;t recognize the time and checked my recent logins. I don&#39;t know what this API stuff is and these are not my logins. I changed my password and enabled 2FA. Can anyone tell me about what this could be? I&#39;m wondering if my laptop could have been compromised. I&#39;m runni",
+        "id": 3752272,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1o03ukp/bank_account_compromised",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b.thumbs.redditmedia.com/UiZO7Wd23fAS_iO0XYojfj10iNSZl2t5nqAHEvFCigs.jpg",
+        "title": "Bank account compromised?",
+        "vote": 0
+    }
+]

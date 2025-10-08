@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T14:48:06.217210+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T13:01:38+00:00",
+        "description": "This week in Fantasy News: Hulu is officially shutting down, Disney goes to war with AI companies, and Brandon Sanderson reveals major Cosmere updates! Plus\u2014Ridley Scott calls most movies \u201cpoo,\u201d a Lord of the Rings AAA RPG may be in development, and we\u2019ve got new book reveals from Peter F. Hamilton, A.S. Tamaki, and more.\n\nAlso featuring: a scratch-and-sniff romantasy, Dungeon Crawler Carl updates, Gunmetal Gods cover changes, and the return of Pumpkinhead!\n\n\u23f0 Timestamps & Sources\n\n00:00 I Am Quitting\u2026 Eventually \u2013 https://www.youtube.com/@2ToRamble\n\n03:42 Ridley Scott Sure Likes Himself \u2013 https://variety.com/2025/film/global/ridley-scott-most-new-movies-shit-rewatches-his-own-1236540920/\n\n06:24 Disney Scared AI Companies \u2013 https://theaiinsider.tech/2025/10/03/character-ai-removes-disney-characters-following-legal-action/\n\n07:46 Hulu Go Bye \u2013 https://geekspin.co/disney-officially-shuts-down-hulu-after-20-years/\n\n08:59 Gunmetal Gods Cover Switch\n09:53 Scratch-and-Sniff Romantasy \u2013 http",
+        "id": 3756297,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=oVRVwtOAIgI",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oVRVwtOAIgI/hqdefault.jpg",
+        "title": "I Am Quitting Fantasy News, Scratch and Sniff Romantasy, LOTR AAA Promise || FN",
+        "vote": 0
+    }
+]

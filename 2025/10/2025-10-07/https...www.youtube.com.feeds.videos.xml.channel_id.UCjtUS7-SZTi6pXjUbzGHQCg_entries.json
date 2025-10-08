@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Undecided with Matt Ferrell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T12:44:46.648857+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T12:16:50+00:00",
+        "description": "How Kites Could Transform Global Energy Forever. Go to https://ground.news/undecided for an innovative way to stay fully informed on tech, energy, the climate and more. Save 40% on the Ground News unlimited access Vantage plan with my link. This kite is generating energy from the wind. You\u2019re probably thinking: \u201cNeat, but don\u2019t we already have an effective and reliable way to capture wind energy?\u201d And yeah, wind turbines have been been big ol\u2019 work horses for decades. But wind turbines are both physically and financially massive. Each one costs a minimum of hundreds thousand of dollars, and that\u2019s before we take into account shipping, installation, and maintenance. Goofy as it might sound, airborne wind energy systems (AWES) like this kite could be a cheaper, more nimble alternative to the steel titans we\u2019re used to. But are AWES really ready for takeoff, or are they grounded for good?\n\nWatch How CATL Made Batteries 90% Cheaper (And What Happens Next) https://youtu.be/Wf84NJSiAeU?list",
+        "id": 3755252,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZlCJcTq3Jk4",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 453,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZlCJcTq3Jk4/hqdefault.jpg",
+        "title": "How Kites Could Transform Global Energy Forever",
+        "vote": 0
+    }
+]

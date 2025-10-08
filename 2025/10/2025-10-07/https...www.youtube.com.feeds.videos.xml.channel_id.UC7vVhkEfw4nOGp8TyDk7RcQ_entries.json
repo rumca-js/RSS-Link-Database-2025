@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T15:06:44.314192+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T14:50:02+00:00",
+        "description": "Boston Dynamics University is part of our commitment to helping our customers maximize the value of their investment in robotics and AI. There is no other enablement initiative in the market today quite like it\u2014delivering a comprehensive learning environment that allows teams to build the skills and knowledge to use Boston Dynamics solutions safely, effectively, and efficiently.",
+        "id": 3756431,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/E5gZgaqXILY",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E5gZgaqXILY/hqdefault.jpg",
+        "title": "Boston Dynamics University | Customer Learning & Development",
+        "vote": 0
+    }
+]

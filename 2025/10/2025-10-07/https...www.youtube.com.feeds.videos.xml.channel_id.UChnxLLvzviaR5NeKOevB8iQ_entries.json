@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T16:41:56.712676+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T15:00:06+00:00",
+        "description": "The Microkorg 2 now supports the LogueSDK. Let's check it out, as well as show why the MK2 does great ambient patching.\n\nSinevibes: https://www.sinevibes.com/korg/\nLogueSDK: https://korginc.github.io/logue-sdk/\n\nGet a Microkorg 2:\nPerfect Circuit: https://bit.ly/4ob46UG\nThomann: https://bit.ly/4pXTYAa\n\nSupport the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nhttps://rmr.media/findme\n\nConnect:\nBluesky: https://bit.ly/3ZGYhom\nWebsite: http://bit.ly/rmrmedia",
+        "id": 3757283,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=av97gLFJArM",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/av97gLFJArM/hqdefault.jpg",
+        "title": "Pleasantly Surprised by the Korg Microkorg 2",
+        "vote": 0
+    }
+]

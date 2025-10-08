@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T14:48:14.592731+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T14:00:20+00:00",
+        "description": "Jordan Fisher is the co-founder & CEO of Standard AI and now leads an AI alignment research team at Anthropic. In his talk at AI Startup School on June 17th, 2025, he frames the future of startups through questions rather than answers\u2014asking how founders should navigate a world where AGI may be just a few years away.\n\nHe surfaces the big questions startups should be asking in the age of AGI: Should you even start a company right now? What happens when software becomes commoditized? How do you build trust as teams shrink and AI takes on more responsibility?\n\nChapters:\n0:00 \u2013 Why He's More Confused Than Ever\n2:00 \u2013 Should You Even Start a Startup?\n5:00 \u2013 Planning Beyond the Next Model\n8:00 \u2013 Will Software Be Commoditized?\n11:00 \u2013 Building AI-Native Teams\n14:00 \u2013 Trust, Security, and Agents\n18:00 \u2013 Auditing & Guardrails\n21:00 \u2013 Alignment & Economic Pressure\n24:00 \u2013 Data, Defensibility, and Hard Problems\n28:00 \u2013 Neutrality and Control\n32:00 \u2013 Changing the World vs. Just Making Money\n36:00",
+        "id": 3756298,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DJjZzzPANBY",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DJjZzzPANBY/hqdefault.jpg",
+        "title": "Every AI Founder Should Be Asking These Questions",
+        "vote": 0
+    }
+]

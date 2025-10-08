@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T21:41:33.800834+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T21:36:28+00:00",
+        "description": "Qualcomm Technologies has announced its plan to acquire Arduino, marking a major development in the embedded and maker ecosystems. The acquisition aims to combine Qualcomm&#8217;s edge computing and AI expertise with Arduino&#8217;s large developer community and open hardware approach. As part of the announcement, both companies introduced the Arduino UNO Q, a new dual-processor development [&#8230;]",
+        "id": 3759678,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/arduino-uno-q-combines-qualcomm-dragonwing-qrb2210-and-stm32-mcu",
+        "manual_status_code": 0,
+        "page_rating": 95,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Arduino UNO Q Combines Qualcomm Dragonwing QRB2210 and STM32 MCU",
+        "vote": 0
+    }
+]

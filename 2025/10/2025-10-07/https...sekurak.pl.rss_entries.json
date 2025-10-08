@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T07:34:25.729072+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T07:00:59+00:00",
+        "description": "<p>Repozytoria git s\u0105\u00a0atrakcyjne dla w\u0142amywaczy. Du\u017ca ilo\u015b\u0107\u00a0wewn\u0119trznych danych, wraz z histori\u0105\u00a0zmian, wielu u\u017cytkownik\u00f3w czy wreszcie b\u0142\u0119dy na platformach s\u0142u\u017c\u0105cych do obs\u0142ugi repozytori\u00f3w (o kt\u00f3rych wielokrotnie pisali\u015bmy) czyni\u0105\u00a0z nich interesuj\u0105ce cele. Co prawda w samych repozytoriach nie powinny znale\u017a\u0107\u00a0si\u0119\u00a0poufne dane, takie jak klucze API, loginy czy has\u0142a, ale praktyka pokazuje, \u017ce...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/wyciek-z-red-hat-za-posrednictwem-gitlab/\">Wyciek z Red Hat za po\u015brednictwem Gitlab</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3753113,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/wyciek-z-red-hat-za-posrednictwem-gitlab",
+        "manual_status_code": 0,
+        "page_rating": 100,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wyciek z Red Hat za po\u015brednictwem Gitlab",
+        "vote": 0
+    }
+]

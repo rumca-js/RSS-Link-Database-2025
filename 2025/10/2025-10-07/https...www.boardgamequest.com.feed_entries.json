@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bailey Dunn",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T13:37:27.435510+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T13:08:53+00:00",
+        "description": "<img width=\"640\" height=\"930\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Wroth-705x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Wroth\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Wroth-705x1024.jpg 705w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Wroth-206x300.jpg 206w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Wroth-103x150.jpg 103w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Wroth-768x1116.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Wroth-640x930.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Wroth.jpg 772w\" sizes=\"(max-width: 640px) 100vw, 640px\" />I love area control games: El Grande, Rumble Nation, Blood Rage&#8230; the list goes on. However, I am quite mixed on Chip Theory Games\u2019 design efforts so far: Too M",
+        "id": 3755539,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/wroth-review",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/09/Wroth-705x1024.jpg",
+        "title": "Wroth Review",
+        "vote": 0
+    }
+]

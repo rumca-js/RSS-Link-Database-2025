@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T13:38:35.494129+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T13:01:08+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Qualcomm's buying Arduino \u2013 what it means for makers</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/arduino-uno-q.jpg\" width=\"700\" height=\"371\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-882c9b1d-c545-4621-88d2-567b161572e6\" data-insert-attach=\"{&quot;id&quot;:&quot;882c9b1d-c545-4621-88d2-567b161572e6&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Arduino Uno Q SBC microcontroller board\"></p>\n\n<p><a href=\"https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i\">Qualcomm just announced they're acquiring Arduino</a>, the company that introduced a whole",
+        "id": 3755549,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/arduino-uno-q.jpg",
+        "title": "Qualcomm's buying Arduino \u2013 what it means for makers",
+        "vote": 0
+    }
+]

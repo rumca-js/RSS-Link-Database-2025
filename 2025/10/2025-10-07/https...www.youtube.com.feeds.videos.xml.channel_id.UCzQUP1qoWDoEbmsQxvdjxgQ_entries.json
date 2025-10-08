@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-07T18:32:39.748791+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-07T17:00:24+00:00",
+        "description": "Sal Vulcano is a stand-up comic and the co-creator, star, and executive producer of the comedy show \u201cImpractical Jokers.\" He\u2019s also the co-host of the podcasts \u201cHey Babe!\u201d with Chris Distefano and \u201cTaste Buds\u201d with Joe DeRosa. Catch his latest special, \u201cTerrified,\u201d on HBO Max.\n\nhttps://www.salvulcanocomedy.com\nhttps://www.youtube.com/@salvulcanoofficial\nhttps://www.hbomax.com/movies/sal-vulcano-terrified/587fe357-435e-449d-bf43-c5555fd1e009\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\nBuy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com\n\nThis video is sponsored by BetterHelp. Visit https://BetterHelp.com/JRE",
+        "id": 3758341,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=J4gQ7k6meHs",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J4gQ7k6meHs/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2389 - Sal Vulcano",
+        "vote": 0
+    }
+]
