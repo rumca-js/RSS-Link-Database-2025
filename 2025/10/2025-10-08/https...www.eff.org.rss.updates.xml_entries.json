@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Guariglia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T20:14:22.562799+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T19:19:58+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>In a joint letter to the ranking members of the House and Senate intelligence committees, EFF has joined with 20 other organizations, including the ACLU, Brennan Center, CDT, Asian Americans Advancing Justice, and Demand Progress, to express opposition to a rule change that would seriously weaken accountability in the intelligence community. Specifically, under</span> <span>the proposed</span> <span>Senate Intelligence Authorization Act, S. 2342, the general counsels of the Central Intelligence Agency (CIA) and the Office of the Director of National Intelligence (ODNI) would no longer be subject t</span><i><span>o</span></i><span> Senate confirmation.</span></p>\n<p><span>You can read the entire letter </span><a href=\"https://www.eff.org/document/coalition-letter-senate-intelligence-authorization-act\"><span>here</span></a><span>.\u00a0</span>",
+        "id": 3768154,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/10/eff-and-other-organizations-keep-key-intelligence-positions-senate-confirmed",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF and Other Organizations: Keep Key Intelligence Positions Senate Confirmed",
+        "vote": 0
+    }
+]

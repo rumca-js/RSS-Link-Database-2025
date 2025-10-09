@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ed Nightingale",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T13:47:24.893712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T13:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Clair-Obscur_-Expedition-33_20250418213837.png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Since the release of the celebrated and critically acclaimed RPG <a href=\"https://www.eurogamer.net/games/clair-obscur-expedition-33\">Clair Obscur: Expedition 33</a>, key members of the development team at Sandfall Interactive have been on something of a global victory tour. The game is indebted to the Final Fantasy series and FromSoftware's Souls games among others, and now the team have finally met their heroes.</p> <p><a href=\"https://www.eurogamer.net/incredibly-moved-and-grateful-clair-obscur-expedition-33s-director-talks-success-art-house-aspirations-and-the-scope-of-future-projects\">Read more</a></p>",
+        "id": 3764370,
+        "language": "en",
+        "link": "https://www.eurogamer.net/incredibly-moved-and-grateful-clair-obscur-expedition-33s-director-talks-success-art-house-aspirations-and-the-scope-of-future-projects",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Clair-Obscur_-Expedition-33_20250418213837.png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "\"Incredibly moved and grateful\" -  Clair Obscur: Expedition 33's director talks success, \"art house\" aspirations and the scope of future projects",
+        "vote": 0
+    }
+]

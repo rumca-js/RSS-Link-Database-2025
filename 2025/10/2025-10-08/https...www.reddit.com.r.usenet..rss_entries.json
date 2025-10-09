@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Dangerous_Hadgehog",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T13:01:28.083944+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T12:01:32+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I finally got my provider and client working connected (test connection successful), but I\u2019m not sure how to search. Looks like I have to get an indexer now. Do you just type what you want into the indexer, or do you have to manually grab an NZB every time and load it into the client?</p> <p>Trying to figure out the normal workflow, thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dangerous_Hadgehog\"> /u/Dangerous_Hadgehog </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1o18hyp/still_confused_on_how_to_search_usenet/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1o18hyp/still_confused_on_how_to_search_usenet/\">[comments]</a></span>",
+        "id": 3764205,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1o18hyp/still_confused_on_how_to_search_usenet",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Still confused on how to search Usenet",
+        "vote": 0
+    }
+]

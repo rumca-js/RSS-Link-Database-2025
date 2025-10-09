@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T15:39:46.260879+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T15:01:39+00:00",
+        "description": "<p>While organisations have mastered high-velocity development, DevSecOps is at risk as security practices lag dangerously behind. This is creating a fragile foundation with a hidden &#8220;security debt&#8221; accumulating with every release. According to application security specialists Black Duck \u2013 which surveyed over 1,000 software and security professionals worldwide \u2013 the industry is dealing with the [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/devsecops-at-risk-security-lags-behind-development-speed/\">DevSecOps at risk as security lags behind development speed</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3765220,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/devsecops-at-risk-security-lags-behind-development-speed",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DevSecOps at risk as security lags behind development speed",
+        "vote": 0
+    }
+]

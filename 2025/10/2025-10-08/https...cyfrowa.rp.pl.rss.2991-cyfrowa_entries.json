@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T16:39:45.893992+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T16:39:45+00:00",
+        "description": "Narz\u0119dzia sztucznej inteligencji znalaz\u0142y szerokie pole dzia\u0142ania m.in. w procesach rekrutacyjnych. AI skanuje CV kandydat\u00f3w, a kandydaci z kolei szukaj\u0105 metod na \u201eoszukanie AI\u201d. Eksperci HR m\u00f3wi\u0105 o chaosie i niebezpiecznym sprz\u0119\u017ceniu zwrotnym.",
+        "id": 3766053,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/it/art43146601-firmy-alarmuja-to-juz-koniec-cv-i-rekrutacyjny-chaos-chatgpt-w-sluzbie-kandydatow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Firmy alarmuj\u0105: to ju\u017c koniec CV i rekrutacyjny chaos. ChatGPT w s\u0142u\u017cbie kandydat\u00f3w",
+        "vote": 0
+    }
+]

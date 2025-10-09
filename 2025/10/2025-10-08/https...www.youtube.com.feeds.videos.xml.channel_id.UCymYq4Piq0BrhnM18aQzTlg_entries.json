@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T23:49:04.847008+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T22:45:00+00:00",
+        "description": "See more in this series: https://www.youtube.com/playlist?list=PLCZHp4d1HnItSSUpA-DskfKKKrQ_LQYwP - The FCC issued a draft order that makes some progress towards a NextGen TV / ATSC 3.0 transition. But they also have registered significant concerns with the DRM rollout, including asking if they should be the ones to administer encryption rules. Subscribe for more! http://lon.tv/s\n\nLinks: \nDraft Ruling: https://lon.tv/drm107\nFCC Filing Instructions: https://lon.tv/fccinstructions\n\nVIDEO INDEX:\n00:00 - Intro\n01:36 - End of the Simulcasting Rule\n02:11 - MPEG-4 on ATSC 1.0 Streams\n02:59 - Tuner Mandate\n04:12 - FCC Asks if They, Not the A3Sa, Should Set DRM Standard\n05:05 - Importance of Citizen Comments\n05:32 - FCC Concerns With The A3SA\n06:23 - Market Concerns: A3SA Gatekeeping?\n06:55 - Does encrypted content constitue \"broadcasting?\"\n07:42 - Is DRM locking out viewers?\n08:38 - Fair use and recording\n10:17 - This this more active than ATSC 1.0?\n10:55 - Citizen shout-outs in the foonotes\n",
+        "id": 3769605,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=0YmeEp_N6pY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0YmeEp_N6pY/hqdefault.jpg",
+        "title": "Big Nextgen TV / ATSC 3 DRM Update: FCC Has Many, Many DRM Questions",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "VR Gorilla - Virtual Reality & 360 Videos",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T12:36:30.771348+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T11:54:04+00:00",
+        "description": "Finally visit the places you\u2019ve dreamed of in VR.\n\nGet the TriptoVR in the Meta Quest store under this link now! \n\nhttps://www.meta.com/experiences/6447684138675693/\n\nGet the TriptoVR in the Pico store under this link now!\n\nhttps://store-global.picoxr.com/nl/detail/1/7291747813258477574\n\nTriptoVR makes real world travel experiences available for anyone with a Meta or Pico headset.\n\nEmbark on an incredible lifelike virtual adventure with TriptoVR, your gateway to the world's most enchanting destinations. Experience the vibrancy of cities and landscapes, brought to life with stunning realism, from the bustling streets of Tokyo to the tranquil beaches of Cape Town.  All from the comfort of your home.\n\nBoat on the serene canals of Venice in a gondola, marvel at the grandeur of the Eiffel Tower, witness the architectural splendor of the Sydney Opera House, and immerse yourself in the culture, history, and nature of Istanbul, Bali, Prague, Lima, and many more. Our app brings you closer than",
+        "id": 3763743,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=n2-HNnBwRhc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 378,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6AXBF-78lNa3_TjAIWZWmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n2-HNnBwRhc/hqdefault.jpg",
+        "title": "TriptoVR: Travel the world in your Meta Quest!",
+        "vote": 0
+    }
+]

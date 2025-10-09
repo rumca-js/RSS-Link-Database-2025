@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fern",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T16:00:04.669393+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T15:10:53+00:00",
+        "description": "Start learning on Brilliant for free today: https://brilliant.org/fern. Our viewers get 20% off an annual premium subscription. It\u2019s a great way to support our channel while building new skills (ad).\n\nThis video is largely based on Blaine Harden\u2019s book \u201cEscape from Camp 14\u201d, about former prisoner Shin Dong-Hyuk.\nIn 2015, Shin retracted parts of his story. Harden details the changes on his website: https://blaineharden.com/escape-from-camp-14-reviews/\n\nKim Yong\u2019s escape story: https://books.google.de/books/about/Long_Road_Home.html?id=CDncjwEACAAJ&redir_esc=y\n\nThis is the story of North Korea\u2019s deadliest prison camp - Camp 14\n\nSources: https://docs.google.com/document/d/1ugrl8ddk9mkXtjtSPUcrf5oPJbKKDmcWJLqZMl1X6MI/edit?usp=sharing \n\nMusic list:\n\nArtlist\nQuinten Coblentz - Monster Within\nColten Tyler Williams - Gathering\nQuinten Coblentz - Monster Within\nColten Tyler Williams - Gathering\nRotem Moav - Blood on the Snow\nAdam Dib - It Comes at Night\nShahead Mostafafar - Fallen\nGilad Benamr",
+        "id": 3765281,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8Gm7kSUkBAk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 703,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8Gm7kSUkBAk/hqdefault.jpg",
+        "title": "Camp 14: The Most Horrible Place in North Korea",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T04:04:42.587362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T04:04:42+00:00",
+        "description": "<p><span>\n\nA pandemic that's substantially worse than COVID-19 is a serious\npossibility.  If one happens, having a good mask could save your life.\nA high quality reusable mask is only </span>\n\n<a href=\"https://www.jefftk.com/p/elastomeric-fitting-session\">$30 to\n$60</a>, and I think it's well worth it to buy one for yourself.\nWorth it enough that I think you should order one now if you don't\nhave one already.\n\n\n\n<p>\n\nBut if you're not convinced, let's do some rough estimation.\n\n</p>\n\n<p>\n\nCOVID-19 killed about 0.2% of people (<a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902796-3/fulltext\">20M</a>\nof 8B).  The 1918 flu killed more like 2.5% (<a href=\"https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-commemoration/pandemic-timeline-1918.htm\">50M</a>\nof 2B).  Estimating from two data points is fraught, but this gives\nyou perhaps a 0.02% annual chance of dying in a pandemic. Engineering\n<a href=\"https://www.jefftk.com/p/out-of-distribution-b",
+        "id": 3761353,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/you-should-get-a-reusable-mask",
+        "manual_status_code": 0,
+        "page_rating": 86,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/3m-traditional-p100.png",
+        "title": "You Should Get a Reusable Mask",
+        "vote": 0
+    }
+]

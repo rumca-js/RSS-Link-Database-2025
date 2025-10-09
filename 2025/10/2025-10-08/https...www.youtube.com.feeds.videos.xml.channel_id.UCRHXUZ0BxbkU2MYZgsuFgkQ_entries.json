@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Spiffing Brit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T16:32:51.435753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T16:30:06+00:00",
+        "description": "Welcome to the big reveal of what I have been working on since 2021. The glorious return of Spifftopia but now as SPIFFTOPIA MMP! A massively multiplayer project where thousands of players in a free Minecraft server will attempt to survive in a brutally hardcore world where you only have one life.\n\nTHE STREAM: \n\nSpifftopia Gameplay Guide: https://youtu.be/lPkWPpxHWXY\n\nYT Members:\nhttps://www.youtube.com/channel/UCRHXUZ0BxbkU2MYZgsuFgkQ/join\nPatreon: https://www.patreon.com/Spiffing\nTwitter: @thespiffingbrit\nDiscord: https://discord.gg/spifftopia\nWebsite: https://www.spifftopia.net/\n\nSpifftopia MMP is a Minecraft civilisation event like no other and hopefully it brings you all a lot of fun happy memories and you get to partake in the action too. \n\nGeneral FAQ:\nWhat Version Of Minecraft - Java Version 1.20.4\n\nCan I Pay To Win - No there are no micro transactions or paid gameplay advantages \n\nCan I Donate Without Playing - Yes your support will help fund this very costly server for other",
+        "id": 3765969,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VBghs2ARElU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 764,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRHXUZ0BxbkU2MYZgsuFgkQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VBghs2ARElU/hqdefault.jpg",
+        "title": "I Need YOU To Die In Minecraft.",
+        "vote": 0
+    }
+]

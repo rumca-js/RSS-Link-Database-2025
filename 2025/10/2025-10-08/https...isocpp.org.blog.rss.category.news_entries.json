@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Meeting C++",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T18:14:21.359411+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T17:22:39+00:00",
+        "description": "<p>\n\tA blog entry about this years t-shirt at Meeting C++ 2025 and exploring QPainterPath for it.</p>\n<blockquote>\n\t<h2>\n\t\t<a href=\"https://meetingcpp.com/blog/items/You-should-use-QPainterPath-they-said---.html\">You should use QPainterPath they said...</a></h2>\n\t<p>\n\t\tby Jens Weller</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThis post is about what I learned while playing around with QPainterPath for this years t-shirt at Meeting C++ 2025 sponsored by Hudson River Trading.</p>\n\t<p>\n\t\tOne of the issues from last years t-shirt was when using drawText from QPainter, one does not really *draw* text in an svg exported. Instead you&#39;ll get the text and the font kinda embedded in an svg. What good is that in a vector graphic? This was a bit of a surprise when I ran into issues with this last year during printing. While this could be solved with the printing company picking a different font, it would have been also solved by using QPainterPath. At least this was the ",
+        "id": 3767132,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/10/you-should-use-qpainterpath-they-said",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "You should use QPainterPath they said...",
+        "vote": 0
+    }
+]

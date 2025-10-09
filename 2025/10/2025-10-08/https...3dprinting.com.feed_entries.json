@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T11:25:10.488605+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T11:14:19+00:00",
+        "description": "<div style=\"display: flex;\"><div style=\"width: calc(100% - 75px);padding-right:16px;\"><h2><a href=\"https://3dprinting.com/news/spider-like-robot-combines-3d-printing-and-construction-for-earth-and-lunar-applications/\" style=\"color: #1a0dab;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-weight: normal;mso-line-height-rule: exactly;font-size:18px;text-decoration:none;margin-bottom:8px;\" target=\"_blank\">Spider-Like Robot Combines 3D Printing and Construction for Earth and Lunar Applications</a></h2><span style=\"color:#777;font-size:14px;margin-top: auto;\">October 8</span></div><div style=\"max-width:75px;\"><img width=\"500\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/e28f9eb65c6dbcb1d6d91e4501071af4-500x500.jpeg\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" alt=\"Spider-Like Robot Combines 3D Printing and Construction for Earth and Lunar Applications\" style=\"max-width:75px;border-radius:10px;overf",
+        "id": 3763551,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/spider-like-robot-combines-3d-printing-and-construction-for-earth-and-lunar-applications",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://3dprinting.com/wp-content/uploads/e28f9eb65c6dbcb1d6d91e4501071af4-500x500.jpeg",
+        "title": "Spider-Like Robot Combines 3D Printing and Construction for Earth and Lunar Applications - 3DPrinting.com",
+        "vote": 0
+    }
+]

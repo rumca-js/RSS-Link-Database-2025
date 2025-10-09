@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T16:04:29.302659+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T16:00:39+00:00",
+        "description": "a research paper called \"liberals and conservatives are motivated to avoid exposure to each others opinions\u201d gave people the option to read 2 articles, one that they agreed with and one that they disagreed with.",
+        "id": 3765291,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Ka_2lrjwJrs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Ka_2lrjwJrs/hqdefault.jpg",
+        "title": "People Would Rather Give Away Money Than Hear An Opinion They Disagree With #funfact",
+        "vote": 0
+    }
+]

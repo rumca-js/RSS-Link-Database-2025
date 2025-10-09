@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T16:01:20.419609+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T14:49:55+00:00",
+        "description": "Interview with Hanna from Tuta Mail, the most secure email provider in the world. This is no sponsored, so support my work here: https://www.patreon.com/thehatedone \n\nTuta Mail: https://tuta.com/\n\nTIMESTAMPS\n00:00 Intro\n1:30 Who is Hannah and what is Tuta?\n4:30 Hannah's privacy journey in Germany\n8:00 What is Tuta doing to protect their user privacy now and in the future of quantum computing?\n11:22 How would Tuta respond to an order to build a backdoor into their encryption\n14:16 CHAT CONTROL is an authoritarian nightmare \n17:24 What is Tuta's business model?\n21:12 Who owns and invests in Tuta?\n22:04 How will Tuta sustain its business and growth in the future?\n27:15 The problem with \"walled gardens\" and tech \"ecosystems\"\n32:35 Why Tuta refuses AI in all their products\n35:35 Tuta's ethical principles that go beyond privacy and open source\n42:00 Privacy as a principle vs privacy as a product\n44:53 SHE SAID I AM BRILLIANT!\n45:35 How CHAT CONTROL enables elite totalitarianism\n49:00 Are th",
+        "id": 3765286,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6Xzv3n-DCpQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6Xzv3n-DCpQ/hqdefault.jpg",
+        "title": "I talked to the makers of the MOST SECURE EMAIL in the world",
+        "vote": 0
+    }
+]

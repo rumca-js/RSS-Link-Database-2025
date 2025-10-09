@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aldgra Fredly",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T15:54:19.532800+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T15:06:00+00:00",
+        "description": "The lawsuit states that child users are being exposed to \u2018violent or sexual situations within the Roblox universe.\u2019",
+        "id": 3765262,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/kentucky-ag-sues-roblox-over-alleged-failure-to-protect-children-from-predators-5926375",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/08/id5901570-1.download-1080x720.jpg",
+        "title": "Kentucky AG Sues Roblox Over Alleged Failure to Protect Children From Predators",
+        "vote": 0
+    }
+]

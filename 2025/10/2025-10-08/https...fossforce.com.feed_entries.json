@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T18:38:48.989823+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T18:07:58+00:00",
+        "description": "<p><em>It wasn\u2019t a big tech firm, but the biggest rural retailer in America that got the largest wallop ever from California\u2019s toughest privacy watchdog.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/10/california-slaps-tractor-supply-with-record-1-35m-privacy-fine/\">California Slaps Tractor Supply with Record $1.35M Privacy Fine</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 3767317,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/10/california-slaps-tractor-supply-with-record-1-35m-privacy-fine",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "California Slaps Tractor Supply with Record $1.35M Privacy Fine",
+        "vote": 0
+    }
+]

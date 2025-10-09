@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T22:58:12.817608+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T21:43:32+00:00",
+        "description": "Be careful not to optimize for a single metric at the expense of everything else. You might hit the target but miss the point\u2014real progress comes from keeping the bigger picture in mind.",
+        "id": 3769351,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Wdxo3AMd44s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Wdxo3AMd44s/hqdefault.jpg",
+        "title": "The Shortcut Rule",
+        "vote": 0
+    }
+]

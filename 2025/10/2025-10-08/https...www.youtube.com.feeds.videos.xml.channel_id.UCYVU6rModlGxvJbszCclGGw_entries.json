@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T07:31:02.697417+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T07:00:19+00:00",
+        "description": "A week from now, Windows 10 will be considered to be at End-of-Life and chances are, those using it cannot upgrade to Windows 10 because of the hardware requirements of Windows 11. While you think it is a big and risky move to go to Linux, I will show you in this video why it is not. As a Windows expert for decades, I've left Windows long ago and Windows today is headed into a completely wrong direction. If you want to own your machine, instead of Microsoft owning you, make the switch now. This video will show you that it's not hard at all.\n\nUSB Boot Guide (for Common Computer Models)\nhttps://brax.me/f/linux-boot.pdf/T4AZ68dd6b72d55db2.94667652\n\nDual Boot Linux and Windows (watch for a newer version of this video)\nhttps://www.youtube.com/watch?v=4VKoG0dKCOk\n----------------------------------\nBraX3 Privacy Phone is on https://braxtech.net\nLinux Tablet project will be started on Indiegogo.com\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, B",
+        "id": 3762014,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NQ2r8RwcKhY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NQ2r8RwcKhY/hqdefault.jpg",
+        "title": "Linux Will Work For You. Time to Dump Windows 10. And Don't Bother with Windows 11",
+        "vote": 0
+    }
+]

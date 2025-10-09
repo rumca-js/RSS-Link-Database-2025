@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T15:16:32.177568+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T14:45:15+00:00",
+        "description": "How many of you knew about this, or what it could do? \ud83e\udd14\n\nThe Excel spreadsheet: https://docs.google.com/spreadsheets/d/e/2PACX-1vRbG0VzU_h4aDqkyV03kjcIYKTBIhup5JCWUzrABGbyX8ASUEDyavV-Pws6wZSFfw/pub?output=xlsx\n\nSteam actually has a hidden 'console' tab that is not activated by default, but it's pretty easy to enable. In this video I show you several ways to do so, and what you can actually do with it. For example, you can run what I'd call \"pure\" commands that don't take arguments, as well as commands that do take arguments, and you can also see and change settings. It also lets you see a list of Steam's launch arguments. But I also discovered a bunch of undocumented launch arguments that aren't listed in the official list.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:16 - How To See The Console\n0:52 - Dev Launch Argument\n1:15 - What Commands Are There?\n2:33 - Undocumented Commands\n3:48 - Something I Noticed\n4:12 - Interesting Commands\n6:00 - Download Commands\n7:16 - Some Interesting Launch Args\n",
+        "id": 3765120,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=yaWPCW70qaU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yaWPCW70qaU/hqdefault.jpg",
+        "title": "Steam's Secret Command Console",
+        "vote": 0
+    }
+]

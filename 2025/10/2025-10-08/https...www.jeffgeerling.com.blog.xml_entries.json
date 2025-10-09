@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-08T15:40:20.662179+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-08T15:32:50+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">How much radiation can a Pi handle in space?</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Late in the cycle while researching <a href=\"https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space\">CubeSats using Pis in space</a>, I got in touch with <a href=\"https://www.iancharnas.com\">Ian Charnas</a>, the chief engineer for the <a href=\"https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg\">Mark Rober</a> YouTube channel.</p>\n\n<p>Earlier this year, Crunchlabs launched <a href=\"https://space.crunchlabs.com\">SatGus</a>, which is <a href=\"https://www.n2yo.com/satellite/?s=62713\">currently orbiting Earth</a> taking 'space selfies'.</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/space-selfie-mark-rober-crunchlabs-satgus.jpg\" width=\"700\" height=\"553\" class=\"inser",
+        "id": 3765222,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/how-much-radiation-can-pi-handle-space",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/space-selfie-mark-rober-crunchlabs-satgus.jpg",
+        "title": "How much radiation can a Pi handle in space?",
+        "vote": 0
+    }
+]
