@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Apple",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T16:38:54.480673+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T16:00:12+00:00",
+        "description": "\u201cMost people make the mistake of thinking design is what it looks like\u2026 Design is not just what it looks like and feels like. Design is how it works.\u201d \u2014Steve Jobs, The New York Times, 2003 \n\n\u201cNeon: 1. Shinjuku\u201d by Hannah Peel & Manchester Collective https://apple.co/Neon-Shinjuku \n\n#AppleEvent #AppleDesign #iPhone17\n\nWelcome to the official Apple YouTube channel. Here you\u2019ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "id": 3775760,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-ueUb6PNwbs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 773,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-ueUb6PNwbs/hqdefault.jpg",
+        "title": "Design is how it works | Apple",
+        "vote": 0
+    }
+]

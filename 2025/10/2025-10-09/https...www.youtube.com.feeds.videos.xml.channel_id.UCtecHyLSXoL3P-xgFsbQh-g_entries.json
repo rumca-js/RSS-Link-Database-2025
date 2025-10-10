@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T13:06:29.019271+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T12:34:37+00:00",
+        "description": "Sprawd\u017a sklep Cyrulicy - https://cyrulicy.pl/\nKod zni\u017ckowy 25% - naga\u0142\u0119zi2025\n\nCo tak naprawd\u0119 powoduje, \u017ce filmy Nolana s\u0105 tak monumentalne i dos\u0142ownie zapieraj\u0105 dech w piersi? Analizuj\u0105c Tenet, staramy si\u0119 odnale\u017a\u0107 klucz do jego sukcesu. Odkry\u0107 ten magiczny element, kt\u00f3ry buduje ca\u0142e jego \u015bwiaty. A musicie wiedzie\u0107, \u017ce zdefiniowanie tej magicznej cz\u0105stki, wcale nie jest takie proste.",
+        "id": 3773870,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=aKI9oai4Aoo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aKI9oai4Aoo/hqdefault.jpg",
+        "title": "Ten NAJS\u0141ABSZY film Nolana",
+        "vote": 0
+    }
+]

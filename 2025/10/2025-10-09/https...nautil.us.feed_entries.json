@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Katharine Gammon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T10:46:30.262733+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T09:50:00+00:00",
+        "description": "<p>How climate change favors new hybrid species</p>\n<p>The post <a href=\"https://nautil.us/the-pizzly-bears-and-grue-jays-of-the-future-1241490/\">The Pizzly Bears and Grue Jays of the Future</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 3772618,
+        "language": "en-US",
+        "link": "https://nautil.us/the-pizzly-bears-and-grue-jays-of-the-future-1241490",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets.nautil.us/sites/3/nautilus/Gammon-grue-breaker.png?auto=compress&fit=scale&fm=png&h=576&ixlib=php-3.3.1&w=1024&wpsize=large",
+        "title": "The Pizzly Bears and Grue Jays of the Future",
+        "vote": 0
+    }
+]

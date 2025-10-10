@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T21:06:00.217551+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T19:43:16+00:00",
+        "description": "<p>\n\t<img alt=\"Filipek-structuredbindings.png\" src=\"https://isocpp.org/files/img/Filipek-structuredbindings.png\" style=\"width: 400px; margin: 10px; float: right;\" />Structured binding is a C++17 feature that allows you to bind multiple variables to the elements of a structured object, such as a tuple or struct. This can make your code more concise and easier to read, especially when working with complex data structures. On this blog, we already covered this functionality, but we&rsquo;ll talk about some good C++26 additions and real code use cases.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.cppstories.com/2025/structured-bindings-cpp26-updates/\">Structured bindings in C++17, 8 years later</a></h3>\n\t<p>\n\t\tby Bartlomiej Filipek</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tAn excellent demonstration of structured bindings is an iteration through a map object.</p>\n\t<p>\n\t\tIf you have a&nbsp;<code>std::map</code>&nbsp;of elements, you might know that internally, they ",
+        "id": 3777988,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/10/structured-bindings-in-cpp17-8-years-later-bartlomiej-filipek",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/Filipek-structuredbindings.png",
+        "title": "Structured Bindings in C++17, 8 Years Later -- Bartlomiej Filipek",
+        "vote": 0
+    }
+]

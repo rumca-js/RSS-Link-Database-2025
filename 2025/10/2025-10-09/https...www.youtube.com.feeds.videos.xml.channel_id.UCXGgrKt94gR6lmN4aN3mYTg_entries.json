@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Evans",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T15:34:49.653914+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T15:05:48+00:00",
+        "description": "Subscribe for more! https://www.youtube.com/austinevans\nCheck out our @thisis channel! https://www.youtube.com/thisis\nAs well as the @Denki channel! https://www.youtube.com/@Denki\nInstagram: https://instagram.com/austinnotduncan\nThreads: https://www.threads.net/@austinnotduncan\n\nI put together a blind test to see if people could actually spot the Nintendo Switch 2 next to a Sony PS5, RTX 5070 gaming laptop and the Xbox Series S. The results? Way more interesting than I expected. That $450 price is starting to look pretty different now that everything else is $600 or more...\n\nChapter Titles:\n0:00 Blind Test\n5:02 Austin's Test\n8:03 Performance\n9:12 Price\n10:57 Competition",
+        "id": 3774927,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=m4lmAPOxWqw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 24,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m4lmAPOxWqw/hqdefault.jpg",
+        "title": "I was WRONG about Switch 2",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T15:21:17.804244+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T12:22:39+00:00",
+        "description": "Nextcloud Hub 25 is here, and it's time to finally DITCH Google & Microsoft! This landmark \"Autumn\" update introduces 7 major changes that make self-hosting powerful, private, and unbelievably intuitive. \n\nFull Release Blog: https://nextcloud.com/blog/nextcloud-hub25-autumn/\n\nSee the huge new visual redesign, a productivity-focused AI Assistant that keeps your data private, revolutionary Nextcloud Talk threads with live subtitles, and powerful Calendar polls for stress-free scheduling. Hub 25 is the fastest and most user-friendly private cloud yet!\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.or",
+        "id": 3774863,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tqM_wyE54Nc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tqM_wyE54Nc/hqdefault.jpg",
+        "title": "HUGE Updates in Nextcloud Hub 25 - Making it EASY to ditch Google",
+        "vote": 0
+    }
+]

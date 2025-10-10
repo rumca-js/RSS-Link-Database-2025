@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Connor Makar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T13:40:50.598014+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T13:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/absolum-header-cropped.png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Having spent night after night throwing myself into <a href=\"https://www.eurogamer.net/games/absolum\">Absolum</a>, I remain hopelessly charmed by it. A spirited fantasy that dons the<em> bande dessin&eacute;e</em> mantle, it's a fantastic case study in how to make combo-centric fist fights feel good and look grand all at once. It's a beautiful brawler &ndash; and one that'll need to make good use of its mitts, given the number of killer releases fighting over every crumb of attention this month.</p> <p><a href=\"https://www.eurogamer.net/absolum-from-the-publisher-of-eurogamer-essential-streets-of-rage-4-is-a-brawler-that-lets-you-cash-out-a-combo-and-its-brilliant\">Read more</a></p>",
+        "id": 3774004,
+        "language": "en",
+        "link": "https://www.eurogamer.net/absolum-from-the-publisher-of-eurogamer-essential-streets-of-rage-4-is-a-brawler-that-lets-you-cash-out-a-combo-and-its-brilliant",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/absolum-header-cropped.png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Absolum, from the publisher of Eurogamer Essential Streets of Rage 4, is a brawler that lets you cash-out a combo - and it's brilliant",
+        "vote": 0
+    }
+]

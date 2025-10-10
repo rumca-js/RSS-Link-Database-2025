@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T03:12:38.437621+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T02:08:57+00:00",
+        "description": "Ovi full installation tutorial. How to use Ovi in ComfyUI #ai #aitools #aivideo #veo3 #sora2\n\nThanks to our sponsor LTX Studio. Try it for free https://tinyurl.com/25wrkwap\n\nOvi project page: https://aaxwaz.github.io/Ovi/\nComfyUI workflow: https://github.com/snicolast/ComfyUI-Ovi\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\n\nWavespeed https://wavespeed.ai/models/character-ai/ovi/text-to-video\nFal https://fal.ai/models/fal-ai/ovi/image-to-video\nReplicate https://replicate.com/character-ai/ovi-i2v\n\n0:00 Ovi intro\n0:30 Ovi demos\n3:47 How to use Ovi online\n4:47 How to install Ovi offline\n7:57 LTX Studio\n9:13 Ovi installation continued\n11:17 How to use Ovi in ComfyUI\n15:16 T2V\n15:53 I2V\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AIS",
+        "id": 3770538,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=w9WmKGxTTdI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/w9WmKGxTTdI/hqdefault.jpg",
+        "title": "FINALLY! Open-source AI video with audio!",
+        "vote": 0
+    }
+]

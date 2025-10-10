@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T17:19:39.054404+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T16:30:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/-xM7SVmwagQ\" width=\"480\" alt=\"thumbnail\" title=\"How Is This Git Commit 50 Years Old???\" /></p>Have you ever noticed a weirdly old git commit, git has only existed since 2005 but a commit that appears to be vastly older than that, how exactly is that possible.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Git Commit Docs: https://git-scm.com/docs/git-commit<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz",
+        "id": 3776039,
+        "language": "en",
+        "link": "https://odysee.com/how-is-this-git-commit-50-years-old:21bca3e723a3e5ecfc6503fc9f3971760c13e41e",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/-xM7SVmwagQ",
+        "title": "How Is This Git Commit 50 Years Old???",
+        "vote": 0
+    }
+]

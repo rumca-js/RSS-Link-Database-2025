@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T15:48:23.473033+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T14:12:44+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Resizeable BAR support on the Raspberry Pi</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>While not an <em>absolute</em> requirement for modern graphics card support on Linux, <a href=\"https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html\">Resizeable BAR</a> support makes GPUs go faster, by allowing GPUs to throw data back and forth on the PCIe bus in chunks larger than 256 MB.</p>\n\n<p>In January, I opened an issue in the Raspberry Pi Linux repo, <a href=\"https://github.com/raspberrypi/linux/issues/6621\">Resizable BAR support on Pi 5</a>.</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/sparkle-intel-arc-b580-on-raspberry-pi-500-plus.jpg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image",
+        "id": 3775021,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/sparkle-intel-arc-b580-on-raspberry-pi-500-plus.jpg",
+        "title": "Resizeable BAR support on the Raspberry Pi",
+        "vote": 0
+    }
+]

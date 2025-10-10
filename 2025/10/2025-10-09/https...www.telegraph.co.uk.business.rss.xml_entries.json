@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T17:10:46.790074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T17:07:39+00:00",
+        "description": "FTSE banks suffer \u00a316bn slump",
+        "id": 3775956,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/10/09/ai-stock-market-correction-jamie-dimon-jp-morgan-ftse-100",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FTSE banks suffer \u00a316bn slump",
+        "vote": 0
+    }
+]

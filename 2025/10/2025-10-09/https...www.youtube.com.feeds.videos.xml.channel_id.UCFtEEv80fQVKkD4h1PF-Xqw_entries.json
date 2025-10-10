@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T16:32:28.858473+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T14:59:50+00:00",
+        "description": "Get to know the creators of RSS, Python, Kubernetes, Google Docs, Google Lens, and ONNX who are now shaping AI at Microsoft.\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories",
+        "id": 3775688,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/_0C2w6BW7-A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_0C2w6BW7-A/hqdefault.jpg",
+        "title": "Meet the creators of Python, RSS, Kubernetes and more who are now building AI at Microsoft",
+        "vote": 0
+    }
+]

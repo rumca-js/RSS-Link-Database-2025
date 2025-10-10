@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T09:24:39.770727+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T09:03:00+00:00",
+        "description": "For many of us in the industrialized world, happiness is directly related to how big the container is. Overflowing vs. skimpy. Adequate vs. generous. Overloaded vs. slack to spare. We know that making the plate smaller helps us appreciate what we&#8217;re served. Get the bucket size right and your life changes. This is probably the [&#8230;]",
+        "id": 3772096,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/bucket-size",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bucket size",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T15:28:26.352291+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T14:00:18+00:00",
+        "description": "Paul Gross and his team at Remora are trying to do something that\u2019s never been done before. They\u2019re building mobile carbon capture devices for commercial trucks and trains. It's a system that captures CO2 from moving vehicles before those emissions ever enter the atmosphere. Then they turn those captured emissions into revenue by selling to customers that can turn the liquified CO2 into new products. In this episode of Hard Tech, YC\u2019s Gustaf Alstr\u00f6mer visited Remora's headquarters outside of Detroit to find out how a recent college graduate with no engineering background is helping transform the $2 trillion transportation industry.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 - Carbon Capture on Trucks\n00:47 - How It Works\n02:33 - Remora\u2019s Origin Story\n04:19 - Lessons for Founders\n06:19 - From YC to Detroit\n07:59 - Building a World-Class Team\n09:31 - Train Prototype\n10:37 - Testing and Iteration\n11:47 - ",
+        "id": 3774885,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ENG_DQF5E60",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ENG_DQF5E60/hqdefault.jpg",
+        "title": "The World's First Commercial Mobile Carbon Capture Device",
+        "vote": 0
+    }
+]

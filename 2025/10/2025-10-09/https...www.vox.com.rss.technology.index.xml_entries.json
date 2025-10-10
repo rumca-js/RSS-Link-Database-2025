@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Clark Estes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T13:19:15.129170+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T08:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"On Wednesday, the Bank of England cautioned that the risk of a \u201csudden correction\u201d to global markets is growing as the valuations of top AI companies increase.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2236865005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tOn Wednesday, the Bank of England cautioned that the risk of a \u201csudden correction\u201d to global markets is growing as the valuations of top AI companies increase.\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">It\u2019s been a big couple weeks for OpenAI. The most valuable startup in the world recently announced that ChatGPT <a href=\"https://www.axios.com/2025/10/07/openai-chatgpt-chatbot-operating-system\">will become more like an operating system</a>, released its <a href=\"https://www.vox.com/future-perfect/463596/openai-sora2-reels-videos-tiktok-chatgpt-deepfakes\">first social ",
+        "id": 3773940,
+        "language": "",
+        "link": "https://www.vox.com/technology/464187/openai-chatgpt-ai-bubble-nvidia-stock",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2236865005.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Don\u2019t get too excited about AI\u2019s downfall",
+        "vote": 0
+    }
+]

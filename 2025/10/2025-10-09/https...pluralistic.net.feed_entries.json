@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T12:18:33.286232+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T11:25:11+00:00",
+        "description": "Today's links California bans algorithmic price-fixing: Bye-bye, Realpage. Hey look at this: Delights to delectate. Object permanence: Android can't stop phoning home; FBI wants its bug back; Bikram can't copyright yoga; Prison debaters trounce Harvard. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. California bans algorithmic price-fixing (permalink) As the Marxist pamphleteer Adam Smith wrote in his Leninist textbook The Wealth of Nations, \"People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.\" For a commie, that Adam Smith sure had a fine grasp of the business mindset. Price-fixing conspiracies are as old as the lumber barons who gouged Noah, and they're illegal as hell. But price-gougers gonna",
+        "id": 3773263,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/10/09/pricewars",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/09Oct2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: California bans algorithmic price-fixing (09 Oct 2025)",
+        "vote": 0
+    }
+]

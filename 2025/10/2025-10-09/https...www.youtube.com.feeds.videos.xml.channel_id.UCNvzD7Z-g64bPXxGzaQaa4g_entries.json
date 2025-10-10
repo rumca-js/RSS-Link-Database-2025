@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T16:56:47.299295+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T15:16:00+00:00",
+        "description": "With a recent content update, Steam reviews are still not looking hot for Monster Hunter Wilds. What's going on? Let's talk.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1",
+        "id": 3775848,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VnfB4zTPmec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VnfB4zTPmec/hqdefault.jpg",
+        "title": "What The HELL Is Going On With Monster Hunter Wilds?",
+        "vote": 0
+    }
+]

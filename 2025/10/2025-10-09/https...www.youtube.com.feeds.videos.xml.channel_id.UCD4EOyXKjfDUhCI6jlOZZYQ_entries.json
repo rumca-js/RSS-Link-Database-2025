@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T21:04:44.179150+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T19:26:16+00:00",
+        "description": "Attend In Person Class - https://www.meetup.com/silicon-dojo-research-triangle/\nSupport Content at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nThere's far more to \"AI\" than a ChatGPT prompt! This class will teach the basic components of creating your own AI systems. Don't worry. These will be simple examples designed for you to understand and the exercises should be able to run on almost any computer.\n\nWe'll start with using a local LLM framework called Ollama that will allow you to interact with LLM's directly on your computer.\n\nWe will then show how Python can be used to create a basic command line app that can harness the power of Ollama to add AI to your code.\n\nWe will then add prompt injection to add specific rules for the LLM to follow when providing responses\n\nFrom there we will show how to dynamically pull in information about a user so that the LLM provides custom responses based on the users information.\n\nAfter that we will ",
+        "id": 3777980,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KQ1-iY6dd78",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KQ1-iY6dd78/hqdefault.jpg",
+        "title": "Intro to AI LLM Systems with Ollama and Python (In Person Class)",
+        "vote": 0
+    }
+]

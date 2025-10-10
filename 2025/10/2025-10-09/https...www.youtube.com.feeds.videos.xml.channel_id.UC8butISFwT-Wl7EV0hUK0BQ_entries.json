@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T13:58:38.191412+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T13:48:27+00:00",
+        "description": "This is CS50\u2019s introduction to databases using a language called SQL. Learn how to create, read, update, and delete data with relational databases, which store data in rows and columns. Learn how to model real-world entities and relationships among them using tables with appropriate types, triggers, and constraints. Learn how to normalize data to eliminate redundancies and reduce potential for errors. Learn how to join tables together using primary and foreign keys. Learn how to automate searches with views and expedite searches with indexes. Learn how to connect SQL with other languages like Python and Java. Course begins with SQLite for portability\u2019s sake and ends with introductions to PostgreSQL and MySQL for scalability\u2019s sake as well. Assignments inspired by real-world datasets.\n\n\ud83d\udcbb Slides, source code, and more at https://cs50.harvard.edu/sql/\n\n\u270f\ufe0f Carter Zenke teaches this course.\n\n\u2764\ufe0f Try interactive Frontend courses we love, right in your browser: https://scrimba.com/freeCodeCam",
+        "id": 3774055,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WXk7yDqsKxs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WXk7yDqsKxs/hqdefault.jpg",
+        "title": "Harvard CS50\u2019s Intro to Databases with SQL \u2013 Full University Course",
+        "vote": 0
+    }
+]

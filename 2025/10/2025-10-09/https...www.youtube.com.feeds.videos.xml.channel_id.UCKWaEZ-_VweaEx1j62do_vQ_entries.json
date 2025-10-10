@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T11:34:53.869168+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T11:00:55+00:00",
+        "description": "Ready to become a certified Application Developer - Operational Decision Manager Standard? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdetsa\n\nLearn more about the Decision Modeling here \u2192 https://ibm.biz/BdbRP7\n\nWhat makes AI decision agents reliable and transparent? Blue Polaris Executive Partner, James Taylor, explains how Decision Model and Notation (DMN) \ud83d\ude80 and machine learning models \ud83e\udd16 integrate with decision platforms to build transparent, scalable AI systems. Discover the tools for smarter automation!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bde7MZ\n\n#aiagents #machinelearning #dmn #aiautomation",
+        "id": 3773165,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Wtpwva8t1vs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Wtpwva8t1vs/hqdefault.jpg",
+        "title": "Designing AI Decision Agents with DMN, Machine Learning & Analytics",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-09T21:21:18.739143+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-09T21:03:56+00:00",
+        "description": "Using a tunnel is fundamental to modern software development. This video shows you exactly how to set up the following free tunneling services:\n\n- ngrok (00:01:36)\n- Cloudflare Tunnels (00:09:20)\n- Tailscale Funnels (00:19:16)\n\nThe tunnel forwards a public domain name (such as https:// mydomain.com) to a local and private development server (such https:// localhost:8000). This process is a must so that you can:\n\n- Enable HTTPs on your project\n- Setup and test live webhooks\n- Create ChatGPT Apps with Apps SDK\n- Test your MCP Servers outside of your local environment\n- Configure OAuth flows (Google Login, GitHub Login, Facebook Login, etc)\n- Share your project with anyone in the world\n- Run live tests\n- In some cases, you can even use to to go into Production (not covered in this video).\n\nChapters:\n00:00:00 Welcome\n00:01:36 Install and Use Ngrok Tunnels\n00:09:20 Setup a Cloudflare Tunnel with a Custom Domain\n00:19:16 Use Tailscale Funnels for Tunneling\n00:25:39 Thank you",
+        "id": 3778101,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Xv_d4Ta1mDE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Xv_d4Ta1mDE/hqdefault.jpg",
+        "title": "Unlock Internet Access for your Local Projects: ngrok, Cloudflare Tunnels, and Tailscale Funnels.",
+        "vote": 0
+    }
+]
