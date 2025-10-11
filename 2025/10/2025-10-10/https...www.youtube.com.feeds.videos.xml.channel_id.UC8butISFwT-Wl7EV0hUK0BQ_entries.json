@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T01:54:21.730759+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T01:22:57+00:00",
+        "description": "Evan You is the creator of the popular Vue JavaScript library for front end development and the Vite JavaScript build tool that a lot of devs use as a boilerplate for their new projects. He's a self-taught developer based in Singapore.\n\nHe shares tips for:\n- Getting involved in open source\n- Leading open source projects and attracting sponsors\n- And how to use AI as a thinking assistant rather than just as a coding assistant\n\nWe also talk about his thoughts on the Chinese open source scene, a new documentary that just came out about Vite, and his new project: Void 0.\n\nLinks from the news section:\n\n1. freeCodeCamp just published a new in-depth course that will teach you full stack development fundamentals from the ground up. It covers front end development tools like HTML, CSS, and JavaScript. Then it moves to back end development tools like Node, SQL, and TypeScript. You can code along at home and build a variety of projects while getting exposed to a ton of concepts. (47 hour YouTube",
+        "id": 3779526,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xH9ZKsTY73Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xH9ZKsTY73Y/hqdefault.jpg",
+        "title": "Evan You \u2013 From Art School Kid to Open Source Legend [Podcast #192]",
+        "vote": 0
+    }
+]

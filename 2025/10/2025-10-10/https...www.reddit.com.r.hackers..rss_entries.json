@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/mario_candela",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T20:04:25.371997+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T15:40:18+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone \ud83d\udc4b</p> <p>We just launched a new community and are looking for our first members!</p> <p>Our goal is to build a collaborative network of security researchers and white hat professionals around the world.<br/> Together, we aim to create a distributed honeypot system to detect emerging malware, uncover zero-day vulnerabilities, and take down active botnets.</p> <p>If this sounds interesting, join us here: <a href=\"https://discord.gg/qdkbk3x6A3\">https://discord.gg/qdkbk3x6A3</a></p> <p>Apologies if this feels like self-promotion, we\u2019re just trying to make the internet a safer place for everyone. \u2764\ufe0f</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mario_candela\"> /u/mario_candela </a> <br/> <span><a href=\"https://www.reddit.com/r/hackers/comments/1o34do4/help_build_a_global_malware_botnet_defense_network/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hackers/comments/1o34do4/help_build_a",
+        "id": 3785529,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1o34do4/help_build_a_global_malware_botnet_defense_network",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Help build a global malware & botnet defense network!",
+        "vote": 0
+    }
+]

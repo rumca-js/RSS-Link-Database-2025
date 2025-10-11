@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T16:27:36.378112+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T15:01:38+00:00",
+        "description": "Reports are a new Lord of the Rings game is in the works designed to \"Compete with Hogwarts Legacy\". We ask our LOTR expert Lucy James what her dream game would even be.\n\nWatch the full Kurt & Lucy Gotcha Covered Episode: https://youtu.be/QVPObAwaeFQ\n\n#gotchacovered #gamespot",
+        "id": 3783518,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=p97-xiQM29Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p97-xiQM29Y/hqdefault.jpg",
+        "title": "What is the Dream Lord of the Rings Game?",
+        "vote": 0
+    }
+]

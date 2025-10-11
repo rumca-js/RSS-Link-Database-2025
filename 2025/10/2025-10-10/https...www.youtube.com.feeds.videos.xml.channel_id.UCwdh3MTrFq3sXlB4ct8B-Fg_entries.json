@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warhammer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T16:08:42.884027+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T15:08:21+00:00",
+        "description": "Find out more about what went into the writing of Dropsite Massacre through this exclusive interview with the author. https://www.warhammer-community.com/en-gb/articles/ifsqf3xo/john-french-tells-us-more-about-writing-the-dropsite-massacre/\n\nFollow for more Warhammer, more often:\n\n- Instagram: https://www.instagram.com/warhammerofficial/\n- Threads: https://www.threads.net/@warhammerofficial\n- Facebook: https://www.facebook.com/WarhammerOfficial/\n- Warhammer Community: https://www.warhammer-community.com/\n- Get Warhammer in your inbox: https://ow.ly/6SJq50T3NL1",
+        "id": 3783373,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=yZyWQHPMVkg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 385,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwdh3MTrFq3sXlB4ct8B-Fg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yZyWQHPMVkg/hqdefault.jpg",
+        "title": "Author Interview \u2013 John French | Black Library",
+        "vote": 0
+    }
+]

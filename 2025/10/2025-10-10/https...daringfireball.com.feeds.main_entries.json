@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T21:44:35.011697+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T20:24:00+00:00",
+        "description": "<p>Apple Newsroom:</p>\n\n<blockquote>\n  <p>In addition to live games for fans in the Lakers\u2019 regional\nbroadcast territory\u2009\u2014\u2009which covers Southern California, Hawaii,\nand parts of southern Nevada, including Las Vegas\u2009\u2014\u2009full game\nreplays and highlights will be available to Apple Vision Pro users\nin select countries and regions from both the SportsNet and NBA\napps. These live games will be captured using the new URSA Cine\nImmersive Live camera from Blackmagic Design, a version of the\ncamera that launched earlier this year to capture Apple Immersive\nfor Vision Pro, and will be available for purchase next year.</p>\n</blockquote>\n\n<p>I didn\u2019t catch <a href=\"https://daringfireball.net/linked/2025/10/09/apple-immersive-video-lakers\">yesterday</a> that these immersive broadcasts would only be available live within the Lakers\u2019 local broadcast territory, which stinks, but alas, makes sense given how sports broadcasting rights work.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Apple Newsroom on the Im",
+        "id": 3786208,
+        "language": "",
+        "link": "https://www.apple.com/newsroom/2025/10/spectrum-brings-nba-games-in-apple-immersive-to-apple-vision-pro",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple Newsroom on the Immersive Vision Pro Lakers Broadcasts",
+        "vote": 0
+    }
+]

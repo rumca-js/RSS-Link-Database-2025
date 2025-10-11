@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T15:56:33.824630+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T10:01:32+00:00",
+        "description": "Visit the Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/Bdb4Xy\n\nThe major AI players are not slowing down. In episode 76 of Mixture of Experts, host Tim Hwang is joined by Olivia Buzek, Chris Hay and Mihai Criveti. First, we analyze OpenAI\u2019s release of their new AgentKit. Then, IBM announced a partnership with Anthropic to accelerate enterprise-ready AI\u2014we talk AI governance and the future of industry partnerships. Then, Chris Hay gives us his explanation of modular manifolds. Finally, we discuss the potential of AI becoming healthcare experts amid Deena Mousa\u2019s The Algorithm Will See You Now. Will AI replace radiologists? Tune in to Mixture of Experts to find out. \n\n00:00 \u2013 Intro \n01:09 \u2013 OpenAI and AMD, IBM\u2019s Project Bob, chip diamonds and Peloton's AI Trainers \n02:20 \u2013 AgentKit  \n13:29 \u2013 IBM &amp; Anthropic partnership \n22:49 \u2013 Modular manifolds  \n31:52 \u2013 AI in radiology  \n\nThe opinions expressed in this podcast are solely those of the participants and do",
+        "id": 3783247,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lMrOvPloJ0o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lMrOvPloJ0o/hqdefault.jpg",
+        "title": "IBM partners with Anthropic, plus OpenAI drops AgentKit",
+        "vote": 0
+    }
+]

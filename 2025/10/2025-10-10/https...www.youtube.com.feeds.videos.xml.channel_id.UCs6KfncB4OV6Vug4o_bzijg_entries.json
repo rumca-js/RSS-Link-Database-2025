@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T17:54:55.417101+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T17:09:25+00:00",
+        "description": "I flew to Berlin for Nextcloud Hub 25 to see what's new! From powerful local AI features to digital sovereignty tools, Nextcloud 25 brings major performance upgrades, a cleaner interface, and game-changing capabilities that rival Big Tech\u2014all while keeping your data under your control. Plus, behind-the-scenes from the conference, meeting the community, and why this matters for the future of open source. Techlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources. Discover how to protect your online data and regain control of your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 Nextcloud 25 Everything New: https://nextcloud.com/blog/nextcloud-hub25-autumn/\n\u2022 Nextcloud Atomic: https://nextcloudatomic.com/\n \u2022 Gardiner Bryant's Coverage: https://youtu.be/NRmOsZ5Ef8I\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://www.youtube.com/watch?v=Ps_5Id3npGw\n\u2022 https://www.youtube.com/watch?v=YCLZe8A1Z-I\n\n\ud83d\udcfa RELATED CHANNELS:\n\u2022 Surveillance Report: https://www.youtube.com/@",
+        "id": 3784464,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ed80s1G1sv4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ed80s1G1sv4/hqdefault.jpg",
+        "title": "Nextcloud 25: Everything New from the Berlin Conference (& Why It Matters)",
+        "vote": 0
+    }
+]

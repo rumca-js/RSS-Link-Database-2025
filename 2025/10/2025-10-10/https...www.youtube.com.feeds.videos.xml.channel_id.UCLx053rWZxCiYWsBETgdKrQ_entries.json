@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "LGR",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T21:32:12.105877+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T20:30:08+00:00",
+        "description": "Taking a look at the Mitsubishi Oberhofer Edition monitor, a 15-inch LCD from 1999 encased in a glossy walnut burl bezel intended to fit in with fancy '90s executive decor. Hollywood home offices in particular, it turns out. And selling for just $1,800! Considering their previous solid wood monitors were $5,000 this was basically a steal... if you lived in Beverly Hills, I guess.\n\n\u25cf LGR things elsewhere:\nPatreon https://www.patreon.com/LazyGameReviews\nBsky https://bsky.app/profile/lgr-yt.bsky.social\n\n\u25cf Background music licensed from Epidemic Sound:\nhttps://www.epidemicsound.com\n\n\u25cf Random LA footage licensed from Storyblocks:\nhttps://www.storyblocks.com/\n\n00:00 what is this thing?\n02:14 no really, what is it\n04:31 the rest of the story\n07:24 Control Alternative\n09:28 testing it out!\n13:14 Commander Keen 4\n14:55 Jazz Jackrabbit\n17:31 Doom\n18:52 XGA Unreal Tournament\n20:16 so that's what it is!\n\n#LGR #retro #computer #wood",
+        "id": 3786144,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RTE7_gqnSLk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 801,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RTE7_gqnSLk/hqdefault.jpg",
+        "title": "The $1,800 Luxury Walnut Burl Monitor from 1999",
+        "vote": 0
+    }
+]

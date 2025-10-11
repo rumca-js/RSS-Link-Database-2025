@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Current",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T18:25:07.422886+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T18:05:45+00:00",
+        "description": "To celebrate The Current\u2019s 20th Anniversary, The Current\u2019s Live Sessions Vault unlocks never-before-seen live performance videos of bands and artists who have played in our iconic studio. \n \nCheck out the full three-song session of Big Thief from 2017 on our channel. #VaultSessions #TheCurrent #BigThief",
+        "id": 3784966,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/hmqVe8AFjZ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 335,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKcSON6PSG_JkTbXh2WdIg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hmqVe8AFjZ4/hqdefault.jpg",
+        "title": "Big Thief performs \"Mythological Beauty\" in 2017 #BigThief",
+        "vote": 0
+    }
+]

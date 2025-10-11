@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T18:30:55.323540+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T17:39:12+00:00",
+        "description": null,
+        "id": 3785034,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/dkMeNJeihCI",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dkMeNJeihCI/hqdefault.jpg",
+        "title": "Socialist or republican?? \ud83e\uddd0\ud83e\uddd0",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Phil Nash & Timur Doumler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T18:58:33.921209+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T09:00:00+00:00",
+        "description": "Phil and Timur are joined by Herb Sutter to catch up on what's going in to C++26 which, let's be honest, is dominated by reflection.\n        <h3>News</h3>\n<ul>\n<li><a href=\"https://blog.jetbrains.com/clion/2025/09/introducing-constexpr-debugger/\">CLion now has a constexpr debugger</a> </li>\n<li>\"CMake for complex projects\" - tutorial:<ul>\n<li><a href=\"https://medium.com/respawn-point/cmake-for-complex-projects-part-1-building-a-c-game-engine-from-scratch-for-desktop-and-774426c5f1f7\">Part one</a></li>\n<li><a href=\"https://medium.com/respawn-point/cmake-for-complex-projects-part-2-building-a-c-game-engine-from-scratch-for-desktop-and-3a343ca47841\">Part two</a></li>\n</ul>\n</li>\n<li><a href=\"https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/\">Safe C++ proposal is not being continued</a></li>\n<li><a href=\"https://cppcast.com/safe-borrow-checked-cpp/\">Episode with Sean Baxter</a></li>\n</ul>\n<h3>Links</h3>\n<ul>\n<li><a href=\"https://youtube.com/watch?v=7z9NNrRDHQU&a",
+        "id": 3785115,
+        "language": "en",
+        "link": "https://cppcast.com/reflection_and_cpp26",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 80,
+        "source_url": "https://cppcast.com/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Reflection and C++26, with Herb Sutter",
+        "vote": 0
+    }
+]

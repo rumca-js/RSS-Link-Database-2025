@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T16:01:12.665879+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T15:00:47+00:00",
+        "description": "Xbox just keeps stepping on rakes. \n\nSupport us on Patreon: https://www.patreon.com/SecondWindGroup\n\nSecond Wind Merch: \nhttps://store.dftba.com/collections/second-wind\nhttps://sharkrobot.com/collections/second-wind",
+        "id": 3783292,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MyXP49uP6gg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MyXP49uP6gg/hqdefault.jpg",
+        "title": "Xbox Is Killing All the Appeal of Game Pass | Unpacked",
+        "vote": 0
+    }
+]

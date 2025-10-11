@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T15:00:14.094238+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T09:14:00+00:00",
+        "description": "Friendship is part of it, but it&#8217;s mutual forward motion that transforms a group. The shared journey and mutual respect of a cohort can change the arc of our work and our lives. When we&#8217;re in sync, we can find the courage to build something important. Fifteen years ago, I ran a three-day seminar in [&#8230;]",
+        "id": 3781097,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/finding-your-cohort",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Finding your cohort",
+        "vote": 0
+    }
+]

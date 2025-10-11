@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "YouTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T15:44:41.430098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T15:00:23+00:00",
+        "description": null,
+        "id": 3783013,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/mUvf37f-ns8",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 794,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mUvf37f-ns8/hqdefault.jpg",
+        "title": "our favorite part was every single time the hair clip went \u201cclick!\u201d \ud83d\ude42\u200d\u2195\ufe0f @danielaemmanuelasmr",
+        "vote": 0
+    }
+]

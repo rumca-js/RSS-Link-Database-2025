@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T16:14:52.847139+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T15:01:17+00:00",
+        "description": "Does it seem like your workweeks are full of bright sunny days and then every weekend, every time you make plans, it rains? It's not just you -- at least if you live in the Northeastern US, it really does rain every weekend. The reason is the jet stream -- here's how it works.\n\nHosted by: Madelyn Leembruggen (she/her)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jeremy Mattern, Friso, Matt Curls, Garrett Galloway, Kevin Bealer, Eric Jensen, Cye Stoner, Adam Brainard, Alan Wong, Blood Doctor Kelly, J.V. Rosenbalm, Chris Peters, Jaap Westera, Bethany Matthews, Kevin Knupp, Jp Lynch, David Johnston, Jason A Saslow, Chris Curry, Chris Mackey, Joseph Ruf, Alex Hackma",
+        "id": 3783420,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dlGnU2hhkOI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dlGnU2hhkOI/hqdefault.jpg",
+        "title": "Yes, It Really Does Rain More on Weekends",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T20:51:09.190117+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T19:16:37+00:00",
+        "description": "In the early morning hours of September 10, 27-year-old Hamida Djandoubi was awoken by the sound of jangling keys and whispers of a name every condemned prisoner dreaded: \u201cThe man from Paris is here.\u201d Prison guards then entered his cell and began the traditional \u201ccondemned\u2019s toilette\u201d. Djandoubi was dressed in a red sweater, the collar cut low with scissors to expose his neck, his hands and feet were bound with cords, and he was offered a final cigarette. Stalling for time, he smoked one, then another, but was denied a third. After knocking back a final shot of rum, he was led out of his cell and down the prison corridors, the floors padded with blankets to muffle his footsteps. He soon emerged into the prison courtyard where the guillotine stood waiting, its blade glinting in the floodlights. The end came swiftly and efficiently. Djandoubi was thrown onto the guillotine\u2019s tilting bascule board, a wooden collar was snapped around his neck, and the executioner pressed a button, releasi",
+        "id": 3785725,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8s2zegRVEM0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8s2zegRVEM0/hqdefault.jpg",
+        "title": "The Last Guillotining Execution... in 1977",
+        "vote": 0
+    }
+]

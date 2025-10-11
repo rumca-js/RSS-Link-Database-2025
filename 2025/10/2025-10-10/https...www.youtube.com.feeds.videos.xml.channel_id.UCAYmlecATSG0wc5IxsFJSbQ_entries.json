@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T16:42:20.545987+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T16:00:14+00:00",
+        "description": "Deloitte has to pay back the Australian government an undisclosed amount of money after it was found a AU$440,000 report they had produced contained AI generated errors like fake quotes from federal judges and referencing research papers that don't exist.",
+        "id": 3783607,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/8yXl0uJOSsA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8yXl0uJOSsA/hqdefault.jpg",
+        "title": "AI Errors Are Being Used To Decide Government Policy #funfact",
+        "vote": 0
+    }
+]

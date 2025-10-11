@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anna Demming",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T14:56:21.847723+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T14:22:45+00:00",
+        "description": "Embryos are shaped by the same pulling force that causes \u201ctears\u201d in a glass of wine. It\u2019s the latest example of how genes exploit physical and mechanical forces to achieve growth and development.             <p>The post <a href=\"https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/\" target=\"_blank\">Genes Have Harnessed Physics to Help Grow Living Things</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3781058,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Mechanics-of-Creation-cr-Mark-Belan-and-Michael-Kanyongolo-Default.webp",
+        "title": "Genes Have Harnessed Physics to Help Grow Living Things",
+        "vote": 0
+    }
+]

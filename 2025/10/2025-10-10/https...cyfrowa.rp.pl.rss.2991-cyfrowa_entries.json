@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T15:53:30.737862+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T10:58:00+00:00",
+        "description": "Bank Anglii ostrzega przed gwa\u0142town\u0105 korekt\u0105, a Mi\u0119dzynarodowy Fundusz Walutowy zapowiada okres \u201enowej niepewno\u015bci\u201d. Eksperci m\u00f3wi\u0105 wprost: euforia wok\u00f3\u0142 AI mo\u017ce zamieni\u0107 si\u0119 w finansowe trz\u0119sienie ziemi.",
+        "id": 3783190,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art43154321-banka-ai-bliska-pekniecia-bank-anglii-ostrzega-a-szefowa-mfw-mowi-zapnijcie-pasy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ba\u0144ka AI bliska p\u0119kni\u0119cia? Bank Anglii ostrzega, a szefowa MFW m\u00f3wi: \u201eZapnijcie pasy\u201d",
+        "vote": 0
+    }
+]

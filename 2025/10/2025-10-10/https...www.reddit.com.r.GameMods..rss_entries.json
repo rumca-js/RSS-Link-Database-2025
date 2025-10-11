@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/lyomgames",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T04:21:31.458144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T04:01:59+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/GameMods/comments/1o2qww9/how_hard_it_would_be_for_a_noob_to_reshade_tlou/\"> <img src=\"https://b.thumbs.redditmedia.com/HcMiCSNpR0UCxlDZ_LAJihEbXvFhZYC9subpRYZubDo.jpg\" alt=\"How hard it would be for a noob to re-shade TLOU Part 1 into PS3 version\" title=\"How hard it would be for a noob to re-shade TLOU Part 1 into PS3 version\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/xh58kw75k7uf1.png?width=3840&amp;format=png&amp;auto=webp&amp;s=33d4ac326a7fc018340e3995994a0172f68203e9\">https://preview.redd.it/xh58kw75k7uf1.png?width=3840&amp;format=png&amp;auto=webp&amp;s=33d4ac326a7fc018340e3995994a0172f68203e9</a></p> <p>so what tools i would need to have to decompile the PS3 iso and also the game files, and from them what would i need to actually do ? just re-escale the textures on gigapixel or do some modeling on blender ? coding would be necessary ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a",
+        "id": 3780099,
+        "language": "en",
+        "link": "https://www.reddit.com/r/GameMods/comments/1o2qww9/how_hard_it_would_be_for_a_noob_to_reshade_tlou",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 533,
+        "source_url": "https://www.reddit.com/r/GameMods/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b.thumbs.redditmedia.com/HcMiCSNpR0UCxlDZ_LAJihEbXvFhZYC9subpRYZubDo.jpg",
+        "title": "How hard it would be for a noob to re-shade TLOU Part 1 into PS3 version",
+        "vote": 0
+    }
+]

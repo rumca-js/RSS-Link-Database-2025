@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T17:26:10.405596+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T16:17:27+00:00",
+        "description": "Meet the #PixelWatch 4 \u231a\n\n\u2728 Design & Display\n- All-new hardware in two sizes\n- A bigger, brighter domed Actua 360 display with smaller bezels\n- Fluid Material 3 Expressive UI with new customizable watch faces\n\n\u2764\ufe0f Health & Fitness\n- Improved sleep tracking and a next-gen skin temperature sensor\n- New dual-frequency GPS for more accurate route tracking\n- Stream cycling workout stats to your phone in real-time\n\n\ud83d\udd12Performance & Safety\n- Increased battery life (up to 40 hours) and a faster charging system\n- Satellite communications for emergency assistance off the grid (a smartwatch first!)\n- Loss of pulse detection for automatic emergency calls\n\n\ud83e\udd16 AI & Software\n- Raise-to-speak access to Gemini for help on the go\n- New AI-generated smart replies with conversational context",
+        "id": 3784351,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/8Ox_DOdrP4w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8Ox_DOdrP4w/hqdefault.jpg",
+        "title": "Unboxing the new Pixel Watch 4 in both sizes",
+        "vote": 0
+    }
+]

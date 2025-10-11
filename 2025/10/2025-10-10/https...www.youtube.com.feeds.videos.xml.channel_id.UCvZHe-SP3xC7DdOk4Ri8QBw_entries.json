@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bethesda Softworks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-10T17:59:35.464868+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-10T17:27:49+00:00",
+        "description": "This October is MachineGames\u2019 15-year anniversary and this update is our anniversary gift for all players of Indiana Jones and the Great Circle\u2122.\n\nThe update contains three main additions that have climbed high on the community\u2019s wish list: New Game+, the iconic Cairo outfit, and voice language select.\n\nWinner of over 80 awards and awarded D.I.C.E \u201cAdventure Game of the Year\u201d, Indiana Jones and the Great Circle delivers an immersive experience that allows you to step into the boots of the renowned archaeologist.\n\n\nESRB RATING: Teen with Violence, Blood and gore, Mild language, Drug reference",
+        "id": 3784488,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Ng1DwLMAZho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 724,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZHe-SP3xC7DdOk4Ri8QBw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Ng1DwLMAZho/hqdefault.jpg",
+        "title": "The new Cairo outfit is available now for free in the new Anniversary Update. #indianajones",
+        "vote": 0
+    }
+]
