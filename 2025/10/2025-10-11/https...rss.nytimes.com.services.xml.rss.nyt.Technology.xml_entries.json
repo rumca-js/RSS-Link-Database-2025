@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mike Isaac",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T09:14:30.237351+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T09:00:47+00:00",
+        "description": "Silicon Valley is obsessed with \u201cTBPN,\u201d a streaming show on which no career move is too trivial to document.",
+        "id": 3788958,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/10/11/technology/tbpn-silicon-valley.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/10/12/multimedia/12TBPN-01-fkzt/12TBPN-01-fkzt-mediumSquareAt3X.jpg",
+        "title": "How \u2018TBPN\u2019 Became Silicon Valley\u2019s Newest Obsession",
+        "vote": 0
+    }
+]

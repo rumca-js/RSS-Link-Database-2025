@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T02:58:07.732453+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T02:02:34+00:00",
+        "description": "As an EDLA-certified device powered by Android 15\u2122 with a high-performance Octa-core, CPU provides immediate access to various Google apps and services. It also features a built-in All-in-One video communication system with camera, microphone, and dual speakers, and embedded AI functions\u2014enabling seamless teaching, presenting, and collaboration with no extra setup. \n\nDiscover more at http://smsng.co/B2Bsolutions\n\n#InteractiveDisplay #Samsung",
+        "id": 3787675,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-UKDr7qN3D8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-UKDr7qN3D8/hqdefault.jpg",
+        "title": "Interactive Display: Everything included, everyone connected | Samsung",
+        "vote": 0
+    }
+]

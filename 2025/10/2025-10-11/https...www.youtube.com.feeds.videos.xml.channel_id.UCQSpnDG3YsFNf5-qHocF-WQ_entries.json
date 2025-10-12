@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T15:04:40.948302+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T14:45:02+00:00",
+        "description": "If you use Windows 11 Pro edition, this has always been the easiest way \ud83e\uddd0\n\nMicrosoft recently released an Insider Developer build that removes all of the usual ways to bypass the requirement for a Microsoft Account when setting up Windows. But for Windows Pro edition and up, there is a way easier method hidden in plain site that most don't know about. You just have to select to set up for work or school (not for personal use), then under Sign In Options, choose Domain Join Instead. That immediately lets you create a local account and doesn't even ask you about all the extra junk that Home Edition does.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:16 - How To Do It\n1:01 - The Catch\n2:17 - Why Is Microsoft Doing This?\n3:17 - What \"Critical\" Steps Are They Talking About?\n3:59 - The Normal Setup Flow\n5:14 - Not So Critical...\n5:55 - Should You Use A Microsoft Account?\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop",
+        "id": 3790550,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KuV5jkCXsFY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KuV5jkCXsFY/hqdefault.jpg",
+        "title": "The Last Way to Install Windows With a Local Account",
+        "vote": 0
+    }
+]

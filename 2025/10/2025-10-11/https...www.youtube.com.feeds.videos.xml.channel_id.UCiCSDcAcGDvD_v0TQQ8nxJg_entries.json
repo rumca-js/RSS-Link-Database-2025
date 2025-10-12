@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T19:32:48.102256+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T18:09:40+00:00",
+        "description": "trailer for Mercy in 4K ULTRA HD Quality\n\nMercy Plot : In the near future, a detective (Chris Pratt) stands on trial accused of murdering his wife. He has 90 minutes to prove his innocence to the advanced A.I. Judge (Rebecca Ferguson) he once championed, before it determines his fate. \n\n90 minutes to prove your innocence or face execution. Chris Pratt and Rebecca Ferguson star in Mercy. Watch the trailer now and see the movie only in theaters January 23. Filmed for IMAX, experience it in 3D.",
+        "id": 3791967,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=syatB89rUHc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/syatB89rUHc/hqdefault.jpg",
+        "title": "MERCY Trailer (4K ULTRA HD) 2026 | Chris Pratt",
+        "vote": 0
+    }
+]

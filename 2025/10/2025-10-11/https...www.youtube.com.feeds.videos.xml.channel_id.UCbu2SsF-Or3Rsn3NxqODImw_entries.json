@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T16:51:15.467602+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T16:00:28+00:00",
+        "description": "Email your letters to gotchacovered@gamespot.com\n\nCheck out the audio version:\nSpotify: https://open.spotify.com/show/4S5mfmLES0ubhj5xcDZJni\nRSS Feed: https://www.spreaker.com/show/6752166/episodes/feed\n\nTimestamps:\n00:00 - Intro\n00:50 - Battlefield 6 is out now!\n04:20 - Underrated Games of 2025\n10:10 - A Eulogy For Destiny 2\n11:56 - xAI Game Studios\n15:25 - Our Predictions for Future Xbox Hardware\n21:11 - Nintendo's Pikmin Short Film\n25:35 - Beef of the Week\n29:59 - Steam Machine Rumors\n35:27 - Megabonk\n41:16 - Outro",
+        "id": 3791076,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=MN_l0QsomLQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MN_l0QsomLQ/hqdefault.jpg",
+        "title": "Battlefield 6 is Here And So Are We | Kurt & Lucy Gotcha Covered",
+        "vote": 0
+    }
+]

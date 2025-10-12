@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Todd Bishop",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T19:20:59.687764+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T14:02:45+00:00",
+        "description": "<img width=\"1260\" height=\"945\" src=\"https://cdn.geekwire.com/wp-content/uploads/2025/10/chris-pirillo-1260x945.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.geekwire.com/wp-content/uploads/2025/10/chris-pirillo-1260x945.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/10/chris-pirillo-768x576.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/10/chris-pirillo-1536x1152.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/10/chris-pirillo-2048x1536.jpg 2048w\" sizes=\"(max-width: 1260px) 100vw, 1260px\"><br>What happens when anyone can build software just by describing it? Longtime tech creator Chris Pirillo joins the GeekWire Podcast to talk about \u201cvibe coding,\u201d the rise of AI-built apps, and his new CTRL + ALT + CREATE Live event series. <a href=\"https://www.geekwire.com/2025/vibe-coding-a-new-reality-chris-pirillo-on-the-rise-of-ai-powered-apps-features-and-founders/\">Read More</a>",
+        "id": 3791878,
+        "language": "en-US",
+        "link": "https://www.geekwire.com/2025/vibe-coding-a-new-reality-chris-pirillo-on-the-rise-of-ai-powered-apps-features-and-founders",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 131,
+        "source_url": "https://www.geekwire.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.geekwire.com/wp-content/uploads/2025/10/chris-pirillo-1260x945.jpg",
+        "title": "Vibe-coding a new reality: Chris Pirillo on the rise of AI-powered apps, features, and founders",
+        "vote": 0
+    }
+]

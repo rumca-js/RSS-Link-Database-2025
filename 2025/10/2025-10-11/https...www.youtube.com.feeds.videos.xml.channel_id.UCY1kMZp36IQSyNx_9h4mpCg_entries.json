@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mark Rober",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T16:14:08.585214+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T15:00:05+00:00",
+        "description": "It\u2019s wild how oblivious we can be to what\u2019s hidden right beneath the water. Learn to embrace failure while having tons of fun with CrunchLabs, now with 2 FREE boxes at: https://crunchlabs.com/Lake\n\nGet your CrunchLabs box today:\nBuild Box for kids click here: http://crunchlabs.com/Lake\nHack Pack for teens and adults click here: https://crunchlabs.com/LakeHP\n\nThanks to Global SubDive for helping us explore the bottom of the lake: https://globalsubdive.com/\nThanks to Todd for helping us scan the lake bed: http://www.geohydros.com/about.html\nSpecial thanks to California State Parks: https://www.parks.ca.gov/\n\nThanks to these folks for providing some of the music in the video:\nPonder- @Pondermusic \nLaura Shigihara - @supershigi \nAndrew Applepie - https://soundcloud.com/andrewapplepie\nBlue Wednesday - https://soundcloud.com/bluewednesday\nDanijel Zambo - https://open.spotify.com/intl-de/artist/1ZD9ri2wmZZPL4qs92sXZX?si=iI7jkn-qSY-6NKo931314Q\n\nOccasionally my graphic artist uses AI to enhanc",
+        "id": 3790988,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=q2C1JpQi5G4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 752,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/q2C1JpQi5G4/hqdefault.jpg",
+        "title": "Uncovering America's Underwater City",
+        "vote": 0
+    }
+]

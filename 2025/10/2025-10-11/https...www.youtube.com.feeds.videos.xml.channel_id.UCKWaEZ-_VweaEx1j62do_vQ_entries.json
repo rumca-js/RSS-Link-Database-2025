@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T13:17:23.708252+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T11:00:34+00:00",
+        "description": "Ready to become a certified Developer - IBM i 7.x? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdeTWi\n\nLearn more about AI Upskilling Strategy here \u2192 https://ibm.biz/BdeTWZ\n\n\ud83c\udf1f Struggling to keep up with new technologies? Brianne Zavala shares 4 tips to efficiently master tools, AI frameworks, and even AI agents. From SMART goals to hands-on practice, discover how to stay ahead and build expertise in the fast-evolving tech world!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdeNvj",
+        "id": 3790073,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IMWG7yx4UDk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IMWG7yx4UDk/hqdefault.jpg",
+        "title": "4 Tips to Learn New Technologies Faster & Smarter",
+        "vote": 0
+    }
+]

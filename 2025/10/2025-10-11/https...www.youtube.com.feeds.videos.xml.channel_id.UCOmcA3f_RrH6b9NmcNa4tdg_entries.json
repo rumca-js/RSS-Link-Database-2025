@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T14:52:29.311731+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T14:07:01+00:00",
+        "description": "I used ExpressVPN to demonstrate how to connect to a virtual private network, which encrypts your online activity and masks your IP address so you can't be tracked online.\n\nYou can find the VPNs mentioned in this video linked below\nExpressVPN https://zdcs.link/QVEDlx\nNordVPN Standard \u2013 1-Year https://zdcs.link/QqR4v3\n*CNET may get a commission on these offers\n\n0:00 Intro\n0:24 Install a VPN\n0:35 ExpressVPN\n1:02 Select a VPN Server\n1:15 Conneting to a VPN\n1:41 VPN Kill Switch\n2:00 Accessing Region Locked Content\n2:27 VPNs for Gaming\n2:36 VPNs on Multiple Devices\n2:47 VPN Browser Extensions\n2:59 Advanced Protection and Privacy Features\n3:16 Protocol Settings\n3:32 Specialty Servers\n4:34 VPN Pricing\n\nRead more about VPN's on our sister sites below\nAn VPN Expert's Guide to Setting Up Your VPN to Maximize Privacy  https://zdcs.link/98Pbxv\nWhy You Need a VPN, and How to Choose the Right One https://zdcs.link/ao65R0\nWhat VPNs Can Do (and What They Can't) https://zdcs.link/z6Db3k\n\nCNET's Best V",
+        "id": 3790508,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=29KPyLr8Ou0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/29KPyLr8Ou0/hqdefault.jpg",
+        "title": "How To Use a VPN: Beginner's Guide to Virtual Private Networks",
+        "vote": 0
+    }
+]

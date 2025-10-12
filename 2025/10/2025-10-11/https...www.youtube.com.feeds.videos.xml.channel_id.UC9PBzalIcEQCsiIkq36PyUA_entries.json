@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T16:16:44.009207+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T14:53:54+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nCould this be the foundational GPU technology for the PlayStation 6? Mark Cerny's latest Project Amethyst update describes the building blocks of future graphics technology, with a strong focus on ray tracing and machine learning capabilities, along with bandwidth-enhancing features designed to reduce the need on massive memory controllers. John, Rich and Oliver discuss the tech and share more information from Mark Cerny via an email Q&A conducted in the wake of the video's publication.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Three innovations: Neural Arrays, Radiance Cores, and Universal Compression \n09:41 PS6 games and cross-gen enhancements \n15:55 PS6 hardware and release timing \n24:14 Concluding thoughts",
+        "id": 3790991,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Ru7dK_X5tnc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Ru7dK_X5tnc/hqdefault.jpg",
+        "title": "Sony/AMD Project Amethyst Update - Next-Gen Tech Revealed + Mark Cerny Q&A",
+        "vote": 0
+    }
+]

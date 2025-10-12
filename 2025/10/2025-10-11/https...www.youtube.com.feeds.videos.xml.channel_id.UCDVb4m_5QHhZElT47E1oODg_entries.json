@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Dave Cullen Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T14:15:53.152316+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T13:40:15+00:00",
+        "description": "Subscribe to Computing Forever: https://www.youtube.com/c/LACK78\n\nSource article: \n\nhttps://deadline.com/2025/10/box-office-tron-ares-1236577172/\n\nTip me: https://www.subscribestar.com/dave-cullen/tip\nFollow me on X: https://x.com/DaveCullenShow\nSubscribestar: https://www.subscribestar.com/dave-cullen\n\nFollow me on Bitchute: https://www.bitchute.com/channel/hybM74uIHJKg/\n\nKEEP UP ON SOCIAL MEDIA:\nhttps://gab.com/DaveCullen\nMinds.com: https://www.minds.com/davecullen\nSubscribe on Odysee: https://odysee.com/@TheDaveCullenShow:7",
+        "id": 3790193,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=0XMnP01dtu4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 336,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDVb4m_5QHhZElT47E1oODg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0XMnP01dtu4/hqdefault.jpg",
+        "title": "Tron: Ares: Well, This is Interesting\u2026",
+        "vote": 0
+    }
+]

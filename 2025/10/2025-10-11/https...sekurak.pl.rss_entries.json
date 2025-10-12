@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T08:21:52.756788+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T08:16:09+00:00",
+        "description": "<p>Druga cz\u0119\u015b\u0107 naszej serii o integracji Zabbixa oraz Grafany. Tym razem Albert wprowadzi Czytelnika w \u015bwiat przygotowania i prezentacji r\u00f3\u017cnego typu danych przy pomocy dashboard\u00f3w Grafany. </p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych/\">Zabbix + Grafana &#8211; cz\u0119\u015b\u0107 2 &#8211; Przedstawianie danych</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3788705,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/zabbix-grafana-czesc-2-przedstawianie-danych",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zabbix + Grafana \u2013 cz\u0119\u015b\u0107 2 \u2013 Przedstawianie danych",
+        "vote": 0
+    }
+]

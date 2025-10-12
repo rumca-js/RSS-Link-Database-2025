@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T15:44:14.313787+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T15:00:52+00:00",
+        "description": "Sarah Kay is a spoken word poet and the author of the new poetry collection \"A Little Daylight Left.\" In this TED Talks Daily Book Club interview with host Elise Hu, Kay reflects on her relationship with poetry \u2014 from reading the poems her parents left in her lunchbox to frequenting the local dive bar\u2019s weekly poetry slam to becoming an \u201caccidental ambassador\u201d of spoken word. She also talks about how she uses different artistic mediums to invite others into poetry, showing how the art form can open you to community, healing and vulnerability.\n\nThe TED Talks Daily Book Club series features TED speakers discussing their latest books and exploring their ideas beyond the page. Stay tuned to our feed for more interviews like this one and for special live book club events open exclusively to TED members. (Recorded at A TED Original Podcast on June 3, 2025\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/member",
+        "id": 3790671,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=V2H3M_0i1Fo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V2H3M_0i1Fo/hqdefault.jpg",
+        "title": "TED Talks Daily Book Club: A Little Daylight Left | Sarah Kay | TED",
+        "vote": 0
+    }
+]

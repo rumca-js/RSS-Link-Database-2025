@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ubisoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T12:02:58.194310+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T11:00:31+00:00",
+        "description": "Meet the passionate fans and creators carrying the Heroes legacy forward in this new documentary, featuring stories, interviews, and rare footage.\n\nJoin the celebration and follow us on social media: https://linktr.ee/mightandmagic\n\n#HoMM30th #HoMM #HeroesofMightandMagic\n\nAbout Heroes of Might and Magic:\nStep into the world of Heroes of Might and Magic, the turn-based strategy series where you lead powerful heroes, build kingdoms, and command armies of mythical creatures in epic, tactical battles. Discover new factions, creatures, and challenges in a universe that evolves with every installment\n\n#Ubisoft #HoMM\n\nLearn more about Ubisoft: www.ubisoftgroup.com\n \n\u00a9 2025 Ubisoft Entertainment. All Rights Reserved. Ubisoft and the Ubisoft logo are registered trademarks in the US and/or other countries.",
+        "id": 3789670,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=D00wIdRAMtk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 763,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0KU8F9jJqSLS11LRXvFWmg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D00wIdRAMtk/hqdefault.jpg",
+        "title": "Heroes of Might and Magic: Legacy of Heroes - 30 Years of Passion Documentary",
+        "vote": 0
+    }
+]

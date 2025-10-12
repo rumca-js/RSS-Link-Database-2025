@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon's Cat",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T13:48:44.554883+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T13:01:10+00:00",
+        "description": "Are you brave enough to take on this spooky movie marathon? \nCheck out our limited edition halloween mug - https://simonscatmerch.com/products/halloween-mug-limited-edition\n\nGrab your treats, snuggle up with your cat, and load YouTube onto your TV, because it's movie night! Lift your spirits with every Simon's Cat Halloween special back-to-back \ud83c\udf83\n\nCopyright \u00a9 Simon's Cat Ltd 2025. Simon's Cat \u00ae is a registered trademark of Simon's Cat Ltd.",
+        "id": 3790156,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZP115Ymop3g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 788,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH6vXjt-BA7QHl0KnfL-7RQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZP115Ymop3g/hqdefault.jpg",
+        "title": "The Spookiest Simon's Cat Halloween Marathon Ever! - Movie Night",
+        "vote": 0
+    }
+]

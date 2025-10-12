@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T00:35:10.054165+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T00:04:32+00:00",
+        "description": "Orange Pi has introduced the Orange Pi 6 Plus, a single-board computer intended for high-performance and AI-oriented computing tasks. It uses the CIX CD8180/CD8160 SoC with a 12-core 64-bit CPU and an NPU rated at up to 45 TOPS. The SoC includes a 12-core architecture paired with an integrated graphics processor supporting hardware-accelerated ray tracing [&#8230;]",
+        "id": 3787204,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/orange-pi-previews-orange-pi-6-plus-with-12-core-architecture-and-dual-5g-ethernet-ports",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Orange Pi Previews Orange Pi 6 Plus with 12-core architecture and dual 5G Ethernet ports",
+        "vote": 0
+    }
+]

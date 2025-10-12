@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ian Hamilton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-11T20:17:13.971606+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-11T12:16:06+00:00",
+        "description": "A VR Trooper wearing Quest 3 attended New York Comic Con.",
+        "id": 3792084,
+        "language": "en",
+        "link": "https://www.uploadvr.com/quest-3-stormtrooper-comic-con-new-york",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/10/IMG_9401.jpeg",
+        "title": "Quest 3 Stormtrooper Makes New York Comic Con Debut",
+        "vote": 0
+    }
+]
