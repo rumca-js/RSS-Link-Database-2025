@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T07:30:44.928004+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T00:35:01+00:00",
+        "description": "People are finding new ways everyday to make the road a more dangerous place. Human ingenuity is goated.\n\nprevious video: https://www.youtube.com/watch?v=UFhoNO0hsuo\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 3792465,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TyEe7D6Z-DE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TyEe7D6Z-DE/hqdefault.jpg",
+        "title": "This TikTok Should Scare You",
+        "vote": 0
+    }
+]

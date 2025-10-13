@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T07:58:29.496188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T02:16:44+00:00",
+        "description": "INSANE AI NEWS: OpenAI AgentKit, Google Opal, ChatGPT apps, Tiny Recursive Models, Ling 1T, CodeMender, Lumina DiMOO  #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor Hubspot. Download the Master AI Agents guide for FREE https://clickhubspot.com/f2d71e\n\nSources in order of mention:\nhttps://openai.com/index/introducing-apps-in-chatgpt/\nhttps://openai.com/index/introducing-agentkit/\nhttps://platform.openai.com/docs/models/gpt-5-pro\nhttps://platform.openai.com/docs/guides/video-generation\nhttps://platform.openai.com/docs/models/gpt-realtime-mini\nhttps://platform.openai.com/docs/models/gpt-image-1-mini\nhttps://synbol.github.io/Lumina-DiMOO/\nhttps://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker\nhttps://showlab.github.io/Paper2Video/\nhttps://tingtingliao.github.io/mimix/\nhttps://research.nvidia.com/labs/toronto-ai/chronoedit/\nhttps://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/\nhttps://huggingface.co/inclusionAI/Ling-1T\nhttps://blog.goog",
+        "id": 3792777,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ydEY5FmBJZA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ydEY5FmBJZA/hqdefault.jpg",
+        "title": "New Nanobananas, OpenAI\u2019s n8n, ChatGPT apps, Sora 2 PRO, Google\u2019s free app builder - AI NEWS",
+        "vote": 0
+    }
+]

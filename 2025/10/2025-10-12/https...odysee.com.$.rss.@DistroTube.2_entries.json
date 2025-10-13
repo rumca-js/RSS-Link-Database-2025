@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T13:36:19.284255+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T13:01:33+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/lPEHoc3fDlM\" width=\"480\" alt=\"thumbnail\" title=\"Omarchy Is Beautiful, Modern and Opinionated\" /></p>Omarchy is an opinionated Linux distribution for developers, created by Ruby on Rails creator David Heinemeier Hansson (DHH), that combines the power of Arch Linux with the Hyprland tiling window manager to provide a polished, productive, and immediately usable desktop experience. <br /><br />REFERENCED:<br />\u25ba https://omarchy.org/<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube<br />\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/<br />\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2<",
+        "id": 3795465,
+        "language": "en",
+        "link": "https://odysee.com/omarchy-is-beautiful%2C-modern-and:67e85f1cedf174ca7c264bdec8b00c535d464a29",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/lPEHoc3fDlM",
+        "title": "Omarchy Is Beautiful, Modern and Opinionated",
+        "vote": 0
+    }
+]

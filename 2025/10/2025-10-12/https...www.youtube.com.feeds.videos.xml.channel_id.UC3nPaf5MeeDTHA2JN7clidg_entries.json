@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T20:45:04.186706+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T18:45:11+00:00",
+        "description": "Stormgate's future looks grim. Now, Frost Giant Studios CEO Tim Morten comes to terms with his situation, and why Stormgate is struggling to survive.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 - \"It was undercooked\"\n01:16 - Stormgate's Promise\n04:51 - The Morten Post Mortem\n08:41 - The Industry Changed\n13:52 - An Impossible Target\n\nSources:\nhttps://www.gamesindustry.biz/blizzard-vets-form-frost-giant-studios\n\nhttps://www.kickstarter.com/projects/stormgate/stormgate/description\n\nhttps://www.youtube.com/watch?v=BoI2S3ZpYoI&t=469s\n\nhttps://techcrunch.com/2024/04/04/bitkraft-raises-275m-for-games-production/\n\nhttps://www.linkedin.com/posts/tim-morten_why-do-games-fail-in-the-market-at-the-most-activity-7368310775683219457-Csuh/\n\nhttps://www.linkedin.com/posts/tim-morten_last-week-i-talked-about-the-extraordinary-activity-7370842838483451907-BK_H/\n\nhttps://www.windowscentral.com/gaming/pc-gaming/stormg",
+        "id": 3797607,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3bAs0ACclbo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3bAs0ACclbo/hqdefault.jpg",
+        "title": "Ex-Blizzard Lead: \"The Release Was Undercooked\"",
+        "vote": 0
+    }
+]

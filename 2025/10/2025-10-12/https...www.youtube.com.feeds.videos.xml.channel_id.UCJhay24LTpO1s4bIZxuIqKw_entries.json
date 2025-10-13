@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T16:46:16.037863+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T14:00:38+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nShifting Left, Shifting Right - Patrick Martin - ACCU 2025\n---\n\nAs we all shift right into the future, looking back we can see cycles of invention and re-invention of the activities that contribute to delivering software products.\n\nShifting left is used in a few contexts in slightly different ways but they broadly share the idea that defining things earlier in the workflow is an unalloyed good.\n\nThis process can happen via code:- C++ 26 for example has a reflection proposal and other mechanisms have been used previously. For other ecosystems, it's \"the air you breathe\" and pervasive in the language. This process can also happen via tooling, which affects the way we work and interact. As a final thought, this process occurs at the collaboration level and design level, which nudges the way we end up producing our total system, the finished product.\n\nIn this talk we'll go consider a variety of technologies and we'll be able to look back ",
+        "id": 3796518,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=N5UW3dY_avI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N5UW3dY_avI/hqdefault.jpg",
+        "title": "Shifting Left, Shifting Right - Patrick Martin - ACCU 2025",
+        "vote": 0
+    }
+]

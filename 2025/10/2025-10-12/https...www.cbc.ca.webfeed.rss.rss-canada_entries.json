@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T17:11:31.296858+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T06:00:00+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/6e1ebd1e-22d4-40a5-9d9c-c334df9d5d5b,1760043940823/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D%28620%29' alt='A man in a blue hat, grey hoodie and blue jeans holds onto a piece of kochia weed, a green, bush-like plant that reaches the man&apos;s waist.' width='620' height='349' title=' Jake Leguee has been struggling with invasive kochia weeds on his farm near Filmore, Sask. for years. He says its growing resistance to herbicides is beginning to affect food production. '/><p>Harvest is close to done on the Prairies, but some farmers' crops are being overrun by kochia, an invasive weed. They hope scientists can stop the spread before food production is affected forever.</p>",
+        "id": 3796595,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/saskatoon/kochia-weeds-prairies-agrifoodcanada-food-production-9.6933912?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/6e1ebd1e-22d4-40a5-9d9c-c334df9d5d5b,1760043940823/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D%28620%29",
+        "title": "Prairie farmer concerned about food production as invasive weed spreads",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T21:52:44.939351+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T20:31:57+00:00",
+        "description": "In 1993, legendary director Steven Spielberg released two groundbreaking films, which could not have been more different from one another. The first was Jurassic Park, a thrilling summer blockbuster and special effects landmark about bringing dinosaurs back from extinction. The other\u2026was Schindler\u2019s List. Widely considered one of the most heart wrenching films ever made, Schindler\u2019s List tells the true story of Oskar Schindler, a German industrialist who, through his enamelware and ammunition factories in occupied Poland and Czechoslovakia, succeeded in saving over a thousand Jewish workers\u2019s lives. Thanks to Spielberg\u2019s film, Schindler is today perhaps the best known of the so-called \u201cRighteous Among the Nations\u201d - individuals recognized by the Yad Vashem memorial institution for assisting Jews and other victims of the Holocaust. But Schindler was far from alone, and his story bears a striking resemblance to that of another, more obscure figure: a fellow German businessman named Otto",
+        "id": 3797908,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8nLm0gJ1bSQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8nLm0gJ1bSQ/hqdefault.jpg",
+        "title": "Forgotten Hero- The Other Oskar Schindler",
+        "vote": 0
+    }
+]

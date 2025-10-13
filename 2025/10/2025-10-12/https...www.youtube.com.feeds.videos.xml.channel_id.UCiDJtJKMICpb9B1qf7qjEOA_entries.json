@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T15:22:19.617142+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T14:00:03+00:00",
+        "description": "Which podcasts does Adam Savage recommend? Does Adam make YouTube videos that he wants to make or that he thinks will do well? In this live stream excerpt Adam answers these questions from Tested members Movidude and HexLex, whom we thank for their support! What podcasts are you listening to right now?\n\n00:00 Movies \n04:28 Podcasts\n07:48 YouTube\n\nGoing Rogue: https://www.goingroguepodcast.com/\nIf Books Could Kill: https://www.ifbookspod.com/\n5-4 Pod: https://www.fivefourpod.com/\nYou're Wrong About: https://yourewrongabout.com/\nCriminal: https://thisiscriminal.com/\nOlogies: https://www.alieward.com/ologies\nYou Must Remember This: https://www.youmustrememberthispodcast.com/\nFixing the Biggest Problem With Mechanical Keyboards: https://youtu.be/N3FEv1qw4_w\nJoin this channel to support Tested and get access to perks, like asking Adam a question:\nhttps://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA/join\n\nSubscribe for more videos (and click the bell for notifications):  http://www.yout",
+        "id": 3796046,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=acToJW0c_OM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/acToJW0c_OM/hqdefault.jpg",
+        "title": "Does Tested Make Content Decisions Based on Profit or Fun?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T18:43:26.190053+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T18:43:25+00:00",
+        "description": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with",
+        "id": 3797174,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
+        "vote": 0
+    }
+]

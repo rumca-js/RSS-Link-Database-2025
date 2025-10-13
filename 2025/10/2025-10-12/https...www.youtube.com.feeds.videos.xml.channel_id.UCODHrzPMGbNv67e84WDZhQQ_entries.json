@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fern",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T13:13:40.923432+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T13:01:22+00:00",
+        "description": "Want to restore the planet\u2019s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with code FERN10 will get the first month for free at: https://planetwild.com/r/fern/join\n\nIf you want to get to know them better first, check out their project protecting one of Europe\u2019s last ancient forests: https://planetwild.com/r/fern/m31 (ad)\n\nThe animals in Chernobyl are... different.\n\nOur research is based on the following sources, among others:\nhttps://www.geo.de/natur/tierwelt/tschernobyl--tiere-in-der-todeszone-30169168.html \nhttps://knowablemagazine.org/content/article/food-environment/2022/scientists-cant-agree-about-chernobyls-impact-wildlife \nhttps://www.npr.org/transcripts/1198909263\nhttp://cricket.biol.sc.edu/chernobyl/papers/Moller-Mousseau-TREE-2016.pdf \n\nSources: https://docs.google.com/document/d/1Kp5Piq6LD4Y_WHQ1_KIA-zJlMbY3FYwSgdeS6KDCKnU/edit?usp=sharing\n\nMusic list:\n\nFrank Schlimbach - Art of a Dead Man\nAce - Root Canal - Stripped Version\nDan",
+        "id": 3795215,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=j4OKo0VpoeM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 703,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/j4OKo0VpoeM/hqdefault.jpg",
+        "title": "The Mutated Animals of Chernobyl",
+        "vote": 0
+    }
+]

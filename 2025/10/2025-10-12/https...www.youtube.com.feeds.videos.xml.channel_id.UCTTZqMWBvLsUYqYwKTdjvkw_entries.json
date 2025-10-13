@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T16:29:03.284483+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T16:00:17+00:00",
+        "description": "\u270a\u00a0Czasy si\u0119 zmieniaj\u0105, a wci\u0105\u017c\u00a0trzeba protestowa\u0107. Unia Europejska b\u0119dzie pods\u0142uchiwa\u0107 wszystkie nasze rozmowy! Ale czy na pewno? Wok\u00f3\u0142 tematu ChatControl - potocznej nazwy nowego, kontrowersyjnego Unijnego prawa\u2026 naros\u0142o wiele mit\u00f3w.\n \n\u0179r\u00f3d\u0142a:\n\u270a\u00a0Fight Chat Control\nhttps://fightchatcontrol.eu/\n\n\ud83c\uddea\ud83c\uddfa\u00a0Chat Control: The EU\u2019s CSAM scanner proposal\nhttps://www.patrick-breyer.de/en/posts/chat-control/\n\n\u25b6\ufe0f\u00a0nowyekrantv: ACTA - TRZECIA WOJNA W INTERNECIE (24.01.12)\nhttps://youtu.be/tcIy3VPzg_8\n\n\ud83d\udcf0 Why Europe is freaking out about \u2018Chat Control\u2019\nhttps://www.politico.eu/article/eu-online-child-sexual-abuse-material-csam-privacy/\n\n\ud83e\uddd1\u200d\u2696\ufe0f\u00a0Wniosek ROZPORZ\u0104DZENIE PARLAMENTU EUROPEJSKIEGO I RADY ustanawiaj\u0105ce przepisy maj\u0105ce na celu zapobieganie niegodziwemu traktowaniu dzieci w celach seksualnych i jego zwalczanie\nhttps://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:52022PC0209\n\n\ud83d\udcac\u00a0New Branding, Same Scanning: \u201cUpload Moderation\u201d Undermines End-to-End Encryption\nhttps://signal.org/blog/pdfs/upload-mo",
+        "id": 3796459,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=7sNyxR2Gwd8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7sNyxR2Gwd8/hqdefault.jpg",
+        "title": "Czy UE b\u0119dzie pods\u0142uchiwa\u0107\u00a0wszystkie nasze rozmowy? #chatcontrol",
+        "vote": 0
+    }
+]

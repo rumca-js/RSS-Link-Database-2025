@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T12:19:15.816764+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T11:03:57+00:00",
+        "description": "Drone footage shows blaze destroying the historic Bernaga Monastery in Italy.",
+        "id": 3795104,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/c1jzj1n797yo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a46/live/bcfeb300-a756-11f0-92db-77261a15b9d2.jpg",
+        "title": "Nuns escape fire at historic Italian monastery",
+        "vote": 0
+    }
+]

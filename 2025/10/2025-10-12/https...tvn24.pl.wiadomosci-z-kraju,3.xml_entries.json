@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T16:02:17.910687+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T15:44:44+00:00",
+        "description": "<img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-7148361-szczecin-ph8695959/alternates/LANDSCAPE_1280\" alt=\"Szczecin apeluje do rz\u0105du o nowy typ fotoradar\u00f3w\" />\n    W Szczecinie radni chc\u0105 walczy\u0107 z ha\u0142asem w centrum miasta. Rozwi\u0105zaniem mog\u0142yby by\u0107 fotoradary akustyczne. W Polsce jednak brakuje przepis\u00f3w w tej sprawie. Ministerstwo Infrastruktury dopiero ma si\u0119 tym zaj\u0105\u0107.",
+        "id": 3796208,
+        "language": "pl-PL",
+        "link": "https://tvn24.pl/fakty-artykuly/szczecin-apeluje-do-rzadu-o-nowy-typ-fotoradarow-st8695953?source=rss",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 319,
+        "source_url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://tvn24.pl/najnowsze/cdn-zdjecie-7148361-szczecin-ph8695959/alternates/LANDSCAPE_1280",
+        "title": "Szczecin apeluje do rz\u0105du o nowy typ fotoradar\u00f3w",
+        "vote": 0
+    }
+]

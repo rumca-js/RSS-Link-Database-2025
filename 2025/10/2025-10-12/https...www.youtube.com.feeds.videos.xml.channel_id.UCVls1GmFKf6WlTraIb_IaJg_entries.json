@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T14:21:14.876459+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T13:01:33+00:00",
+        "description": "Omarchy is an opinionated Linux distribution for developers, created by Ruby on Rails creator David Heinemeier Hansson (DHH), that combines the power of Arch Linux with the Hyprland tiling window manager to provide a polished, productive, and immediately usable desktop experience. \n\nREFERENCED:\n\u25ba https://omarchy.org/\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2\n\nFREE AND OPEN SOURCE SOFTWARE THAT I LIKE:\n\ud83c\udf10 Brave Browser - https://brave.com/\n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83d\udcbb VirtualBox: https://w",
+        "id": 3795596,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=lPEHoc3fDlM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lPEHoc3fDlM/hqdefault.jpg",
+        "title": "Omarchy Is Beautiful, Modern and Opinionated",
+        "vote": 0
+    }
+]

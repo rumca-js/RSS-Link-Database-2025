@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niekryty Krytyk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-12T16:41:37.882302+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-12T16:01:19+00:00",
+        "description": "Ca\u0142y odcinek: https://youtu.be/sGesAtz6DVY",
+        "id": 3796485,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/mNYj-3_BY-Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 441,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCura5JPb8QkzXrMfAxq4Ssw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mNYj-3_BY-Q/hqdefault.jpg",
+        "title": "Tupak",
+        "vote": 0
+    }
+]
