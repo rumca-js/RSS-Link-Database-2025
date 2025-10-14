@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T06:21:11.427415+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T01:30:00+00:00",
+        "description": "Wi\u0119cej obowi\u0105zk\u00f3w biur podr\u00f3\u017cy i zapis\u00f3w chroni\u0105cych ich klient\u00f3w - przewiduje rewidowana w\u0142a\u015bnie w Unii Europejskiej dyrektywa o imprezach turystycznych. Touroperatorzy powinni ju\u017c dzisiaj przygotowywa\u0107 si\u0119 do tych zmian. Ale nie tylko oni - wynika z relacji prezesa Polskiej Izby Turystyki Paw\u0142a Niewiadomskiego.",
+        "id": 3798693,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art43166781-pawel-niewiadomski-bruksela-przykreca-srube-biurom-podrozy-i-nie-tylko-im",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pawe\u0142 Niewiadomski: Bruksela przykr\u0119ca \u015brub\u0119 biurom podr\u00f3\u017cy. I nie tylko im",
+        "vote": 0
+    }
+]

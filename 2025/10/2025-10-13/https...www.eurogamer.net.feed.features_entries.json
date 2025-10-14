@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dom Peppiatt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T14:37:06.173789+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T14:17:48+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/destiny-down.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>In case you haven't been following the saga of <a href=\"https://www.eurogamer.net/games/destiny-2\">Destiny 2</a>, things aren't looking so good for the 'forever game' whose story kicked off over a decade ago. Player morale has been in freefall for a while now, compounded by the disastrous launch of the 'Portal' - an ill-thought-out replacement to the game's seasonal content system - and some time-hostile decisions about power levels and loot.</p> <p><a href=\"https://www.eurogamer.net/is-this-the-beginning-of-the-end-for-destiny-2\">Read more</a></p>",
+        "id": 3800546,
+        "language": "en",
+        "link": "https://www.eurogamer.net/is-this-the-beginning-of-the-end-for-destiny-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/destiny-down.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "The last time Destiny 2's player numbers looked this bad, Bungie was one month away from \"shutting up shop\" - so is this, finally, the end?",
+        "vote": 0
+    }
+]

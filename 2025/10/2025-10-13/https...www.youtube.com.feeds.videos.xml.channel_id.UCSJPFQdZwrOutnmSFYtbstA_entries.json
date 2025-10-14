@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T17:23:11.928172+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T17:00:54+00:00",
+        "description": "A couple of years ago he was hailed as the saviour of the DCEU. The guy who did Guardians of the Galaxy. The visionary director who would fix Superman, Batman, Wonder Woman and everything in between. Now, after flops at the box office and on TV, and rumours he could be let go if Warner Bros gets bought over by Paramount, is James Gunn's honeymoon period over?",
+        "id": 3803390,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=g7k80zLny6U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g7k80zLny6U/hqdefault.jpg",
+        "title": "James Gunn's DCU Is Falling Apart",
+        "vote": 0
+    }
+]

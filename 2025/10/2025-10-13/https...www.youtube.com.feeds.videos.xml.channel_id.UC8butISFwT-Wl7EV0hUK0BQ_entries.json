@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T14:52:41.360231+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T13:49:05+00:00",
+        "description": "Prepare for the Google Generative AI Leader exam and pass!\n\nA Generative AI Leader is a visionary professional with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's gen AI offerings and understand how Google's AI-first approach can lead organizations toward innovative and responsible AI adoption. They influence gen AI-powered initiatives and identify opportunities across business functions and industries, using Google Cloud's enterprise-ready offerings to accelerate innovation.\n\nAndrew Brown developed this course.\n\n\ud83d\udd17 Get your Free Practice and Downloadable Cheatsheets: https://www.exampro.co/gcp-gal \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 00:00:00 Introduction\n- 00:26:49 Core General AI Concepts\n- 01:14:40 Security\n- 01:17:01 Vertex Search\n- 01:43:35 Model\n- 01:54:42 ",
+        "id": 3800665,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=30diF8dKpAY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/30diF8dKpAY/hqdefault.jpg",
+        "title": "Google Generative AI Leader Certification Course \u2013 Pass the Exam!",
+        "vote": 0
+    }
+]

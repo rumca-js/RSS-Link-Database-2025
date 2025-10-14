@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T09:38:44.746643+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T09:03:00+00:00",
+        "description": "Create a document, several pages long, that explains who you are. What sort of learner are you? Do you have degrees or expertise? What sort of change are you making, who works with you, what are your standards? How do you want to engage? Periodically, upload the doc to the chat you&#8217;re having with an [&#8230;]",
+        "id": 3800220,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/two-useful-ai-tactics",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Two useful AI tactics",
+        "vote": 0
+    }
+]

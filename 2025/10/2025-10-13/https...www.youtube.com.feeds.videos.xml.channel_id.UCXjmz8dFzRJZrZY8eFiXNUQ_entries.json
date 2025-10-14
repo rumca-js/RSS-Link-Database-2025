@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T17:30:55.033275+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T17:00:00+00:00",
+        "description": "These days, Tim Robinson is best known for his outrageously funny sketch show, I Think You Should Leave.  But prior to creating the most memed show on Netflix, Tim Robinson and Sam Richardson starred in Detroiters, possibly the funniest show you haven't seen.   Though it never reached mainstream success, the show perfectly showcased Robinson\u2019s offbeat humor, heart, and the creative voice that would later make him a Netflix legend.\n\nDid you watch Detroiters back when it was on the air?  Do you have a favorite I Think You Should Leave sketch?  Let us know down below!\n\n#timrobinson #ithinkyoushouldleave #comedycentral #snl",
+        "id": 3803411,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=-PEGuII2p40",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-PEGuII2p40/hqdefault.jpg",
+        "title": "Tim Robinson\u2019s Underrated Masterpiece",
+        "vote": 0
+    }
+]

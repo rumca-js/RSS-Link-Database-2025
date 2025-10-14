@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joseph Cox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T13:51:42.950982+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T13:00:47+00:00",
+        "description": "A prominent beer competition introduced an AI-judging tool without warning. The judges and some members of the wider brewing industry were pissed.",
+        "id": 3800390,
+        "language": "en",
+        "link": "https://www.404media.co/what-happened-when-ai-came-for-craft-beer-canadian-beer-awards-best-beer-app",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/10/josh-olalde-RdePFz33RIA-unsplash.jpg",
+        "title": "What Happened When AI Came for Craft Beer",
+        "vote": 0
+    }
+]

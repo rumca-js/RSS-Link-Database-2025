@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T22:10:48.421839+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T20:29:58+00:00",
+        "description": null,
+        "id": 3805491,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "nanochat",
+        "vote": 0
+    }
+]

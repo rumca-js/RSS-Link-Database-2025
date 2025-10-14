@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T17:21:37.928148+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T16:19:18+00:00",
+        "description": "Magic Cue is built to surface the info you need, when you need it, without you having to dig through different apps to find it. #Pixel #GoogleGemini",
+        "id": 3803385,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/3AQXnN-4Q6g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3AQXnN-4Q6g/hqdefault.jpg",
+        "title": "Stay one step ahead with Magic Cue on #Pixel10",
+        "vote": 0
+    }
+]

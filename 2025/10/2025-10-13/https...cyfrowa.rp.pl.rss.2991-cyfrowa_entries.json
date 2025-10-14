@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T15:34:58.889998+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T14:04:00+00:00",
+        "description": "Prezydent Donald Trump zasugerowa\u0142 w mediach spo\u0142eczno\u015bciowych, \u017ce Microsoft powinien natychmiast zwolni\u0107 Lis\u0119 Monaco, pe\u0142ni\u0105c\u0105 funkcj\u0119 szefowej ds. relacji mi\u0119dzynarodowych w tej firmie.",
+        "id": 3802263,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art43170871-trump-atakuje-microsoft-domaga-sie-zwolnienia-bylej-doradczyni-obamy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump atakuje Microsoft. Domaga si\u0119 zwolnienia by\u0142ej doradczyni Obamy",
+        "vote": 0
+    }
+]

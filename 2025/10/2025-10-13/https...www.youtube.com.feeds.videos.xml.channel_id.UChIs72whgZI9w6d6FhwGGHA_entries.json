@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T16:13:31.439582+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T13:04:02+00:00",
+        "description": "Sponsor: Hyte Y70 and Touch Infinite on their site https://geni.us/Ir9vKEK\nBenchmarking has long had a problem of ensuring numbers relate back to the reality of what players feel when gaming. The issue mostly comes to explaining precisely why stutters and hitching are happening in games, not just that they exist. For the most part, \"frametime\" testing (or more accurately, frame-to-frame interval testing) has helped to tackle this. Tom Petersen, Scott Wasson, and Ryan Shrout furthered that discussion over a decade ago, and from that, the industry moved toward the eventual bar chart adaptation with 1% and 0.1% lows (with occasional frame interval plots to explore major problems). But under the surface, these game stutters have sometimes been misattributed to frametime pacing issues rather than the actual problem, which was animation error, aka simulation time error. Think of this video like a research / whitepaper piece that presents some experiments and possible representations for ani",
+        "id": 3802557,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qDnXe6N8h_c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qDnXe6N8h_c/hqdefault.jpg",
+        "title": "The Problem with GPU Benchmarks | Reality vs. Numbers, Animation Error Methodology White Paper",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T21:25:11.156168+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T21:10:13+00:00",
+        "description": "I colorized, restored and created a sound design for this video offers a rare glimpse into everyday life in Oak Grove, Ohio during the 1930s, at the height of the Great Depression. The footage captures a variety of scenes along the roadside and in small communities \u2014 from auto wrecking yards and service stations to modest new housing developments advertising affordable homes with gas heating and easy payment plans. Storefronts and signs reveal the character of the time: Coca-Cola diners serving five-cent hamburgers and chili, poultry markets selling fresh eggs and home-killed pork, and neighborhood groceries offering cold meats and beer on ice. Campaign posters, YMCA signs, and government vehicles hint at the social and political landscape of Depression-era America. Altogether, the film stands as a vivid time capsule of rural and small-town life in prewar Ohio.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video shar",
+        "id": 3805063,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=GYYlrELz9ew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GYYlrELz9ew/hqdefault.jpg",
+        "title": "Ohio 1930s in color, Rare Glimpse in Depression-Era [60fps, Remastered] w/Sound Design",
+        "vote": 0
+    }
+]

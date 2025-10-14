@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Samo\u0142yk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T16:10:23.241367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T15:16:32+00:00",
+        "description": "Sporo moich ziomk\u00f3w ma si\u0119 ostatnio gorzej, ja tez bez sza\u0142u. To jest film, kt\u00f3ry ma nam pom\u00f3c.\n\n\ud83d\udc49 Je\u017celi chcesz mnie wesprze\u0107 i do\u0142\u0105czy\u0107 do grupy Patron\u00f3w to mo\u017cesz to zrobi\u0107 na 2 sposoby:\n- Patronite: https://patronite.pl/Samolyk\n- Darowizna na konto Banku Pekao SA: 08 1240 2786 1111 0010 1984 8265 Tytu\u0142em: \"darowizna\"\n*je\u015bli wybra\u0142e\u015b 2. opcj\u0119 to napisz mi maila na tsamolyk@gmail.com je\u015bli chcesz do\u0142\u0105czy\u0107 do grupy na Facebooku lub otrzymywa\u0107 newsletter",
+        "id": 3802536,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=E4dFQQqdv-Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 372,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj5Ug7sV0Id9g-NEfFa1psg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E4dFQQqdv-Y/hqdefault.jpg",
+        "title": "Potrzebuj\u0119 Twoich 11 minut, by sprawi\u0107 by\u015b poczu\u0142 si\u0119 lepiej",
+        "vote": 0
+    }
+]

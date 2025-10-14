@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T14:02:52.048528+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T00:00:00+00:00",
+        "description": null,
+        "id": 3800462,
+        "language": "en-US",
+        "link": "http://www.publishersweekly.com/pw/by-topic///article/98752-pw-studio-pw-close-up-zack-miller-on-motorbooks-at-60.html",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 266,
+        "source_url": "https://www.publishersweekly.com/pw/feeds/recent/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PW Studio: PW Close-Up: Zack Miller on Motorbooks at 60",
+        "vote": 0
+    }
+]

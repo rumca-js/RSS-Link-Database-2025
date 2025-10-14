@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T22:04:36.803012+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T20:48:23+00:00",
+        "description": "Security researchers are built different. Today story is yet another example of them saving us.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 Yes, This Is Really Happening\n00:33 Problem Discovered\n01:42 Unity Acted Responsibly\n02:46 Industry Reactions\n04:16 No Longer Available...\n05:29 Danger To Users\n06:27 Preservation Risks\n08:16 Single Point Of Failure\n\nSources:\nhttps://discussions.unity.com/t/unity-platform-protection-take-immediate-action-to-protect-your-games-and-apps/1688031\n\nhttps://unity.com/security/sept-2025-01\n\nhttps://unity.com/blog/technology/introducing-unity-2017\n\nhttps://x.com/AmongUsGame/status/1974232390479298663\n\nhttps://x.com/seconddinner/status/1974171006085554309\n\nhttps://x.com/wickedgame/status/1974169075405533675\n\nhttps://msrc.microsoft.com/update-guide/advisory/ADV256762\n\nhttps://steamcommunity.com/groups/steamworks/announcements/detail/524229329545071275\n\nhttps://publish.ob",
+        "id": 3805451,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mOkAUwTUNNY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mOkAUwTUNNY/hqdefault.jpg",
+        "title": "Almost EVERY New Game Is Compromised, Valve Forced To Act",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Electronic  Frontier Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-13T22:50:51.850559+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-13T21:53:40+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>In a </span><a href=\"https://www.accessnow.org/press-release/microsoft-must-come-clean-on-its-role-in-israels-war-on-gaza/\"><span>letter</span></a><span> sent to Microsoft at the end of last month, EFF and five other civil society organizations\u2014Access Now, Amnesty International, Human Rights Watch, Fight for the Future, and 7amleh\u2014called on the company to cease any further involvement in providing AI and cloud computing technologies for use in </span><a href=\"https://www.ohchr.org/en/press-releases/2025/09/israel-has-committed-genocide-gaza-strip-un-commission-finds\"><span>Israel\u2019s ongoing genocide against Palestinians</span></a><span> in the Gaza Strip.</span></p>\n<p>EFF also sent updated letters to Google and Amazon renewing our calls for each company to respond to the serious concerns we raised with each of them last year about how t",
+        "id": 3805647,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/10/eff-and-five-human-rights-organizations-urge-action-around-microsofts-role-israels",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF and Five Human Rights Organizations Urge Action Around Microsoft\u2019s Role in Israel\u2019s War on Gaza",
+        "vote": 0
+    }
+]
