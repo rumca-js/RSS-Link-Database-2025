@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T06:07:00.912141+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T05:12:01+00:00",
+        "description": "WSJ National Political Reporter Ken Thomas explains the confusion around the first round of federal layoffs and why another round may be coming. Photo: Andrew Caballero-Reynolds/AFP via Getty Images",
+        "id": 3807452,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xd8WrFCZyU8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xd8WrFCZyU8/hqdefault.jpg",
+        "title": "Shutdown Day 14: Will Mass Layoffs Bring Democrats to the Table?",
+        "vote": 0
+    }
+]

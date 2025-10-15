@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alain Stephens",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T22:22:28.088144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T21:50:24+00:00",
+        "description": "<p>On Kirk\u2019s \u201cNational Day of Remembrance,\u201d white supremacists want to replace a tradition of justice with their own manufactured myth.</p>\n<p>The post <a href=\"https://theintercept.com/2025/10/14/charlie-kirk-remembrance-mlk/\">The Right Wing Desperately Wants to Make Charlie Kirk Its MLK</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3814191,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/10/14/charlie-kirk-remembrance-mlk",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/10/GettyImages-2167287986_7e75de.jpg?fit=6368%2C4245",
+        "title": "The Right Wing Desperately Wants to Make Charlie Kirk Its MLK",
+        "vote": 0
+    }
+]

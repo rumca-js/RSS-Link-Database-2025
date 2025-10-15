@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T13:59:52.069901+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T12:48:09+00:00",
+        "description": "The OK153-S SBC from Forlinx Embedded is a compact industrial platform based on the Allwinner T153 processor. It supports Linux 5.10 and offers up to 1 GB of DDR3 RAM and 8 GB of eMMC storage. Key interfaces include triple Gigabit Ethernet, dual CAN-FD, and a Local Bus for PSRAM or FPGA expansion. The Allwinner [&#8230;]",
+        "id": 3810133,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/forlinx-ok153-s-sbc-combines-cortex-a7-and-risc-v-cores-for-industrial-applications",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Forlinx OK153-S SBC Combines Cortex-A7 and RISC-V Cores for Real-Time I/O Interfaces",
+        "vote": 0
+    }
+]

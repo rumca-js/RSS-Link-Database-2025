@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T15:48:38.139255+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T14:28:05+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nA new version of FSR4 was recently leaked by AMD (!), opening the door to high quality upscaling for any GPU that supports INT8 machine learning instructions. That means a range of products ranging from every RDNA 2 or RDNA 3 based GPU, including Steam Deck and ROG Ally handhelds. Rich takes a look at image quality and performance across a range of devices - including Nvidia (!) and even ballpark simulations of how FSR4 could run on Xbox Series X.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Introduction\n02:07 Is FSR4 INT8 The Same As FSR4 FP8?\n04:17 FSR4 INT8 Tested On RDNA 3: Setting The Baseline\n08:14 FSR4 INT8 Tested On RDNA 2: Could Consoles Run It?\n11:58 FSR4 INT8 Tested On Steam Deck\n15:31 FSR4 INT8 Tested On Asus ROG Ally\n19:19 Summary\n22:33 FSR4 Tested On... Nvidia?!\n24:0",
+        "id": 3811253,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fqDWJCW06Ks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fqDWJCW06Ks/hqdefault.jpg",
+        "title": "Leaked FSR4 INT8 Test: RDNA 3, RDNA 2, Steam Deck, Asus ROG Ally, Nvidia + Xbox Series X Simulation",
+        "vote": 0
+    }
+]

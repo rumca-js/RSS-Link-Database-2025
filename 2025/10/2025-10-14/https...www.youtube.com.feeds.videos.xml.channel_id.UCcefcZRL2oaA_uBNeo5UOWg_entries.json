@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T14:41:57.990534+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T14:00:35+00:00",
+        "description": "For years, we've heard two major narratives about AI. One predicting the end of human work, the other dismissing it as hype. The truth is more nuanced, and more hopeful.\n\nFrom radiology to software engineering, the pattern repeats: as technology makes tasks cheaper and faster, demand for human creativity and judgment grows.\n\nYC's Garry Tan explores what history, economics, and real companies show us\u2014 that technology doesn't replace people, it redefines what we can do.",
+        "id": 3810709,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IqwSb2hO1jE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IqwSb2hO1jE/hqdefault.jpg",
+        "title": "What Everyone Is Getting Wrong About AI And Jobs",
+        "vote": 0
+    }
+]

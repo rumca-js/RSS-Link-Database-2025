@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warner Bros.",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T19:13:29.467447+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T17:36:58+00:00",
+        "description": "Friends \u2705\nFamily \u2705\nOur new favorite duo \u2705\n\n#TheFamilyMcMullen is in theaters TOMORROW for one day only. Get your tickets! https://hubs.la/Q03LCH2l0",
+        "id": 3812889,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/hELDVs7uDd8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 693,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjmJDM5pRKbUlVIzDYYWb6g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hELDVs7uDd8/hqdefault.jpg",
+        "title": "Friends \u2705 Family \u2705 Our new favorite duo \u2705 #TheFamilyMcMullen is in theaters TOMORROW.",
+        "vote": 0
+    }
+]

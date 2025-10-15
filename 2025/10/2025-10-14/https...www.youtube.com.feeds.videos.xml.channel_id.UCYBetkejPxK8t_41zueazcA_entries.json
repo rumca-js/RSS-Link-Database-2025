@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "T5G",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T22:16:54.705632+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T21:03:42+00:00",
+        "description": "27 EASTER EGGS in Battlefield 6\n\nVideo Sources:\nOne Eye https://www.youtube.com/watch?v=Lr9RQOO3hpM\nStun_gravy https://www.youtube.com/watch?v=FOaGhE_sejI\nghostdestroyer5 https://www.youtube.com/watch?v=J2P2CTYB11A\nx_Parallax https://www.youtube.com/watch?v=M8zVTL_o3y8\nADIGAMES https://www.youtube.com/watch?v=mOoWo0xssdI\nAchievement Hunter https://youtu.be/WtoCwYiZZKI?si=urhCcbmek2T5qvYA&t=17\nTheEnd004500 https://www.youtube.com/watch?v=Fi2vlDBqPik\nTrollGamerLvMax https://www.youtube.com/watch?v=rXhQL9xnx8E\nJackFrags https://youtu.be/8BWOcOYaIp4?si=Z6rrl-4TZnwh5tJi&t=35\nLoganTheBrawler https://www.youtube.com/watch?v=5_U0CAta22U\nDannyOnPC https://www.youtube.com/watch?v=s91lT9tU4IA\nByTheManual https://www.youtube.com/watch?v=SwkQ1oj2qr8&pp=ygUZYmF0dGxlZmllbGQgMjA0MiBkaW5vc2F1cg%3D%3D\nJason White https://youtu.be/bj3WT6PI8Mo?t=143\nPS5Trophies https://www.youtube.com/watch?v=liysiy1PCmQ\nTheGrey https://www.youtube.com/watch?v=lit3Up9cQrc&t=19s\nMP1st https://youtu.be/B4gpC1OTvAs?t=61\nPeg",
+        "id": 3814167,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KLCMXt64wMI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 818,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYBetkejPxK8t_41zueazcA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KLCMXt64wMI/hqdefault.jpg",
+        "title": "27 EASTER EGGS in Battlefield 6",
+        "vote": 0
+    }
+]

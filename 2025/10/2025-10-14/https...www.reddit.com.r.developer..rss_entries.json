@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Forsaken_Desk412",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T08:59:18.161933+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T08:43:08+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I\u2019m building an MVP app using <strong>Firebase Studio</strong> and I\u2019m at a stage where I need some guidance on choosing backend services. The app is based in India, and I want to make the right choices early on without overcomplicating things.</p> <p>Some of the areas I\u2019m thinking about are:</p> <ul> <li>Database</li> <li>Storage</li> <li>Authentication</li> <li>APIs</li> <li>File sharing</li> <li>AI calling, recording and reports</li> <li>Other services that might be needed</li> </ul> <p>Since it\u2019s still an MVP, I\u2019m wondering if it makes sense to stick with <strong>Firebase for everything</strong> (for simplicity and faster development) or if I should mix in other services for specific needs. My main goal is to keep things manageable at this stage while ensuring the app can scale later if needed.</p> <p>Has anyone faced a similar situation? I\u2019d really appreciate your thoughts, experiences, or suggestions!</p> </div><!-- SC_ON --> &#32",
+        "id": 3808119,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1o6a3to/need_guidance_for_my_mvp",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Need guidance for my MVP",
+        "vote": 0
+    }
+]

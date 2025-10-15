@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T16:21:00.678684+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T14:00:21+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nJavaScript is Faster than Rust? - Chris Heathwood - ACCU York\n---\n\nIn this talk, we explore how JavaScript can outperform Rust in specific coding challenges and optimization scenarios. Starting with a brief history of Chris's programming journey, including Node.js, D3.js, and HTML5 video projects, we dive deep into an Advent of Code problem to demonstrate practical JavaScript performance tricks. \n\nLearn how to optimize algorithms in JavaScript using techniques like bit manipulation, tail-first and head-first algorithms, and efficient use of sets and loops. We'll explore V8 engine optimizations, TurboFan, and Maglev to understand why JavaScript can be surprisingly fast, even compared to precompiled languages like Rust. \n\nThis talk covers:  \n- Writing faster JavaScript code for real-world applications  \n- Comparing JavaScript performance with Rust, and Zig  \n- Optimizing loops, iterations, and state management  \n- Advent of Code challen",
+        "id": 3811451,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FgmRLKAcHOA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FgmRLKAcHOA/hqdefault.jpg",
+        "title": "JavaScript is\u00a0Faster than Rust? - Chris Heathwood",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T13:23:15.775270+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T13:23:15+00:00",
+        "description": "\u201eKl\u0119ska urodzaju\u201d obserwowana w tym roku w rolnictwie wp\u0142yn\u0119\u0142a na wzrost popularno\u015bci samozbior\u00f3w. Ta bezpo\u015brednia forma sprzeda\u017cy p\u0142od\u00f3w rolnych cieszy si\u0119 w ostatnich dniach ogromn\u0105 popularno\u015bci\u0105, a informacji na jej temat w sieci szuka wielu Polak\u00f3w.",
+        "id": 3810023,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/it/art43175921-rolnicy-otwieraja-pola-dla-polakow-ratuja-sie-przed-kleska-urodzaju",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rolnicy otwieraj\u0105 pola dla Polak\u00f3w. Ratuj\u0105 si\u0119 przed \u201ekl\u0119sk\u0105 urodzaju\u201d",
+        "vote": 0
+    }
+]

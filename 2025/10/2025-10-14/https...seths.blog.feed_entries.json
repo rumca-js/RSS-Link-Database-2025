@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T10:04:45.055547+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T09:03:00+00:00",
+        "description": "Most people do the obvious thing, that&#8217;s why we call it obvious. A new product, idea or technology is rarely obvious, at least at first. So the work of scale is to be seen as inevitable. The stepwise process of becoming the obvious choice. Skipping steps requires insisting that we&#8217;re the obvious choice, but that [&#8230;]",
+        "id": 3808496,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/toward-obvious",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Toward obvious",
+        "vote": 0
+    }
+]

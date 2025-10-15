@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T21:06:31.858489+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T19:50:43+00:00",
+        "description": "In today\u2019s age of relatively stable international relations, it is hard to imagine the impact of something like the Mongol invasions. Starting in 1206, It was a trying time for those who initially witnessed them: mountains of skulls, burning cities, murder and pillaging on a wide scale. Even if Genghis Khan\u2019\ndescendants became more urbane and grew closer to their conquered peoples, the initial shock of it all was massive. The conquered people struggled to make sense of the carnage and their new reality. New religious movements that promised a bright future rose to meet the new age. Some of these movements were as apocalyptic as the events recently witnessed. Out of the ashes of the old political order, new states were formed that looked to the Mongols for legitimacy, just as new religious reactions to the carnage looked to instill hope and resistance in the conquered people. A chain of events that could only arise from these conditions led to a very bizarre story of how a Persian king",
+        "id": 3813679,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tikSyb_f4Ds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tikSyb_f4Ds/hqdefault.jpg",
+        "title": "The Time a King Let the Leader of a Cult Become King to See if the World Would End",
+        "vote": 0
+    }
+]

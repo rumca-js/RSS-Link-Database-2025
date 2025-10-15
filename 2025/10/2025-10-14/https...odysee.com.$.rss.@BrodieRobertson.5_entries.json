@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T17:41:10.330595+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T16:30:30+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/k2D53okYQ7c\" width=\"480\" alt=\"thumbnail\" title=\"What Beginner Linux Distro Should You Use?\" /></p>What should you pick as your first Linux distro, well there's certainly no correct choice but there are few options which I think are worth looking at<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Ubuntu Website: https://ubuntu.com/<br />Mint Website: https://linuxmint.com/<br />Fedora Website: https://fedoraproject.org/<br />Bazzite Website: https://bazzite.gg/<br />Zorin Website: https://zorin.com/os/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/",
+        "id": 3812172,
+        "language": "en",
+        "link": "https://odysee.com/what-beginner-linux-distro-should-you:3a82eb0c7f83e0281f2f4bc428ac8fc2cdd2ff5e",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/k2D53okYQ7c",
+        "title": "What Beginner Linux Distro Should You Use?",
+        "vote": 0
+    }
+]

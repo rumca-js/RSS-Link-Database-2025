@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T21:48:35.480373+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T13:18:00+00:00",
+        "description": "<img src=\"https://defcon.org/images/defcon-singapore/post-images/creator-call.webp\" alt=\"singapore call for creators\"/> \n<br />    \n<p>DEF CON Creators alert! The Call is open for Creators! Got an idea for a Contest, Village or Community you'd like to see at DEF CON Singapore? Get your submission in and let's work together to bring your ideas to life. The info you need is on the <a href=\"https://forms.cloud.microsoft/r/eQgGJPVffy\">DEF CON Singapore Call for Creators form</a>. Let's make something amazing!</p>",
+        "id": 3814075,
+        "language": "en",
+        "link": "https://forms.cloud.microsoft/r/eQgGJPVffy",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://defcon.org/images/defcon-singapore/post-images/creator-call.webp",
+        "title": "DEF CON Singapore Call for Creators!",
+        "vote": 0
+    }
+]

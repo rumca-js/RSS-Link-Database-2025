@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T23:44:03.614057+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T23:00:21+00:00",
+        "description": "Join us at Samsung Galaxy Event on October 21 at 10PM ET, to experience new ways to play, discover, and work. Come meet the first official device on Android XR\u2014Project Moohan. Learn more: http://smsng.co/Invitation-Oct-2025_yt\n\n#Samsung",
+        "id": 3814827,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ktPbs7bViBE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ktPbs7bViBE/hqdefault.jpg",
+        "title": "Invitation for Galaxy Event October 2025 | Samsung",
+        "vote": 0
+    }
+]

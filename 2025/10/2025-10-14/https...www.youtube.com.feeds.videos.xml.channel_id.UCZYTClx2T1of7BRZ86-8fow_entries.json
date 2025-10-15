@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T17:23:22.107167+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T17:00:03+00:00",
+        "description": "JMP offers a 30-day free trial for anyone, anywhere. Go to https://www.jmp.com/scishow  to see the benefits of visual statistics for yourself. \n\nIf you're dreading losing your spark as you age, the science suggests you don't have to worry. Staying curious is associated with less cognitive decline. It just might look different from your youthful curiosity.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jeremy Mattern, Friso, Matt Curls, Garrett Galloway, Kevin Bealer, Eric Jensen, Cye Stoner, Adam Brainard, Alan Wong, Blood Doctor Kelly, J.V. Rosenbalm, Chris Peters, Jaap Westera, Bethany Matthews, Kevin Knupp, Jp Lynch, David Johnst",
+        "id": 3812114,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2FUkyaiXmxE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2FUkyaiXmxE/hqdefault.jpg",
+        "title": "There Are Two Kinds of Curious",
+        "vote": 0
+    }
+]

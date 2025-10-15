@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/DeliciousBelt9520",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T14:05:10.733216+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T12:56:28+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>The OK153-S SBC from Forlinx Embedded is a compact industrial platform based on the Allwinner T153 processor. It supports Linux 5.10 and offers up to 1 GB of DDR3 RAM and 8 GB of eMMC storage. Key interfaces include triple Gigabit Ethernet, dual CAN-FD, and a Local Bus for PSRAM or FPGA expansion.</p> <p>The Allwinner T153 integrates a quad-core Arm Cortex-A7 running at 1.6 GHz and a XuanTie E907 RISC-V core at 600 MHz</p> <p>Product pages for the OK153-S SBC and the FET153-S SoM are available on the Forlinx website. Pricing information has not been disclosed.</p> <p><a href=\"https://linuxgizmos.com/forlinx-ok153-s-sbc-combines-cortex-a7-and-risc-v-cores-for-industrial-applications/\">https://linuxgizmos.com/forlinx-ok153-s-sbc-combines-cortex-a7-and-risc-v-cores-for-industrial-applications/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DeliciousBelt9520\"> /u/DeliciousBelt9520 </a> <br/> <span><a href=\"https",
+        "id": 3810146,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1o6er62/forlinx_ok153s_sbc_combines_cortexa7_and_riscv",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Forlinx OK153-S SBC Combines Cortex-A7 and RISC-V Cores for Real-Time I/O Interfaces",
+        "vote": 0
+    }
+]

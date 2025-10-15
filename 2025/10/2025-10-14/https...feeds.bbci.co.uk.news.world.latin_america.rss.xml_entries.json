@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T12:06:43.315036+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T11:10:24+00:00",
+        "description": "The outspoken critic of the Cuban government was released from jail after a request by the US.",
+        "id": 3809465,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/clykwd9e256o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72f4/live/0b99f2d0-a8de-11f0-a522-95977dce8b09.jpg",
+        "title": "Cuban dissident begins US exile after release from jail",
+        "vote": 0
+    }
+]

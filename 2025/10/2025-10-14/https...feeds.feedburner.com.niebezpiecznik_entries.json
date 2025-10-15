@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T16:20:08.889001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T15:28:48+00:00",
+        "description": "<p>W pi\u0105tek 17 wrze\u015bnia, o godzinie 19:00 robimy lajwa pt. &#8220;<a href=\"https://nbzp.cz/soc-n1\" target=\"_blank\">Jak naprawd\u0119 wygl\u0105da praca w SOC</a>&#8220;. Zapisa\u0107 mo\u017ce si\u0119\u00a0ka\u017cdy, wystarczy klikn\u0105\u0107 na poni\u017cszy przycisk: <span id=\"more-26632\"></span></p>\n<div class=\"info\"><a href=\"https://nbzp.cz/soc-n1p1\"><img decoding=\"async\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2025/10/zapisz-sie-orange.png\" alt=\"\" width=\"300\" height=\"\" class=\"aligncenter size-full wp-image-26636\" srcset=\"https://niebezpiecznik.pl/wp-content/uploads/2025/10/zapisz-sie-orange.png 528w, https://niebezpiecznik.pl/wp-content/uploads/2025/10/zapisz-sie-orange-350x129.png 350w\" sizes=\"(max-width: 528px) 100vw, 528px\" /></a></p>\n<p>Zapisz si\u0119, <strong>nawet je\u015bli ten termin Ci nie pasuje</strong>, bo ka\u017cdy kto si\u0119 zapisze, otrzyma od nas wieczysty dost\u0119p do nagrania po zako\u0144czeniu transmisji. Mo\u017cesz te\u017c otrzyma\u0107 <strong>certyfikat</strong> potwierdzaj\u0105cy udzia\u0142.</div>\n<p>Threat hunting, w ramach kt\u00f3rego po",
+        "id": 3811448,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/zobacz-jak-polowac-na-wlamywaczy-i-na-czym-polega-obsluga-incydentow-w-soc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/10/soc-live-150x150.jpeg",
+        "title": "Zobacz jak polowa\u0107 na\u00a0w\u0142amywaczy i na czym polega obs\u0142uga incydent\u00f3w w SOC",
+        "vote": 0
+    }
+]

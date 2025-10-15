@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-14T16:03:39.291194+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-14T15:02:20+00:00",
+        "description": "Access your devices securely from anywhere with TwinGate: https://ntck.co/dgxspark \n\n\nNVIDIA just sent me their smallest AI supercomputer that fits in the palm of my hand. This is the NVIDIA DGX Spark, an AI powerhouse with a Grace Blackwell Superchip that can run up to 200 billion parameter models. In this video, I pin it against my insane dual RTX 4090 AI Server \u201cTerry\u201d to see if this new category of computing can really compete.\n\n\n**Correction:** The DGX Spark uses the GB10 Grace Blackwell Superchip (not GP10).\n\n\nRESOURCES / LINKS:\n\n\u26a1 Nvidia DGX Spark (launches Oct 15) :  https://nvda.ws/4nFFtPT\n\n\ud83c\udf4f AI Supercomputer Video (5 Mac Studios): https://youtu.be/Ju0ndy2kwlw?si=hiWzpU3jIOhHf7iv\n\n\ud83d\udde3\ufe0f Cloning my voice into an AI Assitant: https://youtu.be/3fg7Ht0DSnE?si=ePo1JjrC6gnChWPb\n\n\n\n\n\n\ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy \n\n\n\n**Sponsored by Twingate \n\n\n\n\n\n\n\nSUPPORT NETWORKCHUCK\n---------------------------------------------------\n\u27a1\ufe0fNetworkChuck membership: https://n",
+        "id": 3811368,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FYL9e_aqZY0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FYL9e_aqZY0/hqdefault.jpg",
+        "title": "This AI Supercomputer can fit on your desk...",
+        "vote": 0
+    }
+]
