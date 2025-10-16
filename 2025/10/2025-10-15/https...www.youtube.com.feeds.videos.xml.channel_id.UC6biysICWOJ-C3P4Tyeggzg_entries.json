@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Low Level",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T16:25:49.450029+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T14:59:14+00:00",
+        "description": "Cl0p deez? idk. \n\nhttps://www.sentinelone.com/anthology/clop/\nhttps://cloud.google.com/blog/topics/threat-intelligence/oracle-ebusiness-suite-zero-day-exploitation\nhttps://www.bleepingcomputer.com/news/security/oracle-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/\n\n\n\ud83c\udfeb MY COURSES\nSign-up for my FREE 3-Day C Course: https://lowlevel.academy\n\n\ud83e\uddd9\u200d\u2642\ufe0f HACK YOUR CAREER\nWanna learn to hack? Join my new CTF platform: https://stacksmash.io\n\n\ud83d\udd25COME HANG OUT   \nCheck out my other stuff: https://lowlevel.tv",
+        "id": 3820968,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iyPIR8pLksQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 736,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iyPIR8pLksQ/hqdefault.jpg",
+        "title": "oracle is having a rough month..",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T08:12:19.446300+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T08:00:16+00:00",
+        "description": "<div style=\"display: flex;\"><div style=\"width: calc(100% - 75px);padding-right:16px;\"><h2><a href=\"https://3dprinting.com/news/kraussmaffei-expands-3d-printing-focus-as-competitor-arburg-exits-market/\" style=\"color: #1a0dab;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-weight: normal;mso-line-height-rule: exactly;font-size:18px;text-decoration:none;margin-bottom:8px;\" target=\"_blank\">KraussMaffei Expands 3D Printing Focus as Competitor Arburg Exits Market</a></h2><span style=\"color:#777;font-size:14px;margin-top: auto;\">October 15</span></div><div style=\"max-width:75px;\"><img width=\"315\" height=\"280\" src=\"https://3dprinting.com/wp-content/uploads/73989884.jpg\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" alt=\"J\u00f6rg Stech\" style=\"max-width:75px;border-radius:10px;overflow: hidden;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://3dprinting.com/wp-content/uploads/73989884.jpg 315w, https://3dprinting.co",
+        "id": 3817146,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/kraussmaffei-expands-3d-printing-focus-as-competitor-arburg-exits-market",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://3dprinting.com/wp-content/uploads/73989884.jpg",
+        "title": "KraussMaffei Expands 3D Printing Focus as Competitor Arburg Exits Market - 3DPrinting.com",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bethesda Softworks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T15:43:35.581755+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T15:00:03+00:00",
+        "description": "This October is MachineGames\u2019 15-year anniversary and this update is our anniversary gift for all players of Indiana Jones and the Great Circle\u2122.\n\nThe update contains three main additions that have climbed high on the community\u2019s wish list: New Game+, the iconic Cairo outfit, and voice language select.\n\nWinner of over 80 awards and awarded D.I.C.E \u201cAdventure Game of the Year\u201d, Indiana Jones and the Great Circle delivers an immersive experience that allows you to step into the boots of the renowned archaeologist. #indianajones \n\n\nESRB RATING: Teen with Violence, Blood and gore, Mild language, Drug reference",
+        "id": 3820409,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/yPESYgA1j44",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 724,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZHe-SP3xC7DdOk4Ri8QBw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yPESYgA1j44/hqdefault.jpg",
+        "title": "Mix and match voice and text languages in #IndianaJones and the Great Circle with the latest update!",
+        "vote": 0
+    }
+]

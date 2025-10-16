@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T14:09:51.120581+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T13:52:00+00:00",
+        "description": "<p>The PSF Community Service Awards (CSA\u2019s) are a formal way for the PSF Board of Directors to offer recognition of work which, in its opinion, significantly improves the Foundation's fulfillment of its mission and benefits the broader Python community. These awards shine a light on the incredible people who are the heart and soul of our community\u2013 those whose dedication, creativity, and generosity help the PSF fulfill its mission. The PSF CSAs celebrate individuals who have been truly invaluable, inspiring others through their example, and demonstrates that service to the Python community leads to recognition and reward. If you know of someone in the Python community deserving of a PSF CSA award, please submit them to the PSF Board via psf@python.org at any time. You can read more about <a href=\"https://www.python.org/community/awards/psf-awards/\" target=\"_blank\">PSF CSAs on our website</a>.&nbsp;<br /><br />The PSF Board is excited to announce three new CSAs, awarded to Katie McLaug",
+        "id": 3819565,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/10/announcing-psf-community-service-award.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Announcing PSF Community Service Award Recipients!",
+        "vote": 0
+    }
+]

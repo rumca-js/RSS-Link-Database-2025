@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T18:07:55.783917+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T16:00:32+00:00",
+        "description": "The AYN Thor is a beautiful successor to the 3DS line of handhelds, but with a ton more power and possibilities.  It's not perfect, but in this video we'll explore all the reasons why this is a hall-of-fame handheld.\n\nBuy one here: https://tinyurl.com/ThorRGC\nImpressions video: https://youtu.be/B2sUrakqWt0\nMicrofiber cloths: https://amzn.to/3KVJK37\n\nEmulators tested:\nAzahar: https://github.com/azahar-emu/azahar/releases\nMelonDS fork: https://github.com/SapphireRhodonite/melonDS-android/releases\nCemu fork: https://github.com/SapphireRhodonite/Cemu/releases\n\nAndroid handheld starter guide: https://youtu.be/I4mqgcDYZFo\nStylus testing video: https://youtu.be/BoYp30Meki0\nSteam games on Android: https://youtu.be/uPhMDCA2iEA\n\nThis was a review unit sent to me by the manufacturer.  All opinions are my own, they did not see this review ahead of time, and no money was exchanged in any way.\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nStickers and magnets: https://w",
+        "id": 3821902,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DeGFRB0Mor8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DeGFRB0Mor8/hqdefault.jpg",
+        "title": "AYN Thor In-Depth Review",
+        "vote": 0
+    }
+]

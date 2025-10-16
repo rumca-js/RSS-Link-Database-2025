@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tony Mastrangeli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T14:09:24.888755+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T13:04:35+00:00",
+        "description": "<img width=\"640\" height=\"745\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Hellbringer-Expansion-880x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Hellbringer Bestiary &amp; Forbidden Spells\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Hellbringer-Expansion-880x1024.jpg 880w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Hellbringer-Expansion-258x300.jpg 258w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Hellbringer-Expansion-129x150.jpg 129w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Hellbringer-Expansion-768x894.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Hellbringer-Expansion-640x745.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Hellbringer-Expansion.jpg 928w\" sizes=\"(max-width: 640px) 100vw, 640px\" />One of my favori",
+        "id": 3819561,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/hellbringer-bestiary-forbidden-spells-expansion-preview",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/09/Hellbringer-Expansion-880x1024.jpg",
+        "title": "Hellbringer Bestiary & Forbidden Spells Expansion Preview",
+        "vote": 0
+    }
+]

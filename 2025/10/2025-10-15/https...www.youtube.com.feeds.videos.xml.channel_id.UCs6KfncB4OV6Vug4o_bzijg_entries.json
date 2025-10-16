@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T03:04:51.640169+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T01:32:38+00:00",
+        "description": "Starting January 1, 2026, Texas will require age verification to download ANY app, including weather and sports apps\u2014thanks to SB2420. Apple and Google are warning this destroys user privacy, similar laws are coming to Utah and Louisiana, and there's a federal bill to make it nationwide. I break down what this law actually does, why it's dangerous for both adults AND children, and what you can do to fight back before it's too late.\n\nTechlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources to protect your data and reclaim your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 Texas SB2420: https://legiscan.com/TX/text/SB2420/id/3237346\n\u2022 Apple's Announcement: https://developer.apple.com/news/?id=btkirlj8\n\u2022 Google's Blog: https://blog.google/outreach-initiatives/public-policy/google-legislative-proposal-for-keeping-kids-safe-online/\n\u2022 Ars Technica Coverage: https://arstechnica.com/tech-policy/2025/10/apple-and-google-reluctantly-comply-with",
+        "id": 3815802,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jP-kqEHirTM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jP-kqEHirTM/hqdefault.jpg",
+        "title": "Texas Will Require Your ID to Download Weather Apps. Yes, Really.",
+        "vote": 0
+    }
+]

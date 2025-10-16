@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T02:46:58.582518+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T02:46:57+00:00",
+        "description": "Mia\u0142a by\u0107 per\u0142\u0105 w koronie polskiej, nowoczesnej energetyki, a okaza\u0142a si\u0119 sp\u00f3\u0142k\u0105 z d\u0142ugami i problemami. Jednak jej potencja\u0142em interesuje si\u0119 sektor zbrojeniowy.",
+        "id": 3815783,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/oze/art43173521-saule-na-sprzedaz-zbrojeniowka-przejmie-technologie-ultracienkiej-fotowoltaiki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Saule na sprzeda\u017c. Zbrojeni\u00f3wka przejmie technologi\u0119 ultracienkiej fotowoltaiki?",
+        "vote": 0
+    }
+]

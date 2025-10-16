@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T12:21:15.742526+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T11:10:59+00:00",
+        "description": "The incident is the latest in a series of attacks which the mayor of Guayaquil blamed on a criminal gang.",
+        "id": 3818781,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cx2pldlyx7jo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d0/live/74cc6dc0-a9b3-11f0-a923-ff705558ae00.jpg",
+        "title": "One dead after vehicle explodes outside Ecuador shopping mall",
+        "vote": 0
+    }
+]

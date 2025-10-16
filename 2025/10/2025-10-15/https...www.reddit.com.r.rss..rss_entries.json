@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/jnpha",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T03:07:32.028185+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T01:59:54+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>In Feedbro on Firefox, I just added a rule to delete all articles that have a url that contains <code>https://www.youtube.com/shorts/</code>. Voila!</p> <p><em>Why didn&#39;t I think of that before!</em></p> <p>There are other posts here with other solutions, which e.g. requires operational APIs and stuff.</p> <p>Hope that helps!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jnpha\"> /u/jnpha </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1o6ykym/figured_out_an_easy_way_too_easy_to_filter_out/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1o6ykym/figured_out_an_easy_way_too_easy_to_filter_out/\">[comments]</a></span>",
+        "id": 3815805,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1o6ykym/figured_out_an_easy_way_too_easy_to_filter_out",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Figured out an easy way (too easy) to filter out YouTube Shorts",
+        "vote": 0
+    }
+]

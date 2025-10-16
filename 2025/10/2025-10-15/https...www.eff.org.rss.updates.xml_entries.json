@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Romero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T19:11:05.990281+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T18:59:24+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p data-start=\"1139\" data-end=\"1311\">Instead of catching you off-guard with a jump scare this Halloween season, EFF is here to catch you up on the latest digital rights news with our <a href=\"https://eff.org/effector\">EFFector newsletter</a>!</p>\n<p data-start=\"1313\" data-end=\"1562\">In this issue, we\u2019re helping you take control of your online privacy with <a href=\"https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security\">Opt Out October</a>; explaining the <a href=\"https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users\">UK\u2019s attack on encryption</a> and why it\u2019s bad for all users; and covering shocking new details about an <a href=\"https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it\">abortion surveillance c",
+        "id": 3822437,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/10/full-month-privacy-tips-eff-effector-3714",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\ud83c\udf83 A Full Month of Privacy Tips from EFF | EFFector 37.14",
+        "vote": 0
+    }
+]

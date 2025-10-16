@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T15:35:53.903784+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T15:16:02+00:00",
+        "description": "Ad: I was given early access to the Arduino UNO Q and invited to the product launch. I used the face tracking example from the new Arduino App Lab on the UNO Q to control a car I can ride in. Check out the full Arduino UNO Q announcement: https://www.youtube.com/watch?v=uYb8YzdMWbc\n\nThe car was 3D printed and made from fibreglass tubes. I used two brushless motors to drive it, and build electric steering. The microcontroller part of the Arduino UNO Q drive the hardware using a normal Arduino sketch, while the face tracking part runs on the Linux side of the UNO Q.\n\nThe UNO Q is available to order from the official Arduino store or their various partners! Get your UNO Q from:\nArduino: https://store.arduino.cc/products/uno-q\nRS Components: https://uk.rs-online.com/web/content/m/arduino-unoq-uk\nDigikey: http://www.digikey.com/en/product-highlight/a/arduino/uno-q-microcontroller-board\nMouser: https://www.mouser.com/\nMacfos: https://robu.in/\nAnd, in future, from any other authorised distri",
+        "id": 3820335,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EGDxAXpH_Ag",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EGDxAXpH_Ag/hqdefault.jpg",
+        "title": "Face Controlled Car with ARDUINO UNO Q",
+        "vote": 0
+    }
+]

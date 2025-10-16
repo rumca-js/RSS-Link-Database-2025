@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hannah Fry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T16:38:09.891852+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T15:22:14+00:00",
+        "description": "My new series with National Geographic (The Infinite Explorer, coming in early November!) took me to all sorts of amazing locations - and I couldn't resist stealing a moment while I was there to share this with you\n\n***When I say \"people\" here, I mean British Victorians - who clearly thought they were the first ones to notice or \"discover\" anything of any importance. So when medieval structures that had been built around the Parthenon were removed in 1837, English architect John Pennethorne announced that he had 'discovered' that the base was curved. In fact, many of the peoples who followed the ancient Greeks were aware of the concept of optical refinement, and the Parthenon isn't the only building to have been built that way. But the British of that time weren't exactly known for giving any credit where credit was due...\n\n(And the people of THIS time aren't exactly known for restraint or accuracy where claims of Golden Ratios are concerned...)",
+        "id": 3821019,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Y4tSre9bqQM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 682,
+        "source_url": "https://youtube.com/channel/UCsX5upzW0Tk2riDY1WB887w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y4tSre9bqQM/hqdefault.jpg",
+        "title": "The (real) beauty of the Parthenon",
+        "vote": 0
+    }
+]

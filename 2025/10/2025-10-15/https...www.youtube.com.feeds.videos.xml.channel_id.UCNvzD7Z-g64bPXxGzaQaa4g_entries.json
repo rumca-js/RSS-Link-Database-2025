@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T15:11:07.891807+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T14:42:25+00:00",
+        "description": "After GTA3, the gaming world saw an endless deluge of games trying to ape the franchise's success.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1\n\n0:00 Intro \n0:34 Mindseye \n3:14 APB: All Points Bulletin \n5:08 Driver 3 \n6:57 Crime Boss: Rockay City \n8:19 LEGO City: Undercover \n9:38 Final Fight: Streetwise \n11:43 Wheelman \n13:40 Made Man: Confessions of the Family Blood \n16:03 True Crime: Streets of LA \n17:40 Yakuza",
+        "id": 3820195,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LJPC4T1MTvk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LJPC4T1MTvk/hqdefault.jpg",
+        "title": "10 Games That FAILED Trying to Copy GTA",
+        "vote": 0
+    }
+]

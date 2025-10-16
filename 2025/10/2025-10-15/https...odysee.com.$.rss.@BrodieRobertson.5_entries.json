@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T19:16:39.117718+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T16:30:29+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/tdakCS6kF8E\" width=\"480\" alt=\"thumbnail\" title=\"BANNED For Trolling The Linux Kernel Github\" /></p>I've done a couple of videos on the Linux Kernel Github chaos and well recently someone was suspended from github due to a PR that took place in this repo and we're here to talk about it.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />The PR: https://github.com/torvalds/linux/pull/1355<br />Twitter: https://x.com/vmfunc<br />The Post: https://x.com/vmfunc/status/1978079375183536440<br />Other Suspension: https://x.com/vmfunc/status/1978213150529896904/photo/1<br />Support Issues: https://x.com/vmfunc/status/1978090229635440966/photo/1<br />The Email: https://x.com/vmfunc/status/197809022",
+        "id": 3822488,
+        "language": "en",
+        "link": "https://odysee.com/banned-for-trolling-the-linux-kernel:d8a1c1842416d37846b5fc1b0395520f1a0d6d7a",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/tdakCS6kF8E",
+        "title": "BANNED For Trolling The Linux Kernel Github",
+        "vote": 0
+    }
+]

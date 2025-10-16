@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T10:11:32.012356+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T09:03:00+00:00",
+        "description": "A powerful metaphor from a long hike: Every hiker is intimately aware of their backpack. They picked it out, choosing from dozens of options. They know which straps are loose and which are digging into their skin. They can tell you if it&#8217;s lopsided, and what is in each pocket. And yet&#8230; Even after days [&#8230;]",
+        "id": 3817716,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/the-other-backpacks",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The other backpacks",
+        "vote": 0
+    }
+]

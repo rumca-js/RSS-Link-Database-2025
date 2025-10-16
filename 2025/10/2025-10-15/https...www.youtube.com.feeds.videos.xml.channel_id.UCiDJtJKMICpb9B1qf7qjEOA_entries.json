@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T15:13:38.192982+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T14:00:46+00:00",
+        "description": "When Adam set up his pantograph mill, there was one tool to adjust it's cutter collet that didn't make it to his shop. Today's build is cutting and brazing a custom hand tool to make that adjustment--without which the pantograph because more of a chore to use. How many attempts do you think it will take for Adam to successfully make this tool? \n\nAdam's pantograph mill: https://youtu.be/pku2VRADLGk\n\nShot by Adam Savage and edited by Josh Self\nMusic by Jinglepunks\n\nSubscribe for more videos (and click the bell for notifications):  http://www.youtube.com/subscription_center?add_user=testedcom\n\nJoin this channel to support Tested and get access to perks:\nhttps://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA/join\nTested and Adam Savage Ts, stickers, (de) merit badges and more: https://tested-store.com\nSavage Merchandising: https://adamsavage.com/\nAbout Tested: https://www.tested.com/about\nMeet Adam in Person: https://www.tested.com/events\nTikTok: https://www.tiktok.com/@testedcom\nInstag",
+        "id": 3820213,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PySdrA04M3o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PySdrA04M3o/hqdefault.jpg",
+        "title": "Adam Savage Builds an Essential Tool for His Pantograph Mill!",
+        "vote": 0
+    }
+]

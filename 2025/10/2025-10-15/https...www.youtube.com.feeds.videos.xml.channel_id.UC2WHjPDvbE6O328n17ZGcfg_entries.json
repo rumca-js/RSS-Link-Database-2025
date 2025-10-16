@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T19:42:21.182864+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T18:15:00+00:00",
+        "description": "Warp is free to try but for a limited time, you can try Warp Pro free for 7 days with 2,500 AI credits - no card required. Use my link https://go.warp.dev/forrest\n\nEveryone seems to be using AI to code now, and in this video, I'm showing you how to actually code with AI - not vibe code. Because there's a huge difference between software developers who strategically guide AI, and vibe coders who just let it take the wheel.\n\n0:00 Everyone\u2019s Coding with AI\n0:32 Stop Repeating Yourself\n1:45 Prompting is Important\n4:21 The Software Development Workflow\n6:42 Pair Programming\n7:57 Implement Multiple Agents\n9:25 git worktree\n9:57 Extra Stuff AI Can Help With\n11:21 Pull the Plug\n11:58 Always Remember This\n\nThis video is sponsored by Warp.\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com\n\nDon't know why you'd want to follow me on other socials. I don't even post.",
+        "id": 3822821,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5fhcklZe-qE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5fhcklZe-qE/hqdefault.jpg",
+        "title": "Everything You Need to Know About Coding with AI // NOT vibe coding",
+        "vote": 0
+    }
+]

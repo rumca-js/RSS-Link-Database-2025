@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T18:07:04.811710+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T18:01:25+00:00",
+        "description": "Tickets on Sale Now: https://shelbyoaks.film/",
+        "id": 3821898,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sueZ40jmhxI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sueZ40jmhxI/hqdefault.jpg",
+        "title": "SHELBY OAKS - Thank You, Backers! - In Theaters October 24",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T20:08:30.812643+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T19:00:10+00:00",
+        "description": "During the Great Depression, many people lost their jobs and money was hard to come by. So when Dillinger went from a farmer to a bank robber and gangster, who could blame him? Well, maybe the FBI.",
+        "id": 3823003,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/BNWdRFe6fAg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BNWdRFe6fAg/hqdefault.jpg",
+        "title": "John Dillinger - the 20th Century Robin Hood.",
+        "vote": 0
+    }
+]

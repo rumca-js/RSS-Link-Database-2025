@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T15:29:31.824998+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T14:01:11+00:00",
+        "description": "This video shows how to use the Rule Engine in Unity Asset Transformer Toolkit 3.2 to prepare and optimize a complex car model for a real-time HMI application. The entire data preparation pipeline is handled directly inside the Unity Editor, giving you full control over mesh quality and performance without needing external tools.\n\nThis tutorial covers how to:\nAutomate data preparation: Use the Rule Engine to create a sequence of automated optimization rules.\n\nOptimize geometry: Decimate a high-polygon model to a target triangle count while preserving visual quality.\n\nImprove shading performance: Bake ambient occlusion into vertex colors for efficient, high-quality shading.\n\nStreamline material workflows: Automatically switch default materials with versions optimized for HMI applications.\n\nThe Asset Transformer Toolkit is part of Unity Industry and allows you to integrate over 50 different 3D and CAD file types into your projects.\n\nRelated Resources:\nLearn more about Unity Asset Transf",
+        "id": 3820293,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fU6ObKeuRrw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fU6ObKeuRrw/hqdefault.jpg",
+        "title": "Asset Transformer Toolkit 3.2",
+        "vote": 0
+    }
+]

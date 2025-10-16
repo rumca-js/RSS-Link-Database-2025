@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Numberphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T18:42:41.796167+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-15T17:29:19+00:00",
+        "description": "A \"killer sudoku\" with a stroke of genius... Learn for free on Brilliant (and get 20% off a premium subscription) at https://brilliant.org/numberphile (episode sponsor). More links & stuff in full description below \u2193\u2193\u2193\n\nThis video features Simon Anthony from Cracking the Cryptic.\n\nTry the puzzle yourself here - https://sudokupad.app/FmTJm94bMR\nWatch Simon tackle the puzzle on Cracking the Cryptic - https://www.youtube.com/watch?v=wps4c6WZKeM\n\nCatch Simon's previous video about the Phistomephel Ring - https://youtu.be/pezlnN4X52g\n\nCracking the Cryptic - https://www.youtube.com/c/CrackingTheCryptic\n\nCracking the Cryptic on Numberphile - https://www.youtube.com/playlist?list=PLt5AfwLFPxWKtlMAE1n0JbiBMqSH2VMH4\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nWe are also grateful for support from Ben Delo.\n\nNUMBERPHILE\nWebsite: http://www.numberphile.co",
+        "id": 3822317,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eB0-vG6rSM4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 712,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eB0-vG6rSM4/hqdefault.jpg",
+        "title": "The Anti-Knight Killer Sudoku - Numberphile",
+        "vote": 0
+    }
+]
