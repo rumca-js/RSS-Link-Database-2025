@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T17:15:28.705238+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T17:00:01+00:00",
+        "description": "Thanks to MSI for sponsoring this video! Head over to https://lmg.gg/0iNyl and check out the MSI MAG B850 TOMAHAWK MAX WIFI!\n\nCheck out https://vessi.com/lmg to enter Vessi's October giveaway for a chance to win over $6,000 in prizes! You can also enjoy 20% off at checkout for this month only using our link! \n\nGiveaway Details: \n- 7 Prizes. 7 Winners. Over $6,000 in Prizes\n- Ends Oct 31, 2025\n- Enter your email for a chance to win, no purchase necessary \n\nDive deep into the heart of Canada's fastest academic supercomputer, this $82 CAD million powerhouse is redefining cutting-edge research in AI, genomics, and more. Join us as we go behind the scenes at Simon Fraser University's new data center, showcasing the incredible direct die liquid cooling system that achieves up to 95% heat capture. See the EPYC Genoa CPUs, 1.152TB RAM nodes, and learn how HBM3 memory delivers 3.36TB/s bandwidth. Explore the Aquatherm tubing, 600KW cooling distribution units (CDU), and massive evaporative cool",
+        "id": 3830474,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=U4Sqh-uJ2NA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U4Sqh-uJ2NA/hqdefault.jpg",
+        "title": "They let me take apart a SUPER COMPUTER",
+        "vote": 0
+    }
+]

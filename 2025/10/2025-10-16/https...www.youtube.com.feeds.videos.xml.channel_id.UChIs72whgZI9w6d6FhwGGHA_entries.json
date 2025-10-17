@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T21:39:15.160842+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T19:07:30+00:00",
+        "description": "Sponsor: Hyte Y70 and Touch Infinite on their site https://geni.us/Ir9vKEK\nWe bought the Huawei Atlas 300i Duo GPU, which is marketed as a 96GB VRAM capacity card (although it's actually 48GB x 2 GPUs). We've had some compatibility issues with the card so far, and although we can likely technically force it to work on some platforms, it's only officially supported by a narrow band of Huawei servers that utilize China domestic Kunpeng CPUs. The Atlas 300i Duo is a domestic-to-China GPU solution designed by Huawei. Based on early numbers, it isn't a meaningful competitor right now; however, with ongoing GPU export controls between both the US and China on each other, there is more motivation than ever for China to develop domestic alternatives in the event NVIDIA GPUs become more restricted. Regardless of the reasoning, new GPU competition is always interesting, even if it'll take some time for them to meaningfully and actually compete (if ever).\n\nWatch our AI GPU documentary featuring ",
+        "id": 3832782,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qGe_fq68x-Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qGe_fq68x-Q/hqdefault.jpg",
+        "title": "China's GPU Competition: 96GB Huawei Atlas 300I Duo Dual-GPU Tear-Down",
+        "vote": 0
+    }
+]

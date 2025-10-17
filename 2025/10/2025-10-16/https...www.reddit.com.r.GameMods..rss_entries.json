@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Kaiserbun123",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T04:50:02.889016+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T04:36:18+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I really want to try a Silksong warp randomizer. Where everytime you enter a new room or area, it randomizes it to any room or area of the map. You can have various goals in the playthrough, to complete the game, beat a certain amount of bosses or try to reach a specific tool. You will have to be prepared for anything that is in the next room and that seems fun to me.</p> <p>I would want it to be a set configuration per new game, so for example if you go back through the same door, you end up in the same randomized place, not a new one. That way you can&#39;t just go back and forth through the doors to get to the final room.</p> <p>The other thing is just making sure the first warp isn&#39;t a dead end room, it has to randomize to a room with at least two additional exits to the one you are entering from, to hopefully allow the path to open up and expand to new areas and less chance to get stuck.</p> <p>I don&#39;t care if the direction you enter the ",
+        "id": 3825630,
+        "language": "en",
+        "link": "https://www.reddit.com/r/GameMods/comments/1o7x0f3/can_anyone_make_a_warp_randomizer_for_hollow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 533,
+        "source_url": "https://www.reddit.com/r/GameMods/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Can anyone make a warp randomizer for Hollow Knight Silksong?",
+        "vote": 0
+    }
+]

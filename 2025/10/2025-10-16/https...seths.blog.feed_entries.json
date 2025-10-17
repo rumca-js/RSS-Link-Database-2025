@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T09:45:11.016721+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T09:03:00+00:00",
+        "description": "Even though it&#8217;s possible to design an oral thermometer that measures body temperature to a hundredth of a degree, there&#8217;s no reason to do so. In fact, 98.6 is overkill. 98 is enough information. More digits don&#8217;t give us more information, they simply distract or confuse us. The same is true for time. Knowing what [&#8230;]",
+        "id": 3826888,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/significant-digits",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Significant digits",
+        "vote": 0
+    }
+]

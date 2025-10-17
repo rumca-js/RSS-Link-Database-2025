@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Connor Makar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T10:47:50.854754+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T09:53:12+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/header-(1)_Y4SVABd.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Evo - the largest fighting game tournament series - landed in Nice, France last weekend for the inaugural European wing of the eagerly expanding event. A vaporous dream for thousands of genre fanatics for untold years, navigating the Palais des Expositions felt like a major triumph for the event series, a strong first step in a new era of expansion. I walked the floor with conflicting feelings; giddiness tainted with palpable concern.</p> <p><a href=\"https://www.eurogamer.net/evo-france-2025-travel-blog\">Read more</a></p>",
+        "id": 3827287,
+        "language": "en",
+        "link": "https://www.eurogamer.net/evo-france-2025-travel-blog",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/header-(1)_Y4SVABd.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "As long as its new owners don\u2019t meddle with the formula, Evo France could be the first step in a brilliant new era for fighting game events",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T02:29:45.620367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T01:26:25+00:00",
+        "description": "Use code ONJAKEFB50 to get 50% OFF plus free breakfast for 1 year at https://bit.ly/45NAULB ! Thanks to Factor for sponsoring this video.\n\n\nASUS and Xbox's ROG ALLY X is a powerful new PC handheld with some caveats and a huge price tag. Here are my first impressions.",
+        "id": 3825110,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hWxe6nCXAAs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hWxe6nCXAAs/hqdefault.jpg",
+        "title": "Xbox PC Handheld - one week later",
+        "vote": 0
+    }
+]

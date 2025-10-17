@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Larry Cafiero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T19:27:24.349827+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T18:57:14+00:00",
+        "description": "<p><em>This Debian\u2011based distro fuses privacy\u2011first AI with KDE polish and speed, although not everything is flawless.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/10/gnoppix-kde-25-10-mixes-innovative-excellence-with-rough-edges/\">Gnoppix KDE 25.10 Mixes Innovative Excellence With Rough Edges</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 3831671,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/10/gnoppix-kde-25-10-mixes-innovative-excellence-with-rough-edges",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gnoppix KDE 25.10 Mixes Innovative Excellence With Rough Edges",
+        "vote": 0
+    }
+]

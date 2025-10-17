@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Glink",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T03:16:10.598568+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T02:04:10+00:00",
+        "description": "Outside Austin City Hall we met with Louis Rossmann and fellow activists known as \"Clippys\". Because it was removed from the agenda, the only 2 people allowed to speak on the public communications hearing were 2 representatives of LiveView Technologies (LVT), the agenda for item 33 has been delayed to December. Stay tuned to GTV for updates on this developing story.\n\n\nCheck out our digital magazine that covers IRL artists and culture:\nhttps://generationtelevision.com/\n\nhttps://www.patreon.com/Glink\nsupport my work on here and gain access to exclusive videos and bonus footage\n\nhttps://twitter.com/GlinkLive\nKeep up with me on Twitter for updates and memes\n\nhttps://www.instagram.com/glink_between_worlds/\nI share what I've been up to on Instagram\n\nhttps://discord.gg/xtwYypf\nDiscord community\n\nhttps://www.shopglink.com/\nMerch designed from handrawn art",
+        "id": 3825284,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/D-dOkPdNQLQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 135,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNTqu16j3F6RbtHZI-3untg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D-dOkPdNQLQ/hqdefault.jpg",
+        "title": "The Clippys message to Austin City Council: NO AI Facial Cameras in our city",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/daltanious78",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T19:45:51.008875+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T19:11:42+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone</p> <p>I&#39;ve had an Orange Pi RV2 for a few months now, and after installing a Linux distro, I had a hunch: is it possible to install a local Artificial Intelligence (LLM) like Llama or Mistral?</p> <p>I know it&#39;s not a monster, but I&#39;d like to experiment with it to have an offline personal assistant, or even just to understand how inference works on limited hardware.</p> <p>Has anyone tried this yet? I have a lot of questions:</p> <p>Hardware: Does the Orange Pi RV2 (with its Ky X1, 8-core 64-bit RISC-V processor) have enough horsepower to run a lightweight model (e.g., a 7B quantized parameter)? Or should I aim for even smaller models (e.g., Phi-2, TinyLlama)?</p> <p>Software: What&#39;s the best way to do this?</p> <p>Ollama? Seems like the easiest option, but is there a RISC-V build? Does it work well?</p> <p>Text Generation WebUI (oobabooga)? Is it a bit cumbersome to configure?</p> <p>LM Studio? I think it&#39;s x86 only, ",
+        "id": 3831738,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1o8faxn/help_how_to_install_a_local_ai_llm_on_an_orange",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Help! How to install a local AI (LLM) on an Orange Pi RV2?",
+        "vote": 0
+    }
+]

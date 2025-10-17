@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PBS Space Time",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T21:20:44.618791+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T20:15:07+00:00",
+        "description": "Thank you to Cyber GhostVPN for Supporting PBS. Learn More About Cyber GhostVPN:  https://cyberghostvpn.com/PBSSpaceTime\n\nDoes quantum mechanics allow the future to retroactively influence the past, as in the infamous delayed choice quantum eraser experiment? How about we get an actual quantum physicist--who many of you already know--to show us how to do this experiment at home, and hopefully set this matter to rest.\n\nCheck Out Looking Glass Universe: \nhttps://www.youtube.com/@LookingGlassUniverse\n\nAnd Check Out Matt\u2019s Conversation with Mithuna\nhttps://youtu.be/QPuVtvIOYcM?si=TQovlQ6kW_6PPxKy\n\nSign Up on Patreon to get access to the Space Time Discord!\nhttps://www.patreon.com/pbsspacetime\n\nCheck out the Space Time Merch Store\nhttps://www.pbsspacetime.com/shop\n\nSign up for the mailing list to get episode notifications and hear special announcements!\nhttps://mailchi.mp/1a6eb8f2717d/spacetime\n\nSearch the Entire Space Time Library Here: https://search.pbsspacetime.com/\n\nHosted by Matt O'D",
+        "id": 3832621,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sc7FlWUAnzA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 827,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sc7FlWUAnzA/hqdefault.jpg",
+        "title": "Why The Quantum Eraser is NOT Retrocausal ft. @LookingGlassUniverse\u200b",
+        "vote": 0
+    }
+]

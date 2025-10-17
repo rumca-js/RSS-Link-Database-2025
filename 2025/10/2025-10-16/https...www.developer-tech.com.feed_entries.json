@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T17:00:11.585768+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T17:00:01+00:00",
+        "description": "<p>Snap has detailed its latest OS, new AI tools, and more as it gets closer to the launch of its next-gen Specs launch in 2026. The announcements \u2013 made during the company&#8217;s fifth annual developer conference \u2018Lens Fest\u2019 \u2013 was accompanied by the launch of Snap Cloud, a backend infrastructure designed to support more complex [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/snap-preps-2026-specs-ar-glasses-new-os-ai-tools/\">Snap preps for 2026 Specs AR glasses with new OS and AI tools</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3830427,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/snap-preps-2026-specs-ar-glasses-new-os-ai-tools",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Snap preps for 2026 Specs AR glasses with new OS and AI tools",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T14:36:55.142519+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T14:01:14+00:00",
+        "description": "This is part 4 in our Unity Gaming Services (UGS) tutorial series. In this tutorial, you\u2019ll learn how to implement Google Play, the recommended recoverable method that comes with all Android phones. \n\nAbout the UGS tutorial series\nThe UGS series consists of 10 sets of tutorials, with each set comprising a video and written tutorial. The topics covered in the UGS tutorial series are:\n\nWelcome and Introduction\nPlayer login\nFacebook login\nGoogle Play Games login\nApple Game Center login\nPlayer data\nPlayer economy\nVirtual purchases\nIn-app purchases\nRewarded ads\n\nA demo project for more advanced Unity developers\nYou can also see these services in action, in a new sample project, Gem Hunter Match \u2013 Cloud Edition (GHM \u2013 CE). The demo project is aimed at advanced Unity developers who have solid experience with core Unity development, but have yet to use UGS features in a functional game and are looking for tips on how to do so.   \n\nFind all of the content in the Unity Gaming Services tutorial ",
+        "id": 3829000,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hsJsGuDtAD8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hsJsGuDtAD8/hqdefault.jpg",
+        "title": "Unity Gaming Services tutorial series Part 4: Google Play Games login",
+        "vote": 0
+    }
+]

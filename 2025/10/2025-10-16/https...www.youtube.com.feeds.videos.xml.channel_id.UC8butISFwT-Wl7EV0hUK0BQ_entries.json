@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T18:21:47.700513+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T17:58:03+00:00",
+        "description": "This beginner's tutorial covers the fundamentals of the Document Object Model (DOM) in JavaScript. Learn DOM structure, element traversal, manipulation, and event handling with a hands-on Expense Tracker project. Perfect for aspiring front-end developers.\n\nCourse created by @logicBaseLabs \n\n\u2b50\ufe0f Resources \u2b50\ufe0f\n\ud83d\udd17 Project Source Code: https://github.com/logicbaselabs/play-with-dom\n\ud83d\udd17 HTML DOM Events List - https://www.w3schools.com/jsref/dom_obj_event.asp\n\ud83d\udd17 DOM Selection Cheat Sheet - https://www.facebook.com/logicbaselabs/posts/pfbid0GAMBk7X2kHkgCkAtNZmUZGcn6weLpnAX99jbeiHpbefgJu2kCRZxTKXvgikkzijql\n\ud83d\udd17 DOM Traversal Cheat Sheet - https://www.facebook.com/logicbaselabs/posts/pfbid02Nm8T1ExwFQH6aRrPDkLVQhaZXVMsxnMP6qG4QqytXTcgjN2UxsXDcegiEgKr2wYRl\n\ud83d\udd17 DOM Manipulation Sheet - https://www.facebook.com/logicbaselabs/posts/pfbid031qFufNBnzPe6arn7DoQExBmNFunjmy7Zwu4eZF1pzgMVKZVvA91qeF3rEaiQ3BK5l\n\ud83d\udd17 DOM Project Ideas - https://www.facebook.com/logicbaselabs/posts/pfbid0Gw1tkEqxHbcApV6Dn2bbb4PFDw1hCfCD9",
+        "id": 3831082,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=c6IyCwAV6BY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c6IyCwAV6BY/hqdefault.jpg",
+        "title": "What is the JavaScript DOM?",
+        "vote": 0
+    }
+]

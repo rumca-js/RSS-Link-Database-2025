@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T14:50:16.768265+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T14:01:14+00:00",
+        "description": "Vintage Computer Festival Midwest 2025 was overwhelming (in a good way).\n\nI'll tell you my favorite experiences and interactions with the vintage tech community in this video.\n\nSome of the projects and products mentioned in this video:\n\n  - VCF Midwest: https://www.vcfmw.org\n  - yyzkevin PCMCIA Pico card: https://www.yyzkevin.ca/pico-pcmcia/\n  - Open Source CRT analog board: https://github.com/tdaede/td-crt\n  - Meshtastic 64 on C64: https://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html\n  - Juicy Crumb Systems: https://juicycrumb.com\n  - Mac84 Video on Personics View Control System: https://www.youtube.com/watch?v=41jCujsrHVg\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - Old computers, new tricks in Chicago\n00:54 - Nostalgia for",
+        "id": 3829036,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=hF0NKvmQmVA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hF0NKvmQmVA/hqdefault.jpg",
+        "title": "Resurrecting old tech at VCF Midwest",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-16T22:22:05.808743+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-16T21:43:13+00:00",
+        "description": "It is a scene out of countless romance novels and prestige period pieces: an elegantly-dressed Victorian lady, laced too tightly into her corset, is suddenly overcome by a case of \u201cthe vapours\u201d and swoons - collapsing into a convenient \u201cfainting couch\u201d designed for just this purpose. Immediately a servant or dashing doctor rushes to her side, uncorks a small bottle of smelling salts, and holds it under her nose. She gasps, springs back to consciousness, and all is well. \n\nOf course, most of this scenario is pure fiction. Contrary to popular depictions, the corsets was not some diabolical, patriarchal torture device that caused women to faint constantly - indeed, working women regularly wore them in the fields and factories - while so-called \u201cfainting couches\u201d were nothing of the sort - merely ordinary day beds for lounging. But smelling salts were a real thing, used for centuries to rouse both men and women from fainting spells; indeed, they remain popular today among many professiona",
+        "id": 3832939,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nzFBiN88ugI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nzFBiN88ugI/hqdefault.jpg",
+        "title": "WTF are Smelling Salts?",
+        "vote": 0
+    }
+]
