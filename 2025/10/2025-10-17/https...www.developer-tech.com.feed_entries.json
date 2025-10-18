@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T14:43:18.793259+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T12:05:31+00:00",
+        "description": "<p>Software developers worldwide are using AI assistants to boost their coding productivity, but security hasn&#8217;t kept pace with adoption. AI-generated code frequently contains vulnerabilities: insecure defaults, missing input validation, hardcoded secrets, weak cryptography, and deprecated dependencies. These flaws slip into production unnoticed. The tech industry has needed a unified, open approach to secure AI-assisted coding. [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/cisco-tackles-ai-coding-security-open-source-framework/\">Cisco tackles AI coding security with open-source framework</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3837018,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/cisco-tackles-ai-coding-security-open-source-framework",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cisco tackles AI coding security with open-source framework",
+        "vote": 0
+    }
+]

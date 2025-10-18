@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T18:01:11.038475+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T17:01:04+00:00",
+        "description": "Taken from JRE #2395 w/Mariana van Zeller\nYouTube: https://youtu.be/5P4Mu4X_zk4\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 3838737,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=gYqTnJx8YYY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gYqTnJx8YYY/hqdefault.jpg",
+        "title": "Scam Factories - The Gang Controlled Compounds Using Slave Labor to Commit Online Fraud",
+        "vote": 0
+    }
+]

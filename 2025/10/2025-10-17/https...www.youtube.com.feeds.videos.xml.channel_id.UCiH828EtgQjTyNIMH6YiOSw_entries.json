@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T23:16:39.457802+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T21:30:09+00:00",
+        "description": "Doug gives his thoughts on the hit web animation Lackadaisy...two years later. But with it joining Glitch, he figured it made sense to look it over. \n\nJoin our YouTube Members - https://www.youtube.com/channel/UCiH828EtgQjTyNIMH6YiOSw/join\n\nLast weeks Nostalgia Critic - https://youtu.be/WlA7SCZs5Pg\n\nCheck out our store - https://channelawesome.myshopify.com/\n\nTwitch - https://twitch.tv/channelawesome\nFacebook: https://www.facebook.com/channelawesome\nTwitter: http://twitter.com/channelawesome\nInstagram: https://www.instagram.com/channelawesome/\nLike Doug on Facebook: https://www.facebook.com/pages/Doug-Walker/127127037353766\n\nThe ONLY Official Youtube channel for the Nostalgia Critic and Channel Awesome.\n\nNew Nostalgia Critic episodes every Wednesday at 5PM CST.\n\n#lackadaisy #animation #glitch",
+        "id": 3840738,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VnYJU7Bbzhc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VnYJU7Bbzhc/hqdefault.jpg",
+        "title": "Better late than never",
+        "vote": 0
+    }
+]

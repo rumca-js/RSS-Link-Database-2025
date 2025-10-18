@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Ozimek",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T20:50:28.362570+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T20:44:45+00:00",
+        "description": "The standoff\u2014rooted in export controls by China and a rare state takeover by the Netherlands\u2014thrusts the auto sector into the center of a chip supply dispute.",
+        "id": 3840000,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/automaker-groups-warns-nexperia-chip-halt-could-rapidly-disrupt-us-european-vehicle-production-5931127",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/09/30/id5922574-GettyImages-2238348662-OP-1080x720.jpg",
+        "title": "Automaker Groups Warns Nexperia Chip Halt Could Rapidly Disrupt US, European Vehicle Production",
+        "vote": 0
+    }
+]

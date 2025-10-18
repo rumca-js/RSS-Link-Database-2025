@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T03:59:23.385936+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T03:59:22+00:00",
+        "description": "Zarz\u0105d JSW planuje wdro\u017cenie planu restrukturyzacji, kt\u00f3ry ma przybli\u017cy\u0107 sp\u00f3\u0142k\u0119 do zredukowania strat, kt\u00f3ra ona obecnie generuje miliardowe straty. O szczeg\u00f3\u0142ach m\u00f3wi \u201eParkietowi\u201d p.o. prezesa JSW Bogus\u0142aw Oleksy.",
+        "id": 3834514,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/wegiel/art43191921-jsw-zapowiada-dzialania-ktore-obniza-koszty",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "JSW zapowiada dzia\u0142ania, kt\u00f3re obni\u017c\u0105 koszty",
+        "vote": 0
+    }
+]

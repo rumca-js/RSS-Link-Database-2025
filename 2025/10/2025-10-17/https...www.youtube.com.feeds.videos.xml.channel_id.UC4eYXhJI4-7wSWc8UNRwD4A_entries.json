@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T14:56:20.545229+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T09:01:36+00:00",
+        "description": "Bobby Carter | October 17, 2025\nKevin Parker's team came back with two words: \"all acoustic.\" I was dumbfounded, not only by the notion of an acoustic Tame Impala set but also by the idea of the band playing the real Tiny Desk. In 2020, Tame Impala was able to toe and, by some standards, cross the line for its Tiny Desk (home) concert. Here at NPR headquarters, Parker and the crew had to relinquish a certain level of control. \"Let's just try it and see what happens,\" Parker told me.\n\nFrom a production standpoint, it feels like Tame Impala has done everything but this. Granted, there are plenty of moments throughout the catalog and a few on the new album, Deadbeat, that translate seamlessly into our space. \"Loser\" is pretty much all guitar. The live debut of \"Dracula\" is brilliantly reimagined, highlighting the band's harmonies and Parker's signature falsetto, which we never hear without at least a touch of reverb. This one took me back to the simpler Tiny Desk days of old, when less w",
+        "id": 3837154,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xSDfCwDmJNo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xSDfCwDmJNo/hqdefault.jpg",
+        "title": "Tame Impala: Tiny Desk Concert",
+        "vote": 0
+    }
+]

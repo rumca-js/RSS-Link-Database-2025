@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T15:41:06.098397+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T14:43:12+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nA brand new patch 1.30 lands on all current-gen consoles, with PS5 Pro in particular reaping the spoils with a new PSSR toggle, and also increased 60fps performance while using its ray tracing 'graphics' mode. The advantages speak for themselves, as Tom covers here, but there are a few limitations to consider also. \n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Overview\n01:55 TAA Upgrades Tested\n03:25 PS5/Series X/Pro Unlocked Frame-Rate Test\n06:48 PS5/Series X 40FPS Graphics Mode Test\n10:00 PS5 Pro 60FPS Graphics Mode Test\n11:19 PSSR Pros and Cons\n15:50 Conclusion",
+        "id": 3837883,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WMUGc2KG8xU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WMUGc2KG8xU/hqdefault.jpg",
+        "title": "Control - PS5/Pro/Series X Update 1.30 - PSSR Upscaling and RT at 60FPS Tested on PS5 Pro!",
+        "vote": 0
+    }
+]

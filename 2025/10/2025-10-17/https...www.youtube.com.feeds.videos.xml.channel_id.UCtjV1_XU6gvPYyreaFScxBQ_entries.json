@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T14:42:33.620763+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T10:49:50+00:00",
+        "description": "In the digital economy era, smart retail isn't an option. It's now a mandate. Thailand\u2019s retail leader, CP AXTRA, is building intelligent stores and driving a full-chain digital and intelligent transformation that's powered by #Huawei solutions, driving efficiency, insight, and innovation across its retail chain.\n\nThis evolution is enhancing efficiency, optimizing operations, and lighting up the future of retail in Thailand.\n\nHuawei\u2019s Smart Retail solutions combine AI, cloud, and connectivity to empower retailers with real-time data, seamless experiences, and intelligent decision-making. Together, we\u2019re lighting up the future of retail.\nLearn more: http://bit.ly/4qmZJaX",
+        "id": 3837004,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nziJZ5TTA9M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nziJZ5TTA9M/hqdefault.jpg",
+        "title": "Digital Evolution: CP AXTRA\u2019s Smart Retail Transformation with Huawei",
+        "vote": 0
+    }
+]

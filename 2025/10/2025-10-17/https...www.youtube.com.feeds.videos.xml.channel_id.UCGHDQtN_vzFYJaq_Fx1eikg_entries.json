@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T21:52:30.229103+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T20:00:23+00:00",
+        "description": "This bank robbery was the first of its kind - and in all likelihood, the last.\n\n\n\"On January 6, 1995, McArthur Wheeler and Clifton Earl Johnson robbed two banks in the Greater Pittsburgh area at gunpoint. At 2:47 p.m., at the Swissvale branch of Mellon Bank, one of them stuck up the teller with a semi-automatic handgun while the other waited in line. They left together after obtaining US$5,200 (equivalent to $10,730 in 2024). The other robbery took place at Fidelity Savings Bank in Brighton Heights.\nNeither robber wore a mask or otherwise attempted to disguise themselves, having instead applied lemon juice to their faces. According to Wheeler, Johnson had told him lemon juice would make one invisible to security cameras, akin to how it functions as invisible ink. Although initially skeptical, Wheeler had tested this method by covering his face with lemon juice and capturing an image of it with a Polaroid camera. As he was missing from the resulting photograph, he trusted the method to",
+        "id": 3840300,
+        "language": "rn",
+        "link": "https://www.youtube.com/watch?v=LHkR-BN4u1c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LHkR-BN4u1c/hqdefault.jpg",
+        "title": "The First Bank Robber to Discover Crazy Trick | Tales From the Bottle",
+        "vote": 0
+    }
+]

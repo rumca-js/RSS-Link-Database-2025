@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T14:15:05.286592+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T13:00:59+00:00",
+        "description": "Join Good Work\u2019s Patreon where you can watch our live shows and ad free episodes: https://www.patreon.com/cw/GoodWork\n\nA thought-provoking investigation into President Trump\u2019s provoking provocation of America\u2019s central bank, the Federal Reserve.\n\nFeaturing interviews with:\n\nProfessor Richard Sylla, NYU\nProfessor Anil Kashyip, University of Chicago\nSam Goldfarb, Wall Street Journal\n\nWriters / creators: Jack Stebbins, Henry Stockwell, Dan Toomey\nAudience development: Jen Walsh\nThumbnail designer: Seth Laupus\n\n--\nJOIN GOOD WORK'S PATREON FOR LIVE SHOWS AND MORE: https://\nGOOD WORK ON ALL PLATFORMS: @goodworkmb\nDAN ON IG: @dhtoomey \nSIGN UP FOR MORNING BREW HERE: https://www.morningbrew.com/",
+        "id": 3836644,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=V0_-eiDrfA0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 3,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V0_-eiDrfA0/hqdefault.jpg",
+        "title": "How risky is Trump's fight with the Fed?",
+        "vote": 0
+    }
+]

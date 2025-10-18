@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T14:20:08.292068+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T14:00:29+00:00",
+        "description": "Nine out of ten people might tell you you're crazy. The tenth might see what you see.\n\nGarry, Harj, Jared, and Diana talk about contrarian bets \u2014 the ideas that look impossible until they work. From Uber and Coinbase to DoorDash and Flock Safety, they share how founders find opportunity where others see dead ends.\n\nChapters:\n0:00 - Intro\n2:00 - AI verticals are becoming more crowded\n6:22 - Non-obvious successes\n9:50 - End users can get regulations changed\n18:05 - Finding contrarian ideas, what founders should look for \n25:10 - Flock Safety and selling to local governments\n33:40 - The sci-fi founder and \"impossible\" big ideas\n36:42 - Outro\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs",
+        "id": 3836700,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Hm-ZIiwiN1o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hm-ZIiwiN1o/hqdefault.jpg",
+        "title": "How To Be Contrarian \u2014 And Right",
+        "vote": 0
+    }
+]

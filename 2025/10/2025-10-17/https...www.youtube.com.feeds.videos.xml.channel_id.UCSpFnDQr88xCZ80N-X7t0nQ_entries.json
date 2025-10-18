@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T16:16:57.712746+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T16:01:03+00:00",
+        "description": "Sinners, directed by Ryan Coogler and starring Michael B. Jordan, went above and beyond to create the cloning effect that allowed Michael to portray both the Smokestach twins in the movie.\n\nWith VFX Supervisor Michael Ralla and VFX Producer James Alexander, the team created a new solution they called the Halo Rig, so they could capture as best as possible training data for their pipeline smart planning, CGI compositing, and AI deepfake.\n\nDo you think the result was better than the cloning effect in Mickey 17?",
+        "id": 3838040,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/WaLIKRfjco8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WaLIKRfjco8/hqdefault.jpg",
+        "title": "SINNERS clone effect explained",
+        "vote": 0
+    }
+]

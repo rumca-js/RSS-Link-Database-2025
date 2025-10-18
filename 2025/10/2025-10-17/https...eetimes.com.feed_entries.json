@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sally Ward-Foxton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T23:01:34.410840+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T22:30:00+00:00",
+        "description": "<p>Athos Silicon\u2019s technology is based on five years of R&#038;D at Mercedes, which the company can now sell to any autonomy application, including other autonomous cars</p>\n<p>The post <a href=\"https://www.eetimes.com/athos-spins-out-of-mercedes-with-chiplet-concept-for-avs/\">Athos Spins Out Of Mercedes With Chiplet Concept for AVs</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>",
+        "id": 3840651,
+        "language": "en-US",
+        "link": "https://www.eetimes.com/athos-spins-out-of-mercedes-with-chiplet-concept-for-avs",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 483,
+        "source_url": "https://eetimes.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eetimes.com/wp-content/uploads/Mercedes-sq.jpg",
+        "title": "Athos Spins Out Of Mercedes With Chiplet Concept for AVs",
+        "vote": 0
+    }
+]

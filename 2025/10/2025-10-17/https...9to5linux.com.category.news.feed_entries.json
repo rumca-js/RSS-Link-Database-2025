@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T22:43:49.601865+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T22:22:30+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/10/cal813.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Calibre 8.13\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/cal813.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/cal813.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/cal813.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>Calibre 8.13 open-source e-book manager is now available for download with improved library export on Linux distros that mount /tmp in RAM and other changes. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/calibre-8-13-open-source-e-book-manager-improves-library-export-on-linux\">Calibre 8.13 Open-Source E-Book Manager Improves Library Export on Linux</a> appeared first on <a href=\"https://9to5linu",
+        "id": 3840605,
+        "language": "en-US",
+        "link": "https://9to5linux.com/calibre-8-13-open-source-e-book-manager-improves-library-export-on-linux",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/10/cal813.webp",
+        "title": "Calibre 8.13 Open-Source E-Book Manager Improves Library Export on Linux",
+        "vote": 0
+    }
+]

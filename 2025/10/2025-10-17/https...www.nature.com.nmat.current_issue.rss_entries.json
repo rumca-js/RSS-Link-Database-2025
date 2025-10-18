@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rui Xia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T13:53:03.883780+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T00:00:00+00:00",
+        "description": null,
+        "id": 3836252,
+        "language": "en",
+        "link": "https://www.nature.com/articles/s41563-025-02386-5",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 231,
+        "source_url": "https://www.nature.com/nmat/current_issue/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hermetic stretchable seals enabled by a viscoplastic surface effect",
+        "vote": 0
+    }
+]

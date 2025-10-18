@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AsapSCIENCE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T01:58:48.491284+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T01:00:38+00:00",
+        "description": "Struggling with sleep or insomnia? Wish you could fall asleep in minutes?T his science-backed guide reveals exactly what to do minute-by-minute when you can't fall asleep, and uncovers the top three most impactful habits for improving your long-term sleep quality.\n\nCreated by: Mitchell Moffit and Gregory Brown\nWritten by: Mitchell Moffit and Gregory Brown\nEdited by: Luka Sarlija\nDrawn by: Mitchell Moffit and Gregory Brown\n\nSources and Further Reading:\n\nhttps://pubmed.ncbi.nlm.nih.gov/40506285/\nhttps://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1618784/full\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC12352136/\nhttps://pubmed.ncbi.nlm.nih.gov/37738616/\nhttps://pubmed.ncbi.nlm.nih.gov/40845747/\nhttps://pubmed.ncbi.nlm.nih.gov/34860550/\nhttps://pubmed.ncbi.nlm.nih.gov/37684151/\nhttps://pubmed.ncbi.nlm.nih.gov/40813712/\nhttps://www.jacc.org/doi/full/10.1016/j.jacadv.2025.102109",
+        "id": 3834070,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UQyei4cdGFY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 22,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UQyei4cdGFY/hqdefault.jpg",
+        "title": "How to fall asleep INSTANTLY",
+        "vote": 0
+    }
+]

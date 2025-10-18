@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuokka77",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T20:42:38.646746+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T19:57:04+00:00",
+        "description": "\"Love Like This\" by Hoffman/Logicoma^Pattern Syndicate^TBL^The Twitch Elite, 1st at Deadline 2025 tracked music compo.\nArt \"The Lonely Remoter Watches the Stream\" by Steffest/Desire, also 1st at Deadline 2025 (oldschool gfx compo).\n\nA1200 r1D.4 audio. ProTracker 2.3F (8bitbubsy). Custom panning and Brainworx VST effects applied.",
+        "id": 3839981,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=27hdw8VPDe8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 180,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/27hdw8VPDe8/hqdefault.jpg",
+        "title": "Amiga music: Hoffman - Love Like This (A1200\ud83c\udfa7bx_)",
+        "vote": 0
+    }
+]

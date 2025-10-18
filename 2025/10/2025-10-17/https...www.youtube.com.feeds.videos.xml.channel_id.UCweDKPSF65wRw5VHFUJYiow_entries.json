@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Curious Archive",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T18:35:52.790246+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T17:01:15+00:00",
+        "description": "You know how ecosystems have predators and prey? I made an ecosystem that's... a little different. | Watch my exclusive video 'What Animals Could Humans Beat in a Fight?' by joining Nebula at https://go.nebula.tv/curiousarchive\n---\n\nCheck out MinuteLabs.io's amazing program for simulating natural selection: https://www.youtube.com/watch?v=6nMo8T3T0L4 \nOr the Primer videos on natural selection simulation that inspired it: https://www.youtube.com/watch?v=YNMkADpvO4w \n\n0:00 An Ecosystem of Predators \n0:24 The Trouble with Energy\n1:49 Good Herbivores, Bad Carnivores\n3:40 Simulating Natural Selection\n6:08 Predators of Predators (of Predators)\n8:19 What about Humans?\n10:01 Animal Domestication Problems\n12:33 The Truth about Carnivores\n14:31 A Predator that Hunts Humans\n16:26 (BRIEF RANT)\n17:58 Teamwork Makes the Dream(work)\n20:40 The Completed Ecosystem\n22:44 So What Animals Could Humans Beat in a Fight?\n\nMedia Shown: Minecraft, Jaws, Jurassic Park, Dracula\n\n\u266b Music licensed from Epidemic S",
+        "id": 3839232,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nTHhDsFbRYo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 842,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCweDKPSF65wRw5VHFUJYiow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nTHhDsFbRYo/hqdefault.jpg",
+        "title": "I Made an Ecosystem That's Only Predators",
+        "vote": 0
+    }
+]

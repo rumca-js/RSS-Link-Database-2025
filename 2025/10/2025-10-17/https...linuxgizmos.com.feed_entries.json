@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T05:24:07.607827+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T04:54:19+00:00",
+        "description": "Radxa has introduced the Orion O6N, a Nano ITX single board computer designed as a smaller and more power-efficient alternative to the earlier Orion O6. Both models share the same Cix P1 SoC and overall platform architecture, but the O6N adopts a more compact 120 x 120 mm form factor compared to the 170 x [&#8230;]",
+        "id": 3834815,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/radxa-orion-o6n-brings-cix-p1-performance-to-a-smaller-nano-itx-form-factor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radxa Orion O6N Brings Cix P1 Performance to a Smaller Nano ITX Form Factor",
+        "vote": 0
+    }
+]

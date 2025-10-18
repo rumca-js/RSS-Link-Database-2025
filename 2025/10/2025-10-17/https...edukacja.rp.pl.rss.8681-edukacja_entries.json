@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T13:56:59.517139+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T11:14:53+00:00",
+        "description": "Na stronach Ministerstwa Edukacji Narodowej opublikowano d\u0142ugo oczekiwany przez nauczycieli komunikat dotycz\u0105cy rozliczenia godzin ponadwymiarowych. Chodzi przede wszystkim o wycieczki szkolne.",
+        "id": 3836385,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/oswiata-i-nauczyciele/art43193861-men-wyjasnil-kwestie-rozliczania-nadgodzin-w-szkolach-nauczyciele-niezadowoleni",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MEN wyja\u015bni\u0142 kwesti\u0119 rozliczania nadgodzin w szko\u0142ach. Nauczyciele niezadowoleni",
+        "vote": 0
+    }
+]

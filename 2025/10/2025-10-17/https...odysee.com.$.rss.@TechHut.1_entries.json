@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-17T14:35:43.700808+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T11:01:49+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/wv9VgGuo_6o\" width=\"480\" alt=\"thumbnail\" title=\"COSMIC Desktop BETA - Can it replace GNOME and Plasma?\" /></p>Big thanks to ONLYOFFICE DocSpace for making this video possible. Check it out here: https://onlyo.co/techhut or install the desktop version from Flatpak!<br /><br />COSMIC offers better performance, efficiency, and in-depth personalization to empower a wide variety of use cases.<br /><br />Checkout COSMIC: https://system76.com/cosmic<br /><br />\ud83c\udfc6 FOLOW TECHHUT<br />X (Twitter): https://bit.ly/twitter-techhut<br />MASTODON: https://bit.ly/mastodon-techhut<br />BlueSky: https://bsky.app/profile/techhut.bsky.social<br />INSTAGRAM: https://bit.ly/personal-insta<br /><br />\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)<br />BUY A COFFEE: https://buymeacoffee.com/techhut<br />YOUTUBE MEMBER: https://bit.ly/members-techhut<br /><br />\u2014PAID/AFFILIATE LINKS BELOW\u2014<br />\ud83d\udece RECOMMENDED SERVICES<br />VPN I USE: https://airvpn",
+        "id": 3836925,
+        "language": "en",
+        "link": "https://odysee.com/cosmic-desktop-beta-can-it-replace-gnome:8625a15105470c17f242870c1d3f264880185006",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/wv9VgGuo_6o",
+        "title": "COSMIC Desktop BETA - Can it replace GNOME and Plasma?",
+        "vote": 0
+    }
+]
