@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T15:37:34.889152+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T13:02:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/zKhL3FRMW0c\" width=\"480\" alt=\"thumbnail\" title=\"Do I Do Any \"Real Work\" On My Linux PC?\" /></p>SPOILER ALERT: The answer is \"yes.\"<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube<br />\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/<br />\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2<br /><br />FREE AND OPEN SOURCE SOFTWARE THAT I LIKE:<br />\ud83c\udf10 Brave Browser - https://brave.com/<br />\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/<br />\ud83c\udfac Kdenlive: https://kdenlive.org<br />\ud83c\udfa8 GIMP: https://www.gimp.org/<br />\ud83d\udcbb VirtualBox: https://www.virtualbox.org/<br />\ud83d\uddd2\ufe0f Doom Emacs: https://",
+        "id": 3845279,
+        "language": "en",
+        "link": "https://odysee.com/do-i-do-any-real-work-on-my-linux-pc:3ca2add983d2dac72271db69d7844140cb4df7ce",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/zKhL3FRMW0c",
+        "title": "Do I Do Any \"Real Work\" On My Linux PC?",
+        "vote": 0
+    }
+]

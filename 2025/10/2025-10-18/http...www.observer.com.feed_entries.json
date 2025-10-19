@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nick Hilden",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T13:28:16.765296+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T13:00:00+00:00",
+        "description": "These powerful political novels from the past century\u2014spanning countries and contexts\u2014offer fresh insights into the urgent issues shaping our world today.",
+        "id": 3844484,
+        "language": "en",
+        "link": "https://observer.com/list/best-political-novels-from-the-past-100-years",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://observer.com/wp-content/uploads/sites/2/2025/10/best-political-booksIt-Cant-Happen-Here-by-Sinclair-Lewis-.jpg?quality=80&w=970",
+        "title": "To Understand the Present, Read These 10 Political Novels from the Past",
+        "vote": 0
+    }
+]

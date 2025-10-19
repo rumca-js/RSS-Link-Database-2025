@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T21:16:05.680218+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T17:54:09+00:00",
+        "description": "Sponsor: Hyte Y70 and Touch Infinite on their site https://geni.us/Ir9vKEK\nWe've done a lot of testing on DLSS4 and FSR 4 (and 3.1) to inspect image quality frame-by-fake-frame in addition to upscaling image quality. At times, these technologies serve their purposes well; DLSS in particular has gotten a lot better with its transformer model and FSR has substantially improved with version 4. We have a lot of criticisms of the fake frame technologies -- especially benchmarking them on normal charts -- but they do have a place in some situations. Now, we're looking at Lossless Scaling and Lossless Frame Generation (sometimes called Lossless Scaling Frame Generation, or LSFG). This tool is highly versatile and does more than just upscaling for select games (and frame generation), but we're really only focusing on those two core use cases today. It's not as good as the tools built by multi-trillion dollar companies, but for something basically independently built and sold on Steam (and for",
+        "id": 3846844,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8w_Hqngky0s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8w_Hqngky0s/hqdefault.jpg",
+        "title": "The $7 Performance Boost: Lossless Scaling & Lossless Frame Generation Image Quality",
+        "vote": 0
+    }
+]

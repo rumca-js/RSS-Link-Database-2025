@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T16:31:42.523857+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T15:00:48+00:00",
+        "description": "Check out courses in science, computer science, and mathematics on Brilliant! Start learning for free at https://brilliant.org/sabine/ and get 20% off a premium subscription, which includes daily unlimited access!\n\nRoger Penrose is a very well-known mathematician, physicist, and author who won the Nobel Prize a few years back. He\u2019s repeatedly questioned string theory\u2019s prominent role in physics today, most notable in his 2016 book \u201cFashion, Faith and Fantasy\u201d (the \u201cfashion\u201d part refers to string theory). We finally have a response. \n\nPaper: https://arxiv.org/abs/2509.21515\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https:/",
+        "id": 3845578,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UOiBMWMzosY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UOiBMWMzosY/hqdefault.jpg",
+        "title": "String Theory is \u201cFashion,\u201d Penrose Said. We Finally Have a Response",
+        "vote": 0
+    }
+]

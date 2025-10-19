@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MinuteEarth",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T07:23:08.566181+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T05:30:13+00:00",
+        "description": "Rip currents are some of the most dangerous things you can find on the beach - but why are they so deadly?",
+        "id": 3843001,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/IdCjhuMV3e8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 838,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IdCjhuMV3e8/hqdefault.jpg",
+        "title": "The most dangerous thing at the beach!",
+        "vote": 0
+    }
+]

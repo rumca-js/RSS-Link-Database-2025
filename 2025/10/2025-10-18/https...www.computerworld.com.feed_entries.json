@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T02:35:06.179936+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T01:13:15+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Model builders are moving beyond simple AI chatbots to creating comprehensive assistants that, in the words of AI dignitary Ethan Mollick, \u201c<a href=\"https://www.oneusefulthing.org/p/real-ai-agents-and-real-work\" target=\"_blank\" rel=\"noreferrer noopener\">do real work</a>\u201d in enterprise workflows.</p>\n\n\n\n<p>Anthropic is continuing its push in this area with a new feature, <a href=\"https://www.anthropic.com/news/skills\" target=\"_blank\" rel=\"noreferrer noopener\">Agent Skills</a>, which allows Claude to improve its execution of specific tasks. When relevant, the model can automatically access folders containing specific instructions, scripts, and other resources, then act on them with human approval.",
+        "id": 3841853,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/4074959/claude-just-got-a-skill-upgrade-and-its-coming-for-your-workflows.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Claude just got a skill upgrade and it\u2019s coming for your workflows",
+        "vote": 0
+    }
+]

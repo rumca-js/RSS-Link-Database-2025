@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T19:46:01.174386+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T18:41:23+00:00",
+        "description": "The US National Transportation Safety Board issued their final report on the implosion of the Titan Submersible in 2023, it's available here with a lot of supporting documents, some more interesting that others.\nhttps://data.ntsb.gov/Docket/?NTSBNumber=DCA23FM036\n\nThis follows on from the Coast Guard report issued in August.\nhttps://www.news.uscg.mil/News-by-Region/Headquarters/Titan-Submersible/\n\nThe things I find most interesting are their discussion of data forensics, trying to recover data from cameras and computers that were found in the wreckage.\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley",
+        "id": 3846441,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qMUjCZ7MMWQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qMUjCZ7MMWQ/hqdefault.jpg",
+        "title": "NTSB's Report On OceanGate Titan Submersible - New Information, Old Conclusions.",
+        "vote": 0
+    }
+]

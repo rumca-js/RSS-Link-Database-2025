@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T22:14:56.862999+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T20:15:41+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />The goal of this mini-series is to explore the Observer Design Pattern in C++, walking through different implementations and weighing their pros and cons.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/09/03/observers-part1\">Discovering Observers - Part 1</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tFirst, let&rsquo;s briefly recap what the observer pattern is. It belongs to the family of&nbsp;behavioral design patterns.</p>\n\t<blockquote>\n\t\t<p>\n\t\t\tAs a reminder: design patterns are usually grouped into three categories:&nbsp;creational,&nbsp;structural, and&nbsp;behavioral.</p>\n\t</blockquote>\n\t<p>\n\t\tYou might also have encountered the observer under other names such as&nbsp;<em>listener</em>,&nbsp;<em>event subscriber</em>, or&nbsp;<em>publisher-su",
+        "id": 3847055,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/10/discovering-observers-part-1-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "Discovering Observers - Part 1 -- Sandor Dargo",
+        "vote": 0
+    }
+]

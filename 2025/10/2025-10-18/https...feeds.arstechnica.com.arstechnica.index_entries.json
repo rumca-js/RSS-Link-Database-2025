@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samuel Axon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T13:17:36.720576+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T12:15:59+00:00",
+        "description": "What if point-and-click games weren't about the puzzles?",
+        "id": 3844447,
+        "language": "en-US",
+        "link": "https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Colonels-Bequest-1-500x500-1760651718.jpg",
+        "title": "Roberta Williams\u2019 The Colonel\u2019s Bequest was a different type of adventure game",
+        "vote": 0
+    }
+]

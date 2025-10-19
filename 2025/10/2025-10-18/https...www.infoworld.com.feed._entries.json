@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T01:02:46.975894+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T00:18:48+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Careless developers publishing Visual Studio extensions to two open marketplaces have been including access tokens and other secrets that can be exploited by threat actors, a security vendor has found.</p>\n\n\n\n<p>The discovery was made earlier this year by researchers at Wiz, who quietly worked with Microsoft and its VSCode Marketplace as well as those behind the OpenVSX marketplace to improve guardrails in their platforms. It released <a href=\"https://www.wiz.io/blog/supply-chain-risk-in-vscode-extension-marketplaces\" target=\"_blank\" rel=\"noreferrer noopener\">a report on its investigation</a> this week.</p>\n\n\n\n<p>Wiz found over 550 validated secrets, distributed across more than 500 extensions f",
+        "id": 3841479,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4074939/threat-actors-are-spreading-malicious-extensions-via-vs-marketplaces.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Threat actors are spreading malicious extensions via VS marketplaces",
+        "vote": 0
+    }
+]

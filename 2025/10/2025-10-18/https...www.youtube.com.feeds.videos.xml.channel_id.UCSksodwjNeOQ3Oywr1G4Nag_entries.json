@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T01:41:23.610566+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T01:10:18+00:00",
+        "description": "Designing a Hopper for 10,000 Marbles using @solidworks \n\u2022\u2022\u2022\nOne thing I love about SOLIDWORKS is how quickly I can test different mechanisms using the mechanical mates feature.  Whether it\u2019s gears, rack and pinions, lever, linkages, or cams, being able to mock up a mechanical design before having to fully commit to it is essential for quick iterations.  \n\u2022\u2022\u2022\nIf you want to get started making your own design, check out SOLIDWORKS for Makers and use the code \u2018ENGINEEZY\u2019 at checkout for 20% off - link in bio!\n\u2022\u2022\u2022\n#engineering #mechanicaldesign #mechanicalengineering #engineeringstudent #mechanism #solidworks #ad",
+        "id": 3841709,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/1QrGHYC3JnE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1QrGHYC3JnE/hqdefault.jpg",
+        "title": "Designing a 10,000 marble hopper in SOLIDWORKS",
+        "vote": 0
+    }
+]

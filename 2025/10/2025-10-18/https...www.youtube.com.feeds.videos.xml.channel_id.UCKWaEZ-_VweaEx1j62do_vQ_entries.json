@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T12:07:24.833431+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T11:00:17+00:00",
+        "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbRPC\n\nLearn more about AI Agents here \u2192 https://ibm.biz/BdbRPQ\n\nCan AI agents explain their decisions? Amanda Winkles unpacks explainable AI, transparency, and accountability to demystify black boxes and build trust in modern AI systems. \ud83d\ude80 Discover how feature importance, data ethics, and transparency create smarter, more reliable AI agents.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbRP3\n\n#explainableai #aiagents #trustworthyai",
+        "id": 3844169,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4_LIxSjc3H0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4_LIxSjc3H0/hqdefault.jpg",
+        "title": "Decode Black Boxes with Explainable AI: Building Transparent AI Agents",
+        "vote": 0
+    }
+]

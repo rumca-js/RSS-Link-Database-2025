@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Solid jj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T20:02:01.847088+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T19:00:24+00:00",
+        "description": "Spider-Man stops by to meet a young super-fan. Sadly, this young fan has the unfortunate disease known as death. How will Spidey break the news, and how can he exploit this for his own self gain?\n\n10% Gamer Supps (Code: SOLID) \u25bc\nhttps://gamersupps.gg/SOLID\n\nTania/Mary Jane voiced by @valentinebabeVA \n\nTwitch: https://twitch.tv/solidjj\nPodcast: @JoeSchmoesPodcast \nSecond channel:\u200b\u2060 @Solidusjj \nPatreon: https://patreon.com/solidjj",
+        "id": 3846494,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pFpneXSpoDI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 308,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEq_Dr1GHvnNPQNfgOzhZ8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pFpneXSpoDI/hqdefault.jpg",
+        "title": "Spider Man Gives Everyone Cancer",
+        "vote": 0
+    }
+]

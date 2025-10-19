@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Flick Connection",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T22:20:14.257154+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T21:39:15+00:00",
+        "description": "Get 50% off your first order of Sundays: https://sundaysfordogs.com/FLICK or use code FLICK\nat checkout.\n\nD.V.D.'s T-shirt Designs\nhttps://www.darrenvandam.com/shop\n________________________________________\n\nI'm your host, Darren Van Dam!\n\nTired of looking for good movies to watch on Netflix, Amazon Prime or other streaming services? Every week I recommend a handful of the best movies on Netflix, Amazon, HBO etc. so my subscribers never run out of good movies to watch on streaming. Spending 10 minutes watching one of my videos could save you hours of searching, hours that you could otherwise spend watching good movies on streaming that you otherwise might not have ever watched or even known about.\n\nThanks for watching!\n\n0:00 Intro\n0:29  Christmas Bloody Christmas\n1:47 Luckiest Girl Alive\n3:36 Havoc\n5:17 Compliance\n6:23 Match Point\n7:10 Don\u2019t Say a Word\n8:17 Law Abiding Citizen\n11:04 Bram Stoker\u2019s Dracula\n12:23 Wind River\n13:46 The Texas Chainsaw Massacre\n15:12 List Recap",
+        "id": 3847113,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=k2GGBjtyH_M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 730,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT09qC2vwlbJvofZRIdLalg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k2GGBjtyH_M/hqdefault.jpg",
+        "title": "10 EXTREMELY Graphic Netflix Movies",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Dawe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T17:26:17.893636+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T16:30:58+00:00",
+        "description": "A fresh batch of fixes for Proton Experimental to run Windows games on Linux / SteamOS + Steam Deck arrived October 17th so here's all that's new.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/935305261id27825gol.jpg\" alt />.</p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2025/10/proton-experimental-for-oct-17-brings-fixes-for-assassins-creed-shadows-age-of-empires-definitive-edition/\">GamingOnLinux</a>.</p>",
+        "id": 3845839,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2025/10/proton-experimental-for-oct-17-brings-fixes-for-assassins-creed-shadows-age-of-empires-definitive-edition",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/articles/tagline_images/935305261id27825gol.jpg",
+        "title": "Proton Experimental brings fixes for Assassin's Creed Shadows, Age of Empires: Definitive Edition and more",
+        "vote": 0
+    }
+]

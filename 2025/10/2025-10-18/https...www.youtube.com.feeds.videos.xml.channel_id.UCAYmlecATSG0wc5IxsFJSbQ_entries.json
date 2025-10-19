@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T18:02:05.025831+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T16:01:34+00:00",
+        "description": "A woman in Michigan is facing 10 years in prison and a $250,000 fine for felony food stamp fraud after allegedly using her food stamps to buy ingredients and then selling the things she baked on Facebook",
+        "id": 3845960,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/v5ankQK4OhI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v5ankQK4OhI/hqdefault.jpg",
+        "title": "Does Selling Baked Goods With Food Stamp Ingredients Equal 10 Years in Jail? #funfact",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Atomic Shrimp",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T07:41:05.273135+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T07:00:10+00:00",
+        "description": "This was supposed to be a straightforward foraging video, but then there was cake, and then I had to run the dehydrator, then other things happened.  Scope Creep, they call it.  Nearly turned into Random Stuff all on its own.  There are chapters so you can skip anything you don't want, or find what you do want...\n\nJoin the Atomic Shrimp official Discord server for FREE early access to videos! - https://discord.gg/atomicshrimp  \nAtomic Shrimp subreddit: https://www.reddit.com/r/AtomicShrimp/\n\nLink to the study on the long-term effects of foraging: https://www.conservationevidence.com/individual-study/230\n\nLink to the page with the full recipe for the cake:\nhttps://atomicshrimp.com/post/2011/09/29/Boil-Bake-Fruit-Cake\n\n\nTimestamps:\n00:00 Foraging\n36:29 Baking a Cake\n50:10 Drying Mushrooms\n1:10:41 Mushroom Stew\n1:19:24 Steamed Buns\n1:23:13 Dorset Fungal Recce",
+        "id": 3843094,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BN3D0CIcSys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 704,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5Uxu2LyaoAoMMGp6oTJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BN3D0CIcSys/hqdefault.jpg",
+        "title": "Foraging, Cake, Drying Mushrooms, Making Stew, Steamed Buns and More Foraging (Surveying)",
+        "vote": 0
+    }
+]

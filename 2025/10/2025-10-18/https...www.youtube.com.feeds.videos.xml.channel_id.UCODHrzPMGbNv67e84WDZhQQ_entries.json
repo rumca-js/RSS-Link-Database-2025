@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fern",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-18T14:18:53.036498+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-18T14:11:11+00:00",
+        "description": "Get started with Odoo, try a free 15-day trial and level up your quality of work: https://www.odoo.com/r/WBv0 (ad)\n\nWho will win the battle for succession in the Murdoch family and take control of the world's most powerful media empire?\n\nOur research is based on the following sources, among others:\n\u201cYou\u2019ve Blown a Hole in the Family,\u201d by Jonathan Mahler and Jim Rutenberg for the New York Times: https://www.nytimes.com/2025/02/13/magazine/rupert-murdoch-succession-family-trust-fight.html\n\n\u201cGrowing Up Murdoch,\u201d by McKay Coppins for The Atlantic: https://www.theatlantic.com/magazine/archive/2025/04/rupert-murdoch-family-succession-james-murdoch/681675/\n\u201cAnna and Her Kingdom,\u201d by David Leser for Australian Women\u2019s Weekly: https://davidleser.com/wp-content/uploads/2016/03/Anna-Murdoch.pdf \n\n\u201cThe Boy Who Wouldn\u2019t Be King,\u201d by Steve Fishman for New York magazine: https://nymag.com/nymetro/news/media/features/14302/ \n\n\u201cHow Rupert Murdoch\u2019s Empire of Influence Remade the World,\u201d by Jonathan Ma",
+        "id": 3844790,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pt309onrQNE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 703,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pt309onrQNE/hqdefault.jpg",
+        "title": "The Battle for the Fox Media Empire",
+        "vote": 0
+    }
+]
