@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T21:59:34.774627+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T13:46:22+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/88e06eae-d4b4-44a8-8eaf-b5e7a7f7da9d,1760896226145/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29' alt='Ben Flanagan finishes as the fastest Canadian men\u2019s runner in the Toronto Waterfront Marathon on October 19, 2025.' width='620' height='349' title='Canadian men\u2019s champion Ben Flanagan of Kitchener, Ont., finished 10th overall in the Toronto Waterfront Marathon on Sunday, seven minutes behind winner Leonard Langat, who led a Kenya sweep of the top three positions. '/><p>Ben Flanagan of Kitchener, Ont., achieved his goal of winning a Canadian title in his marathon debut, reaching the finish in two hours 15 minutes 41 seconds on a warm and windy Sunday morning at the Toronto Waterfront event.</p>",
+        "id": 3852408,
+        "language": "en",
+        "link": "https://www.cbc.ca/sports/olympics/summer/athletics/flanagan-hannah-canadian-champions-toronto-waterfront-marathon-9.6944509?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/88e06eae-d4b4-44a8-8eaf-b5e7a7f7da9d,1760896226145/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29",
+        "title": "Ben Flanagan wins Canadian men's title in marathon debut, placing 10th in Toronto Waterfront race",
+        "vote": 0
+    }
+]

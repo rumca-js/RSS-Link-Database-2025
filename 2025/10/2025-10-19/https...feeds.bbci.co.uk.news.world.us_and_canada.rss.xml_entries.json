@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T06:10:05.142658+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T03:55:24+00:00",
+        "description": "\"His talent was effortless, his presence unforgettable, his heart enormous,\" the band wrote.",
+        "id": 3848372,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cj3z0pypnpro",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94c8/live/f5e1dbd0-aca0-11f0-9d95-e18bb9bb3e27.jpg",
+        "title": "Limp Bizkit bassist Sam Rivers dies aged 48",
+        "vote": 0
+    }
+]

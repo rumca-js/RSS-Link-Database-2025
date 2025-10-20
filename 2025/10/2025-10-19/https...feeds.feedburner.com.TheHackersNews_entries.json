@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T08:03:49.344855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T08:03:48+00:00",
+        "description": "Europol on Friday announced the disruption of a sophisticated cybercrime-as-a-service (CaaS) platform that operated a SIM farm and enabled its customers to carry out a broad spectrum of crimes ranging from phishing to investment fraud.\nThe coordinated law enforcement effort, dubbed Operation SIMCARTEL, saw 26 searches carried out, resulting in the arrest of seven suspects and the seizure of",
+        "id": 3848759,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
+        "vote": 0
+    }
+]

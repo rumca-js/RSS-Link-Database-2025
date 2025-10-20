@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T18:31:19.810086+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T16:30:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/DiMRzh8b4kM\" width=\"480\" alt=\"thumbnail\" title=\"Everyday New Rust Drivers Enter The Linux Kernel\" /></p>We've kind of moved past the discussion of whether or not Rust is going to be added into the Linux kernel, now it's a question of what work is going to be done.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />oogle Rust Kernel: https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html<br />The Register Article: https://www.theregister.com/2024/03/31/rust_google_c/<br />Rust Binder: https://www.phoronix.com/news/Google-Linux-Binder-In-Rust<br />LKML Announcement: https://lore.kernel.org/lkml/20231101-rust-binder-v1-0-08ba9197f637@goo",
+        "id": 3851576,
+        "language": "en",
+        "link": "https://odysee.com/everyday-new-rust-drivers-enter-the:3d4d17459b8f76269896423af51f488df0afd3a1",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/DiMRzh8b4kM",
+        "title": "Everyday New Rust Drivers Enter The Linux Kernel",
+        "vote": 0
+    }
+]

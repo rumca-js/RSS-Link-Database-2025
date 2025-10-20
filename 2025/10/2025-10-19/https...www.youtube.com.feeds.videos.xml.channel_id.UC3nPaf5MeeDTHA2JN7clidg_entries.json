@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T18:10:21.407964+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T17:15:13+00:00",
+        "description": "Use code BELLULARNEWS at the link below to get an exclusive 60% off an annual Incogni plan: https://incogni.com/bellularnews Sponsored by Incogni.\n\nOops. IDs leaked out of Discord. People are worried. Misinfo is everywhere. In this video, we'll get you up to speed on everything.\n\n00:00 - Oopsie\n01:48 - The Privacy Fear\n02:42 - The Hack\n04:44 - More Than Just Verification\n07:19 - What's Really Going On\n11:39 - Discord's Nightmare Scenario\n\nSources:\nhttps://www.eff.org/deeplinks/2025/08/no-uks-online-safety-act-doesnt-make-children-safer-online\n\nhttps://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service\n\nhttps://x.com/vxunderground/status/1975834621503062495\n\nhttps://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach\n\nhttps://veratad.com/methods/identity-documents\n\nhttps://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/\n\nhttps://x.com/vxunderground/status/1976053735697838",
+        "id": 3851520,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sWQU9IMlC80",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sWQU9IMlC80/hqdefault.jpg",
+        "title": "Discord Just Proved What EVERYONE Feared",
+        "vote": 0
+    }
+]

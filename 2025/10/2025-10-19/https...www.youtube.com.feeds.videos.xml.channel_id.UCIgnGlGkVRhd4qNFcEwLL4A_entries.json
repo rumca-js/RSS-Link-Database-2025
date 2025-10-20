@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T04:36:49.931342+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T02:24:33+00:00",
+        "description": "INSANE AI NEWS: DreamOmni2, Ring 1T, DGX Spark, RTFM, Veo 3.1, RTFM, & more AI news. #ai #ainews #aitools #aivideo #singularity \n\nThanks to our sponsor Readdy. Try it for free: https://bit.ly/Readdy1011_AISearch\n\nSources in order of mention:\nhttps://fenghora.github.io/DiT360-Page/\nhttps://kangliao929.github.io/projects/puffin/\nhttps://github.com/mit-han-lab/streaming-vlm\nhttps://pbihao.github.io/projects/DreamOmni2/index.html\nhttps://research.google/blog/using-ai-to-identify-genetic-variants-in-tumors-with-deepsomatic/\nhttps://zcai0612.github.io/UP2You/\nhttps://huggingface.co/inclusionAI/Ring-1T\nhttps://why618188.github.io/physhsi/\nhttps://hyeon-cho.github.io/TAG/\nhttps://nvidianews.nvidia.com/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers\nVeo 3.1 review https://youtu.be/rbosmBwrxts\nhttps://www.worldlabs.ai/blog/rtfm\nhttps://worv-ai.github.io/d2e/\nhttps://felixtaubner.github.io/mvp4d/\n\n\n0:00 AI news intro\n1:06 DiT360\n3:33 Puffin\n5:51 StreamingVLM\n8:26 DreamOmni2\n11:59 DeepSoma",
+        "id": 3848122,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MgwIhTumInQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MgwIhTumInQ/hqdefault.jpg",
+        "title": "3D waifus, AI for cancer, new AI image editors, new open-source king, Veo 3.1 updates - AI NEWS",
+        "vote": 0
+    }
+]

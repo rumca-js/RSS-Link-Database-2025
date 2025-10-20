@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T23:40:37.251303+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T23:17:28+00:00",
+        "description": "Have you ever wondered how prolific developers and creators like Ania Kub\u00f3w get stuff done? She shares her strategies (think time blocking and making the most out of the parts of the day when her brain's most active) on the freeCodeCamp podcast.",
+        "id": 3853105,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BRksIg2jkbo/hqdefault.jpg",
+        "title": "How Ania Kub\u00f3w uses time blocking to make the most of her day",
+        "vote": 0
+    }
+]

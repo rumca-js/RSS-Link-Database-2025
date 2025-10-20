@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jessica Washington",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T10:47:15.792952+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T10:00:00+00:00",
+        "description": "<p>Chicago teachers said they\u2019re dealing with traumatized students in underfunded schools \u2014 while the Trump administration spends millions to militarize American cities.</p>\n<p>The post <a href=\"https://theintercept.com/2025/10/19/chicago-schools-ice-national-guard-trump/\">Teachers Scrambled After ICE Released Tear Gas Outside a Chicago Elementary School</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3849190,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/10/19/chicago-schools-ice-national-guard-trump",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/10/Screenshot-2025-10-16-at-11.14.43-AM-e1760648260776.png?w=440&h=440&crop=1",
+        "title": "Teachers Scrambled After ICE Released Tear Gas Outside a Chicago Elementary School",
+        "vote": 0
+    }
+]

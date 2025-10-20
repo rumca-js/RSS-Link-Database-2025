@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eric Berger",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T21:44:57.516422+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T18:50:10+00:00",
+        "description": "\"NTSB gathering radar, weather, flight recorder data.\"",
+        "id": 3852332,
+        "language": "en-US",
+        "link": "https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/Boeing_737_MAX_7-1-1-500x500.jpg",
+        "title": "Something from \u201cspace\u201d may have just struck a United Airlines flight over Utah",
+        "vote": 0
+    }
+]

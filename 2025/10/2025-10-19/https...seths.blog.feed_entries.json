@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T10:57:47.055092+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T09:03:00+00:00",
+        "description": "So many options, so little time. A friend asked if he should put his podcast on YouTube. After all, that&#8217;s how many people are consuming this sort of content, it&#8217;s low cost. The comments and subscriptions offer interesting tools for engagement, and it could grow their base. But just because something might be worth doing, [&#8230;]",
+        "id": 3849206,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/its-not-a-silly-thing-to-do",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "It\u2019s not a silly thing to do",
+        "vote": 0
+    }
+]

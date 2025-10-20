@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Evans",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T15:36:18.135322+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T15:01:16+00:00",
+        "description": "Subscribe for more! https://www.youtube.com/austinevans\nCheck out our @thisis channel! https://www.youtube.com/thisis\nAs well as the @Denki channel! https://www.youtube.com/@Denki\nInstagram: https://instagram.com/austinnotduncan\nThreads: https://www.threads.net/@austinnotduncan\n\nI spent a bunch of money buying used tech from Swappa to see if it's actually legit. Some of these deals seemed too good to be true...and honestly, the results were pretty wild. MacBooks, iPhones, even a sealed iPod from 2008?\n\nChapter Titles:\n0:00 Ordering\n2:05 Steam Deck\n4:57 iPhone 11\n7:02 iPod Nano 4th Gen\n10:36 iPad 10th Gen\n12:53 Pixel 7 and Pixel Buds\n17:01 MacBook Pro M1",
+        "id": 3850789,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9jTtKoL7OVo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 24,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9jTtKoL7OVo/hqdefault.jpg",
+        "title": "I Bought CHEAP Tech on Swappa...",
+        "vote": 0
+    }
+]

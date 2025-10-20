@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T18:29:36.215918+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T17:59:24+00:00",
+        "description": "W odcinku:\n00:00 Wst\u0119p\n00:08 Dobry wiecz\u00f3r!\n00:12 Kolejny Tech Week z green screenem ju\u017c na 2 miliony\n00:28 Jak zrobi\u0107 r\u00f3\u017cowego iPhone\u2019a 17 Pro?\n02:05 Nowo\u015bci Apple\u2019a - MacBook Pro M5, iPad Pro, Apple Vision Pro\n06:48 Sora i kontrowersyjny Sam Altman\n08:55 Sennheiser HDB 630 \u2013 audiofilskie s\u0142uchawki\n10:54 Honor Robot Phone z gimbalem\n12:38 Ile do wiosny?\n13:15 Zno\u015bnego tygodnia!",
+        "id": 3851575,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=5wYBsHV0sM0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5wYBsHV0sM0/hqdefault.jpg",
+        "title": "Tech Week z GREEN SCREENem -  \u015bwi\u0119tujemy milion!",
+        "vote": 0
+    }
+]

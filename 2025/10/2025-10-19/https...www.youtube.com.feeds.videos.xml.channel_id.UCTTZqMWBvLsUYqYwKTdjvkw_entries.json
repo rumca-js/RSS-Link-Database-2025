@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-19T17:46:00.960108+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-19T16:00:31+00:00",
+        "description": "\ud83e\ude99\u00a0Nie ma nic za darmo. Szczeg\u00f3lnie w internecie, bo nawet je\u015bli nie p\u0142acimy za co\u015b\u00a0swoimi ci\u0119\u017cko zarobionymi pieni\u0119dzmi, to ogl\u0105damy przecie\u017c\u00a0reklamy albo oddajemy w zamian swoj\u0105 prywatno\u015b\u0107, w postaci r\u00f3\u017cnych informacji o sobie. G\u0142\u00f3wnie po to, aby jeszcze lepiej profilowa\u0107\u00a0nas reklamowo. Niekt\u00f3re us\u0142ugi nie maj\u0105\u00a0\u017cadnych skrupu\u0142\u00f3w i nawet jak im p\u0142acimy, to jeszcze dorabiaj\u0105 na boku robi\u0105c z nas sw\u00f3j produkt. Ale dzi\u015b nie o tym.\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udcb5\u00a0x402: An open standard for internet-native payments\nhttps://www.x402.org/x402-whitepaper.pdf\n\n\ud83d\udcdf\u00a0RFC Hypertext Transfer Protocol -- HTTP/1.1\nhttps://datatracker.ietf.org/doc/html/rfc2616\n\n\ud83e\udd16\u00a0Trapping misbehaving bots in an AI Labyrinth\nhttps://blog.cloudflare.com/ai-labyrinth/\n \nRelevant xkcd: https://xkcd.com/2267/\n \n\u00a9 Wszystkie znaki handlowe nale\u017c\u0105 do ich prawowitych w\u0142a\u015bcicieli.\n\u2764\ufe0f Dzi\u0119kuj\u0119 za Wasz\u0105 uwag\u0119.\n \nZnajdziecie mnie r\u00f3wnie\u017c na:\nInstagramie @mateuszemsi https://www.instagram.com/mateuszemsi/ \nTwixxerze @MateuszChrobok https://twitter.com/M",
+        "id": 3851341,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=AQ4CeUjr40Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AQ4CeUjr40Y/hqdefault.jpg",
+        "title": "Nowa forma p\u0142atno\u015bci. Czy AI b\u0119dzie za nas p\u0142aci\u0107?",
+        "vote": 0
+    }
+]
