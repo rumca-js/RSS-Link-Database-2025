@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T17:23:23.017258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T16:14:31+00:00",
+        "description": "Sponsor: Montech HS01 Pro on Amazon https://geni.us/UYLeZn and HS02 Pro https://geni.us/ABM9fEB\nEverything is a paid subscription service now, all the way down to data storage. We talk with Wendell of Level1 Techs about taking control of your services, media, internet privacy, and more in this video. Wendell helps to detail some beginner basics on making your own storage server, router, gaming server, your own VPN, family media servers, and more. This is a continuation on the concept that, apparently, you'll own nothing and be happy.\n\nWatch our \"Is Intel Actually Screwed?\" fun discussion with Wendell here: https://www.youtube.com/watch?v=C3rUP3ULlUQ\nCheck out our talk about benchmarking Linux with Wendell here: https://www.youtube.com/watch?v=5O6tQYJSEMw\nAnd see his overhaul of our server! https://www.youtube.com/watch?v=tqndR8435cc\n\nCheck out Level1 Techs here! https://www.youtube.com/c/Level1Techs\n\nGrab the Blind Eye T-Shirt on our store! https://store.gamersnexus.net/products/blind",
+        "id": 3858451,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WhhlZoZm6XE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WhhlZoZm6XE/hqdefault.jpg",
+        "title": "You'll Own Nothing and It's Awful | Taking Control of Your Media, ft. Wendell",
+        "vote": 0
+    }
+]

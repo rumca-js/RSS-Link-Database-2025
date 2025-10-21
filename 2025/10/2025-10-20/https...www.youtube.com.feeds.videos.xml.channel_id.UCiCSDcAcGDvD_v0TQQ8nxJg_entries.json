@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T18:33:13.281577+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T18:26:17+00:00",
+        "description": "00:00 NEW MOVIE NEWS 2025\n00:39 Mortal Kombat 3 \n01:42 Jim Carrey Live Action The Jetsons Movie  \n02:47 House Of The Dragon Season 3  \n03:57 Cliffhanger \n05:05 Zendaya and Robert Pattinson are set to star in The Drama \u2014 a romantic comedy from A24\n06:16 The Black Phone 3  \n07:18 Tangled Live Action",
+        "id": 3858994,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=a02UKKAMAHg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a02UKKAMAHg/hqdefault.jpg",
+        "title": "NEW MOVIE NEWS 2025 & 2026 : Mortal Kombat 3, The Black Phone 3, House Of The Dragon Season 3",
+        "vote": 0
+    }
+]

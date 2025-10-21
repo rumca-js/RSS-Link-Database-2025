@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T09:47:14.494741+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T09:00:46+00:00",
+        "description": "Bobby Carter | October 20, 2025\nOnome Edgeworth, Kokoroko\u2019s band leader and percussionist, told us: \u201cUp until today, I thought, \u2018No chance. This is going to go horribly wrong.\u2019 \u201d It\u2019s not uncommon for bands to come into our space with doubts. Still, in Edgeworth\u2019s case, the insecurities were quickly shed: the NPR crowd gave \u201cgood vibes\u201d and, more importantly, this young group of British musicians is just so naturally talented. \n\nThe timing couldn\u2019t be better for this Tiny Desk. The themes and motivation behind Kokoroko\u2019s latest album, Tuff Times Never Last, speak directly to what many people are going through right now, but also convey a radical mission to choose joy. Musically, Kokoroko takes a massive leap and shows more confidence in the members\u2019 individual and harmonic vocal ranges. On songs like \u201cTogether We Are\u201d and \u201cIdea 5 (Call My Name),\u201d they\u2019re simply going for it and nailing it. At the Desk, their fusion of funk, jazz, afrobeats and R&B offer a magically singular experience",
+        "id": 3855301,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Xcv0O44zfeU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Xcv0O44zfeU/hqdefault.jpg",
+        "title": "Kokoroko: Tiny Desk Concert",
+        "vote": 0
+    }
+]

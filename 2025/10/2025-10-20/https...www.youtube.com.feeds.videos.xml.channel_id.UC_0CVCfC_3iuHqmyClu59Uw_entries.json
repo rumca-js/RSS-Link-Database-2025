@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T15:46:30.617255+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T14:17:11+00:00",
+        "description": "n this video, we\u2019re pushing the limits of handheld gaming with something wild \u2014 battery-powered dual GPU gameplay!\nWe\u2019re using the Lenovo Legion Go 2 powered by the Ryzen Z2 Extreme APU and pairing it with an external RTX A400/A500 Pocket AI GPU over Thunderbolt 4 to create a completely portable dual-GPU setup. Using Lossless Scaling for frame generation, we\u2019re able to double \u2014 and sometimes triple \u2014 the frame rate in demanding games like God of War Ragnarok, The Witcher 3, Cyberpunk 2077, and Spider-Man 2.\nThe crazy part? Everything\u2019s running on battery power \u2014 no wall power, no docked display \u2014 just pure portable performance.\nWe\u2019ll go over setup, GPU allocation, frame generation tuning, and performance results across multiple titles.\nIf you\u2019ve ever wondered what happens when you combine AI accelerators, handheld gaming PCs, and frame generation, this is the video to watch!\n\nBuy The Legion Go 2 from Lenovo: https://howl.link/sqbolwnvo7pw9\nBuy The Legion Go 2 from Best Buy: https://be",
+        "id": 3857746,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=a7vhBdpqEl4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a7vhBdpqEl4/hqdefault.jpg",
+        "title": "Battery Powered Dual GPU Gaming on a Handheld!? It Actually Works!",
+        "vote": 0
+    }
+]

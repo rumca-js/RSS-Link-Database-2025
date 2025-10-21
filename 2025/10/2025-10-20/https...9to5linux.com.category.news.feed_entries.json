@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T17:17:14.750380+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T17:05:20+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/10/stk15.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"SuperTuxKart 1.5\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/stk15.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/stk15.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/stk15.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>SuperTuxKart 1.5 free and open-source kart racing game is now available for download as a major update that brings awesome new features and many improvements. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/supertuxkart-1-5-open-source-kart-racing-game-released-with-major-changes\">SuperTuxKart 1.5 Open-Source Kart Racing Game Released with Major Changes</a> appeared first on <a href=\"https://9to5l",
+        "id": 3858389,
+        "language": "en-US",
+        "link": "https://9to5linux.com/supertuxkart-1-5-open-source-kart-racing-game-released-with-major-changes",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/10/stk15.webp",
+        "title": "SuperTuxKart 1.5 Open-Source Kart Racing Game Released with Major Changes",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T16:22:20.003473+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T15:20:01+00:00",
+        "description": "Thieves broke into France\u2019s Louvre Museum in Paris, stealing crown jewels and prompting the world\u2019s most visited museum to be evacuated. WSJ explains how the Louvre Museum robbery unfolded and why French authorities are in a race against time to recover the jewels. \n\nChapters:\n0:00 Louvre Museum robbery\n0:14 How the heist unfolded\n0:51 What was stolen\n1:12 Historical heists\n\n#Louvre #Heist #WSJ",
+        "id": 3857867,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SASDkIQjouI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SASDkIQjouI/hqdefault.jpg",
+        "title": "Louvre Heist: How Thieves Stole \u2018Priceless\u2019 Jewels in Broad Daylight | WSJ",
+        "vote": 0
+    }
+]

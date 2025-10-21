@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Connor Makar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T16:07:12.507723+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T16:00:02+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders-man-in-orange-suit.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>I'm sitting inside a small storage room, neighbouring an elevator that'll whisk me to safety and a massive payday. I'm cranking open one last storage locker before I head home, then bam: disaster. Another player sprints towards my location with murder in their heart and a bullet in the chamber. I turn around just as the door opens and we trade fire, each heavily injured and ducking behind cover.</p> <p><a href=\"https://www.eurogamer.net/arc-raiders-is-a-loot-gremlins-dream-but-its-the-social-interaction-that-might-make-it-special\">Read more</a></p>",
+        "id": 3857806,
+        "language": "en",
+        "link": "https://www.eurogamer.net/arc-raiders-is-a-loot-gremlins-dream-but-its-the-social-interaction-that-might-make-it-special",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/arc-raiders-man-in-orange-suit.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Arc Raiders is a loot gremlin's dream, but it's the social interaction that might make it special",
+        "vote": 0
+    }
+]

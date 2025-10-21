@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rory Mir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T21:50:01.550333+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T20:37:09+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>EFF usually warns of new horrors threatening your rights online, but this Halloween we\u2019ve summoned a few of our own we\u2019d like to share.\u00a0 Our new Signal Sticker Pack highlights some creatures\u2014both mythical and terrifying\u2014conjured up by our designers for you to share this spooky season.</span></p>\n<p><span>If you\u2019re </span><a href=\"https://ssd.eff.org/module/how-to-use-signal\"><span>new to Signal</span></a><span>, it's a free and secure messaging app built by the nonprofit </span><a href=\"https://signal.org/donate/\"><span>Signal Foundation</span></a><span> at the forefront of defending user privacy. While chatting privately, you can add some seasonal flair with </span><a href=\"https://signal.org/blog/make-privacy-stick/\"><span>Signal Stickers</span></a><span>, and rest assured: friends receiving them get the full sticker pack fully encryp",
+        "id": 3860470,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/10/no-tricks-just-treats-effs-halloween-signal-stickers-are-here",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2025/10/20/encryptids-trio.png",
+        "title": "No Tricks, Just Treats \ud83c\udf83 EFF\u2019s Halloween Signal Stickers Are Here!",
+        "vote": 0
+    }
+]

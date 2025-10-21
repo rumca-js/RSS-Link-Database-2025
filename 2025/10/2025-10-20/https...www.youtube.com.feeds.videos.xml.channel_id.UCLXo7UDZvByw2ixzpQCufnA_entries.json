@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T12:56:25.352209+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T12:01:22+00:00",
+        "description": "Open a browser and you can feel it instantly: everything online just feels \u2026 worse. \n\nSubscribe to our channel! http://goo.gl/0bsAjO\n\nSearch results that look like ads. Social feeds that you don\u2019t control. Streaming platforms that are packed with ads. Services that used to be free, but are now behind paywalls. It\u2019s not your imagination \u2014 it\u2019s enshittification, the process by which good platforms turn bad \u2026 and it\u2019s starting to happen outside the internet as well.\n\nSean\u2019s guest today is Cory Doctorow, author of Enshittification: Why Everything Suddenly Got Worse and What to Do About It. They discuss how the web became enshittified, why monopolies are the true engine behind our digital decay, and what it would mean to build a freer, fairer, and more human internet.\n\nHost: Sean Illing (@seanilling)\n\nGuest: Cory Doctorow (https://x.com/doctorow), author of Enshittification: Why Everything Suddenly Got Worse and What to Do About It.\n\n00:00 Intro\n00:45 What is enshittification?\n11:48 Is thi",
+        "id": 3856160,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=guOdGIQC3hs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 779,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/guOdGIQC3hs/hqdefault.jpg",
+        "title": "Why everything on the internet is getting worse | The Gray Area",
+        "vote": 0
+    }
+]

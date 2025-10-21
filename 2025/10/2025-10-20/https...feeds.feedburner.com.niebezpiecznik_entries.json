@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T11:05:57.536700+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T08:21:26+00:00",
+        "description": "<p>Kr\u00f3tko i informacyjnie, bo wiele os\u00f3b zastanawia si\u0119, dlaczego przesta\u0142y im dzia\u0142a\u0107 r\u00f3\u017cne aplikacje, aplikacje mobilne, webaplikacje lub serwisy internetowe. Winna jest <a href=\"https://health.aws.amazon.com/health/status\" target=\"_blank\">awaria AWS</a>. I spokojnie, bo na razie nic nie wskazuje na to, \u017ce jej przyczyn\u0105 jest jaki\u015b atak.</p>\n<p><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/10/Downdetector_2025-10-20.jpg\"><img fetchpriority=\"high\" decoding=\"async\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2025/10/Downdetector_2025-10-20-513x600.jpg\" alt=\"\" width=\"513\" height=\"600\" class=\"aligncenter size-large wp-image-26656\" srcset=\"https://niebezpiecznik.pl/wp-content/uploads/2025/10/Downdetector_2025-10-20-513x600.jpg 513w, https://niebezpiecznik.pl/wp-content/uploads/2025/10/Downdetector_2025-10-20-214x250.jpg 214w, https://niebezpiecznik.pl/wp-content/uploads/2025/10/Downdetector_2025-10-20-768x898.jpg 768w, https://niebezpiecznik.pl/wp-content/uploads/2025/1",
+        "id": 3855550,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/potezna-awaria-aws-nie-dziala-signal-zoom-canva-perplexity-i-polowa-internetu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/10/Downdetector_2025-10-20-150x150.jpg",
+        "title": "Pot\u0119\u017cna awaria AWS. Nie dzia\u0142a Signal, Zoom, Canva, Perplexity i po\u0142owa internetu",
+        "vote": 0
+    }
+]

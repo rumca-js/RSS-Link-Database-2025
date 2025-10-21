@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T20:16:56.011083+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T19:08:23+00:00",
+        "description": "<p><em>The ATO 2025 conference may be in the books, but the organization has more events planned before year\u2019s end\u2014and new events are already on its 2026 dance card.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/10/all-things-open-has-more-in-store-for-2025-including-an-added-measure-of-ai/\">All Things Open Has More in Store for 2025, Including an Added Measure of AI</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 3859797,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/10/all-things-open-has-more-in-store-for-2025-including-an-added-measure-of-ai",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "All Things Open Has More in Store for 2025, Including an Added Measure of AI",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T18:08:47.943628+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T17:41:39+00:00",
+        "description": "Thanks to GL.iNet for sponsoring this video! Check out their Flint 3 and Comet Pro below!\n\nFlint 3 (with 19% discount): https://link.gl-inet.com/be9300-ltt-251017\nComet Pro (GL-RM10): https://link.gl-inet.com/rm10-ltt-251006\n\nLast time Linus was at Natalie's house for her AMD $5000 Upgrade, she forgot to upgrade her terrible WiFi. It took HOURS to download a Valorant update! This time GL.iNet stepped up to help her by giving her a free router to make sure she can be on WiFi 7 6Ghz!\n\nVideo about 50 Routers - https://www.youtube.com/watch?v=49JBYSv3Nig\nVideo about MoCA - https://youtu.be/b0vy1VzFbf8?si=kGd0F0tCfavXIzfZ\nVideo about Powerline Ethernet - https://www.youtube.com/watch?v=ywQeJCa3jl8\n\nDiscuss on the forum: https://linustechtips.com/topic/1625075-i-needed-to-fix-her-internet/\n\n\u25ba GET OUR MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba GET A VPN: http://www.piavpn.com/linus\n\u25ba SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/par",
+        "id": 3858841,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=nj8RO74JdSw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nj8RO74JdSw/hqdefault.jpg",
+        "title": "I NEEDED to Fix her Internet!",
+        "vote": 0
+    }
+]

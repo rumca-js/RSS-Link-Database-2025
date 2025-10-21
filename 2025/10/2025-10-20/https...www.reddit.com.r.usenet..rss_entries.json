@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/ffxfinds",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T14:01:59.551216+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T12:50:34+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>EDIT: 48 minutes later, all accounts are claimed. </p> <p>Occasionally XS News offers a free account to test their service, but it doesn&#39;t expire or have bandwidth limits. I&#39;ve had my free account for a few years now. There are some limits: the retention isn&#39;t great; I think I can grab things only if they&#39;re a few months old, if that. And I&#39;ve found that it doesn&#39;t download from more obscure groups, but free is free. Might be good for folks just getting into usenet or those who are in between providers or just grab current stuff.</p> <p>Accounts are here and go fast: <a href=\"https://test.xsnews.com\">https://test.xsnews.com</a></p> <p>Reader: <a href=\"http://test.xsnews.com\">test.xsnews.com</a><br/> Port: 119 (SSL: 563)<br/> Speed: 10 Mbit<br/> Connections: 10<br/> Restrictions: No posting, No account sharing</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ffxfinds\"> /u/ffxfinds </a> <br/>",
+        "id": 3856975,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1obi64f/free_testing_account_with_xs_news_available_only",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Free testing account with XS News available, only 95 left",
+        "vote": 0
+    }
+]

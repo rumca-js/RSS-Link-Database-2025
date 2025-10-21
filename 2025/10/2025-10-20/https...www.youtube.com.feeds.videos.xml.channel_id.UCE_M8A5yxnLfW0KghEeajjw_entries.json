@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Apple",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T13:51:23.034024+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-20T13:00:03+00:00",
+        "description": "Voiced by the late Dr. Jane Goodall, DBE. \n\nFrom groundbreaking discoveries to award-winning films \u2014 all of it starts from nothing. Endless possibility is waiting, what will you make with it? Great ideas start on Mac.\n\nStart here: https://apple.co/4oszOwN\n\nOriginal music by Emile Mosseri\n\n#Mac #MacBookPro #MacBookAir #iMac\n\nWelcome to the official Apple YouTube channel. Here you\u2019ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "id": 3856912,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XOBE3FCyaqU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 773,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XOBE3FCyaqU/hqdefault.jpg",
+        "title": "Great ideas start on Mac | Apple",
+        "vote": 0
+    }
+]
