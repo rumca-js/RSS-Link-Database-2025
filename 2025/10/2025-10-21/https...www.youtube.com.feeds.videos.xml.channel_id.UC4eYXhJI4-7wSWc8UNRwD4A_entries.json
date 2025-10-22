@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T10:30:58.277411+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T09:01:03+00:00",
+        "description": "Lara Downes | October 21, 2025\nIt was a busy week for Tyshawn Sorey this past spring at the Big Ears Festival in Knoxville, Tenn., packed with a mix of collaborative projects, public talks and performances. We had a hard time fitting this conversation into his schedule, but as soon as we sat down together in the vast open space of the abandoned railroad depot that had become NPR's makeshift recording studio, all the rush and noise seemed to disappear, and our conversation turned instead to the power of space and silence.\n\nOne of the pieces Tyshawn presented at Big Ears was Monochromatic Light (Afterlife), inspired by the Rothko Chapel in Houston and by Morton Feldman's 1971 score that commemorated the chapel's opening. That launch event was shrouded in darkness: one year earlier, Mark Rothko had killed himself after completing the suite of 14 large paintings that cover the chapel's walls. The darkness of this origin story is preserved in Rothko's color-field paintings, so dark they ap",
+        "id": 3864250,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dEESXOYhLWk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dEESXOYhLWk/hqdefault.jpg",
+        "title": "Tyshawn Sorey\u2019s powerful sounds of silence | Amplify with Lara Downes",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T05:11:30.869370+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T04:01:05+00:00",
+        "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbX3c\n\nLearn more about RAG (Retrieval Augmented Generation) here \u2192 https://ibm.biz/BdbX32\n\n\ud83d\ude80 Unlock the power of RAG with the top 3 retrieval strategies! Joseph Washington breaks down Sparse, Dense, and Hybrid Retrieval, showing how they enhance precision, recall, and context awareness. Discover how techniques like vector embeddings and BM25 fuel more accurate and context-aware RAG systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbZgC\n\n#ai #retrievalaugmentedgeneration #bm25",
+        "id": 3862671,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=r0Dciuq0knU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r0Dciuq0knU/hqdefault.jpg",
+        "title": "Top 3 RAG Retrieval Strategies: Sparse, Dense, & Hybrid Explained",
+        "vote": 0
+    }
+]

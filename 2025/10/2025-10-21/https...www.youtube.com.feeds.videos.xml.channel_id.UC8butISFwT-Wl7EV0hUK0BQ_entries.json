@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T14:46:55.255856+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T13:06:28+00:00",
+        "description": "Learn about every popular data structure and algorithm. This 49-hour mega course will help you master technical interviews for software engineering roles! This tutorial will equip you with the essential knowledge, starting with the core concepts of data structure, algorithm, and fundamental analysis like time and space complexity. This course uses Java.\n\nCourse developed by: https://www.youtube.com/@DestinationFAANG\n\n\u2b50\ufe0f Resources \u2b50\ufe0f\n\ud83d\udd17 Most asked Technical Interview Questions: https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/edit#gid=1377915986\n\ud83d\udd17 Github Repo with all the Solutions: https://github.com/DestinationFAANG/Destination-FAANG-Java-Solution\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 0:00:00 Introduction\n- 0:03:14 Technical interviews 101\n- 0:07:02 How to judge an algorithm\n- 0:08:02 What is time complexity\n- 0:18:42 What is",
+        "id": 3866269,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xwI5OBEnsZU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xwI5OBEnsZU/hqdefault.jpg",
+        "title": "Data Structures and Algorithms Mega Course \u2013 Master Technical Interviews in 49 Hours",
+        "vote": 0
+    }
+]

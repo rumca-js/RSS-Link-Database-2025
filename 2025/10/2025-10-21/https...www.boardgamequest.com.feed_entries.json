@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tony Mastrangeli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T14:16:15.867287+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T12:53:16+00:00",
+        "description": "<img width=\"640\" height=\"922\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-711x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Tag Team\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-711x1024.jpg 711w, https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-208x300.jpg 208w, https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-104x150.jpg 104w, https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-768x1106.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-1067x1536.jpg 1067w, https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-1422x2048.jpg 1422w, https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-640x922.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-1280x1843.jpg 128",
+        "id": 3865825,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/tag-team-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/10/Tag-Team-711x1024.jpg",
+        "title": "Tag Team Review",
+        "vote": 0
+    }
+]

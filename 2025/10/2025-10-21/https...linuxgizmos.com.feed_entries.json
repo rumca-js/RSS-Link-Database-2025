@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T05:03:49.538946+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T05:00:55+00:00",
+        "description": "Synaptics has unveiled the Astra SL2600, a family of multimodal processors designed for edge computing across consumer, enterprise, and industrial IoT applications. The lineup debuts with the SL2610 product line, targeting low-power and high-performance designs used in smart home, automation, robotics, and retail systems. The Astra SL2600 family is built around the new Synaptics Torq [&#8230;]",
+        "id": 3862649,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/astra-sl2600-processors-from-synaptics-combine-arm-cores-and-risc-v-coral-npu",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Astra SL2600 processors from Synaptics combine Arm cores and RISC-V Coral NPU",
+        "vote": 0
+    }
+]

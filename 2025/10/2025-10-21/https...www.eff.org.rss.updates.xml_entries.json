@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Allison Morris",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T17:11:49.689305+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T17:02:58+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>Technology is supercharging the attack on democracy by making it easier to spy on people, block free speech, and control what we do. The Electronic Frontier Foundation\u2019s activists, lawyers, and technologists are fighting back. Join the movement to Take Back CTRL.</p>\n<p class=\"take-action\"><a href=\"https://supporters.eff.org/donate/tbc--dl\">DONATE TODAY</a></p>\n<p class=\"take-explainer\">Join EFF and Fight Back</p>\n<p><a href=\"https://takebackCTRL.org\">Take Back CTRL is EFF's new website</a> to give you insight into the ways that technology has become the veins and arteries of rising global authoritarianism. It\u2019s not just because of technology\u2019s massive power to surveil, categorize, censor, and make decisions for governments\u2014but also because the money made by selling your data props up companies and CEOs with clear authoritarian agendas. As th",
+        "id": 3867420,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/10/its-time-take-back-ctrl",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "It\u2019s Time to Take Back CTRL",
+        "vote": 0
+    }
+]

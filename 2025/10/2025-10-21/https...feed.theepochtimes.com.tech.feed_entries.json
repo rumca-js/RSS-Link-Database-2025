@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jill McLaughlin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T03:42:23.278996+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T03:01:17+00:00",
+        "description": "Florida becomes the third state to take legal action against the popular gaming platform.",
+        "id": 3862339,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/florida-files-criminal-subpoenas-against-gaming-platform-roblox-5932428",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/08/id5901570-1.download-1080x720.jpg",
+        "title": "Florida Files Criminal Subpoenas Against Gaming Platform Roblox",
+        "vote": 0
+    }
+]

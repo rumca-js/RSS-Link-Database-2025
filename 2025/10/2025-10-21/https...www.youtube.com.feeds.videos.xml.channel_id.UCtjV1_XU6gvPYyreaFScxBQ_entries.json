@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T08:42:37.326773+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T08:33:19+00:00",
+        "description": "At #UBBF2025 in Paris, the Net5.5G Intelligent IP Network Summit gathered global industry leaders to explore how next-generation broadband networks can power the AI era.\n\n#Huawei Datacom introduced its fully upgraded AI WAN Solution, built on an AI-Centric architecture, redefining network experience, computing efficiency, security resilience, and O&M models.\n\nThe summit also saw the release of the Net5.5G R2 White Paper, providing a clear roadmap for carriers to embrace the intelligent future.\n\nWatch the video to catch the highlights and learn more: https://bit.ly/3WcSggK",
+        "id": 3863526,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zQov2zqcSXs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zQov2zqcSXs/hqdefault.jpg",
+        "title": "Huawei at UBBF 2025: Driving the Net5.5G Intelligent Era",
+        "vote": 0
+    }
+]

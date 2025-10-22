@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T15:47:36.973446+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T15:20:37+00:00",
+        "description": "Monday's enormous outage has sharpened the debate over whether the world is too reliant on a few US firms.",
+        "id": 3866625,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c0jdgp6n45po",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a62/live/309d3c60-ae90-11f0-b0ec-2949909959e5.jpg",
+        "title": "AWS outage: Are we relying too much on US big tech?",
+        "vote": 0
+    }
+]

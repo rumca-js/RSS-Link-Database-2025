@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T17:52:13.699493+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T16:54:32+00:00",
+        "description": "Traycer\u2019s orchestration tool makes your coding agents smarter. Try it - https://traycer.ai\n\nYesterday, over 2,500 internet services got wrecked by the most catastrophic cloud outage in history, courtesy of AWS.\n\nIn today's video, we'll break down the technical details and explain how the world's addiction to cloud computing brought us all to our knees.\n\n#aws #tech #coding #programming\n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n- https://www.techradar.com/news/live/amazon-web-services-alexa-ring-snapchat-fortnite-down-october-2025\n- https://www.youtube.com/watch?v=UVR9lhUGAyU\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- How AWS brought down the internet\n- How cloud storage works\n- US-EAST-1\n- WTF is DNS?",
+        "id": 3867929,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HqL0xhwDz9s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HqL0xhwDz9s/hqdefault.jpg",
+        "title": "US-EAST-1 is humanity\u2019s weakest link\u2026",
+        "vote": 0
+    }
+]

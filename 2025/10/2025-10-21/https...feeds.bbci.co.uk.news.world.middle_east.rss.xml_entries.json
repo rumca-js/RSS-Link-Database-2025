@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T15:29:07.848662+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T14:47:34+00:00",
+        "description": "Israeli forces have pulled back to a boundary which leaves Israel in control of most of Gaza - keeping far-right ministers on Netanyahu's side, for now.",
+        "id": 3866536,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cx2y9ny653no",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21b4/live/9bc9bf30-ae8c-11f0-ba75-093eca1ac29b.jpg",
+        "title": "Israel's 'yellow line' in Gaza gives Netanyahu room for manoeuvre",
+        "vote": 0
+    }
+]

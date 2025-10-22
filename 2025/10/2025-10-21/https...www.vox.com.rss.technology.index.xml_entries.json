@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Umair Irfan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T12:21:28.851108+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T07:15:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Aerial view of a data center.\" data-caption=\"An Amazon Web Services data center in Manassas, Virginia. Virginia is home to the largest concentration of data centers in PJM, a power grid that spans 13 states and Washington, DC.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2223681402.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tAn Amazon Web Services data center in Manassas, Virginia. Virginia is home to the largest concentration of data centers in PJM, a power grid that spans 13 states and Washington, DC.\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Your <a href=\"https://www.vox.com/climate/420887/electricity-energy-bill-expensive-prices-rising\">electricity bill is rising</a>. Naturally, you\u2019re mad about it and looking around at who to blame. But it\u2019s not a who, it\u2019s a what \u2014 and the recent AI-driven data center construction spree is at least",
+        "id": 3864999,
+        "language": "",
+        "link": "https://www.vox.com/climate/465032/data-center-electricity-power-bill-increasing-maryland-pjm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2223681402.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "A data center that doesn\u2019t even exist can raise your electricity bill",
+        "vote": 0
+    }
+]

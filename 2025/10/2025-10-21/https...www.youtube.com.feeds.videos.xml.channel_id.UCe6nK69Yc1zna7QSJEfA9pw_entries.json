@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T18:25:13.360652+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T17:14:58+00:00",
+        "description": "Oto zapowiadana wczoraj, najlepsza rada dla os\u00f3b korzystaj\u0105cych ze \ud83d\udcf2 smartfon\u00f3w w niebezpiecznych miejscach. Idealna gdy z\u0142odziej wyrwie Ci odblokowanego smartfona z r\u0119ki.\n\nZacznij wspiera\u0107 ten kana\u0142, a dostaniesz te bonusy:\nhttps://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw/join",
+        "id": 3868236,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/4Mp7khZoU5Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4Mp7khZoU5Q/hqdefault.jpg",
+        "title": "Zr\u00f3b to zanim Z\u0141ODZIEJ wyrwie Ci odblokowanego smartfona z r\u0119ki! #smartfon #android #iphone #porady",
+        "vote": 0
+    }
+]

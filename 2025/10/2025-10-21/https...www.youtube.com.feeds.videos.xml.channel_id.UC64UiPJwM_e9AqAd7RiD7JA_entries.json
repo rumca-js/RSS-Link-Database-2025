@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T19:54:56.220880+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T17:54:11+00:00",
+        "description": "On October 14, 1947 over California\u2019s Mojave Desert, U.S. Army Air Force Captain Charles E. \u201cChuck\u201d Yeager became the first person to fly faster than the speed of sound, piloting the Bell X-1 experimental rocket plane. It was a stunning achievement, paving the way for routine supersonic flight and earning Yeager the prestigious Collier Trophy and a place in the history books. Yet strange as it may seem, Yeager may actually have beaten to the punch a full two years earlier by a German jet pilot during WWII. And stranger still, it happened completely by accident. \n\nIn the 1930s and 40s, as aircraft began flying ever faster and higher, pilots began encountering a disturbing phenomenon. At speeds above 600 km/h, their controls would freeze up and the nose of their aircraft would suddenly pitch down, sending them into a lethal, unrecoverable dive. This problem, known as compressibility, was a particularly acute in high-performance fighters like the Lockheed P-38 Lightning, which during fli",
+        "id": 3868782,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DRFdDUg3Ozk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DRFdDUg3Ozk/hqdefault.jpg",
+        "title": "Breaking the Sound \"Barrier\" Before Chuck Yeager and Why It was So Hard and so Many Planes Crashed",
+        "vote": 0
+    }
+]

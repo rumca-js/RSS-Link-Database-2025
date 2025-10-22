@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T14:23:40.941074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T14:02:46+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nThe Craft of Code - Can Creative Hobbies & Projects Boost Your Soft Skills As A Developer? - Amy Jo Turner - ACCU York\n---\n\nOur hobbies aren\u2019t just fun\u2014they can transform the way we approach work and personal growth. In The Craft of Code, Rust engineer Amy shares how her love for cosplay empowered her soft skills, boosted her confidence, and shaped her career in programming.\n\nFrom expanding comfort zones to overcoming perfectionism, Amy shows how side projects and hobbies contribute to skill development, perseverance, and career growth. Learn how dedicating time to your passions can improve both your technical abilities and soft skills as a developer.\n\nDiscover how cosplay and creative hobbies enhanced Amy\u2019s Rust programming journey, helping her tackle complex projects, mentor colleagues, and gain perspective on personal and professional progress. This talk highlights the symbiotic relationship between personal hobbies and engineering",
+        "id": 3865897,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8ddSwV3JrNE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8ddSwV3JrNE/hqdefault.jpg",
+        "title": "Can Creative Hobbies & Projects Boost Your Soft Skills As A Developer? - Amy Jo Turner",
+        "vote": 0
+    }
+]

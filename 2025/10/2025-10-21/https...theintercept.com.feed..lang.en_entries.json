@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sean Bell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T10:00:51.218823+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T10:00:00+00:00",
+        "description": "<p>A mass movement against the Trump administration is essential, but no one should take an Iraq War booster\u2019s advice.</p>\n<p>The post <a href=\"https://theintercept.com/2025/10/21/david-brooks-atlantic-trump-protests/\">David Brooks Is the Last Person We Should Be Listening to Right Now</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3863925,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/10/21/david-brooks-atlantic-trump-protests",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/10/GettyImages-1315872786.jpg?fit=1800%2C1252",
+        "title": "David Brooks Is the Last Person We Should Be Listening to Right Now",
+        "vote": 0
+    }
+]

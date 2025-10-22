@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Practical Engineering",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-21T13:19:04.572586+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-21T13:00:14+00:00",
+        "description": "All the things I love about Niagara Falls\n\ud83c\udf0f Get Exclusive NordVPN deal at https://nordvpn.com/practicalengineering It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee!\n\nThe same thing that makes Niagara Falls impressive for tourists (the big drop) makes it valuable for power and a major challenge for shipping. And out of that comes all kinds of fascinating infrastructure.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-the-hidden-engineering-of-niagara-falls\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that \u2018like\u2019 button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:",
+        "id": 3865476,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7mdvEtmo1pM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 807,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7mdvEtmo1pM/hqdefault.jpg",
+        "title": "The Hidden Engineering of Niagara Falls",
+        "vote": 0
+    }
+]
