@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T18:07:24.252981+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T16:01:03+00:00",
+        "description": "Electric vertical takeoff and landing aircrafts, or eVTOLs, promise a futuristic vision of the world. One company, Pivotal, is taking a different approach with an eVTOL looks different from the rest of the market. Their ultralight consumer eVTOL weighs just 348 pounds, has eight propellers and does not require a pilot\u2019s license to operate. \n\nWSJ explores how Pivotal\u2019s ultralight eVTOL works.\n\nChapters:\n0:00 Pivotal\u2019s eVTOL\n0:37 The physical aircraft\n3:10 Flight controls and software\n5:14 Applications and challenges\n\nTech Behind \n'The Tech Behind' explores the amazing engineering, computing, science and algorithms that power our favorite tech.\n\n#eVTOL #Tech #WSJ",
+        "id": 3876883,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Z2TXNPB81vo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z2TXNPB81vo/hqdefault.jpg",
+        "title": "The $190K \u2018Flying Car\u2019 That Doesn\u2019t Require a Pilot\u2019s License  | WSJ Tech Behind",
+        "vote": 0
+    }
+]

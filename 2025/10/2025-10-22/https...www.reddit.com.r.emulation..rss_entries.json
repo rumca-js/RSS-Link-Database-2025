@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/exodus_cl",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T21:54:26.032036+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T16:01:19+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1odcblp/frontend_pc_classicmini_snes_edition_a_version/\"> <img src=\"https://preview.redd.it/kty470xc0iwf1.gif?width=640&amp;crop=smart&amp;s=5885018ac7deafb1c433024e6e1e3ce9de77ec27\" alt=\"[Frontend] PC ClassicMini SNES Edition! a version (maybe an improvement) of the SNES Classic for PC!\" title=\"[Frontend] PC ClassicMini SNES Edition! a version (maybe an improvement) of the SNES Classic for PC!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Frontend features:</strong><br/> <strong>\u25b8</strong>Top menu options with quick navigation (press shoulder buttons).<br/> <strong>\u25b8</strong>Options to select screen mode and scanlines effect.<br/> <strong>\u25b8</strong>Option to enable Rewind and FFW in-game.<br/> <strong>\u25b8</strong>Customizable BG Music and Volume.<br/> <strong>\u25b8</strong>Fast Navigation with jump to letter function.<br/> <strong>\u25b8</strong>English and Spanish languages available.<br/> <strong>\u25b8</strong>Op",
+        "id": 3879058,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1odcblp/frontend_pc_classicmini_snes_edition_a_version",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/kty470xc0iwf1.gif?width=640&crop=smart&s=5885018ac7deafb1c433024e6e1e3ce9de77ec27",
+        "title": "[Frontend] PC ClassicMini SNES Edition! a version (maybe an improvement) of the SNES Classic for PC!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T20:25:20.908066+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T19:00:12+00:00",
+        "description": "While the United States initially remained neutral in the conflict, President Roosevelt still signed an order to hunt for and spy on political dissenters and citizens of German, Italian and Japanese descent. And when German spies were captured in America, they had every right to be afraid\u2026",
+        "id": 3878434,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/BFI9f1Ezy8s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BFI9f1Ezy8s/hqdefault.jpg",
+        "title": "Executing Spies\u2026 While Spying on Their Own Citizens? This Was the USA During World War II.",
+        "vote": 0
+    }
+]

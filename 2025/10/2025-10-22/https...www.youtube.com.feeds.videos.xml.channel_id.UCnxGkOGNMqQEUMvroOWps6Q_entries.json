@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T18:36:19.120758+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T17:06:35+00:00",
+        "description": "Taken from JRE #2398 w/Francis Foster & Konstanin Kisin\nYouTube: https://youtu.be/F7r4cXPQbQ8\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 3877426,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jPRqo8MI_Rg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jPRqo8MI_Rg/hqdefault.jpg",
+        "title": "How the \"No Kings\" Protests Are Manufactured to Look Organic",
+        "vote": 0
+    }
+]

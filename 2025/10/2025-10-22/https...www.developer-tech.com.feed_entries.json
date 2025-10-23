@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T12:48:32.458545+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T12:44:54+00:00",
+        "description": "<p>An attack on the NuGet package registry shows how advanced open-source software supply chain attacks have become. It shows how attackers can take advantage of developers&#8217; trust and gaps in registry rules to inject malware that steals data directly into business build processes. Security researchers from Socket recently found a live homoglyph typosquat on NuGet [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/nuget-attack-open-source-software-supply-chain-risk/\">NuGet attack highlights open-source software supply chain risk</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3874379,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/nuget-attack-open-source-software-supply-chain-risk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NuGet attack highlights open-source software supply chain risk",
+        "vote": 0
+    }
+]

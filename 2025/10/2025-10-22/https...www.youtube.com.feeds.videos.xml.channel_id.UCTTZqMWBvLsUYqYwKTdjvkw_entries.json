@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T18:44:16.828233+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T16:52:39+00:00",
+        "description": "Wielka Automatyzacja - Odcinek 1\nTak, wiemy. To szalony pomys\u0142. Kto robi 14-odcinkowy miniserial fabularny o automatyzacjach? (Tak, my).\n\nW \u201eWielkiej Automatyzacji\u201d pokazujemy Ci, jak odzyska\u0107 to, czego zawsze brakuje - czas.\nKa\u017cdy odcinek odpowiada jednej lekcji kursu \u201eAutomatyzacje dla Solo Tw\u00f3rcy Internetowego\u201d.\nTen projekt to w zasadzie eksperyment - sprawdzamy, czy da si\u0119 opowiedzie\u0107 o automatyzacji (um\u00f3wmy si\u0119, to brzmi nudno) jak o... fascynuj\u0105cej przygodzie.\n\nChcesz zobaczy\u0107, dok\u0105d to wszystko prowadzi? Zosta\u0144 z nami na d\u0142u\u017cej.\nA je\u015bli chcesz tak jak my odzyska\u0107 czas i pozwoli\u0107 sobie na r\u00f3wnie szalone projekty - zajrzyj do kurs\u00f3w \u201eAutomatyzacje dla Solo Tw\u00f3rcy Internetowego\u201d i \u201eAutomatyzacje dla Solo Przedsi\u0119biorcy\u201d.\nMo\u017cna kupi\u0107 je osobno albo w pakiecie.\nOdzyskaj czas \ud83d\udc49 solo.uczmnie.pl\n\nTo co? Zaczynamy?\n\nPS: A je\u015bli nie mo\u017cesz si\u0119 doczeka\u0107 ci\u0105gu dalszego - wejd\u017a na mojego Instagrama (mateuszemsi), tam publikujemy odcinki w pierwszej kolejno\u015bci.\n\n#taktozdecydowanieautopromocj",
+        "id": 3877471,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/Ej1e79HOrX8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ej1e79HOrX8/hqdefault.jpg",
+        "title": "\ud83d\ude80 Odcinek 1: Wielka Automatyzacja",
+        "vote": 0
+    }
+]

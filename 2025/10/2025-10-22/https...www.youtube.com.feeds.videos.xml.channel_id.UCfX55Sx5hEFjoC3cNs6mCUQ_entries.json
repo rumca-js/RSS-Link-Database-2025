@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T18:53:20.894859+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T17:16:09+00:00",
+        "description": "Sponsored by Buf Technologies\n\nStreaming data might be more accessible than ever, but the gap between \"hello world\" tutorials and bulletproof production systems is filled with hard-learned lessons. Which processing engine won't leave you stranded in two years? How do you evolve data formats without breaking everything downstream? What's the real story behind choosing Iceberg, Hudi, or Delta Lake?\n\nIn this session, Bartosz Konieczny and Scott Haines share the battle-tested patterns that keep streaming systems running when it matters most. You'll discover:\n\n- Why Protobuf isn't just about serialization\u2014it's your insurance policy against breaking changes and how Protovalidate catches bad data before it pollutes your entire downstream ecosystem\n- Real-world data value generation patterns for Spark and Flink that actually work in production\n- How broker-side validation for Kafka and zero-ETL Iceberg generation can eliminate entire classes of problems and save you time and money along the w",
+        "id": 3877601,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=W2ul8L4zGlA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W2ul8L4zGlA/hqdefault.jpg",
+        "title": "LF Webinar: Streaming Data Design Patterns: Battle-Tested Tips & Tricks for Mission-Critical Systems",
+        "vote": 0
+    }
+]

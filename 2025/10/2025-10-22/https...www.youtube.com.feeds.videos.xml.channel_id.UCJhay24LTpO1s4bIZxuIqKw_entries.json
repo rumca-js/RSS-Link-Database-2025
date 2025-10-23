@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T15:01:27.459528+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T14:03:05+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nStars Aligned and Software Development Adrift - Why Can We Predict Planets but Not Deadlines? - Luca Minudel - ACCU 2025\n---\n\nInnovation is once again accelerating as no other generation has experienced before, rendering the old playbook ineffective and invalidating the assumptions of the iron triangle and traditional Project Management.\n\nDespite this, many companies and leaders remain trapped in an outdated paradigm.\nTherefore while we can accurately predict the position of a planet in the sky 400 years from now, we cannot predict if and when certain projects will be completed.\n\nHadn't we already tackled this challenge in software development around 2000?\n\nThis session will explore what is Complexity, its origins, what can be done about it, and why many organisations are still refractory to Complexity-Thinking.\n\nBy the end of this session, you will be able to discriminate between Complex problems and ordered linear problems.\n\nYou wil",
+        "id": 3875396,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=s_OPW3uGXCU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s_OPW3uGXCU/hqdefault.jpg",
+        "title": "Stars Aligned and Software Development Adrift - Why Can We Predict Planets but Not Deadlines? - ACCU",
+        "vote": 0
+    }
+]

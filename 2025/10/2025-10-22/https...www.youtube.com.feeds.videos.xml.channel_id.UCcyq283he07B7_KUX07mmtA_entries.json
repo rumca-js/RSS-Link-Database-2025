@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T18:52:16.021273+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T18:27:49+00:00",
+        "description": "Sponsored by Mobileye\n\nAutonomous vehicles aren\u2019t just a moonshot\u2014they\u2019re a fast-moving reality. But making them scalable, safe, and city-ready takes more than just machine learning. It takes vision.\n\nThis virtual event will take you inside self-driving and the AI-driven evolution of autonomous vehicles. We\u2019ll speak with automotive innovators, AI experts, and urban mobility leaders who are building the blueprint for the future. From advanced driver-assistance systems (ADAS) to city-wide data networks, we\u2019ll explore how the latest breakthroughs in AI and computer vision are turning autonomy into real-world traction.\n\n------------------------------------------------------\n\nBusiness Insider tells you all you need to know about business, finance, tech, retail, and more.\n\nVisit our homepage for the top stories of the day: https://www.businessinsider.com\nBusiness Insider on Facebook: https://www.facebook.com/businessinsider \nBusiness Insider on Instagram: https://www.instagram.com/businessi",
+        "id": 3877597,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=CbtbN4dyfwE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CbtbN4dyfwE/hqdefault.jpg",
+        "title": "Inside Self-Driving: The AI-Driven Evolution of Autonomous Vehicles",
+        "vote": 0
+    }
+]

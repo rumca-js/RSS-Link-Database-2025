@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JaidenAnimations",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T20:27:42.628821+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T20:00:43+00:00",
+        "description": "#animation #storyboard #shorts #jaidenanimations \nBoards- E-man: https://bsky.app/profile/emanx3c.bsky.social\nKeys- Denny: https://bsky.app/profile/90percentdenny.bsky.social\nInbetweens- Dxmnduke: https://bsky.app/profile/dxmnduke.bsky.social",
+        "id": 3878439,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/lwDj6gd8vJY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 776,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGwu0nbY2wSkW8N-cghnLpA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lwDj6gd8vJY/hqdefault.jpg",
+        "title": "Storyboard vs Animation: Living in Los Angeles (shot 3)",
+        "vote": 0
+    }
+]

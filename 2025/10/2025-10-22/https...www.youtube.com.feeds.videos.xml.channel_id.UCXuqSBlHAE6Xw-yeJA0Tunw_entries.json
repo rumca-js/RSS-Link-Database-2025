@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T18:30:50.072878+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T16:59:15+00:00",
+        "description": "Check out https://vessi.com/lmg to enter Vessi's October giveaway for a chance to win over $6,000 in prizes! You can also enjoy 20% off at checkout for this month only using our link! \n\nGiveaway Details: \n7 Prizes. 7 Winners. Over $6,000 in Prizes\nEnds Oct 31, 2025\nEnter your email for a chance to win, no purchase necessary \n\nUse code LTT25 and get $20 off Hetzner Object Storage at https://htznr.li/LTT2510\n\nMicrosoft's recent 50% Game Pass price hike has gamers furious, yet their gaming division revenue is at an all-time high. This video explores the baffling contradictions in Xbox's strategy: raising prices while claiming profitability, promising new Xbox hardware while pivoting to mobile. We delve into the decline of Xbox consoles, the impact of studio closures, and the shift towards services. Is Microsoft abandoning dedicated hardware for a Windows-centric, multi-platform future? Despite the self-inflicted wounds, Xbox is making more money than ever. We discuss the \"enshittificatio",
+        "id": 3877382,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=hUvzLI6juZ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hUvzLI6juZ8/hqdefault.jpg",
+        "title": "Xbox Might be Cooked",
+        "vote": 0
+    }
+]

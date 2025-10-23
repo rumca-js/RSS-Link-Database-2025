@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Turkey Tom",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T19:44:34.732294+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T18:49:20+00:00",
+        "description": "Sources/Lance's Drawings: https://anonbirdd.substack.com/p/charlie-kirks-killers-discord-logs\nTracklist: https://pastebin.com/CjzUGzGr",
+        "id": 3877875,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4aF9J1BoL9Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 670,
+        "source_url": "https://www.youtube.com/channel/UCDKJdFer1phQI95UinPZehw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4aF9J1BoL9Q/hqdefault.jpg",
+        "title": "The Charlie Kirk Killer's Discord Logs",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T22:08:56.272892+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T19:15:28+00:00",
+        "description": "Sponsor: Montech HS01 Pro on Amazon https://geni.us/UYLeZn and HS02 Pro https://geni.us/ABM9fEB\nIn this hardware news recap for the week, we talk about the Amazon AWS internet outage, RAM prices skyrocketing partly due to AI demand from companies like OpenAI, Intel's B580 price drop, and more. Coverage includes Frore's LiquidJet cooling solution, Lenovo's 9070 XT video card designs, chip tariffs, and potential AMD utilization of Intel's fabs.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nSources document: https://www.one-tab.com/page/1jW-Vu4gTHW8Dbey_Vxf3Q\n\nTIMESTAMPS\n\n00:00 - Recap for the Week\n01:28 - Consumer RAM Price Skyrockets\n07:06 - Amazon AWS Takes Out the Internet\n09:24 - Intel CPU Price Hike\n13:59 - Intel B580 GPU Price Drops\n15:23 - Lenovo Making 9070 XT GPUs\n17:25 - Frore's LiquidJet\n19:52 - US Chip Tariffs Again, Again\n25:57 -",
+        "id": 3879121,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fc4fc72e6XI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fc4fc72e6XI/hqdefault.jpg",
+        "title": "HW News - RIP Internet, RAM Prices Skyrocket from AI Demand, Intel B580 Price Drops",
+        "vote": 0
+    }
+]

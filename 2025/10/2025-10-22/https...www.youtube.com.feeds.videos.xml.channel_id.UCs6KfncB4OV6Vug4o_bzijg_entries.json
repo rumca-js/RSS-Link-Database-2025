@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T13:15:51.722701+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T11:41:42+00:00",
+        "description": "Just after covering Texas's age verification law requiring ID for ALL apps, Big Tech (Apple, Google, and others) has sued the state, calling it a \"broad censorship regime\" that violates the First Amendment. A separate lawsuit was also filed by student advocacy groups and Texas minors, both citing the same constitutional concerns we warned about in the original video. We break down both lawsuits, what they mean for the January 1st deadline, and why this fight matters beyond just Texas.\n\nTechlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources to protect your data and reclaim your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 https://arstechnica.com/tech-policy/2025/10/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime/\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://www.youtube.com/watch?v=jP-kqEHirTM\n\u2022 https://www.youtube.com/watch?v=wRvqdLsnsKY\n\n\u23f1\ufe0f TIMESTAMPS:\n00:00 Introduction\n00:20 Here\u2019s What\u2019s New\n02:12 Calling Out Hypocrisy ",
+        "id": 3874721,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=OsMt-KMeS-g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OsMt-KMeS-g/hqdefault.jpg",
+        "title": "Big Tech Just Sued Texas Over Age Verification Law (We Called It)",
+        "vote": 0
+    }
+]

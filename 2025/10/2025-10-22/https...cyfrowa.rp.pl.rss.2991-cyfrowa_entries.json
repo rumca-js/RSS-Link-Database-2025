@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T10:11:30.265453+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T10:11:29+00:00",
+        "description": "OpenAI wchodzi na terytorium Google z now\u0105 przegl\u0105dark\u0105 Atlas, kt\u00f3ra ma wbudowanego ChatGPT i potrafi dzia\u0142a\u0107 w imieniu u\u017cytkownika. To mo\u017ce by\u0107 pocz\u0105tek ko\u0144ca dominacji Chrome.",
+        "id": 3873322,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art43216691-gigant-sztucznej-inteligencji-rzuca-rekawice-google-atlas-pokona-chrome",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gigant sztucznej inteligencji rzuca r\u0119kawic\u0119 Google. Atlas pokona Chrome?",
+        "vote": 0
+    }
+]

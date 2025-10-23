@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T02:30:33.675546+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T02:30:33+00:00",
+        "description": "Wzrost wydatk\u00f3w kraj\u00f3w Europy na wyposa\u017cenie swoich armii i infrastruktur\u0119 wojskow\u0105 celem wzmocnienia potencja\u0142u obronnego i uniezale\u017cnienia si\u0119 od ameryka\u0144skiej pomocy znacz\u0105co poprawi\u0142 perspektywy przemys\u0142u zbrojeniowego.",
+        "id": 3871283,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/portfel-inwestycyjny/art43214051-zbrojeniowa-hossa-trwa-jak-na-niej-zarobic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zbrojeniowa hossa trwa. Jak na niej zarobi\u0107?",
+        "vote": 0
+    }
+]

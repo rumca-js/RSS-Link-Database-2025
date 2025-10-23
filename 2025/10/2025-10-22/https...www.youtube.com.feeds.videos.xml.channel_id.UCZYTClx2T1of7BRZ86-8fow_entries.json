@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-22T17:48:56.999153+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-22T17:00:00+00:00",
+        "description": "Visit https://brilliant.org/scishow/ to get started learning STEM for free and get 20% off their annual premium subscription.\n\nHumans have made a hellscape on Earth with climate change, deforestation, and everything else we've done to this planet. Many animals are going extinct from those effects. But some beat the odds and adapt to be better off than before!\n\nHosted by: Reid Reimers (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jaap Westera, Alex Hackman, Blood Doctor Kelly, Toyas Dhake, Matt Curls, Piya Shedden, Jason A Saslow, Kevin Knupp, J.V. Rosenbalm, Garrett Galloway, Steve Gums, David Johnston, Bethany Matthews, Chris Curry, Chris Peters, Chris ",
+        "id": 3876748,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=-j9ZSmvoicM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-j9ZSmvoicM/hqdefault.jpg",
+        "title": "5 Animals That Are Thriving in the Human Hellscape",
+        "vote": 0
+    }
+]
