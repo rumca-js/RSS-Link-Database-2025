@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Upper Echelon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T07:53:47.767142+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T07:11:25+00:00",
+        "description": "After the US-East-1 Amazon Cloud Hub mega crash... a major portion of the internet was rendered temporarily disabled, in one of the largest outages ever recorded. \n\nThe mistake (and subsequent down time as a result of lackluster precautions) illustrate just how fragile the online world has become, where a few large companies now control a disproportionate amount of traffic and hosting, to a degree where even basic daily necessities can be rendered useless by a single oversight. \n\nHyper consolidation creates single points of failure in a system where failure, is extremely dangerous. \n\n\n\nWant a VPN??? Use This One (to support the channel)\nhttps://get.surfshark.net/SH1Qo\n\n\n\nPATREON: https://www.patreon.com/UEG\n\nLOCALS: https://upperechelon.locals.com/support\n\nBecome a channel member: https://www.youtube.com/channel/UChI0q9a-ZcbZh7dAu_-J-hg/join\n\n\n\nCOMPLETE CYBER SECURITY PRODUCT LIST: https://linktr.ee/upperechelonsecurity\n\n\n\nODYSEE INVITE: https://odysee.com/$/invite/@UpperEchelonGamers",
+        "id": 3881847,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SnQXUDIhZHM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 575,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChI0q9a-ZcbZh7dAu_-J-hg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SnQXUDIhZHM/hqdefault.jpg",
+        "title": "Single Point of Failure (The Amazon Disaster)",
+        "vote": 0
+    }
+]

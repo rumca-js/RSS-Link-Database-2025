@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T18:05:53.504454+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T17:23:35+00:00",
+        "description": "In this episode of the Made by Google Podcast, we unfold the magic and the monumental engineering behind the brand-new Pixel 10 Pro Fold. Join our host, Rachid Finge, as he sits down with Jeff Evans, Product Manager for the Pixel 10 Pro Fold, to reveal the secrets behind Google's most ambitious phone yet.\n\nDiscover the revolutionary new gearless hinge that provides a decade of durability, and learn how the Pixel 10 Pro Fold became the FIRST foldable to achieve a rugged IP68 dust and water resistance rating. Jeff shares the inside story on the complex challenge of integrating PixelSnap magnets, the design thinking behind shipping the phone unfolded, and the delightful AI-powered camera features like \"Made You Look\" that are only possible on a device like this.\n\n00:14  Meet the Product Manager & The Marvel of the Hinge\n01:30 From Doorbell Cameras to the Pixel Tablet Case\n04:42 Inside the Pixel 10 Pro Fold: Battery & Pixel Snaps\n09:39 A More Durable Fold with a Smarter Camera\n\n#Pixel #Pi",
+        "id": 3886709,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aZ5L9mDeMaw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aZ5L9mDeMaw/hqdefault.jpg",
+        "title": "Confidence in a Fold | Made by Google Podcast S8E7",
+        "vote": 0
+    }
+]

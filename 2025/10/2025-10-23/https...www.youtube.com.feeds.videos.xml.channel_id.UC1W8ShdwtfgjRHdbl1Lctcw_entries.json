@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T18:16:11.923342+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T17:46:13+00:00",
+        "description": "I colorized, restored, and applied face restoration and created sound design for this rare footage of Detroit, Michigan in the 1930s, showing the city during the Great Depression with incredible street details \u2014 signs like \u201cHighest Cash Price for Your Car Regardless,\u201d \u201cWe Finance W.P.A.,\u201d \u201cWe Accept Relief Orders,\u201d \u201cDinner 10\u00a2 Bread You Can Eat,\u201d and \u201cSuit Cases 49\u00a2\u201d appear among grocery stores, loan offices, lunch counters, and old advertisements for Raleigh and Prince Albert tobacco, Mrs. Wagner\u2019s Pies, and Yankee Kola; the closed Michigan Unemployment Compensation Commission office stands as a stark reminder of the difficult times\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nPlease, be aware that colorization colors are not real and f",
+        "id": 3886753,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ZKq0W7j-OcE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZKq0W7j-OcE/hqdefault.jpg",
+        "title": "Detroit 1930s in color, Rare Glimpse in Depression-Era [60fps, Remastered] w/Sound Design",
+        "vote": 0
+    }
+]

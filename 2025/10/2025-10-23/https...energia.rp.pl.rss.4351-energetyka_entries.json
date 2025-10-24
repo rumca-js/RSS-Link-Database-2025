@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T15:43:04.938953+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T15:43:04+00:00",
+        "description": "W \u015blad za Indiami, Chiny przerywaj\u0105 import rosyjskiej ropy. To efekt sankcji USA na najwi\u0119kszych rosyjskich eksporter\u00f3w czarnego z\u0142ota \u2013 Rosnieft i \u0141ukoil oraz 19. pakietu sankcji Unii, kt\u00f3re uderzaj\u0105 w chi\u0144skie firmy wspieraj\u0105ce Kreml.",
+        "id": 3885341,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ropa/art43227451-pekin-trafiony-i-prawie-zatopiony-ogranicza-zakupy-ropy-z-rosji",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pekin trafiony i (prawie) zatopiony. Ogranicza zakupy ropy z Rosji",
+        "vote": 0
+    }
+]

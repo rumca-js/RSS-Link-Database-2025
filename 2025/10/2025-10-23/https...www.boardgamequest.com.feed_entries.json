@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "April Wilson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T14:38:52.587827+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T13:43:29+00:00",
+        "description": "<img width=\"640\" height=\"924\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-709x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"DC Forever\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-709x1024.jpg 709w, https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-208x300.jpg 208w, https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-104x150.jpg 104w, https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-768x1110.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-1063x1536.jpg 1063w, https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-1418x2048.jpg 1418w, https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-640x925.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forev",
+        "id": 3884651,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/dc-forever-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/09/DC-Forever-709x1024.jpg",
+        "title": "DC Forever Review",
+        "vote": 0
+    }
+]

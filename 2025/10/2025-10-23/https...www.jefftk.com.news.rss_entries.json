@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T14:43:50.845573+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T08:00:00+00:00",
+        "description": "<p><span>\n\nI've had a lot of people reach out to me who are interested in working\non biosecurity, but have a background in software engineering /\ncomputer science.  A lot of these conversations have looked something\nlike:\n\n</span>\n\n<p>\n\n</p>\n\n<blockquote>\nA: I'd be really excited to work on biosecurity, it seems <a href=\"https://forum.effectivealtruism.org/posts/33t5jPzxEcFXLCPjq/the-four-pillars-a-hypothesis-for-countering-catastrophic\">really\nimportant</a> and <a href=\"https://forum.effectivealtruism.org/posts/7wBZG8skNp8o4Mb9v/ajeya-s-quick-takes?commentId=dMzz4FxHbovLaxqL9\">relatively\nneglected</a>.  Are you hiring for software engineers at SecureBio?\n<p>\nMe: I wish we were, you seem really great!  But I don't know when we\nwill be, depends on funding and some strategy questions.\n</p>\n</blockquote>\n\n\n\n<p>\n\nThis has now changed, and SecureBio is now hiring for two different\nsoftware engineering roles that don't require a biology background:\n\n</p>\n\n<p>\n\n</p>\n\n<ul>\n\n<li><p>NAO: <a hre",
+        "id": 3884665,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/software-engineering-at-securebio",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Software Engineering at SecureBio",
+        "vote": 0
+    }
+]

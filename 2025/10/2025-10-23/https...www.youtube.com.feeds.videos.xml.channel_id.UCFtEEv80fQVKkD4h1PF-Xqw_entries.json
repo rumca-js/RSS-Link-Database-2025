@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T17:14:22.806266+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T16:31:56+00:00",
+        "description": "Netflix co-CEO Ted Sarandos joins Microsoft's Vice Chair and President Brad Smith to discuss the constant reinvention behind Netflix, one of the world\u2019s most influential entertainment and technology platforms.\n\nOn this episode of the Tools and Weapons podcast, Ted Sarandos and Brad Smith discuss how bold leadership and a culture of innovation keep Netflix ahead; not just as a media company, but as a force shaping both industries and audiences. Ted shares how intuition and data combine to turn daring ideas into practical solutions; from scaling storytelling across 190 countries to relentlessly creating content that gets under the skin of viewers and makes them feel deeply connected to the stories they watch. \n\nOn the Tools and Weapons podcast, Microsoft Vice Chair and President Brad Smith speaks with leaders in government, business, and culture to explore the world\u2019s most critical challenges at the intersection of technology and society.\n\nSubscribe to Microsoft on YouTube here: https:/",
+        "id": 3886184,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1ws5cjDXSGc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1ws5cjDXSGc/hqdefault.jpg",
+        "title": "How tech transformed the way Netflix tells stories | Ted Sarandos, Netflix co-CEO",
+        "vote": 0
+    }
+]

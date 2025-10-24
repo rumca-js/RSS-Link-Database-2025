@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T15:44:39.295144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T14:17:00+00:00",
+        "description": "Startup's 10x programmer and cracked software engineer and software developer (SWE). best humor containing AI, reasoning modes, doom partition, ssh and Linux news. #humor #jokes #programming",
+        "id": 3885349,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/ewIuHwUUv_M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ewIuHwUUv_M/hqdefault.jpg",
+        "title": "*Next-door 10x Engineer (Pt.3)*",
+        "vote": 0
+    }
+]

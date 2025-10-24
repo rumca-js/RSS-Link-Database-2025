@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T15:08:30.334740+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T14:45:11+00:00",
+        "description": "In this course, @Radu  teaches his problem-solving techniques by using a challenging vision-based positioning system problem from his \"Decode the Drawings\" competition as a case study: https://youtu.be/bZ8uSzZv0ew?si=HJzT4YIEj2z_3GiK.\n\nYou will learn to break down a complex problem into smaller, manageable sub-problems, how to prioritize them, and how to work on interconnected issues independently.\n\nThe core goal is to develop a powerful thought process\u2014building a solution from first principles, using simple reasoning and foundational math. We'll explore several approaches, starting by hand and then automating the steps with simple, powerful algorithms.\n\nThis course is perfect for beginners looking to sharpen their skills! All algorithms are implemented from scratch and explained step-by-step using simple language and visuals. We use JavaScript for ease of use and visualization, but you can follow along in any language.\n\nThe course is also offered by Karelia University of Applied Scie",
+        "id": 3885080,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xJjxQjZTryI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xJjxQjZTryI/hqdefault.jpg",
+        "title": "How to Break Down Software Problems (First Principles & JavaScript)",
+        "vote": 0
+    }
+]

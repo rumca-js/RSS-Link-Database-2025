@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T12:22:21.673395+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T11:00:05+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbYVc\n\nLearn more about What is a Reasoning Model here \u2192 https://ibm.biz/BdbYVB\n\n\ud83d\ude80 LLMs reason, but AI agents act. What sets them apart? Martin Keen and Suj Perepa explore how AI agents use LLM reasoning, tool calling, and React prompting to enable autonomous decision-making. Discover how they transform complex workflows and redefine business processes. \ud83e\udd16\u2728\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdb2nC\n\n#aiagents #llm #ai #automation",
+        "id": 3883475,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2ihEirLXeas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2ihEirLXeas/hqdefault.jpg",
+        "title": "AI Agents + LLM Reasoning: Transforming Autonomous Workflows",
+        "vote": 0
+    }
+]

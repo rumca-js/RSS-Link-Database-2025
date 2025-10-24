@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NileRed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T23:32:41.464908+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T23:11:47+00:00",
+        "description": "\ud83d\udc49 To learn for free on Brilliant, go to https://brilliant.org/NileRed/ or scan the QR code onscreen. Brilliant has also given our viewers 20% off an annual premium subscription, which gives you unlimited daily access to everything they have to offer.\n\nFor as long as I can remember, I've always been fascinated by liquid nitrogen and I've always wanted to be able to make it myself, but I never did because it just seemed too difficult. Recently though, for some unknown reason, I felt that I was ready to try doing it, despite having basically no experience with stuff like this, and I decided to just go for it.\n\n-------------------------------------------------------------------------------\nMerch - https://nilered.tv/store\n-------------------------------------------------------------------------------\n\nJoin the community:\nPatreon - https://www.patreon.com/nilered\nDiscord - https://discord.com/invite/3BT6UHf\nNileRed Newsletter - https://nile.red/home#newsletter\n\nYou can also find me here:\nF",
+        "id": 3888986,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GmwaJnj6pfY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 782,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GmwaJnj6pfY/hqdefault.jpg",
+        "title": "Making liquid nitrogen from scratch (an absurd amount)",
+        "vote": 0
+    }
+]

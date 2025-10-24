@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/BeeExtension9754",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T02:17:35.434950+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T02:07:22+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I am experimenting with adding an RSS feed for my website. I notice that on other peoples websites, when you click a link to an rss feed, Safari displays a dialogue box that either says:</p> <blockquote> <p>\u201cDo you want to allow this website to open \u2018NetNewsWire\u2019?\u201d</p> </blockquote> <p>(if you have an RSS reader installed) or:</p> <blockquote> <p>\u201cThis is a link to an RSS feed. Would you like to search the App Store for apps that can display RSS feeds?\u201d</p> </blockquote> <p>(if you don&#39;t have an RSS reader installed).</p> <p>I am curious how these links work. How can I implement this for the link to the rss feed on my website?</p> <p>Examples of links:</p> <p><a href=\"https://birchtree.me/rss/\">https://birchtree.me/rss/</a><br/> <a href=\"https://mjtsai.com/blog/feed/\">https://mjtsai.com/blog/feed/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BeeExtension9754\"> /u/BeeExtension9754 </a> <br/> <spa",
+        "id": 3880423,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1odraaz/macos_safari_links_to_rss_feeds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "macOS Safari links to RSS feeds",
+        "vote": 0
+    }
+]

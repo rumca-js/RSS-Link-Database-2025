@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Clark Estes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T11:40:45.293978+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T07:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"The web is broken, increasingly full of AI slop, and surfing it sucks.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/AI-browser.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tThe web is broken, increasingly full of AI slop, and surfing it sucks.\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">At least twice a year, I\u2019ll download a new browser, open it up, and see if the web looks better through a different window. It never does \u2014 or at least it didn\u2019t until recently.</p>\n\n<p class=\"has-text-align-none\">We\u2019ve entered a new era of AI-powered browsers. They have names like <a href=\"https://www.perplexity.ai/grow/comet\">Comet</a>, <a href=\"https://www.diabrowser.com/\">Dia</a>, and <a href=\"https://blogs.opera.com/news/2025/05/opera-neon-first-ai-agentic-browser/\">Neon</a>, and they all make the same promise: to do things for you on the web.&nbsp;<",
+        "id": 3883232,
+        "language": "",
+        "link": "https://www.vox.com/technology/465795/chatgpt-atlas-google-chrome-gemini-perplexity-comet",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/AI-browser.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Can AI fix the web AI broke?",
+        "vote": 0
+    }
+]

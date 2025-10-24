@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T02:01:00.546047+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T01:02:57+00:00",
+        "description": "New leaks and rumors suggest both PS6 and the next Xbox hardware will be launching in 2027. ALSO - Konami doubles down on Silent Hill.\n\n~~SOURCES~~\n\nhttps://www.digitaltrends.com/gaming/leak-says-playstation-6-production-starts-2027-but-is-it-too-soon-for-you/\n\nhttps://www.pushsquare.com/news/2025/10/ps6-could-be-less-than-half-the-price-of-microsofts-very-premium-next-gen-xbox\n\nhttps://www.videogameschronicle.com/news/silent-hill-boss-says-konami-announced-three-games-at-once-to-show-it-was-committed-to-the-series-future/\n\nhttps://www.ign.com/articles/silent-hill-2-remake-sales-hit-25-million-as-franchise-surpasses-10-million",
+        "id": 3880380,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Jv5W5C8jMCc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Jv5W5C8jMCc/hqdefault.jpg",
+        "title": "PS6...in 2027?!",
+        "vote": 0
+    }
+]

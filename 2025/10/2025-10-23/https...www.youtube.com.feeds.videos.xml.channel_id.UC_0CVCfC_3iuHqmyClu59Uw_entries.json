@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T15:33:59.497408+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T14:40:00+00:00",
+        "description": "In this video, we\u2019re testing out Linux on the all-new ASUS ROG Xbox Ally powered by the AMD Ryzen Z2 A APU.A lot of people have been asking how well the lower-end Ally performs compared to the Steam Deck OLED \u2014 and the results might surprise you!\nWe\u2019re using Bazzite OS to get Linux running smoothly on the ROG Xbox Ally, complete with working Wi-Fi, Bluetooth, and TDP control. We\u2019ll test real-world gaming performance in Cyberpunk 2077, The Witcher 3, Elden Ring, Mortal Kombat 1, Doom The Dark Ages, and more \u2014 plus check out battery life, fan curves, and performance scaling up to 20 W TDP.\nIf you\u2019ve been wondering how close this gets to Steam Deck performance on Linux, or if you should dual-boot on your Ally, this is the video to watch.\n\n\ud83e\udde9 Specs Tested\n* AMD Ryzen Z2 A (4C/8T Zen 2, RDNA 2 8 CUs)\n* 16 GB RAM (8 shared VRAM)\n* 1080p 120 Hz Display\n* 20 W TDP Turbo Mode\n* Bazzite Linux Base 8.42\n\n\ud83d\udcac Let me know which OS you\u2019d rather use on your Ally \u2014 Windows 11 Handheld Mode or Linux (Baz",
+        "id": 3885300,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=BMhiL6mi7O0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BMhiL6mi7O0/hqdefault.jpg",
+        "title": "ROG XBOX ALLY With Linux \u2013 The Steam Deck SUPER!?",
+        "vote": 0
+    }
+]

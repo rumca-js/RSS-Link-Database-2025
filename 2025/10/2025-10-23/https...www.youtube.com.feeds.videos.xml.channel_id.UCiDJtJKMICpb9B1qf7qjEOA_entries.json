@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T14:23:28.725519+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T14:01:22+00:00",
+        "description": "The beautiful thing about a historical object is not just the object itself, but what the signs of its use say about that object. In this case, Adam Savage examines the Remington noiseless typewriters that belonged to poet and Lincoln biographer Carl Sandburg, with every groove telling a story. At the National Park Service's Museum Conservation Lab, objects conservation post-graduate fellow Daisy Greenwell takes us through her approach to restoring these artifacts, which includes creating custom tools to address years of  dust, gunk and corrosion, especially on the undersides. Have you ever seen such beautiful engineering? \n\nNational Park Museum Conservation Lab: https://www.nps.gov/subjects/hfc/museum-conservation-services.htm\nNational Park Service: https://www.nps.gov/index.htm\nWhat Happens When Taxidermy Fails: https://youtu.be/_ovkiZfl9aw\nWhere America\u2019s Historical Artifacts Are Being Preserved (Well ... For Now): https://youtu.be/1lxSXvLGvcs\nHow to Wash a 157-Year-Old Newspaper: ",
+        "id": 3884569,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lswxgfgV1EA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lswxgfgV1EA/hqdefault.jpg",
+        "title": "Adam Savage Learns How Noiseless Typewriters Work!",
+        "vote": 0
+    }
+]

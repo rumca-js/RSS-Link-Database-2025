@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T18:28:17.114864+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T17:30:41+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Recovering videos from my Sony camera that I stupidly deleted</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/sony-a6700-sd-cards-on-desk.jpeg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-4db2b381-1806-450c-8d72-e24b4e4713fa\" data-insert-attach=\"{&quot;id&quot;:&quot;4db2b381-1806-450c-8d72-e24b4e4713fa&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Sony A6700 SD cards on desk\"></p>\n\n<p>My normal process for transferring video footage from my Sony cameras to my computer is as follows:</p></div>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"",
+        "id": 3886876,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/sony-a6700-sd-cards-on-desk.jpeg",
+        "title": "Recovering videos from my Sony camera that I stupidly deleted",
+        "vote": 0
+    }
+]

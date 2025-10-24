@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T03:28:45.001823+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T02:27:16+00:00",
+        "description": "Ditto AI video editor. How to use Ditto in ComfyUI. Edit anything in a video with a text prompt #ai #aivideo #aitools #ainews #agi\n\nThanks to our sponsor Epidemic Sound. Try out Adapt and use code AISEARCH50 to get a free trial plus 2 months at a 50% discount. https://share.epidemicsound.com/aisearchOCT25\n\nDitto: https://github.com/EzioBy/Ditto\n\nWan Animate tutorial: https://youtu.be/EqdYO_9o6xk\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nVACE tutorial https://youtu.be/S-YzbXPkRB8\n\n\n0:00 Ditto intro\n1:01 Full character change\n2:06 Micro editing\n2:36 More editing examples\n2:56 Style change\n3:12 Sim2real\n3:42 How to install Ditto in ComfyUI\n8:42 How to use Ditto\n12:45 Ditto global style\n13:22 Epidemic sound\n15:19 Ditto style continued\n16:05 Ditto sim2real\n16:52 Ditto global\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKw",
+        "id": 3880653,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XSECbTkgRl8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XSECbTkgRl8/hqdefault.jpg",
+        "title": "This new AI video tool is so powerful! Free & offline",
+        "vote": 0
+    }
+]

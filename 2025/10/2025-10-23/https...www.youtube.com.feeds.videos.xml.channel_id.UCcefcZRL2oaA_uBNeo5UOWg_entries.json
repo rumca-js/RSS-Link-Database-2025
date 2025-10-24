@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-23T15:28:03.913295+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-23T14:00:34+00:00",
+        "description": "Nearly every modern AI model, from ChatGPT and Claude to Gemini and Grok, is built on the same foundation: the Transformer.\n\nIn this video, YC's Ankit Gupta traces how AI learned to understand language \u2014 from early RNNs and LSTMs to attention mechanisms and the breakthrough 2017 paper Attention Is All You Need \u2014 the discovery that unlocked the modern AI era.",
+        "id": 3885237,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JZLZQVmfGn8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JZLZQVmfGn8/hqdefault.jpg",
+        "title": "Transformers Explained: The Discovery That Changed AI Forever",
+        "vote": 0
+    }
+]
