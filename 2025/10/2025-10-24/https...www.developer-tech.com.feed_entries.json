@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T12:06:08.971893+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T11:46:12+00:00",
+        "description": "<p>Gaming giant Electronic Arts (EA) is teaming up with Stability AI to create generative AI models and tools that can be used for 3D asset creation. The rising cost and difficulty of making content is a major problem for large digital projects, like big-budget games and industrial digital twins. Because digital environments need better and [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/ea-partners-stability-ai-for-3d-asset-creation/\">EA partners with Stability AI for 3D asset creation</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3892452,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/ea-partners-stability-ai-for-3d-asset-creation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EA partners with Stability AI for 3D asset creation",
+        "vote": 0
+    }
+]

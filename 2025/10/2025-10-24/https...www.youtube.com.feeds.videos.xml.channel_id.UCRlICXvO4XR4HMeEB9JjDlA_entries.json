@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T19:14:26.435237+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T19:00:41+00:00",
+        "description": "The 1960s was a turbulent time in American history, with political assassinations, the Vietnam War and its counter-protests, and the Civil Rights movement.\n\nCointelpro was a counter-intelligence programme established the FBI to spy on Civil Rights leaders, and what J Edgar Hoover described as \u2018radical organisations\u2019. \n\nThey also saw cases of 3 men disappearing from Alcatraz, the kidnapping of Frank Sinatra Jnr, and murders committed by the Zodiac killer.",
+        "id": 3896118,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/cPS-KIoZLA8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cPS-KIoZLA8/hqdefault.jpg",
+        "title": "Peace and Love? Not on the FBI\u2019s watch!",
+        "vote": 0
+    }
+]

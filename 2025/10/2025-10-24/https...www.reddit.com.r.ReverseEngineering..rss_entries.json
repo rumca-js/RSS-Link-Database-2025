@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/chicagogamecollector",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T17:37:56.511110+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T17:07:06+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>will go to MAME soon as well but FPGA first as it aided in the people involved getting it to boot on non-PCB hardware </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/chicagogamecollector\"> /u/chicagogamecollector </a> <br/> <span><a href=\"https://youtu.be/6Y75aBix0IM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1of3dih/lost_sega_system_18_arcade_game_rom_reverse/\">[comments]</a></span>",
+        "id": 3894876,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1of3dih/lost_sega_system_18_arcade_game_rom_reverse",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Lost Sega System 18 arcade game rom reverse engineered for FPGA core release",
+        "vote": 0
+    }
+]

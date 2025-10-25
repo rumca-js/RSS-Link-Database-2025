@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Phil Nash & Timur Doumler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T12:04:39.076638+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T09:00:00+00:00",
+        "description": "Timur and Phil reflect on Phil and Timur. We share some personal updates as well as news from the community.\n        <h3>News</h3>\n<ul>\n<li><a href=\"https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust\">\"Why we didn't rewrite our feed handler in Rust\" - post from DataBento</a> </li>\n<li><a href=\"https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc\">\"C++ reflection (P2996) and moc\" - from Qt wiki</a></li>\n<li><a href=\"https://herbsutter.com/2025/10/13/poll-does-your-project-use-terminating-assertions-in-production/\">\"Poll: Does your project use terminating assertions in production?\" - from Herb's blog</a></li>\n</ul>\n<h3>Links</h3>\n<ul>\n<li><a href=\"https://cppcast.com/teaching_and_training_modern_cpp/\">Episode 376, with Rainer Grimm</a></li>\n<li><a href=\"https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/\">Final entry on Rainer's blog :-(</a></li>\n<li><a href=\"https://cppcast.com/holiday-special/\">Epsiode 350, with Timur and Phil</a></li>\n<li>ACCU C",
+        "id": 3892449,
+        "language": "en",
+        "link": "https://cppcast.com/reflecting_on_timur_and_phil",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 80,
+        "source_url": "https://cppcast.com/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Reflecting on Timur and Phil",
+        "vote": 0
+    }
+]

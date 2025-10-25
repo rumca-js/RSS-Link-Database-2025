@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T18:10:32.760291+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T17:01:23+00:00",
+        "description": "Watchmen is not only considered one of the best comic books ever written, but also one of the most important comics ever made.  But the journey of getting these beloved characters from page to screen was anything but easy.   \n\nWith DC Comics doing everything in their power to shut out original creators Alan Moore and Dave Gibbons, the path to more Watchmen projects was lined with broken promises and legal battles.  Which is how, at the end of the day, DC Comics basically stole the legacy of Watchmen and broke Alan Moore in the process. \n\n#watchmen #alanmoore #dccomics #comicbooks",
+        "id": 3895256,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tcBfaC-1iC0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tcBfaC-1iC0/hqdefault.jpg",
+        "title": "The Dark Truth Behind Watchmen",
+        "vote": 0
+    }
+]

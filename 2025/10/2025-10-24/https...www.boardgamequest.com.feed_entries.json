@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Victoria Stefanelli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T13:23:53.594115+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T12:53:58+00:00",
+        "description": "<img width=\"640\" height=\"641\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord-1022x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Saltfjord\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord-1022x1024.jpg 1022w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord-300x300.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord-150x150.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord-768x770.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord-640x641.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord-1280x1283.jpg 1280w, https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord.jpg 1500w\" sizes=\"(max-width: 640px) 100vw, 640px\" />On April 1, 2022, the All You Can Board Y",
+        "id": 3893073,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/saltfjord-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/09/Saltfjord-1022x1024.jpg",
+        "title": "Saltfjord Review",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T12:33:11.970320+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T12:17:12+00:00",
+        "description": "In this Techlore Talks episode, I sit down with @JoseBriones to explore whether dumb phones really offer better privacy and how digital minimalism can transform your relationship with technology. Jose breaks down practical strategies for reducing screen time, the importance of device segmentation, and why mindset, not just hardware, matters most. Whether you're considering a dumb phone or looking to reclaim your focus, this conversation will challenge how you think about your devices.\n\nTechlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources to protect your data and reclaim your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 https://josebriones.org/\n\u2022 https://www.dumbphones.org/\n\u2022 https://www.youtube.com/c/josebriones\n\u2022 Jose's interview of Henry: https://josebriones.substack.com/p/building-better-digital-habits\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://www.youtube.com/watch?v=oyQuwUJgPPY\n\n\u23f1\ufe0f TIMESTAMPS:\n00:00:00 INTRO\n00:01:24 DUMBPHONES + PRIVACY ",
+        "id": 3892745,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=k2V4kuOJMR4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k2V4kuOJMR4/hqdefault.jpg",
+        "title": "Dumb Phones & Privacy: Digital Minimalism with Jose Briones",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Boyle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T19:21:53.613318+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T18:45:07+00:00",
+        "description": "\ud83d\udd12 Get 20% off DeleteMe by going to https://joindeleteme.com/BOYLE and use code BOYLE to protect your privacy! \ud83d\ude4c\ud83c\udffb\n\nThe AI boom isn\u2019t just about algorithms \u2014 it\u2019s about money, power, and a race to build infrastructure on a scale we\u2019ve never seen before. In this video, we break down the circular deals between OpenAI, Nvidia, Amazon, Anthropic, and even Elon Musk\u2019s empire \u2014 and ask the hard questions: Who\u2019s paying for this? Where will the electricity come from? And is the industry building a M\u00f6bius strip of venture capital and gigawatts that could collapse under its own weight?\nWe\u2019ll explore:\n\nThe spaghetti diagram of AI\u2019s biggest players\nOpenAI\u2019s trillion-dollar data center ambitions\nWhy Nvidia\u2019s demand might not be what it seems\nThe risk of stranded assets and systemic leverage\nHow geopolitics and energy constraints could shape the future\n\nIf you want to understand the economics behind the hype \u2014 and why this might be the biggest corporate investment project in history \u2014 watch now.\n\nPat",
+        "id": 3896128,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NbL7yZCF-6Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 648,
+        "source_url": "https://youtube.com/channel/UCASM0cgfkJxQ1ICmRilfHLw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NbL7yZCF-6Q/hqdefault.jpg",
+        "title": "Is AI\u2019s Circular Financing Inflating a Bubble?",
+        "vote": 0
+    }
+]

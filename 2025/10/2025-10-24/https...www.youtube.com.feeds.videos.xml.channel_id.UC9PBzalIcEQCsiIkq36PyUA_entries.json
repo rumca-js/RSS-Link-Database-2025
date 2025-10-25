@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T14:04:31.746863+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T12:54:20+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nThe Outer Worlds 2 on PC isn't quite as solid technically as the Xbox versions of the game, proving to be particularly heavy on console-equivalent CPUs in particular. Alex looks at the usual stuff: menu quality, shader compilation/stutter issues, GPU performance and - of course - optimised settings. Suffice to say that using max settings on this one is a gigantic waste of your GPU's resources.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00:00 Introduction\n00:00:21 Shader Compilation + CPU Performance\n00:08:03 Optimised Settings\n00:18:02 Conclusion",
+        "id": 3893429,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bu89kJjXY34",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bu89kJjXY34/hqdefault.jpg",
+        "title": "The Outer Worlds 2 PC Review - Double Performance With Optimised Settings",
+        "vote": 0
+    }
+]

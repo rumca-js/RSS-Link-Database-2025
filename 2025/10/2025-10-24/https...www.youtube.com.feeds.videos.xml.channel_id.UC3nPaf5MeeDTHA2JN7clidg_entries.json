@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T18:09:21.009225+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T17:54:56+00:00",
+        "description": "Go to https://ground.news/Bellular for 40% off unlimited access with the Vantage Plan - the best deal of the year for my subscribers and only available for a limited time! Sponsored by Ground.\n\nConsumers and regulators are getting sick of predatory business practices in gaming. Action is just around the corner, and for the industries big players, that's an alarming prospect. \n\n00:00 - Why Europe's Gaming CEOs Are Breaking Their Silence\n02:59 - The New Rules That Change Everything\n05:27 - Six Months Later, The Industry Responds\n08:12 - What The EU Doesn't Understand About Gaming\n13:36 - The Part Where They've Got A Point\n17:12 - The Deadline Nobody's Ready For\n\nSources:\nhttps://www.digital-fairness-act.com/\n\nhttps://www.videogameseurope.eu/wp-content/uploads/2024/09/In-game-spending-by-children-parental-control-tools-2024-GameTrack-Survey.pdf\n\nhttps://ec.europa.eu/commission/presscorner/detail/en/ip_25_831\n\nhttps://commission.europa.eu/document/download/8af13e88-6540-436c-b137-9853e7fe",
+        "id": 3895254,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Exy8NW3r9mc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Exy8NW3r9mc/hqdefault.jpg",
+        "title": "The EU Wants To Kill Microtransactions. Corporate Gaming Is FURIOUS",
+        "vote": 0
+    }
+]

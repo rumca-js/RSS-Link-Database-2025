@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T14:38:18.120832+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T14:00:54+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Why do some radio towers blink?</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><div class=\"yt-embed\">\n.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }<div class=\"embed-container\"></div>\n</div>\n\n<p>One day on my drive home, I saw three towers. One of them had a bunch of blinking white lights, another one had red lights that kind of faded in and out, and the third one, well, it wasn't doing anything. I'm lucky to have a radio engineer for a dad, so Dad: <em>why do some towers blink?</em></p>\n\n<p>Joe: Well, blinking I would call like the way you described it, \"flashing\", \"white light\", or \"strobe\". All these lights are ",
+        "id": 3893641,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why do some radio towers blink?",
+        "vote": 0
+    }
+]

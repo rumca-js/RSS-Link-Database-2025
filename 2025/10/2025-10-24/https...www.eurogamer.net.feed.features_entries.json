@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Robert Purchese",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T13:20:19.175118+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T12:28:54+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Dean-Hall-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>\"There's jobs, there's careers and then there's obsessions, and for me, game development is an obsession. I don't think it's healthy at all, but I am a brush, I must paint. So for me, I've reached the natural end of my arc where I'm just entirely about making video games, and I'm obsessed with wanting to make them better.\"</p> <p><a href=\"https://www.eurogamer.net/dayz-creator-dean-hall-is-a-changed-man-after-years-of-living-the-high-life-hes-focused-on-saving-a-studio-that-flew-too-close-to-the-sun\">Read more</a></p>",
+        "id": 3893052,
+        "language": "en",
+        "link": "https://www.eurogamer.net/dayz-creator-dean-hall-is-a-changed-man-after-years-of-living-the-high-life-hes-focused-on-saving-a-studio-that-flew-too-close-to-the-sun",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Dean-Hall-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "DayZ creator Dean Hall is a changed man - after years of living the high life, he's focused on saving a studio that flew too close to the sun",
+        "vote": 0
+    }
+]

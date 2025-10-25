@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AsapSCIENCE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T17:48:51.568203+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T15:00:53+00:00",
+        "description": "Thanks to Nike for sponsoring this video! Today we're trying some of their wildest new tech: Project Amplify which powers your running and walking, Mind One which calms your mind, Air Milano which adapts and regulates temperature and Aero-FIT which is fully recycled material but performs better than other high performance jersey's.\n\nNike asked me to come to their headquarters and meet with their engineers, designers and scientists to see the innovation and science behind some of their new sportswear. Project Amplify is the first powered shoe designed for running and walking and such an interesting experience to try! Mind One and Mind Two use haptic stimulation of the feet in order to stimulate parts of the brain associating with feeling calm and focused. Aero-FIT is a material made out of waste that has been turned into a high performance yarn, and Nike Air Milano will be launched at this coming Winter Olympics for Team USA - it's a jacket that uses the properties of inflatable air po",
+        "id": 3895093,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Nz2Y0e7SgFY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 22,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Nz2Y0e7SgFY/hqdefault.jpg",
+        "title": "The Future Of Walking",
+        "vote": 0
+    }
+]

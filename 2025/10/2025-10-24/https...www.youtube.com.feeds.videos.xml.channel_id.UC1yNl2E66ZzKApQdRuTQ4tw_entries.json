@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T22:56:37.575671+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T22:01:14+00:00",
+        "description": "Check out courses in your favorite subjects on Brilliant! Start learning for free at https://brilliant.org/sabine/ and get 20% off a premium subscription, which includes daily unlimited access!\n\nIt\u2019s becoming increasingly normal for people to converse with AI chatbots like they would with a human friend. Some people have developed close relationships with AI bots, and think they\u2019ve \u201cawakened\u201d their AI partners into sentience. They have developed an entirely new pseudoscientific theory for this, which is based on five dimensional scalar resonances. Most amazingly, some of these AI prompts have been spread by humans across different platforms, leading to a \u201cnatural selection\u201d of AI personas. \n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.c",
+        "id": 3897559,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wm642z2048c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wm642z2048c/hqdefault.jpg",
+        "title": "Beware the New AI Pseudoscience.",
+        "vote": 0
+    }
+]

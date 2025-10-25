@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T18:05:30.121407+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T17:01:17+00:00",
+        "description": "A recent interview with Adam Driver revealed they had plans in the works for a Kylo Ren movie titled The Hunt For Ben Solo, somehow bringing the character back from the dead. Kathleen Kennedy and Lucasfilm even approved it before Disney axed the whole project. And for once, they probably made a good decision.",
+        "id": 3895247,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=sgcSyVW8OYk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sgcSyVW8OYk/hqdefault.jpg",
+        "title": "Disney Killed The Kylo Ren Movie (And That's A Good Thing)",
+        "vote": 0
+    }
+]

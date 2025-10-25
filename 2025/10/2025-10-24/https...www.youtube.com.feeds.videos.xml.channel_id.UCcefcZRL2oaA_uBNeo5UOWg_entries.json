@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T19:12:09.687557+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T18:59:20+00:00",
+        "description": "Some of the biggest breakthroughs, like OpenAI and SpaceX, started as ideas most people thought were impossible.\n\nBut the best founders stay contrarian long enough to be right, learning from criticism but staying true to their convictions and users who believe in the same vision.",
+        "id": 3896109,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/5uf_ofgv0UE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5uf_ofgv0UE/hqdefault.jpg",
+        "title": "The Hard Part About Being Contrarian",
+        "vote": 0
+    }
+]

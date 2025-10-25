@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "minutephysics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T18:58:39.014053+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T18:38:40+00:00",
+        "description": "Download Opera for free: https://opr.as/Opera-browser-minutephysics\n\nSupport MinutePhysics on Patreon! http://www.patreon.com/minutephysics\r\n\nIf you wander outside on a misty morning you may come across a white rainbow - called a fogbow! White rainbows need three things to form: mist, the sun, and you. White rainbows are the same as regular rainbows, except they only form when the water drops in the air are super small. To find a white rainbow, go out when the Sun is low in the sky, like in the morning or evening. You want the Sun to be behind you so that a ~40 degree angle from the droplet to you and the sun is achievable. You'll need to be in a very thin fog, thin enough that the sun shines through but thick enough to reflect the sun's light back. Look away from the sun (the same way you do with a regular rainbow).  \n\nREFERENCES:\nMie theory, Airy theory, and the natural rainbow - https://opg.optica.org/ao/abstract.cfm?uri=AO-37-9-1506 \nPhysically-based simulation of rainbows - https",
+        "id": 3896036,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OEQeSrXy-YA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 857,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OEQeSrXy-YA/hqdefault.jpg",
+        "title": "The Physics of Fogbows",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T14:31:44.689900+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T14:01:49+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nMove Slow and Break Things - Upgrading to C++26 - Alisdair Meredith - ACCU 2025\n---\n\nOne of the principles that has significantly contributed to the successful evolution of C++ over many years is the goal of full backward compatibility and support for existing code written, compiled, and distributed with earlier versions of the language. The commitment to preserving not just source compatibility, but also ABI (binary) compatibility is strong. However, as the language evolves and accumulates new features, we can reveal issues with existing features, and we wish to remove harmful or misleading behavior or to reduce the complexity of growing redundancy.\n\nThe C++ Standard has adopted a process to advertise that we would like to remove or change a feature in some future Standard, allowing developers to adapt to such revised rules and to update their code at a time of their choosing, rather than as a cost of updating to the latest Standard.",
+        "id": 3893625,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xWH1BCeyo3Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xWH1BCeyo3Q/hqdefault.jpg",
+        "title": "Move Slow and Break Things - Upgrading to C++26 - Alisdair Meredith - ACCU 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Meeting C++",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T15:34:30.425802+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T15:23:21+00:00",
+        "description": "<p>\n\tWhile preparing a talk for Meeting C++ 2025 I&#39;ve started looking into binary trees. And got curious about a different design choice.</p>\n<blockquote>\n\t<h2>\n\t\t<a href=\"https://meetingcpp.com/blog/items/Looking-at-binary-trees-in-Cpp.html\">Looking at binary trees in C++</a></h2>\n</blockquote>\n<p>\n\tby Jens Weller</p>\n<blockquote>\n\t<p>\n\t\tFrom the article:</p>\n\t<p>\n\t\tI&#39;m in the process of preparing a quick talk on trees in C++ for Meeting C++ 2025. In order to see what the web offers, I&#39;ve searched exactly for this, \"trees in C++\".</p>\n\t<p>\n\t\tThis showed that most posts found by duckduckgo or google were about binary trees, and in particular the same or similar implementation of using raw pointers for the left/right elements in the tree. Including using new to allocate for the nodes, only some times the code also bothers with using delete. The basic node class looks like this:</p>\n\t<p>\n\t\t&nbsp;</p>\n</blockquote>",
+        "id": 3894048,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/10/looking-at-binary-trees-in-cpp",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Looking at binary trees in C++",
+        "vote": 0
+    }
+]

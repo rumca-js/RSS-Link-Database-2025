@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vsauce",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T21:54:21.836001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T20:27:43+00:00",
+        "description": "(you also get two other slap bracelets in this season's box: one's a ruler and the other is a \u03c0 tape). https://www.curiositybox.com/\n\nALL SONGS BY JAKE CHUDNOW:\n0:00 - 0:13 \"Half A Dozen Bullets\"\n0:15 - 0:47 \"Towers and Tourists\"\n0:40 - 1:00 \"Sunday July 20th (Instrumental)\n1:00 - end \"It's Good To Be D\"",
+        "id": 3897113,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/tgyZwxPHdgY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 383,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tgyZwxPHdgY/hqdefault.jpg",
+        "title": "I Made A Slap Bracelet For Time Travelers",
+        "vote": 0
+    }
+]

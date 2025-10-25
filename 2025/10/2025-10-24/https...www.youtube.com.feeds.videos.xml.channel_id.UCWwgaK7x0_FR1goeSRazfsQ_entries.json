@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T08:08:00.824397+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T08:01:37+00:00",
+        "description": "Smarter conversations. Seamless control.\nWith Samsung Vision AI Companion, your TV becomes more than a screen \u2014 it\u2019s your everyday helper. \ud83d\udcac\n\n\ud83d\udc49 To start:\n1\ufe0f\u20e3   Press the AI button on the remote.\n2\ufe0f\u20e3   Ask your companion anything \u2014 from what\u2019s on your mind to what\u2019s on your screen.\n3\ufe0f\u20e3   Watch as Samsung Vision AI Companion brings answers, ideas, and entertainment right to your living room. \ud83c\udf1f\n\nThat\u2019s the power of Samsung Vision AI Companion \u2014 simplifying, enhancing, and empowering your day. \ud83d\ude80\n\n#VisionAICompanion #SamsungVisionAI #VisionAI #SamsungAITV #AITV",
+        "id": 3891055,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DUyropoiUGQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DUyropoiUGQ/hqdefault.jpg",
+        "title": "How to use Samsung Vision AI Companion",
+        "vote": 0
+    }
+]

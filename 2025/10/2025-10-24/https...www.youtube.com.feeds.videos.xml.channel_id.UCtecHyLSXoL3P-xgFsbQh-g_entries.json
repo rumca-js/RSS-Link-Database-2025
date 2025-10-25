@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T17:43:52.174633+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T17:11:23+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nKafka to film, kt\u00f3ry przez 30 minut wydaje si\u0119 niesamowit\u0105, symboliczn\u0105 w\u0119dr\u00f3wk\u0105 przez artystyczne mistrzostwo. A wszystko po to, aby potem przerodzi\u0107 si\u0119 w trudn\u0105 do strawienia, scenariuszow\u0105 papk\u0119. Jaki jest Kafka Agnieszki Holland? Zapraszam na recenzj\u0119!",
+        "id": 3895040,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=VCTHm9NqVGo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VCTHm9NqVGo/hqdefault.jpg",
+        "title": "Totalna pora\u017cka Agnieszki Holland",
+        "vote": 0
+    }
+]

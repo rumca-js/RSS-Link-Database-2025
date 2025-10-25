@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-24T12:32:19.735845+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-24T11:25:15+00:00",
+        "description": "M5Stack has introduced the PowerHub, a compact IoT controller designed for distributed power and device management. The ESP32-based PowerHub is described as providing a stable and flexible control platform that integrates communication interfaces, modular power input options, and precise monitoring capabilities. The PowerHub is built around the ESP32-S3-WROOM-1U-N16R8 module featuring a dual-core Xtensa LX7 processor [&#8230;]",
+        "id": 3892740,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stack-powerhub-iot-development-kit-integrates-esp32-s3-and-stm32-coprocessor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5Stack PowerHub IoT Development Kit Integrates ESP32-S3 and STM32 Coprocessor",
+        "vote": 0
+    }
+]
