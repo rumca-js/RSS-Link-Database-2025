@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T14:26:14.245295+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T14:05:13+00:00",
+        "description": "Ubuntu 25.10 dropped the battle tested GNU Core Utils, in favor of the untested, incomplete \"uutils\". Why? Because they were programmed in Rust. And, as expected, things are breaking.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3900978,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=e3JqErfYGWk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e3JqErfYGWk/hqdefault.jpg",
+        "title": "Rust Clone of Core Utils Breaks Ubuntu Updates",
+        "vote": 0
+    }
+]

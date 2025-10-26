@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T15:36:29.273825+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T14:57:41+00:00",
+        "description": "In this video, we\u2019re diving into docked mode performance on the all-new ROG Xbox Ally X powered by the AMD Ryzen Z2 Extreme. I\u2019ll show you how to unlock the handheld\u2019s full potential by running a sustained 45-watt TDP, boosting both CPU and GPU performance while plugged in.\nWe\u2019ll walk through settings in Armoury Crate, VRAM tweaks, fan curve tuning, and even using Universal x86 Tuning Utility to sustain high-power performance. Then we\u2019ll benchmark a full lineup of games including Cyberpunk 2077, Spider-Man 2, Mortal Kombat 1, Forza Horizon 5, and Red Dead Redemption 2, all at 1080p.\nIf you\u2019ve been wondering how much more performance the ROG Xbox Ally X can deliver in docked mode, this is the video you\u2019ve been waiting for. #ROGXboxAllyX #HandheldGaming #DockedMode #etaprime \n\nRog Xbox Ally On Amazon: https://amzn.to/4nS3YcX\nBuy The ROG Xbox Ally X AT Best Buy: https://bestbuycreators.7tiv.net/DyvWPj\n\n\ud83d\udc49 Chapters:\n00:00 Intro\n01:25 Docked Mode Explained\n03:15 Armoury Crate Power Settings",
+        "id": 3901593,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6zOaaYqXk50",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6zOaaYqXk50/hqdefault.jpg",
+        "title": "ROG XBOX ALLY X Docked Mode BOOST! Unlock MAX Performance at 45W",
+        "vote": 0
+    }
+]

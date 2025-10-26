@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Huizenga",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T14:54:40.253689+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T08:18:27+00:00",
+        "description": "For a century, the tiny Coolidge Auditorium, at the Library of Congress, has been a wellspring of cultural integrity, innovative music and American ingenuity. (And free concerts.)",
+        "id": 3901403,
+        "language": "en",
+        "link": "https://www.npr.org/2025/10/25/nx-s1-5546760/library-of-congress-coolidge-auditorium",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F36%2F6df1368f4e529bb221c1ca0659dc%2Fdali-quartet-jpg-fix.jpg",
+        "title": "One of music's best kept secrets celebrates 100 years, quietly",
+        "vote": 0
+    }
+]

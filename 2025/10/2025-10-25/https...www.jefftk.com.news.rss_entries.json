@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T13:53:28.181590+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T08:00:00+00:00",
+        "description": "<p><span>\n    \nI help organize a contra dance in a crowded dance hall, and we've </span>\n\n<a href=\"https://blog.bidadance.org/2025/08/trialing-far-uvc-and-glycol-vapors.html\">been\nconsidering</a> using far UVC to clean the air, reducing infection\nrisk from COVID, flu, and other airborne pathogens.  We recently polled the\ngroup, and far UVC was \n\n<a href=\"https://blog.bidadance.org/2025/10/2025-infection-reduction-survey-results.html\">very\npopular</a>, so I think it's likely we'll roll it out.  But how should\nwe position the lights?\n\n\n\n<p>\n\nWhen I <a href=\"https://www.jefftk.com/p/alternatives-to-masks-for-infectious-aerosols\">first\nlooked into this</a>, with help from UV researcher Vivian Belenky at\nthe <a href=\"https://www.crr.columbia.edu\">Columbia Center for\nRadiological Research</a>, they used the <a href=\"https://illuminate.osluv.org/\">OSLUV modeling tool</a> to estimate\nthe efficacy of four lamps on portable 10ft stands, one in each\ncorner.  As I started looking into the logisti",
+        "id": 3900840,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/assessing-far-uvc-positioning",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/four-corners-222nm.png",
+        "title": "Assessing Far UVC Positioning",
+        "vote": 0
+    }
+]

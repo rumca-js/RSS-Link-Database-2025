@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T11:28:39.245410+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T11:00:57+00:00",
+        "description": "Ready to become a certified Certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbcYm\n\nLearn more about Shadow AI here \u2192 https://ibm.biz/BdbcYK\n\nDon\u2019t say no, say how! Jeff Crume explains how blocking Shadow AI, BYOD, and cloud tools drives risky behaviors underground, leading to costly data breaches. Discover proactive strategies like vetted alternatives and risk assessments to protect your organization. \ud83d\udd12\u2728\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/BdbcYa\n\n#cybersecurity #byod #riskmanagement",
+        "id": 3900372,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=U9Ckc3MecvA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U9Ckc3MecvA/hqdefault.jpg",
+        "title": "Don\u2019t Say No, Say How: Shadow AI, BYOD, & Cybersecurity Risks",
+        "vote": 0
+    }
+]

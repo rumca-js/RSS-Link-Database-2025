@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T13:53:13.472564+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T13:17:07+00:00",
+        "description": "Hackers earned over $1 million at Pwn2Own Ireland 2025 in Cork, breaching printers, routers, NAS devices, and more as Summoning Team claimed Master of Pwn.",
+        "id": 3900837,
+        "language": "en-US",
+        "link": "https://hackread.com/pwn2own-ireland-2025-hacks-winners-payouts",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pwn2Own Ireland 2025: The Hacks, The Winners, and The Big Payouts",
+        "vote": 0
+    }
+]

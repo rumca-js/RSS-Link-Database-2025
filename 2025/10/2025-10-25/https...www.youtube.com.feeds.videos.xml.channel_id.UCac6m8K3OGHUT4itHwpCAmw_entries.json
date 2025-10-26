@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lost in Time",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T14:18:09.958374+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T14:01:00+00:00",
+        "description": "Try Opera yourself: https://opr.as/Opera-browser-lostintimevids\n\nI have made 3d animations of Leonardo da Vinci's most impressive inventions, and collected them in this video for you. We go through everything from his Aerial Screw (known as the first drawings of a helicopter) to his mechanical knight. It's incredible what this man could imagine all the way back in the renaissance.\n\nTimestamps:\n00:00 Intro\n01:41 The Aerial Screw (Helicopter)\n04:41 Leonardo da Vinci's Parachute\n08:10 The 1400s Tank\n09:39 The Giant Crossbow\n11:10 The First Ever Diving Suit\n13:31 The Mechanical Knight (Robot)\n\nSources:\nhttps://nicofranz.art/en/leonardo-da-vinci/inventions\nhttps://www.youtube.com/watch?v=QR32yIUjfc0\nhttps://www.youtube.com/watch?v=NPoV_vnidhw\nhttps://www.youtube.com/watch?v=7l8HyWK6v7E\nhttps://www.youtube.com/watch?v=v7wbqSPuxD4\nhttps://vfs.umd.edu/assets/downloads/2020_elico_exec_summary.pdf\nhttps://aero.umd.edu/news/story/a-new-spin-on-a-classic-da-vinci-design\nhttps://youtu.be/nFKtsHKIy",
+        "id": 3900966,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Sm84wLGZbjA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 435,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCac6m8K3OGHUT4itHwpCAmw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sm84wLGZbjA/hqdefault.jpg",
+        "title": "Leonardo da Vinci's GENIUS Inventions",
+        "vote": 0
+    }
+]

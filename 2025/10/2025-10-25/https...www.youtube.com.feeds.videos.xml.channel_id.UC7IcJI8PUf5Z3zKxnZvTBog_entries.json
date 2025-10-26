@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The School of Life",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T14:20:34.717421+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T13:01:54+00:00",
+        "description": "Emotional Intelligence, Daily. Start now: https://www.theschooloflife.com/subscription/ \n\nGet weekly insights for better relationships, deeper self-knowledge, and inner calm straight to your inbox: https://www.theschooloflife.com/signup/",
+        "id": 3900971,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/wqlYvbeb4zQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 353,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7IcJI8PUf5Z3zKxnZvTBog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wqlYvbeb4zQ/hqdefault.jpg",
+        "title": "Why You Will Never Find The Right Person",
+        "vote": 0
+    }
+]

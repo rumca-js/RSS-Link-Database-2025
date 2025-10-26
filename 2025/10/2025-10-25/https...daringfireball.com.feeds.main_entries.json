@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T22:33:59.697869+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T22:18:42+00:00",
+        "description": "<p>Katie Notopoulos, writing at Business Insider:</p>\n\n<blockquote>\n  <p>There are really two separate issues at hand: Should users be allowed to make fetish content of <em>any</em> woman who is stupid enough (like me) to allow anyone to make cameos of her? And how do you stop people from making fetish content of purely AI-generated characters that aren\u2019t cameos of real people? Does OpenAI want to stop that? Maybe OpenAI thinks it\u2019s fine for people to make belly-flation or foot-fetish videos as long as they\u2019re not of a real person.</p>\n\n<p>For now, I keep going back to a thought I had early on while scrolling <a href=\"https://www.businessinsider.com/sora-videos-openai-content-moderation-celebrities-teens-boys-girls-2025-10\">Sora: There\u2019s hardly any women on here</a>, and it\u2019s no wonder why. Women innately understand the risk of letting anyone make videos with their faces\u2009\u2014\u2009the likelihood of something being creepy is extremely high. These fetish videos are kind of goofy\u2009\u2014\u2009I have to adm",
+        "id": 3903780,
+        "language": "",
+        "link": "https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sora Has a Pervert Problem",
+        "vote": 0
+    }
+]

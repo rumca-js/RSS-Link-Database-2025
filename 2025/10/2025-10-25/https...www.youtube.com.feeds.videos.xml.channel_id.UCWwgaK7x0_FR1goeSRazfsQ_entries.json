@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T09:28:03.893303+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T09:00:30+00:00",
+        "description": "Art, movies, tech, lifestyle \n\u2014 Samsung Art TV lets you pick your vibe \u2728\nNow it\u2019s your call: This or That? \ud83e\udd14\n\n#SamsungArtTV #SamsungArtStore #ArtBasel \n#TheFrame #FrameTV #NeoQLED #MICRORGB #QLED",
+        "id": 3899783,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/GR16jXGuNAo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GR16jXGuNAo/hqdefault.jpg",
+        "title": "Pick Your Vibe | Samsung",
+        "vote": 0
+    }
+]

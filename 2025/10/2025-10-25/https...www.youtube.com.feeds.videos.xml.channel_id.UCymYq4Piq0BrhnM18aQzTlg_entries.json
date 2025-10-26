@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T23:52:59.987578+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T22:45:04+00:00",
+        "description": "Buy one on Amazon: https://lon.tv/liqkg (compensated affiliate link) - The Gen 2 ADTH TV box claims it can decrypt DRM content without an Internet connection, but it will need the Internet to get access to DVR features. See more ATSC 3 Tuner reviews - https://www.youtube.com/playlist?list=PLCZHp4d1HnItrNhXon_xcr_kpgLM57j3D and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:15 - ports\n01:55 - First boot\n03:08 - Initial Settings\n04:11 - Remote\n04:29 - Unconnected DRM Channel Playback demo\n05:21 - HDR issues\n08:00 - The mystery of playing back recordings\n10:35 - Locked up!\n11:53 - DVR finally Working! \n12:56 - Android security dangerously out of date\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/amazonshop\n\nJoin the Facebook group to c",
+        "id": 3904061,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TLopQBiAwKk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TLopQBiAwKk/hqdefault.jpg",
+        "title": "The ADTH Gen 2 ATSC 3 / Nextgen TV Box Is Still a Mess...",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T08:31:33.262972+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T08:19:08+00:00",
+        "description": "Grab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps\n00:00 Intro\n00:44 Progress on Linux apps running on Android\n03:18 KDE Plasma 6.5 released\n06:00 Xubuntu download hacked over the weekend\n07:57 Zorin OS 18 gets big download numbers\n10:14 Fedora approves AI policy\n13:03 Ubuntu 25.10 has rust coreutils bugs\n14:58 GIMP now has an official Snap\n16:54 OpenAI launches Atlas, their ChatGPT powered browser\n19:42 Ai browsers pose additional security risks\n21:26 BBC study finds AI assistan",
+        "id": 3899565,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Lxa86z9vtw4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Lxa86z9vtw4/hqdefault.jpg",
+        "title": "Full Linux apps on Android, Plasma 6.5, Zorin OS does big numbers - Linux Weekly News",
+        "vote": 0
+    }
+]

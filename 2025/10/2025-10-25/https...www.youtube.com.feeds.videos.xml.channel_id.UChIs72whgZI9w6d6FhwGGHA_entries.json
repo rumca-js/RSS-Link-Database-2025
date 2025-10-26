@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T20:43:52.750843+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T19:21:23+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nThis review of the HAVN BF 360 Flow case analyzes its thermal performance in noise-normalized scenarios, full speed scenarios, and then looks at fan flow performance. We also added smoke testing back in due to popular demand from viewers, though we talk about some shortcomings with smoke flow testing. The HAVN BF 360 follows-up the company's HS 420 that we previously reviewed and feels like a direct competitor for the Fractal Torrent that has won our 'Best Case' award several times. We'll soon have testing for the HYTE X50 case soon as well.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\nGrab a GN PC Building Anti-Static Modmat on the store! https://store.gamersnexus.net/products/large-modmat-gn15-anniversary\nOr one of our project & soldering mats! https://store.gamersnexus.net/products/gn-project-soldering-mat\n\nLike our content? Please consider becoming our Patron to support ",
+        "id": 3903165,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-wIP4Q9PdY0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-wIP4Q9PdY0/hqdefault.jpg",
+        "title": "HAVN BF 360 Flow Case Review: Thermals, Fan Benchmarks, Smoke Testing, & Build Quality",
+        "vote": 0
+    }
+]

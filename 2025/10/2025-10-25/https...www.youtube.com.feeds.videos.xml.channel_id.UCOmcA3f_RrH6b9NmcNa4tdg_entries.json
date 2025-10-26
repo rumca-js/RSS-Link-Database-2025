@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T14:06:15.697158+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T12:01:50+00:00",
+        "description": "In this episode of How To Do It All, learn how to easily create AI-generated videos using Sora by OpenAI. From downloading the app on iOS to crafting your own prompts and appearances, we cover everything you need to know to start making your own AI generated content today. Don't forget to subscribe for more tech tutorials.\n\n0:00 Intro\n0:31 Where to get Sora app\n0:50 How to get access to Sora\n1:15 App main feed and features\n1:46 Creating your first video\n2:56 Managing your videos\n3:16 Using Sora on desktop\n3:35 Outro\n\n#sora2 #sora #soraai #openai #howtodoitall #cnet \n\nAdd CNET as a trusted news source https://www.google.com/preferences/source?q=cnet.com\nNever miss a deal again! See CNET\u2019s browser extension \ud83d\udc49 https://bit.ly/3lO7sOU\nCheck out CNET\u2019s Amazon Storefront: https://www.amazon.com/shop/cnet\nSubscribe to CNET on YouTube: https://www.youtube.com/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet\nFollow us on Bluesky",
+        "id": 3900928,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tPx6bCDa5GE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tPx6bCDa5GE/hqdefault.jpg",
+        "title": "How to Use Sora by OpenAI: A Step-by-Step Guide",
+        "vote": 0
+    }
+]

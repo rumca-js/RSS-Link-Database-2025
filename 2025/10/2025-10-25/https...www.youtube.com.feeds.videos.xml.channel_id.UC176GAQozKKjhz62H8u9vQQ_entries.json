@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Real Science",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T14:05:16.622286+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T13:01:50+00:00",
+        "description": "To get 20% off an annual premium subscription to Brilliant, go to https://brilliant.org/realscience/\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/realscience-how-this-frog-broke-the-world\n\nThanks to Understanding Animal Research for their footage of Xenopus laevis!\n\nwww.UnderstandingAnimalResearch.org.uk\n\nMy socials:\nPatreon: https://www.patreon.com/realscience\nInstagram: https://www.instagram.com/stephaniesammann\n\nImages Courtesy of Getty Images\n\nThanks to our Patreon Supporters:\nEric Ypsilantis\n\nREFERENCES:\n[1] https://www.researchgate.net/publication/12554367_The_introduction_of_Xenopus_laevis_into_developmental_biology_Of_empire_pregnancy_testing_and_ribosomal_genes\n[2] https://www.sciencehistory.org/stories/magazine/the-birds-the-bees-and-the-froggies/\n[3] https://pmc.ncbi.nlm.nih.gov/articles/PMC1657362/\n[4] https://www.cell.com/current-biology/fulltext/S0960-9822(10)00015-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982210000151%3F",
+        "id": 3900926,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uGCaL_Ge6tg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 859,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uGCaL_Ge6tg/hqdefault.jpg",
+        "title": "How This Frog Broke the World",
+        "vote": 0
+    }
+]

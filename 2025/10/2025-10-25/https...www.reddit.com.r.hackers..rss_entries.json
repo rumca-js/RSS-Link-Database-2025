@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Beef-Ghost",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T00:21:55.299624+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T00:16:33+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I couldn&#39;t find much relevant information to this question online, I&#39;m attempting to figure out how someone is accessing my accounts. So far they&#39;ve accessed my Telegram and Instagram as far as I know, possibly more as I&#39;m not being notified of any logins or access. I&#39;ve only known about the intrusions so far due to friends letting me know they were sent a crypto scam from my accounts. I had no password set for my Telegram, and I will accept full responsibility that it was a dumb ass thing to forget, and have been resetting all of my passwords to unique ones and setting up 2FA on everything I possibly can. My question is, how might they be gaining access to these accounts? I&#39;ve heard of sim swapping, but from what information I&#39;ve been able to glean, that would have given them access to many of my accounts? I&#39;m trying to figure out why only THESE 2, Instagram and Telegram, have been accessed.</p> </div><!-- SC_ON --> &#",
+        "id": 3898020,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1ofdnvx/need_advice_on_determining_how_my_accounts_were",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Need advice on determining how my accounts were accessed?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elisa Carollo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T13:53:20.040532+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T12:00:12+00:00",
+        "description": "Installing 'Magic Grasshopper' in Times Square\u2014perhaps the ultimate emblem of America\u2019s promise of prosperity through consumerism\u2014only sharpens its edge.",
+        "id": 3900839,
+        "language": "en",
+        "link": "https://observer.com/2025/10/artist-interview-yvette-mayorga-magic-grasshopper-times-square",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "In Times Square, Yvette Mayorga\u2019s Candy-Pink Carriage Confronts the American Dream Beyond Its Sparkle",
+        "vote": 0
+    }
+]

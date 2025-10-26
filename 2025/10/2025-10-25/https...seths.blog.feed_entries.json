@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T10:23:46.756972+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T09:03:00+00:00",
+        "description": "It&#8217;s possible to consider the next event in our lives as something the world is trying to teach us. But it might be even more effective to realize that, whenever we choose, we can learn something from what&#8217;s going on. We&#8217;re not getting taught, we&#8217;re choosing to learn. There&#8217;s a lesson in every interaction, if [&#8230;]",
+        "id": 3900031,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/what-the-world-teaches-us",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What the world teaches us",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T18:07:10.660509+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T17:51:10+00:00",
+        "description": "I used a new colorization technique, restored and created a sound design for this Rare footage of Paris in the early 1930s. Wander the grand boulevards with bustling traffic and elegant Parisians, admire iconic landmarks like the Eiffel Tower and Arc de Triomphe, and experience daily life at markets and caf\u00e9s. Enjoy parades, festivals, and military processions, catch glimpses of artists, fashion, and Montmartre\u2019s charm, and soak in the vibrant nightlife with illuminated cabarets and bustling streets.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound design only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nB&W Video Source from:  National Arc",
+        "id": 3902378,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5ZV9ZeN5wjg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5ZV9ZeN5wjg/hqdefault.jpg",
+        "title": "A Day in Old Paris 1930s in Color [60fps, Remastered] w/ Sound Design Added",
+        "vote": 0
+    }
+]

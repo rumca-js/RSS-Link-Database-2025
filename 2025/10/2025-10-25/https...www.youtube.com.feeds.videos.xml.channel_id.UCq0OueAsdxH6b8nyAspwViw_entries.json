@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Universal Pictures",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-25T20:25:30.121278+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-25T19:00:45+00:00",
+        "description": "After a series of strange events, OJ Haywood (Daniel Kaluuya) makes a terrifying discovery: the flying object hovering over his ranch is not a ship but a living, territorial creature. \n\nFilm Synopsis:\nOscar\u00ae-winning filmmaker Jordan Peele reimagines the summer movie with Nope, an expansive pop epic of uncanny science fiction. Following their father's shocking death, Hollywood animal wrangler OJ (Daniel Kaluuya) and his sister Emerald (Keke Palmer) begin observing unexplained phenomena on their vast Southern California ranch that leads them down an obsessive rabbit hole as they plot attempts to capture the mystery on camera. Along with a former child star turned family theme park ringmaster (Steven Yeun) who neighbors the siblings, the pair's efforts to chase the spectacle soon bring terrifying consequences and unimaginable horror. The result is a complex social thriller that unpacks the seeds of violence, risk and opportunism that are inseparable from the romanticized history of the A",
+        "id": 3903108,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lEtuKp3xV4Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 598,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lEtuKp3xV4Y/hqdefault.jpg",
+        "title": "Nope | The House is About to Be Eaten!",
+        "vote": 0
+    }
+]
