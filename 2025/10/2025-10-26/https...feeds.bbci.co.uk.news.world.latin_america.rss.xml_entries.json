@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T11:20:04.532021+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T10:28:16+00:00",
+        "description": "The rare highest-strength storm is set to hit Jamaica by Tuesday, having already caused two deaths in Haiti.",
+        "id": 3906277,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/ckgkqvxkzx0o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5495/live/d64d2010-b24d-11f0-8540-d5ae50474cc1.jpg",
+        "title": "Hurricane Melissa strengthens as it barrels towards Jamaica",
+        "vote": 0
+    }
+]

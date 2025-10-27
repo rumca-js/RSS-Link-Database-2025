@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T01:52:29.522447+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T01:20:29+00:00",
+        "description": "Radxa has rolled out the Dragon Q6A, a compact single-board computer built on Qualcomm&#8217;s QCS6490 octa-core platform. Designed for industrial, IoT, and edge computing environments, the board combines high-performance CPU and GPU cores with integrated AI acceleration, multiple display interfaces, and flexible storage options. Similar to the RUBIK Pi 3, the Dragon Q6A integrates an [&#8230;]",
+        "id": 3904454,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/radxa-rolls-out-dragon-q6a-featuring-qualcomm-qcs6490-12-tops-npu-and-6th-gen-ai-engine",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radxa Rolls Out Dragon Q6A Featuring Qualcomm QCS6490, 12 TOPS NPU, and 6th-Gen AI Engine",
+        "vote": 0
+    }
+]

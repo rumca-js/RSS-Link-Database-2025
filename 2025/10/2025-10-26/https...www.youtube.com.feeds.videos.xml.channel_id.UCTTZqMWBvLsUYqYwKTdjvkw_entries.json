@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T17:55:27.558012+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T17:01:01+00:00",
+        "description": "\ud83d\udd32\u00a0Na minionej konferencji ACM, badacze z kilku ameryka\u0144skich uniwersytet\u00f3w, zaprezentowali bardzo ciekawy atak na telefony z Androidem. I to ciekawy podw\u00f3jnie. Po pierwsze dlatego, \u017ce to w sumie ca\u0142kiem nowa klasa atak\u00f3w, z kt\u00f3rymi wcze\u015bniej w tej formie w zasadzie nie mieli\u015bmy do czynienia. Po drugie jego konsekwencje mog\u0105\u00a0by\u0107\u00a0bardzo powa\u017cne, bo jest w stanie ujawnia\u0107\u00a0tak nasze wiadomo\u015bci, has\u0142a, jak i kody jednorazowe do uwierzytelniania dwuetapowego. Og\u00f3lnie - wszystko, co wy\u015bwietlamy na ekranie swojego telefonu. Tylko czy wilko\u0142ak rzeczywi\u015bcie jest tak straszny, jak go maluj\u0105?\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udd3a\u00a0Pixnapping Attack\nhttps://www.pixnapping.com/\n \nRelevant xkcd: https://xkcd.com/1416/\n \n\u00a9 Wszystkie znaki handlowe nale\u017c\u0105 do ich prawowitych w\u0142a\u015bcicieli.\n\u2764\ufe0f Dzi\u0119kuj\u0119 za Wasz\u0105 uwag\u0119.\n \nZnajdziecie mnie r\u00f3wnie\u017c na:\nInstagramie @mateuszemsi https://www.instagram.com/mateuszemsi/ \nTwixxerze @MateuszChrobok https://twitter.com/MateuszChrobok \nMastodonie https://infosec.exchange/@mateuszchrobok \nLinked",
+        "id": 3908491,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=brqoLBMEUI0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/brqoLBMEUI0/hqdefault.jpg",
+        "title": "Androidom wyciekaj\u0105\u00a0has\u0142a? No nie do ko\u0144ca.",
+        "vote": 0
+    }
+]

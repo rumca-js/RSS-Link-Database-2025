@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T02:33:51.751830+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T01:11:49+00:00",
+        "description": "Did they ever fix it? \ud83e\udd14\n\nA couple months ago there was a ton of reports and talk about a Windows update (KB5063878) that supposedly was causing, or at least associated with, SSDs failing. Everyone was pointing fingers, with Microsoft saying they couldn't reproduce it, same for SSD manufacturers. But anecdotally, there was a lot of credible stories about problems that started immediately after the update. But things seem to have calmed down, so was it fixed? What happened? Well there's no single cut and dry explanation. Microsoft never admitted there was an issue with the update, but in this video I talk about why there's reason to believe there was, and that they eventually fixed it in the next update. But it might not have been the direct cause, and in many cases user's SSDs failing had absolutely nothing to do with the update in any case. So I go over several other possible causes and fixes.\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:29 - Turns Out It\u2019s Not That Simple\n1:02 - What About The U",
+        "id": 3904542,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Txku8ea7XW4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Txku8ea7XW4/hqdefault.jpg",
+        "title": "What Ever Happened to the Windows Update & Dying SSDs?",
+        "vote": 0
+    }
+]

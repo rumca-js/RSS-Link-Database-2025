@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T12:44:16.260801+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T08:00:00+00:00",
+        "description": "<p><span>\n\nPer the Atlantic's </span>\n\n<a href=\"https://www.theatlantic.com/technology/2025/10/brightline-train-florida/684624/?gift=m96bRl1pz2A_jXihg3h08ty9sqkb0Gz-mzpiDRfgLDU\">A\n'Death Train' is Haunting South Florida</a>:\n\n\n\n<p>\n\n</p>\n\n<blockquote>\nAccording to Federal Railroad Administration data, the Brightline has\nbeen involved in at least 185 fatalities, 148 of which were believed\nnot to be suicides, since it began operating, in December 2017. Last\nyear, the train hit and killed 41 people&#8212;none of whom, as best as\nauthorities could determine, was attempting to harm themselves. By\ncomparison, the Long Island Rail Road, the busiest commuter line in\nthe country, hit and killed six people last year while running 947\ntrains a day. Brightline was running 32.\n</blockquote>\n\n\n\n<p>\n\nTrains running people over is obviously bad, but people also die from\nbeing hit by cars.  Reading the article I was wondering: are we making\na big deal about Brightline because it's big and new, but act",
+        "id": 3906721,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/brightline-is-actually-pretty-dangerous",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Brightline is Actually Pretty Dangerous",
+        "vote": 0
+    }
+]

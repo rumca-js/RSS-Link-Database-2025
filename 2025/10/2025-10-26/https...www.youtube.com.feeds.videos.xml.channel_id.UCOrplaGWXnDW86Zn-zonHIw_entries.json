@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mario Budowlaniec",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T08:41:47.929081+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T08:00:30+00:00",
+        "description": "Jak i czym zrobi\u0107 g\u0142ad\u017a w pokoju? Przetestuj\u0119 trzy r\u00f3\u017cne rodzaje g\u0142adzi SYPK\u0104 z worka, polimerow\u0105 z WIADERKA oraz popularny SZARY gips szpachlowy.\n- poka\u017c\u0119 r\u00f3wnie\u017c jak wyr\u00f3wna\u0107 bardzo krzyw\u0105 \u015bcian\u0119 p\u0142yt\u0105 gipsow\u0105 z podk\u0142adkami\n- co zrobi\u0107, kiedy wyskoczy na g\u0142adzi rdza?\n- przetestuje i por\u00f3wnam g\u0142adzie\n- podam kilka wskaz\u00f3wek jak bezstresowo wykona\u0107 g\u0142ad\u017a\n\n\ud83d\udc49 Ubra\u0142a mnie firma https://www.youtube.com/@UCBeF6NxBr5HWoAm5KenSUgA  \n\u2022 spodnie https://www.engel.eu/pl/pl/spodnie-robocze-x-treme-ze-stretchem-4-kierunkowym_bia%c5%82y_2366-417-3\n\ud83d\udc49 Partnerem mojego kana\u0142u jest Bosch Professional.\n\ud83d\udc49 Zestaw bit\u00f3w https://allegro.pl/affiliate?redirect_url=https://allegro.pl/oferta/zestaw-bitow-i-nasadek-extra-hard-43-szt-2607017723-bosch-17668959246?utm_medium%3Dafiliacja%26utm_source%3Dctr_b%26utm_campaign%3Df036f64b-0ec0-49b4-98ff-783d2cdd4fe4\n\ud83d\udc49 ale TUTAJ chyba jeszcze lepsze, musz\u0119 sprawdzi\u0107 https://allegro.pl/affiliate?redirect_url=https://allegro.pl/oferta/zestaw-bitow-pro-impact-36-szt-26085225",
+        "id": 3905554,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=DdXiKRwKvRQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 209,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOrplaGWXnDW86Zn-zonHIw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DdXiKRwKvRQ/hqdefault.jpg",
+        "title": "Czym g\u0142adzi\u0107 \u015bciany? - szpachlowanie \u015bcian w pokoju w bloku",
+        "vote": 0
+    }
+]

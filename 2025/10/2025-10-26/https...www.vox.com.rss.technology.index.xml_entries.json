@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sean Illing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T11:22:28.969926+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Apps on a smartphone: Google, Facebook, WhatsApp, Amazon, TikTok, and X. The Google app has 5 notifications; the Facebook app has 78.\" data-caption=\"What happened here? | Jens B\u00fcttner/picture alliance via Getty Images\" data-portal-copyright=\"Jens B\u00fcttner/picture alliance via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2208850558.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tWhat happened here? | Jens B\u00fcttner/picture alliance via Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">TikTok and airlines have something in common with your search engine, your grocery app, and (increasingly) your car: They start out great, lock you in, and then quietly get worse while you keep using them. That very familiar decline now has a catchy name: \u201censhittification.\u201d</p>\n\n<p class=\"has-text-align-none\">Cory Doctorow has been writing about this for decades as a jou",
+        "id": 3906296,
+        "language": "",
+        "link": "https://www.vox.com/technology/465922/enshittification-cory-doctorow-amazon-google-facebook",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2208850558.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Why every website you used to love is getting worse",
+        "vote": 0
+    }
+]

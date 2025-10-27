@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T14:39:53.491474+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T13:32:19+00:00",
+        "description": "What does it mean to solve a quadratic equation by 'completing the square'?\n\nA general solution to the cubic equation was long considered impossible, until we gave up the requirement that math reflect reality.",
+        "id": 3907249,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/h830G5mkTF4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h830G5mkTF4/hqdefault.jpg",
+        "title": "How To Solve a Quadratic Equation",
+        "vote": 0
+    }
+]

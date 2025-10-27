@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T22:15:04.076274+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T21:44:20+00:00",
+        "description": "Three dots. Three dashes. Three dots. Even if you don\u2019t know a single other letter of International Morse Code, chances are you immediately recognized the unmistakable rhythm of \u201cSOS\u201d. It is the universal distress signal, understood in nearly every country and language and appearing everywhere in pop culture including songs by artists as diverse as ABBA, Rihanna, and Great Big Sea. And with good reason: endlessly versatile, SOS can be tapped out on a telegraph key or spoken aloud over voice radio, flashed using a signal mirror or flashlight, written out in the snow or sand, or - if you happen to be held under duress - blinked out with your eyelids. But how did this seemingly random string of letters come to be the universal code for shit hitting the fan, and do the letters actually mean anything? Well, tune your radio transmitters, warm up your signalling fingers, and let\u2019s find out, shall we?\n\nAuthor: Gilles Messier\nHost: Simon Whistler\nEditor: Daven Hiskey\nProducer: Samuel Avila",
+        "id": 3909698,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RU8JhW0PzyY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RU8JhW0PzyY/hqdefault.jpg",
+        "title": "How Did \u2018SOS\u2019 Become The Universal Distress Signal?",
+        "vote": 0
+    }
+]

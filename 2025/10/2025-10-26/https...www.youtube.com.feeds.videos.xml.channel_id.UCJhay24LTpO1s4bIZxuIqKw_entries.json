@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T16:52:01.814352+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T15:03:41+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nDuck-Tape Chronicles - Rust C++ Interop - Victor Ciura - ACCU 2025\n---\n\nC++/Rust is not a zero-sum game. We need to learn to play nice together... for a looong time! That applies equally to people, but also to code. Rust code everywhere is increasing at an accelerated rate, but so does C++ (and that's on top of gazillion lines already out there). So, hybrid codebases are quickly becoming the norm.\nHaving seamless interop between the C++ and Rust components is essential for the success of this symbiosis. There are many challenges in this process, but people found various ways to make things \"work\" - from dealing with ABI compatibility and platform/toolchain guarantees, to going down to C and FFI, to various techniques and tools for generating glue-code between the two languages.\nAlas, general-purpose interoperability (not tied to a specific toolchain/IR) without loss of performance has yet to be achieved. Just \"making things work\" is n",
+        "id": 3908041,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vvjChfGciOc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vvjChfGciOc/hqdefault.jpg",
+        "title": "Duck-Tape Chronicles - Rust C++ Interop - Victor Ciura - ACCU 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T16:29:01.282755+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T16:01:30+00:00",
+        "description": "This video is sponsored by NVIDIA and Puget Systems. Explore the best GPUs from NVIDIA, including the GeForce RTX 50 Series, and discover the top custom PC workstations with a Puget System. https://www.nvidia.com/en-us/ai-on-rtx/ // https://puget.systems/go/159454 #AIonRTX\n\nOur videos are made possible by Members of CorridorDigital, our Exclusive Streaming Service! Try a membership yourself with a 14-Day Free Trial \u25ba http://corridordigital.com/\n\nYou've been LIED to! About dinosaurs... specifically about how big they were. So Wren's going to set the fossil record straight, once and for all.\n\nInstagram \u25ba http://instagram.com/corridordigital\nMerch \u25ba https://corridordigital.store/\n\nCreative Tools \u25ba\nPuget Computers: https://puget.systems/go/CorridorDigital\nAputure Lights: https://bit.ly/Corridor_Lights\nActionVFX: https://bit.ly/TheBest_ActionVFX\nGreyscale Gorilla: https://bit.ly/GreyscalegorillaPlus\nCinema4D: http://bit.ly/Try_Cinema4D\nHoudini: https://bit.ly/HoudiniSims\nNuke: https://bit.",
+        "id": 3908006,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zXcxmEmnckw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zXcxmEmnckw/hqdefault.jpg",
+        "title": "VFX Artist Reveals The TRUE Scale of DINOSAURS",
+        "vote": 0
+    }
+]

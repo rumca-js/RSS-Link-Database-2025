@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ubisoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T18:13:17.375828+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T17:00:29+00:00",
+        "description": "Whether you're a new player discovering Assassin's Creed Shadows on Switch, or a returning shinobi ready for more, we can't wait to take you to feudal Japan\ud83d\udd25\n\n#AssassinsCreedShadows",
+        "id": 3908543,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/S9BA9ByrRBU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 763,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0KU8F9jJqSLS11LRXvFWmg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/S9BA9ByrRBU/hqdefault.jpg",
+        "title": "Naoe and Yasuke are sneaking and slashing their way to #NintendoSwitch2 on December 2nd!",
+        "vote": 0
+    }
+]

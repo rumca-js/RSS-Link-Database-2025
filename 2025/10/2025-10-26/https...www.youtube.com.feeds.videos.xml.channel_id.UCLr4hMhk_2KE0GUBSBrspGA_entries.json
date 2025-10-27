@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T21:32:24.168023+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T19:00:13+00:00",
+        "description": "Przegl\u0105darka, kt\u00f3ra sama przeszukuje internet.\nButy, kt\u00f3re same biegaj\u0105.\nI miasto, kt\u00f3re podobno jest najszcz\u0119\u015bliwsze na \u015bwiecie.\nTym razem Tech Week z Helsinek.\n\nFilm zawiera fragment sponsorowany platformy Hostinger. Z kodem KLAWIATURHOST otrzymacie 10% zni\u017cki - https://www.hostinger.com/klawiaturhost10\n\nW odcinku:\n00:00 Wst\u0119p\n00:30 Dobry wiecz\u00f3r!\n00:33 Recenzja Helsinek\n01:26 ChatGPT Atlas - przegl\u0105darka, kt\u00f3ra przejmuje kursor\n04:39 Nike Amplify - robotyczne buty\n06:31 Reklama - Hostinger\n07:08 Xiaomi 17 - kopia iPhone\u2019a 17 czy nie?\n09:04 Wp\u0142yw iPhone\u2019a 17 na notowania akcji Apple\u2019a\n09:47 Nowe zamki b\u0142yskawiczne od YKK\n10:16 Wypo\u017cyczane hulajnogi elektryczne znikn\u0105 z ulic Pragi\n10:31 Samsung Galaxy XR - ta\u0144sze i niedost\u0119pne w Polsce\n10:43 DJI ROMO - pierwszy odkurzacz od producenta dron\u00f3w\n11:03 Copilot Mico - nowy asystent Microsofta \n11:13 Praca jednak szcz\u0119\u015bcia nie daje?\n11:46 Zno\u015bnego tygodnia!",
+        "id": 3909301,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=hyX3vVWag24",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hyX3vVWag24/hqdefault.jpg",
+        "title": "Przegl\u0105darka przejmuje kursor. Nike - Twoje nogi | Tech Week Helsinki",
+        "vote": 0
+    }
+]

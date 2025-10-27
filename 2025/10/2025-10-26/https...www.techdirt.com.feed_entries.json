@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leigh Beadon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T21:46:15.195719+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T19:00:00+00:00",
+        "description": "This week, our first place winner on the insightful side is danderbandit with a comment about Trump&#8217;s assertions regarding the Insurrection Act: 50%? I don&#8217;t think so! \u201cI\u2019m allowed as you know as president, like 50% of the presidents have used the Insurrection Act.\u201d https://en.wikipedia.org/wiki/List_of_invocations_of_the_Insurrection_Act#:~:text=The%20act%20has%20been%20invoked,the%201992%20Los%20Angeles%20riots. Per that article, the Insurrection Act has been invoked 31 [&#8230;]",
+        "id": 3909562,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/10/26/funniest-most-insightful-comments-of-the-week-at-techdirt-182",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Funniest/Most Insightful Comments Of The Week At Techdirt",
+        "vote": 0
+    }
+]

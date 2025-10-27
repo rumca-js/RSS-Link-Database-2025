@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T02:52:14.996607+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-26T02:23:16+00:00",
+        "description": "INSANE AI NEWS: DeepSeek OCR, ChatGPT Atlas, Google Earth AI, Stable Video Infinity, Unitree H2, UltraGen, Krea Realtime #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nSources in order of mention:\nhttps://3d-models.hunyuan.tencent.com/world/\nhttps://holo-cine.github.io/\nhttps://noamissachar.github.io/DyPE/\nhttps://visual-ai.github.io/inpaint4drag/\nhttps://huggingface.co/krea/krea-realtime-video\nhttps://sjtuplayer.github.io/projects/UltraGen/\nDitto tutorial: https://youtu.be/XSECbTkgRl8\nhttps://jamesyjl.github.io/Nano3D/\nhttps://g-vista.github.io/\nhttps://github.com/vita-epfl/Stable-Video-Infinity\nhttps://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/\nhttps://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/\nhttps://openai.com/index/introducing-chatgpt-atlas/\nhttp://github.com/deepseek-ai/DeepSeek-OCR\nhttps://gmargo11.github.io",
+        "id": 3904570,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uQiqKFK5_0w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uQiqKFK5_0w/hqdefault.jpg",
+        "title": "Infinite AI video, 4K images, realtime videos, DeepSeek breakthrough, Google\u2019s quantum leap: AI NEWS",
+        "vote": 0
+    }
+]
