@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Screen Junkies",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T20:04:15.892957+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T19:01:05+00:00",
+        "description": "Welcome to Immortal Kombat. The slash of the titans. The monster mash. The... eh, you get the idea. It's Freddy vs Jason! Who will win? The local mortician, that's for sure.\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby",
+        "id": 3917349,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/zCg1dmRyOUI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 296,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zCg1dmRyOUI/hqdefault.jpg",
+        "title": "Honest Trailers Preview - Freddy vs Jason",
+        "vote": 0
+    }
+]

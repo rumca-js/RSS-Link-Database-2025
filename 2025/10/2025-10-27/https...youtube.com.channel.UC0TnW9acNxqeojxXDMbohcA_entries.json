@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mark Manson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T14:45:55.199881+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T13:13:52+00:00",
+        "description": null,
+        "id": 3914752,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/PZtWocttkOc",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 671,
+        "source_url": "https://youtube.com/channel/UC0TnW9acNxqeojxXDMbohcA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PZtWocttkOc/hqdefault.jpg",
+        "title": "The Mindset that Always Wins",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T01:54:27.430258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T01:15:04+00:00",
+        "description": "Dan Clancy, CEO of Twitch, has been on a hot streak of releasing horrific responses regarding the Emiru situation.\n\nprevious video: https://www.youtube.com/watch?v=0D1uYda9kJk\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 3910668,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OiN0eK0E_N8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OiN0eK0E_N8/hqdefault.jpg",
+        "title": "Twitch CEO's Reponse is Bad",
+        "vote": 0
+    }
+]

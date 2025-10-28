@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T23:05:53.240416+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T22:45:00+00:00",
+        "description": "See more like this: https://www.youtube.com/playlist?list=PLCZHp4d1HnIsJJ0Gy1ENvGjbCp7PslRyz - A recent firmware update on my LG television revealed that the TV is taking audio samples of all content that is played through it. Other TVs are now taking audio and video samples and sending them off for analysis. Subscribe for more! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:55 - Supporter Thank Yous\n01:26 - ACR / Automatic Content Recognition\n02:10 - LG Televisions\n04:03 - Samsung TVs\n04:57 - Amazon Fire TV Sets\n06:33 - Roku TVs\n09:04 - Google TVs\n10:43 - What about streaming boxes and sticks?\n11:44 - Consumer Reports' Opt Out Guide - http://lon.tv/crprivacy\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/amazonshop\n\nJoin the Facebook group to ",
+        "id": 3918681,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2TPV9yQvcIQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2TPV9yQvcIQ/hqdefault.jpg",
+        "title": "Your Smart TV's HDMI Port Is Spying On You!",
+        "vote": 0
+    }
+]

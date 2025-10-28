@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Oremus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T21:47:29.411700+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T21:15:29+00:00",
+        "description": "The right-leaning tech magnate is touting his own online encyclopedia as an unbiased alternative to the world\u2019s most widely cited online source.",
+        "id": 3918179,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/10/27/grokipedia-wikipedia-musk-",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Elon Musk launches Grokipedia, an AI-powered Wikipedia rival",
+        "vote": 0
+    }
+]

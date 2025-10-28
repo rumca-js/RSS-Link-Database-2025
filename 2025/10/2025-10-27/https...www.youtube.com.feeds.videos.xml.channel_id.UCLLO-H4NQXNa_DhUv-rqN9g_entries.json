@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T18:46:04.998722+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T17:23:41+00:00",
+        "description": "Yasu postanowi\u0142 cofn\u0105\u0107 si\u0119 w czasie i od\u015bwie\u017cy\u0107 pami\u0119\u0107 o Discples: \u015awi\u0119te Ziemie, grze, kt\u00f3ra zaw\u0142adn\u0119\u0142a jego growym sercem na ponad \u0107wier\u0107 wieku.\n\nProwadzenie i scenariusz: Yasuhiro \u201eYasu3000\u201d Kanzawa (https://twitter.com/yasu3000_)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 3916715,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=HKmUXRQqNCg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HKmUXRQqNCg/hqdefault.jpg",
+        "title": "Disciples: \u015awi\u0119te Ziemie \u2013 Mroczny kuzyn Heroes\u00f3w",
+        "vote": 0
+    }
+]

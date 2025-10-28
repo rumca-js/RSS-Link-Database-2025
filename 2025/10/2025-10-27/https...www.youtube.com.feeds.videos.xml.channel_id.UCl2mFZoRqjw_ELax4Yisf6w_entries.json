@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T20:47:03.286647+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T20:26:15+00:00",
+        "description": "https://bounties.fulu.org/bounties/samsung-familyhub-refrigerators\nhttps://consumerrights.wiki/w/Samsung_ads_in_refrigerators",
+        "id": 3917785,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=DaWpVDFcXgc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DaWpVDFcXgc/hqdefault.jpg",
+        "title": "We'll pay you $10,000 to DE-shitify this Samsung refrigerator",
+        "vote": 0
+    }
+]

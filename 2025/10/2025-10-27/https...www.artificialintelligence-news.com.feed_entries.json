@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Thomas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T14:33:22.683124+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T13:54:24+00:00",
+        "description": "<p>Huawei has released its CloudMatrix 384 AI chip cluster, a new system for AI learning. It employs clusters of Ascend 910C processors, joined via optical links. The distributed architecture means the system can outperform traditional hardware GPU setups, particularly in terms of resource use and on-chip time, despite the individual Ascend chips being less powerful [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/re-engineering-for-better-results-the-huawei-ai-stack/\">Re-engineering for better results: The Huawei AI stack</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 3914677,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/re-engineering-for-better-results-the-huawei-ai-stack",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+        "title": "Re-engineering for better results: The Huawei AI stack",
+        "vote": 0
+    }
+]

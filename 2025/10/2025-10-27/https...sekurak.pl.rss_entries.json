@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T06:05:38.545385+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T06:02:19+00:00",
+        "description": "<p>Ten wpis dedykujemy wszystkim przysz\u0142ym ekspertom ds. cyberbezpiecze\u0144stwa, my\u015bl\u0105cym o rozpocz\u0119ciu kariery \u201ebezpiecznika\u201d, a tak\u017ce osobom chc\u0105cym zdoby\u0107 praktyczne umiej\u0119tno\u015bci, pozwalaj\u0105ce chroni\u0107 sieci, aplikacje i dane przed hackerami. Do jego przeczytania zach\u0119camy r\u00f3wnie\u017c wszystkich tych, kt\u00f3rzy alergicznie reaguj\u0105 na slajdowiska, za to s\u0105 fanami praktycznych pokaz\u00f3w.&#160; Wprowadzenie do bezpiecze\u0144stwa IT...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/dwa-dni-ktore-moga-uchronic-od-katastrofy-dobry-start-do-poznania-swiata-itsec/\">Dwa dni, kt\u00f3re mog\u0105 uchroni\u0107 od katastrofy. Dobry start do poznania \u015bwiata ITsec</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3911539,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/dwa-dni-ktore-moga-uchronic-od-katastrofy-dobry-start-do-poznania-swiata-itsec",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dwa dni, kt\u00f3re mog\u0105 uchroni\u0107 od katastrofy. Dobry start do poznania \u015bwiata ITsec",
+        "vote": 0
+    }
+]

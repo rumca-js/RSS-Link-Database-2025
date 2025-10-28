@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wales",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T20:33:08.958326+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T19:48:56+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/eg-besthorror-2025-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Just like that, the season of haunts is upon us once more. And what better way to get into the spirit of things - to whip yourself into a frenzy of ghoulish delights - than with a spot of spooky gaming, spent safely snuggled beneath thick winter blankets as the cold autumn nights close in? Sure, you could switch on a movie or stick a pumpkin on your head, but neither's <em>quite</em> the same as immersing yourself in a carefully crafted, deliciously malevolent digtial world - lights off, sound cranked up, and a sallow face watching you unseen through the window.</p> <p><a href=\"https://www.eurogamer.net/getting-into-the-halloween-spirit-here-are-the-21-best-spooky-scary-games-to-play-right-now\">Read more</a></p>",
+        "id": 3917697,
+        "language": "en",
+        "link": "https://www.eurogamer.net/getting-into-the-halloween-spirit-here-are-the-21-best-spooky-scary-games-to-play-right-now",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/eg-besthorror-2025-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Getting into the Halloween spirit? Here are the 21 best spooky, scary games to play right now",
+        "vote": 0
+    }
+]

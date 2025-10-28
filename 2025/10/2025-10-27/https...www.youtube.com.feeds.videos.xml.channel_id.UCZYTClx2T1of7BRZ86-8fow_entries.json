@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T17:28:37.978131+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T17:00:01+00:00",
+        "description": "Try Rocket Money for free: https://rocketmoney.yt.link/fjwdHDO \n\nDnD (a.k.a. Dungeons and Dragons) is a game famous for having its players roll a bunch of differently shaped dice, from the classic d20 to the atypical d3. To people used to rolling a bunch of 6-sided cubes, this might seem a little weird. But thanks to one new computer model, there's a way to make them look even weirder, and still be fair!\n\nHosted by: Savannah Geary (they/them)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jaap Westera, Alex Hackman, Blood Doctor Kelly, Toyas Dhake, Matt Curls, Piya Shedden, Jason A Saslow, Kevin Knupp, J.V. Rosenbalm, Garrett Galloway, Steve Gums, David Johnston,",
+        "id": 3915948,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=-gp7AbYD9NI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-gp7AbYD9NI/hqdefault.jpg",
+        "title": "How to Make Fair DnD Dice from ANY Shape",
+        "vote": 0
+    }
+]

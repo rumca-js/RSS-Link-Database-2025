@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T22:09:30.106878+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T21:00:34+00:00",
+        "description": "Get 20% off DeleteMe by going to  https://joindeleteme.com/TIFO and use code TIFO to protect your privacy!\n\nOn the morning of November 30, 1989, a trio black Mercedes-Benz sedans pulled away from a house in the quiet Frankfurt suburb of Bad Homburg vor Der H\u00f6he and turned down a shady, tree-lined lane called Seedamweg [\u201czay-dam-vehg\u201d]. They had taken this route many times before, and it seemed like just any other morning. Slowing down to pass a school crossing, the drivers may have spotted a man in a jogging outfit standing behind some bushes, adjusting his walkman and headphones. Or they may have noticed a child\u2019s bicycle chained to one of the white bollards separating the street from the sidewalk, a small package strapped to its rear rack. Nothing out of the ordinary. But at 8:34 AM, just as the lead car began turning onto Kaiser Friedrich Promenade, the early morning quiet was shattered by a powerful explosion. The blast engulfed the middle car in the convoy, launching it 25 metres",
+        "id": 3918347,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zAdzTlH08Ao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zAdzTlH08Ao/hqdefault.jpg",
+        "title": "Denazification and the Unsolved High Tech Murder That Reshaped Post-Cold War Europe",
+        "vote": 0
+    }
+]

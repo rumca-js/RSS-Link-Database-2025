@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T14:46:37.540664+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T14:00:43+00:00",
+        "description": "In this video, we'll set up the ideal dual-screen experience on devices like the AYN Thor and AYANEO Pocket DS.\n\nWritten guide: https://retrogamecorps.com/2025/10/27/dual-screen-android-handheld-guide/\nAndroid starter guide: https://youtu.be/I4mqgcDYZFo\n\nStylus guide video: https://youtu.be/BoYp30Meki0\nHomemade stylus: https://www.etsy.com/listing/4389860171/small-gaming-stylus-solid-aluminum-retro\nuse code RETROSTYLUS for 30% off\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nStickers and magnets: https://www.ebay.com/str/retrogamecorpscharitystore\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n01:17 stylus recap\n02:45 initial setup\n04:58 install the apps\n08:26 MelonDS (NDS) setup\n17:01 Azahar (3DS) setup\n21:25 Citra MMJ (3DS) setup\n23:19 Cemu (Wii U) setup\n27:30 Console Launcher frontend\n31:11 ES-DE ",
+        "id": 3914753,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SQ5xUqXgON8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SQ5xUqXgON8/hqdefault.jpg",
+        "title": "Dual Screen Handheld Starter Guide",
+        "vote": 0
+    }
+]

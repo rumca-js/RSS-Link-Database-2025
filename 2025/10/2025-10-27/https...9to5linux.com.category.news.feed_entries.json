@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T01:23:11.237805+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T00:35:19+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/10/mx25rc.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"MX Linux 25 Release Candidate\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/mx25rc.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/mx25rc.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/mx25rc.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>MX Linux 25 Release Candidate is now available for public beta testing based on the Debian 13 \u201cTrixie\u201d operating system series. Here's what's changed since the Beta release!</p>\n<p>The post <a href=\"https://9to5linux.com/mx-linux-25-release-candidate-arrives-with-various-improvements-and-changes\">MX Linux 25 Release Candidate Arrives with Various Improvements and Changes</a> appeared first on <a hr",
+        "id": 3910615,
+        "language": "en-US",
+        "link": "https://9to5linux.com/mx-linux-25-release-candidate-arrives-with-various-improvements-and-changes",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/10/mx25rc.webp",
+        "title": "MX Linux 25 Release Candidate Arrives with Various Improvements and Changes",
+        "vote": 0
+    }
+]

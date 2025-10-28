@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jonquilyn Hill",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T11:53:42.052846+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T07:45:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Illustration of a doctor holding a board with AI statistics on it\" data-caption=\"Can AI give doctors more time to focus on their patients? | Namthip Muanthongthae/Getty Images\" data-portal-copyright=\"Namthip Muanthongthae/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2150777763.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tCan AI give doctors more time to focus on their patients? | Namthip Muanthongthae/Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">A couple weeks ago, I went to the doctor to go over some test results. All was well \u2014 spectacularly average, even.&nbsp; But there was one part of the appointment that did take me by surprise. After my doctor gave me advice based on my health and age, she turned her computer monitor towards me and presented me with a colorful dashboard filled with numbers and percentages.&nbsp;</p>\n\n<p class=\"has-te",
+        "id": 3913293,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/466034/ai-health-care-medicine-doctors-paperwork",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2150777763.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Can AI make health care more human?",
+        "vote": 0
+    }
+]

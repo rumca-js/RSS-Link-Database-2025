@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T19:58:16.341802+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T19:07:20+00:00",
+        "description": "A popular YouTuber named Theo Browne offered $20k to the Open Source FFmpeg team if they remove their social media person, who Theo calls a \"motherf***er\".\n\nThe X Thread:\nhttps://x.com/LundukeJournal/status/1982569289237352620\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3917270,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1oQ3KMeaH04",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1oQ3KMeaH04/hqdefault.jpg",
+        "title": "$20,000 Bounty Offered to Bribe FFmpeg Team to Fire Contributor",
+        "vote": 0
+    }
+]

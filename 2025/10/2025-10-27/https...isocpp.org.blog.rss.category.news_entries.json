@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marco Arena",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T14:26:36.479161+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T13:43:33+00:00",
+        "description": "<p>\n\tThis year marks C++&#39;s <strong>40th anniversary</strong>, and at <a href=\"https://italiancpp.github.io/cppday25/\">C++ Day 2025</a>&nbsp;(a proper \"wrap-up post\" will follow in the next days) we couldn&#39;t let the occasion pass without a little celebration!</p>\n<p>\n\tWhile there wasn&#39;t a cake, we gathered everyone to sing \"Happy Birthday, C++\":</p>\n<p>\n\t&nbsp;</p>\n<div class=\"embed_media\">\n\t<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"935\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/SFj_KwDXtCA\" title=\"Happy birthday C++!\" width=\"526\"></iframe></div>\n<p>\n\t&nbsp;</p>\n<p>\n\tFollowed by a lively game that mixed 1980s pop culture, ISO C++ trivia, Bell Labs history, and more:</p>\n<p>\n\t&nbsp;</p>\n<p>\n\t<img alt=\"\" src=\"https://italiancpp.github.io/cppday25/img/quiz.jpg\" style=\"width: 400px; height: 300px;\" />&nbsp;&nbsp;</p>\n<p>\n",
+        "id": 3914553,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/10/celebrating-cpps-40th-birthday-at-cpp-day-in-italy",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://italiancpp.github.io/cppday25/img/quiz.jpg",
+        "title": "Celebrating C++\u2019s 40th birthday at C++ Day in Italy",
+        "vote": 0
+    }
+]

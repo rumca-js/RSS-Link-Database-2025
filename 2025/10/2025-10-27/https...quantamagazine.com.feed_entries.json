@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joanna Thompson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T14:57:32.172081+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T14:55:18+00:00",
+        "description": "Despite their wide variety of sizes, niches and shapes, sharks scale geometrically, pointing to possible fundamental constraints on evolution.            <p>The post <a href=\"https://www.quantamagazine.org/shark-data-suggests-animals-scale-like-geometric-objects-20251027/\" target=\"_blank\">Shark Data Suggests Animals Scale Like Geometric Objects</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3914777,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/shark-data-suggests-animals-scale-like-geometric-objects-20251027",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Shark-Metabolic-Scaling-cr-Samantha-Mash-Default.webp",
+        "title": "Shark Data Suggests Animals Scale Like Geometric Objects",
+        "vote": 0
+    }
+]

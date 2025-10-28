@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T17:08:48.375784+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T16:01:17+00:00",
+        "description": "Lay's just pulled off one of the best rebranding campaigns of the 2020\u2019s with the tagline \"42% of people don't know our chips are potatoes\" but I personally believe this was a redirect to not have to mention the fact that they've removed all the synthetic food dyes.",
+        "id": 3915896,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/mBacFfwCVtg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mBacFfwCVtg/hqdefault.jpg",
+        "title": "The Best Rebrand Of The 2020's #funfact",
+        "vote": 0
+    }
+]

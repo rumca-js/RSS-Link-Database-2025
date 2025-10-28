@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T09:42:05.324366+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-27T09:03:00+00:00",
+        "description": "Organizations and brands can choose their quadrant. It&#8217;s tempting to want the best of all four, but it&#8217;s going to take effort and focus. All of these terms are relative choices, not absolute judgments. Where does your offering fit in?",
+        "id": 3912468,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/new-and-old-big-and-small",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/seths.blog/wp-content/uploads/2025/04/Screenshot-2025-04-09-at-9.07.45%E2%80%AFAM.jpg?resize=1024%2C642&ssl=1",
+        "title": "New and old, big and small",
+        "vote": 0
+    }
+]
