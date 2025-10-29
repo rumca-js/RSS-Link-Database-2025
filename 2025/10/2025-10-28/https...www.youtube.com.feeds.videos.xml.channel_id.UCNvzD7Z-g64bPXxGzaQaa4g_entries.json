@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T16:26:16.978462+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T15:52:08+00:00",
+        "description": "Some video game tricks and maneuvers might break the game, but it sure makes you feel awesome in the process.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:23 Number 10\n2:54 Number 9\n4:29 Number 8\n6:42 Number 7\n8:23 Number 6\n10:34 Number 5\n12:23 Number 4\n13:43 Number 3\n14:44 Number 2\n16:16 Number 1",
+        "id": 3924623,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AbF8vSMJNEM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AbF8vSMJNEM/hqdefault.jpg",
+        "title": "10 BADASS Yet Genius Tricks in Video Games",
+        "vote": 0
+    }
+]

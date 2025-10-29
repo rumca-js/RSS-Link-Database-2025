@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ivan Penn",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T18:20:43.889234+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T18:16:08+00:00",
+        "description": "The federal government announced that it would back an effort to build several Westinghouse nuclear reactors, but offered few details.",
+        "id": 3925949,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/10/28/business/energy-environment/trump-nuclear-westinghouse-deal.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/10/28/multimedia/28biz-nuclear-deal-lmwz/28biz-nuclear-deal-lmwz-mediumSquareAt3X.jpg",
+        "title": "Trump Administration Backs Plan for New Nuclear Plants",
+        "vote": 0
+    }
+]

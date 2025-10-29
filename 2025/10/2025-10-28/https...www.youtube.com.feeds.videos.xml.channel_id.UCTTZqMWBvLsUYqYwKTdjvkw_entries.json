@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T19:10:00.398162+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T17:26:52+00:00",
+        "description": "Wielka Automatyzacja - Odcinek 5\n\nZ\u0142odziej Czasu nie \u015bpi.\nTym razem odkry\u0142, \u017ce Mateusz nie dociera do ca\u0142ego \u015bwiata. I postanowi\u0142 to wykorzysta\u0107. Ale tam, gdzie ko\u0144cz\u0105 si\u0119 ludzkie mo\u017cliwo\u015bci\u2026 zaczyna si\u0119 AI.\n\nKa\u017cdy odcinek to nowa umiej\u0119tno\u015b\u0107, nowe narz\u0119dzie i kolejny krok ku pe\u0142nej automatyzacji.\n\nZobacz kursy:\n\ud83d\udc49 \u201eAutomatyzacje dla Solo Tw\u00f3rcy Internetowego\u201d\n\ud83d\udc49 \u201eAutomatyzacje dla Solo Przedsi\u0119biorcy\u201d\nDost\u0119pne na \ud83d\udc49 solo.uczmnie.pl\n\n#autopromocja #shorts",
+        "id": 3926266,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/WNesXcScWco",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WNesXcScWco/hqdefault.jpg",
+        "title": "\ud83d\ude80 Odcinek 5: Wielka Automatyzacja",
+        "vote": 0
+    }
+]

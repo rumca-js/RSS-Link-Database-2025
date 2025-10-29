@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T16:21:12.187340+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T15:18:22+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nHow Do You Tame the Async BEAST with Kotlin and JavaScript? - Sam Cooper\n---\n\nAsynchronous programming can feel like taming a many-headed monster. In this talk from the ACCU York Meetup, Sam Cooper explores the central challenges of async control flow and how programming languages like JavaScript and Kotlin address them. \n\nStarting with callbacks and async/await in JavaScript, we uncover the pitfalls of diverging code paths, frozen UI threads, and hidden background tasks. Then, we explore how Kotlin coroutines and suspend functions offer a structured concurrency model that makes asynchronous programming more intuitive and manageable. By understanding the underlying structured programming problems, developers can use async tools effectively instead of memorizing a laundry list of rules.\n\nKey topics covered include: async await, callbacks, coroutines, Kotlin coroutines, suspend functions, structured concurrency, JavaScript async, concur",
+        "id": 3924615,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VJC1BJ2ZDEM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VJC1BJ2ZDEM/hqdefault.jpg",
+        "title": "How Do You Tame the Async BEAST with Kotlin and JavaScript? - Sam Cooper",
+        "vote": 0
+    }
+]

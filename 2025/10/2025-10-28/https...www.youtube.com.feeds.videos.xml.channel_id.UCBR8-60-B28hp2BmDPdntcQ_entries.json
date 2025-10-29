@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "YouTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T13:57:13.255481+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T13:37:08+00:00",
+        "description": null,
+        "id": 3923037,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/r3tQXzYt-6c",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 794,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r3tQXzYt-6c/hqdefault.jpg",
+        "title": "putting the \u201cfantasy\u201d in fantasy football with My Trophy effect in Shorts",
+        "vote": 0
+    }
+]

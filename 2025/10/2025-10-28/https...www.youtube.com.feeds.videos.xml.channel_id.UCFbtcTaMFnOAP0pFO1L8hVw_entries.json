@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kyle Hill",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T19:40:25.189314+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T18:30:55+00:00",
+        "description": "Nuclear is finally looking up from an informal \u201ckeep your head down\u201d policy. However, it\u2019s bringing with it a relic \u2013  a part of safety culture that is actually too safe to be practical at a time when it seems like a new reactor is being commissioned every day. What the public doesn\u2019t know is that the fundamental assumption of radiation safety and regulation simply isn\u2019t true. This is the case against Linear No-Threshold.\n\n00:00 Intro\n00:56 The Case Against LNT\n04:44 The Problem\n08:45 The Data\n20:50 The Damage\n27:15 The Solution\n\nSOURCES:\nMohan Doss. Are We Approaching the End of the Linear No-Threshold Era? Journal of Nuclear Medicine Dec 2018, 59 (12) 1786-1793; DOI: 10.2967/jnumed.118.217182\n\nSacks B, Siegel JA. Preserving the Anti-Scientific Linear No-Threshold Myth: Authority, Agnosticism, Transparency, and the Standard of Care. Dose Response. 2017 Jul 14;15(3):1559325817717839. doi: 10.1177/1559325817717839. PMID: 28814947; PMCID: PMC5548321.\n\nSiegel JA.A Critical Assessment of ",
+        "id": 3926475,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gzdLdNRaPKc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 717,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbtcTaMFnOAP0pFO1L8hVw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gzdLdNRaPKc/hqdefault.jpg",
+        "title": "The Debunked Idea Holding Nuclear Back",
+        "vote": 0
+    }
+]

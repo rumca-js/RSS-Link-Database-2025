@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T17:15:32.535810+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T14:40:05+00:00",
+        "description": "<p>A new open-source framework is making it easier for developers to build, deploy, and manage an AI agent at scale. Agentic AI promises systems that can autonomously reason, plan, and execute complex business tasks, moving automation beyond simple scripts. While hyperscalers like AWS, Google, and Microsoft \u2013 alongside enterprise platforms from IBM and SAP \u2013 [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/can-open-source-framework-solve-ai-agent-complexity/\">Can an open-source framework solve AI agent complexity?</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 3925305,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/can-open-source-framework-solve-ai-agent-complexity",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Can an open-source framework solve AI agent complexity?",
+        "vote": 0
+    }
+]

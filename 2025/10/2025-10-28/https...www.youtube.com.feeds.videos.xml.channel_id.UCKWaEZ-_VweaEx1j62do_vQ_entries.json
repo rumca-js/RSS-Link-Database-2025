@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T13:18:19.449066+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T11:00:01+00:00",
+        "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbRPu\n\nLearn more about the decision modeling here \u2192 https://ibm.biz/BdbZhq\n\nDiscover how AI agents and decision agents transform automation! Blue Polaris Executive Partner James Taylor explains how rules and machine learning create efficient, consistent decision-making. \ud83c\udf10 Learn how these tools drive innovation in Agentic AI systems and solve real-world challenges.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbRP9\n\n#aiagents #ai #automation",
+        "id": 3922881,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-mldKsBR0UM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-mldKsBR0UM/hqdefault.jpg",
+        "title": "How AI Agents and Decision Agents Combine Rules & ML in Automation",
+        "vote": 0
+    }
+]

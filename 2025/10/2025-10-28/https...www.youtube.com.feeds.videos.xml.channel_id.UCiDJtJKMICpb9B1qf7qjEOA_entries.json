@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T15:04:33.358695+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T14:00:37+00:00",
+        "description": "How do you come up with the physical representation of animals we know lived on Earth, when the evidence of their existence is limited to bone, footprints and skin impressions at best? How do you decide on color? Pose? Scale? Even setting? At the @AmericanMuseumofNaturalHistory, curator/paleontologist Roger Benson and senior principal preparators Rebecca Meah and Jake Adams talk to Adam Savage about how they came together to build some of the most striking dinosaurs and dioramas from AMNH's new exhibition: Impact: The End of the Age of Dinosaurs, and what it felt like seeing these creatures in person for the very first time. \n\nImpact: The End of the Age of Dinosaurs opens Nov. 17: https://www.amnh.org/exhibitions/impact\n\nVisit the American Museum of Natural History: https://www.amnh.org/\nFollow AMNH on Instagram: https://www.instagram.com/amnh/\nHere's Why You Love Dinosaurs: https://youtu.be/CYEBcKhZWM0\nMore museum visits: https://www.youtube.com/playlist?list=PLJtitKU0CAejAaw7ZSM9gxw",
+        "id": 3923730,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JC6kCWmJe20",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JC6kCWmJe20/hqdefault.jpg",
+        "title": "Bringing Dinosaurs to Life",
+        "vote": 0
+    }
+]

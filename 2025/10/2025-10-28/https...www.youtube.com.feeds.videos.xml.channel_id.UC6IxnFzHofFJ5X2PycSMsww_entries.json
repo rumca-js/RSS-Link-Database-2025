@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "xkcd's What If?",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T20:53:09.901218+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T19:31:07+00:00",
+        "description": "A careful reading of official Major League Baseball Rule 6.08(b) suggests that in this situation, the batter would be considered \"hit by pitch\", and would be eligible to advance to first base.\n\n\u00a92025 xkcd, inc.",
+        "id": 3927036,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Uj10jGq2O8o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 864,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6IxnFzHofFJ5X2PycSMsww",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Uj10jGq2O8o/hqdefault.jpg",
+        "title": "What if you tried to hit a baseball pitched at 90% the speed of light?",
+        "vote": 0
+    }
+]

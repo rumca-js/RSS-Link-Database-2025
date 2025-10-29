@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T14:56:49.745002+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T14:01:27+00:00",
+        "description": "Jake Heller is the co-founder & CEO of Casetext, the AI legal startup behind CoCounsel, which was acquired by Thomson Reuters for $650 million.\n\nIn his talk at AI Startup School on June 17th, 2025, he shared how his team did it\u2014from picking the right idea to building AI products that actually work\u2014and how founders can turn a cool demo into a reliable tool used by real customers.\n\nChapters:\n00:00 \u2014 How We Built a $650M AI Company\n01:00 \u2014 Picking the Right Idea in the AI Era\n04:45 \u2014 Three Types of AI Startups: Assist, Replace, or Do the Unthinkable\n09:25 \u2014 How to Build Reliable AI Products (Not Just Demos)\n16:30 \u2014 The Importance of Evals and Testing\n24:20 \u2014 Why Product Quality Beats Marketing and Hype\n26:00 \u2014 How to Price and Sell AI Products\n27:45 \u2014 Building Trust with Customers\n29:30 \u2014 Product Isn\u2019t Just Pixels, It\u2019s Everything Around It\n33:00 \u2014 What Founders Should Really Focus On\n36:00 \u2014 Q&A: Picking Markets, Focus, and Defensibility",
+        "id": 3923720,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l0h3nAW13ao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l0h3nAW13ao/hqdefault.jpg",
+        "title": "From Idea to $650M Exit: Lessons in Building AI Startups",
+        "vote": 0
+    }
+]

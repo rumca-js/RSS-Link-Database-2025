@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T18:39:29.954341+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T16:30:33+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/wqOjhnjxeoE\" width=\"480\" alt=\"thumbnail\" title=\"Getting Ragebaited By FFMPEG Again!!\" /></p>If you are as unemployed as I am you may have seen the drama going on between FFMPEG and the Youtuber Theo, with him once again getting rage baited by the project.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Theo Video: https://www.youtube.com/watch?v=3VkcAvqV24c<br />Vote Thread: https://lists.ffmpeg.org/archives/list/ffmpeg-devel@ffmpeg.org/thread/47X6GPFNL4P4YDI3EGISHIXWQ56ZMIRF/<br />Argument Thread: https://lists.ffmpeg.org/archives/list/ffmpeg-devel@ffmpeg.org/thread/PZL3NMBYJJ7RHEJ2NEGE26R2HHXKRQ2S/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.x",
+        "id": 3926131,
+        "language": "en",
+        "link": "https://odysee.com/getting-ragebaited-by-ffmpeg-again!!:0ccd3cc6b1af7aeb98192997d2eba2e8363f73a9",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/wqOjhnjxeoE",
+        "title": "Getting Ragebaited By FFMPEG Again!!",
+        "vote": 0
+    }
+]

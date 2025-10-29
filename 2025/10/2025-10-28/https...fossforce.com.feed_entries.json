@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marco Fioretti",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T08:19:31.870211+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T08:04:43+00:00",
+        "description": "<p><em>When news disappears from search results and social media favors polarization, RSS keeps you in touch with real reporting from sources you trust.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/10/rss-not-algorithms-how-open-source-tech-can-reclaim-reliable-news/\">RSS, Not Algorithms: How Open Source Tech Can Reclaim Reliable News</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 3920945,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/10/rss-not-algorithms-how-open-source-tech-can-reclaim-reliable-news",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RSS, Not Algorithms: How Open Source Tech Can Reclaim Reliable News",
+        "vote": 0
+    }
+]

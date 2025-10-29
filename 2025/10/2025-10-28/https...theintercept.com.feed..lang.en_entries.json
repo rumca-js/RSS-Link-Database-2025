@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Akela Lacy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T09:31:35.704287+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T09:00:00+00:00",
+        "description": "<p>The suit is the first of its kind to take on the NYPD surveillance machine, accusing the cops of violating New Yorkers' constitutional rights.</p>\n<p>The post <a href=\"https://theintercept.com/2025/10/28/nypd-camera-mass-surveillance-lawsuit/\">An NYPD Camera Points Directly Into Their Bedroom. They\u2019re Suing the City Over It.</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 3921279,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/10/28/nypd-camera-mass-surveillance-lawsuit",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/10/crop_Screenshot-2025-10-22-at-9.09.14-PM-e1761257028757.webp?w=440&h=440&crop=1",
+        "title": "An NYPD Camera Points Directly Into Their Bedroom. They\u2019re Suing the City Over It.",
+        "vote": 0
+    }
+]

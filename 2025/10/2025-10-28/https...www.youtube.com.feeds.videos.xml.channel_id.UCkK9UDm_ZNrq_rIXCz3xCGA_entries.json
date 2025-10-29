@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T16:36:26.056664+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T16:08:00+00:00",
+        "description": "The Python Software Foundation has turned down a $1.5 Million Dollar grant from the US government, as it would require them to cease discriminatory Diversity, Equity, & Inclusion practices.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3924635,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WbXXDZ-BPBM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WbXXDZ-BPBM/hqdefault.jpg",
+        "title": "Python Says Discriminatory DEI Policies More Important Than $1.5 Million Dollars",
+        "vote": 0
+    }
+]

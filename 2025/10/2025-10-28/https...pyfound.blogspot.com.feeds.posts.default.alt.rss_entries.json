@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T17:15:14.124375+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T16:29:00+00:00",
+        "description": "<p>Greetings, Pythonistas- thank you so much for supporting the work of the PSF and the Python community! The newest PSF Board has decided to continue investing in connecting with the global Python community by running the PSF Board Office Hour sessions on the <a href=\"https://discord.gg/4Hm36PPgpG\" target=\"_blank\">PSF Discord</a> into 2026.&nbsp;<br /><br />We began running these sessions in September 2024, and they have proven to be a great method for the community to connect with the board and vice versa. The sessions have provided the PSF Board and Staff the opportunity to hear what our community is up to and what challenges they are facing, as well as receive invaluable feedback about how the PSF can continue to improve our service to the Python community.&nbsp;<br /></p><h2 style=\"text-align: left;\">What are the PSF Board Office Hours?</h2><p>During the PSF Board Office Hours, you can participate in a <b>text-based live chat</b> with PSF Board Directors. This is a chance to conn",
+        "id": 3925302,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/10/a-new-psf-board-another-year-of-psf.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A new PSF Board- Another year of PSF Board Office Hour sessions!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T19:26:22.858945+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T16:34:29+00:00",
+        "description": "Sponsor: ID-Cooling Frozn A720 Black on Amazon https://geni.us/VDnou4Y\nWhile in China, we toured Yeston's partner factories for their famed AMD RX 9070 XT \"Waifu\" GPUs, aka the Sakura Sugar Atlantis. These graphics cards require dozens of factories to make if you go all the way up the supply chain, but four key factories are used by Yeston for the final parts. We visited the Yeston SMT line (Surface Mount Technology) for its AMD Radeon GPUs, then went to the metal shop that fabricates the video card backplates, and finally went to the painting and UV coating factories. We also had an opportunity to speak with the Creative Director, Zhou, who works to conceptualize the product and hires artists for the paint and styling. In this factory tour, we learn how the AMD RX 9070 XT \"Waifu\" GPU by Yeston is made.\n\nSUPPORT educational, independently-funded content! We pay for all of our own flights and hotels, which means that the factories we visit don't have any influence over the content. Our",
+        "id": 3926355,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dmXVK9ia5Nc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dmXVK9ia5Nc/hqdefault.jpg",
+        "title": "AMD RX 9070 XT GPU Factory | How Yeston \"Waifu\" Graphics Cards are Made",
+        "vote": 0
+    }
+]

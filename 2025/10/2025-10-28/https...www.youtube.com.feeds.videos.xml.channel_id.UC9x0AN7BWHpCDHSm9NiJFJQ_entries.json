@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T16:25:57.386325+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T15:22:52+00:00",
+        "description": "Access your devices securely from anywhere with TwinGate: https://ntck.co/ai_terminal \n\n\nStill using AI in the browser? You\u2019re doing it the slow way. In this video, I BREAK OUT of the GUI and show you how AI in the terminal (Gemini CLI, Claude Code, Codex and OpenCode) makes me 10x faster. We\u2019ll install the tools (Mac/Windows/Linux), spin up project aware context files, and unlock terminal AI superpowers. I\u2019ll also show my daily workflow for keeping multiple AIs in sync across the same folder.\n\n\nRESOURCES / LINKS:\n\nCommands / Walkthrough: https://github.com/theNetworkChuck/ai-in-the-terminal \nGemini CLI: https://ai.google.dev/gemini-api\nClaude Code: https://www.claude.com/product/claude-code\nOpenCode: https://opencode.ai/\n\n\nTIMESTAMPS:\n\n0:00 - Intro\n1:09 - Segment 1: The Terminal Superpower (Gemini)\n8:43 - Segment 2: Claude Code\n17:59 - Segment 3: ALL THE TERMINALS!!!\n20:31 - Segment 4: Meta-Proof\n26:29 - Segment 5: Open Code\n\n\n\ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcade",
+        "id": 3924622,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MsQACpcuTkU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MsQACpcuTkU/hqdefault.jpg",
+        "title": "You NEED to Use AI in the Terminal RIGHT NOW!!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T16:38:36.726158+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T16:27:42+00:00",
+        "description": "Episode 3 - \"Sunglasses\"\n\n\nProgrammer humor\nProgramming jokes\nProgramming memes\nAI programming humor\ncracked swe\nLinux\ncoding humor\n10x engineer\nHacker lifestyle\nhackers movie\njavascript humor\nrust programming\n\n#programming\n#jokes\n#humor",
+        "id": 3924642,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cwq2FfpTIAE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cwq2FfpTIAE/hqdefault.jpg",
+        "title": "10x\u2019er (Part 3) [FULL]",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T21:23:03.160691+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T21:19:04+00:00",
+        "description": "<p>W redakcji doceniamy prawdziw\u0105 hakersk\u0105 robot\u0119, dlatego z uwag\u0105 \u015bledzimy (a p\u00f3\u017aniej analizujemy raporty zwane writeupami) zmagania podczas zawod\u00f3w spod szyldu Pwn2Own organizowanych przez Zero Day Initiative. Tegoroczna edycja odby\u0142a si\u0119 mi\u0119dzy 21 a 24 pa\u017adziernika 2025 w Cork, w Irlandii. Zawodnicy mogli zmierzy\u0107 si\u0119 w o\u015bmiu kategoriach: Szczeg\u00f3\u0142owy zestaw...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/za-nami-pwn2own-2025-ujawniono-az-73-ataki-zero-day-laczna-pula-nagrod-przekroczyla-milion-dolarow/\">Za nami Pwn2Own 2025. Ujawniono a\u017c 73 ataki zero-day. \u0141\u0105czna pula nagr\u00f3d przekroczy\u0142a milion dolar\u00f3w.\u00a0</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3927446,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/za-nami-pwn2own-2025-ujawniono-az-73-ataki-zero-day-laczna-pula-nagrod-przekroczyla-milion-dolarow",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Za nami Pwn2Own 2025. Ujawniono a\u017c 73 ataki zero-day. \u0141\u0105czna pula nagr\u00f3d przekroczy\u0142a milion dolar\u00f3w.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-28T15:45:58.744042+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T14:50:11+00:00",
+        "description": "Brexit has pushed up inflation, claims Reeves",
+        "id": 3924392,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/10/28/rachel-reeves-saudi-arabia-obr-forecast-budget-productivity",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Brexit has pushed up inflation, claims Reeves",
+        "vote": 0
+    }
+]
