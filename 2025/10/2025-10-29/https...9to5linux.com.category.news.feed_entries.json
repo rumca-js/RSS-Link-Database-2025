@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T07:55:46.508847+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T00:37:40+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/10/tb15.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Tor Browser 15.0\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/tb15.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/tb15.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/10/tb15.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>Tor Browser 15.0 open-source anonymous web browser is now available for download based on the Mozilla Firefox 140 ESR series. Here\u2019s what\u2019s new!</p>\n<p>The post <a href=\"https://9to5linux.com/tor-browser-15-0-anonymous-web-browser-is-out-based-on-firefox-140-esr-series\">Tor Browser 15.0 Anonymous Web Browser Is Out Based on Firefox 140 ESR Series</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do ",
+        "id": 3928435,
+        "language": "en-US",
+        "link": "https://9to5linux.com/tor-browser-15-0-anonymous-web-browser-is-out-based-on-firefox-140-esr-series",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/10/tb15.webp",
+        "title": "Tor Browser 15.0 Anonymous Web Browser Is Out Based on Firefox 140 ESR Series",
+        "vote": 0
+    }
+]

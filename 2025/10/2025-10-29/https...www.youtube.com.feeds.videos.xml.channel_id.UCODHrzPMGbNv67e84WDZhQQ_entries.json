@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fern",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T18:20:13.849289+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T17:50:45+00:00",
+        "description": "Start learning on Brilliant for free today: https://brilliant.org/fern. Our viewers get 20% off an annual premium subscription. It\u2019s a great way to support our channel while building new skills (ad).\n\nThanks to Quinn Duffy, Luke Farnon, Dale Harrow and Frank Stephenson for your valuable insights!\n\nCheck this out: Carlton Reid, \u201cRejoice! Carmakers Are Bringing Back Physical Buttons,\u201d in Wired, May 5, 2025. https://www.wired.com/story/why-car-brands-are-finally-switching-back-to-buttons/\n\nModern cars are getting smarter \u2013 and somehow dumber. They are packed with features that make driving worse and sometimes downright dangerous.\n\n\nSources: https://docs.google.com/document/d/12ZB2mUWSBHT-R1OdoMFmAMHyPcqDtzeMgrjJxds2CWk/edit?usp=sharing \n\n\nMusic list:\n\nEpidemic Sound:\nDylan Sitts - Daytona Dystopia\nMike Franklyn - When Pigs Fly\nAwlee - And Behold\nJanset - Drip (Instrumental Version)\nBonkers Beat Club - Crunched\nChristoffer Moe Ditlevsen - Tracker\nLennon Hutton - Red Alert\nLennon Hutton - ",
+        "id": 3934725,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HauQtcj7UTM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 703,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HauQtcj7UTM/hqdefault.jpg",
+        "title": "The Dumb Design of Modern Cars",
+        "vote": 0
+    }
+]

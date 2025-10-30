@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T18:40:30.441395+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T18:40:30+00:00",
+        "description": "Od napa\u015bci Putina na Ukrain\u0119 Rosjanie kupili blisko 300 ton z\u0142ota. To wi\u0119cej ni\u017c maj\u0105 w skarbcach takie kraje jak Hiszpania czy Austria. To co Rosjanie kupuj\u0105 staraj\u0105 si\u0119 wywie\u017a\u0107 za granic\u0119, bo w Rosji z\u0142oto nie jest bezpieczne.",
+        "id": 3935023,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/finanse/art43256631-goraczka-zlota-w-rosji-obywatele-na-potege-skupuja-kruszec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gor\u0105czka z\u0142ota w Rosji. Obywatele na pot\u0119g\u0119 skupuj\u0105 kruszec",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shayna Korol",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T13:39:58.621539+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T08:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Altman waving, wearing sunglasses.\" data-caption=\"Sam Altman, chief executive officer of OpenAI, arrives for the Allen &amp; Co. Media and Technology Conference in Sun Valley, Idaho, on July 8, 2025. | David Paul Morris/Bloomberg via Getty Images\" data-portal-copyright=\"David Paul Morris/Bloomberg via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2223572220.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tSam Altman, chief executive officer of OpenAI, arrives for the Allen &amp; Co. Media and Technology Conference in Sun Valley, Idaho, on July 8, 2025. | David Paul Morris/Bloomberg via Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Big news for the <a href=\"https://www.vox.com/future-perfect/377555/ai-chatgpt-openai-god\">pursuit</a> of artificial general intelligence \u2014 or AI that\u2019s of human-level intelligence across the board. OpenAI, which <a hre",
+        "id": 3931961,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/466368/openai-for-profit-restructure-biodefense-valthos",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2223572220.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "There\u2019s\u00a0a bigger story in the OpenAI for-profit news",
+        "vote": 0
+    }
+]

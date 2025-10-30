@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T19:17:42.529072+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T17:51:06+00:00",
+        "description": "GNOME & Fedora call Jews \"Nazis\". Canonical, Debian, & GNOME call XLibre \"Nazis\". NixOS calls Conservatives \"Nazis\". And now KDE says Elon Musk, and all X users, are \"Nazis\".\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3935179,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=00EPajdGrdY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/00EPajdGrdY/hqdefault.jpg",
+        "title": "KDE Says X Users Are Nazis",
+        "vote": 0
+    }
+]

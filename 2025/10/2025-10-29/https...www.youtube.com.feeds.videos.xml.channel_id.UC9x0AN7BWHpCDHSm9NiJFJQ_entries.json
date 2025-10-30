@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T17:51:36.393711+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T16:43:54+00:00",
+        "description": "Head to https://vanta.com/chuck to get started and claim $1,000 off.",
+        "id": 3934479,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/5UE_G0zGsO0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5UE_G0zGsO0/hqdefault.jpg",
+        "title": "The Silent Killer of Startups...",
+        "vote": 0
+    }
+]

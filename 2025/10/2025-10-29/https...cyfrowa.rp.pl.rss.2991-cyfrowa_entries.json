@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T07:57:15.970715+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T04:02:00+00:00",
+        "description": "Coraz wi\u0119cej os\u00f3b, zamiast ze specjalist\u0105, konsultuje si\u0119 w sprawie zdrowia z chatbotami. Eksperci alarmuj\u0105: AI kszta\u0142tuje oczekiwania pacjenta, zanim on trafi do gabinetu lekarza. I wieszcz\u0105 kryzys zaufania do medycyny.",
+        "id": 3928504,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art43243081-tak-doktor-bot-leczy-polakow-czy-ai-zastapi-lekarza",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tak \u201edoktor Bot\u201d leczy Polak\u00f3w. Czy AI zast\u0105pi lekarza?",
+        "vote": 0
+    }
+]

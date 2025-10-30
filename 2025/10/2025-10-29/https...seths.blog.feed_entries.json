@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T09:23:42.512208+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T08:31:00+00:00",
+        "description": "So many bits of information are flying around. Emails to us, articles, posts, videos, updates, memos, meetings, books&#8230; The most common (and apparently efficient) approach is to quickly look over the new information. If it confirms what you already know, check it off. If it contradicts what you believe, find a reason to ignore it. [&#8230;]",
+        "id": 3930199,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/beyond-the-checkbox-mindset",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Beyond the checkbox mindset",
+        "vote": 0
+    }
+]

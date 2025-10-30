@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T19:48:47.408265+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T19:48:47+00:00",
+        "description": "Budowa dodatkowych tor\u00f3w pozwoli zwi\u0119kszy\u0107 liczb\u0119 po\u0142\u0105cze\u0144 i skr\u00f3ci\u0107 czas podr\u00f3\u017cy.",
+        "id": 3935480,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/inwestycje/art43256081-blizej-realizacji-waznej-inwestycji-na-pomorzu-wiecej-pociagow-pojedzie-na-hel",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bli\u017cej realizacji wa\u017cnej inwestycji na Pomorzu. Wi\u0119cej poci\u0105g\u00f3w pojedzie na Hel",
+        "vote": 0
+    }
+]

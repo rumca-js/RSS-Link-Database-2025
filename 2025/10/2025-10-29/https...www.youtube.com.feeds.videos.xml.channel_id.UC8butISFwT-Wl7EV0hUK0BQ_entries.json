@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T16:26:12.944343+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T15:53:38+00:00",
+        "description": "Lean Kubernetes and prepare to pass the Certified Kubernetes Administrator (CKA) examination. This course is designed to provide a deep, practical understanding of Kubernetes administration, from foundational concepts to advanced troubleshooting. \n\n\ud83d\udcbb All commands and code from the course (link will work soon): https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass\n\nCourse developed by @beau \n\n\ud83c\udfd7\ufe0f The Linux Foundation provided a grant to make this course possible. \n\n\u2b50\ufe0f Course Contents \u2b50\ufe0f\n\u2328\ufe0f 0:00:00 Introduction\n\n\u2328\ufe0f 0:04:17 Kubernetes Fundamentals and Lab\n- Understanding the Kubernetes Architecture\n- Core Kubernetes Objects\n- Setting Up Your CKA Practice Environment\n\n\u2328\ufe0f 0:20:03 Cluster Architecture, Installation & Configuration\n- Bootstrapping a Multi-Node Cluster with kubeadm\n- Managing the Cluster Lifecycle\n- Implementing a Highly-Available (HA) Control Plane\n- Managing Role-Based Access Control (RBAC)\n- Application Management with Helm and Ku",
+        "id": 3933642,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Fr9GqFwl6NM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fr9GqFwl6NM/hqdefault.jpg",
+        "title": "Kubernetes Course \u2013 Certified Kubernetes Administrator Exam Preparation",
+        "vote": 0
+    }
+]

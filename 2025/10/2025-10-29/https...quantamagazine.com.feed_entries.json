@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zack Savitsky",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T15:18:12.353481+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T14:25:09+00:00",
+        "description": "The theoretical physicist and best-selling author finds inspiration in politics and philosophy for rethinking space and time.            <p>The post <a href=\"https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/\" target=\"_blank\">Carlo Rovelli\u2019s Radical Perspective on Reality</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3932914,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Carlo-Rovelli-QA-cr-Jan-Jackle-Default.webp",
+        "title": "Carlo Rovelli\u2019s Radical Perspective on Reality",
+        "vote": 0
+    }
+]

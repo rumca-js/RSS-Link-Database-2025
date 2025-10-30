@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T09:05:55.879813+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T02:06:00+00:00",
+        "description": "Niemal po\u0142owa turyst\u00f3w odwiedzaj\u0105cych Grecj\u0119 przyje\u017cd\u017ca na wyspy. Je\u015bli maj\u0105 one utrzyma\u0107 swoj\u0105 pozycj\u0119 w czo\u0142\u00f3wce \u015bwiatowych kierunk\u00f3w turystycznych b\u0119d\u0105 musia\u0142y odnowi\u0107 infrastruktur\u0119. A to b\u0119dzie kosztowa\u0107 35 miliard\u00f3w euro w ci\u0105gu najbli\u017cszej dekady \u2013 wynika z raportu Narodowego Banku Grecji.",
+        "id": 3929954,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art43251701-bez-miliardow-euro-turystyka-na-wyspach-sie-zalamie-twierdzi-grecki-bank-centralny",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bez 35 miliard\u00f3w euro turystyka na wyspach si\u0119 za\u0142amie \u2013 twierdzi grecki bank centralny",
+        "vote": 0
+    }
+]

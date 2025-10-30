@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T18:18:16.871307+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T17:41:01+00:00",
+        "description": "Get a free 15-day trial of Odoo\u2019s all-in-one business solution and see how it can make your life easier! Check it out at https://www.odoo.com/ltt\n\nToday Elijah finishes the 8v8 Gaming Setup Linus tasked him with over 1 month ago. It was a painful journey with sourcing hardware, peripherals, software and much more. Will he be able to complete it? Will it flop? IDK time to find out!\n\nDiscuss on the forum: https://linustechtips.com/topic/1625642-the-impossible-16-player-gaming-setup-is-complete/\n\nMINISFORUM BD790I X3D Mini ITX Motherboard: https://geni.us/HZ4B\nG.SKILL Ripjaws DDR5 SO-DIMM 5600MT/s CL40 RAM: https://geni.us/SHSsE9\nCrucial P5 Plus 1TB NVMe SSD: https://geni.us/n0Wii7\nPowerColor Reaper AMD Radeon RX 9070 XT 16GB GPU: https://geni.us/KWdb\nSeasonic Focus SPX-750 750W 80+ Platinum Full-Modular SFX Power Supply (REFURBISHED): https://geni.us/GIAjr\nMotion Grey Chair: https://lmg.gg/motiongrey\nGGROCK: https://www.ggcircuit.com/ggrock\nHammond Server Racks: https://www.hammfg.com/d",
+        "id": 3934713,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9yanqmc01ck",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9yanqmc01ck/hqdefault.jpg",
+        "title": "The IMPOSSIBLE 16-Player Gaming Setup is COMPLETE!",
+        "vote": 0
+    }
+]

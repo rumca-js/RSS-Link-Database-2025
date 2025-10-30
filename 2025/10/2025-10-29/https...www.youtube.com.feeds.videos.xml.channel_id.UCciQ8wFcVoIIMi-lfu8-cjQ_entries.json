@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T23:22:42.549061+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T22:00:27+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about an experiment that tries to challenge 2nd law of thermodynamics and the Carnot theorem of heat engines by using quantum machines\nLinks:\nhttp://science.org/doi/10.1126/sciadv.adw8462\nhttps://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.240401\nhttps://en.wikipedia.org/wiki/Quantum_heat_engines\nPeterson et al. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.240601 \nQuantum videos:\nhttps://youtu.be/0KSB8_UqPpk\nhttps://youtu.be/aaQAl5Vv9Kk\nhttps://youtu.be/v74TyFFegoM\n\n0:00 Challenging laws of thermodynamics with quantum physics \n1:50 Sadi Carn",
+        "id": 3937052,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=D2EC1q5mdXA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D2EC1q5mdXA/hqdefault.jpg",
+        "title": "2nd Law of Thermodynamics Law Challenged by a Tiny Quantum Engine",
+        "vote": 0
+    }
+]

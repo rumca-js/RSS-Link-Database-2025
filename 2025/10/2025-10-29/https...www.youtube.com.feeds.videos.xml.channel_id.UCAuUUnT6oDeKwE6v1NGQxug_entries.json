@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T15:57:02.360920+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T15:00:23+00:00",
+        "description": "Remember that gut-clenching fear of speaking up in class? Organizational psychologist Rafael Chiuzi reveals how that same feeling shows up in the workplace, limiting productivity and the free exchange of ideas. Backed by decades of research and hands-on consulting, he unpacks the science of psychological safety \u2014 and shares three actionable steps to build teams where curiosity thrives and courage replaces fear. (Recorded at TEDxMcMasterU on March 5, 2022)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doe",
+        "id": 3933086,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6OWzmfJVloo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6OWzmfJVloo/hqdefault.jpg",
+        "title": "The Most Powerful Predictor of Team Success | Rafael Chiuzi | TED",
+        "vote": 0
+    }
+]

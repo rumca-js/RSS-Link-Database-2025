@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T15:34:19.416006+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T14:03:14+00:00",
+        "description": "Bardzo dobra gra.",
+        "id": 3932942,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=GLdJ4VkGt0s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GLdJ4VkGt0s/hqdefault.jpg",
+        "title": "Pok\u00e9mon Legends Z-A: Nie narzeka\u0107 challenge",
+        "vote": 0
+    }
+]

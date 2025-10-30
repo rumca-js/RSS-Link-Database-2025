@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/SUmidcyber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T17:36:12.113297+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T16:38:19+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>New technical analysis of Tangerine Turkey - a sophisticated cryptomining operation spreading via USB and abusing Windows LOLBins.</p> <p><strong>Key Findings:</strong></p> <ul> <li>USB VBS dropper with worm capabilities</li> <li>LOLBin abuse (printui.exe)</li> <li>Multi-stage persistence</li> <li>XMRig miner payload</li> </ul> <p><strong>My Contribution:</strong><br/> Developed custom Yara rule detecting:</p> <ul> <li>VBS/BAT components</li> <li>Service creation</li> <li>Defender evasion</li> <li>Known IOCs</li> </ul> <p>Practical detection for SOC teams against this emerging threat.</p> <p>#MalwareAnalysis #CyberSecurity #YaraRules #ThreatHunting</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SUmidcyber\"> /u/SUmidcyber </a> <br/> <span><a href=\"https://github.com/SUmidcyber/YaraRule/tree/main/TangerineTurkey_Operational_Analysis\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineerin",
+        "id": 3934398,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1oj9gi2/tangerine_turkey_malware_analysis_yara_rule",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tangerine Turkey Malware Analysis & Yara Rule",
+        "vote": 0
+    }
+]

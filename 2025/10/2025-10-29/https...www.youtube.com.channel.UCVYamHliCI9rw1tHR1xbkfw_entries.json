@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave2D",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T15:23:59.000290+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T15:07:36+00:00",
+        "description": "My review of the Legion Pro 7 with the AMD Ryzen 9955HX3D. The best performing 16\" Gaming Laptop from Lenovo.\nLegion Pro 7 - https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-7-gen-10-16-inch-amd/83ructo1wwca1.\n\nIf you'd like to support the channel, consider a Dave2D membership by clicking the \u201cJoin\u201d button above!\n\nhttp://twitter.com/Dave2D\nhttp://www.instagram.com/Dave2D\nhttps://discord.gg/Dave2D",
+        "id": 3932924,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=76XuLfX1jjw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 635,
+        "source_url": "https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/76XuLfX1jjw/hqdefault.jpg",
+        "title": "The Gaming Laptop for Pros",
+        "vote": 0
+    }
+]

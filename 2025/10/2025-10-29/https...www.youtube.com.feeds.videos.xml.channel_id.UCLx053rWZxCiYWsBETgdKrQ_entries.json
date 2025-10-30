@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "LGR",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T12:58:13.289522+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T12:31:01+00:00",
+        "description": "Taking a look at Creative Insights ScreenToyz! Gimmicky mid 90s peripherals that plug into a computer keyboard port letting you control \"interactive screensavers\"... so, a game then, right? Ha. Yeah they sure tried something, charged $50 for it, failed spectacularly, and that's how you end up on LGR 30 years later.\n\n\u25cf LGR things elsewhere:\nPatreon https://www.patreon.com/LazyGameReviews\nBsky https://bsky.app/profile/lgr-yt.bsky.social\n\n\u25cf Archive of the Screen Toyz software CD-ROM:\nhttps://archive.org/details/screentoyz-cd-stitch\n\n\u25cf Background music licensed from Epidemic Sound:\nhttps://www.epidemicsound.com\n\n\u25cf Halloween stock footage licensed from Storyblocks:\nhttps://www.storyblocks.com/",
+        "id": 3931375,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bevfaEbteGU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 801,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bevfaEbteGU/hqdefault.jpg",
+        "title": "1994 ScreenToyz Interactive Screensaver \ud83c\udf83 An LGR Halloween Thing",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T08:51:38.412542+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T02:15:08+00:00",
+        "description": "MiniMax M2 review. Now the best open source AI model. #ai #ainews #aimodel #llm #aitools #agi \n\nThanks to our sponsor Gamma. Try Gamma Agent for free today! https://gamma.app/?utm_source=youtube&utm_medium=influencer&utm_campaign=agent_oct25&utm_content=akg_theAIsearch\n\nMinimax M2 https://www.minimax.io/news/minimax-m2\nUse online https://agent.minimax.io/\nAlso see MiniMax\u2019s new video generator: https://youtu.be/bfOLxA_8axk\n\n0:00 MiniMax M2 intro\n1:20 Photoshop clone\n3:57 3D map\n6:11 Image to puzzle\n7:12 Beehive simulation\n8:37 Financial analysis\n10:14 Format raw data\n11:35 Gamma\n12:57 CRM dashboard\n13:52 Racing game\n14:51 Medical research\n16:39 Hallucination test\n17:26 Why open weights matters\n18:59 Minimax M2 specs and benchmarks\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/e",
+        "id": 3929337,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xt6_zIKeX6A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xt6_zIKeX6A/hqdefault.jpg",
+        "title": "This new open-source AI model is a BEAST",
+        "vote": 0
+    }
+]

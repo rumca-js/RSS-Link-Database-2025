@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xiaomi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T12:53:30.007278+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T12:01:06+00:00",
+        "description": "Designed for modern living, the #MijiaRefrigeratorCrossDoor 502L offers premium design, massive storage, Ag+ Fresh technology, and an adjustable i Fresh convertible zone for smarter, fresher daily life.\n\nLearn more: \nhttps://s.mi.com/3l7EdObB (Official website) \nhttps://twitter.com/xiaomi (Twitter)\nhttps://facebook.com/xiaomiglobal (Facebook)\nhttps://instagram.com/xiaomi.global (Instagram)\nhttps://www.tiktok.com/@xiaomi.official (TikTok)\nhttps://www.pinterest.com/xiaomiglobal (Pinterest)\nhttps://c.mi.com (Xiaomi Community)\nhttps://blog.mi.com (Xiaomi Blog)",
+        "id": 3931373,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o8EXavVF1Ys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 800,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCspJ6mFfCwOV4qFjZWi2wg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o8EXavVF1Ys/hqdefault.jpg",
+        "title": "Meet Mijia Refrigerator Cross Door 502L",
+        "vote": 0
+    }
+]

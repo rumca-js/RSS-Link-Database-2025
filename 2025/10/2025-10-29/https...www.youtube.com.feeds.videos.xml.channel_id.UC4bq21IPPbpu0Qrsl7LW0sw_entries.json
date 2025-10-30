@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T16:38:08.257804+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T16:17:05+00:00",
+        "description": "Meta\u2019s AI shake up: layoffs, poaching, and consolidation.\n\nMeta just laid off 600 AI researchers, weeks after stealing 50 from OpenAI and Google.\nThe company says it\u2019s \u201creorganizing around LAA,\u201d but that really means less R&D, more products.\nThis could reshape the AI job market, cool down salaries, and speed up open source releases.\nBut the question remains, are they consolidating innovation, or control?\n\n\ud83d\udc49Hear the full breakdown on The Slidebean Stand-Up; streaming now on Spotify, Apple Podcasts, and all major podcast platforms.",
+        "id": 3933688,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/ELsjgnFQayU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ELsjgnFQayU/hqdefault.jpg",
+        "title": "Meta\u2019s AI layoffs reveal a bigger shift in the industry",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T13:48:00.288689+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T13:07:00+00:00",
+        "description": "<p>In September, the Python Software Foundation (PSF) co-signed the <a href=\"https://openssf.org/blog/2025/09/23/open-infrastructure-is-not-free-a-joint-statement-on-sustainable-stewardship/\" target=\"_blank\">Open Infrastructure is Not Free: A Joint Statement on Sustainable Stewardship Letter</a> published by the <a href=\"https://openssf.org\" target=\"_blank\">Open Source Security Foundation</a> (OpenSSF) as a steward of the <a href=\"https://pypi.org\" target=\"_blank\">Python Package Index</a> (PyPI). As a follow up, I would like to share a bit more about the concerns expressed in this letter as they relate to our community and the PSF.<br /></p><h2 style=\"text-align: left;\">History and Current Conditions</h2><p>PyPI (and Python) have continued to experience effectively exponential growth in usage over the past decade, from October 2018 to the present. This is clear in our telemetry:&nbsp;</p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleuse",
+        "id": 3932087,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/10/open-infrastructure-is-not-free-pypi.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikRtqvW0-U1lpe8glltzrF71lqUD-GVjlT-5xf31OOEWT0KnjX0fKlGCCDs4LV1B-gqaSvbZtwSXLdGWquTEotZ57o9Mhfyphd3zLLEViwuZVHBBa_cJg9rxMx8raOIHTMH_l88n1F5a5JKaewAVkgGh-S4nsNuj1x8GRrv6IuN188LCQqRQ/w400-h149/pypi_dailyrequestsovertime.png",
+        "title": "Open Infrastructure is Not Free: PyPI, the Python Software Foundation, and Sustainability",
+        "vote": 0
+    }
+]

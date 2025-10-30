@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T17:00:19.256695+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T16:30:25+00:00",
+        "description": "You may have seen people talking about the Windows 7 market share spiking in a way that makes absolutely no sense and today we're here to talk about that.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nWindows Worldwide: https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/\nSteam Hardware Survey: https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam\nWindows Latest: https://www.windowslatest.com/2025/10/02/no-windows-7-isnt-gaining-market-share-in-2025/\nWindows Singapore: https://gs.statcounter.com/windows-version-market-share/desktop/singapore\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n====",
+        "id": 3933910,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pQFYbjyTJu8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pQFYbjyTJu8/hqdefault.jpg",
+        "title": "What Happened To The Windows 7 Market Share?",
+        "vote": 0
+    }
+]

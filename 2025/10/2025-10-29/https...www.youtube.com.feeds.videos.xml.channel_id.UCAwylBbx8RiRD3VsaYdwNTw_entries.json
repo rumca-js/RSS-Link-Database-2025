@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Video Advice",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T17:57:06.970441+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T17:00:26+00:00",
+        "description": "\ud83c\udf93 Start learning cyber security with TryHackMe: https://tryhackme.com/videoadvice. Use my code \"ADVICE25\" to get 25% off on annual subscription.\n\nGary McKinnon is the hacker known as \u201cthe most dangerous hacker in the world.\u201d\nHe broke into CIA, NASA, the U.S. military, and the Department of Defense \u2014 not to steal, but to search for the truth about hidden technology and extraterrestrial life.\nThe U.S. government accused him of committing the biggest military computer hack in history and threatened him with up to 60 years in prison.\nBut what he discovered inside those classified systems\u2026 was something no one was supposed to see.\n\nThis interview footage is courtesy of Gary McKinnon \u2014 you can watch the original full conversation on his channel here: https://www.youtube.com/watch?v=ZKfKIUXhqSM\n\nSources: \nUFO Hacker Gary McKinnon talks about NASA Hack - https://www.youtube.com/watch?v=ZKfKIUXhqSM\nGary McKinnon interviewed by Richard Dolan - https://www.youtube.com/watch?v=IhUC80M8X1s\nRichpla",
+        "id": 3934501,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HzPtomQOj8U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 564,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAwylBbx8RiRD3VsaYdwNTw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HzPtomQOj8U/hqdefault.jpg",
+        "title": "He Hacked the US Government \u2014 What He Found Was Terrifying",
+        "vote": 0
+    }
+]

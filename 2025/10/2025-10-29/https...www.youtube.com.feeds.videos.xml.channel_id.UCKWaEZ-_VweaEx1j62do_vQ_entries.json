@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T12:02:42.930213+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T10:01:51+00:00",
+        "description": "Explore the podcast \u2192https://ibm.biz/BdbyJY\n\nIs a safe AI browser even possible?  \n\nOn this week\u2019s super spooky Halloween episode of Security Intelligence, host Matt Kosinski and panelists Suja Viswesan, J.R. Rao and Dave McGinnis discuss the terrifying security risks of ChatGPT Atlas. Plus: The ghost network spreading malware on YouTube, an invisible worm that drops a \u201cZombi\u201d payload and AWS\u2019s brush with the grave. (Notice a theme?) \n\n00:00-  Intro\n01:32-  AI browser safety\n11:03 - YouTube\u2019s Ghost Network\n21:33 -  GlassWorm spreads\n28:45 -  Everyone\u2019s bad at mobile security\n37:20 - Security lessons from the AWS outage\n\n\nAnd stick around for a sneak peek of a very special episode at the end.  \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity.  \n\nLearn more about cybersecurity \u2192 https://ibm.biz/BdbyJ2",
+        "id": 3931264,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zc8qBG99GWk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zc8qBG99GWk/hqdefault.jpg",
+        "title": "Is ChatGPT Atlas safe? Plus: invisible worms, ghost networks and the AWS outage",
+        "vote": 0
+    }
+]

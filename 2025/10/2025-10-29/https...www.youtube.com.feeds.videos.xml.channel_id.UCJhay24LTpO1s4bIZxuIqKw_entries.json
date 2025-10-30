@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T17:52:42.974847+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T17:03:07+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nNew (and Old) C++ Standard Library Containers - How to Choose the Right Container in C++26 and Beyond - Alan Talbot - ACCU 2025\n---\n\nChoosing the right container and using it correctly can have a profound impact on the performance of a program. The many containers in the C++ Standard Library exist largely because they provide different performance profiles. Choosing between them requires an understanding of the speed and size tradeoffs of each container and the difference between algorithmic complexity and actual behavior. Unfortunately, partly for historical reasons, the APIs of the Standard Library containers can be misleading in this regard. They are also a moving target: C++26 will provide two new containers (the first since C++11), and C++23 provided four new container adaptors. Improvements to containers appear in every new version of C++, and there are at least two container proposals in the early stages, targeted at C++29 or b",
+        "id": 3934485,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TtbYGico7bI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TtbYGico7bI/hqdefault.jpg",
+        "title": "New (& Old) C++ Standard Library Containers - How to Choose the Right Container in C++26 and Beyond",
+        "vote": 0
+    }
+]

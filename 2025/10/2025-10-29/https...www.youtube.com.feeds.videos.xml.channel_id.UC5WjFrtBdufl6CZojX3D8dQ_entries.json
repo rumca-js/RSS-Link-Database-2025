@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-29T19:18:23.271268+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T18:35:13+00:00",
+        "description": "Go behind the scenes with Tesla designers & engineers on what went into making the new Model Y Performance\n\nDesigned to deliver performance that\u2019s just as good on your daily drive as it is on the open road \u2014 Available now in the US & Europe\n\nSpecs:\n\u2013 Acceleration:  0-60 mph in 3.3s | 0-100 km/h in 3.5s\n\u2013 Top speed:  155 mph | 250 km/h\n\u2013 Range:  306 mi (EPA) | 580 km (WLTP)\n\nDesign yours - https://www.tesla.com/modely/design\n\nVehicle exterior upgrades for even better performance:\n\u2013 New front + rear fascia & carbon spoiler for better aerodynamics \n\u2013 Optimized wheels & tires for precision control \n\u2013 Performance carbon spoiler = greater downforce, reduced drag  \n\nA consistently smooth & stable ride: \n\u2013 Adaptive damping adjusts handling based on road conditions \n\u2013 New Drive Modes provide more freedom for high-speed driving \n\u2013 Staggered wheel + tire fitment provides better grip and steering \n\nHigher range:\nMore range thanks to new high-density battery cells with increased charge capacity \n\n",
+        "id": 3935180,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DYcNfFeRPIk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DYcNfFeRPIk/hqdefault.jpg",
+        "title": "Designing the New Model Y Performance",
+        "vote": 0
+    }
+]
