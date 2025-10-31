@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T15:45:54.799047+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T14:30:58+00:00",
+        "description": "<p>Joe Rosensteel:</p>\n\n<blockquote>\n  <p>I have no plan to purchase a GM vehicle, but I do rent cars. GM makes up a sizable portion of rental car fleets. At some point in the future those cars will no longer support CarPlay. I\u2019m not going to sign up for a GM federated ID that stores my login credentials in their cloud. I\u2019m not going to individually sign into apps in the car like Google Maps with my Google ID that I use for way more than just navigation. There\u2019s no chain of trust with me and this random car from GM. No convenience that is achieved in exchange for increased exposure risk for storing my sensitive data in a car I don\u2019t own.</p>\n</blockquote>\n\n<p>If GM goes through with this abandonment of CarPlay, I don\u2019t see how they\u2019ll continue to sell any vehicles to rental agencies. I would never rent a car without CarPlay, and I would never consider signing up for a GM cloud service just to drive a rental car. Complete dealbreakers.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018CarPlay S",
+        "id": 3942384,
+        "language": "",
+        "link": "https://joe-steel.com/2025-10-22-Why-GM-Will-Give-You-Gemini-But-Not-CarPlay.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CarPlay Seems Essential for Rental Fleets",
+        "vote": 0
+    }
+]

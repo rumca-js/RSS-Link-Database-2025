@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T10:00:10.113425+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T09:03:00+00:00",
+        "description": "When we&#8217;re a little behind, we borrow to catch up. Perhaps we borrow goodwill and spend less time than we might on a project. Or we need some money to pay the rent, so we borrow against a paycheck. And a good night&#8217;s sleep is tempting to borrow from as well. The borrowing compounds, with [&#8230;]",
+        "id": 3939654,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/a-little-ahead-vs-a-little-behind",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A little ahead (vs. a little behind)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T17:41:19.508460+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T16:30:15+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/VyjyUdVigiI\" width=\"480\" alt=\"thumbnail\" title=\"Servo Browser Finally Hits A Major Milestone\" /></p>Finally after all these years the Servo browser project has been tagged with its 0.0.1 release, after a mess of an early life leading to basically the end of the project but now it has been fully revived.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Server Repo: https://github.com/servo/servo<br />Servo First Commit: https://github.com/servo/servo/commit/ce30d4520d67f2c6ef960571a9b3e450c5dcbebe<br />Servo Revival: https://servo.org/blog/2023/01/16/servo-2023/<br />Servo Rust Article: https://news.itsfoss.com/servo-rust-web-engine/<br />Servo 0.0.1 Release Article: https://servo.org/bl",
+        "id": 3943476,
+        "language": "en",
+        "link": "https://odysee.com/servo-browser-finally-hits-a-major:24fc604b8d282b226091928dda97eb0099ab2f05",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/VyjyUdVigiI",
+        "title": "Servo Browser Finally Hits A Major Milestone",
+        "vote": 0
+    }
+]

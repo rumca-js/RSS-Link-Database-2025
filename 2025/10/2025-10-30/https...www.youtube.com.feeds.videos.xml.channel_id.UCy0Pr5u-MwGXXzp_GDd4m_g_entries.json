@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julie Nolke",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T18:19:04.434268+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T18:04:17+00:00",
+        "description": "Trick or Treating is just for kids?? That's news to me... Happy Halloween! Enjoy this week's spooky themed video!\n\nSign up to my Patreon for behind the scenes bloopers and early access to videos here: https://www.patreon.com/julienolke\n\nActors: Julie Nolke\nWriter: Julie Nolke\nCamera: Sam Larson\nEditor: Alec McKay",
+        "id": 3943710,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_A1dxw_T6dw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 170,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_A1dxw_T6dw/hqdefault.jpg",
+        "title": "Adults who still Trick or Treat",
+        "vote": 0
+    }
+]

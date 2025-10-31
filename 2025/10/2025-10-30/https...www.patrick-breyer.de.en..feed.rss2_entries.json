@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Breyer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T21:55:32.883577+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T21:43:36+00:00",
+        "description": "<p>Denmark, currently presiding over the EU Council, <a href=\"https://www.euractiv.com/news/danish-presidency-backs-away-from-chat-control/\">proposes a major change</a> to the much-criticised EU chat control proposal to search all private chats for suspicious content, even at the cost <span >\u2026</span></p>",
+        "id": 3945607,
+        "language": "en-GB",
+        "link": "https://www.patrick-breyer.de/en/half-good-new-danish-chat-control-proposal",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 249,
+        "source_url": "https://www.patrick-breyer.de/en/?feed=rss2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Half-good new Danish Chat Control proposal",
+        "vote": 0
+    }
+]

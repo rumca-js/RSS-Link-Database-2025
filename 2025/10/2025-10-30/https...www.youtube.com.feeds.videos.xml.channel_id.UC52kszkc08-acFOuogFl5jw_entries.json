@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tibees",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T10:16:39.480782+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T10:12:21+00:00",
+        "description": "To learn for free on Brilliant, go to https://brilliant.org/tibees/. Brilliant\u2019s also given my viewers 20% off an annual premium subscription, which gives you unlimited daily access to everything on Brilliant. \n\nThis video takes a look at some passages from Carl Sagan's book 'A Demon Haunted World.\"\nAmazon link to book: https://amzn.to/47jc7kQ\n\nMy book is out now! A Guide To Making Friends in the Fourth Dimension: https://tibees.com/",
+        "id": 3939757,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5YvPyUhjnEw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 843,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52kszkc08-acFOuogFl5jw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5YvPyUhjnEw/hqdefault.jpg",
+        "title": "Carl Sagan's Guide to Not Being Fooled",
+        "vote": 0
+    }
+]

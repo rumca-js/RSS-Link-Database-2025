@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T11:32:55.293828+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T10:59:04+00:00",
+        "description": "Tensions remain with protests expected to continue, after demonstrations were reported in some towns overnight.",
+        "id": 3940461,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c04gqnykl64o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ab/live/ce979f90-b580-11f0-846c-c5e20f0b86ee.jpg",
+        "title": "Tanzania tells civil servants to work from home after protests mar election",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T02:15:49.312729+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T01:46:49+00:00",
+        "description": "Rant. We have a problem.\nJoanna's WSJ video: https://youtu.be/f3c4mQty_so?si=XfZ9c5-3VKjYPeru\nThe Neo humanoid robot: https://x.com/1x_tech/status/1983233494575952138\n\nMKBHD Merch: http://shop.MKBHD.com\n\nIntro Track: Jordyn Edmonds\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 3937997,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=j31dmodZ-5c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/j31dmodZ-5c/hqdefault.jpg",
+        "title": "The Problem with this Humanoid Robot",
+        "vote": 0
+    }
+]

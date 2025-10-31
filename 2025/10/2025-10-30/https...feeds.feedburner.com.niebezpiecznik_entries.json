@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T13:39:44.926304+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T11:28:04+00:00",
+        "description": "<p>Dzi\u015b rano platforma sky-shop.pl, kt\u00f3ra umo\u017cliwia ka\u017cdemu za\u0142o\u017cenie swojego sklepu internetowego (i kt\u00f3rej tw\u00f3rc\u0105 jest Przemo od &#8220;phpBB2 by Przemo&#8221;), poinformowa\u0142a swoich klient\u00f3w (czyli w\u0142a\u015bcicieli sklep\u00f3w) o tym, \u017ce dane ich klient\u00f3w (czyli zapewne sporej cz\u0119\u015bci z Was, drodzy internauci) zosta\u0142y wykradzione. <strong>Poszkodowanych ma by\u0107 9000 r\u00f3\u017cnych sklep\u00f3w</strong>, nie podano jednak sumarycznej liczby u\u017cytkownik\u00f3w, kt\u00f3rych dane pozyska\u0142 w\u0142amywacz.<span id=\"more-26681\"></span></p>\n<h3>Jak ustali\u0107, czy by\u0142em klientem sklepu na platformie sky-shop.pl?</h3>\n<p>Zacznijmy od najwa\u017cniejszego. Sky-shop poinformowa\u0142o w\u0142a\u015bcicieli sklep\u00f3w, ale to nie sky-shop b\u0119dzie informowa\u0107 u\u017cytkownik\u00f3w tych sklep\u00f3w. To zadanie dla administrator\u00f3w poszczeg\u00f3lnych sklep\u00f3w i o ile wedle naszej wiedzy sky-shop wskaza\u0142 im jak mo\u017cna to zrobi\u0107 za pomoc\u0105 platformy, to obawiamy si\u0119, \u017ce to mo\u017ce oznacza\u0107, i\u017c niekt\u00f3rzy z Was dowiedz\u0105 si\u0119 o tym, \u017ce Wasze dane wyciek\u0142y dopiero za kilka (kilkana\u015bcie?) dni",
+        "id": 3941428,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/10/sky-shop-hacked-350x59.png",
+        "title": "Atak na klient\u00f3w 9000 r\u00f3\u017cnych polskich sklep\u00f3w internetowych",
+        "vote": 0
+    }
+]

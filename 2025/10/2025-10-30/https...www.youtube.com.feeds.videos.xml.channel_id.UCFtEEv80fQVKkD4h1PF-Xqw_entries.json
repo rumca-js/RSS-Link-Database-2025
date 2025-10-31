@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T16:30:31.237240+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T15:29:47+00:00",
+        "description": "AI agents can become essential team members at any organization if they're deployed thoughtfully in business workflows. In this episode of Microsoft\u2019s WorkLab podcast, AI and automation expert Pascal Bornet, joins host Molly Wood to share practical frameworks for helping business leaders design and implement agentic AI, run high impact pilots, and build the human skills (creativity, critical thinking, and social authenticity) that set Frontier Firms apart.\n\nBornet is a coauthor of the recent book Agentic Artificial Intelligence: Harnessing AI Agents to Reinvent Business, Work and Life: https://www.amazon.com/Agentic-Artificial-Intelligence-Harnessing-Reinvent-ebook/dp/B0F1DS36YC\n\n00:00 \u2013 People at the center of transformation\n00:22 \u2013 Introduction to WorkLab & guest background\n01:37 \u2013 Evolution of automation & AI agents\n03:43 \u2013 Defining agentic artificial intelligence\n06:55 \u2013 From apps to agents: the paradigm shift\n08:10 \u2013 The SPA framework: sensing, planning, acting, reflecting\n10:35 ",
+        "id": 3942766,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HXy3J1mGHRE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HXy3J1mGHRE/hqdefault.jpg",
+        "title": "AI and automation expert on how leaders use AI agents to get ahead | Pascal Bornet",
+        "vote": 0
+    }
+]

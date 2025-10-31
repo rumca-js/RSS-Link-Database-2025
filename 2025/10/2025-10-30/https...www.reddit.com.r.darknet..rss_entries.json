@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Throwaway2442244224",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T16:41:18.899718+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T15:27:52+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Just saw that unfortunately my old Mac is not compatible with Tails. Saw a tutorial to still make it work but it\u2019s not with an official version. </p> <p>Using only Tor is safe enough ? Which extra steps can I make to be even more anonymous ? Should I just buy a cheap windows PC instead and use Tails on it ? </p> <p>Edit : just checked and unfortunately Qubes OS is not compatible with the M1 chip either, so not possible to install it and run Whonix. But perhaps Whonix is enough ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Throwaway2442244224\"> /u/Throwaway2442244224 </a> <br/> <span><a href=\"https://www.reddit.com/r/darknet/comments/1ok2rev/alternative_to_tails_not_compatible_with_macbook/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/darknet/comments/1ok2rev/alternative_to_tails_not_compatible_with_macbook/\">[comments]</a></span>",
+        "id": 3942816,
+        "language": "en",
+        "link": "https://www.reddit.com/r/darknet/comments/1ok2rev/alternative_to_tails_not_compatible_with_macbook",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 681,
+        "source_url": "https://www.reddit.com/r/darknet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Alternative to Tails (not compatible with MacBook Pro M1 from 2020)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T20:47:51.462284+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T19:51:05+00:00",
+        "description": "American capitalism has grown hand in hand with the union movement and organized labor. From early railroad strikes in the 19th century and the 1935 National Labor Relations Act to rise of the UAW and modern union drives at large companies like Starbucks, WSJ explores how the labor movement shaped how industry operates in the U.S.\n\nChapters:\n0:00 The union movement\n0:44 The rise of unions\n2:47 The fall of unions\n5:40 The reinvention of unions \n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Unions #Capitalism #WSJ",
+        "id": 3944954,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bR_eODwlBmY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bR_eODwlBmY/hqdefault.jpg",
+        "title": "The Rise, Fall and Reinvention of American Labor Unions  | WSJ",
+        "vote": 0
+    }
+]

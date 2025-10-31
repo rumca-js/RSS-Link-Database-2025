@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T16:08:51.136408+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T14:01:33+00:00",
+        "description": "SteamOS 3.8 is here \u2014 and it\u2019s finally running flawlessly on the all-new ASUS ROG Xbox Ally X! After months of testing and failed boots on the Z2 Extreme APU, it\u2019s now working beautifully with the official main branch update.\nIn this video, I\u2019ll show you exactly how well SteamOS 3.8 performs on the ROG Xbox Ally X \u2014 full installation, system setup, and real-world gaming benchmarks. You\u2019ll see how it stacks up against the Steam Deck OLED at the same TDP and how performance scales all the way to 35W.\nWe test Cyberpunk 2077, Elden Ring, Spider-Man 2, Borderlands 4, and Doom: The Dark Ages \u2014 plus battery life results and tweaks for getting the best FPS possible with Simple Decky TDP and CSS Loader customization.\nIf you\u2019ve ever wanted SteamOS on the Ally X, this is your moment. Hit that LIKE button, drop a comment on which handheld I should test next (GPD Win 5? Legion Go 2?), and SUBSCRIBE for the latest handheld gaming breakthroughs!\n\nGet The ROG Xbox Ally X Here: https://bestbuycreators",
+        "id": 3942619,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=sDItnzfVoUU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sDItnzfVoUU/hqdefault.jpg",
+        "title": "Microsoft Won\u2019t Like This! SteamOS 3.8 On The ROG Xbox Ally X!",
+        "vote": 0
+    }
+]

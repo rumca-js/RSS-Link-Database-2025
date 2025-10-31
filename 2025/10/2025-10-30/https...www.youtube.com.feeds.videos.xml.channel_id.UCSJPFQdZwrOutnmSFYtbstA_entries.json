@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-30T14:08:04.219595+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-30T13:49:23+00:00",
+        "description": "Yeah, I know the thumbnail has almost nothing to do with the subject matter tonight, but who cares? I thought it would brighten up everyone's almost-Halloween. Join me, The Longman, Chris Gore, Movie Cynic and Despot as we get Stuckmanised hard, take a look at the growing backlash against the Witcher Season 4, and the news that Disney is officially pulling out of Doctor Who. \n\nSubscribe to Chris Gore: https://www.youtube.com/@FilmThreat\nSubscribe to Cynic: https://www.youtube.com/@TheMovieCynic\nSubscribe to Despot: https://www.youtube.com/@DespotofAntrim",
+        "id": 3941525,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=703nwQs9Kl8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/703nwQs9Kl8/hqdefault.jpg",
+        "title": "Open Bar #162 - Witcher Backlash, Shelby Oaks, Frankenstein, RIP Doctor Who",
+        "vote": 0
+    }
+]
