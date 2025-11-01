@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T10:08:13.953965+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T09:29:00+00:00",
+        "description": "The first things humans invented, before fire, the wheel or baked brie, was trust. Trusting the others in the village. Trusting that you could get a good night&#8217;s sleep. Trusting that what you heard was true. We&#8217;ve expanded the village from twenty people to billions. Walter Cronkite was effective because millions of people trusted him, [&#8230;]",
+        "id": 3948755,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/10/scams-at-scale",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Scams at scale",
+        "vote": 0
+    }
+]

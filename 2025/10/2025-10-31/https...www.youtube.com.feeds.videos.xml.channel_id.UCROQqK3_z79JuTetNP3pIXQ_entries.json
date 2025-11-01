@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "captainmidnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T20:18:07.909425+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T19:13:06+00:00",
+        "description": "This video is brought to you by Nebula Originals. Get a GREAT deal on Nebula now: https://go.nebula.tv/captainmidnight\nIn 1994, Burt Reynolds went on Jay Leno and things got weird very quickly, in this very strange chapter of talk show history. When Nickelodeon host Marc Summers made a few jokes at his expense, Burt lost it. This is my commentary on that incident.\nMusic by Epidemic Sound (http://www.epidemicsound.com)\nFollow me on Twitter: https://twitter.com/midnightcap\nFollow me on Facebook: https://www.facebook.com/midnightcap\nVideo edited by Andrew Elliott (Stalli111: https://www.youtube.com/user/Stalli111  )\nWritten by Graham Blackaby",
+        "id": 3953641,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=sH1BnTaZak4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 63,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCROQqK3_z79JuTetNP3pIXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sH1BnTaZak4/hqdefault.jpg",
+        "title": "When Jay Leno LOST CONTROL of The Tonight Show",
+        "vote": 0
+    }
+]

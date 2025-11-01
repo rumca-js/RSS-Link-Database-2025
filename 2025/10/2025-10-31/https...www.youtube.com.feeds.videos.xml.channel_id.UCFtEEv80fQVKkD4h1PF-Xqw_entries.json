@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T17:37:09.836317+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T16:09:18+00:00",
+        "description": "Deforestation and human activity are threatening Colombia\u2019s Middle Magdalena Valley, an endangered wildlife and ecosystem in north-central Colombia. Project SPARROW is stepping in with AI-powered conservation to help preserve this rich natural heritage. Developed by Microsoft\u2019s AI for Good Lab, this initiative equips Fundaci\u00f3n Biodiversa with solar-powered cameras and microphones that stream wildlife data via satellite to the cloud. AI models analyze the sounds and images instantly, giving researchers real-time insights without needing to trek into remote terrain. Scalable and open source, this breakthrough solution is poised to protect endangered ecosystems around the world.\n\nAudio Description: https://youtu.be/dfnaGgAnzQg\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://w",
+        "id": 3952167,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=r4skB5RbzfU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r4skB5RbzfU/hqdefault.jpg",
+        "title": "Protecting Colombia\u2019s endangered wildlife with Project SPARROW",
+        "vote": 0
+    }
+]

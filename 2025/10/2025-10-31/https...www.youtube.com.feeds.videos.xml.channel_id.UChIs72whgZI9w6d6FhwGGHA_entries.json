@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T16:27:55.448107+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T13:09:04+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nIntel's Arc GPU driver bugs have been Arc's nemesis since launch. We're revisiting Intel Arc drivers in 2025 to look at the post-Battlemage, pre-Celestial GPU driver situation. In this video, we test nearly every single button in Intel's graphics software, track 641 bugs across 10 months of updates, check for video card driver update lag following major PC game launches, and more. The focus today is on the driver package, usability, and bugs. Our most recent performance benchmarks for Arc can be found in our AMD RX 9060 XT GPU review.\n\nInterview with Tom Petersen about fixing the Intel Arc GPU drivers: https://www.youtube.com/watch?v=Qp3BGu3vixk\nFind our previous Intel Arc 2024 GPU benchmarks here: https://www.youtube.com/watch?v=w3WSqLEciEw\nThe original Intel Arc graphics driver deep-dive from 2022: https://www.youtube.com/watch?v=MjYSeT-T5uk\n\nThe best way to support our work is through our store: https://store.gam",
+        "id": 3951426,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fhECKZQI_Y8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fhECKZQI_Y8/hqdefault.jpg",
+        "title": "Intel Arc GPU Driver Problems Revisited: 2025 Arc Graphics Driver Review",
+        "vote": 0
+    }
+]

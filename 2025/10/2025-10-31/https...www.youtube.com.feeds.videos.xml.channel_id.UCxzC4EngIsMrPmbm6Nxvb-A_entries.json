@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T16:23:01.460993+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T15:34:05+00:00",
+        "description": "Hailed as a radical leap forward in technology by Russian media, while the rest of the world is a lot more skeptical, Russia's Burevestnik cruise missile made a successful test flight demonstrating its ability to fly in circles at near the speed of sound for 15 hours. Reanimating a concept the US abandoned in the 1960's as too provocative.\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley",
+        "id": 3951405,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Yihh1OdHI8M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Yihh1OdHI8M/hqdefault.jpg",
+        "title": "Is Russia's Nuclear Powered Cruise Missile A Legitimate Threat?",
+        "vote": 0
+    }
+]

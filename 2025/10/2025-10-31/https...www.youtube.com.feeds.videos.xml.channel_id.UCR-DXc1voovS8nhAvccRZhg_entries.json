@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T14:10:43.606501+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T14:00:54+00:00",
+        "description": "Qualcomm and Arduino just launched the Uno Q, and it's... weird.\n\nArduino sent me a review unit to test, after I had already placed an order for a production unit. Both came in the same week, but I still like to disclose if any review equipment is sent for testing!\n\nMentioned in this video:\n\n  - SBC Reviews - Uno Q: https://github.com/geerlingguy/sbc-reviews/issues/83\n  - Arduino Uno Q: https://www.arduino.cc/product-uno-q\n  - Radxa X4: https://radxa.com/products/x/x4/\n  - Raspberry Pi 5: https://www.raspberrypi.com/products/raspberry-pi-5/\n  - Arduino Yun: https://docs.arduino.cc/retired/boards/arduino-yun/\n  - Electromaker video on Uno Q projects: https://www.youtube.com/watch?v=Zf99bvQbwf8\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - What is the ",
+        "id": 3950201,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Vz3pD3_CDUE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vz3pD3_CDUE/hqdefault.jpg",
+        "title": "Arduino made a weird SBC",
+        "vote": 0
+    }
+]

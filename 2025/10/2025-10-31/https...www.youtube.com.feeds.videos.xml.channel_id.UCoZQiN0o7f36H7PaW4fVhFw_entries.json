@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T16:21:16.850964+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T14:00:14+00:00",
+        "description": "The Eden emulator had a recent update that completely changes the game for Snapdragon 8 Elite devices.  With the Odin 3 and KONKR Pocket Fit Elite on the way, it couldn't have come at a better time.  Here is a performance showcase with the REDMAGIC 10S Pro running the SD8 Elite Leading Version chipset.\n\nEden emulator: https://github.com/eden-emulator/Releases/releases\nREDMAGIC 10S Pro review: https://youtu.be/SuQ97wMBc2s\nGameSir X5 Lite controller: https://amzn.to/48VE6YR\nEmuReady website: https://www.emuready.com/\n\nBuy an Odin 3: https://tinyurl.com/RGC-Odin3\nKONKR Pocket Fit: https://youtu.be/rw22H2bk0oc\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nStickers and magnets: https://www.ebay.com/str/retrogamecorpscharitystore\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n03:03 glitchy and unplayable ga",
+        "id": 3951400,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4bXonHIiFVc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4bXonHIiFVc/hqdefault.jpg",
+        "title": "This New Eden Emulator Update is Fantastic",
+        "vote": 0
+    }
+]

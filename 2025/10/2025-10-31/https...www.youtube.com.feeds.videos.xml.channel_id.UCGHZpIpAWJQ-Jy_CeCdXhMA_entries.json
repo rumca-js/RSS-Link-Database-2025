@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cool Worlds",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T16:30:18.121031+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T16:05:23+00:00",
+        "description": "Use code coolworlds at https://incogni.com/coolworlds to get an exclusive 60% off an annual Incogni plan.\n\nIntelligent design purports that the Universe was made by a creator - God. One of the arguments often invoked to make this case is that the physical constants of the Universe are (apparently) finely tuned to permit life. But cosmologist Denis Sciama presented a thought-provoking analysis of this line of thought and suggested it might be possible to even test intelligent design. Join us today as we explore this fascinating concept.\n\nWritten & presented by David Kipping, edited by Jorge Casas\n\n\u2192 Support our research: https://www.coolworldslab.com/support\n\u2192 Get merch: https://crowdmade.com/collections/cool-worlds\n\u2192 Check out our podcast: www.youtube.com/@CoolWorldsPodcast\n\nTHANK-YOU to D. Smith, C. Bottaccini, D. Daughaday, S. Brownlee, E. West, T. Zajonc, A. De Vaal, M. Elliott, B. Daniluk, S. Vystoropskyi, S. Lee, Z. Danielson, C. Fitzgerald, C. Souter, M. Gillette, J. Rockett, M.",
+        "id": 3951429,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Hj7a4mPkbsY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 834,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpAWJQ-Jy_CeCdXhMA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hj7a4mPkbsY/hqdefault.jpg",
+        "title": "Why the Universe Looks Designed \u2014 But Might Not Be",
+        "vote": 0
+    }
+]

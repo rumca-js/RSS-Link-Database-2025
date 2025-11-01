@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T16:31:42.153084+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T15:03:32+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nTesting, Preconditions, Coverage and Templates in Safety-Critical C++ Code - Anthony Williams - ACCU 2025\n---\n\nSafety Critical code requires extensive testing to verify that the code does what it is supposed to do. This often maps to \"code coverage\" requirements.\n\nFor code that has preconditions, we may want to test that the precondition is checked, and results in the precondition violation handler being called.\n\nFor template code, every instantiation of a template is distinct. If your tests exercise a specific instantiation, that doesn't mean that other instantiations have the same behaviour: there might be template specializations with different behaviour, or the functions found during overload resolution with a different set of template parameters might have different behaviour.\n\nThis talk will go into more specifics about these areas, and ways that my team has found to address them.\n\nSlides: https://accu.org/conf-previous/accu2025",
+        "id": 3951442,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=L9jiRanMPnQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L9jiRanMPnQ/hqdefault.jpg",
+        "title": "Testing, Preconditions, Coverage and Templates in Safety-Critical C++ Code - Anthony Williams - ACCU",
+        "vote": 0
+    }
+]

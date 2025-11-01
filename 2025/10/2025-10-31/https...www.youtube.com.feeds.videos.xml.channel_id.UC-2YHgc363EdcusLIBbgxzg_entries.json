@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T15:50:50.987008+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T14:06:12+00:00",
+        "description": "Get Nebula (and access to my feature documentary, Oldest & Newest) using my link for 40% off an annual subscription: https://go.nebula.tv/joescott \n\nIt\u2019s Halloween, so we\u2019re returning to some spooky true crime stories, including some channel favorites like HH Holmes, The Somerton Man, Spring-Heeled Jack, the Sodder Children, and the Silent Twins. Enjoy!\n\nWant to support the channel? Here's how:\n\nPatreon: http://www.patreon.com/answerswithjoe\nChannel Memberships: https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg/join\nT-Shirts & Merch: https://laughsmarter.com\n\nCheck out my 2nd channel, Joe Scott TMI:\nhttps://www.youtube.com/channel/UCqi721JsXlf0wq3Z_cNA_Ew\n\nAnd my podcast channel, Conversations With Joe:\nhttps://www.youtube.com/channel/UCJzc7TiJ2nnuyJkUpOZ8RKA\n\nYou can listen to my podcast, Conversations With Joe on Spotify, Apple Podcasts, Google Podcasts, or wherever you get your podcasts.\nSpotify \ud83d\udc49 https://spoti.fi/37iPGzF\nApple Podcasts \ud83d\udc49 https://apple.co/3j94kfq\nGoogle Podc",
+        "id": 3951138,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aPqCMJDl22c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aPqCMJDl22c/hqdefault.jpg",
+        "title": "A Collection Of Spooky True Crime Stories",
+        "vote": 0
+    }
+]

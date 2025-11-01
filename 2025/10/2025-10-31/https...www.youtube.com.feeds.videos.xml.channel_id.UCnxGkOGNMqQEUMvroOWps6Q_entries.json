@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T17:57:36.414978+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T17:00:58+00:00",
+        "description": "Taken from JRE #2404 w/Elon Musk\nYouTube: https://youtu.be/O4wBUysNe2k\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 3952283,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=YcSIp8n-IXA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YcSIp8n-IXA/hqdefault.jpg",
+        "title": "Elon Musk Details DOGE\u2019s Most Shocking Discoveries \u2014 and Why AI Is Key to Solving the Debt Crisis",
+        "vote": 0
+    }
+]

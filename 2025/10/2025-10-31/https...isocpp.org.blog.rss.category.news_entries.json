@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T22:13:25.384994+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T20:16:09+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />When you pass an overloaded function like <code data-end=\"45\" data-start=\"42\">f</code> to <code data-end=\"61\" data-start=\"49\">std::apply</code>, the compiler can&rsquo;t peek inside the tuple to figure out which overload matches&mdash;it only sees an ambiguous callable and a single tuple argument.&nbsp;Because overload resolution happens before the tuple is unpacked, you need an extra layer (like a lambda) to forward the unpacked arguments and give the compiler enough information to pick the correct overload.</p>\n<h3>\n\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20250911-00/?p=111586\">Why can&rsquo;t std::apply figure out which overload I intend to use? Only one of them will work!</a></h3>\n<p>\n\tby Raymond Chen</p>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tConsider the following:</p>\n\t<pre tabindex=\"0\">\nvoid f(int, i",
+        "id": 3954080,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/10/why-cant-stdapply-figure-out-which-overload-i-intend-to-use-raymond-chen",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg",
+        "title": "Why can\u2019t std::apply figure out which overload I intend to use? -- Raymond Chen",
+        "vote": 0
+    }
+]

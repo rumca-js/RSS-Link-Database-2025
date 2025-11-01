@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T18:33:54.114923+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T16:57:23+00:00",
+        "description": "Thanks to MSI for sponsoring this content. Learn more about MSI's Black Friday discounts here: https://msi.gm/S2E1BB30\n\nOne of PC gaming's most infamously poor ports, it has been left to the modding community - and increasingly more powerful hardware over the years - to get the game into an acceptable state, to the point where RTX Remix support is now in a position to transform the game into a path-tracing showcase. Alex demonstrates just how poor the original version was on period-appropriate hardware and charts the game's \"evolution\" over the years, up to the work-in-progress RTX Remix mod from xoxor4d. Path tracing support is in its infancy, but it's already looking fantastic. \n\nSupport Modder xoxor4d: https://www.patreon.com/xoxor4d\nGTA 4 Path Tracing will be made publicly available here (when ready): https://github.com/xoxor4d\n\n00:00:00 Introduction\n00:01:26 GTA 4's Poor PC Legacy\n00:07:37 Path Tracing in GTA 4\n00:14:36 Conclusion",
+        "id": 3952779,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vGxPdcMQfwg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vGxPdcMQfwg/hqdefault.jpg",
+        "title": "Grand Theft Auto 4 PC - From Disaster Port To Path Traced Modding Showcase",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T20:33:27.609342+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T19:23:11+00:00",
+        "description": "This is a preview of my full course DSA Mastery - https://www.codebreakthrough.com/data-structures-and-algorithms\n\nLesson Notes - https://calcur.tech/notes\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n00:00 - Intro\n04:03 - My Approach to Learning DSA\n06:41 - Concepts and Practice\n07:57 - What Programming Language?\n12-06 - 3 Tips for Success\n16:48 - What Next?\n17:56 - Hands-on Intro\n19:52 - Classification of Numbers\n23:41 - Large Numbers\n25:42 - Overflow\n27:20 - Midpoints for Binary Search\n29:09 - Getting Max Values\n33:18 - Floating Point vs Decimals\n34:16 - Bankers Rounding\n35:02 - Outro\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - ",
+        "id": 3953686,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kBtCLTcB9bc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kBtCLTcB9bc/hqdefault.jpg",
+        "title": "Getting Started with Data Structures and Algorithms (DSA)",
+        "vote": 0
+    }
+]

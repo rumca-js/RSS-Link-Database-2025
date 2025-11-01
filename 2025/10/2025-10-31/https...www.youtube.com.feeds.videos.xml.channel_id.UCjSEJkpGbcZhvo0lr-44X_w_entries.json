@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T19:35:05.361479+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T17:05:03+00:00",
+        "description": "Want to map out your own infrastructure? Check out @MiroHQ here: https://miro.pxf.io/EE4ae9 \u2013 an intuitive diagramming platform with real-time collaboration, AI-powered diagram generation, and hundreds of customizable templates to visualize everything from home servers to enterprise systems.\n \nHomelab Gear: https://github.com/TechHutTV/homelab/blob/main/README.md\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.org/?referred_by=673908\n\n\ud83d\udcf7 MY GEAR \nHARD DRIVES: https://serverpartdeals.com/techhut\nMinisForum Tablet: https://amzn.to/3SeMmds\nBeelink N200: https://amzn.to/3xZjeQs\nRaspberry Pi 5: https://a",
+        "id": 3953302,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Y8rESF9O0Fs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y8rESF9O0Fs/hqdefault.jpg",
+        "title": "What HARDWARE is in my Homelab? - Home Server Tour",
+        "vote": 0
+    }
+]

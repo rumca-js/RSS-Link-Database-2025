@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Theena Kumaragurunathan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T04:29:36.487906+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T04:07:42+00:00",
+        "description": "Almost 50% of all internet traffic are non-human already. Unchecked, it could lead to a zombie internet.",
+        "id": 3947327,
+        "language": "en-US",
+        "link": "https://news.itsfoss.com/internet-is-dying",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2025/10/internet-is-dead.webp",
+        "title": "The Internet is Dying. We Can Still Stop It",
+        "vote": 0
+    }
+]

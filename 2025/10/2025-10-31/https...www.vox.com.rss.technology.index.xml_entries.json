@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Danielle Hewitt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T19:38:30.331327+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T14:10:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Shopping carts full of food\" data-caption=\"Carts full of groceries wait to be given to people in need at a Miami food bank before SNAP benefits are due to end because of the federal government shutdown. | Joe Raedle/Getty Images\" data-portal-copyright=\"Joe Raedle/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2244196090.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tCarts full of groceries wait to be given to people in need at a Miami food bank before SNAP benefits are due to end because of the federal government shutdown. | Joe Raedle/Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">On Saturday, Supplemental Nutrition Assistance Program (SNAP) benefits \u2014 also known as food stamps \u2014 will <a href=\"https://apnews.com/article/shutdown-snap-states-help-a5ab631a93a6d8087a4448117f026fb7\">run out</a> for more than 40 million Americans. Those millions of A",
+        "id": 3953330,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/466919/snap-benefits-shutdown-food-stamps-november",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2244196090.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The \u201cwelfare queen\u201d stereotype is back \u2014 and it\u2019s going viral",
+        "vote": 0
+    }
+]

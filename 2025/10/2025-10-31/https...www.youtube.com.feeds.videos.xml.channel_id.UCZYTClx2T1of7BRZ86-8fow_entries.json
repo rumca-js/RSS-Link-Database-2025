@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T16:04:13.510846+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-31T15:00:17+00:00",
+        "description": "If you find these trends concerning and you want to make a difference, you can go to http://controlai.com/scishow, where ControlAI has created tools to help you easily voice your concerns to your lawmakers in less than a minute. ControlAI is a non-profit working to keep humanity in control of AI by mobilizing everyone from concerned citizens to experts to raise awareness of the risks of superintelligence and push for international action to address them.\n\nArtificial intelligence is making its way into every corner of our world. But when leaders in the AI space raise concerns, it's helpful to know what they're worried about. Here's how AI works today.\n\nHosted by: Hank Green (he/him)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon",
+        "id": 3951161,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=90C3XVjUMqE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/90C3XVjUMqE/hqdefault.jpg",
+        "title": "We\u2019ve Lost Control of AI",
+        "vote": 0
+    }
+]
