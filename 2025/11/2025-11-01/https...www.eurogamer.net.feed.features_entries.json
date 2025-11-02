@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Robert Purchese",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T09:24:08.304702+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T08:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/arc-raiders-forst.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Hello and welcome back to our regular feature where we write a little bit about some of the games we've been playing. This week, Bertie tries to settle into the rhythm of <a href=\"https://www.eurogamer.net/games/hades-2\">Hades 2</a>; Chris presses Q to say \"thanks\" after being resurrected a lot; Connor plays the flute to diffuse tension like a musical negotiator; Dom starts hallucinating; Marie wonders why she rebuilt her island; and Will shares with us the secret game he tests mechanical keyboards on.</p> <p><a href=\"https://www.eurogamer.net/what-weve-been-playing-playing-the-flute-in-front-of-people-tends-to-diffuse-any-tension\">Read more</a></p>",
+        "id": 3956915,
+        "language": "en",
+        "link": "https://www.eurogamer.net/what-weve-been-playing-playing-the-flute-in-front-of-people-tends-to-diffuse-any-tension",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/arc-raiders-forst.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "What we've been playing - \"playing the flute in front of people tends to diffuse any tension\"",
+        "vote": 0
+    }
+]

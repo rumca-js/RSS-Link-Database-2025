@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kelli Wessinger",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T12:18:54.288446+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"In this photo illustration, the ChatGPT AI logo is seen displayed on a smartphone screen.\" data-caption=\"\" data-portal-copyright=\"Thomas Fuller/SOPA Images/LightRocket via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2242399885.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Every tech company now seems to have their own AI: Google Gemini. OpenAI\u2019s ChatGPT. MetaAI. Spending for AI is <a href=\"https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems\">reaching record highs</a>, powering a <a href=\"https://www.nytimes.com/2025/10/17/business/bull-market-trump-biden.html\">big boom</a> for the stock market. Even the <a href=\"https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf\">White House</a> wants in on the fun.</p>\n\n<p class=",
+        "id": 3957650,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/466649/ai-bubble-burst-data-centers-economy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2242399885.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "When the AI bubble pops",
+        "vote": 0
+    }
+]

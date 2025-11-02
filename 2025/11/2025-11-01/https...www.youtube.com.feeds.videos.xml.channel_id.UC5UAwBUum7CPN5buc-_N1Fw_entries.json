@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T08:48:23.891324+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T08:40:37+00:00",
+        "description": "Watch developer conferences from TuxCare: https://shownotes.tuxcare.com/?utm_campaign=The%20Linux%20Experiment&utm_source=youtube&utm_medium=social\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/Timestamps\n\nTimestamps:\n00:00 Intro\n00:46 Sponsor: TuxCare\n01:49 Python says no to 1.5 million dollars\n04:32 Unity Desktop is in trouble\n06:36 AUR under attack again\n07:54 Cosmic & PopOS aim for Mid december stable release\n09:37 Firefox will require extensions to list what data they collect\n11:11 ",
+        "id": 3956688,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aLSog92nyAU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aLSog92nyAU/hqdefault.jpg",
+        "title": "Python refuses $1.5M grant, Unity's in trouble, AUR attacked again - Linux Weekly News",
+        "vote": 0
+    }
+]

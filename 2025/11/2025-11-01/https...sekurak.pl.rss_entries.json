@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T03:52:00.517478+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T03:00:47+00:00",
+        "description": "<p>Kr\u00f3tko. 4 listopada startujemy z&#160; czterocz\u0119\u015bciowym szkoleniem Wst\u0119p do programowania w Pythonie.&#160; Wraz z Gynvaelem Coldwindem nauczymy Ci\u0119 podstaw programowania w Pythonie. Osobom, kt\u00f3re nie mia\u0142y wcze\u015bniej styczno\u015bci z programowaniem w Pythonie lub pr\u00f3bowa\u0142y swoich si\u0142, lecz bez powodzenia, poka\u017cemy (skutecznie), na czym warto skupi\u0107 si\u0119 na pocz\u0105tku.&#160; Zrozumiesz podstawowe...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/pokazemy-ci-jak-programowac-w-pythonie-bezplatnie/\">Poka\u017cemy Ci jak programowa\u0107 w Pythonie (bezp\u0142atnie!)</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 3955894,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/pokazemy-ci-jak-programowac-w-pythonie-bezplatnie",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Poka\u017cemy Ci jak programowa\u0107 w Pythonie (bezp\u0142atnie!)",
+        "vote": 0
+    }
+]

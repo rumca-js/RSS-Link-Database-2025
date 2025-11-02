@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Becky Ferreira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T13:40:26.299108+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T13:00:22+00:00",
+        "description": "The mummified remains of two duck-billed dinosaurs exposing skin, spikes, flesh, the first reptilian hooves ever discovered.",
+        "id": 3958113,
+        "language": "en",
+        "link": "https://www.404media.co/theres-a-dinosaur-mummy-zone-heres-what-scientists-found-there",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/10/image3.jpg",
+        "title": "There\u2019s a Dinosaur \u2018Mummy Zone.\u2019 Here\u2019s What Scientists Found There.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T15:33:32.362372+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T14:00:22+00:00",
+        "description": "Experience official SteamOS 3.8 running on the MINISFORUM MS-S1 MAX mini PC powered by AMD Ryzen AI Max+395 and Radeon 8060S iGPU!\nIn this video, we install SteamOS 3.8, tweak BIOS settings, push the iGPU over 3 GHz, and benchmark some of today\u2019s biggest titles \u2014 all from a tiny living-room PC with no dedicated GPU.\nSpecs: Ryzen AI Max+395 (16 C / 32 T), up to 140 W TDP, 128 GB RAM\n Games Tested: Doom The Dark Ages, Cyberpunk 2077, Spider-Man 2, Witcher 3, God of War\n\nBuy It Here: https://tidd.ly/47QOAYq\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Halloween sale code for software\uff1aETA\nWindows 11 Pro Key($23):https://biitt.ly/RUZiX\nWindows 11 Home Key($22):https://biitt.ly/SQKqi\nWindows 10 Pro OEM Key($17):https://biitt.ly/KpEmf\nWindows10 Home Key($16):https://biitt.ly/2tPi1\nWindows 10 LTSC 2021 Key($14): https://biitt.ly/W564e\nOffice 2019 pro key($62):https://biitt.ly/o0OQT\n2016 pro key($31): https:",
+        "id": 3958663,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=G7KgWVeHx3E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G7KgWVeHx3E/hqdefault.jpg",
+        "title": "SteamOS 3.8 on Ryzen AI Max+395 \u2014 The Most Powerful iGPU Mini PC Yet!",
+        "vote": 0
+    }
+]

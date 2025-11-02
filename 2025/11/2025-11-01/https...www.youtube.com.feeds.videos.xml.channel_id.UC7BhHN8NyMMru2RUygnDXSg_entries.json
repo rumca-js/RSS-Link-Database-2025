@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sciencephile the AI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T15:38:56.028720+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T15:03:09+00:00",
+        "description": "Start free and level up the quality of work with all your business on one platform using Odoo at: https://www.odoo.com/r/JDGL\n\nSciencephile Merch: https://crowdmade.com/collections/sciencephiletheai\n\nSupport me at Patreon: https://www.patreon.com/sciencephiletheai\n\nFacebook: https://www.facebook.com/sciencephile/\n\nTwitter: https://www.twitter.com/Sciencephile_\n\nReddit: https://www.reddit.com/r/SciencephileTheAI/\n\nWebsite: https://www.sciencephiletheai.com\n\nMusic: \n- Radetzky March, Op. 228\n- Brandenburg Concerto No. 3 in G major\n- Serenade No. 13 - Eine kleine Nachtmusik\n\nSupporters: H H, Ephellon, Kyle A Criswell, Oberon Vortigern, Sans the Skeleton, Niki Wonoto, Asadullah Khan, Jonas Lee, Cano Lupo, Save the Dinosaurs, Cecilia Gatling, [eXploit] Theorislav, Gisele Kauer, Eranda Chamara, Brian Shaner, David Yefimov, Jax Tran, Jonas Lee, Mac Tagliatelle, Pi-, x0reaxeax, Tovi Sonnenberg, Parker Rosenbauer, iNF3Rnus, Avalin, Pavel Ko\u010darian, John N, Danh Le, Stealer of Fresh stolen Conte",
+        "id": 3958670,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gXZORPO6M3Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 802,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7BhHN8NyMMru2RUygnDXSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gXZORPO6M3Y/hqdefault.jpg",
+        "title": "Astronomy misconceptions you might still believe",
+        "vote": 0
+    }
+]

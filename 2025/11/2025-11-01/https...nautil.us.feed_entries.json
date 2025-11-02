@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Currie",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T01:01:35.731072+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T00:00:00+00:00",
+        "description": "<p>Scientists take another step toward unraveling a tangled web</p>\n<p>The post <a href=\"https://nautil.us/why-do-spiders-decorate-their-webs-a-new-piece-of-the-puzzle-1245450/\">Why Do Spiders Decorate Their Webs? A New Piece of the Puzzle</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 3955342,
+        "language": "en-US",
+        "link": "https://nautil.us/why-do-spiders-decorate-their-webs-a-new-piece-of-the-puzzle-1245450",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets.nautil.us/sites/3/nautilus/nautilus-favicon-14.png?fm=png",
+        "title": "Why Do Spiders Decorate Their Webs? A New Piece of the Puzzle",
+        "vote": 0
+    }
+]

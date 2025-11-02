@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T11:32:37.330361+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T11:00:55+00:00",
+        "description": "Ready to become a certified Quantum Computation using Qiskit v2.X Developer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbYgC\n\nLearn more about SDK for Python here \u2192 https://ibm.biz/BdbYgQ\n\n\ud83d\ude80 Can Python SDKs redefine data workflows? John Wen explores how Python SDKs empower scalable pipeline development, enable seamless integration, and bridge visual-first and code-first approaches. Learn how AI agents and LLMs drive automation and dynamic pipeline creation for modern data engineering. \ud83e\uddd1\u200d\ud83d\udcbb\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbYg3\n\n#python #llm #aiagents #aiintegration",
+        "id": 3957361,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=R43Q0nIXa1Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R43Q0nIXa1Q/hqdefault.jpg",
+        "title": "Python SDK Meets AI Agents: Automating Data Pipelines with LLMs",
+        "vote": 0
+    }
+]

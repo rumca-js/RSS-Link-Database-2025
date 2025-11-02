@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T18:05:51.642140+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T16:30:04+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/8MfryAsmAqE\" width=\"480\" alt=\"thumbnail\" title=\"Something Breaks In Ubuntu Linux Part \u221e\" /></p>With the release of Ubuntu 25.10 I think people expected more things to break because of uutils and so far things had been pretty good but it turns out that unattended upgrades were broken.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Ubuntu Report: https://bugs.launchpad.net/ubuntu/+source/rust-coreutils/+bug/2127970<br />Uutils Patch: https://github.com/uutils/coreutils/commit/88a7fa7adfa048dabdffc99451d7aba1d9e6a9b6<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodie",
+        "id": 3959588,
+        "language": "en",
+        "link": "https://odysee.com/something-breaks-in-ubuntu-linux-part:83e821e0904b3b1b74ac3b922ebfb712f9d32e8e",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/8MfryAsmAqE",
+        "title": "Something Breaks In Ubuntu Linux Part \u221e",
+        "vote": 0
+    }
+]

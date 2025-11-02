@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T13:26:25.989894+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T12:00:39+00:00",
+        "description": "Mirroring your iPhone screen to your Mac is one of the best new features in macOS Sequoia and iOS 18. In this video, Dillon Payne shows you exactly how to set it up and the powerful ways you can use it, from drag-and-drop file transfer (goodbye, AirDrop!) to running your favorite mobile-only apps right on your desktop.\n\nYou can find the products mentioned in this video linked below\nMacbook Pro https://zdcs.link/aeKvM5\niPhone 16 Pro https://zdcs.link/911lLx\n*CNET may get a commission on these offers\n\nReady to learn more about the deep-dive features? Check out our related articles linked below.\n\niPhone Mirroring Is One of the Best Hidden Features in iOS 18 and MacOS Sequoia: https://zdcs.link/QxxYND\nReal-World Reasons to Use iPhone Mirroring on Your Mac: https://zdcs.link/QGr2bM\nHow To iPhone Mirror on Other Devices: https://zdcs.link/z31ePE\n\n0:00 Intro\n0:10 Hardware & Software Requirements (macOS Sequoia/iOS 18) \n0:30 Step-by-Step: How to Set Up iPhone Mirroring \n1:13 Use Case 1: Drag ",
+        "id": 3957926,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Itrgerpy-vs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Itrgerpy-vs/hqdefault.jpg",
+        "title": "iPhone Mirroring: The EASIEST Way to Use Your iPhone on Your Mac (iOS 18 + MacOS Sequoia)",
+        "vote": 0
+    }
+]

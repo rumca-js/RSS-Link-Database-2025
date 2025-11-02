@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T16:35:49.488065+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T15:17:31+00:00",
+        "description": "New intelligence on Hezi Rash: See how the Kurdish group launched 350+ DDoS attacks and used DaaS platforms like EliteStress to lower entry barriers.",
+        "id": 3959068,
+        "language": "en-US",
+        "link": "https://hackread.com/kurdish-hacktivists-hezi-rash-ddos-attacks",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New Kurdish Hacktivists Hezi Rash Behind 350 DDoS Attacks in 2 Months",
+        "vote": 0
+    }
+]

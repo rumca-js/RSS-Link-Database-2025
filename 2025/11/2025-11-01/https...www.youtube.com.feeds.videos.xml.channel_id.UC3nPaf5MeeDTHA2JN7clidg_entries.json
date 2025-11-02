@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T20:16:44.235926+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T18:55:01+00:00",
+        "description": "Building your website is fast, and user friendly with Odoo! Check it out at:  https://www.odoo.com/r/8bWD Sponsored by Odoo.\nSteam's weaponizing your library data to solve one of gaming's largest problems: we don't even know what we're missing out on.\n\n00:00 - You're Missing 99% of Games\n02:32 - Why Steam NEEDS This To Work\n04:49 - The $142 Million Marketing Disaster\n09:23 - Your Library Becomes The Algorithm\n13:21 - What Actually Changes\n\nSources:\nhttps://www.videogameschronicle.com/news/more-than-1200-games-journalists-have-left-the-media-in-the-last-two-years/\n\nhttps://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=507342099205587494\n\nhttps://steamdb.info/calendar/\n\nhttps://bsky.app/profile/mikerose.bsky.social/post/3m2twne6wh22e\n\nhttps://mobilegamer.biz/scopely-has-spent-over-1bn-marketing-monopoly-go/\n\nhttps://www.cdprojekt.com/en/wp-content/uploads-en/2021/04/transcript-2020-results.pdf\n\nhttps://www.latimes.com/archives/la-xpm-2009-nov-18-fi-ct-dut",
+        "id": 3960179,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=x_fajUuIHF0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x_fajUuIHF0/hqdefault.jpg",
+        "title": "Valve Just Weaponized Your Steam Library",
+        "vote": 0
+    }
+]

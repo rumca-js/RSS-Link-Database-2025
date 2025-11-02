@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T09:33:22.164795+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T09:03:00+00:00",
+        "description": "We wait and hope for the first kind, the magic that arrives just when we need it. This is the magic of inspiration, or of good fortune. The magic of opportunties offered and connections made. There never seems to be enough of this sort of magic. The other kind, though, is surprisingly abundant. This is [&#8230;]",
+        "id": 3956931,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/11/the-other-kind-of-magic",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The other kind of magic",
+        "vote": 0
+    }
+]

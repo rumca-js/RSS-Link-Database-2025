@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Ozimek",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T20:55:27.391534+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T19:30:40+00:00",
+        "description": "AG Ken Paxton says the record-setting settlement sends a message that Big Tech will be held accountable in Texas.",
+        "id": 3960370,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/texas-finalizes-historic-1-4-billion-settlement-with-google-over-data-privacy-violations-5938302",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/09/id5910070-1.tagreuters.com2025binary_LYNXMPEL821B5-FILEDIMAGE-1080x720.jpg",
+        "title": "Texas Finalizes \u2018Historic\u2019 $1.4 Billion Settlement With Google Over Data Privacy Violations",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-01T14:54:26.288935+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-01T14:54:26+00:00",
+        "description": "The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\nThe activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an",
+        "id": 3958435,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability",
+        "vote": 0
+    }
+]
