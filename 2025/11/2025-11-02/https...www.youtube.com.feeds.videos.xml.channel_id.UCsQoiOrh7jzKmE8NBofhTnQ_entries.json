@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Varun Mayya",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T09:41:13.093472+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T08:09:09+00:00",
+        "description": "In this episode, Peyush Bansal sits down to talk about Lenskart\u2019s IPO, the debate around its valuation, and why he believes the company has been priced fairly despite market chatter. He explains how Lenskart\u2019s profitability, strong unit economics, and sustained growth make it stand apart from most consumer tech listings that were still loss-making when they went public.\n\nWe then get into how the company grew from a small tech-led eyewear startup into a global brand through vertical integration, manufacturing, and customer obsession. Peyush also discusses the next frontier, smart glasses, built in partnership with Qualcomm, and how India could lead this new form factor by developing full-stack hardware and software locally.\n\nThe conversation then goes beyond business metrics to explore his Shark Tank experience, lessons in scaling culture, counterintuitive insights on Indian consumers, and how he stays grounded amid success, criticism, and the chaos of IPO day.\n\n00:00 - Intro\n00:52 - I",
+        "id": 3962853,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BzHk1h-Zf3s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 882,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQoiOrh7jzKmE8NBofhTnQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BzHk1h-Zf3s/hqdefault.jpg",
+        "title": "Peyush Bansal on Lenskart's IPO Criticism, UPI Payments in Glasses, and More!",
+        "vote": 0
+    }
+]

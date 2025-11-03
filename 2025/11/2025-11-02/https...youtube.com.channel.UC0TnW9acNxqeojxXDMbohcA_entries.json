@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mark Manson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T15:00:49.359949+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T15:00:42+00:00",
+        "description": null,
+        "id": 3964567,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/MT7AryCbuc0",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 671,
+        "source_url": "https://youtube.com/channel/UC0TnW9acNxqeojxXDMbohcA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MT7AryCbuc0/hqdefault.jpg",
+        "title": "How to Rewire Your Mind",
+        "vote": 0
+    }
+]

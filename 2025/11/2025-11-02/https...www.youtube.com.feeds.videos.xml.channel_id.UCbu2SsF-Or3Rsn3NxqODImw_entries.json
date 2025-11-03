@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T16:23:55.816569+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T16:01:29+00:00",
+        "description": "Can the games industry every return to a time when the big corporations return to putting out multiple smaller games? Lucy and Kurt don't think so.\n\nWatch the full Kurt & Lucy Gotcha Covered Episode: https://youtu.be/kIq5KsBma3Q\n\nCredits: Lucy James, Kurt Indovina, Jean-Luc Seipke\n\n#gotchacovered #gaming #gamespot",
+        "id": 3965035,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ult41FuVvy8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ult41FuVvy8/hqdefault.jpg",
+        "title": "The Gaming Industry Will Never Be What It Once Was",
+        "vote": 0
+    }
+]

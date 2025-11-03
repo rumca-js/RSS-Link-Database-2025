@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T01:36:05.683993+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T00:45:10+00:00",
+        "description": "The BBC speaks to those who have lost everything in this year's monsoon season and finds out why it will likely happen again.",
+        "id": 3961469,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cgmx2e3nnw0o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a75/live/8f733ee0-b4aa-11f0-ba75-093eca1ac29b.jpg",
+        "title": "Devastation on repeat: How climate change is worsening Pakistan's deadly floods",
+        "vote": 0
+    }
+]

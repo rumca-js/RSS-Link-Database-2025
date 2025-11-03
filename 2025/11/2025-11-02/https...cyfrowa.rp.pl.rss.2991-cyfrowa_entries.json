@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T11:46:36.005024+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T11:46:35+00:00",
+        "description": "Ponad jedna trzecia ch\u0142opc\u00f3w w wieku szkolnym rozwa\u017ca posiadanie \u201eprzyjaciela AI\u201d. Personalizowany chatbot mo\u017ce pe\u0142ni\u0107 rol\u0119 \u201eterapeuty\", ale bywa te\u017c substytutem partnerki. Nastolatki uwa\u017caj\u0105 \u015bwiat online za \u201ebardziej satysfakcjonuj\u0105cy\u201d.",
+        "id": 3963381,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art43267641-on-mnie-rozumie-rodzice-nie-nastolatki-uciekaja-do-chatbotow-ai-a-eksperci-bija-na-alarm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201eOn mnie rozumie, rodzice nie\". Nastolatki uciekaj\u0105 do chatbot\u00f3w AI, a eksperci bij\u0105 na alarm",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T17:30:11.298123+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T16:30:06+00:00",
+        "description": "I'm surprised it has taken this long but it looks like Fedora Linux is finally adopting an official AI policy after a relatively short discussion all things considered.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nFedora Pagure Discussion: https://pagure.io/Fedora-Council/tickets/issue/542\nFedora Discussion: https://discussion.fedoraproject.org/t/council-policy-proposal-policy-on-ai-assisted-contributions/165092\nFedora AI Policy: https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https:",
+        "id": 3965499,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=722AmFCa7-w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/722AmFCa7-w/hqdefault.jpg",
+        "title": "Fedora Linux Finally Answers The AI Question",
+        "vote": 0
+    }
+]

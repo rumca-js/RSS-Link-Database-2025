@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T16:54:59.531854+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T16:30:06+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/722AmFCa7-w\" width=\"480\" alt=\"thumbnail\" title=\"Fedora Linux Finally Answers The AI Question\" /></p>I'm surprised it has taken this long but it looks like Fedora Linux is finally adopting an official AI policy after a relatively short discussion all things considered.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Fedora Pagure Discussion: https://pagure.io/Fedora-Council/tickets/issue/542<br />Fedora Discussion: https://discussion.fedoraproject.org/t/council-policy-proposal-policy-on-ai-assisted-contributions/165092<br />Fedora AI Policy: https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://br",
+        "id": 3965326,
+        "language": "en",
+        "link": "https://odysee.com/fedora-linux-finally-answers-the-ai:22b799d76140c03ac4e840c10f8dbf17b8dec25f",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/722AmFCa7-w",
+        "title": "Fedora Linux Finally Answers The AI Question",
+        "vote": 0
+    }
+]

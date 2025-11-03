@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T15:55:55.456116+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T15:17:38+00:00",
+        "description": "<p>Anthony Castrovince, writing for MLB (<a href=\"https://apple.news/ANrQgRevNTD6n4rwIO8yVSw\">News+ link</a>):</p>\n\n<blockquote>\n  <p>Behind a stunning, game-tying swat from Miguel Rojas in the top of\nthe ninth, a first-of-its-kind, go-ahead blast from Will Smith in\nthe top of the 11th and the absurd extra work World Series MVP\nYoshinobu Yamamoto provided on zero days\u2019 rest, the Dodgers broke\nToronto hearts with their comeback 5-4 victory in a game that\nmerited its own month on the MLB calendar.</p>\n\n<p>The Dodgers are MLB\u2019s first repeat champs since the 1998-2000\nYankees, and the four-hour, seven-minute, extra-innings affair it\ntook to decide that was a fitting end to a true Fall Classic in\nwhich these two clubs exhausted each other\u2009\u2014\u2009not just in the\n18-inning epic at Dodger Stadium in Game 3 but throughout a Series\nin which they both had to empty the tank.</p>\n</blockquote>\n\n<p>When a series goes to game 7, every fan hopes it\u2019s a good game. But this was a <em>great</em> game\u2009\u2014\u2009as go",
+        "id": 3964944,
+        "language": "",
+        "link": "https://www.mlb.com/news/dodgers-win-2025-world-series",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dodgers Win 2025 World Series, Defeating Blue Jays in Thrilling Game 7",
+        "vote": 0
+    }
+]

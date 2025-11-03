@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Mr_ShadowSyntax",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T19:17:29.683588+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T18:28:47+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>I&#39;ve submitted a PR to add native Android/Termux support to hashcat:</p> <p>\ud83d\udd17 <a href=\"https://github.com/hashcat/hashcat/pull/4563\">PR #4563</a></p> <p><strong>What works:</strong></p> <p>\u2705 Full OpenCL acceleration (Mali/Adreno GPUs)</p> <p>\u2705 <strong>853 MH/s MD5</strong> performance tested</p> <p>\u2705 9-character password cracked in 90 seconds (Bruteforce)</p> <p>\u2705 All standard hashcat features</p> <p><strong>Current status:</strong> PR submitted, waiting maintainer review</p> <p><strong>Why this matters:</strong> - Makes professional password cracking accessible on mobile<br/> - Perfect for security students, researchers, field work - No more carrying laptops for basic hash verification - <strong>81% of dedicated workstation performance</strong> on a phone!</p> <p>If you&#39;d like to see official Android support in hashcat, please: - Try the PR branch and share your results - Comment on the PR if you have use cases<br/> - Sta",
+        "id": 3966047,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hacking/comments/1omov5m/pr_native_hashcat_android_support_853_mhs_on_poco",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PR: Native Hashcat Android Support - 853 MH/s on POCO X6 Pro",
+        "vote": 0
+    }
+]

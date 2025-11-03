@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T15:07:06.313736+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T15:01:16+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nOur Other C++ Interfaces - Bret Brown - ACCU 2025\n---\n\nWhen considering interfaces in the context of C++, software engineers typically think about C++ language constructs: namespaces, base classes, function prototypes, and other entities defined by the C++ standard.\n\nHowever, the challenge for C++ library authors is to provide not just carefully-crafted code, but also well-considered projects that deliver functionality to users. Providing useful and reusable libraries means stepping outside the C++ syntax to consider other kinds of interfaces provided by our C++ projects.\n\nThis talk goes beyond the C++ syntax to fill in these gaps through an exploration of the other kinds of interfaces and contracts that are implicitly and explicitly provided by C++ projects.\n\nDuring this discussion, contract-based thinking will be applied to the parts of C++ projects that are not C++ source code. Conceptual tools, pragmatic recommendations, and concr",
+        "id": 3964589,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gFcXFPWxAEk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gFcXFPWxAEk/hqdefault.jpg",
+        "title": "Our Other C++ Interfaces - Bret Brown - ACCU 2025",
+        "vote": 0
+    }
+]

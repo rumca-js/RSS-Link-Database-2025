@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "BezPlanu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T10:39:17.164985+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T09:04:36+00:00",
+        "description": "Kana\u0142y Tomka:  @ciekawehistorietv   @tomaszczukiewski  \n\nPierwsza cz\u0119\u015b\u0107 o Etiopii: https://www.youtube.com/watch?v=8hoVwsyJ5hE\n\nInspiracja: https://www.youtube.com/watch?v=OhG7IAFDtqc\n\nKawa BezPlanu: https://bezplanu.com\n\nWszystkie odcinki BezPlanu chronologicznie: http://bit.ly/2MqAO7Q\nWsparcie kana\u0142u: https://patronite.pl/BezPlanu\n\nWst\u0119pny monta\u017c:   @VasileVlog  \nVasily https://www.instagram.com/vasilykob/\n\nCzas akcji: sierpie\u0144 2025",
+        "id": 3963048,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=BBfeJuH3wck",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 36,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNu7GSRF7Y10OIWHQHpAx1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BBfeJuH3wck/hqdefault.jpg",
+        "title": "Etiopia - problemy gospodarcze i Tigray",
+        "vote": 0
+    }
+]

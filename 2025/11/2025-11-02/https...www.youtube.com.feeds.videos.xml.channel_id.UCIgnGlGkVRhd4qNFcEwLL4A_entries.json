@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T03:38:19.391795+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T02:25:02+00:00",
+        "description": "INSANE AI NEWS: LongCat Video, Google Pomelli, Game-TARS, Mocha, Kimi Linear, Sora 2 updates, Minimax M2, ChronoEdit #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Emergent. Try it for free: http://bit.ly/4hrT0Ir\n\nSources in order of mention:\nhttps://meituan-longcat.github.io/LongCat-Video/\nhttps://emu.world/pages/web/landingPage\nhttps://world-grow.github.io/\nhttps://github.com/MoonshotAI/Kimi-Linear\nhttps://research.nvidia.com/labs/toronto-ai/chronoedit/\nhttps://openai.com/index/introducing-aardvark/\nhttps://github.com/AMD-AGI/Nitro-E\nhttps://labs.google.com/pomelli/about/\nhttp://orange-3dv-team.github.io/MoCha/\nhttps://howlin-wang.github.io/svg/\nThor: https://arxiv.org/pdf/2510.26280\nhttps://lifuguan.github.io/IGGT_official/\nhttps://seed-tars.com/game-tars/\nhttps://little-misfit.github.io/GRAG-Image-Editing/\nhttps://www.udio.com/blog/a-new-era\nhttps://www.minimaxi.com/news/minimax-music-20\nHailuo review https://youtu.be/bfOLxA_8axk\nMinimax M2 review https://youtu.be/xt6_zIKeX6",
+        "id": 3961783,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2VG3r1_SRSI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2VG3r1_SRSI/hqdefault.jpg",
+        "title": "Infinite 3D worlds, long AI videos, realtime images, game agents, character swap, RIP Udio - AI NEWS",
+        "vote": 0
+    }
+]

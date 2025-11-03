@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wales",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T08:28:16.690874+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T08:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/weekly-digest-2-11-header-bright.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Why, hello there! Perhaps you're here for another helping of conveniently digestible reading material to peruse over your weekend cornflakes? In that case, pull up a chair and settle in as we head for darker corners. This week, Eurogamer has been celebrating the spooky season with an informal gathering of horrors, from 19th century detective yarns to truly shocking revelations (that'll be Tom again).</p> <p><a href=\"https://www.eurogamer.net/eurogamer-weekly-digest-2nd-november-highlights-you-might-have-missed-this-week-in-reviews-features-and-news\">Read more</a></p>",
+        "id": 3962694,
+        "language": "en",
+        "link": "https://www.eurogamer.net/eurogamer-weekly-digest-2nd-november-highlights-you-might-have-missed-this-week-in-reviews-features-and-news",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/weekly-digest-2-11-header-bright.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Eurogamer Weekly Digest, 2nd November - highlights you might have missed this week in reviews, features, and news",
+        "vote": 0
+    }
+]

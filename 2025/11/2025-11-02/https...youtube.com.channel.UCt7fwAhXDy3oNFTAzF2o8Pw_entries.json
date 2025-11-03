@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "theneedledrop",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T06:18:23.856836+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T06:03:03+00:00",
+        "description": "A roundup of Anthony's favorite albums from the past month or so. The music and reviews are linked below in order of appearance.\n\nGaby Amarantos - Rock Doido\nReview: https://www.youtube.com/watch?v=07IzlHPo6ZA\nListen: https://gabyamarantos.lnk.to/RockDoido\n\nGeese - Getting Killed\nReview: https://youtu.be/NuuUBAhrt7M?si=J5edXX69mtw07p8f\nListen: https://geesebandnyc.bandcamp.com/album/getting-killed\n\nHannah Frances - Nested in Tangles\nReview: https://youtu.be/VZggcXze4RU?si=dpX6GZzD7N-s3q7D\nListen: https://hannahfrances.bandcamp.com/album/nested-in-tangles\n\nThe Hives - The Hives Forever Forever The Hives\nReview: https://www.youtube.com/watch?v=yeQRdTAvDS4\nListen: https://the-hives.ffm.to/forever-album\n\nMon Laferte - FEMME FATALE\nReview: https://www.youtube.com/watch?v=xBNNXGheaoE\nListen: https://ml.lnk.to/FemmeFatale\n\nMaruja - Pain to Power\nReview: https://youtu.be/KLdfCvUVpbs?si=YKsuOruJn-r59Y7_\nListen: https://maruja.lnk.to/PaintoPower\n\nSn\u00f5\u00f5per - Worldwide\nReview: https://youtu.be/gz9",
+        "id": 3962240,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AsIW5RZd-kc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 650,
+        "source_url": "https://youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AsIW5RZd-kc/hqdefault.jpg",
+        "title": "GREAT ALBUMS: October 2025",
+        "vote": 0
+    }
+]

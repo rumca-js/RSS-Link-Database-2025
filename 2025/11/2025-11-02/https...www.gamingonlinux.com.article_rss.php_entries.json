@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Dawe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T13:34:46.817374+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T13:03:06+00:00",
+        "description": "It finally happened. Linux gamers on Steam as of the Steam Hardware & Software Survey for October 2025 have crossed over the elusive 3% mark.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-2025.jpg\" alt />.</p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/\">GamingOnLinux</a>.</p>",
+        "id": 3963973,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-2025.jpg",
+        "title": "Linux gamers on Steam finally cross over the 3% mark",
+        "vote": 0
+    }
+]

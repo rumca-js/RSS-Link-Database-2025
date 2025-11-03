@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T13:30:01.014292+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-02T13:00:52+00:00",
+        "description": "1X Technologies, an AI robotics company, says its Neo humanoid robot is available for preorder. It can act as your housekeeper, but it's not fully autonomous. Here's what that means for early adopters.\n\n0:00 Intro \n0:18 NEO Details \n0:46 Household chores \n1:33 Expert Mode \n2:51 Preorder information\n3:04 Outro \n\n \nAdd CNET as a trusted news source https://www.google.com/preferences/source?q=cnet.com\nNever miss a deal again! See CNET\u2019s browser extension \ud83d\udc49 https://bit.ly/3lO7sOU\nCheck out CNET\u2019s Amazon Storefront: https://www.amazon.com/shop/cnet\n\n\nSubscribe to CNET on YouTube: https://www.youtube.com/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet\nFollow us on Bluesky: https://bsky.app/profile/cnet.com\nLike us on Facebook: https://www.facebook.com/cnet\nCNET's AI Atlas: https://www.cnet.com/ai-atlas\nFollow us on X: https://www.x.com/cnet\nVisit CNET.com:  https://www.cnet.com",
+        "id": 3963914,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QbZbzjHTZE4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QbZbzjHTZE4/hqdefault.jpg",
+        "title": "Neo Humanoid for the Home Begins Preorder (With Caveats)",
+        "vote": 0
+    }
+]
