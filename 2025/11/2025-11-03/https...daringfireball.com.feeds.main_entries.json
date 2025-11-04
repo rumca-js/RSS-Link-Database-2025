@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T17:19:38.344222+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T17:02:24+00:00",
+        "description": "<p>Mark Gurman, in his weekly Power On column for Bloomberg (paywalled, alas):</p>\n\n<blockquote>\n  <p>Even with the rosy sales forecast, the road ahead won\u2019t be easy.\nApple is betting heavily on the new Siri, which will lean on\nGoogle\u2019s Gemini model and introduce features like AI-powered web\nsearch. But there\u2019s no guarantee users will embrace it, that it\nwill work seamlessly or that it can undo years of damage to the\nSiri brand.</p>\n</blockquote>\n\n<p>And then, down below in his \u201cPost Game Q&amp;A\u201d:</p>\n\n<blockquote>\n  <p>Q: <em>Is Apple still planning to use Google Gemini to power the new\n   Siri?</em></p>\n\n<p>A: As I\u2019ve <a href=\"https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri\">reported a few times now</a>, Apple is paying\n   Google to create a custom Gemini-based model that can run on\n   its private cloud servers and help power Siri. Apple held a\n   bake-off this year between Anthropic and Google, ultimately\n   determini",
+        "id": 3973223,
+        "language": "",
+        "link": "https://www.bloomberg.com/news/newsletters/2025-11-02/apple-s-nearly-140-billion-quarter-when-ios-26-1-will-be-out-ipad-mini-revamp-mhhpy1ax",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gurman Suggests That Next-Gen Siri Will Be Powered by a White-Label Version of Google Gemini Running on Apple\u2019s Private Cloud Compute",
+        "vote": 0
+    }
+]

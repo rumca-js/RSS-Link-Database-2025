@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T15:55:04.808423+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T14:51:42+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nA\u017c trudno uwierzy\u0107, \u017ce Netflix stworzy\u0142 film w \u015bwiecie Wied\u017amina i uda\u0142o si\u0119 go totalnie nie pogr\u0105\u017cy\u0107. Mo\u017ce dlatego, \u017ce ca\u0142y film nie ma zbyt wiele wsp\u00f3lnego z Wied\u017aminem? Szczury: opowie\u015b\u0107 ze \u015bwiata Wied\u017amina, to ca\u0142kiem zjadliwa produkcja, pod warunkiem, \u017ce odpowiednio do niej podejdziemy.",
+        "id": 3972325,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=SF6XKSGCCig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SF6XKSGCCig/hqdefault.jpg",
+        "title": "Trudno uwierzy\u0107, \u017ce co\u015b im si\u0119 uda\u0142o",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T17:45:06.010107+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T17:25:20+00:00",
+        "description": "Get Superstructures: https://soundvision.bandcamp.com/album/superstructures\nAlbum visualizer (no ads): https://youtu.be/5tFGEAxXmsc\nGet the M8 Bass Pack: https://redmeansrecording.gumroad.com/l/pjrcj\nM8 Playlist: https://www.youtube.com/playlist?list=PLcaEIjiwaCmQRYTfmx9HN30_rEIcPaFUX\n\nSupport the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nhttps://rmr.media/findme\n\nConnect:\nBluesky: https://bit.ly/3ZGYhom\nWebsite: http://bit.ly/rmrmedia",
+        "id": 3973317,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VZCWJrm8QxQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VZCWJrm8QxQ/hqdefault.jpg",
+        "title": "Making a M8 Album in 2 Weeks: 1 - Planning and Samples",
+        "vote": 0
+    }
+]

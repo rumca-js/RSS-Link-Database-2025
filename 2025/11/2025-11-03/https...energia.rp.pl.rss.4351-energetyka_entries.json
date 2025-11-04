@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T03:59:58.087063+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T03:59:56+00:00",
+        "description": "Komisja Europejska chce, aby kraje cz\u0142onkowskie budowa\u0142y mi\u0119dzy sob\u0105 jak najwi\u0119cej po\u0142\u0105cze\u0144 elektroenergetycznych. PSE jednak plan\u00f3w budowy nowych po\u0142\u0105cze\u0144 nie maj\u0105. Wyj\u0105tkiem jest po\u0142\u0105czenie z Litw\u0105. Przemys\u0142 mo\u017ce nie by\u0107 z tego powodu pocieszony.",
+        "id": 3968294,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/sieci-przesylowe/art43276931-nowych-polaczen-energetycznych-z-sasiadami-nie-bedzie-bariera-sa-koszty",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowych po\u0142\u0105cze\u0144 energetycznych z s\u0105siadami nie b\u0119dzie. Barier\u0105 s\u0105 koszty",
+        "vote": 0
+    }
+]

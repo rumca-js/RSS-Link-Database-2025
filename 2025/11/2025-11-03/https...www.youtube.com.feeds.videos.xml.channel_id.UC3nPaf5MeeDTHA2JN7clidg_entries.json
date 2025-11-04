@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T17:42:58.396461+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T17:30:22+00:00",
+        "description": "Steam's #5 game came from nowhere. Behind it: an $11 billion social media empire operating in plain sight.\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 Battlefield Lost To Ducks\n00:57 Two Million Sales, Little Marketing\n02:05 They Found The Perfect Gap\n03:08 The $11 Billion Secret Publisher\n04:29 The Reviews Exposed Everything\n06:22 Gaming's Invisible Majority\n07:30 Why You Never Saw This Coming\n09:18 Steam Just Changed Forever\n\nSources:\nhttps://www.youtube.com/watch?v=P2CaS-_47zI\n\nhttps://store.steampowered.com/news/app/3167020/view/503965668093201282?l=english\n\nhttps://www.cnbc.com/quotes/BILI\n\nhttps://www.togeproductions.com/SteamScout/\n\nhttps://x.com/RVThereYetGame/status/1983582101271167188\n\nhttps://www.gamedeveloper.com/business/what-s-driving-growth-in-the-chinese-video-game-industry-\n\nhttps://newsletter.gamediscover.co/p/4-great-graphs-and-1-new-feature\n\nhttps://www.matthewball.co/all/stateof",
+        "id": 3973313,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=htrOEI_06Mo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/htrOEI_06Mo/hqdefault.jpg",
+        "title": "This Duck Game Beat Battlefield 6",
+        "vote": 0
+    }
+]

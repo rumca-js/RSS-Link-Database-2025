@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T21:56:28.738227+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T20:53:15+00:00",
+        "description": "Federal officers from various agencies have been reassigned to assist with immigration enforcement operations. WSJ analyzes the use of force, high-risk maneuvers and military-style tactics agents from elite units have deployed in Chicago. \n\nChapters:\n0:00 Analyzing \u201cOperation Midway Blitz\u201d in Chicago\n0:33 Military-style raid\n1:34 Precision immobilization technique\n2:27 Tactical arrests\n3:06 Breaking standard protocols: excessive force, tear gas, etc.\n\n#ICE #Trump #WSJ",
+        "id": 3975408,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=x39lslqzm20",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x39lslqzm20/hqdefault.jpg",
+        "title": "The High-Risk Military Tactics Immigration Units Use in Chicago | WSJ",
+        "vote": 0
+    }
+]

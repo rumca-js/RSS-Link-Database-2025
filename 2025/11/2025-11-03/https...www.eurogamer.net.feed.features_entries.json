@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dom Peppiatt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T15:13:49.906801+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T14:38:14+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/simpsons-fortnite.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The first time I really, properly rolled my eyes at egregious in-game crossover content was, to no-one's surprise, in Call of Duty. Back in the days of Ghosts - over a decade ago now, in 2014 - Activision <a href=\"https://www.eurogamer.net/snoop-dogg-to-narrate-call-of-duty-ghosts-in-upcoming-dlc\">crowbarred a voice pack from Snoop Dogg into the multiplayer facet of the game</a>. Costing a modest &pound;2.79, the voice pack simply let you have the iconic rapper narrate your experience, praising you for headshots and chastising you for getting ganked. It was the beginning of the end, in many ways.</p> <p><a href=\"https://www.eurogamer.net/i-hate-the-ready-player-one-ification-of-all-our-favourite-media-but-cant-resist-the-simpsons-in-fortnite\">Read more</a></p>",
+        "id": 3972120,
+        "language": "en",
+        "link": "https://www.eurogamer.net/i-hate-the-ready-player-one-ification-of-all-our-favourite-media-but-cant-resist-the-simpsons-in-fortnite",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/simpsons-fortnite.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "I hate the Ready Player One-ification of all our favourite media, but can't resist The Simpsons in Fortnite",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T19:01:06.775166+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T18:34:49+00:00",
+        "description": "Thanks to AMD for keeping this series going and sponsoring this video! Check out their latest offerings at https://lmg.gg/f6PMg\n\nDo you want a spooky upgrade this spooky season? Head over to https://bit.ly/4qxzrm8 to enter AMD's newest sweepstakes to win one of the two bundles including an AMD Ryzen Threadripper 9000 CPU, an AMD Radeon AI PRO R9700 GPU, and an AMD Threadripper Motherboard!\n\nIt\u2019s time for another $5000 AMD Ultimate Tech Upgrade! See how this LTT Labs Senior Test Technician transforms his gaming PC, VR setup, racing sim, and home theater with an RX 9070XT, LG C4 OLED, Big Screen Beyond 2E, and Fanatec CSL DD. Get inspired for your next PC build or tech review!\n\nDiscuss on the forum: https://linustechtips.com/topic/1626001-he-said-it-would-be-easy-5000-amd-ultimate-tech-upgrade/\n\nCheck out the stuff from Jon's upgrade: \n\nGIGABYTE Radeon RX 9070 XT Gaming OC: https://geni.us/AqVAgW\nLG 77\" C4 OLED TV: https://geni.us/gIT06\nBigscreen Beyond 2 with eyetracking: https://lmg.g",
+        "id": 3974064,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=-oe6WL2_2Rc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-oe6WL2_2Rc/hqdefault.jpg",
+        "title": "He said it would be easy - $5000 AMD Ultimate Tech Upgrade",
+        "vote": 0
+    }
+]

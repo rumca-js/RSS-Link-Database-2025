@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T17:28:19.672175+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T17:00:51+00:00",
+        "description": "A 2014 study found both women and men think less make up is the more attractive option",
+        "id": 3973291,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/QO1x2Mo3XWQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QO1x2Mo3XWQ/hqdefault.jpg",
+        "title": "How Much Make Up Is The Right Amount #funfact",
+        "vote": 0
+    }
+]

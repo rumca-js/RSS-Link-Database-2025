@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T23:37:38.120023+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T22:42:48+00:00",
+        "description": "Jeff Yass\u2014a billionaire TikTok investor and the 25th richest person in the world\u2014is trying to buy PA\u2019s Supreme Court.\n\nThe outcome of the race could flip the makeup of the court and affect how it decides on voting rights, abortion rights, and more.",
+        "id": 3976166,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/1ENUKiArbgk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1ENUKiArbgk/hqdefault.jpg",
+        "title": "This Billionaire TikTok Investor is Trying to Buy a Critical Election | ft. Jessica Burbank",
+        "vote": 0
+    }
+]

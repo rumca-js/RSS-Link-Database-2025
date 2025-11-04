@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T02:22:19.473081+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T02:03:11+00:00",
+        "description": "How is technology transforming the modern office? A smart office where devices connect to create the optimal environment autonomously. Explore how workplaces around the world are evolving with Samsung, see it in action now.\n\n#Samsung",
+        "id": 3967911,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lZKKYWmgISg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lZKKYWmgISg/hqdefault.jpg",
+        "title": "Samsung B2B Integrated Offering Global Reference Site Film | Office",
+        "vote": 0
+    }
+]

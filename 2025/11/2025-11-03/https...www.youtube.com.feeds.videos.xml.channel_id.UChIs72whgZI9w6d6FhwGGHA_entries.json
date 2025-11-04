@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T04:28:37.692149+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T03:37:25+00:00",
+        "description": "Sponsor: HAVN BF 360 Flow on Amazon https://geni.us/PRsOyke\nAMD threatened to limit GPU driver support for products it is still ACTIVELY SELLING, then made errors in its driver notes, then fixed them, \"clarified\" its statement, then it clarified the clarifying statement, then it said you're all just confused. AMD continues to squander every opportunity it is handed, managing to screw-up its driver roll-out and communications in a span of just a few days. The backdrop to this is NVIDIA's partnership with Palantir, continual screwing of its gaming consumers, and recent investment in Intel, which has recently shown promise with Battlemage (Arc GPU) driver updates.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\nGrab a PC Building Anti-Static Modmat! https://store.gamersnexus.net/products/large-modmat-gn15-anniversary\nOur Blind Eye T-Shirts support our AI GPU Smuggling Documentary and are available! https://store.gamersnexus.net/products/blind-eye-t-",
+        "id": 3968356,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dkPPejQXFNo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dkPPejQXFNo/hqdefault.jpg",
+        "title": "AMD Says We're \"Confused\"",
+        "vote": 0
+    }
+]

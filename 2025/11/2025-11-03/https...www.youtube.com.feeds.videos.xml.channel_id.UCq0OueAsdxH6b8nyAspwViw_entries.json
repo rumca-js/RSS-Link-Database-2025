@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Universal Pictures",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T18:03:14.817042+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T18:01:08+00:00",
+        "description": "#TheNuttyProfessor #EddieMurphy #JamalMixon #UniversalPictures #Shorts",
+        "id": 3973489,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/t-UTFKC4UEA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 598,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t-UTFKC4UEA/hqdefault.jpg",
+        "title": "Granny is on her own journey with the peas | \ud83c\udfac The Nutty Professor (1996)",
+        "vote": 0
+    }
+]

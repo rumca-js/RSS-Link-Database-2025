@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T15:31:20.120193+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T14:39:32+00:00",
+        "description": "Get Nebula (and access to my feature documentary, Oldest & Newest) using my link for 40% off an annual subscription: https://go.nebula.tv/joescott \n\nAfter owning a Tesla Model 3 for seven years (it was the very first year of production), I decided it was time for a new car. And for reasons, I picked a Polestar 3. As someone who has reported on electric cars for years, I thought it was worth talking about my switch from Tesla to Polestar and compare the two. For anybody who might be interested. Enjoy!\n\nWant to support the channel? Here's how:\n\nPatreon: http://www.patreon.com/answerswithjoe\nChannel Memberships: https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg/join\nT-Shirts & Merch: https://laughsmarter.com\n\nCheck out my 2nd channel, Joe Scott TMI:\nhttps://www.youtube.com/channel/UCqi721JsXlf0wq3Z_cNA_Ew\n\nAnd my podcast channel, Conversations With Joe:\nhttps://www.youtube.com/channel/UCJzc7TiJ2nnuyJkUpOZ8RKA\n\nYou can listen to my podcast, Conversations With Joe on Spotify, Apple ",
+        "id": 3972213,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pGWL68O05kA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pGWL68O05kA/hqdefault.jpg",
+        "title": "I Switched.",
+        "vote": 0
+    }
+]

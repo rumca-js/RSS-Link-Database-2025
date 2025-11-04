@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-03T10:09:45.260135+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-03T10:03:00+00:00",
+        "description": "This is not a promise to be made lightly. It&#8217;s not, &#8220;I&#8217;ve got your back until it becomes difficult or inconvenient for me.&#8221; It puts us on the hook, without exception. This is a powerful promise, a commitment that can change the life of both parties. Don&#8217;t do it lightly, but do it. It&#8217;s worth [&#8230;]",
+        "id": 3969821,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/11/ive-got-your-back-3",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cI\u2019ve got your back\u201d",
+        "vote": 0
+    }
+]
