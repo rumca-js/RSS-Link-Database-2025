@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/mars_py",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T15:15:54.516435+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T15:15:26+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey, so I&#39;m a 15-year-old from Nepal, currently in 11th grade, studying computer science. For the last two years, I\u2019ve been learning a curriculum developed by the government called &quot;Computer Engineering&quot; (it\u2019s a technical education). Initially, the curriculum had 11 subjects, but by the time I came around, it was reduced to 9 subjects. In 9th grade, I studied subjects like Mathematics, Science, English, Nepali, Optional Maths, Web Development (HTML, CSS, JS), C Programming, Fundamentals of Computer Applications, and Fundamentals of Electronics Systems. In 10th grade, I focused on subjects like Data Structures &amp; OOP Concepts (using C++), Computer Hardware, Electronics Repair &amp; Maintenance, Database Management Systems, Digital Design &amp; Microprocessors, along with other compulsory subjects.</p> <p>Now, in 11th grade, I\u2019m studying Computer Science, and I\u2019ve learned quite a bit along the way: HTML5, CSS3, JS, PHP, C, C++, Python, ",
+        "id": 3981321,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1oo9sio/struggling_to_stand_out_in_tech_how_can_i_thrive",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Struggling to Stand Out in Tech: How Can I Thrive as a Young Developer and a learner too?",
+        "vote": 0
+    }
+]

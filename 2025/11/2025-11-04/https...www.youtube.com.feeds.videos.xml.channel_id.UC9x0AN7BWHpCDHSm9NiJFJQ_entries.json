@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T16:01:32.281941+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T15:01:43+00:00",
+        "description": "Are you really still using VPN? It\u2019s time for a change: https://ntck.co/defcon33\n\nWhat happens when you throw 30,000 hackers into one place? Welcome to DEF CON, my first ever hacker convention. From picking locks and hacking cars to meeting legends behind Wireshark and Kitboga, this isn\u2019t just a conference \u2014 it\u2019s hacker Disneyland. I\u2019ll take you inside the villages (where cameras usually aren\u2019t allowed), meet some wild characters, and show you why DEF CON isn\u2019t scary\u2026it\u2019s community.\n\n\n\nTIMESTAMPS:\n\n0:00 - Intro\n00:31 - First Time at DEFCON\n2:00 - Packet Hacking Village\n3:39 - Lock Picking Village\n6:10 - Physical Security Village\n7:36 - Car Hacking Village\n10:00 - Social Engineering Village\n10:45 - My Favorite Part of DEFCON\n\n\n\nRESOURCES AND LINKS:\n\n\u2620\ufe0f Check out DEF CON: https://defcon.org/\n\n\ud83d\udd12Training Lock: https://toool.us/store/Red-KiK-lock-p519912395\n\n\ud83d\udd11 Lockpicking kit: https://toool.us/store/Necessary-Nine-Lock-Pick-Set-v2-p579851580\n\nChris Greer (Wireshark guy): https://www.youtub",
+        "id": 3981819,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qFsj6KL8_nU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qFsj6KL8_nU/hqdefault.jpg",
+        "title": "DEFCON is Not What I Expected...",
+        "vote": 0
+    }
+]

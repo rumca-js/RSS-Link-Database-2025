@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T12:29:32.163576+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T12:29:31+00:00",
+        "description": "Jorda\u0144ska Akaba i kolumbijska Cartagena to nowe po\u0142\u0105czenia czarterowe z Katowice Airport, kt\u00f3re w tym sezonie zimowym realizowa\u0107 b\u0119dzie biuro podr\u00f3\u017cy Rainbow.",
+        "id": 3980024,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art43285431-rainbow-wystartowal-z-katowic-do-akaby-za-tydzien-pierwszy-rejs-do-cartageny",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rainbow wystartowa\u0142 z Katowic do Akaby. Za tydzie\u0144 pierwszy rejs do Cartageny",
+        "vote": 0
+    }
+]

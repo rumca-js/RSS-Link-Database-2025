@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T17:05:00.864789+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T15:52:58+00:00",
+        "description": "How does the White House handle crises across the world? Former top national security advisers Jake Sullivan and Jon Finer are giving you the inside scoop in their new podcast. \n\nThe Long Game is a new show from the Vox Media Podcast Network that will break down how these consequential decisions get made and why they matter. We\u2019re sharing the first few episodes from Vox\u2019s YouTube channel starting this Friday. Check out the trailer below. \n\nSubscribe to our channel and turn on notifications (\ud83d\udd14) so you don't miss any videos: http://goo.gl/0bsAjO\n\nVox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com.\n\nWatch our full video catalog: http://goo.gl/IZONyE\nFollow Vox on TikTok: http://tiktok.com/@voxdotcom\nCheck out our articles: https://www.vox.com/\nListen to our podcasts: https://www.vox.com/podcasts",
+        "id": 3982438,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/0HddqCL9C50",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 779,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0HddqCL9C50/hqdefault.jpg",
+        "title": "The Long Game",
+        "vote": 0
+    }
+]

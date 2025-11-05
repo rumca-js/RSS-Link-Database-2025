@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T17:42:47.680599+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T17:42:46+00:00",
+        "description": "Google musia\u0142o pospiesznie wycofa\u0107 sw\u00f3j model sztucznej inteligencji Gemma z publicznego dost\u0119pu po tym, jak AI przedstawi\u0142o fa\u0142szywe zarzuty kryminalne pod adresem ameryka\u0144skiej senator. To niegro\u017ane halucynacje bot\u00f3w, czy dezinformacyjny kryzys?",
+        "id": 3982867,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art43287411-ten-model-ai-sfabrykowal-zarzuty-i-oskarzyl-polityka-gigant-musial-sie-ugiac",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ten model AI sfabrykowa\u0142 zarzuty i oskar\u017cy\u0142 polityka. Gigant musia\u0142 si\u0119 ugi\u0105\u0107",
+        "vote": 0
+    }
+]

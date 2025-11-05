@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Cherno",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T10:47:58.264007+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T10:00:27+00:00",
+        "description": "Check out the NEW CodeRabbit CLI for FREE! \u25ba https://coderabbit.link/cherno-cli\n\nPatreon \u25ba https://patreon.com/thecherno\nInstagram \u25ba https://instagram.com/thecherno\nTwitter \u25ba https://twitter.com/thecherno\nDiscord \u25ba https://discord.gg/thecherno\n\nHazel \u25ba https://hazelengine.com\n\ud83d\udd79\ufe0f Play our latest game FREE (made in Hazel!) \u25ba https://studiocherno.itch.io/dichotomy\n\n\ud83c\udf0f Need web hosting? \u25ba https://hostinger.com/cherno\n\n\ud83d\udcb0 Links to stuff I use:\n\u2328 Keyboard \u25ba https://geni.us/T2J7\n\ud83d\udc2d Mouse \u25ba https://geni.us/BuY7\n\ud83d\udcbb Monitors \u25ba https://geni.us/wZFSwSK\n\nThis video is sponsored by Code Rabbit.",
+        "id": 3979296,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Glq1oDBy1cQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 419,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-W1KE9EYfdxhL6S4twUNw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Glq1oDBy1cQ/hqdefault.jpg",
+        "title": "SOMEONE Code Reviewed Hazel, My Game Engine",
+        "vote": 0
+    }
+]

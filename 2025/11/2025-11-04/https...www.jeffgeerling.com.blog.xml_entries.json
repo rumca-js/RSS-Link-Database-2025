@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T23:48:11.840652+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T22:55:37+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">It's not that hard to stop a Trane</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Six years ago, I replaced the old HVAC system that came with our house, a central forced air system installed in 1995<sup id=\"oldinstall\"><a href=\"#fn:oldinstall\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n\n<p>The new system is a Trane XR AC paired with an <a href=\"https://www.trane.com/residential/en/products/furnaces/premier-96/\">S9V2 96% efficiency forced-air gas furnace</a>. And it ran great! Better efficiency, quieter, multiple fan speeds so I can circulate air and prevent stale air in some parts of the house... what's not to love?</p>\n\n<p>Well, apparently the engineering:</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/trane-s9v2-furnace-inside.jpg\" width=\"700\" height=\"525\" class=\"insert",
+        "id": 3985738,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/its-not-hard-stop-trane",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/trane-s9v2-furnace-inside.jpg",
+        "title": "It's not that hard to stop a Trane",
+        "vote": 0
+    }
+]

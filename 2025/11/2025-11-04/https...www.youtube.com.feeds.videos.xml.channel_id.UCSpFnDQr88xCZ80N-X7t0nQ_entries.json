@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T17:51:48.835770+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T17:01:12+00:00",
+        "description": "Released back in 1992, Memoirs of an Invisible Man went to great lengths to sell the illusion of a man being invisible. The techniques used required Chevy Chase to go through a very uncomfortable make-up process.",
+        "id": 3982938,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/bpIVPvcPpqo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bpIVPvcPpqo/hqdefault.jpg",
+        "title": "What it takes to become the Invisible Man",
+        "vote": 0
+    }
+]

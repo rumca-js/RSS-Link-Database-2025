@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Undecided with Matt Ferrell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T14:05:00.792240+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T13:16:56+00:00",
+        "description": "Solid-State Batteries: Hype vs. Reality. Take your personal data back with Incogni! Use code UNDECIDED at the link below and get 60% off an annual plan:\u00a0http://incogni.com/undecided You've heard the solid state battery story before. Toyota promised them by 2025. Samsung said they were just around the corner. QuantumScape's stock soared on promises of revolutionary batteries. And yet here we are, still driving cars with the same lithium-ion tech. And if the sliding deadlines weren't enough of a headache, the term solid state battery has become a marketing buzzword. But 2025 might actually look different. Companies aren't just filing patents anymore. They're opening factories. They're putting innovative new batteries in actual vehicles. Mercedes just drove 749 miles on a single charge with one. MG is taking pre-orders for a car with a semi-solid-state battery for under $15,000. So is this finally it? Are solid-state batteries finally here? Or are we just being sold another round of hype",
+        "id": 3980691,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uspSYVssGXU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 453,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uspSYVssGXU/hqdefault.jpg",
+        "title": "Solid-State Batteries: Hype vs. Reality",
+        "vote": 0
+    }
+]

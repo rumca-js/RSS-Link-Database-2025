@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T18:02:49.737715+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T17:17:42+00:00",
+        "description": "Google\u2019s Senior Vice President of Research, Labs, Technology & Society James Manyika sits down with Nobel laureate in Economics, Michael Spence and President of Queens' College at Cambridge, Mohamed El-Erian, for a discussion about the economic implications of artificial intelligence. #Technology #AI \n\n00:18 - AI's Potential for the Economy\n01:56 - AI's Impact on Work and Skills\n03:21 - Lessons from Past Disruptions\n04:24 - Macroeconomic Optimism for Growth and Debt\n\nWatch more:https://www.youtube.com/watch?v=S-De1TvTw4o&list=PL590L5WQmH8f8ID51T0_9JkWpeL9Dcb-S\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+        "id": 3982983,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mgVGJwVHf3A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mgVGJwVHf3A/hqdefault.jpg",
+        "title": "How could AI impact the global economy? | Michael Spence, Mohamed El-Erian, & James Manyika",
+        "vote": 0
+    }
+]

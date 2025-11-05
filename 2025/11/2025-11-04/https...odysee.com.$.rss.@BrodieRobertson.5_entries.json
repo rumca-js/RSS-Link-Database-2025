@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T17:43:22.392715+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T16:30:06+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/JZZgXTg3pPk\" width=\"480\" alt=\"thumbnail\" title=\"Debian Linux Is Forcing Rust Into APT\" /></p>You may have heard about Debian forcing the introduction of Rust into the apt package manager and you have heard about how bad this was going to be, and they're are problems but it's not as bad as you've heard<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Debian SupportedArchitectures: https://wiki.debian.org/SupportedArchitectures<br />Debian Ports: https://www.debian.org/ports/<br />Debian Announcement: https://lists.debian.org/deity/2025/10/msg00071.html<br />LWN Post: https://lwn.net/Articles/1044496/<br />LWN Emails: https://lwn.net/ml/all/20251031213541.GA73786@debian.org/<br /><br />==",
+        "id": 3982870,
+        "language": "en",
+        "link": "https://odysee.com/debian-linux-is-forcing-rust-into-apt:1e3b460d29b26f5897f56240abd4bd7eec518f32",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/JZZgXTg3pPk",
+        "title": "Debian Linux Is Forcing Rust Into APT",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Arvin Ash",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T04:02:28.559237+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T03:04:15+00:00",
+        "description": "Full video: https://youtu.be/A159CqlSdtQ \"Hidden Rules of the Universe that Control Everything!\"\n\nDive into the world of **quantum physics** to understand how **particles** behave differently at the quantum level. This video simplifies **quantum mechanics** and **quantum entanglement**, explaining **decoherence theory** and the role of **environment interaction**. Explore the nuances of **quantum theory** and its impact on our understanding of reality.",
+        "id": 3977429,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/cpvG27kMEpw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 848,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpMcsdZf2KkAnfmxiq2MfMQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cpvG27kMEpw/hqdefault.jpg",
+        "title": "Quantum Physics: Why Particles Act Like Points: Mind Blowing!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Katie Drummond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T12:31:28.292301+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T11:30:00+00:00",
+        "description": "But ideally, the journalist and podcast host would rather not work for tech CEOs at all.",
+        "id": 3980086,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/the-big-interview-podcast-kara-swisher",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/68f8083c6fc0dea09153d01c/master/pass/Big-Interview-UV-Solo-Kara-Smith-Business-2234581360.jpg",
+        "title": "Kara Swisher Would Rather Work for Sam Altman Than Mark Zuckerberg",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T15:40:12.918064+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T15:30:49+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nWhat Makes Modern C++ Compelling For Programmers? - Gareth Lloyd - ACCU York Meetup\n\n---\n\nWhat makes modern C++ compelling for programmers? In this talk, Gareth Lloyd explores the evolution of C++ from C++11 to C++23, highlighting features that make it a powerful, expressive, and ergonomic language for contemporary software development. Whether you are a seasoned developer or learning C++ for the first time, this session shows how modern C++ enables concise, type-safe, and efficient coding.\n\nLearn about key features that differentiate modern C++:\n\n- Strong typing and user-defined literals for safer and clearer code\n- Ergonomic date and time handling with C++ chrono, zone_time, and formatting\n- Compile-time programming with constexpr and consteval for faster and more predictable performance\n- Operator overloading and domain-specific syntax for readable, expressive code\n- Templates, class template argument deduction, and initializer lis",
+        "id": 3981720,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nmQ0wbdY1ZU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nmQ0wbdY1ZU/hqdefault.jpg",
+        "title": "What Makes Modern C++ Compelling For Programmers? - Gareth Lloyd",
+        "vote": 0
+    }
+]

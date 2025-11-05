@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/davx2012",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T16:54:37.931384+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T14:24:01+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/davx2012\"> /u/davx2012 </a> <br/> <span><a href=\"https://overclock3d.net/news/software/pcsx2-now-supports-over-99-5-of-ps2-games/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1oo8gxl/pcsx2_now_supports_over_995_of_ps2_games/\">[comments]</a></span>",
+        "id": 3982407,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1oo8gxl/pcsx2_now_supports_over_995_of_ps2_games",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PCSX2 now supports over 99.5% of PS2 games",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T12:36:40.581685+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T11:59:00+00:00",
+        "description": "<p>As the PSF heads into our end-of-year fundraiser, we want to share information to help \u201cconnect the dots\u201d and show a more complete picture of the PSF\u2019s current financial outlook. You\u2019ve heard from us on subjects related to our financial position from several different angles recently (a list of those posts is below). We\u2019ve prioritized proactive communications, because we believe in transparency, we have trust in our community, and we value keeping you informed\u2014 we know how invested in and impacted by our work you are. We now want to pull those threads together in order to create some shared clarity on the big picture, and, hopefully, inspire you to action to support our fundraising efforts.&nbsp;&nbsp;</p><h2 style=\"text-align: left;\">The dots</h2><p>Many groups, organizers, and individuals in the Python community and beyond are experiencing the impacts of the current financial environment, including inflation, reduced sponsorship, economic pressure in the tech sector, and global/l",
+        "id": 3980128,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/10/connecting-the-dots.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPIx4i6NVY6f8AVHYRfZ94Tk5-dQRuVfT9G4f7ca2Os8q9d5qVbpdfR362immobVURI1JvV8ivZUpeO8owWUZUJ1TWL7FbS5quiYak-mQwN1UrtyU1U6By56QcKoDAiKHQvkjlvWa1MLXD4KNC0-dr_5aFBiex6DgEubx5FNP98iH3RQcSQ/w400-h309/PYTHON_annual_report_2024_digital-1.png",
+        "title": "Connecting the Dots: Understanding the PSF\u2019s Current Financial Outlook",
+        "vote": 0
+    }
+]

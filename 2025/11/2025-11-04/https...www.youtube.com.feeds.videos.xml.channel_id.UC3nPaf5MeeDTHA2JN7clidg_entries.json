@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T22:11:11.663281+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T20:53:49+00:00",
+        "description": "Click this link https://sponsr.is/bootdev_bellularnews and use my code BELLULARNEWS to get 25% off your first payment for boot.dev. Sponsored by Boot.Dev.\n\n30 days after their biggest update, Amazon laid off the entire New World team. The Lord of the Rings MMO is dead. Their entire MMO division: gutted. What's Amazon building instead? AI chatbot games.\n\n00:00 Core games? Nah!\n02:41 Amazon's Mass Layoffs\n03:46 Stay Of Execution?\n05:18 Sunset Upon New World\n06:50 Amazon's New Focus\n08:18 Snoop's In Session\n09:20 Amazon Pivots... Again\n11:17 Amazon Games' Future\n\nSources:\nhttps://www.independent.co.uk/news/business/amazon-job-cuts-b2853604.html\n\nhttps://x.com/djWHEAT/status/1983227877488463952\n\nhttps://x.com/Tarfu/status/1983196834698015164\n\nhttps://steamdb.info/app/1063730/charts/#3y\n\nhttps://www.newworld.com/en-us/news/articles/update-on-new-world\n\nhttps://steamdb.info/sub/1121877/history/\n\nhttps://www.pcgamer.com/games/mmo/we-did-it-all-for-you-new-worlds-final-expansion-contains-a-hi",
+        "id": 3985032,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sWWE9FRo9Bk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sWWE9FRo9Bk/hqdefault.jpg",
+        "title": "Amazon Just Gutted Their Entire MMO Division",
+        "vote": 0
+    }
+]

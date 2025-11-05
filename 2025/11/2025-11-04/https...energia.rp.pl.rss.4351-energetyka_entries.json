@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-04T15:41:06.797888+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-04T15:41:05+00:00",
+        "description": "Urz\u0119dnicy Kremla dostali miesi\u0105c na wymy\u015blenie czego\u015b, z czym nie poradzili sobie przez lata. O co chodzi? O stworzenie w Rosji przemys\u0142u metali ziem rzadkich. Kraj posiadaj\u0105cy bogate ich zasoby, dot\u0105d niemal wszystkie importowa\u0142.",
+        "id": 3981721,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art43286341-kreml-potrzebuje-metali-ziem-rzadkich-chinczycy-nie-pomoga",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kreml potrzebuje metali ziem rzadkich. Chi\u0144czycy nie pomog\u0105",
+        "vote": 0
+    }
+]
