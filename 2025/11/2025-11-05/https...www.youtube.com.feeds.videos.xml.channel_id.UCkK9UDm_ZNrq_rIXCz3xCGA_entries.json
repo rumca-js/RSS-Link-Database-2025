@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T18:34:56.929220+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T17:47:20+00:00",
+        "description": "Devuan's Code of Conduct: \"We accept everyone's contributions, we don't care if you're liberal or conservative, black or white, straight or gay, or anything in between!\"\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 3993197,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jfa_SZyltyc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jfa_SZyltyc/hqdefault.jpg",
+        "title": "Devuan 6.0 Released: No Systemd & Non-Woke Debian",
+        "vote": 0
+    }
+]

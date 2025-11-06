@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T12:39:43.636050+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T12:20:03+00:00",
+        "description": "Grab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\nALL SHOWCASED APPS ARE ON FLATHUB. ALL EXTENSIONS ARE AVAILABLE IN EXTENSION MANAGER AND SUPPORT GNOME 49.\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:32 Mini Panel\n01:52 Kiwi MacOS Menu\n03:18 Kiwi is not Apple\n05:18 Tasks in panel\n06:17 Adaptive Brightness\n07:00 In Picture\n08:33 Just Perfection\n10:12 System monitor\n10:39 System Tray\n11:18 Lock Screen\n12:54 Bazaar\n14:52 Planify\n17:04 Gradia\n18:18 Picture of the Day\n19:01 Typhoon\n19:50 Constrict\n21:20 Sponso",
+        "id": 3989918,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cgLHvULNjyo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cgLHvULNjyo/hqdefault.jpg",
+        "title": "16 cool new (and old) GNOME extensions & applications!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T18:10:45.606781+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T18:10:04+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Google has finally begun adding support for its own internal services to Google Gemini, just a month after Microsoft began offering the same capabilities to Windows testers.</p>\n\n\n\n<p>Google said Wednesday that Gemini Deep Research can now connect to Gmail, Google Drive, and Chat, along with Docs, Slides, Sheets, and PDF files stored within those services.</p>\n\n\n\n<p>\u201cThis powerful new capability is now available for all Gemini users,\u201d Google said in a <a href=\"https://blog.google/products/gemini/deep-research-workspace-app-integration/\">blog post</a> on Wednesday. \u201cTo get started, just select \u2018Deep Research\u2019 from the Tools menu in Gemini on desktop and select your sources. This will begin rolling out to mobile users in the coming days.\u201d</p>\n\n\n\n<p>On October 10, Microsoft announced that its own <a href=\"https://www.pcworld.com/article/2936809/windows-copilot",
+        "id": 3993064,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2963347/gemini-can-finally-search-gmail-and-drive-following-microsoft.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2025/11/Google-Gemini-deep-research.png?w=1200",
+        "title": "Gemini can finally search Gmail and Drive, following Microsoft",
+        "vote": 0
+    }
+]

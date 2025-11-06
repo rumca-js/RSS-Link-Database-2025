@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T16:45:36.746653+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T16:30:14+00:00",
+        "description": "Recently there were these reports of 90% of Windows games working on Linux and that's true to an extent but the ports don't show the full picture.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nSteam 3% Linux: https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/\nBoiling Steam Article: https://boilingsteam.com/windows-games-compatibility-on-linux-is-at-a-all-time-high/\nProtonDB: https://www.protondb.com/dashboard\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodiero",
+        "id": 3992094,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=XvANZbDhO3Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XvANZbDhO3Q/hqdefault.jpg",
+        "title": "90% Of Windows Games Work On Linux... Sort Of",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Robert Purchese",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T14:04:35.023360+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T13:21:20+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/New-Project-(13).jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>When did we all start ignoring Nintendo? Was it the Wii era? Because that's the moment Nintendo stepped away. That's when Nintendo decided to leave the raw-power console fight to PlayStation and Xbox, and let them slug it out while it did something else. Nintendo decided to focus on innovation and creativity and rethink the idea of the console, the Wii being the result. I remember how it was greeted at the time, the Revolution as it was known then, with scepticism - derision, even. What was this comparatively low-powered toy? It wouldn't stand a chance against Xbox 360 and PlayStation 3. And yet...</p> <p><a href=\"https://www.eurogamer.net/if-consoles-are-dead-how-do-we-explain-the-phenomenal-success-of-nintendos-switch\">Read more</a></p>",
+        "id": 3990700,
+        "language": "en",
+        "link": "https://www.eurogamer.net/if-consoles-are-dead-how-do-we-explain-the-phenomenal-success-of-nintendos-switch",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/New-Project-(13).jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "If consoles are dead, how do we explain the phenomenal success of Nintendo's Switch?",
+        "vote": 0
+    }
+]

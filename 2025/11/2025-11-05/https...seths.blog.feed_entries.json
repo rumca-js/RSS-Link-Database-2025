@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T11:04:27.145795+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T10:03:00+00:00",
+        "description": "Landlords collect rent, tenants pay it. Landlords own an asset that increases in value over time. Tenants have the freedom to move on. If you&#8217;re building a business, it pays to own an asset. Your labor doesn&#8217;t scale well, and success can be exhausting. It&#8217;s better to be Google than it is to be hoping [&#8230;]",
+        "id": 3989293,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/11/landlords-and-tenants",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Landlords and tenants",
+        "vote": 0
+    }
+]

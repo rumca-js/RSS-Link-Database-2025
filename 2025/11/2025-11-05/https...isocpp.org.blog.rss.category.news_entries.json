@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T21:30:54.373260+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T20:17:43+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />Over the last two posts, we explored different implementations of the&nbsp;observer pattern&nbsp;in C++.&nbsp;<a href=\"https://www.sandordargo.com/blog/2025/09/03/observers-part1\">We began with a very simple example</a>, then&nbsp;<a href=\"https://www.sandordargo.com/blog/2025/09/10/observers-part2\">evolved toward a more flexible, template- and inheritance-based design</a>.</p>\n<p>\n\tThis week, let&rsquo;s move further &mdash; shifting away from inheritance and embracing&nbsp;composition.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/09/17/observers-part3\">Discovering Observers - Part 3</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tYou might say (and you&rsquo;d be right) that publishers and subscribers can just as well be used as members instead of",
+        "id": 3994510,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/11/discovering-observers-part-3-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "Discovering Observers - Part 3 -- Sandor Dargo",
+        "vote": 0
+    }
+]

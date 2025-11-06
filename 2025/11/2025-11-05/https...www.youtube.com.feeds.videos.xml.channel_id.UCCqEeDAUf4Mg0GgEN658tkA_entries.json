@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T19:19:13.308916+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T18:40:23+00:00",
+        "description": "From Osgood Perkins, the director of Longlegs & The Monkey, comes a new breed of nightmare. Don't miss the horror event of the season. KEEPER opens in theaters nationwide November 14th.\n\nChris Stuckmann reviews Christy, starring Sydney Sweeney, Ben Foster, Merritt Wever, Ethan Embry, Katy O'Brian. Directed by David Mich\u00f4d.",
+        "id": 3993612,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F58ttKsA2Rw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F58ttKsA2Rw/hqdefault.jpg",
+        "title": "Christy - Movie Review",
+        "vote": 0
+    }
+]

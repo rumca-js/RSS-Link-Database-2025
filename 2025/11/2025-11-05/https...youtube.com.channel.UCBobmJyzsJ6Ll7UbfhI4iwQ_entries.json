@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T17:42:04.095670+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T16:45:00+00:00",
+        "description": "Watch this video for a look at some of the spectacular Unreal Engine projects that have been delivered across the architecture, engineering, construction, and operations (AECO) industries this year.\n\nGorgeous architectural visualizations, interactive 3D infrastructure models, photorealistic digital twins of cities, immersive real estate configuration\u2014these projects showcase the many ways real-time technology is transforming AECO across design, marketing, sales, and beyond. \n\nLearn how Unreal Engine can power digital experiences for AECO that wow clients and stakeholders here: unrealengine.com/uses/architecture\n\n#AECO, #UnrealEngine, #DigitalTwins, #Archviz",
+        "id": 3992643,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0C0smt7lKeM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0C0smt7lKeM/hqdefault.jpg",
+        "title": "Unreal Engine AECO Sizzle Reel 2025",
+        "vote": 0
+    }
+]

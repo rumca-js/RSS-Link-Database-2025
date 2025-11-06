@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nora Bradford",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T15:17:00.430506+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T15:10:10+00:00",
+        "description": "A sudden flash of insight is a product of your brain. Neuroscientists track the neural activity underlying an \u201caha\u201d and how it might boost memory.            <p>The post <a href=\"https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/\" target=\"_blank\">How Your Brain Creates \u2018Aha\u2019 Moments and Why They Stick</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 3991327,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/11/Aha-Moment-cr-Irene-Perez-Default.webp",
+        "title": "How Your Brain Creates \u2018Aha\u2019 Moments and Why They Stick",
+        "vote": 0
+    }
+]

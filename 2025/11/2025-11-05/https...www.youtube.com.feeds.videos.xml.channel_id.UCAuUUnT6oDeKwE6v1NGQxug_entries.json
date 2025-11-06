@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T16:54:43.797934+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T16:00:03+00:00",
+        "description": "Before algorithms ruled our feeds, the internet was a mess \u2014 glitchy, chaotic and full of unexpected magic. Internet culture writer Michael Sun reflects on the wild digital world of the 2000s \u2014 and makes a funny, wry case for why we need to reclaim its spontaneity, weirdness and genuine connection. From niche Facebook groups to loading music onto your iPod, it might be time to borrow from the past. (Recorded at TEDxYouth@Sydneyon May 24, 2023)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscrib",
+        "id": 3992156,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1o7znNK19Pk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1o7znNK19Pk/hqdefault.jpg",
+        "title": "How to Recapture the Joy of the Early Internet | Michael Sun | TED",
+        "vote": 0
+    }
+]

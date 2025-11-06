@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T18:36:49.248310+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T18:01:00+00:00",
+        "description": "Semaglutide, the drug famously sold under brand names like Ozempic and Wegovy, has boomed in popularity in just a handful of years. It\u2019s not limited to doing just one thing inside your body\u2026 making it a double-edged sword with both benefits /and/ risks. We\u2019re starting to learn what all those things are, and while some of it is great, some of it is less great. So here are 5 things they\u2019re not telling you about semaglutide.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jaap Westera, Alex Hackman, Blood Doctor Kelly, Toyas Dhake, Matt Curls, Piya Shedden, Jason A Saslow, Kevin Knupp, J.V. Rosenbalm, Garrett Galloway, Steve Gums, David",
+        "id": 3993202,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=sJzEMVkCCGg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sJzEMVkCCGg/hqdefault.jpg",
+        "title": "Ozempic Is Both Better And Worse Than You Think",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T10:32:46.788601+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T10:01:12+00:00",
+        "description": "Read more about the AI governance gap \u2192https://ibm.biz/Bdbm9Q\n\nWhat do AI agents, the stock market and behavior-based threat detection tools have in common? You\u2019ll need to listen to this week\u2019s episode of Security Intelligence to find out. \n\nJoin host Matt Kosinski and panelists Sridhar Muppidi and Cris Thomas for a jam-packed conversation, including new ways to build malicious AI agents, a malware strain that types like a person, a social engineering scheme that manipulates stock prices and a banner year for bug bounties. \n\nPlus: When it comes to new tech, why does governance always lag so far behind implementation? \n\nAll that and more on Security Intelligence.  \n\n00:00-  Intro\n01:08 - Malicious AI agents\n20:39 - Herodotus malware\n27:09 - Brokerage attacks\n33:30 - Ballooning bug bounties\n\nCheck out our new special edition episode \u2192https://ibm.biz/Bdbm93\n\nSubscribe for AI and security updates \u2192 https://ibm.biz/Bdbm9w\n\nThe opinions expressed in this podcast are solely those of the part",
+        "id": 3988965,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iaZS1jer8MY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iaZS1jer8MY/hqdefault.jpg",
+        "title": "Android malware that acts like a person and AI agents that act like malware",
+        "vote": 0
+    }
+]

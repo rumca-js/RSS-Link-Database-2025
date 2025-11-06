@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Game Maker's Toolkit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T17:23:45.374324+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T16:27:33+00:00",
+        "description": "With a game idea under your belt, it's time to test it out. And the best way to do that is with a prototype. Find out why, and get tips for making your own, in episode two of Game Dev 101.\n\n=== GMTK Games ===\n\n\ud83e\uddf2 Get Mind Over Magnet on Steam - https://store.steampowered.com/app/2685900/Mind_Over_Magnet/ \ud83e\uddf2\n\ud83d\udd20 Get Word Play on Steam - https://store.steampowered.com/app/3586660/Word_Play \ud83d\udd20\n\n=== Sources ===\n\nhttps://gamemakerstoolkit.com/sources-whats-the-point-of-prototyping/\n\n=== Chapters ===\n\n00:00 - Intro\n02:09 - Is it fun?\n04:30 - Is it viable?\n05:38 - Will people like it?\n07:38 - How to prototype\n08:12 - Don't make it flashy\n10:13 - Use other mediums\n12:02 - Keep them small\n13:21 - You don't have to prototype everything\n16:01 - Conclusion\n\n=== Games Shown ===\n\nThe Artful Escape | 2021\nCeleste | 2018\nGame Dev Story | 2010\nFlorence | 2018\nMind Over Magnet | 2024\nCuphead | 2017\nThe Legend of Zelda: Breath of the Wild | 2017\nHi-Fi Rush | 2023\nPsychonauts 2 | 2021\nUncharted: Legacy of Thi",
+        "id": 3992579,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8tHJgtbj6rs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 799,
+        "source_url": "https://youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8tHJgtbj6rs/hqdefault.jpg",
+        "title": "What's the Point of Prototyping?",
+        "vote": 0
+    }
+]

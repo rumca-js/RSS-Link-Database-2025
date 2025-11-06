@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rick Steves' Europe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T21:33:01.413546+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T21:02:00+00:00",
+        "description": "Get a 30-second glimpse of Rick Steves\u2019 newest episode \u2014 premiering fall 2025 across the US on public television, and streaming (free!) at https://www.ricksteves.com/watch-read-listen/video/tv-show \n\nWe set a course on a tranquil cruise of the rivers and canals of France's Burgundy region. Aboard a century-old barge-turned-hotel, we're treated to a relaxing pace and natural beauty \u2014 plus plenty of gourmet meals and fine wine. Stops for a hike or bike ride help us work up our next appetite, and a ch\u00e2teau lord welcomes us to taste the vintages of the famed C\u00f4te d'Or.\n\nSubscribe for more travel previews and full episodes: https://www.youtube.com/user/RickSteves\n#ricksteveseurope #rickstevesfrance #bourgogne",
+        "id": 3994559,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-M188AcRPqU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 897,
+        "source_url": "https://youtube.com/channel/UCchgIh8Tc4sTmBfnMQ5pDdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-M188AcRPqU/hqdefault.jpg",
+        "title": "Burgundy: Gourmet Barge Cruise Preview",
+        "vote": 0
+    }
+]

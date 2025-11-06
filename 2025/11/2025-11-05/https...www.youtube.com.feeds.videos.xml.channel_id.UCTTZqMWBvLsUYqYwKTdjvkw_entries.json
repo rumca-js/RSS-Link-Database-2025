@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T17:21:03.952780+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T17:00:08+00:00",
+        "description": "Social media potrafi\u0105 zm\u0119czy\u0107.\nPlanowanie, publikacje, grafiki\u2026 \u0142atwo w tym wszystkim straci\u0107 czas.\nNa szcz\u0119\u015bcie jest spos\u00f3b, by to upro\u015bci\u0107.\nI jak zawsze - kluczem jest automatyzacja. \n\n\ud83d\udc49 Kurs \u201eAutomatyzacje dla Solo Tw\u00f3rcy Internetowego\u201d\n\ud83d\udc49 Kurs \u201eAutomatyzacje dla Solo Przedsi\u0119biorcy\u201d\nDost\u0119pne na \ud83d\udc49 https://solo.uczmnie.pl\n\n#WielkaAutomatyzacja #AI #automatyzacje #solotw\u00f3rca #produktywno\u015b\u0107 #autopromocja #shorts",
+        "id": 3992566,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/46zvMPGcAyQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/46zvMPGcAyQ/hqdefault.jpg",
+        "title": "\ud83d\ude80 Odcinek 12: Wielka Automatyzacja",
+        "vote": 0
+    }
+]

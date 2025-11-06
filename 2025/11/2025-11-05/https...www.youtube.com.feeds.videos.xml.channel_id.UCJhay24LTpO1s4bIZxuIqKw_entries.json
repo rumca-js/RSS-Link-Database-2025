@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T15:57:32.972120+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T15:03:27+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nHow To Write a Rubik\u2019s Cube Solver - Sam Saariste - ACCU 2025\n---\n\nIn this talk I share a journey of developing a Rubik's cube solving library that can be used for a wide range of applications in this space. The original purpose was to teach Python to my 12 year old son who happens to be able to solve a Rubik's cube in 10 seconds. Soon, this teaching project turned into a shared quest to design a Rubik's cube solving framework that can be used as a teaching tool to do sample solves at all possible skills levels, but also as a tool to find optimal solutions for specific cases that speed solvers may come across. We even modelled how efficient a human could execute a sequence of turns depending on whether regrips will be necessary, which is important for speed solvers who execute up to 15 turns per second. We tried different data structures for cube representations and settled on an efficient one with some very interesting properties all",
+        "id": 3991567,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oNk5vm3jroQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oNk5vm3jroQ/hqdefault.jpg",
+        "title": "How To Write a Rubik\u2019s Cube Solver - Sam Saariste - ACCU 2025",
+        "vote": 0
+    }
+]

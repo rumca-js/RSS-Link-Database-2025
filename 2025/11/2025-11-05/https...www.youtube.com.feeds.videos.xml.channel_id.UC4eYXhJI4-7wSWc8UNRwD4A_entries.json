@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T10:09:52.400000+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T10:01:17+00:00",
+        "description": "Bobby Carter | November 5, 2025\nThere's often a moment during a Tiny Desk concert when an artist realizes that playing in an office was either the right or wrong thing to do. After starting the set with \"Takin' It to the Streets,\" one of The Doobie Brothers' many hits, Tom Johnston tells the audience, \"It's not like this at gigs. We just played up in New York at Jones Beach last night and y'all are outdoing them. It's pretty cool.\" For a band as accomplished as this to still encounter new experiences as performers says a lot about the energy bouncing around the walls of NPR headquarters.\n\nWith over 50 years in the music business, plus numerous awards and accolades \u2014 including inductions into the Rock & Roll and Songwriters Hall of Fame \u2014 Johnston, Michael McDonald, Patrick Simmons and John McFee don't have anything more to prove. But the living members of The Doobie Brothers reunited this year and released Walk This Road. To support the new album, they hit the road and stopped by the ",
+        "id": 3988927,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jrkOQuRYCIQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jrkOQuRYCIQ/hqdefault.jpg",
+        "title": "The Doobie Brothers: Tiny Desk Concert",
+        "vote": 0
+    }
+]

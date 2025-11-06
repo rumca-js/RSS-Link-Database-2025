@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T17:09:35.553058+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T16:30:14+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/XvANZbDhO3Q\" width=\"480\" alt=\"thumbnail\" title=\"90% Of Windows Games Work On Linux... Sort Of\" /></p>Recently there were these reports of 90% of Windows games working on Linux and that's true to an extent but the ports don't show the full picture.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Steam 3% Linux: https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/<br />Boiling Steam Article: https://boilingsteam.com/windows-games-compatibility-on-linux-is-at-a-all-time-high/<br />ProtonDB: https://www.protondb.com/dashboard<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techover",
+        "id": 3992486,
+        "language": "en",
+        "link": "https://odysee.com/90-of-windows-games-work-on-linux...:c0eba002a6334217790c62873b646ab80ec01d8b",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/XvANZbDhO3Q",
+        "title": "90% Of Windows Games Work On Linux... Sort Of",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T10:14:47.587980+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T08:01:24+00:00",
+        "description": "Shout-out to our Sponsor Maono! Get the new PD200W Hybrid Podcasting Microphone here: http://bit.ly/3X0blTD with Discount code: TE15%OFF or on Amazon: https://amzn.to/3JgvgKY\n\nEasily back up, organize, and manage your photos on your own server. Immich helps you\nbrowse, search and organize your photos and videos with ease, without sacrificing your privacy.\n\nWork in progress - adding links.\nOfficial Immich Docs: https://docs.immich.app/overview/quick-start/\nYAML Files: https://github.com/immich-app/immich/tree/main/docker\nSetup Docker: https://techhut.tv/7-docker-basics-for-beginners/\nNETBIRD: https://netbird.io\n\nOriginal Video (Features): https://youtu.be/s1ufPvO0BVE\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE ",
+        "id": 3988937,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lJAGKnudZ8A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lJAGKnudZ8A/hqdefault.jpg",
+        "title": "ULTIMATE Immich Guide - DITCH Google/Amazon Photos",
+        "vote": 0
+    }
+]

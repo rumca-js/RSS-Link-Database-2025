@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T08:57:25.893183+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T08:01:24+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/lJAGKnudZ8A\" width=\"480\" alt=\"thumbnail\" title=\"ULTIMATE Immich Guide - DITCH Google/Amazon Photos\" /></p>Shoutout to our Sponsor Maono! Get the new PD200W Hybrid Podcasting Microphone here http://bit.ly/3X0blTD with Discount code: TE15%OFF or on Amazon: https://amzn.to/3JgvgKY<br /><br />Easily back up, organize, and manage your photos on your own server. Immich helps you<br />browse, search and organize your photos and videos with ease, without sacrificing your privacy.<br /><br />Work in progress - adding links.<br />Official Immich Docs: https://docs.immich.app/overview/quick-start/<br />YAML Files: https://github.com/immich-app/immich/tree/main/docker<br />Setup Docker: https://techhut.tv/7-docker-basics-for-beginners/<br />NETBIRD: https://netbird.io<br /><br />Original Video (Features): https://youtu.be/s1ufPvO0BVE<br /><br />\ud83c\udfc6 FOLOW TECHHUT<br />X (Twitter): https://bit.ly/twitter-techhut<br />MASTODON: https://bit.ly/mastodon-techhut<b",
+        "id": 3988576,
+        "language": "en",
+        "link": "https://odysee.com/ultimate-immich-guide-ditch-google:5a7b0647f3b0e012a71e86cf555de70066f4a0b8",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/lJAGKnudZ8A",
+        "title": "ULTIMATE Immich Guide - DITCH Google/Amazon Photos",
+        "vote": 0
+    }
+]

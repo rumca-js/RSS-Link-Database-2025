@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-05T17:10:19.781444+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-05T16:40:38+00:00",
+        "description": "Today's links \"Science Comics Computers: How Digital Hardware Works\": Steampunk dinosaurs scratch-build a pressurized air-based, Turing complete, universal von Neumann machine. Hey look at this: Delights to delectate. Object permanence: Google Print vs Great Ormond; Lincolnbot; \"Zoo City\"; Killed by your tapeworm's cancer; NZ Colossus; How to have cancer. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. \"Science Comics Computers: How Digital Hardware Works\" (permalink) In Science Comics Computers: How Digital Hardware Works, legendary cypherpunk Perry Metzger teams up with Penelope Spector and illustrator Jerel Dye for a tour-de-force young adult comic book that uses hilarious steampunk dinosaurs to demystify the most foundational building-blocks of computers. It's astounding: https://www.veniac.com/ \"Science Comics\" is a lon",
+        "id": 3992494,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/11/05/xor-xand-xnor-nand-nor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2025/11/05Nov2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: \"Science Comics Computers: How Digital Hardware Works\" (05 Nov 2025)",
+        "vote": 0
+    }
+]
