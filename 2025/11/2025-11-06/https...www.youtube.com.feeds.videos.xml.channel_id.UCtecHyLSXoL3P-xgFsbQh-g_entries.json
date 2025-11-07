@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T14:57:50.813229+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T14:03:30+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nPierwsze wersje Predatora wygl\u0105da\u0142y kompletnie inaczej, od tego pot\u0119\u017cnego \u0142owcy, kt\u00f3rego znamy z du\u017cego ekranu. Jak wygl\u0105da\u0142y pocz\u0105tki Predatora? Jak tworzono t\u0119 legendarn\u0105 besti\u0119? Jakie by\u0142y pierwsze wersje scenariusza? Co powoduje, \u017ce film z Arnoldem Schwarzeneggerem jest tak dobry?",
+        "id": 4000515,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=f09Ds0F9JLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f09Ds0F9JLE/hqdefault.jpg",
+        "title": "Istota, kt\u00f3ra odmieni\u0142a kino",
+        "vote": 0
+    }
+]

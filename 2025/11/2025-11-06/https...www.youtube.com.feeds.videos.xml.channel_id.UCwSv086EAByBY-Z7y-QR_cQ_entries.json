@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uszi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T04:05:51.417966+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T03:30:12+00:00",
+        "description": "linki przed po\u0142udniem, przepraszam!",
+        "id": 3996830,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=98iXPwpVdjU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 376,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwSv086EAByBY-Z7y-QR_cQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/98iXPwpVdjU/hqdefault.jpg",
+        "title": "Zohran Mamdani rz\u0105dzi NYC: fakty, mity i pytania o przysz\u0142o\u015b\u0107!",
+        "vote": 0
+    }
+]

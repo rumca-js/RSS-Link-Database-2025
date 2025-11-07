@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T17:23:27.822414+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T16:30:12+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/MLT5c_B_Vzc\" width=\"480\" alt=\"thumbnail\" title=\"COSMIC Desktop And PopOS 24.04 Are Almost Here\" /></p>It's been a long time to get here but we're now almost at the release of both the stable version of the COSMIC desktop and the next version of PopOS.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Phoronix Post: https://www.phoronix.com/news/Pop-OS-24.04-Beta-COSMIC-Beta<br />Cosmic Epoch Repo: https://github.com/pop-os/cosmic-epoch/tags<br />Cosmic Package: https://archlinux.org/groups/x86_64/cosmic/<br />Carl Richell Post: https://x.com/carlrichell/status/1983529491524976807<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcas",
+        "id": 4002126,
+        "language": "en",
+        "link": "https://odysee.com/cosmic-desktop-and-popos-24.04-are:fe69deca2e9bbe831a0f92a9ba68c73ab7d15ad5",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/MLT5c_B_Vzc",
+        "title": "COSMIC Desktop And PopOS 24.04 Are Almost Here",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Steve Mould",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T20:35:37.069948+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T19:57:12+00:00",
+        "description": "Click the link https://www.kiwico.com/stevemould and use the code STEVEMOULD to get 50% of your first month at KiwiCo.\n\nWe got high speed slow mo footage of this surgical burr from Surgify Medical called The Halo is designed to minimise contact with soft tissue. It's a bit like a cast saw but works differently.\n\nMy cast saw video: https://youtu.be/Bx1AiQdMQro\n\nSurgify Medical: https://www.surgifymedical.com\n\nYou can buy my books here:\nhttps://stevemould.com/books\n\nYou can support me on Patreon and get access to the exclusive Discord:\nhttps://www.patreon.com/stevemould\n\nTwitter: http://twitter.com/moulds\nInstagram: https://www.instagram.com/stevemouldscience/\nFacebook: https://www.facebook.com/stevemouldscience/\nTikTok: https://www.tiktok.com/stevemould\nBuy nerdy maths things: http://mathsgear.co.uk",
+        "id": 4003864,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tRDxBwverlI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 822,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tRDxBwverlI/hqdefault.jpg",
+        "title": "Why Doesn't This Drill Cut Me",
+        "vote": 0
+    }
+]

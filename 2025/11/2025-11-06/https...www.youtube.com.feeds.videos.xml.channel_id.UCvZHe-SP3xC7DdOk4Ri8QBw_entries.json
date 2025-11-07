@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bethesda Softworks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T21:12:50.070573+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T20:24:42+00:00",
+        "description": "DOOM: The Dark Ages | Hugo Martin's Game Director Playthrough - Ch. 17 Featuring a Ripatorium 2.0 Preview!!!\n\nJoin us as DOOM: The Dark Ages' Game Director Hugo Martin plays a preview build of Ripatorium 2.0 while providing his unique insights into the game\u2019s design.\n\nOur weekly DOOM Eternal Mods Spotlight features the following:\nSentinel Axe - Custom Weapon by T0yOta\nhttps://mods.bethesda.net/en/doometernal/details/531971\n\ud83d\udcdd Swaps Hammer to thrown Sentinel Axe like the Marauder uses.\n\nImmoran Skin Pack by Cuzzmotion\nhttps://mods.bethesda.net/en/doometernal/details/83867\n\ud83d\udcdd Gives some of the heavy demons a cosmetic makeover.\n\nUnreclaimed Earth - Master Level by idk929\nhttps://mods.bethesda.net/en/doometernal/details/90151\n\ud83d\udcddReclaimed Earth Master Level. Comes in Balanced and Unbalanced versions.\n\nFor more information on all things DOOM: The Dark Ages and id Software, follow these channels and join the Slayers Club.  \n\nBluesky: https://bsky.app/profile/doom.com\nTwitter: https://x.com/DOOM",
+        "id": 4004003,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yvq6zq7CXwo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 724,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZHe-SP3xC7DdOk4Ri8QBw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yvq6zq7CXwo/hqdefault.jpg",
+        "title": "Slayers Club Live | DOOM: The Dark Ages | w/ Hugo Martin - Ch. 17 Ripatorium 2.0 Preview!",
+        "vote": 0
+    }
+]

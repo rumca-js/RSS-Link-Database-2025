@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T03:39:44.783753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T03:06:30+00:00",
+        "description": "Grinn has unveiled the GenioBoard, a compact single-board computer aimed at accelerating development of embedded and AI-enabled systems. It integrates the company&#8217;s GenioSOM-510 and GenioSOM-700 modules built on MediaTek&#8217;s Genio processor family, combining multiple Arm Cortex-A cores with an integrated GPU and NPU for edge inference applications. Powered by the MediaTek Genio 700, which integrates [&#8230;]",
+        "id": 3996713,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/grinn-genioboard-offers-mediatek-genio-700-som-dual-m-2-expansion-and-cra-ready-security",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Grinn GenioBoard Offers MediaTek Genio 700 SoM, Dual M.2 Expansion, and CRA-Ready Security",
+        "vote": 0
+    }
+]

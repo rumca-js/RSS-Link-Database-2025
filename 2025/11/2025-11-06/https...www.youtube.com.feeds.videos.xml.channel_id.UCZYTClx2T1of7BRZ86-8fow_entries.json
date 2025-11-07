@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T18:51:29.683893+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T18:00:01+00:00",
+        "description": "Visit https://brilliant.org/scishow/ to get started learning STEM for free and get 20% off their annual premium subscription.\n\nIt looked like a boring metal ball. Shiny, silvery, and roughly the size of a grapefruit. But in two separate lab accidents, it took the lives of Harry Daghlian and Louis Slotin without either of them touching it. But it didn't have to, because this ball, later named the Demon Core, was made of plutonium.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jaap Westera, Alex Hackman, Blood Doctor Kelly, Toyas Dhake, Matt Curls, Piya Shedden, Jason A Saslow, Kevin Knupp, J.V. Rosenbalm, Garrett Galloway, St",
+        "id": 4002921,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=a39t3__-8uM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a39t3__-8uM/hqdefault.jpg",
+        "title": "How The Demon Core Killed a Man in 9 Days",
+        "vote": 0
+    }
+]

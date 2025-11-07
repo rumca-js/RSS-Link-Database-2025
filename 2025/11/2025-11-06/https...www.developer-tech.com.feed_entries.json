@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T16:18:16.803460+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T15:55:26+00:00",
+        "description": "<p>For years, the narrative was that cloud-native would consign mainframes to history. To hear about the actual reality, Developer caught up with Dr Elizabeth Maxwell, Global Director of Mainframe Modernisation at BMC Software. \u201cThere was a period where mainframes were being reviewed for replacement, but we have seen a complete pivot in this thinking,\u201d says [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/bmc-modernising-mainframes-for-todays-developers/\">BMC: Modernising mainframes for today\u2019s developers\u00a0</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4001521,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/bmc-modernising-mainframes-for-todays-developers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "BMC: Modernising mainframes for today\u2019s developers",
+        "vote": 0
+    }
+]

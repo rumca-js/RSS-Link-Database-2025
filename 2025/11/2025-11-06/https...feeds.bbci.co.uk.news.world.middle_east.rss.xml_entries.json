@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T23:32:01.912855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T22:54:25+00:00",
+        "description": "US ambassador to the UN Mike Waltz said the move sent a \"strong political signal\" that Syria was in a \"new era\".",
+        "id": 4005131,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c5y95lg1erjo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dca3/live/3c6db550-bb61-11f0-824f-39b3b0e3b0ee.jpg",
+        "title": "UN lifts sanctions on Syrian president ahead of White House visit",
+        "vote": 0
+    }
+]

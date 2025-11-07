@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T19:37:05.994554+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T18:28:17+00:00",
+        "description": "Throughout the 1990\u2019s there were a handful of toys created that, upon release, caused parents the world over to let out a collective groan of annoyance because they just knew that their kids were going to throw a massive tantrum if they didn't find it under the tree on Christmas morning. Of all of these fad toys, however, only one has the dubious honour of being officially banned from the NSA out of fear it had the ability to learn and share any juicy government secrets that it learned. We are, of course, talking about the Furby.\n\nAuthor: Karl Smallwood\nEditor: Daven Hiskey\nHost: Simon Whistler\nProducer: Samuel Avila",
+        "id": 4003353,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nFaDbL2HZ3Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nFaDbL2HZ3Y/hqdefault.jpg",
+        "title": "The Cuddliest Pentagon Spy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T17:33:11.435123+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T17:05:03+00:00",
+        "description": "A 2017 working paper compared the number of drunk driving accidents before and after Uber was introduced to New York City in 2011.",
+        "id": 4002224,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BPYRE5dHmTs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BPYRE5dHmTs/hqdefault.jpg",
+        "title": "Uber Prevents Drunk Driving #funfact",
+        "vote": 0
+    }
+]

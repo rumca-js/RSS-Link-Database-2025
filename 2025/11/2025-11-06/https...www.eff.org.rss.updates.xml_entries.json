@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eva Galperin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T17:28:04.124913+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T17:10:04+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>EFF has, for many years, <a href=\"https://www.ted.com/talks/eva_galperin_what_you_need_to_know_about_stalkerware\">raised the alarm</a> about the proliferation of stalkerware<span>\u2014</span>commercially-available apps designed to be installed covertly on another person\u2019s device and exfiltrate data from that device without their knowledge. In particular, we have urged the makers of anti-virus products for Android phones to improve their detection of stalkerware and call it out explicitly to users when it is found. In <a href=\"https://www.av-comparatives.org/wp-content/uploads/2020/06/avc_stalkerware_2020.pdf\">2020</a>\u00a0 and <a href=\"https://www.av-comparatives.org/wp-content/uploads/2021/05/avc_stalkerware_2021.pdf\">2021</a>, <a href=\"https://www.av-comparatives.org/\">AV Comparatives</a> ran tests to see how well the most popular anti-virus ",
+        "id": 4002164,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/11/eff-teams-av-comparatives-test-android-stalkerware-detection-major-antivirus-apps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF Teams Up With AV Comparatives to Test Android Stalkerware Detection by Major Antivirus Apps",
+        "vote": 0
+    }
+]

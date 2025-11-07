@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Janice Hisle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T15:09:23.810895+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T15:06:52+00:00",
+        "description": "A California police department was the first. Hundreds followed. Many laud success stories while some raise privacy concerns.",
+        "id": 4000717,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/article/the-technology-that-police-call-a-game-changer-5932731",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/11/05/id5940577-Screenshot2025-11-05at21627PMjpg-20251105191641966-1080x720.jpg",
+        "title": "The Technology That Police Call a Game-Changer",
+        "vote": 0
+    }
+]

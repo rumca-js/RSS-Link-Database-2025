@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T06:11:40.233556+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T05:00:37+00:00",
+        "description": "Post sponsorowany - wsp\u00f3\u0142praca z \u200b\u2060@NASKPIB \n\nZastanawia\u0142e\u015b si\u0119 kiedy\u015b, kim s\u0105 analitycy OSINT i czym dok\u0142adnie si\u0119 zajmuj\u0105?\n\nTo osoby, kt\u00f3re potrafi\u0105 z otwartych \u017ar\u00f3de\u0142 - post\u00f3w, zdj\u0119\u0107, rejestr\u00f3w czy artyku\u0142\u00f3w - wydoby\u0107 informacje i po\u0142\u0105czy\u0107 je w logiczn\u0105 ca\u0142o\u015b\u0107. Troch\u0119 jak detektywi internetu, tylko dzia\u0142aj\u0105cy w pe\u0142ni legalnie.\n\nJe\u015bli brzmi to jak co\u015b dla Ciebie - mam dobr\u0105 wiadomo\u015b\u0107. 24-25 listopada odb\u0119d\u0105 si\u0119 og\u00f3lnopolskie zawody OSINT CTF NASK 2025, podczas kt\u00f3rych mo\u017cesz sprawdzi\u0107 swoje umiej\u0119tno\u015bci w praktyce!\n\nA wcze\u015bniej we\u017a udzia\u0142 w darmowych webinarach z ekspertami NASK, kt\u00f3rzy poka\u017c\u0105 Ci techniki i narz\u0119dzia prawdziwych analityk\u00f3w.\n\nSprawd\u017a szczeg\u00f3\u0142y i zapisz si\u0119 tutaj \ud83d\udc49 https://osint-ctf.pl\nHarmonogram webinar\u00f3w, zapisz si\u0119: https://media2.clickmeeting.com/\nRejestracja na zawody OSINT CTF: https://osint-ctf.pl/rejestracja\n\nZobacz, czy masz w sobie \u017cy\u0142k\u0119 analityka OSINT!\n#osint #ctf #cybersecurity #analityka #zawodyosintctf #cyberpolska #naskar_academy #nask",
+        "id": 3997310,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/RVjuJeXq5pU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RVjuJeXq5pU/hqdefault.jpg",
+        "title": "Zosta\u0144 analitykiem OSINT!",
+        "vote": 0
+    }
+]

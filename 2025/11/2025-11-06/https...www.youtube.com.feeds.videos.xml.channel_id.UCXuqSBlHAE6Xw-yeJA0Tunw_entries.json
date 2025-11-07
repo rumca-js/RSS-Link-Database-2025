@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T19:07:39.234250+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T18:37:37+00:00",
+        "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off\n\nA cloud that\u2019s cheaper than your coffee! Get US$ / \u20ac 20 off on your Hetzner Cloud! https://htznr.li/LTT2511\n\nShop now at LTTStore to enter the Holiday Loot Drop: http://lmg.gg/lootdrop\n\nIt's starting to seem like cooling a bunch of Gaming PCs with your swimming pool might be a little high-maintenance. The corrosion problem is solved, but now something smells pretty funky in the pool-based PC cooling system. It's all hands on deck as we pull apart the LAN Center PCs and try to eliminate whatever is growing in the cooling loops once and for all.\n\nDiscuss on the forum: https://linustechtips.com/topic/1626229-something-is-living-in-my-pool-cooled-gaming-pc/\n\nCheck out our Channel Partners:\nSecretlab - Buy a Titan EVO ergonomic gaming chair: https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n\u25ba GET OUR ME",
+        "id": 4003028,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fFtk9gJLnfk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fFtk9gJLnfk/hqdefault.jpg",
+        "title": "Something is Living in my Pool-Cooled Gaming PC",
+        "vote": 0
+    }
+]

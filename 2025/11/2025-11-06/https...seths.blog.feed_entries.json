@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T10:07:04.260128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T10:03:00+00:00",
+        "description": "Each task brings three options. But first, let&#8217;s be clear what we mean by &#8220;delegate.&#8221; If I can hire someone to do a task so well that my customer can&#8217;t tell, I can choose to delegate this work. The Uber driver is probably capable of changing the oil in the car, but if the passenger [&#8230;]",
+        "id": 3998386,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/11/delegate-everything",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Delegate everything",
+        "vote": 0
+    }
+]

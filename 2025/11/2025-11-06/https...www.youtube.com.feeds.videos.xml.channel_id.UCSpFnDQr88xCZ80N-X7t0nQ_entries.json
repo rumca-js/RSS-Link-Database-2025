@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T17:31:02.837627+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T17:00:05+00:00",
+        "description": "VFX studio Rhythm & Hues really pulled it off back in 2002 to make Sooby Doo possible for the big screen. Building on the processes that led to their success with the first movie, they made the best use possible of great costumes to minimize the amount of CG work required in post-production from the VFX team.",
+        "id": 4002201,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ad-d7RWS3Nk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ad-d7RWS3Nk/hqdefault.jpg",
+        "title": "Scooby Doo had PEAK VFX back in 2002",
+        "vote": 0
+    }
+]

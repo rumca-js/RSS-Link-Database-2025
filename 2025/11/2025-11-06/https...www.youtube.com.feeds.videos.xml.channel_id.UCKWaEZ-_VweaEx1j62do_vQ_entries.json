@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T13:59:27.987587+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T12:01:28+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer v1? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdb453\n\nLearn more about Reasoning Models here \u2192 https://ibm.biz/Bdb45T\n\n\ud83e\udd14 Can AI think before it speaks? Martin Keen explains Large Reasoning Models (LRMs), their evolution from LLMs, and how they enable AI to reason, plan, and solve problems. Discover training methods like RLHF and why LRMs are shaping the future of AI reasoning. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbYhf\n\n#llms #ai #aimodels",
+        "id": 4000017,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=enLbj0igyx4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/enLbj0igyx4/hqdefault.jpg",
+        "title": "What Are Large Reasoning Models (LRMs)? Smarter AI Beyond LLMs",
+        "vote": 0
+    }
+]

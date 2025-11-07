@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T15:20:56.327367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T15:20:55+00:00",
+        "description": "Kometa 3I/ATLAS odkryta zosta\u0142a zaledwie kilka miesi\u0119cy temu, ale za spraw\u0105 swoich nietypowych cech ju\u017c zd\u0105\u017cy\u0142a wzbudzi\u0107 spore zainteresowanie, a nawet wywo\u0142a\u0107 kontrowersje. Nie powinien wi\u0119c dziwi\u0107 wzrost liczby zwi\u0105zanych z ni\u0105 wyszukiwa\u0144, tak\u017ce w\u015br\u00f3d polskich internaut\u00f3w.",
+        "id": 4000958,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art43297811-kometa-3i-atlas-rozbudza-wyobraznie-zaskakuje-naukowcow-i-inspiruje-teorie-o-obcych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kometa 3I/ATLAS rozbudza wyobra\u017ani\u0119. Zaskakuje naukowc\u00f3w i inspiruje teorie o obcych",
+        "vote": 0
+    }
+]

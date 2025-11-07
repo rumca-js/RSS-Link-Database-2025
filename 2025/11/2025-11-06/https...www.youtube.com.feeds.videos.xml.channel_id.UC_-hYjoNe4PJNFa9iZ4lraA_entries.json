@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T15:28:44.786238+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T14:33:49+00:00",
+        "description": "Peak teamwork right here",
+        "id": 4001035,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BUc4ouhC4wg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BUc4ouhC4wg/hqdefault.jpg",
+        "title": "Secret signals we use for meetings",
+        "vote": 0
+    }
+]

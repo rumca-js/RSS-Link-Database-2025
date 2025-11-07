@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-06T15:51:36.382911+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-06T15:29:09+00:00",
+        "description": "Watch this video to find out how White Paper Games used UE5 to create nail-biting thriller 'I AM RIPPER.\u2019\n\nTactile gameplay and a player-driven, branching narrative take the latest project from White Paper Games to a whole new level of immersive storytelling. \n\nThis interview explores the team\u2019s use of key Unreal Engine 5 features such as Motion Matching, Control Rig, and Sequencer to bring the gripping, gritty, and sometimes gut-wrenching story to life.\n\nTo find out more about developing games in Unreal Engine, check out our website: unrealengine.com/uses/indie-games \n\n#WhitePaperGames #IAMRIPPER, #UnrealEngine5, #UE5, #UE4, #MotionMatching, #ControlRig, #Sequencer,",
+        "id": 4001121,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GkH9ZhNUrA0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GkH9ZhNUrA0/hqdefault.jpg",
+        "title": "I AM RIPPER | Game Profile | Unreal Engine",
+        "vote": 0
+    }
+]
