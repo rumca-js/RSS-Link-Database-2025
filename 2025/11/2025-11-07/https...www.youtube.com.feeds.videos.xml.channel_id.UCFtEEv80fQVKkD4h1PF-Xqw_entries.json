@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-07T17:01:44.513775+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-07T16:59:53+00:00",
+        "description": "Educators are embracing AI to strengthen Career & Technical Education (CTE). From faster lesson planning to more engaging classrooms and industry-ready skills. Teachers share how AI helps them save weeks of planning time, personalize content, and prepare students for real certifications and careers across engineering, agriculture, and more. The result: more freedom in the classroom, higher engagement, and graduates who are equipped to enter the workforce.\n\nWhat\u2019s inside\n\u2022 What CTE is and why it matters\n\u2022 How AI streamlines lesson planning \n\u2022 Building industry-level skills and certifications\n\u2022 Boosting classroom freedom and engagement\n\nLearn more: https://www.unlocked.microsoft.com/skilling-WA\n\nAudio Description: https://youtu.be/FJ36lgA7GRc\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nIns",
+        "id": 4011134,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vMexNisV7aA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vMexNisV7aA/hqdefault.jpg",
+        "title": "Why teachers are embracing AI in the classroom",
+        "vote": 0
+    }
+]

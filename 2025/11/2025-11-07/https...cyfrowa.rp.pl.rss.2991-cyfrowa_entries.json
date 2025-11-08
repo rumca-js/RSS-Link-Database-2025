@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-07T06:50:58.800402+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-07T06:50:57+00:00",
+        "description": "Akcjonariusze Tesli zatwierdzili bezprecedensowy pakiet wynagrodze\u0144 Elona Muska wart nawet bilion dolar\u00f3w. Miliarder ma zwi\u0119kszy\u0107 warto\u015b\u0107 sp\u00f3\u0142ki sze\u015bciokrotnie i uruchomi\u0107 milion autonomicznych robotaks\u00f3wek.",
+        "id": 4007163,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art43303201-elon-musk-tanczy-na-scenie-pakiet-placowy-jakiego-swiat-nie-widzial",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Elon Musk ta\u0144czy na scenie. Pakiet p\u0142acowy, jakiego \u015bwiat nie widzia\u0142",
+        "vote": 0
+    }
+]

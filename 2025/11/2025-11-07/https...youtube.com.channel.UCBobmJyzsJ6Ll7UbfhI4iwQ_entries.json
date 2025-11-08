@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-07T14:44:48.113768+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-07T14:00:04+00:00",
+        "description": "Watch this second video on cloners from the \u2018Motion Design in Unreal Engine\u2019 series, in which Nick Jushchyshyn (AKA Pixel Prof) dives deeper into cloners, effectors, and clone materials in UE 5.6.\n\nYou\u2019ll get a look at how to:\n\nQuickly make field of shape clones\nAdjust settings like brightness\nAdd motion effects \nAdd visual effects like cascading particles \n\nThat\u2019s the last episode of this Motion Design tutorial series! To learn more about Motion Design in Unreal Engine, check out the Epic Developer Community: https://dev.epicgames.com/documentation/unreal-engine/motion-design-in-unreal-engine\n\n#MotionDesign, #Cloners, #Effectors, #CloneMaterials, #UnrealEngine, #UE5, #PixelProf",
+        "id": 4009983,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=22yo8Bt0vNs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/22yo8Bt0vNs/hqdefault.jpg",
+        "title": "Motion Design in Unreal Engine, Episode 10: Cloners, Part Two",
+        "vote": 0
+    }
+]

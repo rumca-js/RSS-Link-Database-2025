@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-07T19:16:41.371280+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-07T18:41:22+00:00",
+        "description": "office shenanigans.\n\nInterview with Company's Vice President - Josh Doe aired 2025.\n\nCorporate Roles\nSAFe\nAgile\nLeadership training \nLeadership humor\nxkcd\n\n#programming #humor #officehumor",
+        "id": 4012296,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/acQpwL74jmo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/acQpwL74jmo/hqdefault.jpg",
+        "title": "Manager explains why his job is important.",
+        "vote": 0
+    }
+]

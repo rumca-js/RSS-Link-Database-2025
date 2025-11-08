@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-07T15:07:13.861644+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-07T15:07:12+00:00",
+        "description": "Niebawem pierwszych go\u015bci przyjmie nowy hotel nale\u017c\u0105cy do firmy Arche - Arche Metalowiec Muszyna, 24. obiekt tej sieci. Modernistyczne sanatorium z lat 60. XX w. to obecnie jeden z najwi\u0119kszych tego typu obiekt\u00f3w w wojew\u00f3dztwie ma\u0142opolskim i najwi\u0119kszy w Muszynie.",
+        "id": 4010245,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/hotele/art43305771-arche-otwiera-kolejny-hotel-modernistyczne-sanatorium-gwiazda-gor-w-nowej-odslonie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Arche otwiera kolejny hotel. Modernistyczne sanatorium Gwiazda G\u00f3r w nowej ods\u0142onie",
+        "vote": 0
+    }
+]

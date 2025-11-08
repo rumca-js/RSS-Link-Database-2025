@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-07T03:33:58.742261+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-07T02:47:16+00:00",
+        "description": "Kickstarter recently featured the PV PI, a solar charging HAT designed to power Raspberry Pi and other 5V single board computers from a 12V LiFePO4 battery. The add-on enables continuous 24/7 off-grid operation through MPPT-based solar charging and intelligent power management. Developed by Melbourne-based engineer Luke Ditria and his team at AutoEcology, the PV PI [&#8230;]",
+        "id": 4006295,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/solar-powered-pv-pi-hat-delivers-continuous-off-grid-operation-for-raspberry-pi-projects",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Solar-powered PV PI HAT delivers continuous off-grid operation for Raspberry Pi projects",
+        "vote": 0
+    }
+]

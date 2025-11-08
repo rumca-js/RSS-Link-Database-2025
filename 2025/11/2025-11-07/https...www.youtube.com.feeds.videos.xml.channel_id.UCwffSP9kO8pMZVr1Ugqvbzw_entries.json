@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "HTX Studio",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-07T16:00:00.795325+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-07T15:01:35+00:00",
+        "description": "Is fast charging actually killing the battery? \nWhat's the best way to charge your phone? \nWill battery degradation make your phone lag or slow down? \nAt what point should you consider replacing the battery when its health drops?",
+        "id": 4010594,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kLS5Cg_yNdM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 873,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwffSP9kO8pMZVr1Ugqvbzw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kLS5Cg_yNdM/hqdefault.jpg",
+        "title": "Is Fast Charging Killing the Battery? A 2-Year Test on 40 Phones",
+        "vote": 0
+    }
+]

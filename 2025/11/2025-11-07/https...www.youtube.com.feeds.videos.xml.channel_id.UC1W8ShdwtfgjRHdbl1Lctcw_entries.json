@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-07T21:18:59.939628+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-07T20:54:15+00:00",
+        "description": "I colorized, restored, and created sound design for this rare 1930s film of Seattle, featuring car and trolley traffic crossing what appears to be the West End Spokane Street and SW Spokane Street Bridge. The footage captures the dynamic urban atmosphere of early Seattle, with bustling streets and everyday scenes along Avalon and surrounding areas \u2014 a vivid glimpse into the city\u2019s past, brought back to life\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nB&W Video Source :Item 555, Record Series 2613-09: Engineering Department Moving Images, Seattle Municipal Archives\nB&W Video Source :Item",
+        "id": 4013427,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=7or8nxOY0VM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7or8nxOY0VM/hqdefault.jpg",
+        "title": "Seattle 1930s in color, Street Scenes [60fps,Remastered] w/sound design Added",
+        "vote": 0
+    }
+]
