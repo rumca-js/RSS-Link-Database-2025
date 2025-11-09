@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/This-You-2737",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T19:56:29.717498+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T19:13:08+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hacking/comments/1orxt47/list_of_10_most_common_password_of_2025_released/\"> <img src=\"https://external-preview.redd.it/cGieLfO09WX5Kf_ksTHX-6U8gWRxraq2Cq8_8Oxy1Io.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3738f17d80d503522199bde0b798c195e2a23dac\" alt=\"List of 10 most Common Password of 2025 Released!!\" title=\"List of 10 most Common Password of 2025 Released!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Comparitech\u2019s 2025 list shows the top 10 are 123456, 12345678, 123456789, admin, 1234, Aa123456, 12345, password, 123, and 1234567890, highlighting how predictable strings dominate leaked creds this year</p> <p>About 38.6% of the top 1,000 include \u201c123,\u201d ~25% are numbers-only, and 3.1% contain \u201cabc,\u201d reinforcing how rule-based cracking quickly guesses these formats </p> <p>CyberNews reports \u201c123456\u201d appeared 7.6M times in this year\u2019s corpus, keeping credential stuffing highly effective against reused, low-entropy secre",
+        "id": 4019749,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hacking/comments/1orxt47/list_of_10_most_common_password_of_2025_released",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/cGieLfO09WX5Kf_ksTHX-6U8gWRxraq2Cq8_8Oxy1Io.jpeg?width=640&crop=smart&auto=webp&s=3738f17d80d503522199bde0b798c195e2a23dac",
+        "title": "List of 10 most Common Password of 2025 Released!!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T09:13:45.793062+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T09:13:45+00:00",
+        "description": "Authorities in northeastern Kharkiv and southern Odesa regions reported overnight drone strikes on energy facilities.",
+        "id": 4016421,
+        "language": "en-us",
+        "link": "https://www.themoscowtimes.com/2025/11/08/massive-russian-attack-hits-ukraine-energy-infrastructure-kyiv-a91085",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 350,
+        "source_url": "https://www.themoscowtimes.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Massive Russian Attack Hits Ukraine Energy Infrastructure \u2013 Kyiv",
+        "vote": 0
+    }
+]

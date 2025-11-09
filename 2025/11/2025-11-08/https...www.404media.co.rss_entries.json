@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Becky Ferreira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T16:18:51.055391+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T16:14:30+00:00",
+        "description": "New research \u201csuggests that dark energy may no longer be a cosmological constant\u201d and that the universe\u2019s expansion is slowing down.",
+        "id": 4018524,
+        "language": "en",
+        "link": "https://www.404media.co/a-fundamental-constant-of-the-universe-may-not-be-constant-at-all-study-finds",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/11/image2.jpg",
+        "title": "A Fundamental \u2018Constant\u2019 of the Universe May Not Be Constant At All, Study Finds",
+        "vote": 0
+    }
+]

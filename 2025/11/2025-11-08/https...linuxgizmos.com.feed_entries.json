@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T05:55:23.761134+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T05:12:19+00:00",
+        "description": "The R1 Neo is a compact, water-resistant Meshtastic device for off-grid communication and navigation. Developed by Muzi, it features an aircraft-grade aluminum base with a carbon-fiber PETG shell, offering a 16% reduction in size compared to the previous R1. The enclosure includes O-ring and compression gaskets, an IP68-rated USB-C port, and a battery capable of [&#8230;]",
+        "id": 4015697,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/r1-neo-leverages-gps-compact-rugged-design-for-meshtastic-networks",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "R1 Neo leverages GPS & compact rugged design for Meshtastic networks",
+        "vote": 0
+    }
+]

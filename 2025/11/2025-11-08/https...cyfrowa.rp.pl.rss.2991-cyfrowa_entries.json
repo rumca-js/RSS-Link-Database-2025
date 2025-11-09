@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T14:23:54.656430+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T14:23:53+00:00",
+        "description": "Europa ma realne szanse na nadrobienie zaleg\u0142o\u015bci. Mamy wi\u0119cej absolwent\u00f3w informatyki ni\u017c Stany Zjednoczone, a po\u0142\u0105czenie silnej kultury in\u017cynierskiej z warto\u015bciami humanistycznymi jest naszym unikalnym atutem w AI \u2013 m\u00f3wi Alexander Sukharevsky, Senior Partner, QuantumBlack, AI by McKinsey.",
+        "id": 4017830,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/opinie-i-komentarze/art43309201-technologia-w-ai-to-tylko-mala-czesc-sukcesu-decyduja-ludzie-i-wizja",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Technologia w AI to tylko ma\u0142a cz\u0119\u015b\u0107 sukcesu. Decyduj\u0105 ludzie i wizja",
+        "vote": 0
+    }
+]

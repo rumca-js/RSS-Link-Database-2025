@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Simon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T13:10:35.078723+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T08:00:00+00:00",
+        "description": "Bob Trumpy has died. While he leaves a fine legacy as a Cincinnati sportscaster, his best moment might have been the two hours he spoke with a desperate and depressed woman who called into his show.",
+        "id": 4017394,
+        "language": "en",
+        "link": "https://www.npr.org/2025/11/08/nx-s1-5594133/opinion-remembering-bob-trumpy-nfl-great-broadcaster-and-life-saver",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2352x3000+0+0/resize/2352x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2Fe1%2Fe247efe04fe7ba7f95cc57a52288%2Fgettyimages-453027343.jpg",
+        "title": "Opinion: Remembering Bob Trumpy \u2014 NFL great, broadcaster, and life-saver",
+        "vote": 0
+    }
+]

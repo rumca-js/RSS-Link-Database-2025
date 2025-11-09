@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T10:15:31.433025+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T10:03:00+00:00",
+        "description": "If the answer is over there, then we&#8217;re off the hook. If it comes from the future, comes from away, comes from someone else, then our job is to simply wait for it to arrive. But it could be that your organization already has all the resources it needs to change the dynamic in the [&#8230;]",
+        "id": 4016677,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/11/perhaps-we-have-what-we-need",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Perhaps we have what we need",
+        "vote": 0
+    }
+]

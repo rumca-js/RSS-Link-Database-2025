@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T04:00:10.082739+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T03:45:51+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Do you think it\u2019s time to turn an AI agent loose to do your procurement for you? As that could be a potentially expensive experiment to conduct in the real world, Microsoft is attempting to determine whether agent-to-agent ecommerce will really work, without the risk of using it in a live environment.</p>\n\n\n\n<p>Earlier this week, a team of its researchers launched <a href=\"https://www.youtube.com/watch?v=1SHpWinp7V8\" target=\"_blank\" rel=\"noreferrer noopener\">the Magentic Marketplace</a>, an initiative they described as an \u201can open source simulation environment for exploring the numerous possibilities of agentic markets and their societal implications at scale.\u201d It manages capabilities such as ma",
+        "id": 4015409,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/4086907/microsoft-lets-shopping-bots-loose-in-a-sandbox.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft lets shopping bots loose in a sandbox",
+        "vote": 0
+    }
+]

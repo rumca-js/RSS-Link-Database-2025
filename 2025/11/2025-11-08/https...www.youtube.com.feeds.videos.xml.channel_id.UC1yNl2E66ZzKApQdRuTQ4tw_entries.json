@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T16:45:25.980666+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T16:00:34+00:00",
+        "description": "Get a special 35% discount* on an annual digital subscription to The Economist at https://www.economist.com/Sabine *20% in the UK, Latin America, and India.\n\nThe AI resistance is building. Across social media, a growing number of people are expressing their frustration with the spread of AI technology, even as corporations and governments spend more and more money on AI development. But that\u2019s not the only thing that\u2019s going on. Let\u2019s take a look at why humans are becoming increasingly anti-AI, and how the human-AI divide might change in the future.\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.spotify.com/show/0",
+        "id": 4018671,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ICjubxfeICo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ICjubxfeICo/hqdefault.jpg",
+        "title": "The Anti-AI Resistance Is Here",
+        "vote": 0
+    }
+]

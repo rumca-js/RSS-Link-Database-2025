@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T16:26:16.879110+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T15:36:19+00:00",
+        "description": "Today's links Facebook's fraud files: 10% of gross ad revenue coming from fraudulent ads. Hey look at this: Delights to delectate. Object permanence: FOIA for Theresa May; Paid patriotism; Antiusurpation. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Facebook's fraud files (permalink) A blockbuster Reuters report by Jeff Horwitz analyzes leaked internal documents that reveal that: 10% of Meta's gross revenue comes from ads for fraudulent goods and scams, and; the company knows it, and; they decided not to do anything about it, because; the fines for facilitating this life-destroying fraud are far less than the expected revenue from helping to destroy its users' lives: https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06/ The crux of the enshittification hypothesis i",
+        "id": 4018586,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/11/08/faecebook",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/08Nov2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: Facebook's fraud files (08 Nov 2025)",
+        "vote": 0
+    }
+]

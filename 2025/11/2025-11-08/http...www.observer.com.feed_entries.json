@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elisa Carollo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-08T14:21:52.953745+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-08T14:00:57+00:00",
+        "description": "\"It wasn\u2019t just about acquiring, it was about learning. Otherwise, what\u2019s the point?\" Olnick tells Observer.",
+        "id": 4017817,
+        "language": "en",
+        "link": "https://observer.com/2025/11/art-collector-interviews-nancy-olnick-and-giorgio-spanu-magazzino-italian-art",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "Meet the Collectors: Nancy Olnick and Giorgio Spanu Share the Passion and Vision Behind Magazzino Italian Art",
+        "vote": 0
+    }
+]
