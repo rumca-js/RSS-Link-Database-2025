@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T15:24:25.625587+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T14:01:14+00:00",
+        "description": "Open enrollment is here, which means people all over the US are picking and choosing their health care plans. And, with health insurance premiums getting more expensive, many Americans are struggling to choose the plan that protects them the most while costing their wallet the least. Vox senior correspondent Dylan Scott spoke with Explain It to Me host Jonquilyn Hill about some of his recent reporting on the rising cost of health care. \n\nSubscribe to our channel and turn on notifications (\ud83d\udd14) so you don't miss any videos: http://goo.gl/0bsAjO\n\nVox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com.\n\nWatch our full video catalog: http://goo.gl/IZONyE\nFollow Vox on TikTok: http://tiktok.com/@voxdotcom\nCheck out our articles: https://www.vox.com/\nListen to our podcasts: https://www.vox.com/podcasts",
+        "id": 4024432,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/jxHT2wTvdoY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 779,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jxHT2wTvdoY/hqdefault.jpg",
+        "title": "Is there a solution for rising health care premiums?",
+        "vote": 0
+    }
+]

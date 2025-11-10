@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T04:16:04.033128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T03:27:44+00:00",
+        "description": "INSANE AI NEWS: Kimi K2 Thinking, Bytedance Bindweave, Project Suncatcher, OlmoEarth, Brain-IT,  #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nSources in order of mention:\nhttps://lzy-dot.github.io/BindWeave/\nhttps://github.com/alibaba-damo-academy/Lumos-Custom\nhttps://amitzalcher.github.io/Brain-IT/\nhttps://allenai.org/blog/olmoearth-models\nhttps://moonshotai.github.io/Kimi-K2/thinking.html\nhttps://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/\nhttps://joonghyuk.com/motionstream-web/\nhttps://shaochenze.github.io/blog/2025/CALM/\nhttps://github.com/FoundationVision/InfinityStar\n\n\n0:00 AI news intro\n0:59 BindWeave\n3:25 UniLumos\n4:54 BrainIT\n8:22 OlmoEarth\n10:34 Xpeng Iron \n12:44 Unitree teleoperation\n14:20 ChatLLM\n15:30 Kimi K2 Thinking\n22:56 Project Suncatcher\n25:30 MotionStream\n28:58 Continuous Autoregressive Language Models\n31:52 Bytedance Infinity\n\n\nNewsl",
+        "id": 4021716,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4EzwAYOqLj8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4EzwAYOqLj8/hqdefault.jpg",
+        "title": "Realtime AI videos, new #1 open source model, AI reads minds, Google\u2019s space GPUs, gynoids - AI NEWS",
+        "vote": 0
+    }
+]

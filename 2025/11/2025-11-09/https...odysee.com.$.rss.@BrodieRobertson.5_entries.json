@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T17:00:47.326062+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T16:30:12+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/_MS8pSj-DLo\" width=\"480\" alt=\"thumbnail\" title=\"2 Years Later Wayland Is Still Debating A Basic Feature\" /></p>After multiple years the ability for apps to position there own windows is still being debated in Wayland protocols and it got temporarily derailed after this went south once again.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Kwin Zones: https://invent.kde.org/automotive/kwin-zones<br />Fedora Package: https://bodhi.fedoraproject.org/updates/FEDORA-2025-e6b4381621<br />Wayland Protocol: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/264<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast:",
+        "id": 4025098,
+        "language": "en",
+        "link": "https://odysee.com/2-years-later-wayland-is-still-debating:9600fa3774e9efc8f95a683978bcb9eeb2ebc6fe",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/_MS8pSj-DLo",
+        "title": "2 Years Later Wayland Is Still Debating A Basic Feature",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T15:28:34.311808+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T15:01:33+00:00",
+        "description": "Mierz\u0119 si\u0119 z tzw. powszechn\u0105 opini\u0105, \u017ce Gothic by\u0142 w momencie premiery drewnian\u0105 gr\u0105. Walcz\u0119 sam ze sob\u0105, z cieniem, stereotypami i zastanawiam si\u0119, czy Gothic remake te\u017c drewniany by\u0107 powinien.\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 4024434,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=rPNl3sTn848",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rPNl3sTn848/hqdefault.jpg",
+        "title": "Czy Gothic naprawd\u0119 by\u0142 drewniany?",
+        "vote": 0
+    }
+]

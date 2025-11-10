@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T16:46:02.389008+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T16:01:33+00:00",
+        "description": "Get a taste of the chocolatier life from world-renowned pastry chef Amaury Guichon as he shares his story \u2014 and the secrets of his craft \u2014 with podcaster Latif Nasser. Learn what it takes to construct elaborate, lifelike (and delicious) sculptures from 100 percent confectionery ingredients as Guichon puts the final touches on his signature decadent chocolate clock pastry, complete with delicate gears. (Recorded at TED2025 on April 10, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe t",
+        "id": 4024964,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=v4XF8rqEyRA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v4XF8rqEyRA/hqdefault.jpg",
+        "title": "A Pastry Chef Works His Chocolatier Magic \u2014 Live | Amaury Guichon | TED",
+        "vote": 0
+    }
+]

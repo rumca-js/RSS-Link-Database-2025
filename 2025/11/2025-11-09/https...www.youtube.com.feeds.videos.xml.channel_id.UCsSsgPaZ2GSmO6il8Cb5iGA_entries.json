@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DaFuq!?Boom!",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T03:50:03.746534+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T03:06:13+00:00",
+        "description": "skibidi toilet: emergence.\nset within the universe of skibidi toilet, this new series follows the escalating war as the stakes rise and something bigger begins to take shape.\n\nthings are just getting started\u2026\n\n-\n\nExecutive Produced by Boom! \nMade with Unreal Engine.",
+        "id": 4021695,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2W7z4SB8Vy8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 749,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsSsgPaZ2GSmO6il8Cb5iGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2W7z4SB8Vy8/hqdefault.jpg",
+        "title": "skibidi toilet: emergence | official trailer",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dylan Gyauch-Lewis",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T11:49:41.421190+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T11:00:00+00:00",
+        "description": "<p>The president\u2019s corruption is audaciously out in the open, but decades of letting the wealthy play by their own rules enabled him.</p>\n<p>The post <a href=\"https://theintercept.com/2025/11/09/trump-corruption-graft/\">Liberal Elites Kicked the Door Wide Open for Trump\u2019s Flagrant Corruption</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 4023331,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/11/09/trump-corruption-graft",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/11/GettyImages-2154737096_bad603.jpg?fit=7169%2C4782",
+        "title": "Liberal Elites Kicked the Door Wide Open for Trump\u2019s Flagrant Corruption",
+        "vote": 0
+    }
+]

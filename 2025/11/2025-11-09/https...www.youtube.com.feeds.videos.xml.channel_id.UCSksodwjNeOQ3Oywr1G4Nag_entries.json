@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T13:37:33.128629+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T13:27:54+00:00",
+        "description": "I really wasn\u2019t sure if it would be possible to shrink the mechanism for labyrinth down to fit on a Mod NX phone case from @rhinoshield  I decided to try a cam driven mechanism first because I thought it would be easier to make tiny. It was a fail. The cam system didn\u2019t account for the 2 degrees of freedom required for the 2 tilt directions.  The original game uses rope and elastics, but it felt impossible to shrink to such a small area so I opted for a ball-joint mechanism instead. After printing many tiny ball joints to find the perfect fit, I finally got the mechanism working and after attaching it to the backplate of the Mod NX case I now had a fully functional Labyrinth game on the back of my phone!\n\u2022\u2022\u2022\nHere\u2019s a bit more info about the case:\nCustomizable Buttons:\u00a0you can swap the buttons out with any color you would like!\nShockSprea Impact Protection: Built with RHINOSHIELD\u2019s high-tech ShockSpread material, the Mod NX case absorbs impacts from drops up to 11 feet / 3.5 meters, ex",
+        "id": 4023824,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/X4z85VOf-aU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X4z85VOf-aU/hqdefault.jpg",
+        "title": "I built Labyrinth into my Phone Case",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T17:13:43.623085+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T17:01:33+00:00",
+        "description": "\ud83d\udd0e\u00a0Niedawno internet obieg\u0142 do\u015b\u0107 ciekawy wykres kt\u00f3ry pokazywa\u0142, \u017ce AI generuje ju\u017c\u00a0wi\u0119cej tre\u015bci ni\u017c ludzie, co potwierdza\u0142oby teori\u0119 martwego internetu. Tylko czy to prawda? Nic dziwnego, \u017ce niejako w odpowiedzi powstaj\u0105\u00a0mechanizmy detekcji tre\u015bci pochodz\u0105cych z takiego \u017ar\u00f3d\u0142a. Oczywi\u015bcie r\u00f3wnie\u017c oparte o AI.\n\nKup kurs z rabatem \ud83d\udc49\u00a0https://easl.ink/2u60z\nWi\u0119cej na temat AI Literacy dowiesz si\u0119 tutaj:\nhttps://ailiteracy.uczmnie.pl/\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udcd1\u00a0More Articles Are Now Created by AI Than Humans\nhttps://graphite.io/five-percent/more-articles-are-now-created-by-ai-than-humans\n\n\ud83d\udea8\u00a0Trusted GPT-5, ChatGPT and AI Detector tool by ZeroGPT\nhttps://www.zerogpt.com/\n\n\u270f\ufe0f\u00a0Grammarly Humanizer\nhttps://www.grammarly.com/a/ai-humanizer\n\n\ud83d\udd13\u00a0StealthGPT\nhttps://www.stealthgpt.ai/\n\n\ud83d\udcdd\u00a0B. Jabarian, A. Imas - Artificial Writing and Automated Detection\nhttps://bfi.uchicago.edu/wp-content/uploads/2025/09/BFI_WP_2025-116.pdf\n\n\ud83d\udcdd\u00a0B. Emi, M, Spero - Technical Report on the Pangram AI-Generated Text Classifier\nhttps://ar",
+        "id": 4025165,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=y05m-ar47jU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y05m-ar47jU/hqdefault.jpg",
+        "title": "Jak wykrywa si\u0119\u00a0AI-plagiaty?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T16:01:43.822173+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T15:01:33+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nDeliver Better Technical Presentations - Challenges Faced by Technical Speakers - Jack Simms - ACCU 2025\n---\n\nGetting up on stage and presenting to a crowd of any size takes real courage. Add a complex, technical topic, and the challenge only grows. Speakers constantly juggle the need to make content engaging and clear while dealing with persistent worries: What if the audience zones out? Or worse, what if something goes wrong? These fears hold back many people with valuable insights to share; for some, public speaking is genuinely daunting.\n\nThis talk takes on the unique challenges technical speakers face, confronting the fear of public speaking and highlighting that failure isn\u2019t just inevitable\u2014it\u2019s part of the journey to growth. To demonstrate this, the speaker revisits mistakes from their first ACCU talk\u2014a 20-minute presentation that didn\u2019t exactly go to plan\u2014revealing the lessons learned along the way.\n\nThey will then re-attempt",
+        "id": 4024763,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=p_B7iPCoUgg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p_B7iPCoUgg/hqdefault.jpg",
+        "title": "Deliver Better Technical Presentations - Challenges Faced by Technical Speakers - Jack Simms - ACCU",
+        "vote": 0
+    }
+]

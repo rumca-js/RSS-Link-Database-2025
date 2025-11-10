@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T17:44:06.857602+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T17:08:10+00:00",
+        "description": "Hit the follow button so we can steal money from Linus Tech Tip to build a PC!",
+        "id": 4025318,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/F1EmHSs2vps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F1EmHSs2vps/hqdefault.jpg",
+        "title": "1 Subscriber = $1 from Linus\u2019 Wallet",
+        "vote": 0
+    }
+]

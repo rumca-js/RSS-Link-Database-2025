@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lu-Hai Liang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T11:49:18.114753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T11:28:29+00:00",
+        "description": "<img width=\"2046\" height=\"2048\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-scaled.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-scaled.jpg 2046w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-300x300.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-1024x1024.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-150x150.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-768x769.jpg 768w\" sizes=\"(max-width: 2046px) 100vw, 2046px\" />\n\t\tYou might know someone who struggles to recognize people, even if they\u2019re famous and on TV all ",
+        "id": 4023324,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202511/human-super-recognizers-teach-ai-how-to-recognize-faces-in-new-study",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/16185607/face-recognition-cropped-scaled.jpg",
+        "title": "Human super-recognizers teach AI how to recognize faces in new study",
+        "vote": 0
+    }
+]

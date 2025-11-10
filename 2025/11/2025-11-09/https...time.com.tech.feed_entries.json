@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Harry Booth",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-09T12:40:51.638237+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-09T12:00:00+00:00",
+        "description": "Wikipedia's co-founder on Elon Musk's Grokipedia, the debate over bias on Wikipedia, and rebuilding trust in a world awash in skepticism.",
+        "id": 4023494,
+        "language": "en-UK",
+        "link": "https://time.com/7332061/wikipedia-co-founder-jimmy-wales-interview",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/11/Cropped-high-res-Jimmy-Wales.jpg",
+        "title": "Wikipedia Co-founder Jimmy Wales on Rebuilding Trust Online and Off",
+        "vote": 0
+    }
+]
