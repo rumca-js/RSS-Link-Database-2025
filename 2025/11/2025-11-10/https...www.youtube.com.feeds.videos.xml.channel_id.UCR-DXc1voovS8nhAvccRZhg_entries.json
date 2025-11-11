@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T21:44:05.228952+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T16:00:53+00:00",
+        "description": "Minisforum just launched the MS-R1, their first Arm workstation PC.\n\nWill it bring Arm into the homelab, in a big way? Or will it suffer the same fate as the Radxa Orion O6, let down by a power-hungry SoC? And will a dedicated GPU fit inside this tiny box?\n\nThings mentioned in this video (amzn.to links are affiliate links):\n\n  - Minisforum MS-R1: https://s.minisforum.com/4hRFZbj\n  - MS-R1 benchmarks and test data: https://github.com/geerlingguy/sbc-reviews/issues/89\n  - Radxa Orion O6 review: https://www.youtube.com/watch?v=OMnCqmM-WKo\n  - Abovetop Nvidia RTX A2000 SFF GPU: https://www.newegg.com/abovetop-Model-A2000laptop/p/1DW-00MF-00001\n  - Intel Arc A310 ECO GPU: https://amzn.to/49Q3vn4\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - Hardware overv",
+        "id": 4033112,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WXfd0rOOtkg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WXfd0rOOtkg/hqdefault.jpg",
+        "title": "Arm Homelab-in-a-Box \u2013 Minisforum MS-R1",
+        "vote": 0
+    }
+]

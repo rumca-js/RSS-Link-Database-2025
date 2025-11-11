@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/sbi85",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T14:32:30.582759+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T14:10:36+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p># RSS Feeds and news/blog monitoring</p> <p>On a daily basis I&#39;d like to surface new articles, blogposts around certain topics on pages that our buyer personas potentially know about.</p> <p>This in order to enhance our social presence by reacting or using these articles in social posts. My CEO or CTO would take these away, react on them or write opinion pieces about (on LinkedIn/Substack).</p> <p>The project is to feed them new articles from a moderate pool of websites (stuff like techcrunch or cfodive or AWS blogs) when they come out, and on specific topics (I have about 500 keywords we care about).</p> <p>The best output would be into an RSS feed that I can pull into Clay where I&#39;ll prioritise and prep excerpts, stats and stuff so that CEO/CTO have a constant drip of articles to use for posts.</p> <p>A simple Google Alert to RSS doesn&#39;t seem to work as it&#39;s not letting me input multiple keywords or even control what websites to look",
+        "id": 4031497,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1otertl/newsblog_monitoring_software_into_rss_to_monitor",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "news/blog monitoring software (into RSS) to monitor relevant news topics - perhaps a unique use case?",
+        "vote": 0
+    }
+]

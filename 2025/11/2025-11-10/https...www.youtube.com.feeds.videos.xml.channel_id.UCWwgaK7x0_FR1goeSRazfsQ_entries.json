@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T09:47:27.576473+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T09:01:23+00:00",
+        "description": "From Paris to @artbasel ,\nevery landmark turns into a masterpiece \u2014\na journey where inspiration is rediscovered through art. \ud83d\uddbc\ufe0f\nNow experience it all on Samsung Art Store!\n\n#SamsungArtTV #SamsungArtStore #ArtBasel #TheFrame #FrameTV #NeoQLED #MICRORGB #QLED",
+        "id": 4029467,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BFMfZV233IA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BFMfZV233IA/hqdefault.jpg",
+        "title": "A Journey Where Inspiration Is Rediscovered | Samsung",
+        "vote": 0
+    }
+]

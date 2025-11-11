@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T16:10:39.497016+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T15:31:37+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nFrankenstein to wyj\u0105tkowo dobrze skonstruowana opowie\u015b\u0107. Ciekawa, emocjonuj\u0105ca, ze \u015bwietnymi aktorskimi kreacjami i ba\u015bniow\u0105, typow\u0105 dla Guillermo del Toro estetyk\u0105. Zapraszam na recenzj\u0119!",
+        "id": 4032242,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=51nDqkkJCWY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/51nDqkkJCWY/hqdefault.jpg",
+        "title": "Frankenstein jest \u015bwietny",
+        "vote": 0
+    }
+]

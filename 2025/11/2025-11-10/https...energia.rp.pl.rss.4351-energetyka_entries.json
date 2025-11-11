@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T16:35:19.567504+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T16:35:18+00:00",
+        "description": "Pod wp\u0142ywem sankcji USA rozpada si\u0119 zagraniczne \u201eimperium\u201d \u0141ukoilu, rozci\u0105gaj\u0105ce si\u0119 na 11 kraj\u00f3w \u2013 od Europy, przez Afryk\u0119, po Bliski Wsch\u00f3d. W\u0142adze Iraku wstrzyma\u0142y wszelkie p\u0142atno\u015bci na rzecz Rosjan. A irackie z\u0142o\u017ce jest najwi\u0119kszym zasobem naftowym \u0141ukoilu za granic\u0105.",
+        "id": 4032581,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ropa/art43314171-lukoil-oglasza-stan-sily-wyzszej-rosjanie-wyrzuceni-z-iraku",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u0141ukoil og\u0142asza stan si\u0142y wy\u017cszej. Rosjanie wyrzuceni z Iraku",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Middle-Literature913",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T21:32:41.163853+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T21:11:39+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>ChatGPT gave me a link to a website to what I thought was a midi to mp3 converter. Instead it locked me in full screen, and a very loud beep sound starting playing, windows recovery menu and a password box saying I was locked out and needed the password. The first thing I did was kill the internet source and then force a shutdown on my laptop, when I rebooted, there was nothing unusual and it started up normally</p> <p>Now I know this is probably a fake aggressive virus popup because the recovery menu can&#39;t just pop up so fast like a blue screen can. But I&#39;m wondering if I&#39;m in the clear and don&#39;t have to worry that I was hacked. I killed the internet connection about 10 seconds after It happened and I signed into my email, nothing wrong</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Middle-Literature913\"> /u/Middle-Literature913 </a> <br/> <span><a href=\"https://www.reddit.com/r/hackers/comments",
+        "id": 4032836,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1otq5cx/website_i_went_into_locked_me_in_full_screen_and",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Website I went into locked me in full screen and had loud beeping sound",
+        "vote": 0
+    }
+]

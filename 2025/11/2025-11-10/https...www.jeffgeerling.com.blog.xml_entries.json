@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T16:25:01.150979+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T16:01:10+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Minisforum stuffs an entire Arm Homelab in the MS-R1</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/minisforum-ms-r1-front.jpg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-b2821174-503d-4a7d-b3e8-5cd9b17c53e6\" data-insert-attach=\"{&quot;id&quot;:&quot;b2821174-503d-4a7d-b3e8-5cd9b17c53e6&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Minisforum MS-R1 front\"></p>\n\n<p>The <a href=\"https://s.minisforum.com/4hRFZbj\">Minisforum MS-R1</a> uses the same Cix CD8180 Arm SoC as the <a href=\"https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc\">Orion O6 I reviewed earli",
+        "id": 4032505,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/minisforum-ms-r1-front.jpg",
+        "title": "Minisforum stuffs an entire Arm Homelab in the MS-R1",
+        "vote": 0
+    }
+]

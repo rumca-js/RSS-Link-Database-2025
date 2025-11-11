@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T22:05:23.586798+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T17:33:40+00:00",
+        "description": "While history knows him as a great Enlightenment thinker and writer, Voltaire was once Francois-Marie Arouet, the charismatic and rebellious youngest son of an upper middle-class French family. (His father was a minor treasury official and his mother from a low-ranking noble family.)\n\nAfter going against his father\u2019s wishes and abandoning a promising career in law in favor of writing, Voltaire fell consistently afoul of French authorities and was no stranger to controversy. Besides being exiled from Paris for a time in his early career, he was also imprisoned in the infamous Bastille prison in Paris for 11 months, using his time there to write.\n\nA major turning point in his life, which had it not happened may have resulted in history forgetting the brilliant man, was shortly after he returned from exile in England and had a fortuitous encounter with an equally brilliant mathematician, Charles Marie de la Condamine, at a dinner party held by Charles du Fay in 1728.  Voltaire at the tim",
+        "id": 4034346,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zI6iyTWfZ-U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zI6iyTWfZ-U/hqdefault.jpg",
+        "title": "How One of the Most Famous Philosophers in History Made His Fortune by Rigging the Lottery",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T21:58:37.993907+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T16:30:13+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/SzzN4Jwqt2o\" width=\"480\" alt=\"thumbnail\" title=\"KDE Linux: Packages Are Awesome, We Don't Need Them\" /></p>KDE Linux has been around for a while now and recently Nate Graham released an article on why the distro is using an immutable system and doesn't have a package manager.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Wesbite: https://kde.org/linux/<br />Blog Post: https://pointieststick.com/2025/10/25/kde-linux-deep-dive-package-management-is-amazing-which-is-why-we-dont-include-it/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><",
+        "id": 4034072,
+        "language": "en",
+        "link": "https://odysee.com/kde-linux-packages-are-awesome%2C-we-don%27t:b1340e9014663b89fbb0afd235dac4910b8ffa88",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/SzzN4Jwqt2o",
+        "title": "KDE Linux: Packages Are Awesome, We Don't Need Them",
+        "vote": 0
+    }
+]

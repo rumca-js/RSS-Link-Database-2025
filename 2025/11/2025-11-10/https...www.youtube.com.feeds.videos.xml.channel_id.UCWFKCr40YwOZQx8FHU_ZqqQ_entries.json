@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JerryRigEverything",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T04:28:43.885759+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T04:08:12+00:00",
+        "description": null,
+        "id": 4028221,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/WzdR8f2LzwM",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 705,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WzdR8f2LzwM/hqdefault.jpg",
+        "title": "WHY WOULD THEY HIDE IT?!",
+        "vote": 0
+    }
+]

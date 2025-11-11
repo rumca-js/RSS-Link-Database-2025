@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T13:07:32.004665+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T12:01:27+00:00",
+        "description": "Ready to become a certified Certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbmAR\n\nLearn more about Prompt Declaration Language (PDL) here \u2192 https://ibm.biz/BdbmAF\n\nPrompt engineering is evolving from art to engineering \ud83d\udd27. Martin Keen explains how LangChain and Prompt Declaration Language (PDL) help large language models (LLMs) produce structured, reliable results. Discover how these tools transform prompts into powerful AI workflows.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbmAE\n\n#promptengineering #pdl #llm #langchain",
+        "id": 4030687,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cgVppD6paYo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cgVppD6paYo/hqdefault.jpg",
+        "title": "Prompt Engineering for LLMs, PDL, & LangChain in Action",
+        "vote": 0
+    }
+]

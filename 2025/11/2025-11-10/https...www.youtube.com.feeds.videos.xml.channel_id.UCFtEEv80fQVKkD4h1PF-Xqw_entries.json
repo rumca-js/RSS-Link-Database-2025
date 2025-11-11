@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T22:33:26.651166+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T22:15:01+00:00",
+        "description": "#management #managertips #manager #microsoft \n\nDiscover how managers can harness the power of AI agents to sharpen their competitive edge. Pascal Bornet explains why the best results come when humans and agents have distinct roles\u2014humans drive core values and emotional intelligence, while agents handle research, routine tasks, and coordination. Learn how management is shifting from task assignment to orchestrating human-agent workflows, setting goals, and defining boundaries for success.\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories",
+        "id": 4034695,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/P2n2_yZyJR4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P2n2_yZyJR4/hqdefault.jpg",
+        "title": "The AI hack managers should know",
+        "vote": 0
+    }
+]

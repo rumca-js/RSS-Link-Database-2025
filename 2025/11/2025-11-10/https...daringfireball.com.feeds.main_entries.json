@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T23:00:36.707086+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T22:14:00+00:00",
+        "description": "<p>Marco Arment and David Smith:</p>\n\n<blockquote>\n  <p>In our final episode, we reflect on how indie app development has\nchanged over the past decade. Thanks for listening, everyone!</p>\n</blockquote>\n\n<p><a href=\"https://mjtsai.com/blog/2025/11/10/thanks-for-under-the-radar/\">Michael Tsai</a>:</p>\n\n<blockquote>\n  <p>I really liked the 30-minute format and the breadth of topics:\neverything from API details to broader <a href=\"https://www.relay.fm/radar/315\">design considerations</a>,\n<a href=\"https://mastodon.social/@chockenberry/112163190336674442\">stats</a> from their own businesses, and postmortems, plus all the\nstuff he mentioned.</p>\n</blockquote>\n\n<p><a href=\"https://hachyderm.io/@rmondello/115508780595002901\">Ricky Mondello</a>:</p>\n\n<blockquote>\n  <p>I\u2019ve never been an indie software developer, but I found the\npodcast extremely insightful. It\u2019s influenced how I\u2019ve thought\nabout my non-indie software development career, not just as\nsomeone delivering bits that indies use, but ",
+        "id": 4035069,
+        "language": "",
+        "link": "https://www.relay.fm/radar/331",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2018Under the Radar\u2019 Now Over",
+        "vote": 0
+    }
+]

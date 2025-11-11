@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew Limbong",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-10T22:51:06.361608+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-10T17:08:42+00:00",
+        "description": "David Szalay uses spare and sparse language to follow one Hungarian-British man from his teen years through middle age. The prestigious prize honors the best English-language novels published in the U.K.",
+        "id": 4034952,
+        "language": "en",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5604157/booker-prize-winner-2025-david-szalay-flesh",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8495x5663+0+0/resize/8495x5663!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Ff1%2F4d7327e04ecabc77d819862990b1%2F54905939264-e0895a7ee7-o.jpg",
+        "title": "'Flesh' wins 2025 Booker Prize: 'We had never read anything quite like it'",
+        "vote": 0
+    }
+]
