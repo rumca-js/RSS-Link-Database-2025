@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T18:23:05.590794+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T17:30:00+00:00",
+        "description": "The rising costs of sports in all our streaming bills is another way new \u201cTV\u201d is repeating the bad habits of cable.",
+        "id": 4042142,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/11/11/stream-nfl-games",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "You can stream all of the NFL now. It costs a small fortune.",
+        "vote": 0
+    }
+]

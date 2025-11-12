@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Telegraph reporters",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T07:18:32.066028+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T06:25:00+00:00",
+        "description": "Victim begged driver to call ambulance but instead was pulled into oncoming traffic",
+        "id": 4037574,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/news/2025/11/11/driver-who-hit-grandfather-dragged-him-further-into-road",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 355,
+        "source_url": "https://www.telegraph.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Driver who hit grandfather dragged him further into the road then fled",
+        "vote": 0
+    }
+]

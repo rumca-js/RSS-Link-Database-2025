@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hugh Jeffreys",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T06:18:22.100185+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T05:17:25+00:00",
+        "description": "The fallout from the 3G shutdown continues, even more than a year on. 70 models have just been identified as unable to call 000. \n11 Models are to be blocked this month with the future of the remaining 59 models uncertain. How many other models out there have gone un-noticed. \n\nCheck your phone at isthisphoneblocked.net.au\n\nAustralia's 3G shutdown playlist: \nhttps://www.youtube.com/playlist?list=PLcIRTWL3XaQ2RWqiSP81ry_Sm2JFjZhti",
+        "id": 4037335,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/ojyHOiXwnCI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 145,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ojyHOiXwnCI/hqdefault.jpg",
+        "title": "Australia Just Banned These Samsung Galaxy Phones",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T01:52:09.909726+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T01:42:18+00:00",
+        "description": "Engicam has showcased the TIA RZ/V2H System-on-Module and its companion AI.DEV RZ/V2H development kit, both built around Renesas&#8217; RZ/V2H processor. The module targets embedded applications in machine vision, autonomous robotics, and industrial automation, offering onboard AI acceleration and GPU capabilities optimized for real-time processing and advanced imaging. The TIA RZ/V2H module integrates a Renesas RZ/V2H [&#8230;]",
+        "id": 4036142,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/engicam-showcases-computer-vision-ai-kit-based-on-renesas-rz-v2h-platform",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Engicam Showcases Computer Vision AI Kit Based on Renesas RZ/V2H Platform",
+        "vote": 0
+    }
+]

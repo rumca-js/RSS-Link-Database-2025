@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T05:15:49.267991+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T04:34:45+00:00",
+        "description": "Android's openness is under threat as Google requires developer verification for sideloading, putting F-Droid and digital sovereignty at risk. This video shows exactly how to take action through the KeepAndroidOpen.org initiative\u2014whether you're a developer, consumer, or concerned citizen. Here's what to do to maintain Android's open ecosystem before it's too late.\n\nTechlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources to protect your data and reclaim your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 KeepAndroidOpen: https://keepandroidopen.org/\n\u2022 Change.org Petition: https://www.change.org/p/stop-google-from-limiting-apk-file-usage\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 Previous coverage for full context: https://youtu.be/wRvqdLsnsKY\n\u2022 F-Droid Interview: Coming Soon\n\n\u23f1\ufe0f TIMESTAMPS:\n00:00 Intro & Recap\n02:36 Wtf do we do?\n07:36 Why this matters for the entire mobile ecosystem!\n\n\ud83d\udd10 TECHLORE RESOURCES:\n\u2022 Homepage: https://techlore.tech\n\u2022 Go Incognito C",
+        "id": 4037014,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=hh5n3IqocPQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hh5n3IqocPQ/hqdefault.jpg",
+        "title": "Keep Android Open: Your Action Plan for Freedom",
+        "vote": 0
+    }
+]

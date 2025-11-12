@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ColdFusion",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T11:43:27.811803+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T11:05:32+00:00",
+        "description": "Apple has been struggling to fix Siri since it's inception in 2011, but today they find themselves even further behind. The solution? Apple intelligence but that didn't pan out as expected. The Californian company has now resorted to using Google's Gemini to solve their AI woes. In this episode we explore what this means for Apple, the wider AI industry and consumers. \n\nWatch or listen to ColdFusion on Spotify: https://open.spotify.com/show/1YEwCKoRz8fEDqheXB6UJ1\n\n\nColdFusion Music: \n\nhttps://www.youtube.com/@coldfusionmusic\nhttp://burnwater.bandcamp.com   \n\nGet my book: \n\nhttp://bit.ly/NewThinkingbook \n\nColdFusion Socials: \n\nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nCreated by: Dagogo Altraide\nProducers: Tawsif Akkas, Dagogo Altraide",
+        "id": 4038774,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Ul6_QPfoVHg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 76,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ul6_QPfoVHg/hqdefault.jpg",
+        "title": "Why Apple Just Gave Up on AI",
+        "vote": 0
+    }
+]

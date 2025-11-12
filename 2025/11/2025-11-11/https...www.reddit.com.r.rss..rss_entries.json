@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Cybercitizen4",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T06:12:33.584418+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T05:48:03+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>If you sent me one chapter a day of a book to my RSS reader, I\u2019m sure I\u2019d read it all.</p> <p>I\u2019ll be putting this to the test with <a href=\"https://lettrss.com?ref=reddit\">lettrss.com</a>, a project I built to syndicate public domain books via RSS.</p> <p>Since the second part of the Wicked movie is coming out on November 21 in the United States, I thought it\u2019d be fun to start this RSS project with The Wonderful Wizard of Oz by L. Frank Baum.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Cybercitizen4\"> /u/Cybercitizen4 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1ou1kzw/read_a_book_via_rss_with_lettrsscom/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1ou1kzw/read_a_book_via_rss_with_lettrsscom/\">[comments]</a></span>",
+        "id": 4037305,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1ou1kzw/read_a_book_via_rss_with_lettrsscom",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Read a book via RSS with lettrss.com",
+        "vote": 0
+    }
+]

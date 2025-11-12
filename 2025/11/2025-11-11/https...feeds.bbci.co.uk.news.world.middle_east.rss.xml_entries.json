@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T15:22:25.350874+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T14:41:00+00:00",
+        "description": "The requirement means the penalty would likely be used only against Palestinians convicted of deadly attacks on Israelis.",
+        "id": 4040514,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cpv13rxpgk9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8840/live/f0889830-bee4-11f0-8456-eff94716b162.jpg",
+        "title": "Israel passes first reading of bill proposing death penalty for people it deems terrorists",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T19:24:46.950804+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T18:45:19+00:00",
+        "description": "SUPPORT THE AI DYSTOPIA REPORT SERIES: https://store.gamersnexus.net/ai-dystopia\nThis series of long-form special reports, deep-dives, shorter format mid-term updates dives into topics of the feckless expansion of AI data centers and quest for power (literally), NVIDIA's partnership with Palantir, corruption between tech companies and the US Government, what we think is NZXT's rental scam computer program (and an update on that), GPU export control updates, and more. We'll be publishing this series starting in November and ending by January 31st. This follows-up our AI GPU Black Market movie and will help fund a more serialized approach to the next round of coverage. We are almost done shipping all Black Market backer rewards (only 20% remain) and will complete shipping those prior to beginning the AI Dystopia shipments, which will start going out in December. The last few Black Market pieces are also going live within weeks as we prepare for the data center roadtrips and interviews.\n",
+        "id": 4042634,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qG4ektofzkI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qG4ektofzkI/hqdefault.jpg",
+        "title": "Contacted by the US Secret Service & the AI Surveillance Center Dystopia",
+        "vote": 0
+    }
+]

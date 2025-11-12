@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T23:23:18.116643+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T23:06:00+00:00",
+        "description": "We got a treat today with a special State of Play Broadcast featuring games created in Japan and across Asia. Check out some of the best trailers from the showcase. See timestamps below for the various games we got to see including Marvel Tokon: Fighting Spirit and Elden Ring Nightreign The Forsaken Hollow.\n\nTimestamps\n0:00 Intro\n0:01 Elden Ring Nightreign The Forsaken Hollow Trailer\n1:43 Marvel Tokon: Fighting Souls Closed Beta Trailer\n2:58 Dragon Quest Reimagined VII Trailer\n4:28 Fatal Frame 2 Crimson Butterfly Remake Release Date Trailer\n5:58 Brokenlore: Unfollow Trailer\n6:47 Dynasty Warriors Origin Trailer\n7:46 Octopath Traveler 0 Story Trailer\n9:43 Blazblue Entropy Effect X Trailer\n11:14 Nevergrave: The Witch and The Curse Release Date Trailer",
+        "id": 4044393,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=woakjJ3RNgk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/woakjJ3RNgk/hqdefault.jpg",
+        "title": "Best PlayStation State of Play Japan Trailers | November 2025",
+        "vote": 0
+    }
+]

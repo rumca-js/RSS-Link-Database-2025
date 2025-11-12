@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T16:47:20.675232+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T15:00:29+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nHow I built cjsawk? A NEW C Compiler for ANY platform - Liam Wilson - ACCU York\n---\n\nIn this talk, Liam Wilson presents cjsawk, a groundbreaking self-hosted compiler that operates on a unique dialect simultaneously valid in C, JavaScript, and AWK. By leveraging this multi-language subset, cjsawk enables developers to ship a C compiler in source form that can be built across multiple platforms, including Linux, Node.js, web browsers, and AWK interpreters. \n\ncjsawk addresses the common challenge of inconsistent C compiler availability on different systems. Even if a traditional C compiler is installed, there\u2019s no guarantee of reproducible builds across machines. With cjsawk, the compiler itself is a cross-platform, self-hosted solution that can rebuild itself bit-identically, ensuring reliable and deterministic compilation.\n\nThis talk covers the implementation details of cjsawk, including its recursive descent parser, tokenizer, macro a",
+        "id": 4041202,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GvIdgExPF7M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GvIdgExPF7M/hqdefault.jpg",
+        "title": "How I built cjsawk? A NEW C Compiler for ANY platform - Liam Wilson",
+        "vote": 0
+    }
+]

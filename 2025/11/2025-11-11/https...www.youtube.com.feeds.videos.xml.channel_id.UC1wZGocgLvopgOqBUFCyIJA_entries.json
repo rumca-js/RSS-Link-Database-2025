@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T20:52:55.403331+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T20:44:25+00:00",
+        "description": "This video is brought to you by GameMaker, the free, fast, and easy-to-use 2D game engine that\u2019s helped power modern classics like UFO 50, Antonblast, and Yahtzee\u2019s Starstruck Vagabond \u2013 https://opr.as/SecondWind-3\n\nJack and Jenna are playing some Absolum today!  \n\nIf you like watching us spoof and goof through games, considering supporting us on Patreon -- https://www.patreon.com/SecondWindGroup\r\n\r\nCheck out our new merch store over at DFTBA -- https://store.dftba.com/collections/second-wind\n\nGet your Adventure is Nigh! plushies over at Shark Robot -- https://sharkrobot.com/collections/second-wind",
+        "id": 4043393,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=81QmMhPNoA4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/81QmMhPNoA4/hqdefault.jpg",
+        "title": "Beating Up the Bad Guys in Absolum w/ Jack and Jenna",
+        "vote": 0
+    }
+]

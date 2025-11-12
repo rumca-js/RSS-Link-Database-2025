@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T06:07:36.310545+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T06:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>In case you hadn\u2019t noticed, change is in the air.</p>\n\n\n\n<p>Over the past few years, every day seemingly brings new tales of how businesses are still trying to <a href=\"https://www.computerworld.com/article/3845242/genai-is-coming-to-your-uem-platform-how-to-prepare.html\" data-type=\"link\" data-id=\"https://www.computerworld.com/article/3845242/genai-is-coming-to-your-uem-platform-how-to-prepare.html\">integrate generative AI (genAI) tools</a>, figure out what <a href=\"https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html\" data-type=\"link\" data-id=\"https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-",
+        "id": 4037285,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/4086241/14-ways-it-can-keep-ahead-of-and-integrate-innovative-tech.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "14 ways IT can keep ahead of (and integrate) innovative tech",
+        "vote": 0
+    }
+]

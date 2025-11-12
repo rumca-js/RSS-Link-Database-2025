@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Breyer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T18:28:20.593384+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T18:13:05+00:00",
+        "description": "<p>Just before a decisive meeting in Brussels, digital rights expert and former Member of the European Parliament Dr. Patrick Breyer is sounding the alarm. Using a &#8220;deceptive sleight of hand,&#8221; a <span >\u2026</span></p>",
+        "id": 4042208,
+        "language": "en-GB",
+        "link": "https://www.patrick-breyer.de/en/chat-control-2-0-through-the-back-door-breyer-warns-the-eu-is-playing-us-for-fools-now-theyre-scanning-our-texts-and-banning-teens",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 249,
+        "source_url": "https://www.patrick-breyer.de/en/?feed=rss2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CHAT CONTROL 2.0 THROUGH THE BACK DOOR \u2013 Breyer warns: \u201cThe EU is playing us for fools \u2013 now they\u2019re scanning our texts and banning teens!\u201d",
+        "vote": 0
+    }
+]

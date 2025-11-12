@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-11T16:49:24.855650+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-11T16:01:11+00:00",
+        "description": "Give the most meaningful Christmas gift \u2728 Create a custom star map from Under Lucky Stars at http://UnderLuckyStars.com\n\nThe Simulation Hypothesis is the idea that our universe is actually an algorithm being run on a mysterious supercomputer. In a recent paper, a group of physicists say they\u2019ve disproved this theory by using Goedel\u2019s theorem. Let\u2019s take a look.\n\nPaper: https://news.ok.ubc.ca/2025/10/30/ubco-study-debunks-the-idea-that-the-universe-is-a-computer-simulation/\n\nThe earlier video about uncomputability is here: https://www.youtube.com/watch?v=AFmBq1Hg9os\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.sp",
+        "id": 4041219,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=k6AddqLIbJA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k6AddqLIbJA/hqdefault.jpg",
+        "title": "Physicists Prove That Universe is not a Simulation",
+        "vote": 0
+    }
+]
