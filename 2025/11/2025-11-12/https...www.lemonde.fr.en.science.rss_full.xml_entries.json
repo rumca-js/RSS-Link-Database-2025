@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T04:45:05.577680+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T04:45:05+00:00",
+        "description": "The photographer was not physically injured during the attack on the concert hall but has suffered from post-traumatic stress disorder. For nearly 10 years, he has participated in the 13-Novembre Program, an interdisciplinary research project.",
+        "id": 4046010,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/11/12/ten-years-after-the-november-13-attacks-i-wanted-my-testimony-to-serve-the-collective-memory-says-mathieu-a-bataclan-survivor_6747359_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/11/07/1002/0/4480/2240/644/322/60/0/0031e43_upload-1-bhqsl1wazeih-garde-alcock-018.JPG",
+        "title": "Ten years after the November 13 attacks: 'I wanted my testimony to serve the collective memory,' says Mathieu, a Bataclan survivor",
+        "vote": 0
+    }
+]

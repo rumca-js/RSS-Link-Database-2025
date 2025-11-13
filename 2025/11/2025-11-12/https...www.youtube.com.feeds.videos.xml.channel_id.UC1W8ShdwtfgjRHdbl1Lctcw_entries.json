@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T20:38:59.900718+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T20:00:20+00:00",
+        "description": "I colorized, restored, and created sound design for This rare 1946 captures postwar Germany through striking scenes from Munich, Nuremberg, and W\u00fcrzburg \u2014 cities torn by war but slowly coming back to life. In Munich, the camera moves through streets filled with rubble, empty buildings, and an almost eerie silence, where a few civilians walk among the ruins. At the train station, a mother and daughter wait on the platform while trains pass through damaged depots, and views from the window reveal a quiet countryside beginning to heal. Further scenes show men with carts, trolleys filled with passengers, and children playing \u2014 small moments of normal life returning. In W\u00fcrzburg, the city feels alive again: crowds gather around the Lower Market Square, the statue of Julius Echter von Mespelbrunn stands over a bustling scene, and women sell flowers near St. Mary\u2019s Chapel as new posters appear beside crumbling walls. Finally, the film closes in a cemetery where families visit graves covered ",
+        "id": 4053130,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=uTnAbYBhCBQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uTnAbYBhCBQ/hqdefault.jpg",
+        "title": "Germany 1946 in Color, Munich, Nuremberg, W\u00fcrzburg [60fps,Remastered] w/sound design added",
+        "vote": 0
+    }
+]

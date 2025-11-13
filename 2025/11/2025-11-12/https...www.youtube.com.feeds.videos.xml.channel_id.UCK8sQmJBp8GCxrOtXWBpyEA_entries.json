@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T19:33:12.919669+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T19:24:28+00:00",
+        "description": "Google\u2019s Senior Vice President of Research, Labs, Technology & Society James Manyika sits down with Father Paolo Benanti, a leading expert on AI, ethics, and technology, and professor at the Pontifical Gregorian University at the Vatican, for a discussion about the intersection of artificial intelligence and humanity. #Technology #AI \n\n00:23 What does AI mean for humanity?\n01:41 Human flourishing in the AI era\n03:04 The most important ethical issues for AI\n04:43 How Father Benanti uses AI\n07:01 The \"Why\" behind AI at Google\n\nWatch more: https://www.youtube.com/watch?v=S-De1TvTw4o&list=PL590L5WQmH8f8ID51T0_9JkWpeL9Dcb-S\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+        "id": 4052524,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Mze0Eth1V78",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mze0Eth1V78/hqdefault.jpg",
+        "title": "What can AI teach us about humanity? | Father Paolo Benanti & Google\u2019s James Manyika",
+        "vote": 0
+    }
+]

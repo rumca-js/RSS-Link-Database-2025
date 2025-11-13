@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T12:20:22.432715+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T12:00:16+00:00",
+        "description": "Muchas gracias a Schluter por suministrar los materiales para este proyecto.",
+        "id": 4048334,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/5qTL1eoSbTU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5qTL1eoSbTU/hqdefault.jpg",
+        "title": "Consejos para paredes de ducha usando KERDI-BOARD - #shorts #schlutersystems #sponsored",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T13:57:25.451886+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T13:55:32+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Thinking it\u2019s time you finally got an actual gaming PC instead of just a gaming laptop? You know, something with enough cutting-edge power to rip and roar through the latest and greatest triple-A games? What if I said you could get such a PC for under a grand? <strong>Right now, Best Buy is selling <a href=\"https://www.bestbuy.com/product/msi-aegis-z2-gaming-desktop-r7-8700f-16gb-memory-nvidia-geforce-rtx-5060-2tb-ssd-black/J3P7TXQWHR/sku/6633260\">this MSI Aegis Z2 gaming desktop for $949.99</a>, a whopping $250 off its original price.</strong> Wait \u2019til you see what\u2019s inside this thing!</p>\n\n\n<span class=\"cta_btn_heading cta_btn_heading_center-aligned\"></span><div class=\"cta wp-block wp-block-button cta__btn_center-aligned\"><a class=\"cta__btn\" href=\"https://go.skimresources.com?id=111346X1569483&xs=1&url=https://www.bestbuy.com/product/msi-aegis-z2-gaming-",
+        "id": 4049165,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2969285/msis-pre-built-rtx-5060-gaming-pc-is-under-1k-ahead-of-black-friday.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MSI\u2019s pre-built RTX 5060 gaming PC is under $1k ahead of Black Friday",
+        "vote": 0
+    }
+]

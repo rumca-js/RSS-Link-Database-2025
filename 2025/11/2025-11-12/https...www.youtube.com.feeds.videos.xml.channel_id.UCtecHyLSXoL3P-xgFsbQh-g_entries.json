@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T14:37:24.994008+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T14:10:02+00:00",
+        "description": "Sprawd\u017a gr\u0119 World of Warships - https://wo.ws/NaGalezi\nKod: JANOSIK\n\nTerminator, Rambo, John McClaine, John Wick, James Bond, Indiana Jones - to tylko niekt\u00f3rzy z ikonicznych heros\u00f3w kina akcji. Jak stworzono tych legendarnych bohater\u00f3w? Jak wygl\u0105da\u0142 proces ich powstawania? Pierwsze wersje ich historii? Jak si\u0119 zmieniali? Zapraszam na dekonstrukcj\u0119 najwi\u0119kszych twardzieli w kinematografii.",
+        "id": 4049403,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=xshVcYCId70",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xshVcYCId70/hqdefault.jpg",
+        "title": "Jak narodzi\u0142y si\u0119 ikony kina akcji?",
+        "vote": 0
+    }
+]

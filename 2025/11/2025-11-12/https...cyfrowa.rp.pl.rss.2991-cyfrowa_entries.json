@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T21:19:12.447805+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T21:19:11+00:00",
+        "description": "IBM zaprezentowa\u0142 swoje najnowsze osi\u0105gni\u0119cia w dziedzinie oblicze\u0144 kwantowych, w tym dwa nowe, zaawansowane procesory. Cel? Osi\u0105gni\u0119cie przewagi kwantowej do 2026 r. i budow\u0119 \u201eodpornego na b\u0142\u0119dy\u201d komputera.",
+        "id": 4053465,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art43323201-kwantowy-przelom-ibm-nowe-procesory-moga-zmienic-oblicze-informatyki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kwantowy prze\u0142om IBM. Nowe procesory mog\u0105 zmieni\u0107 oblicze informatyki",
+        "vote": 0
+    }
+]

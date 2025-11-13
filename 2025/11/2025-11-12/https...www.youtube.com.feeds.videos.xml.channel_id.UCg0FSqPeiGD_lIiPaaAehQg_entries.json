@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Valve",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T19:16:16.750503+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T18:00:43+00:00",
+        "description": "Learn more and wishlist now: https://steampowered.com/hardware\nAnnouncing new Steam Hardware from Valve: Steam Controller, Steam Machine, and Steam Frame are coming in 2026. Just like Steam Deck, all three devices are optimized for Steam and designed for players to get even more out of their Steam library.",
+        "id": 4052477,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OmKrKTwtukE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 921,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OmKrKTwtukE/hqdefault.jpg",
+        "title": "Steam Hardware Announcement",
+        "vote": 0
+    }
+]

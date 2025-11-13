@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T15:43:23.227306+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T15:00:10+00:00",
+        "description": "Unreal Engine 5.7 empowers you to build expansive, lifelike, high-performance worlds filled with rich, beautifully detailed dense vegetation; author and render physically accurate layered and blended materials with true visual fidelity; and light complex worlds like never before. \n\nYou\u2019ll also experience smoother and more intuitive animation and rigging workflows\u2014all while getting instant guidance along the way from the new in-editor UE AI Assistant.\n\nDiscover more of what's new in Unreal Engine 5.7\nhttps://www.unrealengine.com/news/unreal-engine-5-7-is-now-available\n\n#UnrealEngine57, #UE57, #PCG, #Substrate, #Megalights",
+        "id": 4049993,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TDGujnN_PN0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TDGujnN_PN0/hqdefault.jpg",
+        "title": "Unreal Engine 5.7 Feature Highlights",
+        "vote": 0
+    }
+]

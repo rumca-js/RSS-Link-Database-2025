@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T02:58:18.370707+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T02:45:09+00:00",
+        "description": "When you sign into Chrome, Google collects your entire browsing history to build behavioral profiles for targeted ads. In this interview, Firefox CTO Bobby Holley breaks down why Mozilla maintains Gecko as an independent engine, how Firefox approaches privacy differently from Google and Apple, and why the stakes for browser independence are higher than ever.\n\nTechlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources to protect your data and reclaim your digital identity.\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://www.youtube.com/watch?v=s6jM5-d-jXc\n\n\u23f1\ufe0f TIMESTAMPS:\n00:00 INTRO\n01:24 CTO DAY IN THE LIFE\n03:34 STICKING WITH GECKO OVER CHROMIUM\n06:33 COMPETING ON PRIVACY\n09:06 PRIVACY IN FIREFOX\n21:03 INSPIRATION FROM THE TOR PROJECT\n22:57 WHAT USERS GAIN FROM FIREFOX\n26:56 THE BEST FIREFOX CONFIGURATION\n29:59 MANIFEST V2 VS. V3 + AD BLOCKING\n30:53 MAINTAINING MANIFEST V2\n32:26 UBLOCK ORIGIN BY DEFAULT?\n33:46 FIREFOX'S APPROACH TO AI\n39:14 GECKO ON I",
+        "id": 4045601,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UkxZRgHYZcM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UkxZRgHYZcM/hqdefault.jpg",
+        "title": "Why Google Chrome Betrays Your Privacy (Firefox CTO Explains)",
+        "vote": 0
+    }
+]

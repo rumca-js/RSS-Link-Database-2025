@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T16:05:56.398979+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T08:00:00+00:00",
+        "description": "<p><span>\n\nI wanted to link an explanation of how </span>\n\n<a href=\"https://www.faruvc.org\">far-UVC</a> works, why you might want to\nuse it to clean indoor air, and what we know about its safety.  I\ndidn't find anything I liked, so I made something: \n\n<code><a href=\"https://www.faruvc.org\">faruvc.org</a></code>.\n\n\n\n<p>\n\n<a href=\"https://www.jefftk.com/faruvc-org-screenshot-big.png\"><img src=\"https://www.jefftk.com/faruvc-org-screenshot.png\" width=\"550\" height=\"443\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:80.5vw;\" srcset=\"https://www.jefftk.com/faruvc-org-screenshot.png 550w,https://www.jefftk.com/faruvc-org-screenshot-2x.png 1100w\"><div style=\"height:min(80.5vw, 443px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nYou can also link it as <code><a href=\"https://www.far-uvc.org\">far-uvc.org</a></code>; I got both\ndomains since the hyphenated one reads better but is a bit longer.\n\n</p>\n\n<p>\n\nLet me know if you have ideas for making it better!  My goal is to\n",
+        "id": 4050474,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/introducing-faruvc-org",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/faruvc-org-screenshot.png",
+        "title": "Introducing faruvc.org",
+        "vote": 0
+    }
+]

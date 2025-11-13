@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T02:31:35.929525+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T01:50:25+00:00",
+        "description": "Fridge: https://www.youtube.com/watch?v=DaWpVDFcXgc\nWiki article:  https://consumerrights.wiki/w/Samsung_ads_in_refrigerators\n\nAwesome actress: https://www.youtube.com/ @TaylorShayeVA\n\nFULU Foundation: https://fulu.org",
+        "id": 4045459,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UQpxaN2vJrw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UQpxaN2vJrw/hqdefault.jpg",
+        "title": "SMART HOME LIFE - FEATURING @TaylorShayeVA",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T18:31:46.548882+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T18:01:18+00:00",
+        "description": "Between a summer of disappointing remakes, sequels and outright flops, a massive downturn in production and the worst October in 30 years, things are looking bad for the fine folks of Hollywood. Let's find out why.",
+        "id": 4051969,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=z7oa_FifWk4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z7oa_FifWk4/hqdefault.jpg",
+        "title": "2025 - The Year That Broke Hollywood",
+        "vote": 0
+    }
+]

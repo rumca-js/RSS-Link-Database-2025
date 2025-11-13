@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cleo Abram",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T16:16:22.836966+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T15:31:27+00:00",
+        "description": "In 2011, a HUGE earthquake started off the coast of Japan\u2026and no one saw it coming\u2026\n\nThat\u2019s why just months afterwards, Japan started building a network of detectors in the ocean to cover the place where tectonic plates meet.\n\nIt has increased warning times enough to divert incoming planes, trains, and boats, saving lives!\n\nFor more optimistic science and tech stories, subscribe.\n\n#science #tech #earthquakes #ocean #tsunami",
+        "id": 4050551,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/7TzAgRJiB7k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 771,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7TzAgRJiB7k/hqdefault.jpg",
+        "title": "Japan\u2019s Insane Earthquake Detection System",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T20:04:32.349463+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T19:29:10+00:00",
+        "description": "<p>\n\t<img alt=\"Depositphotos_193487310_L.jpg\" src=\"https://isocpp.org/files/img/Depositphotos_193487310_L.jpg\" style=\"width: 200px; margin: 10px; float: right; height: 211px;\" />This post chronicles a month-long experiment using C++26 reflections to automate the generation of pybind11 bindings, blending the promise of modern metaprogramming with real-world complexity. It offers a candid look at what worked beautifully, what fell short, and what future language features could make reflection-driven automation even more powerful.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.reddit.com/r/cpp/comments/1nw39g4/a_month_of_writing_reflectionsbased_code_what/\">A Month of Writing Reflections-based Code: What have I learned?</a></h3>\n\t<p>\n\t\tby Boris Staleti&#263;</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tI have been trying to automate writing my own pybind11 binding code with the help of C++26 reflections, as implemented by clang-p2996.</p>\n\t<p>\n\t\tThere were moments wher",
+        "id": 4052799,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/11/a-month-of-writing-reflections-based-code-what-have-i-learned-boris-staleti",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/Depositphotos_193487310_L.jpg",
+        "title": "A Month of Writing Reflections-based Code: What have I learned? -- Boris Staleti\u0107",
+        "vote": 0
+    }
+]

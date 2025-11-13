@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T16:30:48.746003+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T16:00:21+00:00",
+        "description": "Want to restore the planet\u2019s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code SABINE311 will get the first month for free at: https://planetwild.com/r/sabinehossenfelder/join/311\n\nIf you want to get to know them better first, check out their mission restoring a dying valley and bringing back vultures: https://planetwild.com/r/sabinehossenfelder/m32/311\n\nYou\u2019ve probably heard that human industrialization is actually a mass extinction event that\u2019s killed off hundreds of thousands of different animal species, I certainly did. But is that actually true? Recently, a group of ecologists published a paper comparing human-related extinctions to mass extinction events of the past. Let\u2019s take a look at the numbers.\n\nPaper: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.70476\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts ",
+        "id": 4050588,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ChKc9sCoGMc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ChKc9sCoGMc/hqdefault.jpg",
+        "title": "How Close Are We to a New Mass Extinction?",
+        "vote": 0
+    }
+]

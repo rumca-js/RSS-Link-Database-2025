@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T23:48:29.985517+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T23:24:30+00:00",
+        "description": "The problem with overconfidence. To help correct your overconfidence we have a tabletop game launching. Pledge your support now on kickstarter! - https://ve42.co/ocdsc \n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up to the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n\u2580\u2580\u2580\nCHAPTERS:\n0:00 The Most Dangerous Cognitive Bias \n3:01 How confident are you that you are right?\n7:40 Why are people overconfident?\n8:53 The Real Dunning-Kruger Effect Graph\n10:22 How Your Brain Takes Shortcuts\n14:02 How overconfidence is good for you\n15:55 Nick Leeson Rogue Trader\n17:17 The Importance of Feedback\n18:45 How One of England's Oldest Banks Collapsed\n20:41 How To Correct Overconfidence\n\n\u2580\u2580\u2580\nA big thanks to Professor Moore and Professor Fischhoff\n\nThank you to everyone who played the game with us @hankschannel, @fryrsquared,  @NileRed , @astrumspace, @MinutePhys",
+        "id": 4054496,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9M_QK4stCJU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9M_QK4stCJU/hqdefault.jpg",
+        "title": "The Most Dangerous Cognitive Bias",
+        "vote": 0
+    }
+]

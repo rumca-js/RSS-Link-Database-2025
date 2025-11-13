@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Larkin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T04:55:22.543363+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T04:30:30+00:00",
+        "description": "<p>In July of 2025, Chinese studio Leenzee Games released Wuchang: Fallen Feathers, a dark fantasy soulslike ARPG set in the dying days of the Ming dynasty. The players take up the role of Bai Wuchang, a pirate woman who returns home after a long absence to find her war-torn kingdom beset by a mysterious plague [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/review-wuchang-fallen-feathers/\">REVIEW: Wuchang: Fallen Feathers</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 4046051,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-wuchang-fallen-feathers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/11/Wuchang-Fallen-Feathers-Cover-Image-200x300.jpg",
+        "title": "REVIEW: Wuchang: Fallen Feathers",
+        "vote": 0
+    }
+]

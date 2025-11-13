@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T18:53:52.319847+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T17:59:59+00:00",
+        "description": "Jawa\u2019s dropping epic deals every day from Nov 22 - Dec. 2 Get $300 off select custom PCs and RTX 4080s for just $550 https://jawa.link/LTTNov25\n\nGet Grammarly today! http://grammarly.com/lttnov\n\nShop now at LTTStore to enter the Holiday Loot Drop: http://lmg.gg/lootdrop\n\nSteam Machine video SOON!\n\nValve has announced the Steam Frame, Steam Machine, Steam controllers and so much more! Today Linus tries the new VR headset which uses Wifi 5Ghz and 6Ghz to deliver foveated streaming for a low latency high resolution experience unlike any other. But does it work as well as they claim?\n\nDiscuss on the forum: https://linustechtips.com/topic/1626620-valve-blew-away-my-expectations-steam-frame-first-look/\n\nCheck out our Channel Partners:\nSecretlab - Buy a Titan EVO ergonomic gaming chair: https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n\u25ba GET OUR MERCH: https://lttstore.com\n\u25ba GE",
+        "id": 4052146,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dU3ru09HTng",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dU3ru09HTng/hqdefault.jpg",
+        "title": "Valve Blew Away My Expectations - Steam Frame First Look",
+        "vote": 0
+    }
+]

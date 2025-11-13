@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nostalgia Nerd",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T17:52:38.310074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T17:01:10+00:00",
+        "description": "The Aesthedes is one of the biggest and most powerful design computers of the 1980s \u2014 a Dutch-built graphics workstation that made car ads, packaging, and industrial artwork before Photoshop even existed. It cost around \u00a325,000, ran on three Motorola 68000 CPUs, and was the kind of machine only big studios could dream of owning. The one in the Home Computer Museum (Netherlands) is still running today, proving that creative power once took up an entire room.\n\n\ud83d\udc49 Subscribe for more retro tech deep dives and forgotten machines.\n\nHashtags:\n#RetroTech #NostalgiaNerd #Aesthedes #HomeComputerMuseum #80sTech #VintageComputing #GraphicsWorkstation #Motorola68000 #OldComputers #TechHistory",
+        "id": 4051443,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/_WUWuSywEGs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 819,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7qPftDWPw9XuExpSgfkmJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_WUWuSywEGs/hqdefault.jpg",
+        "title": "Sheer Size of this Computer",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T21:38:58.207797+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T20:40:14+00:00",
+        "description": "Preston Byrne, the attorney representing both 4chan and Kiwi Farms, talks with Lunduke about Ofcom and the United Kingdom's censorship campaign against Americans.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4053563,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0igajfxGB-M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0igajfxGB-M/hqdefault.jpg",
+        "title": "4chan's Lawyer Talks to Lunduke",
+        "vote": 0
+    }
+]

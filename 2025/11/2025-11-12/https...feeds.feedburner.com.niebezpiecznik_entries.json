@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-12T13:57:03.046810+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-12T12:11:39+00:00",
+        "description": "<p>Oszu\u015bci podszywaj\u0105 si\u0119 pod Medfile.pl &#8211; us\u0142ug\u0119 dla gabinet\u00f3w i przychodni medycznych s\u0142u\u017c\u0105c\u0105 m.in. do zarz\u0105dzania dokumentacj\u0105. Tak specjalistyczny phishing mo\u017ce by\u0107 mniej zauwa\u017calny, ale jego skutki mog\u0105 by\u0107 bardzo bolesne.</p>\n<p><span id=\"more-26707\"></span></p>\n<p>O sprawie powiadomi\u0142 nas Pawe\u0142, nasz Czytelnik i lekarz, kt\u00f3ry na swoj\u0105 kom\u00f3rk\u0119 dosta\u0142 tak\u0105 oto wiadomo\u015b\u0107.</p>\n<p><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/11/walek-medfile.png\"><img fetchpriority=\"high\" decoding=\"async\" class=\"size-full wp-image-26711 aligncenter\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2025/11/walek-medfile.png\" alt=\"\" width=\"526\" height=\"552\" srcset=\"https://niebezpiecznik.pl/wp-content/uploads/2025/11/walek-medfile.png 526w, https://niebezpiecznik.pl/wp-content/uploads/2025/11/walek-medfile-238x250.png 238w\" sizes=\"(max-width: 526px) 100vw, 526px\" /></a></p>\n<p>Na pierwszy rzut oka wygl\u0105da to na wiadomo\u015b\u0107 z <strong>Medfile.pl </strong>&#8211; jest to oprogramowanie",
+        "id": 4049153,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/11/walek-medfile-150x150.png",
+        "title": "\u26a0\ufe0f Uwaga Lekarze! \u26a0\ufe0f Kto\u015b pr\u00f3buje wy\u0142udza\u0107 has\u0142a do dokumentacji medycznej!",
+        "vote": 0
+    }
+]
