@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T06:08:07.985093+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T06:01:03+00:00",
+        "description": "Arduino has released the Nesso N1, a compact IoT controller developed with M5Stack and built around the ESP32-C6. The device integrates a touch display, onboard sensors, and multiple wireless protocols inside a small enclosure aimed at rapid prototyping and portable embedded applications. The system is built around Espressif&#8217;s ESP32-C6 microcontroller, a single-core 32-bit RISC-V processor [&#8230;]",
+        "id": 4056281,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/arduino-nesso-n1-debuts-as-a-compact-risc-v-iot-controller-with-wi-fi-6-thread-and-lora-connectivity",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Arduino Nesso N1 Debuts as a Compact RISC-V IoT Controller with Wi-Fi 6, Thread, and LoRa Connectivity",
+        "vote": 0
+    }
+]

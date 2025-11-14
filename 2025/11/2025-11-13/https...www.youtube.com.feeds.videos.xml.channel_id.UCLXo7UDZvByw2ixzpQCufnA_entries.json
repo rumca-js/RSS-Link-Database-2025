@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T21:55:27.248273+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T21:00:04+00:00",
+        "description": "Earth\u2019s population is growing. We\u2019re expected to have 2 billion more mouths to feed by 2050. But how can we feed all those people in a way that is still sustainable and ethical? Many have argued that aquaculture (or fish farming) is one of the most sustainable ways we can consume animal protein, since it requires less land use. It\u2019s currently the quickest-growing form of food production in the world. But how exactly does it work? And is it really the best path forward? \n\nTo find out more, Vox video producer Nate Krieger went down the rabbit hole on salmon aquaculture. Salmon is currently the most popular fish in the US: The average American consumes 3.2 pounds of salmon annually. And over 70% of that salmon comes from farms, totalling 3 million tons of salmon a year. \n\nTo understand the impact that the salmon industry is having on our planet and our future, and on the salmon themselves, we spoke to industry insiders, marine biologists, and fish welfare experts. \n\nThis is a complicated",
+        "id": 4063446,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=14pAZJMgnZw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 779,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/14pAZJMgnZw/hqdefault.jpg",
+        "title": "Should salmon farming be our future?",
+        "vote": 0
+    }
+]

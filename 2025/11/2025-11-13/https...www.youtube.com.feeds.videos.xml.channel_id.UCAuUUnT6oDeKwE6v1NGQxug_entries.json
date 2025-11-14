@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T17:12:37.318836+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T16:00:30+00:00",
+        "description": "With the advent of AI, scientists can develop new proteins at an astonishing rate, helping tackle our biggest biomedical and environmental issues. Protein engineer and TED Fellow C\u00e9sar Ram\u00edrez-Sarmiento delves into the evolution of protein design and imagines a future where the next generation of Latin American scientists have the tools to explore nature\u2019s untapped terrain and reshape the future of humanity. (Recorded at TED Fellows Films 2025 on April 7, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers a",
+        "id": 4060849,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KIAsBq64hnQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KIAsBq64hnQ/hqdefault.jpg",
+        "title": "The New Era of AI-Powered Protein Design | C\u00e9sar Ram\u00edrez-Sarmiento | TED",
+        "vote": 0
+    }
+]

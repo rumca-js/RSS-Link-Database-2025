@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T10:19:36.631022+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T10:03:00+00:00",
+        "description": "When the long-term cost of our situation is uncomfortably linked to the short-term expense and pain of changing the situation, it&#8217;s easy to feel stuck. One way to deal with the feeling is to insist that there&#8217;s no way to change the situation. That the price we&#8217;ll have to pay upfront is so big, we [&#8230;]",
+        "id": 4057485,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/11/stuck-happens",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Stuck happens",
+        "vote": 0
+    }
+]

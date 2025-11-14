@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T18:35:19.781546+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T18:03:54+00:00",
+        "description": "In Maps of Meaning, a twelve-hour course, Dr. Jordan B. Peterson explores the foundations of human consciousness, perception, and the pursuit of meaning. Drawing from psychology, mythology, and neuroscience, he examines how we navigate the tension between order and chaos\u2014not as passive observers, but as active participants guided by goals and values. Central to this exploration is the archetypal hero\u2019s journey, which shows how voluntarily confronting suffering and taking responsibility can transform both the individual and society. Grounded in decades of research and personal experience, Dr. Peterson reveals how religious symbols, archetypal narratives, and social hierarchies shape both the individual mind and collective culture. Through powerful insights, the course demonstrates that proper orientation toward the highest good enables us to transform chaos into meaningful order.\n\nLearn more at petersonacademy.com",
+        "id": 4061876,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Nn1Np7mrFck",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Nn1Np7mrFck/hqdefault.jpg",
+        "title": "Maps of Meaning | Dr. Jordan B. Peterson | Lecture One (Official) | Peterson Academy",
+        "vote": 0
+    }
+]

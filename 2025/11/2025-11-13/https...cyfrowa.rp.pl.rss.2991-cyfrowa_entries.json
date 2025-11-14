@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T20:37:43.021348+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T20:37:41+00:00",
+        "description": "Robot nazwany AIdol, firmy AIdol Robotics, zatoczy\u0142 si\u0119 i przewr\u00f3ci\u0142 chwil\u0119 po wej\u015bciu na scen\u0119 podczas technologicznego pokazu w Moskwie. Wygl\u0105da na to, \u017ce rosyjskie i ameryka\u0144skie technologie w tej dziedzinie dzieli przepa\u015b\u0107.",
+        "id": 4062844,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art43330411-to-mial-byc-triumf-rosyjskiej-ai-robot-chodzil-jak-pijany-i-upadl",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "To mia\u0142 by\u0107 triumf rosyjskiej AI. Robot chodzi\u0142 jak pijany i upad\u0142",
+        "vote": 0
+    }
+]

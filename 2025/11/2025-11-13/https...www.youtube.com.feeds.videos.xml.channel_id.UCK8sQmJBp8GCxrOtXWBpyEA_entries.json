@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T17:47:08.914543+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T17:44:31+00:00",
+        "description": "The Doodle for Google student art contest is BACK \ud83d\udd25 And this year, NBA All-Star and philanthropist Giannis Antetokounmpo is one of the judges.\n\nU.S. K-12 students are invited to submit their art for a chance to win a college scholarship, tech package for their school, and have their art featured on google.com.\n\nLearn More \u2192 https://doodles.google.com/d4g/\n\nFind helpful videos to break things down into simple steps \u2192 https://youtube.com/playlist?list=PLNavvvFzgaqjvbSlzzR5Jw7kwwoW53J0a&si=Xmlej4WmqGgxONEc \n\n#GoogleDoodle #GiannisAntetokounmpo #DoodleforGoogle\n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+        "id": 4061316,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=13ja86Hep3M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/13ja86Hep3M/hqdefault.jpg",
+        "title": "Enter Now: Doodle for Google 2025",
+        "vote": 0
+    }
+]

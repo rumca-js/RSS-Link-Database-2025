@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T19:00:26.648056+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T18:00:58+00:00",
+        "description": "Gavin de Becker is a security expert and the founder of Gavin de Becker & Associates, a firm specializing in threat assessment and protective services. He is the author of several books, including his most recent, \"Forbidden Facts: Government Deceit & Suppression About Brain Damage from Childhood Vaccines.\"\nhttps://www.gdba.com\nhttps://www.skyhorsepublishing.com/9781510785953/forbidden-facts/\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\nGet a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan\n\nVisit https://blackriflecoffee.com/joe-rogan and use code ROGAN for 30% Off",
+        "id": 4061988,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=u04t4fkBIeM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u04t4fkBIeM/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2411 - Gavin de Becker",
+        "vote": 0
+    }
+]

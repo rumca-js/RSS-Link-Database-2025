@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T15:30:26.131905+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T15:21:57+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/steam-deck-console.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The most fascinating thing about <a href=\"https://www.eurogamer.net/steam-machine-everything-we-know-about-valves-new-console\">Valve's newly-announced Steam Machine</a>, in a sense, is its status as a halfway house. It is certainly one thing, but it is also clearly pressing at becoming another. Maybe it is neither? Is this a new category emerging? Or is it simply lines that were once indelible now becoming scuffed, worn, and permeable?</p> <p><a href=\"https://www.eurogamer.net/whatever-valve-says-about-its-pc-first-credentials-its-new-steam-machines-are-another-step-closer-to-obliterating-the-once-indelible-line-between-console-and-pc\">Read more</a></p>",
+        "id": 4060005,
+        "language": "en",
+        "link": "https://www.eurogamer.net/whatever-valve-says-about-its-pc-first-credentials-its-new-steam-machines-are-another-step-closer-to-obliterating-the-once-indelible-line-between-console-and-pc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/steam-deck-console.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Whatever Valve says about its PC-first credentials, its new Steam Machines are another step closer to obliterating the once-indelible line between console and PC",
+        "vote": 0
+    }
+]

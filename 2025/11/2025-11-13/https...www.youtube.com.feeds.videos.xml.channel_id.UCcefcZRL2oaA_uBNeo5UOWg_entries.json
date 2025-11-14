@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T17:41:34.395996+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T17:08:43+00:00",
+        "description": "Starcloud (@Starcloud_Inc) recently made history by launching a satellite with an NVIDIA H100 into orbit \u2014 the first time a GPU that powerful has ever operated in space. It's the first step toward building AI data centers in orbit, powered by constant sunlight and cooled by radiating heat into deep space.\n\nTheir approach could one day rival the world's biggest data centers while using less energy, zero fresh water, and far lower emissions.\n\nIn this episode of Hard Tech, YC's Aaron Epstein visits Starcloud's HQ, where co-founders Philip Johnston (@PhilipJohnst0n), Ezra Feilden (@EzraFeilden), and Adi Oltean (@Adi_Oltean) explain how they built a working prototype in just 15 months \u2014 and why big tech is racing to space for AI compute.",
+        "id": 4061283,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hKw6cRKcqzY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hKw6cRKcqzY/hqdefault.jpg",
+        "title": "Inside The Startup Launching AI Into Space",
+        "vote": 0
+    }
+]

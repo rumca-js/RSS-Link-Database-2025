@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T15:29:19.704419+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T15:23:51+00:00",
+        "description": "<p>Via a DF reader, here\u2019s a 20-second clip from the 1993 classic<sup>*</sup> <em>Demolition Man</em> that exemplifies how today\u2019s overly effusive, ever-affirming AI chatbots were presented as elements of a profoundly dystopic future by sci-fi writers just a few decades ago.</p>\n\n<p><small><sup>*</sup>Not actually a classic.</small></p>\n\n<div>\n<a  title=\"Permanent link to \u2018Joy-Joy Feelings\u2019\"  href=\"https://daringfireball.net/linked/2025/11/13/joy-joy-feelings\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 4059991,
+        "language": "",
+        "link": "https://clip.cafe/demolition-man-1993/lately-i-just-dont-feel-like-theres-anything-special-about-me",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Joy-Joy Feelings",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T10:28:26.114094+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T10:08:06+00:00",
+        "description": "The Steam Machine is a console designed to allow gamers to play PC games on their TV.",
+        "id": 4057559,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cd679n9lnx5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/199d/live/01953e30-c075-11f0-bdd8-53dc2d8e9355.png",
+        "title": "PC gaming giant Valve unveils new  console to rival Xbox and PlayStation",
+        "vote": 0
+    }
+]

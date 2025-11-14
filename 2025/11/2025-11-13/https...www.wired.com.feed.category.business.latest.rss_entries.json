@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paresh Dave",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T11:13:40.262490+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T11:00:00+00:00",
+        "description": "The gpt-oss models are being tested for use on sensitive military computers. But some defense insiders say that OpenAI is still behind the competition.",
+        "id": 4057790,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/open-ai-artificial-intelligence-open-weight-model",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6892470d24d6ebd159a1794e/master/pass/OpenAI-Open-Weight-Model-Boon-for-Department-of-Defense-Business-1234996321.jpg",
+        "title": "OpenAI\u2019s Open-Weight Models Are Coming to the US Military",
+        "vote": 0
+    }
+]

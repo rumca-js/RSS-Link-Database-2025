@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nikita Ostrovsky",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T16:09:52.618517+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T15:26:32+00:00",
+        "description": "A new crop of AI browsers, notably OpenAI\u2019s ChatGPT Atlas and Perplexity\u2019s Comet, is available to users. But privacy concerns abound.",
+        "id": 4060211,
+        "language": "en-UK",
+        "link": "https://time.com/7333431/ai-browser-openai-chatgpt-atlas-perplexity-comet",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/11/GettyImages-2242541348.jpg",
+        "title": "5 Things to Know Before Using an AI Browser",
+        "vote": 0
+    }
+]

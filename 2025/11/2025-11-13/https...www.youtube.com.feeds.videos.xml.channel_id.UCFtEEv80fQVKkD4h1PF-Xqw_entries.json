@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T17:59:59.246549+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T17:01:12+00:00",
+        "description": "A third\u2011generation, family\u2011owned manufacturer, Wiscon Products is using AI to empower its people - simplifying processes, improving quality, and boosting productivity across the shop floor. See how they combine craftsmanship with AI to modernize the way work gets done\u2014without losing what makes them unique.\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories",
+        "id": 4061370,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=e7Un0lEpufE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e7Un0lEpufE/hqdefault.jpg",
+        "title": "Putting AI to work on the factory floor",
+        "vote": 0
+    }
+]

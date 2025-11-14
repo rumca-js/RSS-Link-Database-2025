@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T03:26:31.213763+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T02:38:33+00:00",
+        "description": "In today's video we're looking at a handful of Hollywood vs Reality topics like the bizarre story behind \"The Room\", is genuine multiple personality disorder an actual thing or just a hollywood invention. The real life expendables, do blind people actually hear better than sighted people, were nunchucks ever actually used in combat, and the story of the very real knight Ulrich Von Lichtenstein.\n\n00:00 The Bizarre Story Behind \"The Room\"\n13:54 Is Genuine Multiple Personality Disorder an Actual Thing? Or Just a Hollywood Invention for Movies?\n35:24 The Real-Life Expendables\n46:29 Do Blind People Actually Hear Better Than Sighted People or is This Just a Hollywood Myth\n59:05 Were Nunchucks Ever Actually Used in Combat or are They Primarily a Hollywood Thing?\n01:08:52 A Knight's Tale- The Real Life Ulrich Von Liechtenstein",
+        "id": 4055625,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fqLYAuHbZuM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fqLYAuHbZuM/hqdefault.jpg",
+        "title": "Hollywood vs Reality: The Bizarre Story of The Room, Were Nunchucks Real and Much, Much More",
+        "vote": 0
+    }
+]

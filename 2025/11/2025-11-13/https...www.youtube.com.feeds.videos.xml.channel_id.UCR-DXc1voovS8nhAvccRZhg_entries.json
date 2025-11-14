@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T15:10:32.680367+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T15:01:23+00:00",
+        "description": "And you don't even have to recompile the Linux kernel!\n\nI purchased almost everything shown in this video, however, the Intel Arc Pro B50 was provided for testing by Intel, thus I'm marking this video as 'sponsored'. They did not pay me outside of providing the B50, nor did they have any say in the video's contents.\n\nThings mentioned in this video (some links are affiliate links):\n\n  - Blog post with the latest guide for setup: https://www.jeffgeerling.com/blog/2025/all-intel-gpus-run-on-raspberry-pi-and-risc-v\n  - Blog post on Resizeable BAR support: https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi\n  - Minisforum DEG1 eGPU Dock: https://amzn.to/481EHao\n  - JMT eGPU Dock: https://amzn.to/4oUZ4M9\n  - chenyang OCuLink cable: https://amzn.to/47ZxWWF\n  - Lian-Li 750W SFX PSU: https://amzn.to/3JG3Myv\n  - Linux Kernel Mailing List patch for Intel on non-x86: https://lore.kernel.org/lkml/20250715061837.2144388-1-zhangzhijie@bosc.ac.cn/\n  - Raspberry Pi OS Kernel ",
+        "id": 4059673,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ewDJpxQEGo4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ewDJpxQEGo4/hqdefault.jpg",
+        "title": "Every Intel GPU runs on a Raspberry Pi",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-13T17:48:52.447326+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-13T17:01:42+00:00",
+        "description": "Shop Micro Center\u2019s Monthly Sales: https://micro.center/2e4ec6\n\nI've coded on Windows, WSL2, macOS, Linux of various flavors like Ubuntu, Arch Linux, and more operating systems over the past decade, so with all of the hype and talk surrounding all of these operating systems, I wanted to share my general thoughts based on my experience with them. And that's all this video is - it's not what you should do, or what operating system is best, but just my thoughts and what I've learned.\n\nCheck out Micro Center\u2019s Newest Store: https://micro.center/4a9879\nRead up Micro Center News: https://micro.center/f033f1\n\n[TIMESTAMPS]\n\nA portion of this video is sponsored by Micro Center.\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com\n\nDon't know why you'd want to follow me on other socials. I don't even post. But here you go.\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight",
+        "id": 4061322,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=yz4i8vD-Klc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yz4i8vD-Klc/hqdefault.jpg",
+        "title": "I Tried Coding on Every OS // My Thoughts",
+        "vote": 0
+    }
+]
