@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T16:56:43.888314+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T15:55:34+00:00",
+        "description": "https://cppcon.org/\n---\n\nConcept-based Generic Programming - Bjarne Stroustrup - CppCon 2025\nhttps://github.com/CppCon/CppCon2025\n\nThis talk presents programming techniques to illustrate the facilities and principles of C++ generic programming using concepts. Concepts are C++\u2019s way to express constraints on generic code. As an initial example, it provides a simple type system that eliminate narrowing conversions and provides range checking.\n \nConcepts are used throughout to provide user-defined extensions to the type system. The aim is to show their utility and the fundamental ideas behind them, rather than to provide a detailed or complete explanation of C++\u2019s language support for generic programming or the extensive support provided by the standard library.\n \nThe final sections briefly present design rationales and origins for key parts of the concept design, including use patterns, the relationship to Object-Oriented Programming, value arguments, syntax, concept type-matching, and ",
+        "id": 4070344,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VMGB75hsDQo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VMGB75hsDQo/hqdefault.jpg",
+        "title": "Concept-based Generic Programming - Bjarne Stroustrup - CppCon 2025",
+        "vote": 0
+    }
+]

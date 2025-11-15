@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jinze Li",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T11:25:37.178830+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T00:00:00+00:00",
+        "description": null,
+        "id": 4067416,
+        "language": "en",
+        "link": "https://www.nature.com/articles/s41563-025-02405-5",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 231,
+        "source_url": "https://www.nature.com/nmat/current_issue/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Scalable ruthenium core\u2013shell hydrogen catalyst for efficient and robust proton-exchange membrane electrolyser",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T19:39:48.940072+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T18:27:41+00:00",
+        "description": "Linus Tech Tips explains the correct way to apply thermal paste for consistent CPU cooling. This video shows how much paste to use and which method gives the best contact with your processor. If you want stable temperatures and reliable performance, this guide covers the essentials.",
+        "id": 4071651,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/WP3LKBHL8vQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WP3LKBHL8vQ/hqdefault.jpg",
+        "title": "Correct Way to Apply Thermal Paste",
+        "vote": 0
+    }
+]

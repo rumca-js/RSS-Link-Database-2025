@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T18:00:02.115049+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T17:01:11+00:00",
+        "description": "Back in 2017, Swaybox studios announced a new \"animation facial technology\" called \"TiNK\". As the details of how it works are still buried in secrecy, Nico, Sam, and Jordan react to it and try to understand how they might be doing it.\n\nProbably because of their current project with DC Studios, \"Dynamic Duo\", an upcoming animated movie about Robin's origin story, Swaybox hasn't shared any details about their animating techniques.\n\nWhat do you think is happening here?",
+        "id": 4070889,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/_tunbIZeLfM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_tunbIZeLfM/hqdefault.jpg",
+        "title": "They Invented a BRAND NEW Animation Style?!",
+        "vote": 0
+    }
+]

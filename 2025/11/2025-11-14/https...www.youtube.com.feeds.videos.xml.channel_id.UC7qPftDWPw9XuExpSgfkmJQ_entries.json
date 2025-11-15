@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nostalgia Nerd",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T17:36:52.532943+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T17:00:41+00:00",
+        "description": "In 1985, the first smart credit cards were tested, and the tiny chip inside them was basically an 8-bit computer.\nRunning at around 5 MHz with 64 KB of RAM, these cards had almost the same power as an Apple IIe; but they lived in your wallet instead of on your desk.\nAmazing how long we\u2019ve been carrying full computers without even realising it.\n\n#RetroTech #SmartCard #AppleIIe #TechHistory #OldComputers #NostalgiaNerd",
+        "id": 4070520,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Ix2ETzMMBMA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 819,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7qPftDWPw9XuExpSgfkmJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ix2ETzMMBMA/hqdefault.jpg",
+        "title": "1985 Credit Cards were Insane",
+        "vote": 0
+    }
+]

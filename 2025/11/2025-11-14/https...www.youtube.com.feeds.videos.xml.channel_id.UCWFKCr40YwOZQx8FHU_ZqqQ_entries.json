@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JerryRigEverything",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T17:04:34.215030+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T16:41:49+00:00",
+        "description": "I'm a HUGE fan of smartphones that break out of the normal glass slab box. Would you rock a keyboard? Take your personal data back with Incogni! Use code JERRYRIG at the link below and get 60% off an annual plan: https://incogni.com/JERRYRIG The new Unihertz Titan 2 is very similar looking to an old school Blackberry smartphone.  Blackberry had its own operating system and hardware back in the day - but the ship started sinking once the iPhone came out. I thought the iPhone destoryed keyboarded smartphones forever - but here is the Titan 2 making a comback! \n\nGet my smartphone tool kit here: https://www.ifixit.com/JerryRig",
+        "id": 4070383,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=c-H0zyWubLc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 705,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c-H0zyWubLc/hqdefault.jpg",
+        "title": "I THOUGHT THEY WERE GONE!",
+        "vote": 0
+    }
+]

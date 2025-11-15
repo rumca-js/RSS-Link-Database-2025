@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T11:51:12.357842+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T11:00:11+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/Bdbb4f\n\nWhich model is better, GPT-5.1 or Kimi K2 Thinking? This week on Mixture of Experts, we have two new AI model releases: OpenAI\u2019s GPT-5.1 and Moonshot AI\u2019s new open-source reasoning model, Kimi K2 Thinking. We discuss user experience and personalization with AI tools and how open-source AI is changing the AI race. Finally, is Microsoft launching full \u201cagentic users\u201d for enterprise? Our experts discuss AI in enterprise\u2014the risks and considerations for both technology and humans. Join host Tim Hwang and panelists Kaoutar El Maghraoui, Aaron Baughman and Mihai Criveti on this week\u2019s Mixture of Experts, to learn more. \n\n00:00 \u2013 Introduction \n1:12 \u2013 Anthropic\u2019s data center investment, Tesla\u2019s AI chips, Baidu\u2019s new chips and AI cat robots \n1:59 \u2013 GPT-5.1 \n12:00 \u2013 Kimi K2 Thinking \n21:35 \u2013 Microsoft agent users \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessar",
+        "id": 4067730,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5sFJVAoafFI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5sFJVAoafFI/hqdefault.jpg",
+        "title": "GPT-5.1 and Kimi K2: What \u2018Thinking AI\u2019 really means",
+        "vote": 0
+    }
+]

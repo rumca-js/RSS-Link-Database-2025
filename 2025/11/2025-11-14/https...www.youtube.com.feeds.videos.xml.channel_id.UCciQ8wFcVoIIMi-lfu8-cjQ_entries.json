@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T22:34:07.964084+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T22:00:47+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about the newly created radio map of the night skies\nLinks:\nhttps://arxiv.org/pdf/2510.18511\nhttps://arxiv.org/pdf/2509.02919\nhttps://gleamoscope.icrar.org/gleamoscope/trunk/src/\nhttps://www.mwatelescope.org/science/galactic-science/gleam/\nhttps://www.icrar.org/gleam-x-galactic-plane/\n\nORCs: https://www.youtube.com/watch?v=89QITEqGmIs\nhttps://www.youtube.com/watch?v=2Vu9alnI3YI\n#radio #map #astronomy \n0:00 Seeing Milky Way in different light - Gleamoscope \n2:30 New radio map and why it matters \n4:20 How this was made - GLEAM-X \n6:30 Why this is so important and what i",
+        "id": 4072857,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZzH0EKzoNNQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZzH0EKzoNNQ/hqdefault.jpg",
+        "title": "Super Detailed Radio Map of the Milky Way Released! Here's What It Shows",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T08:45:30.659957+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T07:30:27+00:00",
+        "description": "A user shares how they got privacy-skeptical parents to replace Ring with self-hosted security they actually control! Welcome to Techlore's privacy wins of the week, where our community shares their tech wins. It can be privacy, security, or anything else tech-related! Join next week's stream in the pinned post on our forum: https://discuss.techlore.tech/\n\nTimestamps:\nComing Soon\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\n\ud83e\udde1 Join them on Patreon: https://www.patreon.com/techlore\n\ud83d\udc9a To see our production gear, privacy tools we use, and other affiliates: https://techlore.tech/affiliates\n\ud83d\udc96 All Techlore Support Methods: https://techlore.tech/support\n#privacy #security #techlore",
+        "id": 4066633,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VjNCXjRuQN8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VjNCXjRuQN8/hqdefault.jpg",
+        "title": "Privacy Win: Convincing Parents to Ditch Ring (For Real Security!)",
+        "vote": 0
+    }
+]

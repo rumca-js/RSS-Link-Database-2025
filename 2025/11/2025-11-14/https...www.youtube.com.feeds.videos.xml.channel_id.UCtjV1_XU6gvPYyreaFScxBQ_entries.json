@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T07:08:56.907138+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T06:56:46+00:00",
+        "description": "Global leaders and IP pioneers joined #Huawei's experts to advance innovation through openness and collaboration at the Huawei Innovation & Intellectual Property Forum 2025 in Beijing. \n\nThe forum united leading voices in global IP from the World Intellectual Property Organization (WIPO), the International Trademark Association (INTA), Licensing Executives Society International (LESI), alongside corporate executives and Huawei's IP and legal specialists. \n\nDiscover more insights from #IPR2025: https://bit.ly/4oEIsbJ and revisit the livestream coverage here: https://bit.ly/43xZiAO #IPMatters",
+        "id": 4066183,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VQq2YbeNpKM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VQq2YbeNpKM/hqdefault.jpg",
+        "title": "Top Moments from Huawei IPR 2025: Advancing Innovation with Openness",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T04:49:20.021759+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T04:33:18+00:00",
+        "description": "One Thursday every month, I host a livestream for Patreon supporters wherein we have some drinks and hang out. I thought I'd open it up to all my subscribers tonight to celebrate the release of my book and just as a thanks for all your support throughout 2025!\n\nSpeaking of the book, you can get yours here: https://a.co/d/295j2W7\nPrice goes up tomorrow!\n\n\u00a0\n\n\n\n\n\u00a0Support me on Patreon!\nhttp://www.patreon.com/answerswithjoe\n\nGet cool nerdy t-shirts at\nhttp://www.answerswithjoe.com/shirts\n\nInterested in getting a Tesla? Use my referral link and get discounts and perks:\nhttps://ts.la/joe74700\n\nBecome a channel member and get access to exclusive livestreams and content here:\nhttps://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg/join\n\nFollow me at all my places!\nInstagram: https://instagram.com/answerswithjoe\nSnapchat: https://www.snapchat.com/add/answerswithjoe\nFacebook: http://www.facebook.com/answerswithjoe\nTwitter: https://www.twitter.com/answerswithjoe",
+        "id": 4065619,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WE-hLhPxJXQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WE-hLhPxJXQ/hqdefault.jpg",
+        "title": "Whiskey Livestream",
+        "vote": 0
+    }
+]

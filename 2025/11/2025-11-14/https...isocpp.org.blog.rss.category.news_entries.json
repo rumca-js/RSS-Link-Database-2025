@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T21:50:53.823682+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T21:40:23+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />In this post, we&rsquo;ll take a closer look at how to extend the earlier callback wrapper mechanism to handle regular function pointers as well as member functions. Along the way, we&rsquo;ll examine some of the subtleties of inferring function pointer types from callable objects&mdash;especially when lambdas with auto parameters enter the picture.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20251002-00/?p=111647\">The problem with inferring from a function call operator is that there may be more than one</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tSome time ago, I wrote briefly on&nbsp;<a href=\"https://devblogs.microsoft.com/oldnewthing/20250616-00/?p=111271\" title=\"Writing a helper class for generating a particular category of C callback wrap",
+        "id": 4072620,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/11/the-problem-with-inferring-from-a-function-call-operator-is-that-raymond-ch",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg",
+        "title": "The problem with inferring from a function call operator is that -- Raymond Chen",
+        "vote": 0
+    }
+]

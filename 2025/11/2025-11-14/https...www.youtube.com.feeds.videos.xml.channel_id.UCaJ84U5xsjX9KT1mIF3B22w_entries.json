@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rev says desu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T23:22:39.570364+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T23:15:08+00:00",
+        "description": "Hasan Piker's trip to China has taken increasingly pathetic turns.\nUse code \"REV\" to save 10% off my NEW Advanced collection:\nhttps://advanced.gg/pages/partner-rev/?ref=revsays\nMerch: https://uwumarket.us/collections/rev\nPatreon: https://www.patreon.com/Revsaysdesu\nTwitter: https://twitter.com/Rev_says_desu\n\n#vtuber \n#twitch \n#gaming",
+        "id": 4073223,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=utG48laY61M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 586,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaJ84U5xsjX9KT1mIF3B22w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/utG48laY61M/hqdefault.jpg",
+        "title": "He's Never Leaving China...",
+        "vote": 0
+    }
+]

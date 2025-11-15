@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T16:06:42.744680+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T15:00:47+00:00",
+        "description": "Logistics is a multi-trillion-dollar industry that quietly powers the entire global economy \u2014 and it's shockingly manual.\n\nRyan Petersen, founder & CEO of Flexport, joins the Lightcone to break down how AI is finally touching the physical world: making shipping cheaper, speeding up global trade, and automating work that used to live inside emails, spreadsheets, and phone calls.\n\nChapters:\n00:00 Intro\n00:51 What is Flexport and what are they doing with AI?\n03:17 When did AI tools become serious at the company\n06:27 The benefit of internal hackathons \n12:03 What internal AI projects have been most impactful at Flexport\n14:40 What software can do better and faster in logistics\n19:08 Do goods get cheaper if more logistics get automated? \n21:18 The spiritual/philosophical implications of AI in society\n23:51 How does AI change the model structure for companies? \n26:38 Would Ryan have built Flexport differently today?\n30:22 Outro\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork",
+        "id": 4069770,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KTmxaMdUbHA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KTmxaMdUbHA/hqdefault.jpg",
+        "title": "AI Is Eating Logistics",
+        "vote": 0
+    }
+]

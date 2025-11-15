@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T18:21:19.138017+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T18:00:49+00:00",
+        "description": "The term \u201cMovie Star\u201d used to mean something. There was a time when a single actor\u2019s name could open a film to massive box office success. Icons like Marlon Brando, Tom Cruise, Leonardo DiCaprio, Katharine Hepburn, Meryl Streep, and Julia Roberts didn\u2019t just star in movies\u2026 they sold them. Audiences showed up because they were in the role.\n\nBut today\u2019s Hollywood looks completely different. In the modern era, IP is king. Characters like Captain America, Harry Potter, Barbie, and dozens of franchise-driven heroes now dominate the global box office, often overshadowing the actors playing them. It\u2019s no longer about the star\u2019s persona\u2026 it\u2019s about the brand they\u2019re attached to.\n\nSo has the traditional Movie Star disappeared from Hollywood? Or has the idea of a larger-than-life performer simply evolved into the IP characters and cinematic universes they inhabit?\n\n#moviestar #leonardodicaprio #tomcruise #hollywood",
+        "id": 4071048,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=g354JGdoMpk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g354JGdoMpk/hqdefault.jpg",
+        "title": "The Death of the Movie Star",
+        "vote": 0
+    }
+]

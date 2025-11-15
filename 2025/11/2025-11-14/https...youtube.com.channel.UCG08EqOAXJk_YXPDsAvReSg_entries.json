@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T19:31:53.626887+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T19:12:08+00:00",
+        "description": "In this course created in collaboration with Discord, you'll learn how to integrate the Discord Social SDK\u2019s powerful social features directly into your Unity games, creating engaging experiences that keep players connected both in-game and on Discord.\n\nCheck out the course on Unity learn: https://unity3d.info/discord-social-sdk-unity \nExplore the Discord Social SDK: https://unity3d.info/discord-social-sdk",
+        "id": 4071565,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3Uom8xGxmnM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3Uom8xGxmnM/hqdefault.jpg",
+        "title": "Getting started with Discord Social SDK for Unity",
+        "vote": 0
+    }
+]

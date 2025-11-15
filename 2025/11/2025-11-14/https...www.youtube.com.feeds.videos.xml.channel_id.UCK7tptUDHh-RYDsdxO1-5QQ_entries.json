@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T17:32:32.014339+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T16:28:34+00:00",
+        "description": "WSJ\u2019s Shelby Holliday explains the escalation in firepower that the world\u2019s largest aircraft carrier brings to the Caribbean.\n\n#AircraftCarrier #Venezuela #Shorts",
+        "id": 4070496,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/v9bJnLN4FCE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v9bJnLN4FCE/hqdefault.jpg",
+        "title": "The USS Ford Is Streaming Into the Caribbean: A Breakdown of Its Firepower",
+        "vote": 0
+    }
+]

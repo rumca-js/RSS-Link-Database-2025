@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T19:26:18.833175+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T18:41:52+00:00",
+        "description": "An exclusive look at how we designed our cover",
+        "id": 4071519,
+        "language": "en",
+        "link": "https://www.economist.com/the-world-this-week/2025/11/14/cover-story-newsletter-how-markets-could-topple-the-economy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 337,
+        "source_url": "https://www.economist.com/the-world-this-week/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cover Story newsletter: How markets could topple the economy",
+        "vote": 0
+    }
+]

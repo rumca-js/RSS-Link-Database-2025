@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T19:56:03.631358+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T19:55:33+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>If you\u2019re reading PCWorld, you probably know that it\u2019s important to keep your PC updated so that security issues are patched. And you probably know the same is true for your phone, and even things like a PlayStation. But don\u2019t forget that your network gear is also, basically, just a bunch of computers. And thank Asus for reminding us, as it patches DSL routers to close exploitable security flaws.</p>\n\n\n\n<p>Specifically, Asus has issued a firmware update for three models of relatively old DSL routers with combination Wi-Fi functionality: the DSL-AC51, the DSL-N16, and the DSL-AC750. Released in 2015 and 2017, at least as far as I can tell from a quick search, these are fairly straightforward models without super advanced features even for the time. But if you happen to have one in your home, you want to patch that firmware post-haste. They\u2019re susceptible to ",
+        "id": 4071896,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2973402/update-your-old-asus-dsl-router-for-a-critical-security-flaw.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Update your old Asus DSL router for a critical security flaw",
+        "vote": 0
+    }
+]

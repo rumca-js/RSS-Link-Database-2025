@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-14T18:45:55.675079+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-14T18:30:07+00:00",
+        "description": "Try Brilliant for free - https://brilliant.org/fireship and get 20% off a premium annual subscription\n\nValve just dropped the Steam Machine  - a console-like gaming pc that runs Arch under the hood. In today's video, we'll break down the details and ask if 2026 will finally be the year of the Linux desktop. \n\n#coding #linux  #steam  #steamos  #valve \n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n- https://store.steampowered.com/sale/steammachine\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- Valve Announce the Steam Machine\n- What is SteamOS\n- Proton Compatibility Layer\n- Will it run GTA6?",
+        "id": 4071277,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Q8QdKRbC1O0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q8QdKRbC1O0/hqdefault.jpg",
+        "title": "This new gaming console uses Arch btw\u2026",
+        "vote": 0
+    }
+]
