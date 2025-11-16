@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Moon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T22:37:06.945660+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T22:15:50+00:00",
+        "description": "Go to https://buyraycon.com/moonytOPEN to get up to 30% off during Raycon\u2019s Black Friday and Cyber Monday Sale.",
+        "id": 4079429,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dDd9vJwz2-I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 216,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dDd9vJwz2-I/hqdefault.jpg",
+        "title": "The AI Bubble Was Never Real... You Were Just Lied To",
+        "vote": 0
+    }
+]

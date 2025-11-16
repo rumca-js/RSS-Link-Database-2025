@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T18:39:18.162887+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T17:53:45+00:00",
+        "description": "Black Ops 7 (PC, PS5, Xbox Series) is back as Call of Duty's yearly release. How is it? Let's talk.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1",
+        "id": 4078259,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=bBbul_JnZYM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bBbul_JnZYM/hqdefault.jpg",
+        "title": "Call of Duty: Black Ops 7 - Before You Buy",
+        "vote": 0
+    }
+]

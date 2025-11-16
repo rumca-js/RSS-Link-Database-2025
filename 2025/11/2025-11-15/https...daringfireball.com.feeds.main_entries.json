@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T03:06:40.862276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T02:09:38+00:00",
+        "description": "<p>Wayne Ma and Qianer Liu, reporting for The Information on Tuesday (paywalled, alas, but <a href=\"https://9to5mac.com/2025/11/11/apple-iphone-air-2-cameras/\">summarized by 9to5Mac here</a> and <a href=\"https://9to5mac.com/2025/11/10/apple-just-delayed-the-iphone-air-2-indefinitely-report-says/\">here</a>):</p>\n\n<blockquote>\n  <p>Apple has since sharply scaled back production of the first\niPhone Air and delayed the release of an updated version that was\nmeant to launch in fall 2026, The Information reported earlier\nthis week.</p>\n\n<p>Instead, some Apple engineers are hoping to release a redesigned\nversion with a second camera lens in spring 2027 alongside\nexisting plans to release the standard iPhone 18 and iPhone 18e at\nthat time. It\u2019s still too early to tell whether they can\nsuccessfully redesign the iPhone Air in time to make that new\nrelease window, the people said.</p>\n</blockquote>\n\n<p>My question: Would that second camera provide an ultra-wide (0.5\u00d7) or a telephoto (3\u00d7 or 4\u00d7) l",
+        "id": 4074158,
+        "language": "",
+        "link": "https://www.theinformation.com/briefings/apple-explores-adding-second-camera-next-iphone-air-boost-sales",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Information: Second-Gen iPhone Air Postponed Until Spring 2027, but Might Gain Second Camera",
+        "vote": 0
+    }
+]

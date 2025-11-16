@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Sledge",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T11:07:53.258303+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T11:00:00+00:00",
+        "description": "<p>The Trump administration moved to designate antifa groups abroad as foreign terrorists \u2014 setting up the prosecution of their U.S. allies.</p>\n<p>The post <a href=\"https://theintercept.com/2025/11/15/antifa-terrorist-rubio-nazi-material-support/\">Marco Rubio Wants to Imprison You on Terror Charges for Supporting Nazi Punchers</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 4075794,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/11/15/antifa-terrorist-rubio-nazi-material-support",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/11/AP25296737314689-e1762261191271.jpg?w=440&h=440&crop=1",
+        "title": "Marco Rubio Wants to Imprison You on Terror Charges for Supporting Nazi Punchers",
+        "vote": 0
+    }
+]

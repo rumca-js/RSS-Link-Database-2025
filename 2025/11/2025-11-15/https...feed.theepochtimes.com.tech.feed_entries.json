@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Sabo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T05:58:39.705780+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T05:06:08+00:00",
+        "description": "The company estimates that AI carried out 80 percent to 90 percent of the work during the cyberattacks.",
+        "id": 4074689,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/anthropic-says-chinese-hackers-used-ai-to-attack-30-organizations-5945092",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/09/22/id5918734-GettyImages-1247553442-OP-1080x720.jpg",
+        "title": "Anthropic Says Chinese Hackers Used AI to Attack 30 Organizations",
+        "vote": 0
+    }
+]

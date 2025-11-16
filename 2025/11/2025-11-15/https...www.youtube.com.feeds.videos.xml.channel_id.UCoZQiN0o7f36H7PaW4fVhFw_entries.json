@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T14:52:52.030235+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T14:00:28+00:00",
+        "description": "Here is an updated video guide on how to install Batocera on any PC, transforming it into a retro gaming emulation console that's perfect for your living room setup.\n\nWritten guide: https://retrogamecorps.com/2023/05/26/transform-any-pc-into-a-retro-gaming-console-batocera-guide/\n\nRecommended PCs:\nGMKtec G10: https://tidd.ly/49jq3fV\nAlso on Amazon: https://amzn.to/3LEaQfK\nMid-range mini PC: https://amzn.to/3LErP1q\nHigh-end mini PC: https://amzn.to/47WY1Vf\n\nRecommended tools:\nKeyboard with trackpad: https://amzn.to/48eV6bE\n512GB SSD: https://amzn.to/4nVhlrG\nSSD heatsink: https://amzn.to/3K43odd\n8BitDo Ultimate 2: https://youtu.be/gGZQIhJeCuE\n8BitDo Pro 3: https://youtu.be/oqycWSEper0\nFlash drive: https://amzn.to/4pbZ0b4\n\nSoftware:\nBatocera: https://batocera.org/\nRaspberry Pi Imager: https://www.raspberrypi.com/software/\nRetro Achievements: https://retroachievements.org/\nScreenscraper: https://screenscraper.fr/\n\nThis was a review unit sent to me by the manufacturer.  All opinions are my",
+        "id": 4076942,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JtrCTbiNVmI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JtrCTbiNVmI/hqdefault.jpg",
+        "title": "How to Make a $200 Retro Gaming Console",
+        "vote": 0
+    }
+]

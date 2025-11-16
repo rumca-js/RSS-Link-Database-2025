@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T15:16:45.733688+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T14:00:02+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/0jqPu31ZvOc\" width=\"480\" alt=\"thumbnail\" title=\"Send Files Over Local Network With LocalSend\" /></p>LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.  LocalSend is available on Windows, Mac, Linux, Android and iOS.<br /><br />REFERENCED:<br />\u25ba https://github.com/localsend/localsend<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube<br />\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/<br />\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2<br /><br />FREE AND OPEN S",
+        "id": 4077142,
+        "language": "en",
+        "link": "https://odysee.com/send-files-over-local-network-with:3bbf47a5ce508c2cff0c4d45cf5316753c54f781",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/0jqPu31ZvOc",
+        "title": "Send Files Over Local Network With LocalSend",
+        "vote": 0
+    }
+]

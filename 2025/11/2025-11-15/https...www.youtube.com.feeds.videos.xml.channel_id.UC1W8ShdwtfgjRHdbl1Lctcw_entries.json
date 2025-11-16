@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T18:42:49.551726+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T18:09:51+00:00",
+        "description": "I used a new restoration and colorization technique and created sound design for this Amsterdam 1939, bringing back to life the vibrant daily scenes of the city just months before the war. The footage captures the intense activity around Muntz Plein with trams, bicycles, sailors, and policemen directing heavy traffic, followed by detailed views of workers unloading cases from barges along the River Amstel. The film moves through iconic locations such as Kalverstraat, the main shopping street, showing people boarding trams, walking, and cycling through crowded streets. Serene canal views, tour boats, and sailing vessels at dusk contrast with the lively atmosphere of Amsterdam Station and morning scenes of commuters. It also features a rare look at the Dutch East India Building on Prins Hendrikkade. Enhanced with this new technique, the film offers an immersive and authentic window into Amsterdam in the spring of 1939.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714",
+        "id": 4078260,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UiM3Mc2a3_0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UiM3Mc2a3_0/hqdefault.jpg",
+        "title": "Amsterdam 1930s in color [60fps,Remastered] w/sound design added",
+        "vote": 0
+    }
+]

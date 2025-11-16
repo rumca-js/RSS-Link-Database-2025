@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jacek Krywko",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T13:09:51.490251+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T12:00:59+00:00",
+        "description": "Exquisitely preserved fossils come from a single site in Wyoming.",
+        "id": 4076385,
+        "language": "en-US",
+        "link": "https://arstechnica.com/science/2025/11/wyoming-dinosaur-mummies-give-us-a-new-view-of-duck-billed-species",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Sereno-adw3536-image-3-500x500.jpg",
+        "title": "Wyoming dinosaur mummies give us a new view of duck-billed species",
+        "vote": 0
+    }
+]

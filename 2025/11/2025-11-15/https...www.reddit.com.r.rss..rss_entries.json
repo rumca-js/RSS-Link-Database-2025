@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/tbosk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T02:04:13.620822+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T01:07:58+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello all - I have been working on-and-off over the years on my self-hosted, free, and open-source application <a href=\"https://github.com/TBosak/mkfd\">Mkfd</a>. It&#39;s an RSS feed builder that generates from webpages, email folders, and REST API calls. Just recently, I hit <strong>200 stars on GitHub</strong> - to celebrate the occasion, I completely redesigned the UI with the help of my friend Claude, and I&#39;ve deployed it to the TrueNAS community catalog! Seeing as how I don&#39;t have a team of quality engineers, I am hopeful that maybe this community can help me out with some testing to make sure I didn&#39;t break anything! I&#39;m hosting the application for a little while with an open port just for you all. I appreciate all of the love and support I&#39;ve gotten from this subreddit very much. I hope that Mkfd continues to serve all those who choose to use it and the many more that come to discover it!</p> <p><a href=\"http://tbarani.tplin",
+        "id": 4073982,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1oxebrq/mkfd_major_announcementsupdates",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mkfd - Major Announcements/Updates \ud83c\udf89",
+        "vote": 0
+    }
+]

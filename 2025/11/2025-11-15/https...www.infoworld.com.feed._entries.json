@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T02:02:14.562410+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T01:36:16+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>A coordinated token farming campaign continues to flood the open source npm registry, with tens of thousands of infected packages created almost daily to steal tokens from unsuspecting developers using the Tea Protocol to reward coding work.</p>\n\n\n\n<p>On Thursday, <a href=\"https://aws.amazon.com/blogs/security/amazon-inspector-detects-over-150000-malicious-packages-linked-to-token-farming-campaign/\">researchers at Amazon said</a> there were over 150,000 packages in the campaign. But in an interview on Friday, an executive at software supply chain management provider Sonatype, which wrote about the campaign in April 2024, told <em>CSO</em> that number has now grown to 153,000.</p>\n\n\n\n<p>\u201cIt\u2019s unf",
+        "id": 4073969,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4090561/worm-flooding-npm-registry-with-token-stealers-still-isnt-under-control.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Worm flooding npm registry with token stealers still isn\u2019t under control",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T19:39:25.014205+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T18:51:27+00:00",
+        "description": "Meta\u2019s new business model: charge the scammers more.\n\nAccording to Reuters, 10% of Meta\u2019s 2024 revenue is about $16 billion and came from scam or prohibited ads.\n\nInternal documents show Meta didn\u2019t just know about it, they flagged scammers and charged them more.\n\nIt\u2019s less \u201csafety enforcement,\u201d more digital mafia:\n\u201cYou can keep scamming just pay a little extra.\u201d\n\n\ud83d\udc49Hear the full breakdown on The Slidebean Stand-Up; streaming now on Spotify, Apple Podcasts, and all major podcast platforms.",
+        "id": 4078580,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/JYFVFeeaeBU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JYFVFeeaeBU/hqdefault.jpg",
+        "title": "Meta reportedly earned $16B from scam ads and let them run.",
+        "vote": 0
+    }
+]

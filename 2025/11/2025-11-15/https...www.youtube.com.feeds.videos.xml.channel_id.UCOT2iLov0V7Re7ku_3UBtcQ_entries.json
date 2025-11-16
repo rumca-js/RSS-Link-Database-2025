@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hank Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T18:30:20.533451+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T17:57:45+00:00",
+        "description": "Weird thing to have to make a video about but ok...\n\nI feel the need to make a billion clarifications here, like, obviously racism is more than just the exploitation of a bias, it's a whole system of interacting things about our brains and our societies that are being exploited to control people and win power. It's just that...there's a reason it's taboo, and the weakening of that taboo is really obviously destructive in a lot of really obvious ways. I do not like where we are headed here...",
+        "id": 4078238,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RbXzz3oZDr4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RbXzz3oZDr4/hqdefault.jpg",
+        "title": "Slavery was Racist",
+        "vote": 0
+    }
+]

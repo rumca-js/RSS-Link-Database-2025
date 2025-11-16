@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T19:21:29.662284+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T18:35:09+00:00",
+        "description": "Food delivery giant DoorDash confirms a data breach on Oct 25, 2025, where an employee fell for a social engineering scam. User names, emails, and home addresses were stolen.",
+        "id": 4078504,
+        "language": "en-US",
+        "link": "https://hackread.com/doordash-data-breach-employee-social-engineering-scam",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DoorDash hit by data breach after an employee falls for social engineering scam",
+        "vote": 0
+    }
+]

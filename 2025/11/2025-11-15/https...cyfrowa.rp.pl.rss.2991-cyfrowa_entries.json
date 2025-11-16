@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T16:25:17.635797+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T16:25:16+00:00",
+        "description": "Po raz pierwszy pojedyncze w\u0142amanie haker\u00f3w wyra\u017anie uderzy\u0142o we wzrost PKB du\u017cego pa\u0144stwa. Cyberatak na Jaguar Land Rover w Wielkiej Brytanii sparali\u017cowa\u0142 produkcj\u0119 aut na prawie p\u00f3\u0142tora miesi\u0105ca. \u2013 To lekcja nie tylko dla fabryk i \u0142a\u0144cuch\u00f3w dostaw \u2013 ostrzegaj\u0105 eksperci.",
+        "id": 4077548,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/it/art43344391-hakerzy-ktorzy-zatrzymali-jaguara-jak-cyberatak-wstrzasnal-brytyjska-gospodarka",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hakerzy, kt\u00f3rzy zatrzymali Jaguara. Jak cyberatak wstrz\u0105sn\u0105\u0142 brytyjsk\u0105 gospodark\u0105",
+        "vote": 0
+    }
+]

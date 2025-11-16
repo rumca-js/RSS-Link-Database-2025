@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The School of Life",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T14:36:33.660173+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T14:01:35+00:00",
+        "description": "Emotional Intelligence, Daily. Start now: https://www.theschooloflife.com/subscription/ \n\nGet weekly insights for better relationships, deeper self-knowledge, and inner calm straight to your inbox: https://www.theschooloflife.com/signup/",
+        "id": 4076842,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/shcgQMF4HVA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 353,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7IcJI8PUf5Z3zKxnZvTBog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/shcgQMF4HVA/hqdefault.jpg",
+        "title": "Why Do People Sabotage Their Own Success?",
+        "vote": 0
+    }
+]

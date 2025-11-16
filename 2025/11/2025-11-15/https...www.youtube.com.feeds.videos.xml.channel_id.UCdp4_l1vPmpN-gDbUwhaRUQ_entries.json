@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Branch Education",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T17:24:25.906237+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T16:49:32+00:00",
+        "description": "Go to http://brilliant.org/BranchEducation/ to try out all the courses Brilliant has to offer and expand your knowledge today!  Use this link to get a 20% discount on their annual membership.\n\nHave you ever wondered how CPUs work?  Well, in this video, we take a 3D animated tour of a Central Processing Unit and see exactly how it works.  Central Processing Units, or CPUs, are incredibly complicated, and they practically run the modern world.  CPUs can be found in every desktop computer, laptop, video game console, smartphone, and any other device you use on a daily basis.  CPUs are built from tens of billions of transistors assembled into billions of logic gates, and essentially they're amazingly powerful calculators.  But in reality, they're more like instruction-crunching and data-moving machines.  All CPUs share a common DNA, which is the Fetch-Decode-Execute cycle.  This cycle is both very powerful and a critical limitation of every CPU.  So dive right in and we'll show you how CP",
+        "id": 4077859,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=16zrEPOsIcI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 841,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/16zrEPOsIcI/hqdefault.jpg",
+        "title": "How do CPUs Work?  Exploring the \ud83d\udcbb\ud83e\uddec DNA of the Digital World",
+        "vote": 0
+    }
+]

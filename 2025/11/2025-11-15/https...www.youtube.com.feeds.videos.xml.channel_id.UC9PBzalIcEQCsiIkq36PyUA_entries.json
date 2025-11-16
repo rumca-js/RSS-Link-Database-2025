@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T15:28:17.781674+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T15:01:40+00:00",
+        "description": "Thanks to MSI for sponsoring this content. Learn more about MSI\u2019s Holiday discounts here: https://msi.gm/SCDA1C10\n\nWe weren't particularly kind to the PC version of Monster Hunter Wilds at launch and to be frank, not much has changed for the better in the eight months since. However, an RE Framework mod has proven to deliver demonstrably superior performance and more consistent frame-times for 8GB GPUs users looking to use the more visually pleasing high texture preset. And remarkably, it involves using uncompressed assets. Alex has the story.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nCheck in at our new website here: https://www.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\nSteam Guide:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3583516313\n\nREFramework Nightly:\nhttps://github.com/praydog/REFramework-nightly/releases\n\nMHWS-TEX-Decompressor:\nhttps://github.com/eigeen/mhws-tex-decompressor/releases\n\n00:00:00 Introd",
+        "id": 4077175,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AOxLV2US4Ac",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AOxLV2US4Ac/hqdefault.jpg",
+        "title": "Monster Hunter Wilds PC Texture Mod Fixes Poor 8GB GPU Performance!",
+        "vote": 0
+    }
+]

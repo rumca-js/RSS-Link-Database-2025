@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T19:58:19.427037+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T18:50:03+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nWhile at Valve HQ to discussion the Steam Machine, Steam Frame, and Steam Controller, we also caught-up with engineer Yazan to talk about the Steam Deck and Deck OLED. We cover some of the engineering decisions that Valve made to launch the Deck OLED previously, mostly focusing on memory trace routing, package density changes, thermal design, and PCB layout.\n\nLearn about the special backer tiers with bonus videos and digital content: https://store.gamersnexus.net/ai-dystopia\n\nWatch our Steam Machine, Frame, and Controller coverage, also featuring Yazan: https://www.youtube.com/watch?v=bWUxObt1efQ\nWatch our Steam Frame engineering deep-dive here: https://www.youtube.com/watch?v=3NSjvJDe6Ic\nAnd our prior Steam Deck OLED coverage for more depth on all of this: https://www.youtube.com/watch?v=9jhRh11bTRA\n\nOr grab our new \"RETRO I/O\" Coaster Packs! https://store.gamersnexus.net/products/gn-drink-retro-io-coaster-pack-4-c",
+        "id": 4078644,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cvzu-U9mmyA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cvzu-U9mmyA/hqdefault.jpg",
+        "title": "Valve Steam Deck Secrets: Engineering & Design of Memory, PCB Layout, and Thermals",
+        "vote": 0
+    }
+]

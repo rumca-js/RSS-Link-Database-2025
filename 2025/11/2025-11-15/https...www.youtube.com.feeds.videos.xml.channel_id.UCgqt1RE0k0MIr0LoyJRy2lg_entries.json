@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rational Animations",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T16:51:47.124194+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T15:49:00+00:00",
+        "description": "How do we rigorously measure AI's intelligence? We don't really know. What we know is that measuring intelligence is tricky, and if we're not careful, our tests might not measure what we intend. We explore this topic by starting with the story of Clever Hans, a horse who seemingly could do arithmetic. Later, we explain the potential limitations of today's AI benchmarks and how we could do better by looking at the established discipline of cognitive science.\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580SOURCES & READINGS\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\nThe Project Gutenberg EBook of Clever Hans, by Oskar Pfungst: https://www.gutenberg.org/files/33936/33936-h/33936-h.htm#CHAPTER_IV\n\nThe Wiring of Intelligence: https://journals.sagepub.com/doi/10.1177/1745691619866447\n\nNew and emerging models of human intelligence: https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1356\n\nNTIRE2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results: https://arxiv.org/pdf/2504.10685v1\n\nHellaSwag: https://rowanzellers.com/hellaswa",
+        "id": 4077614,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eP1dSWFqKVs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 879,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgqt1RE0k0MIr0LoyJRy2lg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eP1dSWFqKVs/hqdefault.jpg",
+        "title": "What a 100-year-old horse teaches us about AI",
+        "vote": 0
+    }
+]

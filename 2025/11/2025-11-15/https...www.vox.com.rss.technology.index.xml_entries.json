@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hady Mawajdeh",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-15T12:59:19.963809+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-15T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Fuentes in sunglasses, grimacing.\" data-caption=\"Nick Fuentes in Washington, DC, on November 14, 2020. | Zach D Roberts/NurPhoto via Getty Images\" data-portal-copyright=\"Zach D Roberts/NurPhoto via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/11/gettyimages-1229647957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tNick Fuentes in Washington, DC, on November 14, 2020. | Zach D Roberts/NurPhoto via Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">For the past few weeks, conservatives have been having a heated and divisive debate about <a href=\"https://www.bloomberg.com/opinion/articles/2025-11-12/tucker-carlson-nick-fuentes-will-force-gop-to-confront-antisemitism\">antisemitism</a> and the sorts of <a href=\"https://www.nytimes.com/2025/11/03/us/politics/gop-tucker-carlson-nick-fuentes-antisemitism.html\">characters</a> that can or cannot be part of the Republican P",
+        "id": 4076293,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/468776/nick-fuentes-tucker-carlson-republicans-nazi-antisemitic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/gettyimages-1229647957.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The insidious strategy behind Nick Fuentes\u2019s shocking rise",
+        "vote": 0
+    }
+]
