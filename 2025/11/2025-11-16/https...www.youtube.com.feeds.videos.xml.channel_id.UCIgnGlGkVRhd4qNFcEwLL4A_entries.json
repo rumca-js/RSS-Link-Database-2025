@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T03:58:09.068709+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T03:22:32+00:00",
+        "description": "INSANE AI NEWS: GPT-5.1, SIMA2, ERNIE 5.0, Lumine, WorldLabs Marble, Step Audio EditX, UBTECH robot army, VibeThinker 1.5B  #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor Artlist. Check out their Holiday Sale which only occurs once a year! https://artlist.io/artlist-70446?artlist_aid=AIsearch_3782&utm_source=affiliate_p&utm_medium=AIsearch_3782&utm_campaign=AIsearch_3782\n\nSources in order of mention:\nhttps://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do\nhttps://time-to-move.github.io/\nhttps://github.com/WeiboAI/VibeThinker\nhttps://stepaudiollm.github.io/step-audio-editx/\nhttps://github.com/360CVGroup/EVTAR\nhttps://openai.com/index/gpt-5-1/\nhttps://www.worldlabs.ai/blog/marble-world-model\nhttps://www.lumine-ai.org/\nhttps://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/\nhttps://ernie.baidu.com/\nhttps://pointscoder.github.io/PhysWorld_Web/\n\n0:00 AI news intro\n0:51 Vision alignment\n4:29 Time to Move\n6:22 Vib",
+        "id": 4080532,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xAS2tMquyU0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xAS2tMquyU0/hqdefault.jpg",
+        "title": "New GPT, video game AI agents, robot army, AI marriage, new TTS, world models: AI NEWS",
+        "vote": 0
+    }
+]

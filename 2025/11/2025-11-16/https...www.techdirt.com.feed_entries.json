@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leigh Beadon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T21:36:07.757821+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T20:40:00+00:00",
+        "description": "This week, all our winning comments came in response to our post about Donald Trump falling for satire from a website called The Dunning-Kruger Times. In first place on the insightful side, it&#8217;s That One Guy with a comment about how this is hardly surprising: He fell for it because he WANTS to believe it(and [&#8230;]",
+        "id": 4085240,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/11/16/funniest-most-insightful-comments-of-the-week-at-techdirt-185",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Funniest/Most Insightful Comments Of The Week At Techdirt",
+        "vote": 0
+    }
+]

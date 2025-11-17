@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T12:32:51.549857+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T11:31:10+00:00",
+        "description": "[allAfrica] The 2025 G20 Summit, scheduled for 22-23 November 2025 in Johannesburg, marks the first time the gathering is held on African soil.",
+        "id": 4082351,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202511160015.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: The G20 2025 in Johannesburg - A Defining Moment for the Global South",
+        "vote": 0
+    }
+]

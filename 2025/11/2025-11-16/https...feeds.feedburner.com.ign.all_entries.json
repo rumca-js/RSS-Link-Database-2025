@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Noah Hunter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T22:40:09.306209+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T21:28:54+00:00",
+        "description": null,
+        "id": 4085592,
+        "language": "en",
+        "link": "https://www.ign.com/articles/best-deals-for-november-16-2025",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 147,
+        "source_url": "https://feeds.feedburner.com/ign/all",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets-prd.ignimgs.com/2025/11/16/ff7-tifa-1763328486963.png",
+        "title": "The Best Deals Today: Final Fantasy VII Rebirth, Hello Kitty Island Adventure, Borderlands 4, and More",
+        "vote": 0
+    }
+]

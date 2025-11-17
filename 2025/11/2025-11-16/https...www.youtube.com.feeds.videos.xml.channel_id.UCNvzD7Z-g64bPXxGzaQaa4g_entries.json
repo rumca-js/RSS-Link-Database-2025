@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T15:53:01.397667+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T15:17:33+00:00",
+        "description": "While definitely a flawed package, Black Ops 7 offers plenty of new things to learn. Here are some tips for getting started.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:34 Number 10\n2:16 Number 9\n4:03 Number 8\n5:31 Number 7\n6:49 Number 6\n7:47 Number 5\n8:46 Number 4\n9:41 Number 3\n10:38 Number 2\n11:52 Number 1",
+        "id": 4083515,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KfH-v-tC63A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KfH-v-tC63A/hqdefault.jpg",
+        "title": "Black Ops 7: 10 Things The Game DOESN'T TELL YOU",
+        "vote": 0
+    }
+]

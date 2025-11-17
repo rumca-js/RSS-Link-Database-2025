@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T15:44:05.213520+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T14:57:35+00:00",
+        "description": "Digital Foundry is now fully independent - and it's YOUR support that makes shows like this possible. Join us at: https://bit.ly/3jEGjvx\n\nThe DF Retro Super Show returns, with John Linneman joined - as usual - by Audi Sorlie, Marc 'Try4ce' Duddleson and Coury Carlson, tackling the latest retro news before diving into the next big discussion: retro graphics and visual effects that wowed in their day and still look excellent today.\n\nVisit the NEW Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n01:28 - News 1: New Retro Releases & Updates\n10:26 - News 2: Sword of Sodan...2?\n13:08 - News 3: Interview with ZSNES Creator\n14:49 - News 4: Macho Nacho Builds the Xbox Prototype\n17:38 - News 5: Sonic on the Amstrad GX4000\n20:31 - News 6: Splatterhouse RPG Prototype Discovered\n24:15 - Main Segment: Impressive Effects in Classic Games (8/16/32-bit)\n1:12:33 - Main",
+        "id": 4083442,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SQGJKuldZcA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SQGJKuldZcA/hqdefault.jpg",
+        "title": "DF Retro Super Show #2: Retro Graphics/Visual Effects That Still Impress Today",
+        "vote": 0
+    }
+]

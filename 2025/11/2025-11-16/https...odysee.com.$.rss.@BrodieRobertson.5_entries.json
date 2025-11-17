@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T19:36:48.357170+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T18:30:05+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/5O5w0LIargQ\" width=\"480\" alt=\"thumbnail\" title=\"Linux Malware Is Everywhere These Days\" /></p>These been a few cases of malware and malware like situations on Linux recently and rather than doing separate videos it makes to merge a few of these topics together.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Xubuntu Malware: https://www.reddit.com/r/linux/comments/1oad1m6/xubuntu_website_got_hacked_and_is_serving_malware/<br />Ransomware Post: https://www.reddit.com/r/linux4noobs/comments/1op33pa/ransomware_help/<br />Winboat Post: https://github.com/TibixDev/winboat<br />Arch Linux Forum Post: https://bbs.archlinux.org/viewtopic.php?id=309861<br />Kubuntu SSL: https://www.reddit.com/r",
+        "id": 4084774,
+        "language": "en",
+        "link": "https://odysee.com/linux-malware-is-everywhere-these-days:e15ca537c62f89f4a0318a34ebad5f07f4f764fc",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/5O5w0LIargQ",
+        "title": "Linux Malware Is Everywhere These Days",
+        "vote": 0
+    }
+]

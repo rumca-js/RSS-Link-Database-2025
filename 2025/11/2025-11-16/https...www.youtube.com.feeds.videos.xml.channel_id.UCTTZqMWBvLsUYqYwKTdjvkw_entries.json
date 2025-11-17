@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T17:45:09.761822+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T17:00:43+00:00",
+        "description": "\ud83d\uddfd\u00a0Elonowi Muskowi zacz\u0119\u0142a przeszkadza\u0107\u2026\u00a0Wikipedia. Dlaczego? A no chyba nie spodoba\u0142a mu si\u0119 tre\u015b\u0107\u00a0artyku\u0142u, w kt\u00f3rym opisywany by\u0142 jego\u2026 wymowny gest w trakcie inauguracji Donalda Trumpa na prezydenta Stan\u00f3w Zjednoczonych. Porozmawiajmy wi\u0119c dzi\u015b o poszukiwaniu prawdy.\n \n\u0179r\u00f3d\u0142a:\n\ud83d\ude21\u00a0Elon Musk Wants What He Can\u2019t Have: Wikipedia\nhttps://www.theatlantic.com/technology/archive/2025/02/elon-musk-wikipedia/681577/\n\n\ud83e\udd14\u00a0Why Elon Musk is calling for a boycott of Wikipedia\nhttps://www.lemonde.fr/en/pixels/article/2025/01/29/why-elon-musk-is-calling-for-a-boycott-of-wikipedia_6737574_13.html\n\n\ud83e\ude9eLarge Language Models Reflect the Ideology of their Creators\nhttps://arxiv.org/abs/2410.18417\n\n\ud83e\udee5\u00a0How Similar Are Grokipedia and Wikipedia? A Multi-Dimensional Textual and Structural Comparison\nhttps://www.arxiv.org/abs/2510.26899\n\n\ud83d\udc26\u00a0Tatarigami_UA @ Twixxer\nhttps://x.com/Tatarigami_UA/status/1983088549810581972\n\n\ud83d\udcac\u00a0Grok searches for Elon Musk\u2019s opinion before answering tough questions\nhttps://www.theverge.com",
+        "id": 4084183,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=Pi6-db8NJIY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Pi6-db8NJIY/hqdefault.jpg",
+        "title": "\u015awiatopogl\u0105dowe imperium Muska. Grokipedia",
+        "vote": 0
+    }
+]

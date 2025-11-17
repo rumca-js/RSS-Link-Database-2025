@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T14:18:01.187615+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T13:01:22+00:00",
+        "description": "00:00 - The $20 Million per Kilogram Resource\n00:35 - The New Lunar Space Race & NASA's Artemis Program\n00:56 - Interlune's Extraction Technology & Testing\n02:06 - Interlune's Mission Timeline & Commercial Deals\n02:49 - Earth vs. Moon: Why Lunar Helium-3 is Abundant\n03:42 - The Future of Lunar Resource Harvesting\n04:17 - The Race for Lunar Resources: Law & Competition\n\nAdd CNET as a trusted news source https://www.google.com/preferences/source?q=cnet.com\nNever miss a deal again! See CNET\u2019s browser extension \ud83d\udc49 https://bit.ly/3lO7sOU\nCheck out CNET\u2019s Amazon Storefront: https://www.amazon.com/shop/cnet\nSubscribe to CNET on YouTube: https://www.youtube.com/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet\nFollow us on Bluesky: https://bsky.app/profile/cnet.com\nLike us on Facebook: https://www.facebook.com/cnet\nCNET's AI Atlas: https://www.cnet.com/ai-atlas\nFollow us on X: https://www.x.com/cnet\nVisit CNET.com:  https://www.",
+        "id": 4082875,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jEPi9VKf-jA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jEPi9VKf-jA/hqdefault.jpg",
+        "title": "Riches on the Moon: The Race for Dirt Worth MILLIONS",
+        "vote": 0
+    }
+]

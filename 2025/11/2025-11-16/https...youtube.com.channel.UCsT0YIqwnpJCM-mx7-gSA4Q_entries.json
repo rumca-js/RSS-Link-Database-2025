@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TEDx Talks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T14:59:00.995025+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T14:30:22+00:00",
+        "description": "With the shift from books to ebooks, libraries have lost ownership of their collections. Knowledge is being privatized and monetized by multinational corporations. To correct this trend, we need to think of knowledge, especially the knowledge collectively funded and created at universities like Penn State, not as a private commodity, but as a public good.  \n\nJeff Edmunds is Digital Access Coordinator at the Penn State University Libraries, where he has worked for more than 35 years. He helps manage access to the Libraries' millions of digital resources, especially eBooks, and is a fierce champion of open access to information. His texts have appeared in Nabokov Studies, The Slavic and East European Journal, McSweeney's, and Formules (Paris, France), among others. Jeff has decades of experience managing electronic resources in the context of a large academic research library which he now applies in lectures regarding e-books and their privatization. \n\nThis talk was given at a TEDx even",
+        "id": 4083129,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PygUK16aQgk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 915,
+        "source_url": "https://youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PygUK16aQgk/hqdefault.jpg",
+        "title": "Why is knowledge getting so expensive? | Jeffrey Edmunds | TEDxPSU",
+        "vote": 0
+    }
+]

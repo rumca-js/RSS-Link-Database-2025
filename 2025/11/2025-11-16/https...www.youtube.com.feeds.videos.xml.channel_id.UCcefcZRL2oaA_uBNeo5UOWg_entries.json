@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T18:46:51.480362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T18:36:06+00:00",
+        "description": "Before YC, Rishi Choudhary was working a regular 9\u20135, frustrated by how slow things moved and fighting to build anything new.\n\nNow, as co-founder of Kastle (YC S24), he's able to finally build products that people really want.\n\nAnd you can too. It's not too late to get your application in.\n\nycombinator.com/apply",
+        "id": 4084489,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/OUJznQbHkI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OUJznQbHkI4/hqdefault.jpg",
+        "title": "Founder Stories: Rishi Choudhary",
+        "vote": 0
+    }
+]

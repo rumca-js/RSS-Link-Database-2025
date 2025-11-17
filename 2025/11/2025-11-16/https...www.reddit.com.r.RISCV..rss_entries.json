@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/fullgrid",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T09:29:43.096529+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T08:55:40+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1oygwo6/waveshare_pairs_riscv_esp32p4_and_esp32c6_for/\"> <img src=\"https://external-preview.redd.it/fgRnMRz6U5Nf1TmBy04ve1fSUJVBXLPGRRGIftRK4NA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=03198af43286b8bdae88699f2c1b21ffe87891d7\" alt=\"Waveshare Pairs RISC-V ESP32-P4 and ESP32-C6 for Wi-Fi 6, Bluetooth 5 LE, and PoE Support\" title=\"Waveshare Pairs RISC-V ESP32-P4 and ESP32-C6 for Wi-Fi 6, Bluetooth 5 LE, and PoE Support\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><blockquote> <p>Waveshare has released the ESP32-P4-WIFI6-POE-ETH, a compact development board built around the ESP32-P4 along with an ESP32-C6 wireless module. The design combines Wi-Fi 6, Bluetooth 5 LE, Ethernet, and optional PoE power delivery in a single platform aimed at multimedia processing, display and camera applications, and general embedded development.</p> </blockquote> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.re",
+        "id": 4081573,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1oygwo6/waveshare_pairs_riscv_esp32p4_and_esp32c6_for",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/fgRnMRz6U5Nf1TmBy04ve1fSUJVBXLPGRRGIftRK4NA.png?width=640&crop=smart&auto=webp&s=03198af43286b8bdae88699f2c1b21ffe87891d7",
+        "title": "Waveshare Pairs RISC-V ESP32-P4 and ESP32-C6 for Wi-Fi 6, Bluetooth 5 LE, and PoE Support",
+        "vote": 0
+    }
+]

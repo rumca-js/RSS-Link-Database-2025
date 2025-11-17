@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sigal Samuel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T12:16:20.711951+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T06:45:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"Is it possible to fight against the integration of AI in the workplace?\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/11/Vox_PeteGamlen_AI.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tIs it possible to fight against the integration of AI in the workplace?\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\"><em><em><a href=\"https://www.vox.com/your-mileage-may-vary-advice-column\" target=\"_blank\" rel=\"noreferrer noopener\">Your Mileage May Vary</a>\u00a0is an advice column offering you a unique framework for thinking through your moral dilemmas. It\u2019s based on\u00a0<a href=\"https://www.vox.com/future-perfect/418783/liberal-democracy-value-pluralism-isaiah-berlin\" target=\"_blank\" rel=\"noreferrer noopener\">value pluralism</a>, the idea that each of us has multiple values that are equally valid but that often conflict with each other.</em>\u00a0<em>To submit a question,",
+        "id": 4082239,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/468672/how-to-fight-generative-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/Vox_PeteGamlen_AI.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Is AI being shoved down your throat at work? Here\u2019s how to fight back.",
+        "vote": 0
+    }
+]

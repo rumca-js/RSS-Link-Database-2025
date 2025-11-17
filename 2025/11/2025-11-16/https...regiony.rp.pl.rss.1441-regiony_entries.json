@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T10:24:51.074224+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T10:24:49+00:00",
+        "description": "Jeszcze dekad\u0119 temu sezon rower\u00f3w miejskich kojarzy\u0142 si\u0119 z wiosn\u0105 i latem, czasem wczesn\u0105 jesieni\u0105. Obecnie w wielu polskich miastach miejski rower jest \u015brodkiem transportu ca\u0142orocznego, a wypo\u017cyczalnie dzia\u0142aj\u0105 nawet w \u015brodku zimy.",
+        "id": 4081798,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/rowerowa-koalicja-rzeczpospolitej/art43327061-rower-miejski-przez-caly-rok-w-coraz-wiekszej-liczbie-miast",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rower miejski przez ca\u0142y rok. W coraz wi\u0119kszej liczbie miast",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-16T17:06:50.455137+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-16T17:00:21+00:00",
+        "description": "This month is the 5th Anniversary of the launches of the PlayStation 5 and The Xbox Series X/S. Kurt and Lucy look back on the highs and lows of the last 5 years of this console generation.\n\nWatch the full Kurt & Lucy Gotcha Covered Episode: https://youtu.be/z_C3fNVvGDE",
+        "id": 4083896,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=FuuLhpIFITo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FuuLhpIFITo/hqdefault.jpg",
+        "title": "The Highs and Lows Of This Generation of Consoles",
+        "vote": 0
+    }
+]
