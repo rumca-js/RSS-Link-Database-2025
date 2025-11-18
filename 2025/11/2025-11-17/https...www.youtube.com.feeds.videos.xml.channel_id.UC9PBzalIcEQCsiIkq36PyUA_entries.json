@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T16:17:33.138269+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T15:59:20+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nValve's reveal of the Steam Machine has proven phenomenally popular to the point where our coverage is by far and away the biggest DF video of the year. But there's more information emerging post-embargo we had to share, plus plenty of discussion points to wade through. How much will it cost? Does this really cause problems for Microsoft? What is the actual make-up of the Zen 4 CPU? And is a spec that's comparable with PlayStation 5 really the best that could be done over five years into this generation? Rich, Oliver and Alex convene once again to talk about the Valve initiative.\n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n0:00:00 Introduction \n0:01:41 Steam Machine pricing  \n0:13:42 Potential impacts to Microsoft \n",
+        "id": 4091326,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=K0jaDAG_jc8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K0jaDAG_jc8/hqdefault.jpg",
+        "title": "DF Direct Weekly #240: Steam Machine - Pricing, Specs, VRAM, ARM Ambitions + More",
+        "vote": 0
+    }
+]

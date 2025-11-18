@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T19:22:18.127295+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T18:23:50+00:00",
+        "description": "Upstream Kernel Hardening: Progress on Enabling -Wflex-array-member-not-at-end - Gustavo A. R. Silva, The Linux Foundation\n\nThe -Wflex-array-member-not-at-end compiler option was introduced in GCC 14. It warns about flexible-array members in the middle of composite structures. At the time, it revealed around 60,000 warnings in the upstream Linux kernel. While the vast majority of these are duplicates, about 650 are unique and require individual auditing and resolution. These issues fall into various categories and differ in complexity, which adds to the challenge of globally enabling this flag upstream.\n\nIn this presentation, we'll share the progress we've made on this work as part of the Linux Kernel Self-Protection Project (KSPP) over the last year. We'll go over the challenges we've encountered, show concrete code examples, and demonstrate how to fix these kinds of problems. We'll also discuss why enabling this option is important for the kernel, and how we plan to complete this wo",
+        "id": 4093088,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OFOr91cSyzQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OFOr91cSyzQ/hqdefault.jpg",
+        "title": "Upstream Kernel Hardening: Progress on Enabling -Wflex-array-member-not-at-end - Gustavo A. R. Silva",
+        "vote": 0
+    }
+]

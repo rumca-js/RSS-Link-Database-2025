@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Current",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T22:03:40.602186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T20:54:01+00:00",
+        "description": "Marcus Mumford of Mumford & Sons talks about the band's admiration for Madison Cunningham, the only featured artist on their 2025 album 'RUSHMERE.'",
+        "id": 4094145,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/bkK4NIukrCc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 335,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAKcSON6PSG_JkTbXh2WdIg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bkK4NIukrCc/hqdefault.jpg",
+        "title": "Mumford & Sons talks about the band's admiration for Madison Cunningham #mumfordandsons #shorts",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T12:12:59.438261+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T12:01:09+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbvCq\n\nLearn more about Model Context Protocol (MCP) here \u2192 https://ibm.biz/BdbvCf\n\nHow do AI agents learn and take action? \ud83e\udd16 Live from TechXchange in Orlando, Melissa Hadley breaks down how MCP and RAG help large language models connect to data \u2014 one to retrieve knowledge, the other to execute tasks. Explore how these frameworks combine to power smarter, connected AI systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbeYj\n\n#aiagents #modelcontextprotocol #retrievalaugmentedgeneration #llm",
+        "id": 4089282,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=X95MFcYH1_s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X95MFcYH1_s/hqdefault.jpg",
+        "title": "MCP vs. RAG: How AI Agents & LLMs Connect to Data",
+        "vote": 0
+    }
+]

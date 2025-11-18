@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T17:41:20.974659+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T17:16:19+00:00",
+        "description": "Stream and review CAD Models with the Unity Industry Viewer Template\n\nIn this technical tutorial, you'll learn how to set up and use the Unity Industry Viewer Template\u2014a ready-to-use foundation for building collaborative, cloud-connected 3D experiences. This video takes you from an empty project to streaming your own 3D models for a real-time collaborative review.\n\nSee what's possible:\n- Create a new project using the Industry Viewer template from GitHub.\n- Connect your project to Unity Cloud to enable services like Asset Manager and multiplayer.\n- Prepare complex CAD and BIM models for 3D data streaming.\n- Load and explore your 3D models streamed directly from the cloud.\n- Use built-in collaboration tools like 3D annotations, section cuts, and XR support.\n- The Viewer Template provides a customizable workflow that lets industrial teams visualize, review, and discuss complex 3D data in real time. You can adapt it for your own AEC, manufacturing, or automotive projects.\n\nDownload the U",
+        "id": 4092042,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aNnIugQf540",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aNnIugQf540/hqdefault.jpg",
+        "title": "Build a collaborative 3D viewer in Unity using the Industry Viewer Template",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T08:35:37.074623+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T07:58:31+00:00",
+        "description": "How does a jet engine not melt? Sponsored by KiwiCo - Use code VERITASIUM to get 50% off your first monthly KiwiCo Crate! https://www.kiwico.com/VERITASIUM \nWant to start your own crystal garden? https://www.kiwico.com/crystalchemistry\n\nOur friends at Science Alert are doing a sweepstakes where you can win a 5-day space themed vacation for two. The itinerary includes a trip to the Kennedy Space Center in Florida for astronaut training and a meet and greet with a NASA astronaut. If you\u2019d like to be entered in the draw, just subscribe to their free science newsletter Spark. No purchase necessary. Open to US residents only.\nEnter here: https://www.sciencealert.com/spark-into-space-comp?utm_source=veritasium\n\nWe have a tabletop game launching! Check it out here! - https://ve42.co/KickStarterD\n\n\u2580\u2580\u2580\n0:00 How a jet engine works\n3:18 Why are jet engines so big?\n5:17 The Inside of a Jet Engine\n8:49 Edge Dislocation\n11:11 The First Jet Engine\n12:48 Inside the Rolls-Royce Precision Casting Facil",
+        "id": 4087927,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=QtxVdC7pBQM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QtxVdC7pBQM/hqdefault.jpg",
+        "title": "Why don\u2019t jet engines melt?",
+        "vote": 0
+    }
+]

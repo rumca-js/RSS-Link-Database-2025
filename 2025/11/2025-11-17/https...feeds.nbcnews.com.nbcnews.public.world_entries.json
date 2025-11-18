@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Arkin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T17:09:43.818241+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T16:52:57+00:00",
+        "description": "The production studio behind Tilly Norwood, a digital character dubbed Hollywood's first \"AI actor,\" plans to join forces with the History Channel in the Netherlands on an AI-powered time travel series, the companies announced Monday",
+        "id": 4091867,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/studio-ai-actor-tilly-norwood-teams-history-channel-ai-time-travel-ser-rcna244390",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-11/251117-the-history-channel-vl-1147a-c3ac37.jpg",
+        "title": "Studio behind 'AI actor' Tilly Norwood teams with History Channel on AI time travel series",
+        "vote": 0
+    }
+]

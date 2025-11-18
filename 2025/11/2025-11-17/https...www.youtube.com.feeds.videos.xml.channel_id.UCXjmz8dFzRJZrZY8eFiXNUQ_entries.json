@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T18:35:22.067871+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T18:00:54+00:00",
+        "description": "Up until the early 2000's, TV Shows returned like clockwork.  Jam packed with 20 to 24 episode runs that aired weekly.  It didn't matter if you were a sitcom like Friends or The Office, or a network drama like Lost or 24, television moved fast, seasons were long, and audiences stayed deeply connected to their shows.\n\nBut today\u2019s TV landscape looks completely different. Thanks to streaming platforms, Hollywood strikes, ballooning budgets, and an overwhelming amount of content, modern shows often take years to return.  Shows like Stranger Things, Severance, and True Detective all take multiple years to produce an 8-10 episode season, and when they do return most fans are left trying to remember what exactly happened last season. \n\nSo why does it take so long to produce high-quality TV today? And with massive gaps between seasons, do fandoms stay loyal, or do audiences simply move on to the next big show?\n\n#strangerthings #severance #tvshows #tvproduction",
+        "id": 4092532,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=noht1fRTRu0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/noht1fRTRu0/hqdefault.jpg",
+        "title": "The Dangerous Trend Ruining Modern Television",
+        "vote": 0
+    }
+]

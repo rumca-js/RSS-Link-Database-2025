@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zo\u00eb Schiffer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T11:52:17.375876+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T11:00:00+00:00",
+        "description": "As OpenAI expands in every direction, the new CEO of Applications is on a mission to make ChatGPT indispensable and lucrative.",
+        "id": 4089032,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/691668271aa3646333c84d69/master/pass/WEB_FIDJI%20SIMO-WIRED-2025-0Z2A8915_V3.jpg",
+        "title": "OpenAI's Fidji Simo Plans to Make ChatGPT Way More Useful\u2014and Have You Pay For It",
+        "vote": 0
+    }
+]

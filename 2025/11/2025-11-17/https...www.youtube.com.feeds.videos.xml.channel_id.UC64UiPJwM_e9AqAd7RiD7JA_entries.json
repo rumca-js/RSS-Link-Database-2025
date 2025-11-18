@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T18:16:20.430363+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T17:17:12+00:00",
+        "description": "On November 28, 1787, His Majesty\u2019s Armed Vessel Bounty set sail from England with 46 men aboard, bound for the island of Tahiti in the South Pacific. Commanded by Lieutenant William Bligh, her mission was to collect and deliver breadfruit plants to the West Indies, where they would serve as cheap food for slaves on British plantations. After a long and gruelling journey in which Bligh attempted unsuccessfully to round the storm-lashed Cape Horn at the tip of South America, Bounty finally arrived in Tahiti on 26 October, 1788. But the voyage - and the hedonistic temptations of this tropical paradise - soon began to take their toll, and over the five months Bounty spent in Tahiti morale and discipline among the crew steadily broke down. These tensions finally boiled over on April 28, 1789 when, three weeks after leaving Tahiti, the crew, led by acting Lieutenant Fletcher Christian, mutinied against Bligh, setting him him and eighteen loyalists adrift in an open boat. The mutiny on the ",
+        "id": 4092450,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IKTg_Uu_IsA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IKTg_Uu_IsA/hqdefault.jpg",
+        "title": "What Really Happened After the Mutiny on the Bounty?",
+        "vote": 0
+    }
+]

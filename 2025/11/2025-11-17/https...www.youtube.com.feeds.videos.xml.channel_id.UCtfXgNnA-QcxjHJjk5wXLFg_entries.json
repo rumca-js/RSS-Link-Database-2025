@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Rock",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T03:50:37.578660+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T03:10:21+00:00",
+        "description": "I tried \u201cbutter chicken\u201d in England and\u2026 wow. Creamy tomato soup sauce, chewy chicken, cumin-seed naan - this is the dish that tricked me into flying to India to taste the REAL thing. \ud83c\uddee\ud83c\uddf3\ud83d\udd25 I roast it, but to be fair\u2026 this was the gateway drug that started my whole journey across India. If you\u2019ve only tried the Western version, you haven\u2019t tasted Indian food yet. Real butter chicken hits VERY different. Are you ready to upgrade?",
+        "id": 4086840,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/8f830KGjwSw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 902,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtfXgNnA-QcxjHJjk5wXLFg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8f830KGjwSw/hqdefault.jpg",
+        "title": "The Truth About Chicken Tikka Masala",
+        "vote": 0
+    }
+]

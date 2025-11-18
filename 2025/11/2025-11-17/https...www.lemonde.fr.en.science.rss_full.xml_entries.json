@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T05:46:40.621290+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T05:30:07+00:00",
+        "description": "On the banks of the British capital's river, London's 'mudlarks' search for fragments of the past: ancient pottery, old coins, bone dice. These enthusiasts are less motivated by the value of the objects than by the stories they tell. Sometimes, their finds even end up in a museum, as is currently being shown in an exhibition at the London Museum.",
+        "id": 4087283,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/m-le-mag/article/2025/11/17/london-s-mudlarks-scour-the-thames-for-treasure_6747519_117.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/11/04/611/0/1500/750/644/322/60/0/40474a9_ftp-import-images-1-lp4ubbhprgs3-403862-3442680.jpg",
+        "title": "London's 'mudlarks' scour the Thames for treasure",
+        "vote": 0
+    }
+]

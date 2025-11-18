@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T16:09:26.525315+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T16:01:11+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nThe Evolution of std::optional - From Boost to C++26 - Steve Downey - CppCon 2025\n---\n\nOptionals were first proposed for C++ in 2005. \n \nOptional\uff1cT\uff1e , where T is constrained not to be a reference, was added in 2017. \n \nOptionals for lvalue references are on track to be added in C++ 26. \n \nWhat are we getting and what design choices were made? This talk will show the results. \n \nThis talk will discuss the early history of Optionals, starting with Boost.Optional and \u201cN1878: A Proposal to Add an Utility Class to Represent Optional Objects (Revision 1)\u201d, and what the early concerns were for the reference specialization. \u201cP1175R0: A Simple and Practical Optional Reference for C++\u201d then re-proposed reference support for C++20, which was not adopted. In 2020, \u201cP1683R0: References for Standard Library Vocabulary Types - an optional\uff1c&\uff1ecase study\u201d surveyed existing behavior of optional references in the wild, and pointed out the trap of assignment behavior being state d",
+        "id": 4091268,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fTbTF0MUsPA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fTbTF0MUsPA/hqdefault.jpg",
+        "title": "The Evolution of std::optional - From Boost to C++26 - Steve Downey - CppCon 2025",
+        "vote": 0
+    }
+]

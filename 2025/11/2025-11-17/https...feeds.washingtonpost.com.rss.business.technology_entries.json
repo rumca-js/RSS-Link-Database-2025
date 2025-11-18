@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Heather Kelly",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T10:53:09.614224+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T10:00:00+00:00",
+        "description": "Parents trying to raise their kids in a tech-saturated world are getting overwhelmed with the amount of work and fighting it takes to protect kids, which can be a full-time job.",
+        "id": 4088705,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/11/17/kids-parents-tech-help",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Frazzled parents turn to screen-time coaches, $8,000 detox camps to rein in kids\u2019 tech",
+        "vote": 0
+    }
+]

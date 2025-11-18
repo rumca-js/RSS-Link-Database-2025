@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T17:42:51.731816+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T17:01:08+00:00",
+        "description": "The CEO of JPMorgan Chase spent six years putting his stamp on a shiny new headquarters, a skyscraper that he hopes will revive the glory of the office.\n\n#Office #Business #Shorts",
+        "id": 4092052,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/bw1zkVHAJvM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bw1zkVHAJvM/hqdefault.jpg",
+        "title": "Jamie Dimon Wants Everyone in the Office. Is a $3B Building the Answer?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T17:31:09.189816+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T17:01:07+00:00",
+        "description": "We\u2019re excited to share with you a preview of the first episode of The Docket, a Patreon-exclusive Vox video series covering Supreme Court cases that could alter the fabric of American life. Head over to patreon.com/vox to subscribe and watch the first episode of The Docket, available now. \n\nThe Voting Rights Act of 1965 transformed America, marking the end of the Jim Crow era and effectively banning racial discrimination in elections. We\u2019ll explain how, 60 years later, a redistricting case out of Louisiana called Louisiana v. Callais has the potential to upend the Voting Rights Act and political representation for a generation.\n\nYou\u2019ll continue to find our work here on YouTube, but by supporting us on patreon.com/vox, you get more of the in-depth video storytelling we\u2019re passionate about making. \n\nWe\u2019re using Patreon\u2019s tools to introduce great new benefits to Vox Members and give you even more insights into our journalism and the people who make it. \n\nWhat to expect on Patreon \n\n - Tw",
+        "id": 4091996,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9MuMsxEAMgo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 779,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9MuMsxEAMgo/hqdefault.jpg",
+        "title": "Will the Voting Rights Act survive? (Patreon-exclusive preview)",
+        "vote": 0
+    }
+]

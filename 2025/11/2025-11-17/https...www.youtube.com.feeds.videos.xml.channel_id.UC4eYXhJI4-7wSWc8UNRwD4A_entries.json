@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T11:05:12.437021+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T10:01:28+00:00",
+        "description": "Nikki Birch | November 17, 2025\nBefore Robert \"Sput\" Searight counted in the band, he looked at us and said, \"All right, buckle up!\" On four, Ghost-Note ripped a hit so funky that every face in the room reflexively assumed and remained in stank position. Yep, this Tiny Desk concert reeks like the Mustard n'Onions the band left behind.\n\nFounded by Searight and Nate Werth in 2015 as a drum and percussion duo, Ghost-Note has evolved into a super group, much like Snarky Puppy, the instrumental group of which Searight and Werth are former and current members, respectively.\n\nGhost-Note kicks off with \"JB's Out\" and \"Move with a Purpose,\" funk-soul songs that channel two of their biggest influences, James Brown and Sly & the Family Stone. There's a spirited call and response from the band, punctuated with hits and supported by harmonies. Following Dominique Xavier Taplin's spacey keyboard intro, Mackenzie Green sings the funky R&B love letter \"Synesthesia.\" Searight picks up the tempo on \"Be",
+        "id": 4088824,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xBtTEc7HV6k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xBtTEc7HV6k/hqdefault.jpg",
+        "title": "Ghost-Note: Tiny Desk Concert",
+        "vote": 0
+    }
+]

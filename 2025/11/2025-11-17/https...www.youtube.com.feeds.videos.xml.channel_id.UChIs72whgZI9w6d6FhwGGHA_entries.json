@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T01:23:44.325159+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T00:48:05+00:00",
+        "description": "SUPPORT THE AI DYSTOPIA REPORT SERIES: https://store.gamersnexus.net/ai-dystopia\nMemory prices have skyrocketed over the last several months. RAM price increases are for a number of reasons, including AI server demand chewing through supply, previous oversupply leading to a draw-down in manufacturing (which has now caught-up), and probably also RAM companies being a-holes. We'll explore why RAM prices have gone up, the impact to NAND (Flash Memory, or non-volatile memory), the impending impact to GPU VRAM prices, and how there's nothing any of us can do -- but we can at least collect price data and make decisions on purchasing.\n\nWatch our \"WTF is Going On\" video about the circular AI economy: https://www.youtube.com/watch?v=h3JfOxx6Hh4\n\nLearn about the special backer tiers with bonus videos and digital content: https://store.gamersnexus.net/ai-dystopia\nOr grab our new \"RETRO I/O\" Coaster Packs! https://store.gamersnexus.net/products/gn-drink-retro-io-coaster-pack-4-custom-3d-coasters-",
+        "id": 4086266,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9hLiwNViMak",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9hLiwNViMak/hqdefault.jpg",
+        "title": "RAM: WTF?",
+        "vote": 0
+    }
+]

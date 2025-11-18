@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-17T20:11:07.070393+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-17T19:34:11+00:00",
+        "description": "<p><em>Weighing the tradeoffs between open source and freemium software reveals why free-as-in-freedom tools are almost always the better option.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/11/ten-reasons-and-five-exceptions-to-choose-open-source-over-freemium/\">Ten Reasons (and Five Exceptions) to Choose Open Source Over Freemium</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4093468,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/11/ten-reasons-and-five-exceptions-to-choose-open-source-over-freemium",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ten Reasons (and Five Exceptions) to Choose Open Source Over Freemium",
+        "vote": 0
+    }
+]
