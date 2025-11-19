@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T22:39:06.645857+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T22:19:58+00:00",
+        "description": "The Israeli military says it targeted Hamas members \"operating in a training compound\", which Hamas rejected as \"fabrication and lies\".",
+        "id": 4104278,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c0l73j781y9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4c/live/097590b0-c4c0-11f0-9c9c-e7c124d0f066.jpg",
+        "title": "Lebanon says Israeli strike killed 13 people near Palestinian refugee camp",
+        "vote": 0
+    }
+]

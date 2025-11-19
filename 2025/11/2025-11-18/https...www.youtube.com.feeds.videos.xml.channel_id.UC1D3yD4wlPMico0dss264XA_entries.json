@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NileBlue",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T22:11:34.768179+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T21:50:11+00:00",
+        "description": "Make a website for free with unlimited hosting and support using Odoo by going to https://www.odoo.com/r/ioWb\n\nSo for this one, we're trying to make SuperBeer\u2122 by freeze drying the essence of 20 beers, and using pure alcohol (ethanol) to put it all into the volume of only 1.\n\n\u25a0 Pre-order the NileRed BZ Reaction Kit - https://inqfactory.com/nilered\n\n-------------------------------------------------------------------------------\nMerch - https://nilered.tv/store\n-------------------------------------------------------------------------------\n\nMy main channel NileRed: https://www.youtube.com/c/nilered\n\nJoin the community:\nPatreon - https://www.patreon.com/nilered\nDiscord - https://discord.com/invite/3BT6UHf\nNileRed Newsletter - https://nile.red/home#newsletter\n\nYou can also find me here:\nFacebook - https://m.facebook.com/NileRed2\nInstagram - https://m.instagram.com/nile.red\nTwitter - https://mobile.twitter.com/NileRed2\n\nNile talks about lab safety: https://youtu.be/ftACSEJ6DZA",
+        "id": 4104057,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xQjeGxWyaUY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 850,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1D3yD4wlPMico0dss264XA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xQjeGxWyaUY/hqdefault.jpg",
+        "title": "Making SuperBeer\u2122",
+        "vote": 0
+    }
+]

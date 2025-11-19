@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T15:08:44.674330+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T15:02:05+00:00",
+        "description": "Anthropic co-founder and CEO Dario Amodei, Microsoft Chairman and CEO Satya Nadella, and NVIDIA founder and CEO Jensen Huang discuss the new partnerships between their companies.\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories",
+        "id": 4099868,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bl7vHnOgEg0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bl7vHnOgEg0/hqdefault.jpg",
+        "title": "Anthropic, Microsoft, and NVIDIA Announce Partnership",
+        "vote": 0
+    }
+]

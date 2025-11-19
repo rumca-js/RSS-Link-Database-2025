@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T16:48:56.235864+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T16:14:00+00:00",
+        "description": "Sponsored by NxtGen Cloud Technologies\n\nIndia\u2019s developer community stands at the crossroads of two revolutions: open-source innovation and sovereign AI.\n\nIn this session by NxtGen Cloud Technologies, we explore how M for Coding, India\u2019s first sovereign AI coding autopilot, bridges the gap between open collaboration and digital self-reliance.\n\nBuilt entirely on NxtGen-hosted GPUs and powered by open-source frameworks, M for Coding delivers secure, privacy-preserving AI assistance for developers, enterprises, and government technology teams. It is engineered to enhance productivity at \u20b99/hour, helping coders, DevOps engineers, and researchers accelerate projects while keeping their intellectual property safe within India\u2019s digital borders.\n\nJoin this discussion on how sovereign compute, open standards, and AI-assisted development can reshape India\u2019s software ecosystem empowering developers to build faster, smarter, and freer.",
+        "id": 4101155,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8AKC2d0EtII",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8AKC2d0EtII/hqdefault.jpg",
+        "title": "LF Live Webinar: From Open Source to Open Sovereignty: The Developer\u2019s Path with M",
+        "vote": 0
+    }
+]

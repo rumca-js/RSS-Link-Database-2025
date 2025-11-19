@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mental Outlaw",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T17:36:40.050116+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T15:54:19+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/m_Mr4bw8Pow\" width=\"480\" alt=\"thumbnail\" title=\"Based Developer Makes AirPods Open Source\" /></p>In this video I discuss how a Free Software Developer has created software that allows people to use all the features of airpods that are normally only reserved for Apples hardware on Android and Linux devices.  If this project is successful people will be able to use the best consumer earbuds ever made without being forced to buy an iPhone, iPad, or Macbook.<br /><br />Try out the project here<br />https://github.com/kavishdevar/librepods<br /><br />My merch is available at<br />https://based.win/<br /><br />Subscribe to me on Odysee.com<br />https://odysee.com/@AlphaNerd:8<br /><br />\u20bf\ud83d\udcb0\ud83d\udcb5\ud83d\udcb2Help Support the Channel by Donating Crypto\ud83d\udcb2\ud83d\udcb5\ud83d\udcb0\u20bf<br /><br />Monero<br />45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436<br /><br />Bitcoin<br />bc1qdc32p8035ztyvtm8t97gdcyhc26jg6cte9qc8n<br /><br />Ethereum<br />0xeA4",
+        "id": 4101732,
+        "language": "en",
+        "link": "https://odysee.com/based-developer-makes-airpods-open:22ffc991d3b3c05d8ccf4909fe5b7e0807389ffe",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 513,
+        "source_url": "https://odysee.com/$/rss/@AlphaNerd:8",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/m_Mr4bw8Pow",
+        "title": "Based Developer Makes AirPods Open Source",
+        "vote": 0
+    }
+]

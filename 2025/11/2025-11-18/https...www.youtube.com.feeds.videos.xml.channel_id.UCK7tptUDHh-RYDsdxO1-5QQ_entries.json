@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T18:13:32.495684+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T17:58:15+00:00",
+        "description": "Al Qaeda is sieging the capital of Mali, the West African nation nearly twice the size of Texas. The branch of the terrorist organization called JNIM has been choking off fuel and food to Bamako, sending residents scrambling and causing the U.S. embassy to evacuate. So what does the group want with Mali?\n\nWSJ explains how 24 years after the 9/11 attacks, the Sahel is now the center of global terrorism.\n\nChapters:\n0:00 The new face of al Qaeda\n0:31 Al Qaeda\u2019s influence in Africa\n3:17 How JNIM sieged Bamako\n5:17 What\u2019s next?\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#alQaeda #Mali #WSJ",
+        "id": 4101959,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rPVv0yQSHKA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rPVv0yQSHKA/hqdefault.jpg",
+        "title": "How al Qaeda Stands on the Brink of Toppling This Government | WSJ",
+        "vote": 0
+    }
+]

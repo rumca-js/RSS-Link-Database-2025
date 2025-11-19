@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T15:37:36.368422+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T15:04:49+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/LMoRt-etQio\" width=\"480\" alt=\"thumbnail\" title=\"n8n is changing my Home Server - Secure Setup and MORE!\" /></p>Use the link below with the code TECHHUT to take off an additional 10% on annual plans with Hostinger! https://hostinger.com/techhut<br /><br />n8n helps you to connect any app with an API with any other, and manipulate its data with little or no code. Highly flexible workflows and the option to build custom nodes.<br /><br />Docs: https://docs.n8n.io/hosting/<br />Compose: https://github.com/TechHutTV/homelab/tree/main/automations<br />NetBird: https://bit.ly/netbirdio<br /><br />\ud83c\udfc6 FOLOW TECHHUT<br />X (Twitter): https://bit.ly/twitter-techhut<br />MASTODON: https://bit.ly/mastodon-techhut<br />BlueSky: https://bsky.app/profile/techhut.bsky.social<br />INSTAGRAM: https://bit.ly/personal-insta<br /><br />\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)<br />BUY A COFFEE: https://buymeacoffee.com/techhut<br />YOUTUB",
+        "id": 4100455,
+        "language": "en",
+        "link": "https://odysee.com/n8n-is-changing-my-home-server-secure:3449db3829efa42e46390308d0fec6c55dd7375f",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/LMoRt-etQio",
+        "title": "n8n is changing my Home Server - Secure Setup and MORE!",
+        "vote": 0
+    }
+]

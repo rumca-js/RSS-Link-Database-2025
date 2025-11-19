@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bethesda Softworks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T15:21:34.291189+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T15:06:00+00:00",
+        "description": "The Writhing Wall has fallen, and the Stirk Fellowship marches eastward. It's time to strike at the heart of the Worm Cult and defeat them once and for all!! Discover a new region twisted and warped by fragments of Coldharbour as you explore Eastern Solstice.\n\nSeasons of the Worm Cult Part 2 is now live on PC/Mac and both Xbox and PlayStation consoles. Eastern Solstice unlocks once the Writhing Wall Event has completed for your server.\n\nOfficial Site: https://www.elderscrollsonline.com\nFacebook: http://www.facebook.com/ElderScrollsOnline\nBluesky: https://bsky.app/profile/elderscrollsonline.com\nTwitter: https://twitter.com/TESOnline\nInstagram: https://instagram.com/elderscrollsonline\n\nESRB Rating: MATURE with Blood and Gore, Sexual Themes, Use of Alcohol, and Violence. Online interactions not rated by the ESRB.",
+        "id": 4099994,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l_fIDlZmOso",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 724,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZHe-SP3xC7DdOk4Ri8QBw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l_fIDlZmOso/hqdefault.jpg",
+        "title": "The Elder Scrolls Online - Seasons of the Worm Cult Part 2",
+        "vote": 0
+    }
+]

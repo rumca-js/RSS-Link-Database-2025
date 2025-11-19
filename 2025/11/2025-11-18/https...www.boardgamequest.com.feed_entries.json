@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrea Champagne",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T14:32:52.192757+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T14:05:39+00:00",
+        "description": "<img width=\"640\" height=\"842\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-778x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Periodic: A Game of the Elements\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-778x1024.jpg 778w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-228x300.jpg 228w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-114x150.jpg 114w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-768x1011.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-1166x1536.jpg 1166w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-640x843.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-1280x1686.jpg 1280w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Pe",
+        "id": 4099689,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/periodic-a-game-of-the-elements-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/11/Periodic-778x1024.jpg",
+        "title": "Periodic: A Game of the Elements Review",
+        "vote": 0
+    }
+]

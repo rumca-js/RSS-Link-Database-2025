@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mental Outlaw",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T17:06:33.346674+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T15:54:19+00:00",
+        "description": "In this video I discuss how a Free Software Developer has created software that allows people to use all the features of airpods that are normally only reserved for Apples hardware on Android and Linux devices.  If this project is successful people will be able to use the best consumer earbuds ever made without being forced to buy an iPhone, iPad, or Macbook.\n\nTry out the project here\nhttps://github.com/kavishdevar/librepods\n\nMy merch is available at\nhttps://based.win/\n\nSubscribe to me on Odysee.com\nhttps://odysee.com/@AlphaNerd:8\n\n\u20bf\ud83d\udcb0\ud83d\udcb5\ud83d\udcb2Help Support the Channel by Donating Crypto\ud83d\udcb2\ud83d\udcb5\ud83d\udcb0\u20bf\n\nMonero\n45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436\n\nBitcoin\nbc1qdc32p8035ztyvtm8t97gdcyhc26jg6cte9qc8n\n\nEthereum\n0xeA4DA3F9BAb091Eb86921CA6E41712438f4E5079\n\nLitecoin\nMBfrxLJMuw26hbVi2MjCVDFkkExz8rYvUF",
+        "id": 4101328,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=m_Mr4bw8Pow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 214,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m_Mr4bw8Pow/hqdefault.jpg",
+        "title": "Based Developer Makes AirPods Open Source",
+        "vote": 0
+    }
+]

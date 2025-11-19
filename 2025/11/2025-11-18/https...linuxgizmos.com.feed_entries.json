@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T04:13:38.658248+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T03:21:26+00:00",
+        "description": "Conclusive Engineering has introduced the KSTR-IMX93 on Kickstarter, a Linux-capable SBC integrating Wi-Fi 6, cellular IoT, Bluetooth LE 5.4, Zigbee, Thread, GNSS, Gigabit Ethernet, CAN-FD, and PoE in a compact 110 &#215; 55 mm design. The platform is built around NXP&#8217;s i.MX93 application processor, equipped with two Arm Cortex-A55 cores running up to 1.7GHz and [&#8230;]",
+        "id": 4096120,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/linux-ready-kstr-imx93-sbc-debuts-on-kickstarter-with-wi-fi-6-cellular-iot-and-802-15-4-connectivity",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Linux-Ready KSTR-IMX93 SBC Debuts With Wi-Fi 6, Cellular IoT, and 802.15.4 Connectivity",
+        "vote": 0
+    }
+]

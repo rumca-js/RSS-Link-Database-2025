@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T15:53:28.162098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T15:00:44+00:00",
+        "description": "Recently Valve announced their upcoming Steam Machine, and on paper it looks REALLY exciting\u2026 but it doesn\u2019t release until January 2026. So instead of waiting two years, I decided to build my own Steam Machine using a small form factor gaming PC with a discrete Radeon GPU \u2014 and the results surprised me!\nFor this build I picked up a FORUM MX100G on eBay for under $500. It was missing a few parts (including the PSU), but the compact design, the Ryzen 7 7840HS, and the Radeon RX 6650M made it a perfect candidate for a DIY SteamOS console. And yes \u2014 I installed SteamOS 3.9 using the Steam Deck recovery image\u2026 and EVERYTHING works!\nIn this video I benchmark Cyberpunk 2077, Spider-Man 2, Elden Ring, Borderlands 4, and more to see how close this thing gets to the specs Valve announced for their upcoming Steam Machine: a custom Zen 4 CPU and an RDNA3-based 28CU GPU. Honestly? This little DIY unit might be closer than people think.\nIf Valve can work magic with Proton and their custom drivers l",
+        "id": 4100586,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KhSnD1pPo6w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KhSnD1pPo6w/hqdefault.jpg",
+        "title": "The Steam Machine Isn\u2019t Out Yet\u2026 So I Built My OWN!",
+        "vote": 0
+    }
+]

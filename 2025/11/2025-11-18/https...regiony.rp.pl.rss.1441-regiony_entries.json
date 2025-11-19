@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T09:26:40.746610+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T09:26:39+00:00",
+        "description": "Ju\u017c we wtorek 25 listopada w Zakopanem rozpocznie si\u0119 Forum Samorz\u0105dowe \u2013 dwudniowe spotkanie lider\u00f3w samorz\u0105d\u00f3w, przedstawicieli biznesu, kultury i medi\u00f3w. B\u0119dzie to jedno z najwi\u0119kszych wydarze\u0144 samorz\u0105dowych tej jesieni w Polsce.  Forum stanowi wiod\u0105c\u0105 platform\u0119 dialogu o najwa\u017cniejszych wyzwaniach stoj\u0105cych przed w\u0142adzami wszystkich samorz\u0105d\u00f3w: wspieraniu zr\u00f3wnowa\u017conego rozwoju, gospodarce, ochronie zdrowia, bezpiecze\u0144stwie i wzmacnianiu odporno\u015bci na sytuacje kryzysowe.",
+        "id": 4097587,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art43353891-ponad-900-zgloszen-na-forum-samorzadowe-w-zakopanem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ponad 900 zg\u0142osze\u0144 na Forum Samorz\u0105dowe w Zakopanem",
+        "vote": 0
+    }
+]

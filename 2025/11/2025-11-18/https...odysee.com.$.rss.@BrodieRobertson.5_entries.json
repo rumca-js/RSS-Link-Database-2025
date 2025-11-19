@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T17:41:18.715991+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T16:30:19+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Q-1UdZNZbek\" width=\"480\" alt=\"thumbnail\" title=\"The Truth About Valve's New Steam Machine Announcement\" /></p>The other day Valve announced a sequence of new hardware the Steam Controller, Steam Machine and Steam Frame and people are already complaining about a number of issues that they see with the specs so far.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Steam Hardware: https://store.steampowered.com/sale/hardware<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodier",
+        "id": 4101775,
+        "language": "en",
+        "link": "https://odysee.com/the-truth-about-valve%27s-new-steam:612f57ddabf1e3b9bd81744f1b12f8201cbbc39a",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/Q-1UdZNZbek",
+        "title": "The Truth About Valve's New Steam Machine Announcement",
+        "vote": 0
+    }
+]

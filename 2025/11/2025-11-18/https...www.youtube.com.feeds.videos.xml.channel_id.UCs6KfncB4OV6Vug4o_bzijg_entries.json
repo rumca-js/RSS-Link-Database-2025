@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T16:43:45.246187+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T16:00:33+00:00",
+        "description": "Ricardo Signes, Chief Engineer at Fastmail, explains why Gmail's email experience has become increasingly fragmented, and what it would take to actually fix the decades-old IMAP protocol that powers most of the internet. We dive deep into JMAP (the modern replacement Gmail won't adopt), privacy-by-design vs. encryption theater, and the hidden trade-offs between convenience and security that no one talks about. If you've noticed your email client feeling broken, this interview reveals why.\n\nTechlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources to protect your data and reclaim your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 Fastmail: https://fastmail.com\n\u2022 Fastmail Values Statement: https://fastmail.com/about/values\n\u2022 Cyrus IMAP/JMAP Server (open source): https://www.cyrusimap.org/\n\u2022 JMAP Standard (RFC 8620): https://tools.ietf.org/html/rfc8620\n\u2022 Web Push Standard (RFC 8030): https://tools.ietf.org/html/rfc8030\n\u2022 Signal (for encry",
+        "id": 4101128,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=FByPnomEh5o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FByPnomEh5o/hqdefault.jpg",
+        "title": "Why Email Is Broken (and How Fastmail Is Improving It)",
+        "vote": 0
+    }
+]

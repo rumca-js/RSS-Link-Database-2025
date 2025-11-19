@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "LGR",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T16:57:14.439851+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T16:03:00+00:00",
+        "description": "Checking out the new Analogue 3D console! It's a modern Nintendo 64 recreation in FPGA with upscaled 4K HDMI video out, OG controller support alongside Bluetooth, and a claimed 100% compatibility with all commercial cartridges. I really enjoy the N64 MiSTer core and I wanted to see what this was like, so let's test out this review kit!\n\n\u25cf LGR things elsewhere:\nPatreon https://www.patreon.com/LazyGameReviews\nBsky https://bsky.app/profile/lgr-yt.bsky.social\n\n\u25cf Stuff mentioned:\nhttps://www.youtube.com/watch?v=qx45r-BRHxY\nhttps://www.youtube.com/watch?v=OmKjVpVdHDQ\nhttps://www.analogue.co/3d\nhttps://www.8bitdo.com/64-controller/\nhttps://misteraddons.com/collections/kits/products/mister-bundles\nhttps://multisystem.uk/\n\n\u25cf Background music licensed from Epidemic Sound:\nhttps://www.epidemicsound.com\n\n00:00 brief FPGA context\n01:08 the Analogue 3D!\n01:50 who is Analogue?\n02:32 unboxing\n03:42 design and controller\n04:36 setup and menus\n06:01 gameplay!\n06:54 flash carts, homebrew\n07:38 CRT filte",
+        "id": 4101220,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hgMAl0Rrhq4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 801,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hgMAl0Rrhq4/hqdefault.jpg",
+        "title": "Nintendo 64 Fully Recreated in FPGA! Analogue 3D Review",
+        "vote": 0
+    }
+]

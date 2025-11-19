@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T15:39:07.700985+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T15:22:01+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nImplement the C++ Standard Library: Design, Optimisations and Testing while Implementing Libc++ - Hui Xie - CppCon 2025\n---\n\nThis presentation covers various practical examples in the designs, optimisations and testing in libc++, a standard library implementation. \n \nIn space optimisation section, it presents various examples of using compact type, reusing tail padding bytes, reusing unused bits in existing bytes, in various standard types: std::stop_token , std::expected , std::optional , std::variant , std::ranges library and std::move_only_function . \n \nIn time optimisations section, it presents examples of how we optimise std::atomic\uff1cT\uff1e::wait 's waiting strategy, how we optimised algorithms for segmented iterators, and also how we keep in mind optimisations by leaving the door open for future optimisations. At the same time, compilation time is also important so it also contains examples how unnecessary template instantiations can be avoided. \n \nFinally, t",
+        "id": 4100469,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iw8hqKftP4I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iw8hqKftP4I/hqdefault.jpg",
+        "title": "Implement the C++ Standard Library: Design, Optimisations, Testing while Implementing Libc++",
+        "vote": 0
+    }
+]

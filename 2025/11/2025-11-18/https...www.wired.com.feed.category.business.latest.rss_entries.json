@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Knight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T16:25:28.015324+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T16:00:00+00:00",
+        "description": "Gemini 3 is skilled at reasoning, generating video, and writing code. Amid talk of an AI bubble, Google notes the new model could help increase search revenue too.",
+        "id": 4100774,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/google-launches-gemini-3-ai-bubble-search",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/691b8f3fb01e09535833bfec/master/pass/Google-Gemini-Announcement-Business-2223621634.jpg",
+        "title": "Gemini 3 Is Here\u2014and Google Says It Will Make Search Smarter",
+        "vote": 0
+    }
+]

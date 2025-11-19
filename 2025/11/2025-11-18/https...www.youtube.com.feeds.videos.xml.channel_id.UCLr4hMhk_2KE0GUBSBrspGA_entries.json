@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T18:05:12.826513+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T17:01:10+00:00",
+        "description": "Coraz cz\u0119\u015bciej narzekamy, \u017ce modele AI s\u0105 g\u0142upsze, mniej precyzyjne i zabieraj\u0105 nam czas zamiast dawa\u0107 odpowiedzi. \nDla kontrastu na https://znosne.pl mamy akcesoria i ciuchy stworzone przez ludzi, W\u0141ASNOR\u0118CZNIE.",
+        "id": 4101903,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=ewhrGfBWv6E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ewhrGfBWv6E/hqdefault.jpg",
+        "title": "AI si\u0119 psuje, co dalej?",
+        "vote": 0
+    }
+]

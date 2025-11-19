@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T14:31:39.693560+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T14:30:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>We were fans of Wyze\u2019s original smart deadbolt from 2022\u2014heck we even gave it an Editors\u2019 Choice award\u2014but it arrived with a key drawback: it only supported Bluetooth, not Wi-Fi or any other wireless protocols.\u00a0</p>\n\n\n\n<p>While the first Wyze Lock Bolt\u00a0is inexpensive compared to other smart locks in its class and boasts an easy setup process, its lack of Wi-Fi or other wireless connectivity means it\u00a0can\u2019t\u00a0be controlled remotely without help from the Wyze Video Doorbell. It also suffered from a ho-hum industrial design, and\u00a0there\u2019s\u00a0no keyhole option.\u00a0</p>\n\n\n\n<p>Wyze appears to have\u00a0rectified\u00a0those issues with the\u00a0Wyze Lock Bolt v2, which arrives with built-in Wi-Fi, a snazzier tempered-glass design, and\u00a0a mechanical lock with a key.\u00a0</p>\n\n\n\n<p>On sale now for $79.98, just a $10 premium <a href=\"https://www.pcworld.com/article/701497/wyze-lock-bolt-review.htm",
+        "id": 4099672,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2974950/wyzes-revamped-lock-bolt-gets-wi-fi-tempered-glass-redesign.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wyze\u2019s revamped Lock Bolt gets Wi-Fi, tempered glass redesign",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew R. Chow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T13:17:13.471277+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T12:30:00+00:00",
+        "description": "AI influencers, such as Granny Smalls, are on the rise. But whether brands will pay their creators for advertisements is another story.",
+        "id": 4098964,
+        "language": "en-UK",
+        "link": "https://time.com/7329699/ai-influencers-tiktok-granny-spills",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/10/openart_tcqeiqk5_upscaled.jpg",
+        "title": "This AI Grandma Is Going Viral. Is She the Future of Influencing?",
+        "vote": 0
+    }
+]

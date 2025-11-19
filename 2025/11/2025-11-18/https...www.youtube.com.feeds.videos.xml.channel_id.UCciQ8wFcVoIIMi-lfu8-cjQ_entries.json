@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T23:16:56.828799+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T22:00:22+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about new observations from the ancient universe - the universe and even galaxies seem to be cooling down after all\nLinks:\nhttps://eceb.astro.uni-bonn.de/public/coordinated_release/hill_etal_q1b.pdf\nhttps://esdcdoi.esac.esa.int/doi/html/data/astronomy/euclid/eqrq1.html\nhttps://science.ubc.ca/news/2025-11/astronomers-release-best-measurements-galaxy-temperatures-star-formation-yet\nhttps://en.wikipedia.org/wiki/Chronology_of_the_universe\nPrevious videos:\nhttps://www.youtube.com/watch?v=88GhcA1EfrA\nhttps://www.youtube.com/watch?v=t00pfJnEt48\n\n0:00 Universe is entering it",
+        "id": 4104465,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ISqUYGpchPI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ISqUYGpchPI/hqdefault.jpg",
+        "title": "Euclid Telescope Data Suggests Universe Is Cooling Down and Dying",
+        "vote": 0
+    }
+]

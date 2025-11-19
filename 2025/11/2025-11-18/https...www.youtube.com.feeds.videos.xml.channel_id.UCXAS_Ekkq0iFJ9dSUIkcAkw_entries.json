@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Efficient Engineer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T15:10:09.466817+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T15:00:22+00:00",
+        "description": "Go to https://brilliant.org/efficientengineer/ to try out the Brilliant course on Calculus for some hands-on learning. You can use this link to get 20% of an annual membership!\n\n--\n\nThis video explores one of the most powerful tools in engineering - calculus. By looking at how quantities change and how those changes accumulate, calculus helps describe and predict physical behaviour. In this video we work through the core ideas of calculus, from differentiation and integration through to differential equations and numerical methods, but with an engineering focus, linking the mathematics back to real-world physical behaviours.",
+        "id": 4099872,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=C9oWXIs2g3Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 808,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXAS_Ekkq0iFJ9dSUIkcAkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C9oWXIs2g3Y/hqdefault.jpg",
+        "title": "Understanding Calculus (for engineers)",
+        "vote": 0
+    }
+]

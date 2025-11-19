@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T15:10:58.854148+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T14:01:39+00:00",
+        "description": "On this edition of HEY DT:\n0:00 Intro\n0:20 It's nice to see someone that actually shows when things dont go according to the plans sometimes. Have been holding off on modernizing my sources list for some weeks now...\n1:51 I feel the answer is one of those Yes AND No.  I think choice is great...it becomes a deficit when developers claim this as to why they won't make apps for Linux.  The truth, as in most cases, is this is NOT really a valid excuse.  Devs could decide to package their apps in a format like Flatpak...\n4:36 A Hey DT podcast would be great, except ffmpeg already makes podcasts for me.\n6:34 Since a lot of your viewers are people who sit in front of computers alot, it should be a good idea to make a video about all of diseases that come with such a life style...\n9:34 Feature request. It would be awesome if you made a video series on how to become a YouTuber using only Linux software. Preferably FOSS only...\n12:49 What are you using now that Arco is no more? Did you move to ",
+        "id": 4099884,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vH-iCfqfLU8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vH-iCfqfLU8/hqdefault.jpg",
+        "title": "Hey, DT! It's Nice To See You Screw Things Up...",
+        "vote": 0
+    }
+]

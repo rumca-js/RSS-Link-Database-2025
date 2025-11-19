@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Undecided with Matt Ferrell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-18T13:58:00.906654+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-18T13:16:48+00:00",
+        "description": "AI\u2019s Secret Impact on Your Power Bill. Head over to https://eightsleep.com/mattferrell and use the code MATT to get $700 off your Pod 5 Ultra through December 1st. Electricity bills have been climbing across the US, but the AI boom is making it worse. A lot worse. New data centers are popping up everywhere to handle ChatGPT, Gemini, and countless other AI tools. And here's the kicker: you're helping pay for them whether you use AI or not. In Columbus, Ohio, residential customers saw their bills jump by $27 a month this summer. Philadelphia went up $17. Washington D.C., $21. You may not be using more power, but utilities are building massive infrastructure for data centers and passing those costs onto you. How much is this AI blitz really costing us? And what can we actually do about it? \n\nWatch Is It Time To Start Cooking with Magnets? https://youtu.be/X440BHdy35g?list=PLnTSM-ORSgi7oiN-erZtwugd0muTdQXnU\n\nVideo script and citations:\nhttps://undecidedmf.com/ais-secret-impact-on-your-pow",
+        "id": 4099341,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=n8m1BCzvGCA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 453,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n8m1BCzvGCA/hqdefault.jpg",
+        "title": "AI\u2019s Secret Impact on Your Power Bill",
+        "vote": 0
+    }
+]
