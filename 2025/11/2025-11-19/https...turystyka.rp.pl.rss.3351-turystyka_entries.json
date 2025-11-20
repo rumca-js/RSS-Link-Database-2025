@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T13:59:46.808282+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T13:59:45+00:00",
+        "description": "\u2013 Turystyka to bran\u017ca spotka\u0144. A targi to miejsce do tych spotka\u0144 najlepsze. W\u0142a\u015bnie podczas rozm\u00f3w na targach konfrontujemy nasze za\u0142o\u017cenia z punktem widzenia biur podr\u00f3\u017cy, mamy okazj\u0119 \u015bledzi\u0107 trendy, bezpo\u015brednio nawi\u0105zywa\u0107 kontakty \u2013 m\u00f3wi prezes Polskich Linii Lotniczych LOT Micha\u0142 Fijo\u0142.",
+        "id": 4109298,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43361921-prezes-lot-u-michal-fijol-na-targach-ittf-pokazemy-nasza-goscinnosc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prezes LOT-u Micha\u0142 Fijo\u0142: Na targach ITTF poka\u017cemy nasz\u0105 go\u015bcinno\u015b\u0107",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nostalgia Nerd",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T17:35:11.054704+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T17:01:22+00:00",
+        "description": "This is a Quantel Paintbox Workstation; one of the most advanced TV graphics machines of the 80s and 90s; and the one I saw in Cambridge originally cost over $250,000. Before modern software existed, these systems created chrome logos; spinning cubes; transitions; and almost every iconic TV graphic from the era. Adjusted for inflation, some of them would cost well over $1 million today.\n\n#RetroTech #Quantel #BroadcastHistory #TVGraphics #VintageComputers #NostalgiaNerd",
+        "id": 4111225,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/lXAqvO3zEwM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 819,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7qPftDWPw9XuExpSgfkmJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lXAqvO3zEwM/hqdefault.jpg",
+        "title": "No one Remembers This Insanely Expensive Machine",
+        "vote": 0
+    }
+]

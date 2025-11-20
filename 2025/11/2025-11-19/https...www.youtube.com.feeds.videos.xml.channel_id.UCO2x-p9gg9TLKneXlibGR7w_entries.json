@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T22:43:30.136828+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T21:53:24+00:00",
+        "description": "Sorry, these rumors of visionOS-powered Apple glasses are bupkis\u2014they make literally no sense.\nUse code SNAZZYLAB to get a 20% OFF discount directly on Plaud products in the links below. This is the biggest discount of the year\u2014save on your BFCM shopping now! @PlaudAI\nPlaud Website: https://bit.ly/3GEiIvr\nPlaud Amazon: https://amzn.to/4i75PIB\nMeta Rayban (Gen 2) on Amazon - https://amzn.to/47PzO4j\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nApple Vision Pro represents the most impressive failure in consumer technology\u2014a $3,500 face computer that solves zero problems while the M5 refresh doubles down on the wrong solutions with faster chips, heavier tungsten straps, and identical displays. Meanwhile, Apple reportedly cancelled Vision Air and Vision Pro 2 development to pivot tow",
+        "id": 4113935,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=7jyqbRdCHiU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7jyqbRdCHiU/hqdefault.jpg",
+        "title": "Apple's Secret AR Glasses Plan Is Doomed",
+        "vote": 0
+    }
+]

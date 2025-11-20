@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/NXGZ",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T12:05:45.234536+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T01:04:34+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1p0tqxd/resident_evil_code_veronica_is_now_finally_able/\"> <img src=\"https://external-preview.redd.it/BXldJQstbJjFn0bdhT2WqeLwPk1fgc8mNg7Uz10QVNo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a1a51cfd67d71e4f9079b9b4efa03ae646b35040\" alt=\"Resident Evil: Code Veronica is now finally able to render textures from the decompiled PS2 source!\" title=\"Resident Evil: Code Veronica is now finally able to render textures from the decompiled PS2 source!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NXGZ\"> /u/NXGZ </a> <br/> <span><a href=\"https://www.youtube.com/watch?v=weYpNTszaDw\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1p0tqxd/resident_evil_code_veronica_is_now_finally_able/\">[comments]</a></span> </td></tr></table>",
+        "id": 4108352,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1p0tqxd/resident_evil_code_veronica_is_now_finally_able",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/BXldJQstbJjFn0bdhT2WqeLwPk1fgc8mNg7Uz10QVNo.jpeg?width=320&crop=smart&auto=webp&s=a1a51cfd67d71e4f9079b9b4efa03ae646b35040",
+        "title": "Resident Evil: Code Veronica is now finally able to render textures from the decompiled PS2 source!",
+        "vote": 0
+    }
+]

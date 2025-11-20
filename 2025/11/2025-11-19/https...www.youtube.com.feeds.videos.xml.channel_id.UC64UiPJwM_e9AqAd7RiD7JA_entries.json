@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T20:10:16.747562+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T19:54:57+00:00",
+        "description": "A speeding bullet ripping through an apple, a split second before the fruit disintegrates. A drop of milk splashing off a red plate, forming a perfect miniature coronet. An atomic bomb frozen just after detonation, the fireball like a giant, surreal jellyfish. The movement of a golfer captured at split-second intervals, revealing the practiced elegance of his stroke. You have probably seen these iconic images dozens of times, reproduced on postcards, in coffee table books and science textbooks, and even on art gallery walls. They are perhaps the best-known works of Doctor Harold Edgerton, an American inventor who pioneered ultra-high-speed photography and helped uncover the secret world hidden in the moments too brief for the eye to see. But Edgerton\u2019s work went far beyond just making pretty pictures, his many inventions helping to revolutionize fields as diverse as manufacturing, biology, and ocean exploration. This is the forgotten and incredible story of \u2018Doc\u2019 Edgerton - AKA \u201cPapa ",
+        "id": 4112818,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F35ZrJ1UnpQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F35ZrJ1UnpQ/hqdefault.jpg",
+        "title": "Incredible Engineering- The Man Who Froze Time",
+        "vote": 0
+    }
+]

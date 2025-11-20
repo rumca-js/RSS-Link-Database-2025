@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T17:15:37.566992+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T16:00:04+00:00",
+        "description": "Increase your problem solving skills with Brilliant! Start learning science and maths for free at https://brilliant.org/sabine/ and get 20% off a premium subscription, which includes daily unlimited access!\n\nOver a century ago, Einstein wrote his theories of special relativity and general relativity. Within those theories, he predicted that, as an object moves faster, it slightly contracts in length. However, 50 years later Penrose and Terrell predicted that what one would see is instead that the object is rotated. In a recent experiment, physicists proved that this Penrose-Terrell effect is actually real. Let\u2019s take a look.\n\nPaper: https://www.nature.com/articles/s42005-025-02003-6\n\nCorrection to what I say: The object (frame) they used is obviously not a cube (as you can see in the photo), it has dimensions of 1\u2009\u00d7\u20091\u2009\u00d7\u20090.6 m.\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udcda Buy my book \u279c https://amzn.to/3HSAWJW\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcrip",
+        "id": 4111117,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2IwZB9PdJVw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2IwZB9PdJVw/hqdefault.jpg",
+        "title": "It Took Physicists 50 Years To Prove Einstein Right About This",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rick Steves' Europe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T21:57:42.655531+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T20:54:27+00:00",
+        "description": "Get a 30-second glimpse of Rick Steves\u2019 newest episode \u2014 premiering fall 2025 across the US on public television, and streaming (free!) at https://www.ricksteves.com/watch-read-listen/video/tv-show\n\nIstanbul's rich heritage spans the centuries from Christian Byzantium to Muslim Ottoman rule to today's thriving city. We start our look back at the Roman-tinged Hippodrome, then indulge in the ancient ritual of the Turkish bath. We take in the Blue Mosque and the grand Hagia Sophia, taste Turkish delight at the venerable Spice Market, and explore Topkap\u0131 Palace and its harem room deep within.\n\nSubscribe for more travel previews and full episodes: https://www.youtube.com/user/RickSteves\n#ricksteveseurope #rickstevesistanbul #istanbul",
+        "id": 4113636,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1251UjaVa6E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 897,
+        "source_url": "https://youtube.com/channel/UCchgIh8Tc4sTmBfnMQ5pDdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1251UjaVa6E/hqdefault.jpg",
+        "title": "Istanbul: Capital of Emperors and Sultans Preview",
+        "vote": 0
+    }
+]

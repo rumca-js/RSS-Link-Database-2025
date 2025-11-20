@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T15:56:36.649403+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T15:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCould C++ Developers Handle an ABI Break Today? - Luis Caro Campos - CppCon 2025\n---\n\nThe C++ Evolution Working Group recently reaffirmed its commitment to ABI stability, prioritizing link compatibility with C and older C++. The C++11 libstdc++ ABI updates introduced in gcc 5.1, although not strictly \u201cbreaking\u201d, are still in the collective memory of C++ developers and this experience shows us how sensitive the ecosystem is to ABI updates. \n \nThis talk challenges the assumption that a future ABI break would be equally problematic, as the landscape has evolved significantly in the last decade. \n \nOn the one hand, the C++ standard has evolved in such a way that even if the standards committee and compiler vendors go through great lengths to avoid breaking the ABI of standard library implementations, library authors are not as cautious - so in practice, the ability to link objects built with different C++ standard levels does not hold true for a lot of cases. \n \nO",
+        "id": 4110382,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VbSKnvldtbs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VbSKnvldtbs/hqdefault.jpg",
+        "title": "Could C++ Developers Handle an ABI Break Today? - Luis Caro Campos - CppCon 2025",
+        "vote": 0
+    }
+]

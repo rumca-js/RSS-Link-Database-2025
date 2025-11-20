@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T14:33:53.556549+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T13:47:16+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nCzy mamy do czynienia z najlepszym serialem w historii? Tak zosta\u0142 nazwany nowy serial od tw\u00f3rcy wy\u015bmienitego Breaking Bad pod tytu\u0142em Jedyna. Czy s\u0142usznie? Jedyna to zadziwiaj\u0105ca produkcja, kt\u00f3ra jest wprost wype\u0142niona tajemnic\u0105 i absolutnie niedorzecznymi wydarzeniami. Je\u015bli podoba\u0142o Wam si\u0119 Rozdzielenie, to tutaj poczujecie si\u0119 jak w domu. Zapraszam na pierwsze wra\u017cenia!",
+        "id": 4109449,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=9Isu9DoinjM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9Isu9DoinjM/hqdefault.jpg",
+        "title": "Najlepszy serial w historii?",
+        "vote": 0
+    }
+]

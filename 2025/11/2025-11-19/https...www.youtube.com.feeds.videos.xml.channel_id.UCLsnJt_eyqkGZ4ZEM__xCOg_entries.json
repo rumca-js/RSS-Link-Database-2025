@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vlog Casha",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T15:34:54.634291+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T15:16:26+00:00",
+        "description": "\ud83d\uddfa\ufe0f Japonia #02 - Tyle si\u0119 dzia\u0142o, \u017ce a\u017c ci\u0119\u017cko to opisa\u0107 :) Odcinek motoryzacyjno-kulturowo-kulinarny.\n\u2757 Zosta\u0144 Patronem kana\u0142u! https://patronite.pl/vlogcasha\n\nGobla: https://www.instagram.com/gobla__/\nArtur: @arczi_testuje \nTomek: https://www.instagram.com/tomchan_eats/\nMicha\u0142: https://www.instagram.com/misiu.jdmx/\n\nMiniaturka: https://www.instagram.com/krupix/\n\n#JAPONIA #DRIFT",
+        "id": 4110036,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=CJo-Ed_cXbw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 382,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLsnJt_eyqkGZ4ZEM__xCOg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CJo-Ed_cXbw/hqdefault.jpg",
+        "title": "TOKIO DRIFT W PRAWDZIWYM \u017bYCIU",
+        "vote": 0
+    }
+]

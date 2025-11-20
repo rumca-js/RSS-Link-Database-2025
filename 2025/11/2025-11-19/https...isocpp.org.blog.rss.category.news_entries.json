@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T22:58:44.642786+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T21:49:33+00:00",
+        "description": "<p>\n\t<img alt=\"Capture-decran-le-2025-10-05-a-17.34.45-825x510.png\" src=\"https://isocpp.org/files/img/Capture-decran-le-2025-10-05-a-17.34.45-825x510.png\" style=\"width: 200px; margin: 10px; float: right; height: 124px;\" />Modern C++ offers elegant abstractions like std::ranges that promise cleaner, more expressive code without sacrificing speed. Yet, as with many abstractions, real-world performance can tell a more nuanced story&mdash;one that every engineer should verify through careful benchmarking.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2025/10/05/stdranges-may-not-deliver-the-performance-that-you-expect/\">std::ranges may not deliver the performance that you expect</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tGood engineers seek software code that is &lsquo;simple&rsquo; in the sense that we can read and understand it quickly. But they they also look for highly performant code.</p>\n\t<p>\n\t\tFor the last 20 years, ",
+        "id": 4114069,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/11/stdranges-may-not-deliver-the-performance-that-you-expect-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/Capture-decran-le-2025-10-05-a-17.34.45-825x510.png",
+        "title": "std::ranges may not deliver the performance that you expect -- Daniel Lemire",
+        "vote": 0
+    }
+]

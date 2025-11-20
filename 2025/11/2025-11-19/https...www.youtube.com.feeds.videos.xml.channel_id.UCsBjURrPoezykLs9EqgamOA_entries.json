@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T18:52:52.728007+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T18:14:26+00:00",
+        "description": "Break prod less with Sentry\u2019s AI Code Review - https://sentry.io/fireship\n\nThis week, it was Cloudflare's turn to take down your favourite domain.  In today's video, we'll try to find out why the internet keeps falling apart...\n\n#programming #coding #cloudflare \n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n- https://blog.cloudflare.com/18-november-2025-outage/\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- Cloudflare outage explained\n- Which sites were affected\n- Why is the internet falling apart?",
+        "id": 4112072,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tF_4baiIUiQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tF_4baiIUiQ/hqdefault.jpg",
+        "title": "The entire internet just crashed... again",
+        "vote": 0
+    }
+]

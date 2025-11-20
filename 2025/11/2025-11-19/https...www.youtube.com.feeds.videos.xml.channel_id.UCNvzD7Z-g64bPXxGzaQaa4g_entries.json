@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T16:16:52.535500+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T16:06:04+00:00",
+        "description": "We're a small team, so sometimes we miss games in our Before You Buy and Top 10 videos. Here are some recent games we regret missing the boat on covering in videos.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:46 JDM: Japanese Drift Master\n3:07 Jurassic world evolution 3\n5:20 DELTARUNE Chapter 3 and 4\n7:28 Dinkum\n8:48 Mycopunk\n10:33 R.E.P.O.\n13:27 Grounded 2\n15:51 PEAK\n18:45 Digimon Story: Time Stranger\n21:37 Blue Prince\n24:15 Bonus",
+        "id": 4110474,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=DvbhXTeXBG4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DvbhXTeXBG4/hqdefault.jpg",
+        "title": "10 Recent Games We REGRET We DIDN'T COVER",
+        "vote": 0
+    }
+]

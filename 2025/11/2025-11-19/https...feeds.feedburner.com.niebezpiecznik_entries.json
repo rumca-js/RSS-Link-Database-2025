@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T14:47:48.229484+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T12:58:30+00:00",
+        "description": "<p>Je\u015bli zamawiali\u015bcie kiedykolwiek jedzenie online w serwisie <span class=\"code\">NaWynos.elblag.pl</span> to niestety mamy dla Was smutn\u0105\u00a0informacj\u0119. Mo\u017cna by\u0142o pobra\u0107 dane wszystkich os\u00f3b, kt\u00f3re od 2011 roku korzysta\u0142y z us\u0142ug tego serwisu, a zdaniem administratora portalu, to nie jest du\u017cy problem i nie s\u0105 to dane w \u017caden spos\u00f3b wra\u017cliwe.<span id=\"more-26738\"></span></p>\n<h3>Co i jak wyciek\u0142o?</h3>\n<p>O sytuacji poinformowa\u0142 nas Hubert z agencji <a href=\"https://ztl.agency/\">ztl.agency</a>, kt\u00f3ry szuka\u0142 dla siebie jakiej\u015b opcji zam\u00f3wienia jedzenia w Elbl\u0105gu. I znalaz\u0142 serwis NaWynos.elblag.pl, ale maj\u0105c specyficzne zawodowe przyzwyczajenia, postanowi\u0142 przed z\u0142o\u017ceniem zam\u00f3wienia &#8220;zajrze\u0107 w konsol\u0119&#8221;. Wkr\u00f3tce ustali\u0142, \u017ce ten serwis ma endpoint, pod kt\u00f3ry mo\u017cna, bez zalogowania, wys\u0142a\u0107 &#8230;numer zam\u00f3wienia i w odpowiedzi otrzyma\u0107 informacje na temat tego zam\u00f3wienia. </p>\n<p>Sprawdzili\u015bmy. Ustalenia Hieronima si\u0119 potwierdzi\u0142y.</p>\n<p><a href=\"https://niebezpiecznik.pl/wp-",
+        "id": 4109690,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/11/nawynos5-150x150.png",
+        "title": "Wyciek\u0142y dane os\u00f3b zamawiaj\u0105cych jedzenie przez internet",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T03:52:24.298304+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T03:00:28+00:00",
+        "description": "US states including Wisconsin (AB105/SB130) and Michigan are pushing to ban VPNs as part of age verification laws that compromise digital privacy for everyone. This video explains why these bills are technically impossible to implement, threaten journalists and abuse survivors who rely on VPNs, and mirror censorship tactics.\n\nTechlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources to protect your data and reclaim your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 EFF Coverage: https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing\n\u2022 Wisconsin Reps: https://maps.legis.wisconsin.gov/\n\u2022 AB105: https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/AB105\n\u2022 SB130: https://docs.legis.wisconsin.gov/2025/proposals/sb130\n\u2022 Proton VPN Kickback Link: https://go.getproton.me/SH1Ip\n\u2022 Proton VPN Link: https://protonvpn.com/\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 https://youtu.be/QiR7aQs3JTU\n\u2022 https://youtu.be/wRv",
+        "id": 4105865,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cuLdd07P1II",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cuLdd07P1II/hqdefault.jpg",
+        "title": "Why US States Want to Ban Your VPN (And Why It Won't Work)",
+        "vote": 0
+    }
+]

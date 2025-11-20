@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt von Hippel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T16:04:10.840908+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T15:35:42+00:00",
+        "description": "Encouraged by successes in understanding black holes, theoretical physicists are applying what they\u2019ve learned to whole universes. What they\u2019re finding has them questioning fundamental assumptions about how physics ought to be done.            <p>The post <a href=\"https://www.quantamagazine.org/cosmic-paradox-reveals-the-awful-consequence-of-an-observer-free-universe-20251119/\" target=\"_blank\">Cosmic Paradox Reveals the Awful Consequence of an Observer-Free Universe</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 4110425,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/cosmic-paradox-reveals-the-awful-consequence-of-an-observer-free-universe-20251119",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/11/OneStateUniverse-crKristinaArmitage-Default.webp",
+        "title": "Cosmic Paradox Reveals the Awful Consequence of an Observer-Free Universe",
+        "vote": 0
+    }
+]

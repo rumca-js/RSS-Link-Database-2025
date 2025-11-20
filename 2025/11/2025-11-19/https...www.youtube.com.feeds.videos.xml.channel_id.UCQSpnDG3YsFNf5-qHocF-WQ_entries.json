@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T16:10:35.884558+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T15:36:37+00:00",
+        "description": "If you see Test Mode enabled, it's actually REALLY BAD...\n\nWindows \"Test Mode\" is a mode that most people should never enable, and it's not something you have to worry about accidentally enabling. But if you do ever see the watermark in Windows saying it's on, that could be a very bad sign. In this video I go over what Test Mode is legitiamtely used for as well as how to watch out for ways it might be used nefariously so you can protect yourself.\n\nTime Stamps:\n0:00 - Intro\n0:21 - A Quick Clarification\n0:41 - How It Gets Enabled\n1:33 - What Actually is Test Mode?\n4:21 - Why Is It Bad?\n7:00 - Disabling It\n7:35 - Something I Noticed...",
+        "id": 4110458,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AXzM-4tagGE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AXzM-4tagGE/hqdefault.jpg",
+        "title": "What Is Windows \"Test Mode\"?",
+        "vote": 0
+    }
+]

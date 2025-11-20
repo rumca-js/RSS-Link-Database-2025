@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-19T19:11:48.904564+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-19T18:45:54+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nAMD's FSR Redstone is a suite of machine learning-based features designed for the future of PC graphics, based heavily on AI features. Ray Regeneration is one of those things, an ML-based denoiser that has made its debut in Call of Duty: Black Ops 7... but only in zombies and multiplayer modes. Oh, and the benchmark sequence. Alex has tested it and explains all to Rich. Does it compete with DLSS Ray Reconstruction? Well... it's complicated.\n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00:00 Introduction\n00:00:42 FSR Redstone's strange debut\n00:04:37 AMD Ray Regeneration is fundamentally different than NV Ray Reconstruction\n00:08:58 Ray Regeneration's WIP look\n00:11:14 Quality discussion\n00:13:24 Performance\n00:15:",
+        "id": 4112285,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RuASMLRGFus",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RuASMLRGFus/hqdefault.jpg",
+        "title": "AMD FSR Redstone Ray Regeneration Tested vs DLSS Ray Reconstruction - Not Quite What We Expected",
+        "vote": 0
+    }
+]
