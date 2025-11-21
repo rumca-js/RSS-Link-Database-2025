@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T16:48:56.211731+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T15:21:04+00:00",
+        "description": "<p>JetBrains wants to solve the disconnect between developers having access to AI coding tools and knowing how to use them effectively. Generative models are now commonplace, but integrating autonomous agents into established workflows is a far messier reality. JetBrains, partnering with Nebius, is attempting to close this gap with a new educational push designed to [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/jetbrains-developers-how-to-use-ai-coding-tools-effectively/\">JetBrains teaches developers how to use AI coding tools effectively</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4120699,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/jetbrains-developers-how-to-use-ai-coding-tools-effectively",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "JetBrains teaches developers how to use AI coding tools effectively",
+        "vote": 0
+    }
+]

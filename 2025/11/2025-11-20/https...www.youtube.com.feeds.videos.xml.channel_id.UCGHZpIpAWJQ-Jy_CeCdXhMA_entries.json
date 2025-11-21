@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cool Worlds",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T17:34:31.323360+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T17:00:21+00:00",
+        "description": "Use code coolworlds at https://incogni.com/coolworlds to get an exclusive 60% off an annual Incogni plan.\n\nThe day has finally come! Today we share our results using JWST to look for exomoon around Kepler-167e... buckle in...\n\nWritten & presented by David Kipping\n\n\u2192 Support our research: https://www.coolworldslab.com/support\n\u2192 Get merch: https://crowdmade.com/collections/cool-worlds\n\u2192 Check out our podcast: www.youtube.com/@CoolWorldsPodcast\n\nTHANK-YOU to D. Smith, C. Bottaccini, D. Daughaday, S. Brownlee, E. West, T. Zajonc, A. De Vaal, M. Elliott, B. Daniluk, S. Vystoropskyi, S. Lee, Z. Danielson, C. Fitzgerald, C. Souter, M. Gillette, J. Rockett, M. Sanford, T. Donkin, A. Schoen, K. Dabrowski, J. Armstrong, B. Smith, J. Bergman, C. Macdonald, M. Hedlund, N. Corwin, K. Howard, L. Deacon, G. Metts, R. Provost, G. Fullwood, N. De Haan, R. Williams, E. Garland, R. Lovely, D. Compos, F. Demopoulos, T. Edris, M. O'Brien, D. Lee, M. Czirr, I. Williams, B. Reese, A. Nimmerjahn, C. Seay, D.",
+        "id": 4121110,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QCKrUZeiTJo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 834,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpAWJQ-Jy_CeCdXhMA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QCKrUZeiTJo/hqdefault.jpg",
+        "title": "JWST Searched for Exomoons - Here's What We Found",
+        "vote": 0
+    }
+]

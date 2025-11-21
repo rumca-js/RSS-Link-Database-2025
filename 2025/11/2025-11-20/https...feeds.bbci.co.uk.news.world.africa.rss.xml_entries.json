@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T12:47:27.027046+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T12:42:07+00:00",
+        "description": "Nnamdi Kanu is found guilty of inciting violence as part of his campaign for a separate state in south-east Nigeria.",
+        "id": 4118413,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cj3z38e6v45o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5e4/live/31dbe450-c5f1-11f0-9f1e-75cdd6519717.jpg",
+        "title": "Nigerian separatist leader convicted on terrorism charges",
+        "vote": 0
+    }
+]

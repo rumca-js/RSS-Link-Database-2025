@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Technology Connections",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T17:17:27.979125+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T17:02:29+00:00",
+        "description": "Cool tapes.\n\nOther stuff:\nTechnology Connections on Bluesky:\nhttps://bsky.app/profile/techconnectify.bsky.social\n\nTechnology Connections on Mastodon:\nhttps://mas.to/@TechConnectify\n\nHave you ever noticed that I've never done that whole influencer thing? That's all thanks to people like you! Viewer support through Patreon keeps this channel independent and possible. If you'd like to join the amazing folks who fund my work, check out the link below. Thank you!\nhttps://www.patreon.com/technologyconnections",
+        "id": 4120985,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8I4Jc-WLsrs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 328,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8I4Jc-WLsrs/hqdefault.jpg",
+        "title": "Wanna play a cassette in an 8-track player? This adapter made it possible",
+        "vote": 0
+    }
+]

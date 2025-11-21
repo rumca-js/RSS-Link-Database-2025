@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Wendover Productions",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T18:31:18.721614+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T17:31:59+00:00",
+        "description": "Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/wendover\nWatch the Logistics of X: https://nebula.tv/thelogisticsofx\n\nYoutube: http://www.YouTube.com/WendoverProductions\nInstagram: http://Instagram.com/sam.from.wendover\nTwitter: http://www.Twitter.com/WendoverPro\nSponsorship Enquiries: wendover@standard.tv\nOther emails: sam@wendover.productions\nReddit: http://Reddit.com/r/WendoverProductions\n\nWriting by Sam Denby, Tristan Purdy, and Christine Benedetti\nEditing by Alexander Williard\nAnimation by Sara Stoltman, Gabriel Ferreras, Austin Glass, and Kate Ermolenkko\nSound by Manni Simon and Dony Bullen\nThumbnail by Simon Buckmaster\n\nReferences\n[1] https://projectplay.org/state-of-play-2024-participation-trends?utm_\n[2] https://footballplayershealth.harvard.edu/wp-content/uploads/2017/05/03_Exec_Summary.pdf \n[3] https://journals.sagepub.com/doi/10.1177/0363546511435626?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed\n[4] https://pm",
+        "id": 4121626,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EBChGfYdkh0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 390,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EBChGfYdkh0/hqdefault.jpg",
+        "title": "The NFL's Concussion Problem",
+        "vote": 0
+    }
+]

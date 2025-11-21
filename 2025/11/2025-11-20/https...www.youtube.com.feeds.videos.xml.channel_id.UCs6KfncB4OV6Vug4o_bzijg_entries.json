@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T10:53:44.949418+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T08:21:56+00:00",
+        "description": "Episode 245: This week's Surveillance Report covers WhatsApp's massive phone number enumeration flaw that exposed 3.5 billion users' data through poor rate limiting - potentially the largest data exposure in history. I also examine Google's new Android sideloading restrictions threatening open app distribution, the EU's concerning Digital Omnibus proposal that could significantly weaken GDPR protections, and disturbing attempts in Wisconsin and Michigan to ban VPN usage under the guise of age verification.\n\n\ud83d\udd0e EasyOptOuts is the easy, affordable, and effective way to automatically remove your data from people search sites: https://easyoptouts.com. Thanks to the EasyOptOuts team for sponsoring Surveillance Report!\n\nTechlore empowers individuals with practical digital privacy knowledge, security tools, and advocacy resources to protect your data and reclaim your digital identity.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 https://sr.url.lol/sources (Will change soon!)\n\n\u23f1\ufe0f TIMESTAMPS:\n00:00 Welcome to Surv",
+        "id": 4117208,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aUKIeeCskSU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aUKIeeCskSU/hqdefault.jpg",
+        "title": "WhatsApp Leaked 3.5 BILLION Numbers",
+        "vote": 0
+    }
+]

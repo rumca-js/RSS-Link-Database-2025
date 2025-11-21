@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T13:27:54.011454+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T12:00:05+00:00",
+        "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbvCi\n\nLearn more about AI Agents here \u2192 https://ibm.biz/BdbvCj\n\nAI agents are transforming how intelligent systems work \ud83e\udd16. Deanna Berger explains how Agentic AI, workflow automation, and AI infrastructure enable smarter, autonomous solutions. See how connected agents drive innovation and real\u2011world impact.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbvCZ\n\n#ai #agenticai #aiagents #automation",
+        "id": 4118607,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2j26a5dmCnI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2j26a5dmCnI/hqdefault.jpg",
+        "title": "The Power of AI Agents and Agentic AI Explained",
+        "vote": 0
+    }
+]

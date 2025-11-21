@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T22:22:25.788522+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T22:00:33+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about the Fermi paradox and why we may be alone\nLinks:\nhttps://www.science.org/doi/10.1126/sciadv.ads5698\nhttps://sseh.uchicago.edu/doc/Carter_Phil_Trans_1983.pdf\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC7997718/pdf/ast.2019.2149.pdf\nhttps://en.wikipedia.org/wiki/Evolution_of_human_intelligence\nhttps://theconversation.com/evolution-tells-us-we-might-be-the-only-intelligent-life-in-the-universe-124706\nhttps://www.annualreviews.org/content/journals/10.1146/annurev-arplant-042110-103811\n\n0:00 Introduction to the Fermi paradox and cosmic silence despite the vast universe\n",
+        "id": 4123773,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OD9nYixgp6A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OD9nYixgp6A/hqdefault.jpg",
+        "title": "Math Suggests We May Be the Only Intelligent Life in the Universe",
+        "vote": 0
+    }
+]

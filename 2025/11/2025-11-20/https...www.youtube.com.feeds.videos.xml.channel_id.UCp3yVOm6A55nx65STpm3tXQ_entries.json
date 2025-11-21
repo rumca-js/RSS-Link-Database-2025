@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T01:37:14.614426+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T00:36:07+00:00",
+        "description": "Thanks to Verda, formerly Datacrunch.io, for sponsoring today\u2019s episode. Use Coupon Code CRAFT-COMPUTING-20 for $20 off at checkout. https://docs.datacrunch.io/resources/obtaining-free-credits/how-to-redeem-credits\n\nThanks to Meter for sponsoring this episode! Check out their full network stack, and book a demo today at http://meter.com/craftcomputing.\n\nWallets, Coffee Tumblers, Pint Glasses and more available at https://craftcomputing.store\n\nWelcome to Talking Heads, your once weekly show about everything happening in the world of tech, computers, gaming, craft beer and cocktails.\n\nCheck out this episode in Podcast form over at https://open.spotify.com/show/31ZxkU6RwPHG8A4jQjxSG3\n\nSupport us on Patreon or Floatplane and get access to our exclusive Discord server.  Chat with all of the hosts from Talking Heads all week long. \n\nhttps://www.patreon.com/CraftComputing\nhttp://www.floatplane.com/channel/CraftComputing\n\nWant to fuel Craft Computing?  Parts, beer, gifts? I've got a mailbox!\n",
+        "id": 4115014,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Vf7fZG1iIe8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vf7fZG1iIe8/hqdefault.jpg",
+        "title": "The Internet Went Dark... Again; GPU Hardware Isn't an Investment - Talking Heads Ep.408",
+        "vote": 0
+    }
+]

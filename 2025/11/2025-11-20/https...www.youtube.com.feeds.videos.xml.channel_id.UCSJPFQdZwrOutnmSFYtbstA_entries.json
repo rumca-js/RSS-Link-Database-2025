@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T16:14:25.760526+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T14:57:51+00:00",
+        "description": "Join me, MauLer, Disparu, FilmComicsExplained, Writing Wrongs and Price Of Reason for Open Bar 165. \n\nSubscribe to Disparu: https://www.youtube.com/@disparutoo\nSubcribe to FilmComicsExplained: https://www.youtube.com/@filmcomicsexplained\nSubscribe to Price of Reason: https://www.youtube.com/@PriceofReason\nSubscribe to Writing Wrongs: https://www.youtube.com/@WritingWrongsFilm",
+        "id": 4120289,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KgdNJxItKsY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KgdNJxItKsY/hqdefault.jpg",
+        "title": "Open Bar #165 - Zelda Controversy, Wicked Cringe, Snyderverse Returns?!",
+        "vote": 0
+    }
+]

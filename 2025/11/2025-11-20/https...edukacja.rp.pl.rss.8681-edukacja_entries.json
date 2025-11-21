@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T13:49:49.809915+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T12:19:00+00:00",
+        "description": "Zale\u017cy nam na tym, aby powsta\u0142o na mapie polskich wydarze\u0144 naukowych takie miejsce, kt\u00f3re jest dedykowane dla wsp\u00f3\u0142pracy i dla mo\u017cliwo\u015bci nawi\u0105zywania relacji pomi\u0119dzy przedstawicielami sektora przedsi\u0119biorstw a przedstawicielami sektora nauki. O tym, \u017ce jest to wydarzenie potrzebne, \u015bwiadczy liczba uczestnik\u00f3w \u2013 ponad 2,5 tys. To jest, jak s\u0105dz\u0119 my\u015bl\u0119, najwi\u0119ksze wydarzenie w Polsce, dedykowane w\u0142a\u015bnie temu obszarowi relacji pomi\u0119dzy przedsi\u0119biorstwami a naukowcami \u2013 m\u00f3wi dr Hubert Cichocki, prezes Sieci Badawczej \u0141ukasiewicz, wsp\u00f3\u0142organizatora kongresu Nauka dla Biznesu.",
+        "id": 4118939,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43370341-dr-hubert-cichocki-czym-jest-kongres-nauka-dla-biznesu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "dr Hubert Cichocki: Czym jest kongres Nauka dla Biznesu",
+        "vote": 0
+    }
+]

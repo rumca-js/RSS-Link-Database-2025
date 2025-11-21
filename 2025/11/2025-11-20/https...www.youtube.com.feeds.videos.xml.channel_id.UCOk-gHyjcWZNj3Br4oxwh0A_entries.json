@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T18:24:54.283094+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T18:01:45+00:00",
+        "description": "Proxmox 9.1 adds support for OCI container images, bringing Docker-style workloads to Proxmox through LXC. In this video, I show how it works, how to deploy OCI images like Grafana, and what limitations still exist in this tech preview. Is it ready for your homelab? \n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.live/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\nSubscribe on Twitch: https://www.twitch.tv/technotim\nBecome a YouTube member: https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join\nGear Recommendations: https://l.technotim.live/gear\nGet Help in Our Discord Community: https://l.technotim.live/discord\n2nd channel: https://www.youtube.com/@TechnoTimTinkers\n\n(Affiliate links may be included in this description. I may receive a small commission at no cost to you.)\n\n00:00 -  Intro: OCI Comes to Proxmox 9.1  \n00:17 - Why This Matters\n00:47 - Official Proxmox Announcement  \n01:37 - Demo: Using OCI Images",
+        "id": 4121560,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gDZVrYhzCes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gDZVrYhzCes/hqdefault.jpg",
+        "title": "OCI Image Support in Proxmox: A First Look (And Some Gotchas)",
+        "vote": 0
+    }
+]

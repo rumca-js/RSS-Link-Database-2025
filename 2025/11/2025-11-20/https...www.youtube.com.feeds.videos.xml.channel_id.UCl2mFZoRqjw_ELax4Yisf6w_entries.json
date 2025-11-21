@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T05:51:50.092707+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T05:10:18+00:00",
+        "description": "DESCRIPTION OF VIDEO: https://consumerrights.wiki/w/NDAA_has_right_to_repair_stripped_from_it_in_favor_of_data_as_a_service\n\nCURRENT NEWS: https://rollcall.com/2025/11/17/defense-contractors-fight-back-against-ndaa-repair-language/\n\nORIGINAL PROPOSAL: https://media.defense.gov/2025/May/01/2003702281/-1/-1/1/ARMY-TRANSFORMATION-AND-ACQUISITION-REFORM.PDF\n\nlobbying filings:\nhttps://lda.senate.gov/filings/public/filing/8178c5fe-2072-4921-9966-d73f67c317b8/print/\n\ndonations: \nhttps://www.opensecrets.org/members-of-congress/smith-adam/summary?cid=N00007833&cycle=2020&type=I\nhttps://www.opensecrets.org/members-of-congress/smith-adam/summary?cid=N00007833&cycle=2024&type=I\nhttps://www.opensecrets.org/members-of-congress/mike-d-rogers/summary?cid=N00024759&cycle=2022&type=I\n\narticles:\nhttps://www.pogo.org/analysis/right-to-repair-for-the-pentagon-to-dos-for-right-now\nhttps://pirg.org/resources/military-right-to-repair/\n\nold videos:\nhttps://youtu.be/nNg4PG2kayU\nhttps://www.youtube.com/watch?v=",
+        "id": 4116051,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=C0LmjzXV7IA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C0LmjzXV7IA/hqdefault.jpg",
+        "title": "Defense contractors just killed military right to repair - here's the $535,000 reason why",
+        "vote": 0
+    }
+]

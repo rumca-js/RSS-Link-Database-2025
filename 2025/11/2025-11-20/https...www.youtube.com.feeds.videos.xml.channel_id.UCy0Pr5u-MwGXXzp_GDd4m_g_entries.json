@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julie Nolke",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T20:19:10.288140+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T19:00:40+00:00",
+        "description": "Enjoy this compilation of some of our best collaborations!\n\n00:00 The First Couple To Ever Get Married (ft. Ryan George)  https://youtu.be/BQz2i8BjStc\n04:37 I interviewed to be the Prime Minister's Assistant https://youtu.be/BcVzerhKXOs\n10:58 The Single Biggest Problem After WW3 ft. Charlotte Dobre https://youtu.be/BaxD8BI3wI4\n13:45 Pandora's Box Opened in 2020 (ft. Anna Akana) https://youtu.be/jrQzqz_drkM\n20:17 Calling 911 after accidentally liking an ex's photo (ft. Steven He) https://youtu.be/7rg8JZCkX24\n23:31 USA vs Canada (ft. Trey Kennedy) https://youtu.be/XCMJ0talEmU\n27:17 FBI prevents a coup! https://youtu.be/6LbJsQpm5Sg\n\nEditor: Sam Larson",
+        "id": 4122862,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NH5AAcLn03o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 170,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NH5AAcLn03o/hqdefault.jpg",
+        "title": "Best Collabs Compilation",
+        "vote": 0
+    }
+]

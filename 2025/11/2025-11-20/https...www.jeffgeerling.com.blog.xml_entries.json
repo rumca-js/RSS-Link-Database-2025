@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-20T15:41:50.251725+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-20T15:27:40+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">How to silence the fan on a CM5 after shutdown</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Out of the box, if you buy a Raspberry Pi Compute Module 5, install it on the official CM5 IO Board, and install a fan on it (e.g. my current favorite, the <a href=\"https://www.digikey.com/en/products/detail/edatec/ED-CM5ACOOLER/25696857\">EDAtec CM5 Active Cooler</a>), you'll notice the fan ramps up to 100% speed after you shut down the Pi.</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/cm5-io-board-fan-running.jpeg\" width=\"700\" height=\"467\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-7c1b92a7-22fa-44a4-abf5-66b38d1e234e\" data-insert-attach=\"{&quot;id&quot;:&quot;7c1b92a7-22fa-44a4-abf5-66b38d1e234e&quot;,&quot;attributes&quot;:{&quot;alt",
+        "id": 4119940,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/how-silence-fan-on-cm5-after-shutdown",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/cm5-io-board-fan-running.jpeg",
+        "title": "How to silence the fan on a CM5 after shutdown",
+        "vote": 0
+    }
+]
