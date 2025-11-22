@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/ES-DE_Frontend",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T19:31:21.895395+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T19:27:15+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1p37uti/esde_frontend_prerelease_appimage_for_the/\"> <img src=\"https://a.thumbs.redditmedia.com/SYGTJvnedJ8M5QNFEwahvxqhWkbslJUr3EPl1IQmgH4.jpg\" alt=\"ES-DE Frontend prerelease AppImage for the ARM64/AArch64 architecture\" title=\"ES-DE Frontend prerelease AppImage for the ARM64/AArch64 architecture\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi!</p> <p>We have just uploaded a prerelease AppImage for Linux AArch64, which is an architecture we intend to officially support as of ES-DE 3.5.0!</p> <p>The sitaution is pretty rough at the moment when it comes to Linux on AArch64 with many standalone emulators missing that are present on x86/x64 as well as RetroArch not even building their cores for this platform. So for the time being you need to download the cores from this third part repository:<br/> <a href=\"https://github.com/christianhaitian/retroarch-cores\">https://github.com/christianhaitian/retroarch-cores</",
+        "id": 4131892,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1p37uti/esde_frontend_prerelease_appimage_for_the",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://a.thumbs.redditmedia.com/SYGTJvnedJ8M5QNFEwahvxqhWkbslJUr3EPl1IQmgH4.jpg",
+        "title": "ES-DE Frontend prerelease AppImage for the ARM64/AArch64 architecture",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T22:45:35.544370+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T22:00:53+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about an incredible new simulation of the Milky Way\nLinks:\nhttps://www.illustris-project.org/\nhttps://dl.acm.org/doi/pdf/10.1145/3712285.3759866\nhttps://en.wikipedia.org/wiki/Illustris_project\nPrevious videos:\nhttps://www.youtube.com/watch?v=VpsTAq3Uw7k\nhttps://www.youtube.com/watch?v=QeokV7xJDp4\n#milkyway #simulation #astronomy \n\n0:00 Simulating the universe and our galaxy \n2:00 Major breakthrough - first Milky Way simulation \n2:45 Why this is so hard \n5:30 Previous simulations in the last few years \n7:30 What this study and the simulation was about \n10:30 Why this m",
+        "id": 4133260,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qW_owlTqCh8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qW_owlTqCh8/hqdefault.jpg",
+        "title": "Groundbreaking Simulation of Milky Way Recreates Every Star",
+        "vote": 0
+    }
+]

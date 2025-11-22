@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T17:04:12.492388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T15:56:28+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nLearning To Stop Writing C++ Code (and Why You Won\u2019t Miss It) - Daisy Hollman - ACCU 2025\n---\n\nFrontier AI models are transforming the craft of software engineering. Drawing from my journey from C++ standards committee to an AI research startup, I'll demonstrate how modern LLMs understand complex codebases\u2014especially through recent research on SWE agents. Beyond theoretical foundations, I'll showcase practical examples of how these tools excel at tasks professional C++ developers struggle with daily: comprehending unfamiliar codebases, managing repositories, refactoring legacy code, and reducing boilerplate. Finally, I'll explore how programming languages might evolve to better leverage AI capabilities while maintaining the rigor C++ developers value. Despite the clickbait title, this talk is an attempt at a balanced perspective on our changing relationship with code: not eliminating programming, but elevating it to focus on design, c",
+        "id": 4130544,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mpGx-_uLPDM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mpGx-_uLPDM/hqdefault.jpg",
+        "title": "Learning To Stop Writing C++ Code (and Why You Won\u2019t Miss It) - Daisy Hollman - ACCU 2025",
+        "vote": 0
+    }
+]

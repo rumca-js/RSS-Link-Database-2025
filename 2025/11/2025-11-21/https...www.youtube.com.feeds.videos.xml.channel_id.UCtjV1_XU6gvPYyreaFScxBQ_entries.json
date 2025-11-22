@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T06:56:47.766410+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T06:44:14+00:00",
+        "description": null,
+        "id": 4126227,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xlh8m-i4BsQ",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xlh8m-i4BsQ/hqdefault.jpg",
+        "title": "#AI + #5G are transforming almost every industry! \ud83e\udd29 #Huawei #CommentsOfTheWeek #HuaweiAnswers",
+        "vote": 0
+    }
+]

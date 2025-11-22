@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nostalgia Nerd",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T17:47:49.020196+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T17:01:30+00:00",
+        "description": "Densha de Go!; the Japanese train game so precise that real drivers used the arcade cabinet for practice. A PS1 classic that never left Japan; complete with dedicated train-handle controllers; brutal accuracy; and the tiny cup holder everyone remembers. If you\u2019ve never seen this series in action; here\u2019s why it became a national obsession. \n#denshadego #ps1 #retrogaming #japan #arcade #taito",
+        "id": 4130916,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/l5-7_OeyVDA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 819,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7qPftDWPw9XuExpSgfkmJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l5-7_OeyVDA/hqdefault.jpg",
+        "title": "Train Game So Accurate Real Drivers Used It",
+        "vote": 0
+    }
+]

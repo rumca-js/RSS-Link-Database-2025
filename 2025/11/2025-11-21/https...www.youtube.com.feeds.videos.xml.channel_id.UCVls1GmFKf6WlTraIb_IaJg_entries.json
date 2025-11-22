@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T14:16:23.699062+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T14:00:26+00:00",
+        "description": "The 'touch' command is used to change file timestamps or to create empty files.\n\n- Create empty files:\n  touch file1 file2 ...\n\n- Set file [a]ccess or [m]odification times to the current one:\n  touch -a|m file1 file2 ...\n\n- Set file [a]ccess or [m]odification times to the current one but \"don't create\" files if they don't exist:\n  touch -c -a|m file1 file2 ...\n  NOTE Use 'stat file1' to view file info.\n\n- Set the file [t]ime to a specific value and don't create file if it doesn't exist:\n  touch -c -t YYYYMMDDHHMM.SS file1\n  NOTE: touch -c -t 202511160813.00 file1\n\n- Set the files' timestamp to the reference file's timestamp:\n  touch -r reference_file file1 file2 ...\n\n- Set the timestamp by parsing a string:\n  touch -d \"last year|5 hours|next thursday|nov 14|...\" file1\n\n- Create multiple files with an increasing number:\n  touch file{1..10}\n\n- Create multiple files with a letter range:\n  touch file{a..z}\n\n- Cat a file that containts a list of filenames into touch:\n  NOTE The file named ",
+        "id": 4129008,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=JMIQwysKk1c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JMIQwysKk1c/hqdefault.jpg",
+        "title": "'touch' - change file timestamps - Video Man Pages",
+        "vote": 0
+    }
+]

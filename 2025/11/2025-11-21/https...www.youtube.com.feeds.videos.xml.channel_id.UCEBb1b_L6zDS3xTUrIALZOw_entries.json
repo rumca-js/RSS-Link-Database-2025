@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T15:38:18.111997+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T11:48:40+00:00",
+        "description": "An Open Conversation hosted by Curt Newton\n\nJoin neuropsychologist and lifelong learner Bia Adams in conversation with Curt Newton, Director of MIT OpenCourseWare, as they discuss how curiosity and continuous learning can transform personal growth and mental well-being. From neuroscience to quantum physics, Bia\u2019s journey illustrates how open-access education empowers individuals to thrive in an ever-changing world.\nAbout the speakers\n\nBia Adams is a neuropsychologist and therapist. She combines knowledge and experience from psychology and medical neuroscience, as well as from less conventional domains in order to understand and help minds, bodies, machines and technology. Adams uses all of her knowledge and expertise to ensure she achieves the desired results for her clients and patients.\n\nCurt Newton leads MIT OpenCourseWare in supporting millions of global learners and educators every year with freely shared materials from over 2,500 MIT courses. Newton joined OpenCourseWare in 2004",
+        "id": 4129592,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=R33hB6mXU5o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R33hB6mXU5o/hqdefault.jpg",
+        "title": "\u201cLearning for Life: How Curiosity Shapes Well-Being\u201d with Bia Adams",
+        "vote": 0
+    }
+]

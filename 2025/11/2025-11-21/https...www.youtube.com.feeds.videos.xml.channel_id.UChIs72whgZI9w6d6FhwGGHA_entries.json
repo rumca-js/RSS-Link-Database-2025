@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T11:25:58.917604+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T10:28:08+00:00",
+        "description": "Sponsor: Montech HS01 Pro on Amazon https://geni.us/UYLeZn and HS02 Pro https://geni.us/ABM9fEB\nIn this hardware news recap for the week, we talk about the AMD Zen 7 and Zen 6 presence on the roadmap, a lawsuit against AMD over its and TSMC's bonding approach to X3D, the NVIDIA RTX 50 Super Series rumored existence and rumored delay rumors, GTA VI's non-rumored delay, SilverStone's new FLP03 case, and more.\n\nOur AI DYSTOPIA series of special reports is funded by the community! https://store.gamersnexus.net/ai-dystopia\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nTIMESTAMPS\n\n00:00 - Recap for the Week\n01:28 - AI Dystopia Recap\n06:41 - AMD Zen 7 on the Roadmap\n10:49 - Rockstar Delays GTA 6\n13:29 - Rumor: NVIDIA Delays Super Series\n16:57 - AMD Sued for Patent Infringement\n20:41 - FBI Subpoenas Paywall Bypass Service\n25:01 - Intel Bartlett Lake-S Leak\n26:10 - AMD MI308 Approved for China\n28:29 - Empty Data Center Plague Begins\n3",
+        "id": 4127550,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Q-lsFQmrwZk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q-lsFQmrwZk/hqdefault.jpg",
+        "title": "HW News - AMD Zen 7 Roadmap, GTA VI Delay, AMD Sued for X3D, 50 Super Series, New Retro Cases",
+        "vote": 0
+    }
+]

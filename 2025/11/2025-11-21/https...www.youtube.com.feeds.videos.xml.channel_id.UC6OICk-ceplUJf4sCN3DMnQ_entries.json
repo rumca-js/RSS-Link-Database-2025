@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tyler Stalman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T17:45:25.080988+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T16:30:26+00:00",
+        "description": "Comparing Canva's new Affinty and Adobe Photoshop for photo retouching\nTry Nano Banana at Artlist now, it's insane https://artlist.io/artlist-70446/?artlist_aid=Stalman_610&utm_source=affiliate_p&utm_medium=Stalman_610&utm_campaign=Stalman_610\n\nThreads http://threads.net/stalman \nInstagram http://instagram.com/stalman\n\n0:00 Affinity vs Photoshop\n0:54 Raw photo tools\n2:18 Retouching tools\n5:59 AI Tool\n7:03 Artlist AI tools: Sponsor\n11:23 Object selection\n13:02 Tools Affinity is missing\n15:55 Performance",
+        "id": 4130900,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6ldAwzIZy1Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 883,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6OICk-ceplUJf4sCN3DMnQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6ldAwzIZy1Y/hqdefault.jpg",
+        "title": "Affinty (free) vs Photoshop for photographers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T15:45:09.224703+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T15:01:47+00:00",
+        "description": "It's a neat, portable Air Quality monitor, full of personality.\n\nBut is it worth $250?\n\nLinks to things I referenced in the video (some links are affiliate links):\n\n  - Air Lab: https://networkedartifacts.com/airlab/\n  - AirGradient One: https://www.airgradient.com/indoor/\n  - Temtop M2000C 2nd Generation: https://amzn.to/3XGbpbs\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - A $250 portable air quality monitor\n01:14 - Versus AirGradient ONE\n02:06 - Setting up an AirGradient with Home Assistant\n05:36 - Setting up the Air Lab\n07:24 - Air Lab Console walkthrough\n11:28 - Stale air on a road trip\n13:02 - Air quality at an indoor convention\n13:40 - Battery life, Home Assistant integration\n14:05 - DIY or Buy\n15:18 - Bonus, the Temtop",
+        "id": 4129666,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=r21lvaw40nY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r21lvaw40nY/hqdefault.jpg",
+        "title": "The Flipper Zero of Air Quality Monitors",
+        "vote": 0
+    }
+]

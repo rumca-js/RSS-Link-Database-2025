@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T23:35:39.745971+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T23:10:40+00:00",
+        "description": "Get 20% off DeleteMe by going to https://joindeleteme.com/TIFO and use code TIFO to protect your privacy!\n\nWhat was the worst military aircraft of the Second World War? Given the sheer number of designs fielded by all sides throughout the conflict there is no shortage of candidates - many of which we have already covered on this channel. There was the Messerschmitt Me-163 Komet, a German rocket-powered fighter whose engine had a nasty habit of blowing up or dissolving the pilots alive. And the Messerschmitt Me-132 Gigant, a giant assault glider designed for an abortive German invasion of the British isles but pressed into service as a ponderously slow and horrendously vulnerable cargo transport. On the Allied side there was the Brewster F2A Buffalo and Douglas TBD Devastator, hopelessly outdated U.S. Naval aircraft that were brutally cut down by superior Japanese fighters the moment they first saw combat. And then there was the Fisher P-75 Eagle, a Frankenstein\u2019s monster of a fighter ",
+        "id": 4133532,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8YGdDWW7vaY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8YGdDWW7vaY/hqdefault.jpg",
+        "title": "Britain's Disastrous WWII Fighter",
+        "vote": 0
+    }
+]

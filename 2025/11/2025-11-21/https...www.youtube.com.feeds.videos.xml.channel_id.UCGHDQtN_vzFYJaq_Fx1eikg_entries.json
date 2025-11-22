@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T21:41:06.341447+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T21:00:17+00:00",
+        "description": "Byzantine historian Procopius documented many details from the empire's numerous wars, but he also mentions something that modern historians can't quite figure out.\n\n\n\"Porphyrios is mentioned in the writings of the 6th-century Byzantine historian Procopius, both in the History of the Wars (VII 29) and The Secret History. According to Procopius, Porphyrios measured 13.7 meters (45 ft) long and 4.6 meters (15 ft) wide. Whales were not well understood in antiquity or in the Middle Ages and were often seen simply as great monsters.\nIt is not possible to confidently identify which species Porphyrios belonged to. It might have been a sperm whale or an unusually large orca. Identification as a sperm whale is supported by its size, lengthy lifespan and temperament.[8] On the other hand, identification as an orca is supported by its geographical location, since true whales rarely venture into the waters which Porphyrios is known to have frequented.[6] If the name is a reference to the skin col",
+        "id": 4132777,
+        "language": "rn",
+        "link": "https://www.youtube.com/watch?v=AOmIptmOxRk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AOmIptmOxRk/hqdefault.jpg",
+        "title": "Ancient Historian Documented Mysterious Sea Beast | Tales From the Bottle",
+        "vote": 0
+    }
+]

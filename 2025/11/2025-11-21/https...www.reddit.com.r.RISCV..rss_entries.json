@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/gounthar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T17:09:17.725247+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T16:29:32+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>OpenSCAD (script-based 3D CAD software) now has automated daily builds for RISC-V64, making it one of the first major CAD applications with native RISC-V support.</p> <p><strong>What&#39;s Available:</strong></p> <ul> <li>RISC-V64 (riscv64) Debian packages</li> <li>RISC-V64 RPM packages</li> <li>Full APT/RPM repository support</li> <li>Automated daily builds via GitHub Actions</li> <li>Multi-architecture Docker builds</li> </ul> <p><strong>Installation:</strong> Standard package manager setup. Full instructions at: <a href=\"https://github.com/gounthar/openscad\">https://github.com/gounthar/openscad</a></p> <p>This is significant for the RISC-V ecosystem because CAD/engineering tools have been notably absent from RISC-V software availability. OpenSCAD being script-based (uses a C-like language to define 3D models) makes it perfect for embedded systems design, case design, and mechanical engineering workflows.</p> <p>The infrastructure also builds AMD64 ",
+        "id": 4130615,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1p335wy/openscad_now_has_native_riscv_builds_with_daily",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenSCAD Now Has Native RISC-V Builds with Daily Automated Packaging",
+        "vote": 0
+    }
+]

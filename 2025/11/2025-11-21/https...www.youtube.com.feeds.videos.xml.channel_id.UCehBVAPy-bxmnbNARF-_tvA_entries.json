@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T22:37:49.436172+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T21:47:54+00:00",
+        "description": "Trump says he and Zohran discussed getting the prices down for the electric and gas monopoly in NYC, Con Edison.\n\nTrump: \"We talked about Con Edison.... we have to get Con Edison to start lowering their rates.\"\n\nZohran: \"Absolutely.\"",
+        "id": 4133237,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/IIUbt5SoBCQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IIUbt5SoBCQ/hqdefault.jpg",
+        "title": "Zohran Gets Trump to Agree to His Affordability Agenda",
+        "vote": 0
+    }
+]

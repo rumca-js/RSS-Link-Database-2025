@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T17:30:05.462451+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T17:01:21+00:00",
+        "description": "Employers have a warning for the Class of 2026: Next spring\u2019s graduate-hiring market is likely to be even worse than this year\u2019s.\u2060\n\n#Jobs #JobMarket #WSJ",
+        "id": 4130800,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/iwh3xvVFgFw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iwh3xvVFgFw/hqdefault.jpg",
+        "title": "Will 2026 Be the Worst College Grad Job Market in Years?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Coreteks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T21:39:20.659282+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T21:36:02+00:00",
+        "description": "Thanks to Storyblocks for sponsoring this video! Download unlimited stock media at one set price with Storyblocks:  http://storyblocks.com/coreteks\n\nSupport me on Patreon: https://www.patreon.com/coreteks\n\nBuy a mug: https://teespring.com/stores/coreteks\n\nFollow me on Twitter: https://twitter.com/coreteks\n\nCheck out Gavin's website for expert level tech analysis: https://bontechlabs.com/\n\nFootage from various sources including official youtube channels from AMD, Intel, NVidia, TSMC, Apple, Dell, IGN, etc, as well as OTHER CREATORS might be used for educational purposes, in a transformative manner. If you'd like to be credited further please contact me, thanks!\n\n#nvidia #ai #amd",
+        "id": 4132774,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=W_xFojmMOZQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 79,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX_t3BvnQtS5IHzto_y7tbw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W_xFojmMOZQ/hqdefault.jpg",
+        "title": "It's MUCH worse than people think",
+        "vote": 0
+    }
+]

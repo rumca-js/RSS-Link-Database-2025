@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jazza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T12:37:02.806578+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T11:51:47+00:00",
+        "description": "My Debut novel \"The Ascendants\", now available on Audiobook!\nGoogle Play: https://play.google.com/store/audiobooks/details/Jazza_Brooks_The_Ascendants?id=AQAAAEBqkR7RZM\nApple Books: https://books.apple.com/audiobook/the-ascendants/id1850633225\nEverand: https://www.everand.com/audiobook/941060893/The-Ascendants\nKobo: https://www.kobo.com/ie/en/audiobook/ascendants-the?srsltid=AfmBOoo4YMO4SpmI5Wl7dxYzazqTOpQTTw-irkqli5r64EzM66NMYU7I\n*Audible: https://www.audible.com/pd/The-Ascendants-Audiobook/B0G2N1LXR5\n*Please note, in making it available on more platforms, Audible forces author's to take a very small cut (only 25%) of sales. I completely understand if your audiobook library is on audible and you'd prefer to get it there, but if it makes no difference to you, please consider supporting my work on any of the other platforms!\nMuch effort and time was book into making the audiobook as great as it can be, and I'd be incredibly grateful for any reviews/ratings left on the platforms on whic",
+        "id": 4128121,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4LX0kj8WhOQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 160,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHu2KNu6TtJ0p4hpSW7Yv7Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4LX0kj8WhOQ/hqdefault.jpg",
+        "title": "Recording an Audiobook is a NIGHTMARE!!",
+        "vote": 0
+    }
+]

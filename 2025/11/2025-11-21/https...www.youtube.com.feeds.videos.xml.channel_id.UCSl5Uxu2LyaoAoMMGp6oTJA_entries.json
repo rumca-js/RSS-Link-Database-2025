@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Atomic Shrimp",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T17:31:36.591891+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T17:00:30+00:00",
+        "description": "This is part 3 of a short series where I am making cider from apple juice I pressed back at the end of summer.\n\nHere's a playlist containing all of the 2025 apple-related videos: https://www.youtube.com/playlist?list=PLk5KvJPikK01UagzfrcgGp3ObeXiJkW0j\n\nIngredients list for the pork stew:\n1kg pork shoulder steaks\noil for frying\n50g flour for dusting\n1 onion\n2 sticks celery\n2 bay leaves\n40g pearl barley\n1 teaspoon dried thyme\n500ml cider\n1 teaspoon mustard (any mustard you like)\n1 stock cube\n(optional) pinch of saffron\n1 can butter beans or other white beans\n2 apples\n\n\nJoin the Atomic Shrimp official Discord server for FREE early access to videos! - https://discord.gg/atomicshrimp  \nAtomic Shrimp subreddit: https://www.reddit.com/r/AtomicShrimp/",
+        "id": 4130818,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Jwn-3W-MBLw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 704,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5Uxu2LyaoAoMMGp6oTJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Jwn-3W-MBLw/hqdefault.jpg",
+        "title": "Making Cider (Part 3) \u2013 Racking, Bottling \u2013 a Little Taste \u2013 Pork With Cider and Apples",
+        "vote": 0
+    }
+]

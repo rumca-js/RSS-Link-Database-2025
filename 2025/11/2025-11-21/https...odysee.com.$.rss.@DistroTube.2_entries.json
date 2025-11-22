@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T15:02:05.680322+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T14:00:26+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/JMIQwysKk1c\" width=\"480\" alt=\"thumbnail\" title=\"'touch' - change file timestamps - Video Man Pages\" /></p>The 'touch' command is used to change file timestamps or to create empty files.<br /><br />- Create empty files:<br />  touch file1 file2 ...<br /><br />- Set file [a]ccess or [m]odification times to the current one:<br />  touch -a|m file1 file2 ...<br /><br />- Set file [a]ccess or [m]odification times to the current one but \"don't create\" files if they don't exist:<br />  touch -c -a|m file1 file2 ...<br />  NOTE Use 'stat file1' to view file info.<br /><br />- Set the file [t]ime to a specific value and don't create file if it doesn't exist:<br />  touch -c -t YYYYMMDDHHMM.SS file1<br />  NOTE: touch -c -t 202511160813.00 file1<br /><br />- Set the files' timestamp to the reference file's timestamp:<br />  touch -r reference_file file1 file2 ...<br /><br />- Set the timestamp by parsing a string:<br />  touch -d \"last year|5 hours|next ",
+        "id": 4129454,
+        "language": "en",
+        "link": "https://odysee.com/%27touch%27-change-file-timestamps-video-man:3b0f55859d49a424bb9ee9a0205210df6674a038",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/JMIQwysKk1c",
+        "title": "'touch' - change file timestamps - Video Man Pages",
+        "vote": 0
+    }
+]

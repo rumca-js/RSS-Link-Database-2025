@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T19:33:53.963244+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T18:26:43+00:00",
+        "description": "Building off our GDC 2025 talk, join us for the next can\u2019t-miss session exploring the latest advancements in the Unity Editor and Engine. In just one hour, we\u2019ll dive into the innovations shaping Unity 6\u2014our current generational release\u2014including upgrades to graphics performance, expanded platform support, industry-leading tools, and more. Discover how creativity, efficiency, and innovation come together to empower creators like you.",
+        "id": 4131900,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rEKmARCIkSI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rEKmARCIkSI/hqdefault.jpg",
+        "title": "The Unity Engine roadmap",
+        "vote": 0
+    }
+]

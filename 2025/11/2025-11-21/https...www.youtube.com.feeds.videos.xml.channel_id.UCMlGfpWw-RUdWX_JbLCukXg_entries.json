@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T16:06:30.021188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T15:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nThe Joy of C++26 Contracts - Myths, Misconceptions & Defensive Programming - Herb Sutter - CppCon 2025\n---\n\nThis talk is all about the C++26 contracts feature. It covers the following topics:\n\n- Why defensive programming is a Good Thing (mainly for functional safety, but occasionally also for memory safety)\n- Brief overview of C++26 contracts, and why they\u2019re way better than C assert (spoiler: writing them on declarations, being able to use them in release builds, and language support is just way better than macros)\n- The 3-page \u201cEffective C++ Contracts book\u201d \u2014 best practices you need to know to use them (spoiler: keep compound conditions together, don\u2019t write side effects, understand the pros and cons of installing a throwing violation handler\u2026 that\u2019s pretty much\u2026 it?) \n- Why they\u2019re viable, because they address the key things we need in production (which we\u2019ll list) \n- Why they\u2019re minimal, because we actually need every part in C++26 to use them at scale (wh",
+        "id": 4130041,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oitYvDe4nps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oitYvDe4nps/hqdefault.jpg",
+        "title": "The Joy of C++26 Contracts - Myths, Misconceptions & Defensive Programming - Herb Sutter",
+        "vote": 0
+    }
+]

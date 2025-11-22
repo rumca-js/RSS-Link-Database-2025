@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T09:22:06.178276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T08:00:00+00:00",
+        "description": "<p>OpenAI has introduced group chats inside ChatGPT, giving people a way to bring up to 20 others into a shared conversation with the chatbot. The feature is now available to all logged-in users after a short pilot earlier this month, and it shifts ChatGPT from a mostly one-on-one tool to something that supports small-group collaboration. [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/chatgpt-group-chats-may-help-teams-bring-ai-into-daily-planning/\">ChatGPT group chats may help teams bring AI into daily planning</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 4126971,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/chatgpt-group-chats-may-help-teams-bring-ai-into-daily-planning",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-10.png",
+        "title": "ChatGPT group chats may help teams bring AI into daily planning",
+        "vote": 0
+    }
+]

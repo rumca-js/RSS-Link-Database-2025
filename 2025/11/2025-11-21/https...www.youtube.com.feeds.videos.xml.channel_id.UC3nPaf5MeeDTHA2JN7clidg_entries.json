@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T17:37:53.480898+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T17:01:31+00:00",
+        "description": "Go to https://ground.news/Bellular for 40% off unlimited access with the Vantage Plan - the best deal of the year for my subscribers and only available for a limited time! Sponsored by Ground.\nStop Killing Games hit UK Parliament. An MP even engaged with Scott Ross. And somehow, it wasn't a disaster.\n\n00:00 - SKG Hits the UK\n02:45 - The Petition\n04:08 - The Topics\n08:33 - The Government's Response\n12:22 - The Impact\n\nSources:\nhttps://petition.parliament.uk/petitions/702074\nhttps://www.bbc.co.uk/news/articles/cg4xqn91rwlo",
+        "id": 4130850,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dFqtqPkMWAY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dFqtqPkMWAY/hqdefault.jpg",
+        "title": "Stop Killing Games: They've Finally Taken Normal Gamers Seriously",
+        "vote": 0
+    }
+]

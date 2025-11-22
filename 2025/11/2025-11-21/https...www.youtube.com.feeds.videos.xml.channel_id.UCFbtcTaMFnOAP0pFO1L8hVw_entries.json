@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kyle Hill",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T18:50:58.024868+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T18:00:42+00:00",
+        "description": "Take your personal data back with Incogni! Use code KYLEHILL at the link below and get 60% off an annual plan: https://incogni.com/kylehill\n\nEver since Neil Armstrong and the Apollo 11 crew touched down in 1969, people have claimed that the Moon landing was faked. We\u2019ve all heard the theories that Stanley Kubrick shot it on a set in Hollywood or that it couldn\u2019t have happened because how can the flag wave if there\u2019s no air on the moon\u2026 But, one of the less popular conspiracy theories out there is that we couldn\u2019t have even landed there in the first place, because astronauts could never survive the \u201cdeadly radiation\u201d of the infamous Van Allen Belt. Completely untrue in every way so let\u2019s debunk it\u2026\n\n\ud83d\udcaa JOIN [THE FACILITY] for members-only live streams, behind-the-scenes posts, and the official Discord: https://www.patreon.com/kylehill\n\n\ud83d\udc55 THE INTERNET IS DEAD MERCH OUT NOW! https://shop.kylehill.net\n\n\ud83c\udfa5 SUB TO THE GAMING CHANNEL: https://www.youtube.com/channel/UCfTNPE8mXGBZPC1nfVtOJTw\n\n\u2705",
+        "id": 4131384,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YvIC9SOqtgc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 717,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbtcTaMFnOAP0pFO1L8hVw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YvIC9SOqtgc/hqdefault.jpg",
+        "title": "Wait, Radiation Prevented the Moon Landing?",
+        "vote": 0
+    }
+]

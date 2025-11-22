@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T19:34:07.768685+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T18:56:05+00:00",
+        "description": "At Buxton Books in Charleston, storytelling is at the heart of everything owners Polly and Julian Buxton do \u2014 from author events to local walking tours. With support from American Express, they\u2019re growing their beloved local business and keeping the city\u2019s history, mystery, and connection alive. #ad",
+        "id": 4131901,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/wb5lvJ1KfrU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wb5lvJ1KfrU/hqdefault.jpg",
+        "title": "Inside the Charleston bookstore that hosts walking tours, best-selling authors, and book lovers",
+        "vote": 0
+    }
+]

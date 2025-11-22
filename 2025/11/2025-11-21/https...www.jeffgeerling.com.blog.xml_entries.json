@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-21T15:52:19.768323+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-21T15:02:27+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Air Lab is the Flipper Zero of air quality monitors</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/air-lab-aqi-monitor-hero.jpeg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-c0184d83-ec55-486a-90c4-5559c0fe187d\" data-insert-attach=\"{&quot;id&quot;:&quot;c0184d83-ec55-486a-90c4-5559c0fe187d&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Air Lab AQI Monitor Professor Robin\"></p>\n\n<p>This air quality monitor costs $250. It's called the <a href=\"https://networkedartifacts.com/airlab\">Air Lab</a>, and I've been using it to measure the air in my car, home, studio, and a few events over th",
+        "id": 4129763,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/air-lab-flipper-zero-air-quality-monitors",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/air-lab-aqi-monitor-hero.jpeg",
+        "title": "Air Lab is the Flipper Zero of air quality monitors",
+        "vote": 0
+    }
+]
