@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T17:19:39.600434+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T16:05:42+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nNovember 22nd marks the 20th anniversary of Xbox 360 - the console that enjoyed unprecedented success for Microsoft, and is closely associated with the origins of Digital Foundry itself. To celebrate the occasion, Rich sourced an untouched Xbox 360 Core System, left in storage for 20 years. John is on unboxing duty, discovering the wonders that lie within that signature Xbox-green box, then hooking up the console to a CRT to re-live the 2005 launch \"Blades\" dashboard experience.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nCheck in at our new website here: https://www.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe",
+        "id": 4138229,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Bf3jMl1kwXY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bf3jMl1kwXY/hqdefault.jpg",
+        "title": "DF Retro: Xbox 360 20th Anniversary - Unboxing An Untouched Launch Console!",
+        "vote": 0
+    }
+]

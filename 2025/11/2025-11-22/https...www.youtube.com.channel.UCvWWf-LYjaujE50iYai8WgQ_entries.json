@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T22:14:21.935862+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T21:11:42+00:00",
+        "description": "End of 2025 Build Series + Giveaways! \nNovember Build in Corsair Air 5400 - https://youtu.be/toW2ri3ib08 \nGiveaway Entry Page (US/Canada, void where prohibited) - https://gleam.io/wHM3k/pauls-hardware-corsair-air-5400-9950x3d-rx-9070-xt-pc-giveaway-for-extra-life-nov-2025 \nAwesome Hardware 2025 Extra Life Page - https://www.extra-life.org/teams/72765 \nOctober Build - https://youtu.be/SFvnAEifZto",
+        "id": 4139792,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/GpK9sIV5Wf0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GpK9sIV5Wf0/hqdefault.jpg",
+        "title": "End of 2025 Build Series + Giveaways!",
+        "vote": 0
+    }
+]

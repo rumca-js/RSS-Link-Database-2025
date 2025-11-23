@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T17:29:33.107165+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T17:00:04+00:00",
+        "description": "Renting a two-bedroom apartment in Atlanta costs nearly $2,000 a month on average, well above what the typical renter in the city can comfortably afford.\u2060\nMany of them are turning to fraud as a way to secure fancier accommodations.\u2060\n\n#Rental #Housing #WSJ",
+        "id": 4138266,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/1iplK9eqvSA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1iplK9eqvSA/hqdefault.jpg",
+        "title": "How Renters Are Conning Their Way Into Luxury Apartments",
+        "vote": 0
+    }
+]

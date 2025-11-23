@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hank Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T17:19:22.230274+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T16:35:11+00:00",
+        "description": "Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link.\n\nI recorded this video months ago, I think it was about something a YouTuber tweeted but then I had to sit on it for ages so it didn't seem like I was talking about specific things some people were angry with me about. It felt like I made the video come true!! Even now I'm worried about putting it out because I don't think anyone is particularly good at teasing out bad faith critiques from the good, necessary critiques. It all gets lumped together into one big feeling. I definitely haven't finished teasing this all out, but having experienced both good and bad faith critique from both the mainstream press and various groups of individuals on the internet, I have only able really been able to make my way through it by understanding that, culturally, I am more than just a guy. \n\nPeople feel like they're throwing rocks at a big, powerful robot, ",
+        "id": 4138226,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5J5dEED9M1Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5J5dEED9M1Q/hqdefault.jpg",
+        "title": "The Thing About Power that the Powerful Can't Understand",
+        "vote": 0
+    }
+]

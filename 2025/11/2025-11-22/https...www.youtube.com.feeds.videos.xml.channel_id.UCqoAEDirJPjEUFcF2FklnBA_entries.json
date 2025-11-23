@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "StarTalk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T16:40:50.403187+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T16:00:01+00:00",
+        "description": "Why can\u2019t we run through walls if atoms are mostly empty space? Neil deGrasse Tyson, Chuck Nice, Gary O\u2019Reilly, and astrophysicist Charles Liu explore force fields, warp drive, invisibility, and quantum physics behind superhero powers. \n\nIf Superman swoops in to catch a falling Lois Lane, wouldn\u2019t she hit him like a bug on a windshield? Could his physiology, including his digestive system be super too? And what would happen if Superman\u2019s methane-packed farts met his heat vision? The gang imagines a literal human flamethrower. How can Superman see colors with x-ray vision? \nNeil recalls DC Comics once asking him to help Superman find Krypton in the night sky, raising questions about how long it took Superman to get here. Could he have traveled through a wormhole? Or warped spacetime like the Enterprise? Charles explains why folding space might be harder than warping ourselves, and how Miguel Alcubierre\u2019s warp bubble could one day make sci-fi travel real.\n\nWe break down the science of i",
+        "id": 4137941,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-QtKazCBdSk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 804,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqoAEDirJPjEUFcF2FklnBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-QtKazCBdSk/hqdefault.jpg",
+        "title": "Superhero Science: StarTalk Live! with Charles Liu",
+        "vote": 0
+    }
+]

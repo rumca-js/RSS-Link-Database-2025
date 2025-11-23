@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T17:28:10.554943+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T17:01:05+00:00",
+        "description": "This week Kurt and Lucy gotchu covered on what games are missing from The Game Award nominees, Call of Duty's BLOPS 7 sales struggle and and potential use of AI, celebrating the 20th anniversary of the Xbox 360, pouring one out for Rebecca Heineman, and competing in a game of Mario Kart 64 on the new Analogue 3D.\n\nEmail your letters to gotchacovered@gamespot.com\n\nCheck out the audio version:\nSpotify: https://open.spotify.com/show/4S5mfmLES0ubhj5xcDZJni\nRSS Feed: https://www.spreaker.com/show/6752166/episodes/feed\n\nTimestamps: \n00:00 - Intro\n00:51 - What We Would Add to the Game Award Nominees\n17:37 - Whats the Deal of Call of Duty BLOP 7?\n21:14 - Black Ops 8 Mad Libs\n27:27 - Favorite Memories of the Xbox 360\n34:55 - Celebrating the Life of Rebecca Heineman\n37:22 - Let's Play Mario Kart 64 on the Analogue 3D",
+        "id": 4138257,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dTnc_mym-qA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dTnc_mym-qA/hqdefault.jpg",
+        "title": "The Game Award Nominees Revealed + Call of Duty BLOPS 7 Troubles | Kurt & Lucy Gotcha Covered",
+        "vote": 0
+    }
+]

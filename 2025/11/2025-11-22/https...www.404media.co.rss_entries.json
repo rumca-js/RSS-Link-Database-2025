@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Becky Ferreira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T15:58:37.239953+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T14:00:14+00:00",
+        "description": "The remains of Theia are scattered deep inside the Earth and its satellite. By analyzing these remnants, scientists have proposed an origin.",
+        "id": 4137497,
+        "language": "en",
+        "link": "https://www.404media.co/a-lost-planet-created-the-moon-now-we-know-where-it-came-from",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/11/image3.jpg",
+        "title": "A Lost Planet Created the Moon. Now, We Know Where It Came From.",
+        "vote": 0
+    }
+]

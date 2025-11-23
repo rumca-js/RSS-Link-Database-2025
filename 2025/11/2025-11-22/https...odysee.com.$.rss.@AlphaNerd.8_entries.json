@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mental Outlaw",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T01:33:44.802271+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T00:08:55+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/qEkiSBxLjUU\" width=\"480\" alt=\"thumbnail\" title=\"Cloudflare Breaks the Internet (again)\" /></p>In this video I discuss how an uncaught exception in Cloudflare's Rust infrastructure caused their services to go down and by extension large parts of the internet.<br /><br />Cloudflare Blog Links<br />https://blog.cloudflare.com/18-november-2025-outage/<br />https://blog.cloudflare.com/20-percent-internet-upgrade/<br /><br />My merch is available at<br />https://based.win/<br /><br />Subscribe to me on Odysee.com<br />https://odysee.com/@AlphaNerd:8<br /><br />\u20bf\ud83d\udcb0\ud83d\udcb5\ud83d\udcb2Help Support the Channel by Donating Crypto\ud83d\udcb2\ud83d\udcb5\ud83d\udcb0\u20bf<br /><br />Monero<br />45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436<br /><br />Bitcoin<br />bc1qdc32p8035ztyvtm8t97gdcyhc26jg6cte9qc8n<br /><br />Ethereum<br />0xeA4DA3F9BAb091Eb86921CA6E41712438f4E5079<br /><br />Litecoin<br />MBfrxLJMuw26hbVi2MjCVDFkkExz8rYvUF<br />...<br />https://www.youtu",
+        "id": 4134148,
+        "language": "en",
+        "link": "https://odysee.com/cloudflare-breaks-the-internet-%28again%29:23f70e7283b8913ca97697a19f9136bfc98b18c1",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 513,
+        "source_url": "https://odysee.com/$/rss/@AlphaNerd:8",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/qEkiSBxLjUU",
+        "title": "Cloudflare Breaks the Internet (again)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T21:45:03.703487+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T21:17:37+00:00",
+        "description": "Standards are important, and it's on US to set them.\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 Let's Get Sloppy\n00:44 Call Of Duty's Absurdity\n02:48 [Generative Placeholder Title]\n05:21 Just Ship It!\n08:12 ...And Just Be Honest\n10:00 A Lack Of Care\n\nSources:\nhttps://bsky.app/profile/brickyo8.bsky.social/post/3m5myrw2kcs2a\n\nhttps://x.com/Kumesicles/status/1988981542488797339?s=20\n\nhttps://www.reddit.com/r/CODBlackOps7/comments/1owqr38/so_these_calling_cards_are_definitely_ai/\n\nhttps://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-7-under-fire-for-using-what-sure-looks-like-ai-generated-studio-ghibli-style-calling-card-art/\n\nhttps://www.ign.com/articles/activision-responds-to-complaints-of-ai-generated-assets-in-call-of-duty-black-ops-7\n\nhttps://www.reddit.com/r/anno/comments/1ow3v75/the_ai_background_art_is_pretty_low_quality/\n\nhttps://kotaku.com/anno-117-pax-romana-ai-loading-screen-pa",
+        "id": 4139639,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iAIYFEWBkiQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iAIYFEWBkiQ/hqdefault.jpg",
+        "title": "Players Keep Finding AI Slop In AAAs, Now Steam Are Refunding",
+        "vote": 0
+    }
+]

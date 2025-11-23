@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T22:57:44.098566+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T22:00:05+00:00",
+        "description": "240% performance gains in 5 years. The Intel era could never.\nUse SNAZZYLABS10 to save $90 on the iVANKY FusionDock Max 2 at checkout!\niVANKY on Amazon - https://snazzy.fm/rJ\niVANKY on Official Site - https://snazzy.fm/PA\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nThe M5 MacBook Pro delivers 20% faster CPU performance and 35% GPU gains over M4, crushing the $4,000 M1 Ultra Mac Studio while starting at just $1,600. This review benchmarks the M5 against M4 MacBook Air and M4 Mac mini across Geekbench 6, Cinebench, Death Stranding gaming, and AI workloads, revealing how Apple Silicon has achieved 240% performance gains since M1\u2014dwarfing the Intel era's pathetic 75% improvement over five years. From the thermal throttling nightmares and butterfly keyboard failures of 2016-2019 Mac",
+        "id": 4139967,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6AtTk3XoQVs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6AtTk3XoQVs/hqdefault.jpg",
+        "title": "The M5 Makes $1,600 Feel Like Theft",
+        "vote": 0
+    }
+]

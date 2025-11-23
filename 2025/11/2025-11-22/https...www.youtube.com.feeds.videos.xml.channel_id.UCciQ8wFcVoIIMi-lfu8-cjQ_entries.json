@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anton Petrov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T22:37:52.963166+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T22:00:53+00:00",
+        "description": "Support this channel on Patreon to help me make this a full time job: https://www.patreon.com/whatdamath (Unreleased videos, extra footage, DMs, no ads)\nAlternatively, PayPal donations can be sent here: http://paypal.me/whatdamath\nGet a Wonderful Person Tee: https://teespring.com/stores/whatdamath\nMore cool designs are on Amazon: https://amzn.to/3QFIrFX\n\nHello and welcome! My name is Anton and in this video, we will talk about new 3I/ATLAS updates\nLinks:\nhttps://www.astronomerstelegram.org/?read=17473\nhttps://www.minorplanetcenter.net/mpec/K25/K25V40.html\nhttps://arxiv.org/pdf/2510.26308\nhttps://sites.psu.edu/astrowright/2025/11/09/loebs-3i-atlas-anomalies-explained/\nRelated videos: \nhttps://www.youtube.com/watch?v=lf9oBlkQQCo\nhttps://www.youtube.com/watch?v=TEoKMWMlQiU\nhttps://www.youtube.com/watch?v=hX2RA9ioChE\n#3iatlas #comet #astronomy \n\n0:00 3I/ATLAS update \n0:58 NOT the same comets \n2:10 Emission analysis and bizarre crust \n4:30 Too red? \n5:40 Material lost so far \n6:40 Exciting",
+        "id": 4139849,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=t_UYX4o3ndE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 745,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t_UYX4o3ndE/hqdefault.jpg",
+        "title": "Radio Emissions from 3I/ATLAS and Other Exciting Updates",
+        "vote": 0
+    }
+]

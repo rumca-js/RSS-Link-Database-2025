@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stephen Garrett",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T13:04:16.371319+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T13:00:53+00:00",
+        "description": "As 'Wicked: For Good' hits big screens, Sphere is hosting a wildly distended, dazzlingly supersized and grotesquely manipulated version of the 1939 classic film that inspired it.",
+        "id": 4136756,
+        "language": "en",
+        "link": "https://observer.com/2025/11/review-sphere-the-wizard-of-oz-wicked-worth-it",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "Sphere\u2019s \u2018The Wizard of Oz\u2019 Walks an Uneasy Line Between Cinematic Enchantment and A.I. Slop",
+        "vote": 0
+    }
+]

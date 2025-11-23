@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/PablitoDonpedro",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T16:06:35.373585+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T15:45:15+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I built a content aggregator called <a href=\"http://rewindbypaul.com\"><strong>ReWindByPaul.com</strong></a>. It handles RSS, Podcasts, and YouTube, but it has a specific feature called &quot;ReWind&quot; that handles content that has already been added in the past. It&#39;s entirely web-based.</p> <p>The existing RSS readers I found felt overwhelming with too many options and complex settings. I just wanted something simple that works straight away, without needing a manual to set up.</p> <p><strong>What makes my app different?</strong><br/> It is, I hope, much simpler to use. It includes full podcast support, including a queue and an audio player. But it also has a unique feature that I haven&#39;t seen elsewhere. It&#39;s my own invention.</p> <p><strong>How does the &quot;ReWind&quot; feature work?</strong><br/> It sends you notifications about old content\u2014for example, older YouTube videos, or older RSS items.</p> <p>Let\u2019s say you discover a new Yo",
+        "id": 4137726,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1p3wd6z/i_built_a_content_aggregator_rss_podcasts_youtube",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built a content aggregator (RSS, Podcasts, YouTube) that helps you \"drip-feed\" old archives. Meet ReWindByPaul.com",
+        "vote": 0
+    }
+]

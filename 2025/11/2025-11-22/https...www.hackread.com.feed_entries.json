@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T17:10:06.228919+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T16:13:19+00:00",
+        "description": "CrowdStrike fired an insider for selling internal screenshots to Scattered Lapsus$ Hunters for $25,000. Read how the security team detected the activity and protected customers.",
+        "id": 4138182,
+        "language": "en-US",
+        "link": "https://hackread.com/crowdstrike-fires-worker-insider-leak-scattered-lapsus-hunters",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CrowdStrike Fires Worker Over Insider Leak to Scattered Lapsus Hunters",
+        "vote": 0
+    }
+]

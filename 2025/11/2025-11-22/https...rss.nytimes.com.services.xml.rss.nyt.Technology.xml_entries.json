@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mark Walker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T22:06:59.791387+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T21:10:46+00:00",
+        "description": "The chatter left startled adults unsure whether they heard correctly. Testers warned that interactive toys like this one could allow children to stray into inappropriate exchanges.",
+        "id": 4139720,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/11/22/us/folotoy-ai-bear-suspended-explicit-advice.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/12/21/lens/21xp-ai-bear/21xp-ai-bear-mediumSquareAt3X.png",
+        "title": "A.I. Toy Bear Speaks of Sex, Knives and Pills, Consumer Group Warns",
+        "vote": 0
+    }
+]

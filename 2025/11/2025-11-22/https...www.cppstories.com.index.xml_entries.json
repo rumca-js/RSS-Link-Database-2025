@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T21:11:24.893137+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T00:00:00+00:00",
+        "description": "<p>Before C++20, <code>&lt;chrono&gt;</code> gave us a solid foundation for working with clocks, durations, and time points -  but it didn\u2019t really know anything about the civil calendar. If you needed to represent \u201cMarch 15\u201d, check whether a date is valid, compute \u201cthe third Monday of November\u201d, or add a few months to a date, you had to rely on custom utilities, <code>std::tm</code>, or external libraries like Howard Hinnant\u2019s excellent date.</p>\n<p>C++20 finally fills this gap by standardising a complete set of calendar types: <code>year</code>, <code>month</code>, <code>day</code>, <code>weekday</code>, <code>year_month_day</code>, <code>month_day_last</code>, and many more. These types let you express dates in a clear, strongly typed way, without fragile integer arithmetic or manual conversions.</p>\n<p>All of this comes with a very clean API: more than 40 overloads of the <code>/</code> operator let you build date types fluently, almost like writing calendar expressions. In short,",
+        "id": 4139481,
+        "language": "en-us",
+        "link": "https://www.cppstories.com/2025/chrono-calendar-types",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 47,
+        "source_url": "https://www.cppstories.com/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Exploring C++20 std::chrono - Calendar Types",
+        "vote": 0
+    }
+]

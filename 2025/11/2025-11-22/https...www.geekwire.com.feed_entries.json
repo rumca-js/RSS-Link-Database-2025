@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Todd Bishop",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-22T17:04:54.835337+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-22T16:27:07+00:00",
+        "description": "<img width=\"960\" height=\"600\" src=\"https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png 960w, https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast-768x480.png 768w, https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast-630x394.png 630w\" sizes=\"(max-width: 960px) 100vw, 960px\"><br>This week on the GeekWire Podcast: Jeff Bezos steps back into startup life as co-CEO of a new AI venture. Plus, Amazon's surprising experiment at Seattle-area thrift stores, and a debate over GeekWire co-founder Todd Bishop\u2019s plan to bring new tech to his old car. <a href=\"https://www.geekwire.com/2025/bezos-is-back-in-startup-mode-amazon-gets-weird-again-and-the-great-old-car-tech-retrofit-debate/\">Read More</a>",
+        "id": 4138145,
+        "language": "en-US",
+        "link": "https://www.geekwire.com/2025/bezos-is-back-in-startup-mode-amazon-gets-weird-again-and-the-great-old-car-tech-retrofit-debate",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 131,
+        "source_url": "https://www.geekwire.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+        "title": "Bezos is back in startup mode, Amazon gets weird again, and the great old-car tech retrofit debate",
+        "vote": 0
+    }
+]
