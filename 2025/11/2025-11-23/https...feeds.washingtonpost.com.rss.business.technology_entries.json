@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerrit De Vynck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T10:25:49.841665+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T10:05:38+00:00",
+        "description": "President Donald Trump\u2019s attempt to block states from regulating AI sparked pushback from Republicans concerned the tech will displace workers and harm kids.",
+        "id": 4142214,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The surprising issue driving a wedge between Trump and his MAGA base",
+        "vote": 0
+    }
+]

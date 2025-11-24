@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DamiLee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T16:14:51.208576+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T16:01:47+00:00",
+        "description": "Growing up in Korea meant navigating kindness and competitiveness at the same time, and those early nicknames taught me more about Korean culture than I realized. As I\u2019ve learned more about Korea\u2019s rapid transformation, from colonization to global powerhouse, I\u2019ve started to understand how history shapes identity across generations. It\u2019s wild how much of ourselves comes from the people and places before us. What part of your history shaped you?",
+        "id": 4144082,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/UeoEiX9kcTA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 652,
+        "source_url": "https://youtube.com/channel/UCJ_2hNMxOzNjviJBiLWHMqg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UeoEiX9kcTA/hqdefault.jpg",
+        "title": "The Nicknames That Shaped My Korean Identity",
+        "vote": 0
+    }
+]

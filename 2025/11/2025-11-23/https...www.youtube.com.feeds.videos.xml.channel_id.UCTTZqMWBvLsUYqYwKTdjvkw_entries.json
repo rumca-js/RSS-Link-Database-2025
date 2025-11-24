@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T18:06:16.949858+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T17:00:25+00:00",
+        "description": "\ud83d\udc49 https://subskrypcja.uczmnie.pl \ud83d\udc48\n\n\ud83d\udc64\u00a0Nie jeste\u015b anonimowy w internecie. W sumie to\u2026 nikt nie jest. Opowiem Wam dzi\u015b o kilku ciekawych wpadkach os\u00f3b, kt\u00f3re by\u0142y chyba nieco zbyt pewne siebie w my\u015bleniu, \u017ce nikt nigdy nie pozna ich to\u017csamo\u015bci.\n \n\u0179r\u00f3d\u0142a:\n\ud83e\udd16\u00a0Jermanuts / bad-opsec @ GitHub\nhttps://github.com/jermanuts/bad-opsec\n\n\ud83d\udde3\ufe0f\u00a0They Told Their Therapists Everything. Hackers Leaked It All\nhttps://www.wired.com/story/vastaamo-psychotherapy-patients-hack-data-breach/\n\n\ud83d\udc41\ufe0f\u00a0When data breach hits a psychotherapy clinic: The Vastaamo casehttps://journals.sagepub.com/doi/pdf/10.1177/20438869241258235\n\n\ud83c\uddeb\ud83c\uddee\u00a0Finland's National Bureau of Investigation claims to have traced Monero \nhttps://www.reddit.com/r/Monero/comments/19emsfe/finlands_national_bureau_of_investigation_claims/\n\n\u26d3\ufe0f\u200d\ud83d\udca5 Hacker jailed for blackmailing therapy patients\nhttps://www.bbc.com/news/articles/c97znd00q7mo\n\n\ud83c\udf69\u00a0Ochko123 - How the Feds Caught Russian Mega-Carder Roman Seleznev\nhttps://blackhat.com/us-17/briefings/schedule/index.htm",
+        "id": 4144785,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=BAT5jXMeftA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BAT5jXMeftA/hqdefault.jpg",
+        "title": "G\u0142upie wpadki, czyli dlaczego nie jeste\u015b\u00a0anonimowy w internecie #OPSEC",
+        "vote": 0
+    }
+]

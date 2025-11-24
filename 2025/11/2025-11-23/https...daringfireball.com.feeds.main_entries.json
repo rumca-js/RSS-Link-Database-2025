@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T23:12:46.137043+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T23:00:00+00:00",
+        "description": "<p>There have been several new features that have been delayed in the EU while Apple worked on making them compliant with the DMA. iPhone Mirroring <a href=\"https://support.apple.com/en-us/120421\">debuted over a year ago with iOS 18 and MacOS 15 Sequoia</a>, but still remains unavailable today in the EU. Apple Intelligence <a href=\"https://9to5mac.com/2025/04/01/apple-intelligence-is-now-fully-supported-in-the-eu-with-ios-18-4/\">was delayed the EU until iOS 18.4</a> in April, but was <a href=\"https://www.macrumors.com/2024/10/28/apple-releases-ios-18-1/\">available to most of the world in 18.1</a> last October. And, both most recently and briefly, the <a href=\"https://support.apple.com/en-us/123185\">live translation feature</a> for AirPods Pro 3, AirPods Pro 2, and AirPods 4, which debuted outside the EU with the launch of iOS 26.0 in September, <a href=\"https://www.apple.com/ie/newsroom/2025/11/live-translation-on-airpods-expands-to-the-eu/\">will only become available in the EU next m",
+        "id": 4146253,
+        "language": "",
+        "link": "https://daringfireball.net/2025/11/apple_eu_dma_iphone_accessories_wi-fi_sync",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Exploring, in Detail, Apple\u2019s Compliance With the EU\u2019s DMA Mandate Regarding Apple Watch, Third-Party Accessories, and the Syncing of Saved Wi-Fi Networks From iPhones to Which They\u2019re Paired",
+        "vote": 0
+    }
+]

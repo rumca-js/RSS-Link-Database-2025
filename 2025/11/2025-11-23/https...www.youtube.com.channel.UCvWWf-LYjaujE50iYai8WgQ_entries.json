@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T08:30:20.317131+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T08:11:18+00:00",
+        "description": "The Blackest Friday - Tech News Nov 23\n\u25b7 MY STORE - shirts, pint glasses & hoodies: http://paulshardware.net\n\u21e8 Sponsor: Thermaltake View 600 TG Case | buy: https://geni.us/qg278Q info: https://tinyurl.com/TTV600\n\n\u25ba TIMESTAMPS\n0:00 Welcome to Paul\u2019s Tech News - November 23, 2025\n1:50 Black Friday PC Hardware Sales Overshadowed by RAM/Storage Price Spikes\n4:03 GPUs To Get Expensive Again; Budget GPUs Might Just End\n\u201cAI Generated\u201d TECH BRIEFS \n5:40 Microsoft finally admits almost all major Windows 11 core features are broken\n6:41 Gmail can read your emails and attachments to train its AI, unless you opt out\n7:21 Leaked documents reveal that Amazon could replace 600,000 US workers with robots\nTECH BRIEFS\n8:01 AMD shortens \u201cFidelityFX Super Resolution\u201d name to just \u201cFSR\u201d for Redstone Debut\n8:52 800W ASUS ROG Matrix XOC BIOS Flashed on Other RTX 5090 GPUs\n9:52 End of Year Build / Giveaway Series Update \n\n\u25ba LINKS\nBlack Friday Sales Overshadowed by Memory and Storage Price Spikes\n9800X3D $450",
+        "id": 4141869,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZIC602Z-MCE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZIC602Z-MCE/hqdefault.jpg",
+        "title": "The Blackest Friday",
+        "vote": 0
+    }
+]

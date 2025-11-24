@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "4 Ever Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T11:21:19.165914+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T11:00:16+00:00",
+        "description": "Some animals are so strange, they look like they don\u2019t belong on Earth. From a fish with a transparent head to a creature that\u2019s part lizard, part mole, and part worm \u2014 these real-life animals will blow your mind.\n\n\ud83c\udf0d Featuring:\n\u2714 Pacific Barreleye Fish\n\u2714 Mexican Mole Lizard\n\u2714 Bobbit Worm\n\u2714 Fried Egg Jellyfish\n\u2714 Honduran White Bat\n\u2714 Satanic Leaf-Tailed Gecko\n\u2714 Purple Frog\n\u2714 Gulper Eel\n\u2714 Naked Mole Rat\n\u2026 and more unbelievable animals!",
+        "id": 4142433,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4byAd31Q8Tw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 880,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRpNVpZoW56rOsV-6wFK3lg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4byAd31Q8Tw/hqdefault.jpg",
+        "title": "Strange Animals That Don't Even Look Natural",
+        "vote": 0
+    }
+]

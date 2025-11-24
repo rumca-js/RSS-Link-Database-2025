@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uwaga! Naukowy Be\u0142kot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T08:50:37.305706+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T08:19:07+00:00",
+        "description": null,
+        "id": 4141922,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/50XwlfHpkhA",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 377,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7PqixGIdE-jjoHKMPYpGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/50XwlfHpkhA/hqdefault.jpg",
+        "title": "Biorezonans - pocz\u0105tek",
+        "vote": 0
+    }
+]

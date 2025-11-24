@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T20:28:36.935911+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T20:18:24+00:00",
+        "description": "I colorized, restored, and sound-designed rare footage of a 1919 airship flight over the Western Front battlefields in France. The journey shows Arras, Loos, La Bass\u00e9e, Armenti\u00e8res, Merris, Bailleul, and Mont-Saint-\u00c9loi, revealing the scale of wartime destruction in cities and landscapes. Filmed from the airship\u2019s nacelle, the footage captures the pilot, controls, and cables in the foreground, while flying low over towns, factories, markets, ruins, and iconic sites like Vimy Ridge and Arras. This second part of the voyage immerses viewers in the devastation and daily life amidst the aftermath of WWI.\n\nB&W Video Source: Mus\u00e9e d\u00e9partemental Albert-Kahn dans le d\u00e9partement des Hauts-de-Seine (Le Saint, Lucien )\n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nAlbert Kahn, born Abraham Kahn in Marmoutier, Alsace, on March 3, 1860, and died in Boulogne-Billancourt on November 14, 1940, ",
+        "id": 4145463,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2olAr_KYbuU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2olAr_KYbuU/hqdefault.jpg",
+        "title": "WWI HD Color, Flying Over the Battlefields, France 1919 [60fps, remastered] Sound",
+        "vote": 0
+    }
+]

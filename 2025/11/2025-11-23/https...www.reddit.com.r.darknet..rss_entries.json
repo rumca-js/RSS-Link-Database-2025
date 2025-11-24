@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/dripturtle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T08:54:58.743418+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T08:49:03+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey people sos this might be answered somewhere but I\u2019ve already searched around a bit for this question but haven\u2019t really found a specific answer for it. With a burner computer and tails os using tor like just the usual stuff would it be okay to connect to my home network the same way I would connect if I was on a normal computer without an Ethernet cable or anything extra just typing in the password and what not or would it put the people connected to it at risk including me and would it fuck over our network?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dripturtle\"> /u/dripturtle </a> <br/> <span><a href=\"https://www.reddit.com/r/darknet/comments/1p4hwqs/newbie_to_net/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/darknet/comments/1p4hwqs/newbie_to_net/\">[comments]</a></span>",
+        "id": 4141928,
+        "language": "en",
+        "link": "https://www.reddit.com/r/darknet/comments/1p4hwqs/newbie_to_net",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 681,
+        "source_url": "https://www.reddit.com/r/darknet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Newbie to net",
+        "vote": 0
+    }
+]

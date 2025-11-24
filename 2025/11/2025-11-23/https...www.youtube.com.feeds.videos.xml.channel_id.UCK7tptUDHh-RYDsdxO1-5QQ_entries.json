@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T18:14:54.370876+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T17:00:55+00:00",
+        "description": "Universities nationwide are battling to pad their balance sheets by attracting families who will pay full sticker price, particularly as the Trump administration slashes funding. High Point is something of a blueprint.\u2060\n\n#HighPoint #College #WSJ",
+        "id": 4144820,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/YhSimyy5PJw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YhSimyy5PJw/hqdefault.jpg",
+        "title": "How This Small Southern College Became So Popular for Wealthy Students",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Boyle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T11:15:39.179409+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T11:15:07+00:00",
+        "description": "\ud83d\udd12 Get 20% off DeleteMe by going to https://joindeleteme.com/BOYLE and use code BOYLE to protect your privacy! \ud83d\ude4c\ud83c\udffb\n\nOpenAI has signed $1.4 trillion in infrastructure commitments, but how do they plan to pay for it? Are government subsidies and taxpayer-backed guarantees the next step? In this video, we dive into the financing gymnastics behind the AI revolution, the lobbying for federal support, and why tech firms are pitching AI as \u201ctoo important to fail.\u201d\nWe\u2019ll cover:\n\u2705 OpenAI\u2019s $1.4 trillion data center buildout\n\u2705 The push for government backstops and subsidies\n\u2705 Nvidia\u2019s warning on energy and capital constraints\n\u2705 Why AI could strain power grids and utilities\n\u2705 The risk of an AI \u201cmetabubble\u201d and what it means for investors\n\nPatrick's Books:\nStatistics For The Trading Floor:  https://amzn.to/3eerLA0\nDerivatives For The Trading Floor:  https://amzn.to/3cjsyPF\nCorporate Finance:  https://amzn.to/3fn3rvC \n\nWays To Support The Channel\nPatreon: https://www.patreon.com/PatrickBoyleOnFinanc",
+        "id": 4142393,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cHiZ-7jI0Ew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 732,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCASM0cgfkJxQ1ICmRilfHLw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cHiZ-7jI0Ew/hqdefault.jpg",
+        "title": "Does OpenAI expect a Government Bailout",
+        "vote": 0
+    }
+]

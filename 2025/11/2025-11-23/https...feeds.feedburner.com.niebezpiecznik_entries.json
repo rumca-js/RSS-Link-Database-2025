@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Piotr Konieczny",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T13:40:12.575414+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T12:41:20+00:00",
+        "description": "<p>Odnotujmy wa\u017cn\u0105 z punktu <a href=\"https://niebezpiecznik.pl/post/uruchamiamy-2-dniowe-praktyczne-szkolenie-z-osint-u/\" target=\"_blank\">OSINT-owego</a> zmian\u0119: Twitter (obecnie: X) zacz\u0105\u0142 pokazywa\u0107 <strong>kraj i lokalizacj\u0119, z jakiej za\u0142o\u017cono dane konto</strong>. Oznaczane jest te\u017c u\u017cycie VPN-a.<span id=\"more-26751\"></span></p>\n<p>Zmiana wywo\u0142a\u0142a du\u017co emocji &#8212; nagle okaza\u0142o si\u0119, \u017ce wiele profili tylko udaje lokalnych komentator\u00f3w, a w rzeczywisto\u015bci jest prowadzona z innego kraju ni\u017c ten, kt\u00f3rego sprawy aktywnie komentuj\u0105.</p>\n<h3>Jak to wygl\u0105da?</h3>\n<p>Poni\u017cej prezentacja tego, jak wygl\u0105daj\u0105 nowe zmiany. Jak wida\u0107 HRejterzy swoje konto za\u0142o\u017cyli nie z aplikacji, a ze strony internetowej. Z kolei konto Richarda Bransona wyklikano w aplikacji mobilnej pobranej w Wielkiej Brytanii, ale logowania nast\u0119puj\u0105 ju\u017c z terytorium USA i poprzez VPN-a (patrz symbol tarczy).</p>\n<p><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/11/twitter-x-country-ip-info.jpg\"><img fetchprior",
+        "id": 4143181,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2025/11/twitter-x-country-ip-info-150x150.jpg",
+        "title": "Twitter demaskuje u\u017cytkownik\u00f3w. Nowe zmiany zdradzaj\u0105, sk\u0105d prowadzone jest konto i jak je za\u0142o\u017cono",
+        "vote": 0
+    }
+]

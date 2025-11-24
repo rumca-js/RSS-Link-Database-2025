@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Meeting C++",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T16:44:21.275736+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T16:19:05+00:00",
+        "description": "<p>\n\tPatrice Roy gave a great talk online on C++ casts at Meetign C++ 2025</p>\n<blockquote>\n\t<h2>\n\t\t<a href=\"https://www.youtube.com/watch?v=spxCeWT-GrA\">To lie, and hopefully - to lie usefully - Patrice Roy - Meeting C++ 2025</a></h2>\n\t<p>\n\t\tby Patrice Roy</p>\n\t<p>\n\t\t<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/spxCeWT-GrA?si=Riv8-jQVZGUjpDUl\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n</blockquote>",
+        "id": 4144304,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/11/cpp-casts-to-lie-and-hopefully-to-lie-usefully-patrice-roy-meeting-c-2025",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++ Casts: To lie, and hopefully - to lie usefully - Patrice Roy - Meeting C++ 2025",
+        "vote": 0
+    }
+]

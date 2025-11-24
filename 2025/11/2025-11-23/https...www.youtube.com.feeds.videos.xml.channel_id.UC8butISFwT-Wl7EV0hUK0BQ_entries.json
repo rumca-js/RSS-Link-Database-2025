@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T13:53:28.125035+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T13:43:27+00:00",
+        "description": "Some people get migraine headaches daily, like Thomas. On the freeCodeCamp podcast, he discusses what it's like and how he manages the pain and symptoms.",
+        "id": 4143268,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/P6fLZFJsH7Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P6fLZFJsH7Y/hqdefault.jpg",
+        "title": "What it's like living with daily migraines - and how Thomas manages them",
+        "vote": 0
+    }
+]

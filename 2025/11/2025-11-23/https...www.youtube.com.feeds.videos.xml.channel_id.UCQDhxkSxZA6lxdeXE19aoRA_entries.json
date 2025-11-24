@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hugh Jeffreys",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T06:40:27.086408+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T05:45:03+00:00",
+        "description": "Part of the reason older IOS devices no longer receive App updates and lose the ability to download new apps is because of a few 13MB files removed from App developers which would allow them to push apps to these versions.\n----------------------------------------iTest---------------------------------------\nEasily test hardware functionality and device specifications with iTest\nAndroid: https://play.google.com/store/apps/details?id=com.hughjeffreyssoftware.iTest\nIOS: https://apps.apple.com/us/app/itest/id6484069424\n--------------------------------------Socials-------------------------------------\nWebsite: https://www.hughjeffreys.com\nStore: https://www.hughjeffreys.com/store\nInstagram: http://instagram.com/hughjeffreys\nPatreon: https://www.patreon.com/hughjeffreys",
+        "id": 4141493,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WXqVV8_GORE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 145,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WXqVV8_GORE/hqdefault.jpg",
+        "title": "Apple\u2019s Preventing Apps From Working On Older iPhones & This Is How They're Doing It #AppGate",
+        "vote": 0
+    }
+]

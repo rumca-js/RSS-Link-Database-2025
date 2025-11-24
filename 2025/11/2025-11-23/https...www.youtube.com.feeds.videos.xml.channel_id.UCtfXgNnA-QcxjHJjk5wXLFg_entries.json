@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Rock",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T03:18:38.357193+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T02:51:07+00:00",
+        "description": "Blackpool Sands without sand? Yep. But it\u2019s still one of the most beautiful and cleanest beaches in the world, even earning a Blue Flag. Is there a more beautiful beach in England?\n\nA Blue Flag beach is one that meets some of the highest standards in the world for water quality, cleanliness, safety, and environmental care. It basically means the beach is super clean, the water is tested regularly, and the area is well-managed and protected. Only the best beaches earn it.",
+        "id": 4140927,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/OG7dmZNk7Ic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 902,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtfXgNnA-QcxjHJjk5wXLFg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OG7dmZNk7Ic/hqdefault.jpg",
+        "title": "The Beach That Tricked Me\u2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elisa Carollo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T01:20:24.886233+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T00:31:11+00:00",
+        "description": "Kahlo and Magritte anchored the auction house's Modern session as Surrealist artists delivered record-breaking results.",
+        "id": 4140563,
+        "language": "en",
+        "link": "https://observer.com/2025/11/sothebys-november-auctions-surrealist-records-kahlo-55-million",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "In Its Best Week Since 2021, Sotheby\u2019s Hit $1.173B With a $54.7M Kahlo Finale",
+        "vote": 0
+    }
+]

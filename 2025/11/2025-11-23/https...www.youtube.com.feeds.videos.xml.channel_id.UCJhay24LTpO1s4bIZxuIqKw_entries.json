@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T15:56:57.674639+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T15:01:25+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nWhat Is \"Hello\" in C++? - Nicolai M. Josuttis - ACCU 2025 Short Talks\n---\n\nWhat is \"hello\" in C++ - really? This lightning talk dives deep into the nature of string literals in C++, exploring the value category of \"hello\", how type deduction works, and why it's more complex than it appears at first glance.\n\nMany C++ developers assume they understand the basics of a string literal, but in this talk, we challenge that assumption. Using the example \"hello\", we walk through how C++ interprets it in terms of type and value category \u2014 is it a const char array? A PR value? An Lvalue? We\u2019ll find out using tools like `decltype`, `auto`, and references.\n\nYou\u2019ll learn:\n- What a C++ string literal really is at the type system level.\n- How value categories (Lvalue, Rvalue, PRvalue, Xvalue) affect interpretation.\n- Why `decltype(\"hello\")` may not return what you expect.\n- How array decay, type deduction, and move semantics play a role.\n- The differ",
+        "id": 4144027,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mMT5wLU1z-I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mMT5wLU1z-I/hqdefault.jpg",
+        "title": "What Is \"Hello\" in C++? - Nicolai M. Josuttis - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

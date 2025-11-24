@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Happy-Assumption-555",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T10:36:05.190925+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T10:10:37+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve wasted so much money over the years on proxy providers that swear their IPs are \u201c100 % undetected residential/mobile\u201d \u2026 only to watch my scripts die in the first 100 requests on Cloudflare, Akamai, PerimeterX, DataDome, you name it.</p> <p>A few months ago I got fed up and built a tiny free tool that checks an IP against every database the big anti-bot systems actually use in real time. Takes 1 second and tells you straight up:</p> <ul> <li>Is it flagged as proxy/datacenter by MaxMind, IP2Proxy, IPinfo, etc.?</li> <li>Which exact proxy providers are already reselling it (usually 3\u201310 different companies)</li> <li>Is it a \u201cbroadcast\u201d mobile IP (carrier IP that secretly rents out user IPs via SDKs)</li> <li>Callback test \u2013 does it actually answer like a real browser or leak that it\u2019s a proxy?</li> </ul> <p>Now my routine is literally:</p> <ol> <li>Provider sends me a new proxy list \u2192 paste the first 50 IPs into ping0</li> <li>80\u201390 % light up red/y",
+        "id": 4142293,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1p4j78e/90_of_clean_proxies_are_trash_i_catch_them_in_2s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "90% of \u201cclean\u201d proxies are trash. I catch them in 2s",
+        "vote": 0
+    }
+]

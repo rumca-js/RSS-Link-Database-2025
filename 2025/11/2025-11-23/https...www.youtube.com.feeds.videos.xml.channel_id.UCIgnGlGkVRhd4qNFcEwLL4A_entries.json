@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T04:03:34.845235+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T03:28:49+00:00",
+        "description": "INSANE AI NEWS: HunyuanVideo 1.5, Gemini 3, Nanobanana Pro, Grok 4.1, AntiGravity GPT Codex Max #ai #ainews #aitools #agi #aivideo #singularity\n\nThanks to our sponsor Genspark. Try Genspark for free: \nhttps://www.genspark.ai/?utm_source=yt&utm_campaign=theAIsearch \n\nSources in order of mention:\nhttps://depth-anything-3.github.io/\nhttps://ai.meta.com/blog/segment-anything-model-3\nhttps://ai.meta.com/blog/sam-3d\nhttps://github.com/Tencent-Hunyuan/HunyuanVideo-1.5\nhttps://kandinskylab.ai/\nhttps://x.ai/news/grok-4-1\nGemini 3 review https://youtu.be/UH2_Sgeu4lc\nNano Banana Pro review https://youtu.be/IcSeYMYMgSs\nhttps://openai.com/index/gpt-5-1-codex-max/\nhttps://proactivehearing.cs.washington.edu/\nhttps://blog.google/technology/google-deepmind/weathernext-2/\nhttps://antigravity.google/\nhttps://physx-anything.github.io/\nhttps://github.com/rlresearch/dr-tulu\nhttps://chunshi.wang/Part-X-MLLM/\nhttps://idealistxy.github.io/Uni-MoE-v2.github.io/\n\n\nNewsletter: https://aisearch.substack.com/\nFind",
+        "id": 4141029,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XN-OL6YDZjs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XN-OL6YDZjs/hqdefault.jpg",
+        "title": "New top AI video models, Google dominates, top 3D model generator, Grok 4.1, GPT-Codex-Max: AI NEWS",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T12:46:12.005357+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T12:22:12+00:00",
+        "description": "[allAfrica] This week, two global stories collided in a way that should make every African policymaker pause: China is doubling down on its relationship with Africa, while the United States is literally not showing up -- boycotting the G20 Summit hosted on the African soil. If global influence were a chessboard, Beijing just moved its queen. Washington left the room.",
+        "id": 4142935,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202511230021.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: As America Walks Away, China Seizes The Moment",
+        "vote": 0
+    }
+]

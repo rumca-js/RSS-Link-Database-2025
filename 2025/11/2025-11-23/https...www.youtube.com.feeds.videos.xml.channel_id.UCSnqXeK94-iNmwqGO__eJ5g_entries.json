@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Steve Wallis",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-23T22:11:01.916622+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-23T22:03:01+00:00",
+        "description": "I built a secret camping fort under a highway overpass bridge and camped out in it for the night. It all went fairly smoothly eventually. It took a couple weeks to get the fort fully built and stocked but when it was done it was amazing. I color matched the paint of the bridge to paint the plywood to disguise my camping activities. We hauled up the fort, set it in place and had a very stealthy camping trip. No campsite required, earplugs optional.\n\n\n----------------------------------------------------------------\n\u2022 Website: https://campingwithsteve.com\n\u2022 My Amazon store: https://amzn.to/49li5Az\n\u2022 Merch https://crowdmade.com/collections/stevewallis\n----------------------------------------------------------------\n\nGear:\n\nCamera: Sony Alpha FX3\nhttps://amzn.to/3SIMQra\n\nLens: Sony FE PZ 16-35mm F4 G\nhttps://amzn.to/3SL1rm7\n\nEditing: Apple 2021 MacBook Pro M1 Final Cut Pro\nhttps://amzn.to/3YeuCiy\n\nDrone: DJI Mini 3\nhttps://amzn.to/3YqQ0Ew\n\n--------------------------------------------------",
+        "id": 4145994,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pc20TjmKiPw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 905,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSnqXeK94-iNmwqGO__eJ5g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pc20TjmKiPw/hqdefault.jpg",
+        "title": "Camping In Secret Bridge Fort",
+        "vote": 0
+    }
+]
