@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T16:05:28.419260+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T15:42:23+00:00",
+        "description": "Once valued near $2 billion, hospitality startup Sonder promised hotel luxury at Airbnb prices. But the company\u2019s Marriott partnership dissolved, guests were left stranded and the short-term rental company shut down for good. WSJ explains what went wrong.\n\nChapters:\n0:00 Sonder\u2019s meltdown\n0:46 The rise\n2:14 The turning point\n4:40 The downfall\n5:16 Marriott left to manage the fallout\n\nWhat Went Wrong explores the challenging conditions and decisions that led to a company's downturn.\n\n#Sonder #Marriott #WSJ",
+        "id": 4151619,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BrfkFftU8PI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BrfkFftU8PI/hqdefault.jpg",
+        "title": "How Sonder Abruptly Unraveled After Its Messy Marriott Breakup | WSJ What Went Wrong",
+        "vote": 0
+    }
+]

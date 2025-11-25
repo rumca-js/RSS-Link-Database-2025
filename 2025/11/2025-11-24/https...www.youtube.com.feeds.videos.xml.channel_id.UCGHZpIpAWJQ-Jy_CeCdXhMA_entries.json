@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cool Worlds",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T15:25:46.724262+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T14:32:48+00:00",
+        "description": "20% off at https://crowdmade.com/collections/cool-worlds",
+        "id": 4151219,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/bu2T_7RCV0w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 834,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpAWJQ-Jy_CeCdXhMA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bu2T_7RCV0w/hqdefault.jpg",
+        "title": "Cool Worlds Black Friday Sale!",
+        "vote": 0
+    }
+]

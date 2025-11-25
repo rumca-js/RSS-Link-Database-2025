@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T19:43:04.017094+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T19:33:46+00:00",
+        "description": "Thanks to Huawei for sponsoring this video and giving us access to check out all of this cool tech! Head over to https://bit.ly/49BYheQ to check out their latest and greatest wearables.\n\nHave you ever wondered how companies verify the accuracy of their fitness tracking? Touring Huawei's Advanced Health Lab reveals the science behind their smartwatches! See high-tech motion capture for basketball, rock climbing, and - most important for Linus - badminton. We dive into the pool for underwater communication and test fitness tracking accuracy on the latest GT6 Pro and Watch Ultimate 2. Discover how this lab makes smartwatch fitness better. \n\nDiscuss on the forum: https://linustechtips.com/topic/1627320-the-high-tech-gym-that-powers-fitness-trackers/\n\nCheck out our Channel Partners:\nSecretlab - Get up to $249 off during their Black Friday/Cyber Monday sale (ends Dec. 5 2025): https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" se",
+        "id": 4153617,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xkGNuPanPh4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xkGNuPanPh4/hqdefault.jpg",
+        "title": "The High Tech Gym That Powers Fitness Trackers",
+        "vote": 0
+    }
+]

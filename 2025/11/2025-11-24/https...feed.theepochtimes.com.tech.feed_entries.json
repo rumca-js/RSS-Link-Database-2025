@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jack Phillips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T20:00:58.758812+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T19:13:04+00:00",
+        "description": "Several reports and posts on social media said the company was using private emails to train its Gemini model.",
+        "id": 4153899,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/google-denies-claims-that-its-reading-gmails-to-train-its-ai-5949091",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2022/10/05/GettyImages-1230122728-1080x720.jpg",
+        "title": "Google Denies Claims That It\u2019s Reading Gmails to Train Its AI",
+        "vote": 0
+    }
+]

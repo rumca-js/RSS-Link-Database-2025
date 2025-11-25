@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T16:45:02.725122+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T15:44:00+00:00",
+        "description": "<p>So far <a href=\"https://pyfound.blogspot.com/2025/11/python-is-for-everyone-join-in-psf-year.html\" target=\"_blank\">this year\u2019s PSF fundraising campaign</a> has been a truly inspiring demonstration of the Python community's generosity, strength, and solidarity. We set a special \ud83e\udd67 themed goal of $314,159.26 (it\u2019s <a href=\"https://www.python.org/downloads/release/python-3140/\" target=\"_blank\">the year of Python 3.14</a>!), and with your support, we are already at 93% of that goal\u2014WOW!! Thank you to every single person who has already donated: you have our deep gratitude, and we are committed to making every dollar count.&nbsp;</p><p>\ud83d\udea8 New target alert: If we hit our goal of $100K\u03c0- we are going to release a nice video AND we are going to set a new goal, as well as an additional <b><i>super stretch</i></b> goal. <a href=\"http://donate.python.org\" target=\"_blank\">Can you chip in to get us there</a>? We\u2019re confident that with your contributions and support we can reach those new heights.",
+        "id": 4152096,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/11/python-is-for-everyone-grab-pycharm-pro.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Python is for Everyone: Grab PyCharm Pro for 30% off\u2014plus a special bonus!",
+        "vote": 0
+    }
+]

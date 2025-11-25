@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T18:26:22.270270+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T18:01:10+00:00",
+        "description": "When the Marvel Cinematic Universe first began to take shape, audiences had never seen anything quite like it.  Not only were these beloved superhero stories finally getting the big screen treatment they deserved, but movies like Iron Man, Guardians of the Galaxy, and the Winter Soldier all told classic superhero stories that were steeped in genre and had a singular creative voice, personality, and purpose.   \n\nBut fast-forward to today, and things feel very different. With the evolution of the DCEU, the new DCU, the Universal Monsters universe, Fast & Furious, and even modern Marvel itself, today\u2019s franchises have started to blend together. The once-epic, character-focused storytelling has given way to something that feels generic, interchangeable, and forgettable. \n\nSo how did we get here? How did studios \u2014 including Marvel \u2014 fail to learn from their own past success and repeated missteps? And what is driving this era of franchise fatigue, where everything looks and feels the same?\n",
+        "id": 4152986,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=uBt5PY9VmPk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uBt5PY9VmPk/hqdefault.jpg",
+        "title": "The Biggest Problem Marvel Created",
+        "vote": 0
+    }
+]

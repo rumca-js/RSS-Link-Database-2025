@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T23:15:16.593179+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T22:30:07+00:00",
+        "description": "Here we go again \ud83c\udf69\n\nIn this video you'll learn how to use Blender 5.0's core tools and techniques by making a donut.\n\n===Links\ud83d\udd17===\n\nDownload Blender: https://www.blender.org/download/\n\nBeginner Academy: https://academy.blenderguru.com/join\n\nKeyboard Shortcut Guide: https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit?usp=drive_link\n\nBlender Guru Discord: https://blenderguru.com/discord\n\nBlender Guru: http://www.blenderguru.com \nPoliigon (My sister company): http://www.poliigon.com High-quality Models, Textures, HDRIs\n\n=== Chapter Marks \u2702\ufe0f===\n0:00 Intro\n0:40 Blender Academy Course\n0:50 Download and Installation of Blender 5.0\n1:30 Interface + Navigation\n6:02 Adding objects\n9:32 Shade Smooth\n10:27 Add another object (creating coffee mug)\n12:13 Move Tool (Fix overlapping objects)\n15:27 Shifting Focus\n15:42 Edit Mode\n17:23 Different Select Options\n17:57 Delete Face (creating the opening for mug)\n18:27 Add Solidify Modifier\n20:40 Add Subdivision Surface Modi",
+        "id": 4155371,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-tbSCMbJA6o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-tbSCMbJA6o/hqdefault.jpg",
+        "title": "Beginner Blender 5.0 Donut Tutorial - Part 1",
+        "vote": 0
+    }
+]

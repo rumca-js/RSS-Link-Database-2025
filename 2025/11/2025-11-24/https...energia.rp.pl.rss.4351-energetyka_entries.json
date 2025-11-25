@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T18:10:05.119098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T18:10:02+00:00",
+        "description": "Bran\u017ca przemys\u0142owa i hutnicza alarmuje, \u017ce nadal nie otrzyma\u0142a wyp\u0142at pomocy za zbyt wysokie koszty energii i gazu. List w tej sprawie trafi\u0142 do premiera Donalda Tuska.",
+        "id": 4152904,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ceny-energii/art43390771-rekompensaty-za-zbyt-wysokie-ceny-energii-i-gazu-nadal-nie-trafily-do-polskich-firm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rekompensaty za zbyt wysokie ceny energii i gazu nadal nie trafi\u0142y do polskich firm",
+        "vote": 0
+    }
+]

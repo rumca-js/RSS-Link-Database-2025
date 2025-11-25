@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T15:46:06.244941+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T15:07:11+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nWhy 99% of C++ Microbenchmarks Lie \u2013 and How to Write the 1% that Matter! - Kris Jusiak - CppCon 2025\n---\n \nWe've all seen (or written!) benchmarks claiming \"X is faster than Y\" - only to discover the opposite in production. Most microbenchmarks lie by omission, focusing only on throughput and hiding critical factors like branch prediction, cache effects, and pipeline stalls behind deceptively simple numbers. \n \nIn this talk, we will explore how to avoid common microbenchmarking pitfalls by leveraging (directly from C++23): \n\n-  Hardware performance counters and processor tracing \n-  Machine code and top-down microarchitecture analysis \n-  Statistical and visualization techniques  \n \nTopics covered: \n \n- Why \"naked\" performance numbers are often meaningless \n- How to detect and eliminate misleading benchmarks \n- How to choose the right tools \n- when to benchmark, what to benchmark (latency vs. throughput), and when to stop \n-  How to extract actionable insight",
+        "id": 4151542,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=s_cWIeo9r4I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s_cWIeo9r4I/hqdefault.jpg",
+        "title": "Why 99% of C++ Microbenchmarks Lie \u2013 and How to Write the 1% that Matter! - Kris Jusiak",
+        "vote": 0
+    }
+]

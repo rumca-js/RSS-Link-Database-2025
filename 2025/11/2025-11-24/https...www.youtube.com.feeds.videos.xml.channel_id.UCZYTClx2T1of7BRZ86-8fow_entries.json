@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T18:29:37.266109+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T18:00:50+00:00",
+        "description": "Start, restart, or continue your college journey with Study Hall! Take a college course that starts on YouTube and earn credit before you even apply to college. Go to https://link.gostudyhall.com/scistats to learn more.\n\nHave you ever wanted to put your virtual d20 in \"dice jail\" after an unlikely series of truly terrible rolls? Does Spotify's latest shuffle algorithm not seem random enough to you? This episode is all about RNGs and random number generation \u2014 why we don't always want true randomness, and how we can get truly random numbers when we do.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jaap Westera, Alex Hackman, Blood D",
+        "id": 4153010,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=gLDHs3195u4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gLDHs3195u4/hqdefault.jpg",
+        "title": "The Quantum Quest for a Perfectly Random d20",
+        "vote": 0
+    }
+]

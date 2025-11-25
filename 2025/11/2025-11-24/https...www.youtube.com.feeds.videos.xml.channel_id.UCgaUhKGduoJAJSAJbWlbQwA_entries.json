@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mullet-Man Comics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T19:10:18.980266+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T19:01:11+00:00",
+        "description": "No Psychologist is better than Dr. Tanner.\n\n\nI made this video as a way to try something new I've always wanted to do. \nWhether this becomes something I do again or not, Only time will tell.\nEnjoy!\nCredits:\nEdited by Mullet-Man\nStory written by Creepycarbs\nSongs used in Video:\nSilent Hill ost\nResident Evil ost\nRequiem - Shiki",
+        "id": 4153446,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FWC5dWTf3L8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 701,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgaUhKGduoJAJSAJbWlbQwA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FWC5dWTf3L8/hqdefault.jpg",
+        "title": "World's Greatest School Psychologist",
+        "vote": 0
+    }
+]

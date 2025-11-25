@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T16:09:58.950538+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T15:10:01+00:00",
+        "description": "In this video, we're taking a look at official SteamOS 3.9 running on the most powerful all-AMD small form factor gaming PC I\u2019ve built in a long time. We\u2019ve got the AMD Ryzen 7 9800X3D paired with an RDNA 4 Radeon RX 9070 XT inside an M3 Mini-ITX case \u2014 and performance shocked me.\nRunning SteamOS on RDNA4 has been impossible until now, but with Valve\u2019s latest main branch release, everything finally boots and works correctly. So in this video we put it to the test with Cyberpunk 2077, Spider-Man 2, Witcher 3, Marvel Rivals, God of War: Ragnarok, and Borderlands 4 \u2014 all at 1440p and 4K Ultra.\n\nBuy the RX 9070XT: https://amzn.to/3XKIJOz\nAM5 Mini iTX: https://amzn.to/43Mw1lU\nRyzen 9800X3D: https://amzn.to/4rjqYDG\nLian Li A3 Case: https://amzn.to/485dmmw\nDDR5: https://amzn.to/489XEqs\nASUS Prime 850W Gold: https://amzn.to/3MlgnrF\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Black Friday Sale code for soft",
+        "id": 4151639,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_U6-R6XtCUQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_U6-R6XtCUQ/hqdefault.jpg",
+        "title": "We Built he  Fastest All-AMD RDNA4 Steam Machine! Insane Performance",
+        "vote": 0
+    }
+]

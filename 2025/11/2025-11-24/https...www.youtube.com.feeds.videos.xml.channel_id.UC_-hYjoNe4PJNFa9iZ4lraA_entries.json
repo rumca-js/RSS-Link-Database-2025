@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T16:56:19.862881+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T15:48:06+00:00",
+        "description": "Truly, a website",
+        "id": 4152195,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6kr788156ck",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6kr788156ck/hqdefault.jpg",
+        "title": "roasting Berkshire Hathaway's website",
+        "vote": 0
+    }
+]

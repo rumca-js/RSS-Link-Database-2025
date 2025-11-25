@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T16:55:00.936984+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T16:30:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/HADsZ814N5Y\" width=\"480\" alt=\"thumbnail\" title=\"Every Company In Open Source Should Behave Like Valve\" /></p>Just as Valve did with Wine in the Proton project, for the Steam Frame they're bringing a new project forward called FEX to play x86 games on the ARM based hardware of the headset.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Fex Repo: https://github.com/FEX-Emu/FEX<br />Asahi Linux AAA: https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/<br />Game Support: https://wiki.fex-emu.com/index.php/Category:Game_Type_Application<br />Proton Announcement: https://web.archive.org/web/20180902234258/https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561<",
+        "id": 4152188,
+        "language": "en",
+        "link": "https://odysee.com/every-company-in-open-source-should:c92c8135845fc2c11af5acd993fb240080504977",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/HADsZ814N5Y",
+        "title": "Every Company In Open Source Should Behave Like Valve",
+        "vote": 0
+    }
+]

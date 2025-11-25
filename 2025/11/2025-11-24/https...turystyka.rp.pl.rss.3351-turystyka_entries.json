@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T23:18:35.195187+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T22:00:00+00:00",
+        "description": "Lufthansa Group i International Airlines Group (IAG) zg\u0142osi\u0142y oficjalnie ch\u0119\u0107 udzia\u0142u w prywatyzacji TAP Air Portugal. O udzia\u0142 w przetargu ubiega si\u0119 r\u00f3wnie\u017c Air France-KLM, co zapowiada jedn\u0105 z najwa\u017cniejszych rywalizacji w europejskim lotnictwie.",
+        "id": 4155382,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/linie-lotnicze/art43391341-kto-kupi-portugalskie-linie-lotnicze-tap-jest-trzech-chetnych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kto kupi portugalskie linie lotnicze TAP? Jest trzech ch\u0119tnych",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T17:39:51.127706+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T16:38:19+00:00",
+        "description": "The i.MX93 VERSA&#160;Evaluation Kit provides a compact platform for developing with Calixto&#8217;s i.MX93 VERSA SoM, combining a dual-core processor, real-time control, an edge NPU, and interfaces such as Ethernet, CAN, RS485, USB, MIPI camera, and multiple display outputs. The i.MX93 VERSA SoM uses NXP&#8217;s i.MX93 processor, combining a 1.7GHz dual Arm Cortex-A55, a 250MHz Cortex-M33 [&#8230;]",
+        "id": 4152494,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/versa-embedded-platform-features-dual-core-i-mx93-and-ethos-micronpu-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "VERSA Embedded Platform Features Dual-Core i.MX93 and Ethos microNPU Support",
+        "vote": 0
+    }
+]

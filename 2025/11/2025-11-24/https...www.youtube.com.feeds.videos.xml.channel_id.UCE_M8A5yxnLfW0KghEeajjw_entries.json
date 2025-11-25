@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Apple",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T08:10:33.138985+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T08:01:18+00:00",
+        "description": "Inside iPhone 17 Pro, the Apple-designed vapor chamber cools the A19 Pro chip, allowing for even higher sustained performance. Imagine if we were that powerful.\n\nLearn more about iPhone 17 Pro and iPhone 17 Pro Max: https://apple.co/47RqgGB\n\n#iPhone17Pro #iPhone17ProMax #A19Prochip\n\nWelcome to the official Apple YouTube channel. Here you\u2019ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "id": 4148324,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dJObc0V6hJU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 773,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dJObc0V6hJU/hqdefault.jpg",
+        "title": "iPhone 17 Pro | A19 Pro Chip | Peak Performance | Apple",
+        "vote": 0
+    }
+]

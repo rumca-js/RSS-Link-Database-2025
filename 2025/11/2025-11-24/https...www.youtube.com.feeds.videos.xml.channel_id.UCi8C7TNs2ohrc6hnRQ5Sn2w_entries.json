@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T16:16:05.872182+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T15:09:14+00:00",
+        "description": "All engineers should be treated this way...to check their emails.\n\nNo slack massages nothing.\n\nAI engineer\nAI research engineer\nSWE engineer\nengineering hire\ntech jobs\nMeta Superintelligence lab researcher",
+        "id": 4151658,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/2AWvjFfNmZw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2AWvjFfNmZw/hqdefault.jpg",
+        "title": "AI lab hired another one...",
+        "vote": 0
+    }
+]

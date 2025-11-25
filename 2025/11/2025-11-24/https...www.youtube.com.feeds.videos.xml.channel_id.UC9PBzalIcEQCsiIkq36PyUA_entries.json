@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T19:10:02.176457+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T17:50:35+00:00",
+        "description": "Thanks to MSI for sponsoring this content. Learn more about MSI\u2019s Holiday discounts here: https://msi.gm/SCDA1C10\n\nA meaty new episode of DF Direct Weekly kicks off with a Valve double-header - reaction to news that Steam Machine may be heading for PC pricing, plus news of Linux FSR 4 support via Proton... including old GPUs. Meanwhile, Angry Alex is back and he's measured just how bad Windows performance in AC Shadows is impacted by a rogue update. Red Dead Redemption 1 returns once again, Oliver has opinions on Horizon Steel Frontiers and let's just say that we really think you should check out Sektori.\n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n0:00:00 Introduction \n0:01:45 News 1: Steam Machine price: above $500? \n0:19:14 News 2: FSR 4 gets Proton support \n0:33:38 News 3: Windows update kills gaming performance \n0:50:48 News 4",
+        "id": 4153443,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NOEGamg6nf8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NOEGamg6nf8/hqdefault.jpg",
+        "title": "DF Direct Weekly #241: Steam Machine PC Pricing Concerns, Win 11 Update Kills Perf, Red Dead Returns",
+        "vote": 0
+    }
+]

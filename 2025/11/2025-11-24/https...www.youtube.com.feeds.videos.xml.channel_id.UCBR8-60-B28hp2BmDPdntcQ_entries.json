@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "YouTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T15:01:06.749413+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T14:09:58+00:00",
+        "description": "\u2022 Add these new tools to your creative toolbox:\n\u2022 Photo to video and Edit with AI (available everywhere except \ud83c\uddea\ud83c\uddfa \ud83c\uddec\ud83c\udde7)\n\u2022 Dream Track and Speech to song (available in \ud83c\uddfa\ud83c\uddf8)\n\u2022 Draw to video (available everywhere)\n\n#sponsored",
+        "id": 4151102,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/OenczUE0c7Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 794,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OenczUE0c7Q/hqdefault.jpg",
+        "title": "Create like never before with these five new features on Shorts \ud83c\udfac",
+        "vote": 0
+    }
+]

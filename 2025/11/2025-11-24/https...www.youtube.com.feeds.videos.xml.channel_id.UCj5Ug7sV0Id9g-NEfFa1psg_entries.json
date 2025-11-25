@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Samo\u0142yk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-24T16:17:59.244912+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-24T16:02:29+00:00",
+        "description": "Kto jest prawdziwym sigm\u0105: Nawrocki, Trzaskowski, a mo\u017ce kto\u015b zupe\u0142nie inny? W tym odcinku rozk\u0142adam na czynniki fenomen \u201esigma mindset\u201d. Opowiadam te\u017c, dlaczego warto wesprze\u0107 pewien niezwyk\u0142y dom, kt\u00f3ry realnie zmieni ludzkie \u017cycia. \n\n\ud83d\udc49 Tu mo\u017cna go wesprze\u0107: https://www.ofiaruje.pl/f/dom-pielgrzyma-belvedere-w-greccio-nowe-dzielo-wspolnoty-betlejem-zostan-jego-czescia\n\n\ud83d\udc49 Je\u017celi chcesz mnie wesprze\u0107 i do\u0142\u0105czy\u0107 do grupy Patron\u00f3w to mo\u017cesz to zrobi\u0107 na 2 sposoby:\n- Patronite: https://patronite.pl/Samolyk\n- Darowizna na konto Banku Pekao SA: 08 1240 2786 1111 0010 1984 8265 Tytu\u0142em: \"darowizna\"\n*je\u015bli wybra\u0142e\u015b 2. opcj\u0119 to napisz mi maila na tsamolyk@gmail.com je\u015bli chcesz do\u0142\u0105czy\u0107 do grupy na Facebooku lub otrzymywa\u0107 newsletter",
+        "id": 4151670,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=lCzDdKiir2o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 372,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj5Ug7sV0Id9g-NEfFa1psg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lCzDdKiir2o/hqdefault.jpg",
+        "title": "Nawrocki czy Trzaskowski - kto jest sigm\u0105 i jak nim zosta\u0107",
+        "vote": 0
+    }
+]
