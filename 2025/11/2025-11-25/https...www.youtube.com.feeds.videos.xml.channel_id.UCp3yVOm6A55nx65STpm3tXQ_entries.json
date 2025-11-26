@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T17:23:41.072174+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T16:09:38+00:00",
+        "description": "Thanks to Verda, formerly Datacrunch.io, for sponsoring today\u2019s episode. Check them out at https://verda.com, and use Coupon Code CRAFT-COMPUTING-V100 for $25 off at checkout!\n\nGrab yourself a Pint Glass or Coffee Tumbler at https://craftcomputing.store\n\nImplementing any form of AI workflow into your business is prohibitively expensive. From just the cost of hardware to the power and cooling infrastructure of modern AI servers, it's enough to turn anyone off. But you know me... I love digging up old servers out of eWaste piles and giving them new life. But how well does Nvidia's Tesla V100s stack up to modern cards in AI? Today, we're testing Eight Tesla V100s in 70B and 120B LLMs to see if there's life still in these eight year old GPUs.\n\nBut first... What am I drinking???\n\nDeschutes Brewing (Bend, OR) Fresh Squeezed IPA NA (0.5%)\n\nHUGE THANKS to UnixSurplus for sending over the Inspur DGX V100 system for me to take a look at. Check them out at https://UnixSurplus.com\nOr their eBay s",
+        "id": 4161789,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=H2e1917UHRI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H2e1917UHRI/hqdefault.jpg",
+        "title": "Is the Nvidia Tesla V100 still good for AI? - Inspur DGX V100 vs RTX 5090",
+        "vote": 0
+    }
+]

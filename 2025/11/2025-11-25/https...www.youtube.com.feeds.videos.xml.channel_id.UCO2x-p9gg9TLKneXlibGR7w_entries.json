@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T21:50:06.160933+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T21:18:48+00:00",
+        "description": "Apple and Steve Jobs invented the \"future of the TV\" back in 2007, but missed out on the real winner: the content\n*Valerion\u2019s Black Friday Brings the Lowest Price of the Year! Limited Time!*\nGet the best deal of $700 OFF on the Valerion VisionMaster Pro2 on Amazon - https://snazzy.fm/Ww (23% OFF\uff09\nEnjoy premium bundles, buy a projector get a free screen and speakers - https://snazzy.fm/yA\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nThe original 2007 Apple TV was secretly a full Mac computer running Mac OS X Tiger with an Intel Pentium M processor and NVIDIA GeForce graphics, not just a streaming box. Despite Steve Jobs positioning it as a simple iTunes sync device, the first-generation Apple TV's x86 architecture enables it to run alternative operating systems including full Mac",
+        "id": 4164087,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9mJwHo30eUA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9mJwHo30eUA/hqdefault.jpg",
+        "title": "Apple\u2019s Worst \"Mac\" EVER!",
+        "vote": 0
+    }
+]

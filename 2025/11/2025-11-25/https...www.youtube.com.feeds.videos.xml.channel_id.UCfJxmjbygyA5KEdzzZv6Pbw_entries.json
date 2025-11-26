@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Wizards with Guns",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T14:59:31.793625+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T14:25:42+00:00",
+        "description": "Watch the full sketch on our main channel here: \nhttps://www.youtube.com/channel/UCfJxmjbygyA5KEdzzZv6Pbw\n\n#comedy #sketchcomedy #wizards",
+        "id": 4160500,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/MoIprSDi9VM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 746,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJxmjbygyA5KEdzzZv6Pbw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MoIprSDi9VM/hqdefault.jpg",
+        "title": "Wizards HATE these Lawyers #comedy #funny",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T18:56:45.765693+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T18:10:00+00:00",
+        "description": "Using its Near-InfraRed Camera (NIRCam), NASA's James Webb Space Telescope has revealed never-before-seen details in the picturesque Red Spider Nebula with a rich backdrop of thousands of stars.",
+        "id": 4162828,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/the-red-spider-nebula-caught-by-webb",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Red Spider Nebula",
+        "vote": 0
+    }
+]

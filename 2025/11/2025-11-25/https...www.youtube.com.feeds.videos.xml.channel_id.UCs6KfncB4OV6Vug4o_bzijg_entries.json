@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T06:23:03.690099+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T05:49:57+00:00",
+        "description": "Your encrypted messages are secure, but your device might not be based on some new research. This is how the Sturnus Android malware actually steals WhatsApp and Signal messages without breaking encryption, plus the practical steps you can take today to protect yourself. Check your accessibility permissions now\u2014I'll wait.\n\nTechlore empowers individuals with the tools and knowledge to defend digital rights, security, and privacy in the modern world.\n\n\ud83d\udcf1 RESOURCES IN VIDEO:\n\u2022 Forbes: https://www.forbes.com/sites/daveywinder/2025/11/24/hackers-bypass-signal-telegram-and-whatsapp-encryption-to-read-messages/\n\u2022 Technical Report: https://www.threatfabric.com/blogs/sturnus-banking-trojan-bypassing-whatsapp-telegram-and-signal\n\n\ud83d\udd0e RELATED VIDEOS:\n\u2022 Android Freedom: https://www.youtube.com/watch?v=wRvqdLsnsKY\n\u2022 Lockdown Mode: https://www.youtube.com/watch?v=ENuGWhz10UY\n\n\u23f1\ufe0f TIMESTAMPS:\n00:00 INTRO\n00:14 SHOULD YOU BE CONCERNED?\n01:43 SO WHAT'S HAPPENING?\n04:47 HOW TO STAY SAFE\n08:30 TAKEAWAYS\n\n\ud83d\udd10 ",
+        "id": 4157290,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ZF7QHI4lUmE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZF7QHI4lUmE/hqdefault.jpg",
+        "title": "How Hackers Read Your Signal, WhatsApp & Telegram Messages",
+        "vote": 0
+    }
+]

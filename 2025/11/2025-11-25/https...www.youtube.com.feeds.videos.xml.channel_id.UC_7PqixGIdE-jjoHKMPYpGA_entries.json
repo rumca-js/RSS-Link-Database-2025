@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uwaga! Naukowy Be\u0142kot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T18:10:57.757845+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T17:53:28+00:00",
+        "description": "Film jest elementem kampanii edukacyjnej \u201eCzas zrozumie\u0107 atom\u201d finansowanej przez Ministerstwo Energii. Jej celem jest wyja\u015bnienie zasad dzia\u0142ania reaktor\u00f3w j\u0105drowych, obalenie mit\u00f3w oraz pokazanie, jakie korzy\u015bci elektrownie j\u0105drowe mog\u0105 przynie\u015b\u0107 nam wszystkim. Materia\u0142 to #wsp\u00f3\u0142praca komercyjna. Ministerstwo opiniowa\u0142o film jednak, jak zawsze, za dob\u00f3r tre\u015bci i konstrukcj\u0119 narracyjn\u0105 odpowiadali\u015bmy my. Kooperacja ta by\u0142a dla mnie bardzo naturalna, gdy\u017c od lat jestem wielkim zwolennikiem budowy elektrowni j\u0105drowej w Polsce i mam nadziej\u0119, \u017ce ta kampania (a mo\u017ce nawet ten film!) sprawi, \u017ce b\u0119dzie takich os\u00f3b w naszym kraju coraz wi\u0119cej. Bo owszem, zdarza\u0142y si\u0119 w historii incydenty i awarie w elektrowniach j\u0105drowych, ale wyci\u0105gn\u0119li\u015bmy z nich stosown\u0105 nauk\u0119, kt\u00f3ra sprawi\u0142a, \u017ce ta technologia sta\u0142a si\u0119 du\u017co, du\u017co bardziej bezpieczna ni\u017c jeszcze nieca\u0142e 40 lat temu.\n\nWi\u0119cej o energii j\u0105drowej na stronie https://www.gov.pl/polski-atom\n#atom #czaszrozumiecatom #polskiatom #wsp\u00f3\u0142praca\n\n===\n",
+        "id": 4162324,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=ju_PczzBpgw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 377,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7PqixGIdE-jjoHKMPYpGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ju_PczzBpgw/hqdefault.jpg",
+        "title": "Nie boj\u0119 si\u0119 elektrowni j\u0105drowej",
+        "vote": 0
+    }
+]

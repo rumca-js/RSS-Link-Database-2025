@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T22:24:24.987479+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T21:35:40+00:00",
+        "description": "A hard technical problem can be a great moat. Just don\u2019t hide behind the difficulty\u2014stay close to customers while you build so know whether you\u2019re solving the right problems.",
+        "id": 4164415,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/eiT9wMgesjI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eiT9wMgesjI/hqdefault.jpg",
+        "title": "Chase the Hard Problems",
+        "vote": 0
+    }
+]

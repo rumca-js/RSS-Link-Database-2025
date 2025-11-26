@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T00:46:06.524566+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T00:41:23+00:00",
+        "description": "Dispatch (PC, PS5) has released all episodes to fan and critical acclaim. Let's talk about why I think it works so well and the things it could improve upon in a sequel.",
+        "id": 4155865,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=f0w_xv0nfe0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f0w_xv0nfe0/hqdefault.jpg",
+        "title": "Dispatch is GREAT, but...",
+        "vote": 0
+    }
+]

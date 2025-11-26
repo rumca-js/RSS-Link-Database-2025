@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aaron Jones",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T05:24:40.240725+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T04:33:22+00:00",
+        "description": "<p>Ghost of Yotei is the sequel to the brilliant Ghost of Tsushima. Set 300 years after its predecessor, players play as Atsu, a woman out for revenge in 17th-century Japan as she sets out on a mission to kill Lord Saito and the Yotei Six after they killed her family and left her for dead. [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/review-ghost-of-yotei/\">REVIEW: Ghost of Yotei</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 4157056,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-ghost-of-yotei",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/11/Ghost-of-Yotei-cover-200x300.png",
+        "title": "REVIEW: Ghost of Yotei",
+        "vote": 0
+    }
+]

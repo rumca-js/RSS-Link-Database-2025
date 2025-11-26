@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T03:52:28.549745+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T03:18:09+00:00",
+        "description": "HunyuanVideo 1.5 review & installation tutorial. How to use HunyuanVideo 1.5 in ComfyUI with low VRAM. Hunyuan 1.5 vs Wan 2.2  #ai #aivideo #aitools \n\nThanks to our sponsor Mago. Go to https://3qjpfwq7yts.typeform.com/to/J1rn6n50 to skip the waitlist. Use code AISEARCH for 50% OFF your 1st month of Pro Plan! Limited to the first 500 users!\n\nhttps://hunyuan.tencent.com/video/zh?tabIndex=0\nhttps://github.com/Tencent-Hunyuan/HunyuanVideo-1.5?tab=readme-ov-file\nComfyUI instructions for Hunyuan 1.5 https://docs.comfy.org/tutorials/video/hunyuan/hunyuan-video-1-5\nHF folder with the models: https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/tree/main/split_files\n\nALSO SEE:\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nWan 2.2 tutorial: https://youtu.be/SVDKYwt-DBg\n\n0:00 HunyuanVideo 1.5 intro\n0:37 Hunyuan 1.5 demos\n3:05 Hunyuan Video 1.5 vs Wan 2.2\n7:55 I2V HunyuanVideo 1.5 vs Wan 2.2\n11:24 Benchmarks and specs\n13:26 Mago\n14:50 How to use HunyuanVideo 1.5 online\n15:40 How to insta",
+        "id": 4156616,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6EQP8-D37bs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6EQP8-D37bs/hqdefault.jpg",
+        "title": "New open-source AI video generator is out! HunyuanVideo 1.5 tutorial",
+        "vote": 0
+    }
+]

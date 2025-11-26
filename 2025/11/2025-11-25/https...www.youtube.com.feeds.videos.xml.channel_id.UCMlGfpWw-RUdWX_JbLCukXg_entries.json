@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T15:45:59.057542+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T15:07:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nThe Hidden Power of C++23 std::stacktrace for Faster Debugging & Exception Handling - Erez Strauss - CppCon 2025\n---\n\nThis presentation explores a novel approach to exception handling and debugging in C++23. We introduce a method to capture the full stacktrace the throw statement without changes to the code and with minimal overhead. This method provides the developers with valuable insights into the origin and context of exceptions. It is solving the questions C++ developers face who threw this exception and why, and so makes debugging faster and simpler. \n \nWe will present a detailed analysis of the challenges faced in capturing stacktrace information from the throw location, as opposed to the conventional approach of relying solely on the catch statement. Our solution addresses these challenges by introducing per-thread control and capture capabilities, allowing developers to selectively enable or disable stacktrace capture on a per-thread basis. Additional",
+        "id": 4161014,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dZzmtHXJN7A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dZzmtHXJN7A/hqdefault.jpg",
+        "title": "The Hidden Power of C++23 std::stacktrace for Faster Debugging & Exception Handling - Erez Strauss",
+        "vote": 0
+    }
+]

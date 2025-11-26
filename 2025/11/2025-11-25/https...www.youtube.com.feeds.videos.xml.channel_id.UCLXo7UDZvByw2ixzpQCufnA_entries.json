@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T23:44:11.345556+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T23:06:54+00:00",
+        "description": "Vox senior technology correspondent Adam Clark Estes has a cautionary tale about chatbots.\n\nWhat started as using AI for tedious chores \u2014 meal plans, grocery lists, quick research \u2014 quietly morphed into hours talking to a chatbot. And Adam isn\u2019t alone. As chatbots get better at flattery, emotional support, and companionship, researchers are seeing more users (including teens) slip into dependency without realizing it.\n\nAdam unpacks how chatbots are designed to keep us coming back, why young people are especially vulnerable, and what happens when adults can\u2019t walk away \u2014 in some cases, leading to severe mental health crises. \n\nThis is the first episode of Reporter Extras, a new Patreon-exclusive Vox video series that gives you a behind-the-scenes look at how our journalists create their work.\n\nIf you value this kind of in-depth journalism, join Vox on Patreon to unlock the full episode, get unlimited access to Vox.com, and support the reporting that makes it possible. https://www.patre",
+        "id": 4164933,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/WaLS0lM4-1o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 779,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WaLS0lM4-1o/hqdefault.jpg",
+        "title": "Reporter Extra: Chatbots Are Designed to Please You \u2014 Here\u2019s Why That\u2019s a Problem",
+        "vote": 0
+    }
+]

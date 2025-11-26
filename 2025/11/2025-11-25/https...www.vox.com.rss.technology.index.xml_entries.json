@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hady Mawajdeh",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T13:21:00.874149+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T07:15:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Donald Trump and Jensen Huang\" data-caption=\"President Donald Trump and Nvidia co-founder and CEO Jensen Huang.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2212182282.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tPresident Donald Trump and Nvidia co-founder and CEO Jensen Huang.\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">The biggest company in the world is Nvidia, and it&#8217;s been making the same product since 1993: a specialized computer chip called a GPU, or a graphics processing unit. Those chips do all the fancy, complicated math needed to display images, videos, and 3D graphics onto our screens.&nbsp;</p>\n\n<p class=\"has-text-align-none\">Back in the day, if you wanted to play \u201cstate-of-the-art\u201d PC games like <a href=\"https://www.youtube.com/watch?v=oA4hzqCAyR4\"><em>Unreal</em></a><em>, </em><a href=\"https://www.youtube.com/watch?v=h",
+        "id": 4159590,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/470309/donald-trump-ai-nvidia-chips-jensen-huang",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2212182282.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "How Donald Trump and the CEO of the world\u2019s biggest company became BFFs",
+        "vote": 0
+    }
+]

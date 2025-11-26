@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Ozimek",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T18:57:01.633247+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T18:54:27+00:00",
+        "description": "McKinsey says machines could already perform the majority of U.S. work hours today, accelerating job shifts across offices, warehouses, and services.",
+        "id": 4162829,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/ai-could-replace-57-percent-of-all-us-work-hours-mckinsey-report-5949542",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/11/09/id5942221-GettyImages-2245509713KO-1080x720.jpg",
+        "title": "AI Could Replace 57 Percent of All US Work Hours: McKinsey Report",
+        "vote": 0
+    }
+]

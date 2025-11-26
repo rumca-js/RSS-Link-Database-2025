@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wales",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T17:04:23.012572+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T17:00:33+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/horses-santa-ragione-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>You might not immediately recognise the name Santa Ragione, but the independent Italian studio has been creating boundary pushing, award-winning games for over a decade and a half now. It launched into space for <a href=\"https://www.eurogamer.net/mirrormoon-ep-review\">2013's mesmerising ambient puzzler Mirror Moon EP</a>, it took to the Italian countryside for <a href=\"https://www.eurogamer.net/wheels-of-aurelia-a-game-about-driving\">2016's politically minded Wheels of Aurelia</a>, it fled all manner of horrors in the ancient Sardinian town of <a href=\"https://www.eurogamer.net/saturnalia-review-a-horrible-nightmare-in-all-the-right-ways\">2022's Saturnalia</a>, explored post-Covid trauma in the blistering Italian sun in <a href=\"https://www.eurogamer.net/mediterranea-inferno-review-a-bruising-intensely-stylish-post-covid-nightmare\">2023's Mediterranea Inferno</a>, and",
+        "id": 4161703,
+        "language": "en",
+        "link": "https://www.eurogamer.net/its-extremely-frustrating-and-also-fcked-up-one-of-the-worlds-best-indie-studios-is-facing-shock-closure-following-confounding-steam-ban",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/horses-santa-ragione-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "\"It's extremely frustrating and also f*cked up\" - one of the world's best indie studios is facing shock closure following confounding Steam ban",
+        "vote": 0
+    }
+]

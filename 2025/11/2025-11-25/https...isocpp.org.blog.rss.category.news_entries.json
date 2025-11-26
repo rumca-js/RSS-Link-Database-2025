@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T23:06:12.987028+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T21:55:16+00:00",
+        "description": "<p>\n\t<img alt=\"filipek-howtoiterate.png\" src=\"https://isocpp.org/files/img/filipek-howtoiterate.png\" style=\"width: 371px; margin: 10px; float: right;\" />In this final part of the tuple-iteration mini-series, we move beyond C++20 and C++23 techniques to explore how <strong data-end=\"121\" data-start=\"112\">C++26</strong> finally brings first-class language support for compile-time iteration. With <strong data-end=\"235\" data-start=\"199\">structured binding packs (P1061)</strong> and <strong data-end=\"272\" data-start=\"240\">expansion statements (P1306)</strong>, what once required clever template tricks can now be written in clean, expressive, modern C++.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.cppstories.com/2025/tuple-iteration-cpp26/\">C++ Templates: How to Iterate through std::tuple: C++26 Packs and Expansion Statements</a></h3>\n\t<p>\n\t\tby&nbsp;Bartlomiej Filipek</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIn&nbsp;<a href=\"https://www.cppstories.com/2022/tuple-it",
+        "id": 4164691,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/11/how-to-iterate-through-stdtuple-cpp26-packs-and-expansion-statements-bartlo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/filipek-howtoiterate.png",
+        "title": "How to Iterate through std::tuple: C++26 Packs and Expansion Statements -- Bartlomiej Filipek",
+        "vote": 0
+    }
+]

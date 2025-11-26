@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T12:53:52.123046+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T12:53:50+00:00",
+        "description": "OpenAI wchodzi mocno na rynek e-commerce. Firma wprowadzi\u0142a w\u0142a\u015bnie funkcj\u0119 Shopping Research \u2013 narz\u0119dzie, kt\u00f3re ma zrewolucjonizowa\u0107 proces poszukiwania produkt\u00f3w. To r\u0119kawica rzucona gigantom jak Amazon czy Google.",
+        "id": 4159445,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art43394541-rewolucja-w-e-zakupach-chatgpt-dodaje-asystenta-i-liczy-na-efekt-black-friday",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rewolucja w e-zakupach? ChatGPT dodaje asystenta i liczy na efekt Black Friday",
+        "vote": 0
+    }
+]

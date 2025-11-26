@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DamiLee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T17:15:25.405574+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T16:02:25+00:00",
+        "description": "South Korea\u2019s rise from post-war poverty to global powerhouse is often celebrated as the \u201cMiracle on the Han River,\u201d but behind that miracle was a national mindset of economic warfare\u2014relentless discipline, sacrifice, and pressure. From the IMF crisis to today\u2019s burnout and demographic collapse, Korea\u2019s success has always carried a heavy human cost. What\u2019s your take on this?",
+        "id": 4161758,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/TjgqnEjs9e8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 652,
+        "source_url": "https://youtube.com/channel/UCJ_2hNMxOzNjviJBiLWHMqg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TjgqnEjs9e8/hqdefault.jpg",
+        "title": "Economic Warfare",
+        "vote": 0
+    }
+]

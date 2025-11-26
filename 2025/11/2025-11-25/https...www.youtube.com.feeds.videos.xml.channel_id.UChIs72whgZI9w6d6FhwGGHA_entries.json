@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-25T16:19:52.788824+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-25T13:30:02+00:00",
+        "description": "SUPPORT OUR WORK: RETRO I/O Coaster Packs! https://store.gamersnexus.net/products/gn-drink-retro-io-coaster-pack-4-custom-3d-coasters-100x100mm\nWe're finally benchmarking GPU performance in Linux, first using the Bazzite OS following thousands of community requests specifically for this operating system. A lot of this is exploratory and research for establishing methodology, so we're still learning how to control the platforms and software for this benchmarking. In the very least, this allows us to start generating some exit velocity from Windows for some people. Linux still isn't for everyone. Some users, like our own production machines, are bound to Windows by compatibility requirements with certain software. But gaming has dramatically improved on Linux over the years and is developing fast (despite still having issues), and so it may slowly start to become more viable for gaming users in particular.\n\nLearn about the special backer tiers with bonus videos and digital content: http",
+        "id": 4161169,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ovOx4_8ajZ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ovOx4_8ajZ8/hqdefault.jpg",
+        "title": "RIP Windows: Linux GPU Gaming Benchmarks on Bazzite",
+        "vote": 0
+    }
+]
