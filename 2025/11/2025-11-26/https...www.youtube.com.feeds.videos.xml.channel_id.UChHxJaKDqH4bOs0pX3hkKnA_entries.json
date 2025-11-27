@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Basically Homeless",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T15:39:05.280396+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T15:28:42+00:00",
+        "description": "I built the world's smartest desk setup. It tells jokes, can edit videos, and it can get your nose. \n\nCheck out Vernal's Black Friday event! Use my link below and use my code (shown in video to avoid bots from scraping it) to support the channel directly. \n\nUS: https://bit.ly/3JaY33g\n\nUK: https://bit.ly/4mYPoyN\n\nDE: https://bit.ly/3W2LM3Y\n\n\nChapters:\n\n00:00 Intro \n\n00:18 Dingus\n\n01:14 Wireless Energy Field\n\n02:37 MCP Server\n\n04:05 The Brain\n\n05:30 Cable management lol\n\n07:20 How it works\n\n09:55 My buddy Trevor \n\n3D print files will be here for free download soon (bug me in comments if its not there my bad) - https://www.patreon.com/posts/144456609?pr=true\n\nFramework motherboards - https://frame.work/products/framework-desktop-mainboard-amd-ryzen-ai-max-300-series?v=FRAFMK0004\n\n\n\nbusiness: nick@zbtsol.com\n\nFollow me on Twitter and my other socials https://zbtsol.com",
+        "id": 4170427,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3d5l_eLOaDw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 446,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChHxJaKDqH4bOs0pX3hkKnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3d5l_eLOaDw/hqdefault.jpg",
+        "title": "I Built the World's Smartest Desk Setup",
+        "vote": 0
+    }
+]

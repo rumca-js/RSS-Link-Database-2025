@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuokka77",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T17:57:45.777470+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T17:34:42+00:00",
+        "description": "\"The Final Bitchslap\" (2012) by UltraSyd.\nArt \"Don't Let The Dogs Out\" by Carrion/Censor Design, 4th at Silly Venture 2023 Atari ST/E gfx compo.\n\nFrench CA4003290 Atari STe with new Mean Well RPD-60A PSU (SidecarTridge.com variety). Playback using SND Player v1.51. Brainworx VST effects applied.\n\nSTe hardware has its issues, mine is not an exception. The infamous DAC whistle was removed using iZotope RX 6 spectral de-noiser. Crackling during DMA audio playback, while not 100% eliminated, got improved dramatically after applying Exxos STE DAC CRACKLES POP FIX (additional grounding for U500 and U501 via bodge wires).",
+        "id": 4171784,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=RFN01FFOWgQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 180,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RFN01FFOWgQ/hqdefault.jpg",
+        "title": "Atari music: UltraSyd - The Final Bitchslap (STe\ud83c\udfa7bx_)",
+        "vote": 0
+    }
+]

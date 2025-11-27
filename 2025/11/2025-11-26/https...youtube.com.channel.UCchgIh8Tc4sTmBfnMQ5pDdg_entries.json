@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rick Steves' Europe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T19:30:18.085854+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T18:41:12+00:00",
+        "description": "Get a 30-second glimpse of Rick Steves\u2019 newest episode \u2014 premiering fall 2025 across the US on public television, and streaming (free!) at https://www.ricksteves.com/watch-read-listen/video/tv-show\n\nIn Istanbul, we sample the wonders of this city that bridges two continents. After cruising the busy port of the Bosphorus, we dive into the Grand Bazaar, where endless shops enchant visitors. Then we view the mosaics of Chora Church, watch dervishes whirl in their captivating spiritual trance, and zip by tram from the Old Town to Taksim Square, tasting local treats before hopping a ferry to Asia.\n\nSubscribe for more travel previews and full episodes: https://www.youtube.com/user/RickSteves\n#ricksteveseurope #rickstevesturkey #istanbul",
+        "id": 4172757,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jvg5lGezwyY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 897,
+        "source_url": "https://youtube.com/channel/UCchgIh8Tc4sTmBfnMQ5pDdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jvg5lGezwyY/hqdefault.jpg",
+        "title": "Istanbul: Turkish Delights\u202fPreview",
+        "vote": 0
+    }
+]

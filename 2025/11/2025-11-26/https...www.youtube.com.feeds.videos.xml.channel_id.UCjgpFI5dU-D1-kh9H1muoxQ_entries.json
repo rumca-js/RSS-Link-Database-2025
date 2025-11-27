@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hacksmith Industries",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T17:33:08.311918+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T16:26:28+00:00",
+        "description": "Meet the eufyCam S4 & S4 Max \ud83d\udc40\n\u2022 2-in-1 Bullet-PTZ Triple-Lens Design\n\u2022 AI Tracking with 8\u00d7 Auto-Frame\n\u2022 Solar Panel Wireless Charging for nonstop security \u2600\ufe0f\ud83d\udd0b\n\n\ud83d\udc49 Check out their website: https://eufyofficial.com/bswhc2\n\neufyCam S4 Amazon Link: https://shop.eufy.com/wSViye\n\neufy PoE NVR S4 Max Amazon Link: https://shop.eufy.com/J96QoG\n\n\ud83d\udcb8 15% Off Codes (Valid until Dec 31):\n\u2022 S4 Solo: EUFYS4SOLO\n\u2022 S4 2-Cam Kit: EUFYS4KIT2\n\u2022 S4 4-Cam Kit: EUFYS4KIT4",
+        "id": 4171700,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/zaoJvgpD2MI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 774,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjgpFI5dU-D1-kh9H1muoxQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zaoJvgpD2MI/hqdefault.jpg",
+        "title": "Poor Ben... \ud83e\udd40 @eufySecurity #eufyCamS4 #eufyS4 #eufySolar #eufyCameraS4 #eufy #eufySecurity",
+        "vote": 0
+    }
+]

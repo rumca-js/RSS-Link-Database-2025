@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T23:58:23.531178+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T23:45:45+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Nvidia Graphics Cards work on Pi 5 and Rockchip</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>A few months ago, GitHub user <a href=\"https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch\">@yanghaku dropped a 15 line patch to fix GPU support for practically all AMD GPUs</a> on the Raspberry Pi (and demoed a 3080 running on the Pi with a separate, unreleased patch. This week, GitHub user <a href=\"https://github.com/NVIDIA/open-gpu-kernel-modules/pull/972\">@mariobalanica dropped this (larger) patch which does the same for Nvidia GPUs</a>!</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-5-in-mug-with-nvidia-a4000.jpeg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-bf4",
+        "id": 4174664,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/nvidia-graphics-cards-work-on-pi-5-and-rockchip",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-5-in-mug-with-nvidia-a4000.jpeg",
+        "title": "Nvidia Graphics Cards work on Pi 5 and Rockchip",
+        "vote": 0
+    }
+]

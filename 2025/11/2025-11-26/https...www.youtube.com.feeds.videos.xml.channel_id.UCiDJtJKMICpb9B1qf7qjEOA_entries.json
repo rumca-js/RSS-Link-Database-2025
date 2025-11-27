@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T15:31:22.466957+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T15:00:11+00:00",
+        "description": "As a former modelmaker, Adam Savage had a particular interest in visiting the preparators studio at the @AmericanMuseumofNaturalHistory, where the museum's models are made. And he was not disappointed, as the exhibition department was in the midst of putting the final touches on the plants, mammals and reptiles that are part of the museum's brand-new exhibit, Impact: The End of the Age of Dinosaurs. Senior Vice President for Exhibition Lauri Halderman and preparators Celeste Carballo and Jason Brougham walk Adam through the challenges and techniques of telling this ancient and complicated story.\n\nImpact: The End of the Age of Dinosaurs is now open: https://www.amnh.org/exhibitions/impact\nVisit the American Museum of Natural History: https://www.amnh.org/\nFollow AMNH on Instagram: https://www.instagram.com/amnh/\nAdam Savage Meets a Triceratops AND Mosasaur in PERSON: https://youtu.be/JC6kCWmJe20\nHere's Why You Love Dinosaurs: https://youtu.be/CYEBcKhZWM0\nMore videos from AMNH: https://",
+        "id": 4170395,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6YNsjx4fKQA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6YNsjx4fKQA/hqdefault.jpg",
+        "title": "What Happened AFTER the Asteroid?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T17:56:25.537982+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T16:51:36+00:00",
+        "description": "Welcome to Talking Heads, your once weekly show about everything happening in the world of tech, computers, gaming, craft beer and cocktails.\n\nYou too can be a Bad Mother Flipper... Grab our new Minimalist Wallet from https://craftcomputing.store\n\nCheck out this episode in Podcast form over at https://open.spotify.com/show/31ZxkU6RwPHG8A4jQjxSG3\n\nSupport us on Patreon and get access to our exclusive Discord server. Chat with all of the hosts from Talking Heads all week long. \n\nhttps://www.patreon.com/CraftComputing\n\nWant to fuel Craft Computing?  Parts, beer, gifts? I've got a mailbox!\nCraft Computing\n1567 Edgewater St NW, #51\nSalem, OR 97304\n\nFollow Jeff on Bluesky @CraftComputing.bsky.social\nFollow Adam over at @pcworld @thefullnerdnetwork or @adampatrickmurray.bsky.social",
+        "id": 4171782,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l3ZEc5oB5PE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l3ZEc5oB5PE/hqdefault.jpg",
+        "title": "EARLY SHOW! Adam From @thefullnerdnetwork Joins - Happy Thanksgiving - Talking Heads Ep.410",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T13:06:18.099099+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T12:36:24+00:00",
+        "description": "The world's most valuable company said it was still \"a generation ahead of the industry\".",
+        "id": 4169152,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c7vme6rrqz5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f4/live/fd848bf0-cabc-11f0-8830-713b9084fff8.jpg",
+        "title": "Nvidia plays down Google chip threat concerns",
+        "vote": 0
+    }
+]

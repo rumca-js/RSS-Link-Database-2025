@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T17:27:52.768519+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T16:30:23+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/uDydCrCXHyU\" width=\"480\" alt=\"thumbnail\" title=\"Google Finally Accepts JPEG XL Is The Future!!\" /></p>A few years back Google put stop to JPEG XL likely because it was directly competing with AVIF and now they've changed there mind and it's once again coming back after they couldn't stop it.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Killed By Google: https://killedbygoogle.com/<br />The Change: https://groups.google.com/a/chromium.org/g/blink-dev/c/WjCKcBw219k/m/NmOyvMCCBAAJ?pli=1<br />JPEG XL: https://jpeg.org/jpegxl/<br />2KliksPhilip Video: https://www.youtube.com/watch?v=FlWjf8asI4Y<br />JPEG XL Issue: https://issues.chromium.org/issues/40168998<br />Webkit GTK: https://gitla",
+        "id": 4171672,
+        "language": "en",
+        "link": "https://odysee.com/google-finally-accepts-jpeg-xl-is-the:496de56527707406add16b6b4d3d378c36425d32",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/uDydCrCXHyU",
+        "title": "Google Finally Accepts JPEG XL Is The Future!!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T19:15:18.190268+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T18:00:16+00:00",
+        "description": "Chris Williamson is a podcaster, YouTuber, and host of the \"Modern Wisdom\" podcast. See him live on his \"Mostly Wise\" tour.\n\nhttps://chriswillx.com/modernwisdom\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\nBuy 1 Get 1 Free Trucker Hat with code ROGAN at https://happydad.com\n\nTry ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan",
+        "id": 4172583,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=F8qxwts_bE4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F8qxwts_bE4/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2418 - Chris Williamson",
+        "vote": 0
+    }
+]

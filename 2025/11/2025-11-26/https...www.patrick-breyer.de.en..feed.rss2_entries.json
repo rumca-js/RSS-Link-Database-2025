@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Breyer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T17:14:01.615051+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T17:04:19+00:00",
+        "description": "<p>Contrary to headlines suggesting the EU has &#8220;backed away&#8221; from Chat Control, the <a href=\"https://www.consilium.europa.eu/en/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/\">negotiating mandate endorsed today</a> by EU ambassadors in a close split vote paves the way for a <span >\u2026</span></p>",
+        "id": 4171485,
+        "language": "en-GB",
+        "link": "https://www.patrick-breyer.de/en/reality-check-eu-council-chat-control-vote-is-not-a-retreat-but-a-green-light-for-indiscriminate-mass-surveillance-and-the-end-of-right-to-communicate-anonymously",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 249,
+        "source_url": "https://www.patrick-breyer.de/en/?feed=rss2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Reality Check: EU Council Chat Control Vote is Not a Retreat, But a Green Light for Indiscriminate Mass Surveillance and the End of Right to Communicate Anonymously",
+        "vote": 0
+    }
+]

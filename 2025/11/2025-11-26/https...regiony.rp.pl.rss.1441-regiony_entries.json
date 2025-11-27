@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T09:46:26.239255+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T09:46:25+00:00",
+        "description": "Organizacje samorz\u0105dowe zrzeszaj\u0105ce ponad 1000 gmin zaapelowa\u0142y do Donalda Tuska o zapewnienie skutecznego wsparcia wymiany starych kot\u0142\u00f3w i ocieplania budynk\u00f3w oraz szybkie usprawnienie programu \u201eCzyste Powietrze\u201d. NFO\u015aiGW i BGK odpieraj\u0105 zarzuty.",
+        "id": 4167794,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/ekologia/art43401761-samorzady-skarza-sie-do-premiera-na-czyste-powietrze-kopciuchy-znikna-za-30-lat",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Samorz\u0105dy skar\u017c\u0105 si\u0119 do premiera na \u201eCzyste Powietrze\u201d. Kopciuchy znikn\u0105 za 30 lat?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T15:11:28.280271+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T14:48:44+00:00",
+        "description": "Even the entire concept of \"running out\" doesn't apply \ud83e\udd14\n\nThis is an especially interesting video that everyone should enjoy, where I go over not only why we won't ever run out of QR codes, but it's literally impossible to ever do so. As in, the concept of \"running out\" is not even applicable. I made a tweet about this and people seemed interested but confused, so this video should set the record straight. Basically QR codes are fundamentally different from Barcodes. They aren't identifiers that are used to point to data in a database, and therefore, rather the data is in the QR code itself.\n\nTime Stamps:\n0:00 - Intro\n0:46 - Why Do You Even Care Bro\n1:27 - Points of Confusion\n2:01 - They\u2019re Not The Same As Barcodes\n2:27 - More About Barcodes\n3:33 - How QR Codes Work\n4:52 - Some People Still Didn\u2019t Get It\n5:20 - What I Mean By Run out\n6:30 - Addressing More Replies\n10:40 - Final Thoughts",
+        "id": 4170263,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=rB8X45CLr2k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rB8X45CLr2k/hqdefault.jpg",
+        "title": "Why It\u2019s Impossible to Ever Run Out of QR Codes (Even Theoretically)",
+        "vote": 0
+    }
+]

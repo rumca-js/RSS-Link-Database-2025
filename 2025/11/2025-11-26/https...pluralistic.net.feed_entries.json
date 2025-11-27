@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T12:50:51.492119+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T12:33:18+00:00",
+        "description": "Today's links O(N^2) nationalism: Trumpism can only be defeated throuh international nationalism. Hey look at this: Delights to delectate. Object permanence: Paywall kremlinology; How to fix everything; Office365 is spyware; State-owned Amazon. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. O(N^2) nationalism (permalink) In their 2023 book Underground Empire, political scientists Henry Farrell and Abraham Newman describe how the modern world runs on US-based systems that other nations treat(ed) as neutral platforms, and how that is collapsing: https://pluralistic.net/2023/10/10/weaponized-interdependence/#the-other-swifties Think of the world's fiber optic cables: for most of the internet's history, it was a given that one end of the majority of the world's transoceanic fiber would make landfall on one of the coasts of the ",
+        "id": 4169073,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/11/26/difficult-multipolarism",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/26Nov2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: O(N^2) nationalism (26 Nov 2025)",
+        "vote": 0
+    }
+]

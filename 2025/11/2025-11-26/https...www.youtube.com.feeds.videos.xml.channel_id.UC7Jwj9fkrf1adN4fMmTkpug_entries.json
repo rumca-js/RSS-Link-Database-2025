@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DankPods",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T17:08:55.457380+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T15:58:42+00:00",
+        "description": "Meze's having a Black Friday sale! \nhttps://mezeaudio.com/pages/black-friday?_ef_transaction_id=&oid=1&affid=186\nThanks Floaties!! https://www.floatplane.com/channel/TheTrashNetwork/home\nTeddy Killerz - Feed Your Soul: https://www.youtube.com/watch?v=FZqk_8AvKxk&list=RDFZqk_8AvKxk&start_radio=1\nAvishai Cohen - Chutzpan: https://www.youtube.com/watch?v=65A1uJp0l-o&list=RD65A1uJp0l-o&start_radio=1",
+        "id": 4171330,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sVPPpN5q7ro",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 922,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Jwj9fkrf1adN4fMmTkpug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sVPPpN5q7ro/hqdefault.jpg",
+        "title": "Alright I admit it, I'm a Meze stooge.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T16:09:33.943589+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T15:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nHow To Build Robust C++ Inter-Process Queues - Jody Hagins - CppCon 2025\n---\n\nThis talk will offer design and implementation details of a queue intended to be used between multiple processes. \n \nThe C++ standard was written with a single-process worldview, mentioning processes only once\u2014in a note stating that lock-free atomic operations work across process boundaries. This has led to widespread but incorrect advice about using std::atomic in shared memory. When moving queue implementations from threads to processes, seemingly rock-solid code can induce undefined behavior. \n \nIn addition, traditional queue interfaces are fundamentally insufficient for cross-process communication. A properly designed inter-process queue API must enforce role separation, ensuring that a process can only perform operations appropriate to its designated role. For example, a producer process should not be able to consume messages or manage the queue itself, and the API should preven",
+        "id": 4170854,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AmPLoOfRFDs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AmPLoOfRFDs/hqdefault.jpg",
+        "title": "How To Build Robust C++ Inter-Process Queues - Jody Hagins - CppCon 2025",
+        "vote": 0
+    }
+]

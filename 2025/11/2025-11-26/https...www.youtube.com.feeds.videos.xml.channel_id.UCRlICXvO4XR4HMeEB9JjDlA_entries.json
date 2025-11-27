@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T21:08:17.892334+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T20:00:00+00:00",
+        "description": "Blue whales are the largest animals on Earth. Most people know that. But what almost no one realises is just how absurdly, rule-breakingly gigantic these creatures truly are.\n\nA fully grown blue whale can weigh over 200 tons \u2014 making it not just the heaviest animal alive today, but roughly double the weight of any other creature in the entire history of life on this planet. Even the colossal dinosaurs don\u2019t come close.\n\nTheir hearts are the size of small cars, their tongues weigh as much as elephants, and their sheer bulk pushes the limits of what a living organism should even be capable of.\n\nDespite their remote oceanic homes, blue whales remain vulnerable to ship strikes, noise pollution and climate-driven changes to their food supply. They are, quite literally, the greatest animals ever to live \u2014 and among the most extraordinary to protect.",
+        "id": 4173593,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/-WXOD8A62fo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-WXOD8A62fo/hqdefault.jpg",
+        "title": "Blue Whales Can Weigh Over 200 Tons?!",
+        "vote": 0
+    }
+]

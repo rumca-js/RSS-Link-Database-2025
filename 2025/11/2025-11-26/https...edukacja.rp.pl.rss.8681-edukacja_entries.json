@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T23:11:36.923870+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T23:11:34+00:00",
+        "description": "Jak \u0142\u0105czy\u0107 nauk\u0119, AI i obronno\u015b\u0107, by wzmocni\u0107 odporno\u015b\u0107 pa\u0144stwa \u2013 o tym dyskutowali szef resortu cyfryzacji, rektor Uniwersytetu Warszawskiego oraz przedstawiciele \u015bwiata nauki podczas debaty \u201eBezpiecze\u0144stwo i wykorzystywanie nauki do budowania odporno\u015bci\u201d.",
+        "id": 4174459,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43405461-nauka-w-sluzbie-odpornosci-panstwa",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nauka w s\u0142u\u017cbie odporno\u015bci pa\u0144stwa",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T22:05:20.864098+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T21:46:25+00:00",
+        "description": "<p>Here\u2019s <a href=\"https://developer.apple.com/app-store/review/guidelines/#design\">the updated full guideline for section 4.1</a>:</p>\n\n<blockquote>\n  <p>4.1 Copycats</p>\n\n<p>(a) Come up with your own ideas. We know you have them, so make\n    yours come to life. Don\u2019t simply copy the latest popular app\n    on the App Store, or make some minor changes to another app\u2019s\n    name or UI and pass it off as your own. In addition to risking\n    an intellectual property infringement claim, it makes the App\n    Store harder to navigate and just isn\u2019t fair to your fellow\n    developers.</p>\n\n<p>(b) Submitting apps which impersonate other apps or services is\n    considered a violation of the Developer Code of Conduct and\n    may result in removal from the Apple Developer Program.</p>\n\n<p>(c) You cannot use another developer\u2019s icon, brand, or product\n    name in your app\u2019s icon or name, without approval from the\n    developer.</p>\n</blockquote>\n\n<p>It\u2019s guideline (c) that\u2019s new, but I like guidel",
+        "id": 4174019,
+        "language": "",
+        "link": "https://developer.apple.com/news/?id=ey6d8onl",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "November Update to the App Store Review Guidelines",
+        "vote": 0
+    }
+]

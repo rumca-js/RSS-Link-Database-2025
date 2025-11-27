@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T10:33:17.202017+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T10:03:00+00:00",
+        "description": "We hit 500% of our Kickstarter goal, and they&#8217;re now available to the public. A lot of folks have answers for us about AI, but these decks are designed to help us with the questions. Not just questions about the systems at work, but about how we might use them. The Infinite Adventure deck puts [&#8230;]",
+        "id": 4168028,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/11/the-prompt-decks-are-now-available",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/seths.blog/wp-content/uploads/2025/08/three_boxes_with_single_light_shadow.png?resize=1024%2C512&ssl=1",
+        "title": "The Prompt Decks are now available",
+        "vote": 0
+    }
+]

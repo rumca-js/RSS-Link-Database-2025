@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T15:42:03.259249+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T15:02:45+00:00",
+        "description": "Economist Jon Gruber explains how to avoid the sunk-cost fallacy and get the right price for your concert tickets.\n\nView the full interview \u1405  https://youtu.be/rLmRoJQNHT8?si=hYqkWIqUy4jBwiRQ",
+        "id": 4170442,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gUNP33_kz_E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gUNP33_kz_E/hqdefault.jpg",
+        "title": "How to Sell Concert Tickets, with MIT Economist Jon Gruber",
+        "vote": 0
+    }
+]

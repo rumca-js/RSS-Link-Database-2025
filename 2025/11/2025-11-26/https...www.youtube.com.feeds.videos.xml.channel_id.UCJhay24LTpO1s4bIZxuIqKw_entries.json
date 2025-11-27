@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T17:26:27.244380+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T15:00:55+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nWhen the Compiler Gives You Errors, Make SFINAE - Keith Stockdale - ACCU 2025 Short Talks\n---\n\nHLSL 2021 introduces templates, bringing SFINAE and C++-style type traits into your shader programming toolbox. But when trying to write a unit testing library in HLSL, I hit a compiler bug that broke sizeof on structs containing enums. This talk walks through how I used SFINAE-style techniques and type traits to detect and work around this issue \u2014 all inside shader code.\n\nThe bug (documented in GitHub issue #5553 for the DirectXShaderCompiler) prevented using sizeof on structs with enums, making it difficult to serialize HLSL data or write meaningful static assertions. But thanks to recent HLSL 2021 features like templates, I implemented a workaround by hoisting enums into a base class and detecting enum presence with template tricks. This gave me a clean way to bypass the limitation and continue writing robust HLSL unit tests.\n\nWhile HLSL ",
+        "id": 4171660,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Uksr_fxSm2c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Uksr_fxSm2c/hqdefault.jpg",
+        "title": "When the Compiler Gives You Errors, Make SFINAE - Keith Stockdale - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T18:51:40.323015+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T18:00:44+00:00",
+        "description": "During a two day preview, Bungie demonstrated that its decade-long game might have a new hope thanks to an infusion of Star Wars.\n\n#gaming #destiny2 #videogames",
+        "id": 4172441,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=YCbPAI7PhMA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YCbPAI7PhMA/hqdefault.jpg",
+        "title": "Destiny 2 Renegades Hands-On Preview",
+        "vote": 0
+    }
+]

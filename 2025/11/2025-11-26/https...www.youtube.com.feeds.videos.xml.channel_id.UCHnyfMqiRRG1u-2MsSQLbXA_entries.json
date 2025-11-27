@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-26T22:40:23.604315+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-26T21:45:00+00:00",
+        "description": "The world is not Normal. Sponsored by NordVPN. \ud83c\udf0f Get exclusive NordVPN deal here \u27b5  https://NordVPN.com/veritasium It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\u270c\n\nGet your exclusive edition of Veritasium\u2019s first tabletop game - join 6,000+ backers - https://ve42.co/pld\n\nTo play around with the simulations in the video, you can follow these links:\nSandpiles - https://www.veritasium.com/simulation3 \nIsing model (magnetism) - https://www.veritasium.com/simulation4\nForest fires - https://www.veritasium.com/simulation5  \n\n\u2580\u2580\u2580\nA huge thanks to Steven Strogatz, Mark Buchanan and Mark Newman for their time and expertise.\n\n\u2580\u2580\u2580\nCHAPTERS: \n0:00 What is a power law?\n4:31 Expected Values\n8:49 The St. Petersburg Paradox\n11:37 Outliers Dominate Averages\n15:23 Fractals and Power Laws \n19:28 Self-Organized Criticality\n24:08 Why do we light controlled forest fires?\n26:40 How We Can Predict Earthquakes\n32:11 Critical Systems and Universality \n36:31 How Some Businesses Are Built On Power Laws \n",
+        "id": 4174184,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HBluLfX2F_k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HBluLfX2F_k/hqdefault.jpg",
+        "title": "This Graph Changes The Way You View The World",
+        "vote": 0
+    }
+]
