@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Matthieu, VP of Developer Ecosystem, RealSense",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T13:07:27.869455+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T13:00:00+00:00",
+        "description": "<p>Discover how machine-to-machine communication is making robots autonomous, collaborative and ready to reshape daily life.</p>\n<p>The post <a href=\"https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai/\">How Machine-to-Machine Communication Will Power Physical AI</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>",
+        "id": 4178690,
+        "language": "en-US",
+        "link": "https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 483,
+        "source_url": "https://eetimes.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eetimes.com/wp-content/uploads/AdobeStock_854441291.jpeg",
+        "title": "How Machine-to-Machine Communication Will Power Physical AI",
+        "vote": 0
+    }
+]

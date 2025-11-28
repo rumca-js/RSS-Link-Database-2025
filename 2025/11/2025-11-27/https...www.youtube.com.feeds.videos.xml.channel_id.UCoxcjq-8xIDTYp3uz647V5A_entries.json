@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Numberphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T15:37:16.763092+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T14:31:23+00:00",
+        "description": "Elise Raphael takes us on a journey through graph reconstruction. Extras from this interview - https://youtu.be/6AqA2nIHtxg\nMore links & stuff in full description below \u2193\u2193\u2193\n\nElise Raphael - https://www.unige.ch/math/la-section/enseignants-et-chercheurs/elise-raphael\n\nMore graph videos...\nSubcubic graph numbers - https://youtu.be/4-eXjTH6Mq4\nBook embedding - https://youtu.be/qw2Pl_Nk3CA\nGraph breakthrough - https://youtu.be/Tnu_Ws7Llo4\nPlanar graphs - https://youtu.be/xBkTIp6ajAg\nHadwiger-Nelson problem - https://youtu.be/niaeV_NHh-o\n\nGraph theory playlist - https://www.youtube.com/playlist?list=PLt5AfwLFPxWIO0rkWl44MhS_PLLqu3Kvr\n\nSome references...\nA congruence theorem for trees (Kelly) - https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-7/issue-1/A-congruence-theorem-for-trees/pjm/1103043674.full\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/num",
+        "id": 4179877,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dWVCl4p-Zyc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 712,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dWVCl4p-Zyc/hqdefault.jpg",
+        "title": "The Graph Reconstruction Conjecture - Numberphile",
+        "vote": 0
+    }
+]

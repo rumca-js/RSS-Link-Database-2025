@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T11:37:55.920530+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T11:07:17+00:00",
+        "description": "#OmanAirports is marking major milestones in aviation history at Muscat International Airport. In partnership with #Huawei, the airport has launched the world\u2019s first Intelligent Campus Showcase, a milestone that ushers in a new era of aviation innovation.\n\u00a0\nThis intelligent campus brings together ultra-fast #WiFi7, smart operations, and enhanced security, raising the bar for passenger experience, operational resilience, and airport efficiency worldwide.\n\u00a0\nExplore how this breakthrough sets a global benchmark in smart airports: https://bit.ly/4pb053s",
+        "id": 4177951,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vBsXNfuxus4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vBsXNfuxus4/hqdefault.jpg",
+        "title": "Oman Airports and Huawei Showcase World-First Intelligent Campus",
+        "vote": 0
+    }
+]

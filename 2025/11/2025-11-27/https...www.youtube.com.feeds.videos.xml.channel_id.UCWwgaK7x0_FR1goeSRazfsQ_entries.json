@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T04:02:42.186672+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T03:00:17+00:00",
+        "description": "Give your kitty the gift of a good time when they\u2019re home alone. Just tap a SmartThings pet care routine and your cat\u2019s holidays will be happier than ever.\n\n#PetCare #HolidayShopping #SmartThings #SmartThingsMeetsAIHome #AIHome #Samsung",
+        "id": 4175841,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Bi7kckaDEKw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bi7kckaDEKw/hqdefault.jpg",
+        "title": "A Kitty Cat Holiday | Samsung",
+        "vote": 0
+    }
+]

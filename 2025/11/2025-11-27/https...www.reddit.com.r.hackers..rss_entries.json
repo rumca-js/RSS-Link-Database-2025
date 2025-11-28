@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Designer-Gift-2390",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T19:02:21.918417+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T18:05:33+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hackers/comments/1p88v4b/pretty_sure_i_have_some_sort_of_hackerpossibly_a/\"> <img src=\"https://external-preview.redd.it/MmFrbWs3Y3NhdTNnMZeZzZeAUtn1FF05wh65QofQ6k23fTGafFhlLLzQwIcs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c23c00911f4dc55e2a0b741755629f0dc0e9508e\" alt=\"Pretty sure i have some sort of hacker(possibly a RAT) controlling my iPad. What do I do?\" title=\"Pretty sure i have some sort of hacker(possibly a RAT) controlling my iPad. What do I do?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This was yesterday. Today the iPad also closed me out of the app I was using, also forcefully turning down the brightness and putting me in the window manager (I forgot the name! But its all the apps in windows.). Also kept doing something with the volume keys as I tried turning it off however it only did a screenshot. Please help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Designer-",
+        "id": 4181522,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1p88v4b/pretty_sure_i_have_some_sort_of_hackerpossibly_a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/MmFrbWs3Y3NhdTNnMZeZzZeAUtn1FF05wh65QofQ6k23fTGafFhlLLzQwIcs.png?width=640&crop=smart&auto=webp&s=c23c00911f4dc55e2a0b741755629f0dc0e9508e",
+        "title": "Pretty sure i have some sort of hacker(possibly a RAT) controlling my iPad. What do I do?",
+        "vote": 0
+    }
+]

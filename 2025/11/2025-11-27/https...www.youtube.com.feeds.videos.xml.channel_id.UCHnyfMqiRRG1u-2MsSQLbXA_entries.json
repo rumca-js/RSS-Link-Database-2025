@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T16:08:39.899946+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T15:04:19+00:00",
+        "description": "#Sponsored @madebygoogle A single drop of water is all it takes to turn the new Google #Pixel10Pro into a makeshift microscope.\n\nPromotional code offer expires 12/05/2025 at 11:59p.m. PT; while supplies last. Must be redeemed on Google Store only. User must be signed-in to their Google Account and checkout with Google Pay profile, including a valid form of payment. Limit 1 per customer.Available only to US residents, aged 18 years or older, with US shipping addresses. Google Pay profile must be registered in the US and promotional code can only be used in the US.To redeem, visit store.google.com, add the desired item to the cart, then enter promotional code during checkout for an instant discount on your purchase on one of four eligible items: Pixel 10 (unlocked), Pixel 10 Pro (unlocked), Pixel 10 Pro XL (unlocked), Pixel 10 Pro Fold (unlocked). Promotional code is for one-time use only with no residual balance; is not transferable; and is not valid for cash or cash equivalent. May be",
+        "id": 4179997,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/Bb0uDpvitoE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bb0uDpvitoE/hqdefault.jpg",
+        "title": "I turned my phone into a microscope",
+        "vote": 0
+    }
+]

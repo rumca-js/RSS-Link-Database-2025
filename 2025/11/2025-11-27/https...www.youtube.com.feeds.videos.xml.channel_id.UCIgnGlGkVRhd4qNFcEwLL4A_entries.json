@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T04:13:45.026870+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T03:33:09+00:00",
+        "description": "Google has more AI tools besides Gemini 3 or Nano Banana. Free AI for learning, content creation, story books, UI design, autonomous coding, workflow automation, & more! #ai #aitools\n\nThanks to our sponsor Hailuo. Check out their Black Friday sale, up to 60% off: https://hailuoai.video/?utm_media_source=YT&utm_campaign=kol&utm_content=AISearch\n\nSources in order of mention:\nhttps://labs.google.com/pomelli/about/\nhttps://learning.google.com/experiments/learn-about\nhttps://labs.google.com/mixboard\nhttps://stitch.withgoogle.com/\nhttps://jules.google\nhttps://opal.withgoogle.com/\nhttps://gemini.google.com/u/2/gem/storybook\nhttps://notebooklm.google.com/\nhttps://labs.google/fx/tools/whisk\nhttps://aistudio.google.com/\nAI Studio review: https://youtu.be/rn2SbrUWNPg\n\n0:00 Google free AIs\n0:51 Google Pomelli\n5:30 Google Learn About\n8:33 Google Mixboard\n10:55 Google Stitch\n17:44 Google Jules\n21:11 Hailuo\n22:25 Google Opal\n28:12 Full storybooks\n32:44 NotebookLM\n42:58 Whisk\n45:12 MusicFX\n47:33 AI S",
+        "id": 4175855,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WTdooXYkltc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WTdooXYkltc/hqdefault.jpg",
+        "title": "These secret Google AI\u2019s will make you superhuman",
+        "vote": 0
+    }
+]

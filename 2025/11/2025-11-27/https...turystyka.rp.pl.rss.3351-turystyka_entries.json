@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T00:31:42.062273+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T00:31:40+00:00",
+        "description": "Tegoroczny Black Friday przynosi rewolucj\u0119 w podej\u015bciu do konsumpcji. Polacy coraz cz\u0119\u015bciej inwestuj\u0105 w do\u015bwiadczenia, a nie w przedmioty \u2013 i w wyszukiwarce Google wida\u0107 to jak na d\u0142oni. W szczycie wyprzeda\u017cy jedn\u0105 z najcz\u0119\u015bciej wyszukiwanych marek w Polsce jest Ryanair, bezpo\u015brednio konkuruj\u0105cy z gigantami technologicznymi.",
+        "id": 4174907,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/nowe-trendy/art43409621-black-friday-2025-na-co-polacy-poluja-na-wyprzedazach-podroze-wysoko-na-liscie-zakupow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Black Friday 2025. Na co Polacy poluj\u0105 na wyprzeda\u017cach? Podr\u00f3\u017ce wysoko na li\u015bcie zakup\u00f3w",
+        "vote": 0
+    }
+]

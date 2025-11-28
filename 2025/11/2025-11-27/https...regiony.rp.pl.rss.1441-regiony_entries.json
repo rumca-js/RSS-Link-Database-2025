@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T15:31:52.555664+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T15:31:50+00:00",
+        "description": "Chocia\u017c prawdziwi entuzja\u015bci dw\u00f3ch k\u00f3\u0142ek je\u017cd\u017c\u0105 niemal przez ca\u0142y rok, to dla rowerzyst\u00f3w nasta\u0142 martwy sezon. Ale nie dla samorz\u0105d\u00f3w, kt\u00f3re planuj\u0105 kolejne inwestycje zwi\u0105zane z jedno\u015bladami.",
+        "id": 4179858,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/rowerowa-koalicja-rzeczpospolitej/art43412611-rowerowe-przyspieszenie-samorzadow-beda-nowe-velostrady-i-drogi-dla-jednosladow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rowerowe przyspieszenie samorz\u0105d\u00f3w. B\u0119d\u0105 nowe velostrady i drogi dla jedno\u015blad\u00f3w",
+        "vote": 0
+    }
+]

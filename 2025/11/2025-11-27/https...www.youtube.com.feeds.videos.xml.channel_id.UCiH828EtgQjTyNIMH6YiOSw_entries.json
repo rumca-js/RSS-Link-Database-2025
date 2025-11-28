@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T22:44:32.159621+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T21:30:06+00:00",
+        "description": "Doug gives his thoughts on Disney's follow up, Zootopia 2.\n\nJoin our YouTube Members - https://www.youtube.com/channel/UCiH828EtgQjTyNIMH6YiOSw/join\n\nWatch the new commercial special - https://youtu.be/_9L7YJCa1mY\n\nCheck out our store - https://channelawesome.myshopify.com/\n\nZootopia 2 is a 2025 American animated buddy cop comedy film produced by Walt Disney Animation Studios. The sequel to Zootopia (2016), it is directed by Jared Bush and Byron Howard, written by Bush, and produced by Yvett Merino. Ginnifer Goodwin, Jason Bateman, Shakira, Idris Elba, Alan Tudyk, Nate Torrence, Don Lake, Bonnie Hunt, and Jenny Slate reprise their roles from the first film, joined by newcomers Ke Huy Quan, Fortune Feimster, Andy Samberg, David Strathairn, Patrick Warburton, Quinta Brunson, and Danny Trejo. It follows Judy Hopps and Nick Wilde, the previous film's protagonists, who go undercover to pursue Zootopia's new and mysterious reptilian resident Gary De'Snake. \n\nTwitch - https://twitch.tv/chann",
+        "id": 4182753,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=E4SuvgltOcA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E4SuvgltOcA/hqdefault.jpg",
+        "title": "Now that's more like it, Disney",
+        "vote": 0
+    }
+]

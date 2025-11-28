@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wales",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T12:21:14.221966+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T11:34:11+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/hotel-infinity-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Not to toot my own trumpet or anything, but I've got a 2x2m square in my house that might be the most impossible 2x2m square anyone has ever seen. Granted, I'm not familiar with <em>all</em> 2x2m squares in the world, and I'm sure there are some corkers out there, but I've spent the last few days in mine and - goodness - have I experienced some things. I should probably explain.</p> <p><a href=\"https://www.eurogamer.net/this-impossible-game-proves-vr-still-has-the-power-to-amaze\">Read more</a></p>",
+        "id": 4178318,
+        "language": "en",
+        "link": "https://www.eurogamer.net/this-impossible-game-proves-vr-still-has-the-power-to-amaze",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/hotel-infinity-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Hotel Infinity from the studio behind one of 2019's best puzzlers is already melting my brain - and proves VR still has the power to amaze",
+        "vote": 0
+    }
+]

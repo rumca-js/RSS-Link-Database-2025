@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Larry Cafiero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T09:49:44.545265+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T09:04:37+00:00",
+        "description": "<p><em>For Thanksgiving\u2019s Distro of the Week, we put openSUSE Tumbleweed Xfce through install, configuration, and multitasking tests to see how its classic tools and newer additions hold up in everyday use.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/11/opensuse-tumbleweed-built-to-last-built-to-change-built-for-openness/\">openSUSE Tumbleweed: Built to Last, Built to Change, Built for Openness</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4177434,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/11/opensuse-tumbleweed-built-to-last-built-to-change-built-for-openness",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "openSUSE Tumbleweed: Built to Last, Built to Change, Built for Openness",
+        "vote": 0
+    }
+]

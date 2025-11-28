@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Timothy Geigner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T04:19:34.164164+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T03:39:00+00:00",
+        "description": "In all of our conversations surrounding RFK Jr.&#8217;s appointment to lead HHS and the legitimization of his anti-vaxxer beliefs as a result, we have understandably been hyper-focused on measles. The reason for that is mostly that this is as stark an example of just how stupid and horrible anti-vaccination misinformation is combined with the horror [&#8230;]",
+        "id": 4175874,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/11/26/not-just-measles-anti-vaxxers-have-produced-3-infant-deaths-from-pertussis",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Not Just Measles: Anti-Vaxxers Have Produced 3 Infant Deaths From Pertussis",
+        "vote": 0
+    }
+]

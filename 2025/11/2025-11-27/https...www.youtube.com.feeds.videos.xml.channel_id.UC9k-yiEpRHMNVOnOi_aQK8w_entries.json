@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Inside Edition",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T15:44:04.192316+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T15:03:37+00:00",
+        "description": "A Florida deputy is being hailed a hero after he saved an infant who had stopped breathing. Deputy Curtis Redford from the Lee County Sheriff's Office in Florida responded to a call at the end of October when 1-year-old Catalina suddenly stopped breathing and her parents called 911. Now the Sheriff's Office have released bodycam footage of the dramatic incident and Sheriff Carmine Marcino spoke to Inside Edition Digital and praised his deputy's quick thinking and training.",
+        "id": 4179897,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fbZQf7XNALw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 719,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9k-yiEpRHMNVOnOi_aQK8w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fbZQf7XNALw/hqdefault.jpg",
+        "title": "Dramatic Bodycam Footage Shows Deputy Giving Infant CPR",
+        "vote": 0
+    }
+]

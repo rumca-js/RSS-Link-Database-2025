@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-27T15:44:49.870629+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-27T15:44:49+00:00",
+        "description": "Dzi\u0119ki Funduszom Europejskim dla Polski Wschodniej (FEPW) firmy z tego regionu maj\u0105 nowe mo\u017cliwo\u015bci na finansowanie innowacyjnych pomys\u0142\u00f3w. Polska Agencja Rozwoju Przedsi\u0119biorczo\u015bci (PARP) oferuje startupom w Polsce Wschodniej dost\u0119p do siedmiu Platform startowych, kt\u00f3re daj\u0105 realne wsparcie lokalnych biznes\u00f3w i zwi\u0119kszenie konkurencyjno\u015b\u0107 przedsi\u0119biorstw. S\u0105 to partnerstwa o\u015brodk\u00f3w innowacji daj\u0105ce darmowe, kompleksowe programy wsparcia startup\u00f3w od momentu rejestracji sp\u00f3\u0142ki.",
+        "id": 4179901,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/biznes/art43412311-startupy-poszukiwane-dolacz-do-platform-startowych-w-polsce-wschodniej-i-zyskaj-nowe-mozliwosci",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Startupy poszukiwane \u2014 do\u0142\u0105cz do Platform startowych w Polsce Wschodniej i zyskaj nowe mo\u017cliwo\u015bci!",
+        "vote": 0
+    }
+]
