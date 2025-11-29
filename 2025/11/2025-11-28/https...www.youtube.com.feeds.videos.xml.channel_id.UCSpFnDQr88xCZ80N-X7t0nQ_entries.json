@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T18:58:43.915916+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T18:00:01+00:00",
+        "description": "The Asylum is a production company with over 300 movies that mock Hollywood productions. Despite their current mockbuster niche, their origins were quite different, aiming at the big screen with their first production, War of the Worlds. \n\nWhat they thought would be their demise, Steven Spielberg's War of the Worlds coming out at the same time, turned out to be their blessing thanks to a very significant mistake made by a Blockbuster executive.",
+        "id": 4189790,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/00vWgPeAyIA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/00vWgPeAyIA/hqdefault.jpg",
+        "title": "How BLOCKBUSTER saved a Mockbuster LEGEND%",
+        "vote": 0
+    }
+]

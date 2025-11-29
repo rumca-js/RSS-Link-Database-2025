@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SAMTIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T18:25:30.568971+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T17:27:25+00:00",
+        "description": "Suddenly Apple\u2019s RAM prices don\u2019t look so bad.\n\nARTICLES\u2026\nRAM Prices Out of Control: https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center\n64GB of RAM Costs More than PS5: https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026\nOpenAI Consumes 40% of DRAM Output: https://www.tomshardware.com/pc-components/dram/openais-stargate-project-to-consume-up-to-40-percent-of-global-dram-output-inks-deal-with-samsung-and-sk-hynix-to-the-tune-of-up-to-900-000-wafers-per-month\nRAM prices increase by 500%: https://www.tomshardware.com/pc-components/dram/cyberpowerpc-announces-ram-price-hikes-coming-to-the-u-s-and-the-uk-starting-december-7th-prebuilt-proprietor-cites-500-percent-increase-in-memory-cost\n\nSUPPORT: https://funkytime.tv/patriot-signup/\nMERCH: https://funkytime.tv/shop/\nFUNKY TIME ",
+        "id": 4189346,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=g9qUFIS0QxI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 290,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd6vEDS3SOhWbXZrxbrf_bw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g9qUFIS0QxI/hqdefault.jpg",
+        "title": "Apple Reacts to the Global RAM Shortage",
+        "vote": 0
+    }
+]

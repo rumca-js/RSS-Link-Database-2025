@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T23:28:11.546492+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T22:23:19+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />A missing <code data-end=\"23\" data-start=\"10\">DismissUI()</code> call on one code path led to a subtle bug&mdash;but rather than patching it with more try/catch and return logic, there&rsquo;s a cleaner C++ solution. This article shows how to use <strong data-end=\"224\" data-start=\"194\">RAII and <code data-end=\"222\" data-start=\"205\">wil::scope_exit</code></strong> to guarantee cleanup across all code paths, even in asynchronous callbacks.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20251016-00/?p=111691\">Using RAII to remedy a defect where not all code paths performed required exit actions</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tA team asked me to review their pull request that fixed a bug that was caused by failing to perform some required ",
+        "id": 4191283,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/11/using-raii-to-remedy-defect-where-not-all-code-paths-performed-required-exi",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg",
+        "title": "Using RAII to remedy defect where not all code paths performed required exit actions -- Raymond Chen",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T16:04:18.684565+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T15:01:07+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nWTF?! - Dom Davis - ACCU 2025\n---\n\nWhat do Boolean logic, bistromathics, and the Hitchhiker\u2019s Guide to the Galaxy have in common? In this entertaining and thought-provoking talk, we explore unconventional ideas about computation, logic, and the chaotic nature of the human mind.\n\nStarting with Douglas Adams\u2019 whimsical concept of flying by missing the ground, the speaker draws unexpected connections between everyday experiences and technical systems\u2014posing serious questions about how we understand truth tables, logic gates, and the limits of artificial intelligence (AI). Is AGI a doomed pursuit? Can we really model the human brain with digital systems? What happens when we abandon binary thinking and venture into analog, neurodivergent, or emergent models of computation?\n\nYou\u2019ll discover how creative computing intersects with pattern recognition, chaotic cognition, and the philosophy of computing\u2014where non-binary logic and complex syste",
+        "id": 4188230,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WX6uR4kqhic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WX6uR4kqhic/hqdefault.jpg",
+        "title": "WTF?! - Dom Davis - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

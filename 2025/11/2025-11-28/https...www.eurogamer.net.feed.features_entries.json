@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Orry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T10:16:02.731518+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T09:59:52+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/New-Project-(6)_WPINSm1.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>There's a very strong argument for the PlayStation 2 being the greatest games console of all time. I'm not going to get into all that now, as I don't really have the energy to tackle questions like \"but what about Mario and Zelda?\" or \"did Sony pay you to say this? Smells of secret sponsored content\". What I am going to reminisce about is that golden PS2 era, when the world felt bigger, the pace of change was startling, and the sense of discovery was closer to finding a message in a bottle than it was to watching the latest TikTok from an influencer. When Sony released the PlayStation 2 25 years ago the way we navigated our way through the console's library of games felt like going on an adventure.</p> <p><a href=\"https://www.eurogamer.net/happy-25th-birthday-playstation-2-the-last-console-that-truly-felt-like-there-was-a-world-of-hidden-gems-to-discover\">Read more</a></p",
+        "id": 4185635,
+        "language": "en",
+        "link": "https://www.eurogamer.net/happy-25th-birthday-playstation-2-the-last-console-that-truly-felt-like-there-was-a-world-of-hidden-gems-to-discover",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/New-Project-(6)_WPINSm1.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Happy 25th birthday, PlayStation 2, the last console that truly felt like there was a world of hidden gems to discover",
+        "vote": 0
+    }
+]

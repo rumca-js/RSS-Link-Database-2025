@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T15:48:43.752811+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T15:01:09+00:00",
+        "description": "Every major shift in consumer tech has a moment when it suddenly becomes accessible to millions. Michael Mignano helped spark one of those moments with Anchor, making podcast creation something anyone could do with a tap. Now at Lightspeed, he sees AI bringing a similar leap to music, media, and everyday apps.\n\nIn this conversation, he and Garry trace the arc from the early days of social audio to today's consumer AI boom\u2014and dig into what founders should focus on as the next generation of creative tools takes shape.\n\nChapters:\n00:00 Intro\n00:51 Michael\u2019s founder experience\n06:43 Consumer landscape and AI impact\n08:26 What makes consumer different from other spaces\n10:00 AI costs and distribution challenges\n13:20 Listening to the users, growth rules \n16:40 Ecosystem integration, distribution\n19:52 AI generated content & social media\n30:00 Taste, craft, model energy\n33:20 Data opportunities\n36:40 Outro",
+        "id": 4188172,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Z4L4ZqL1xqQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z4L4ZqL1xqQ/hqdefault.jpg",
+        "title": "The Best Consumer Startup Ideas Were \"Impossible\" Until Now",
+        "vote": 0
+    }
+]

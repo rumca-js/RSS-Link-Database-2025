@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T19:27:49.058735+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T14:17:17+00:00",
+        "description": "I colorized, restored, and created sound design for This rare 1930s footage captures a continuous journey through Chicago\u2019s South Side, moving along South Park Avenue (now MLK Drive), the 63rd/South Park station area, S. LaSalle Avenue, S. Federal Street, E. 90th Street, Mackinaw Avenue, and Brandon Avenue, showcasing notable locations such as the 6359 Avenue Lounge, Beutner Playground, Katz\u2019s Junk Shop, the South Gate Tavern, the Shrine of St. Jude, and the distant steeple of St. Michael the Archangel.  offers an authentic look at working-class neighborhoods, with busy streets, storefronts, and buildings\u2014many of which no longer exist. Scenes filmed at N. Noble Avenue and Crystal Street near Holy Trinity Polish Church belong to Northwest Chicago and do not naturally fit the South Chicago sequence unless needed for runtime. A key segment from film 58038, showing E. 92nd Street between Baltimore, Burley, and Buffalo\u2014featuring Southtown Flour & Feed\u2014should also be reinstated, as it fully",
+        "id": 4189897,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_MY36HXH0a4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_MY36HXH0a4/hqdefault.jpg",
+        "title": "A Day in Chicago 1930s in Color [60fps, Remastered] Sound Design",
+        "vote": 0
+    }
+]

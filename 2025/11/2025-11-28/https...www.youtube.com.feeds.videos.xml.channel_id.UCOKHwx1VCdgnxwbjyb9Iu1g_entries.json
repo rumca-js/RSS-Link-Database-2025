@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T20:19:17.791442+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T19:39:18+00:00",
+        "description": "Let's glaze that donut \ud83c\udf69\nNew parts releasing every other day \ud83d\udd1c\n\nIn this video you'll learn how to model and sculpt dripping icing over the donut using Blender 5.0.\n\nAll Links\ud83d\udd17: https://www.blenderguru.com/tutorials/blender-donut-v5-tutorial\n\n=== Chapter Marks :scissors:===\n0:00 Introduction \n0:23 Outliner Organization \n1:10 Renaming \n1:49 Making Icing\n3:16 Duplicate Object \n4:12 Remove bottom half of donut \n5:46 Unstuck Yourself Guide\n7:35 Solidify Modifier on Icing \n8:36 Proportional Editing Tool \n13:00 Adding dribble parts \n13:56 Subdivision Surface Modifier \n14:26 Shrinkwrap Modifier\n15:28 Fixing z fighting (Sorting modifiers) \n21:39 Fixing icing position - Edge Data\n25:52 Apply Modifiers\n27:14 Sculpting \n28:50 Inflate/Deflate Brush \n30:24 Homework - Plate\n\n\n===Follow me\ud83e\udef0===\n\nTwitter: https://twitter.com/andrewpprice\nInstagram: http://instagram.com/andrewpprice\nArtStation: http://artstation.com/artist/andrewprice\nLinkedIn: www.linkedin.com/in/andrew-price-17678911",
+        "id": 4190256,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9OA2asQdi_U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9OA2asQdi_U/hqdefault.jpg",
+        "title": "Blender Donut 5.0 - Part 3 (Icing)",
+        "vote": 0
+    }
+]

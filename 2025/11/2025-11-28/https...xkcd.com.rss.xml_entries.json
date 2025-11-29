@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T22:21:25.986147+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T05:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/bridge_clearance.png\" title=\"A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.\" alt=\"A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.\" />",
+        "id": 4190877,
+        "language": "en",
+        "link": "https://xkcd.com/3174",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/bridge_clearance.png",
+        "title": "Bridge Clearance",
+        "vote": 0
+    }
+]

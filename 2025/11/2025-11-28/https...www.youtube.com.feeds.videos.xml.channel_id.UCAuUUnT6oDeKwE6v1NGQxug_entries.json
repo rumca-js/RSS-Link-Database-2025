@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T21:05:08.330235+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T20:30:06+00:00",
+        "description": "When you think of North American cuisine, do Indigenous foods come to mind? Chef Sean Sherman serves up an essential history lesson that explains the absence of Native American culinary traditions across the continent, highlighting why revitalizing Indigenous education sits at the center of a better diet and healthier relationship with the planet.",
+        "id": 4190457,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Fvg9sUgqbXc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fvg9sUgqbXc/hqdefault.jpg",
+        "title": "\u201cIf we can control our food, we can control our future\u201d - Sean Sherman #TEDTalks",
+        "vote": 0
+    }
+]

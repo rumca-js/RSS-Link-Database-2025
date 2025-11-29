@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T18:11:19.283383+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T17:31:27+00:00",
+        "description": "00:00 NEW MOVIE NEWS 2026 \n00:37 House Of The Dragon Season 4\n01:56 Jumanji 3\n02:59 Heat 2  \n04:26 Alita Battle Angel 2\n05:45 Black Panther 3  \n07:05 Superman 2 Man of Tomorrow \n08:22 Avengers Doomsday \n09:38 Avengers Secret Wars \n10:56 Ocean's 14\n12:10 Superman 2 Man of Tomorrow  \n13:18 Avatar 3 Fire and Ash\n14:43 Alien Earth Season 2",
+        "id": 4189326,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KnHP9zsNUaM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KnHP9zsNUaM/hqdefault.jpg",
+        "title": "NEW MOVIE NEWS 2026 - Man of Tomorrow, Alita Battle Angel 2, Black Panther 3, Avengers Doomsday",
+        "vote": 0
+    }
+]

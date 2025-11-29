@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T15:35:58.538480+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCutting C++ Exception Time by +90%? - Khalil Estell - CppCon 2025\n---\n\nHave you ever been \"nerd sniped\"? When I realized that exceptions are capable of reducing binaries sizes, it felt like the only thing standing in the way of its adoption was its performance concerns. I couldn't let it go. I wanted to see how far the algorithm could be pushed. In 2024, I set out to just that: making C++ exceptions blazingly fast for embedded platforms. A year later, I've achieved a +90% performance improvement for ARM microcontrollers. \n \nThis talk takes you behind the scenes of this journey. I'll share the complete roadmap\u2014from initial benchmarking to optimization\u2014revealing techniques applicable to any performance-critical C++ system. But this isn't just a technical story; it's a testament to the power of community collaboration and how the C++ community summoned this talk. Even if you've sworn off exceptions forever, this talk still delivers value. It's a course in perform",
+        "id": 4188116,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wNPfs8aQ4oo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wNPfs8aQ4oo/hqdefault.jpg",
+        "title": "Cutting C++ Exception Time by +90%? - Khalil Estell - CppCon 2025",
+        "vote": 0
+    }
+]

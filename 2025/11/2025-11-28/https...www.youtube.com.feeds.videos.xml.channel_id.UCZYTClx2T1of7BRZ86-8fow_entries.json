@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T17:20:05.463094+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T16:00:36+00:00",
+        "description": "Want to restore the planet\u2019s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code SCI11 will get the first month for free at: https://planetwild.com/r/scishow/join If you want to get to know them better first, check out their project saving seahorses: https://planetwild.com/r/scishow/m25\n\nFrom capuchins adopting howler monkeys to owls adopting snakes, here are the weirdest times an animal has taken another species under its wing, or paw, or fin.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jaap Westera, Alex Hackman, Blood Doctor Kelly, Toyas Dhake, Matt Curls, Piya Shedden",
+        "id": 4188842,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Jsd459V-mKs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Jsd459V-mKs/hqdefault.jpg",
+        "title": "The Weirdest Adoptions in the Animal Kingdom",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Universal Pictures",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T18:40:27.303522+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T18:00:01+00:00",
+        "description": "#TheBluesBrothers #BlackFriday #HolidayShopping #UniversalPictures #Shorts",
+        "id": 4189477,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/0OklfJtBvoE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 598,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0OklfJtBvoE/hqdefault.jpg",
+        "title": "The fastest way to hit all those Black Friday sales | \ud83c\udfac The Blues Brothers (1980)",
+        "vote": 0
+    }
+]

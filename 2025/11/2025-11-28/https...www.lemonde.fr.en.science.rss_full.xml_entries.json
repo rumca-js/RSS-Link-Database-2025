@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-28T19:53:10.034961+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-28T19:53:09+00:00",
+        "description": "Member states of the European Space Agency, meeting in Bremen, approved a \u20ac22.1 billion budget for 2026-2028 \u2013 a 32% increase. Germany will contribute \u20ac5.1 billion, or 23% of the funds, taking on a leadership role in Europe's space program.",
+        "id": 4189995,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/germany/article/2025/11/28/germany-pushes-ahead-to-become-europe-s-leading-space-power_6747944_146.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/11/27/241/0/4500/2250/644/322/60/0/d00a932_upload-1-xyh6n4w2trkz-194474.jpg",
+        "title": "Germany pushes ahead to become Europe's leading space power",
+        "vote": 0
+    }
+]
