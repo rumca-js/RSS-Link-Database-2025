@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tamar Lortkipanidze",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T14:51:12.909380+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T14:16:12+00:00",
+        "description": "Largely recognized for its imperial grandeur, this city is home to a thriving network of contemporary galleries that offer a balance of bold experimentation and classic artistic traditions.",
+        "id": 4194902,
+        "language": "en",
+        "link": "https://observer.com/list/best-art-galleries-in-vienna-austria",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://observer.com/wp-content/uploads/sites/2/2025/11/\u00a9-Galerie-Krinzinger-03.jpeg?quality=80&w=970",
+        "title": "The Best Art Galleries in Vienna, Austria",
+        "vote": 0
+    }
+]

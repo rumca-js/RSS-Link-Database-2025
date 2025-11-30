@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/tucna",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T23:22:25.713456+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T22:33:57+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tucna\"> /u/tucna </a> <br/> <span><a href=\"https://www.youtube.com/watch?v=PcmDx2TaeJc\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1pa1tpx/stop_hardcoding_passwords_how_c_appears_in/\">[comments]</a></span>",
+        "id": 4197708,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1pa1tpx/stop_hardcoding_passwords_how_c_appears_in",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Stop Hardcoding Passwords! (How C++ Appears in Assembly)",
+        "vote": 0
+    }
+]

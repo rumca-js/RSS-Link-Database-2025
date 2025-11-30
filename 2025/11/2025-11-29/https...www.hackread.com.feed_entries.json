@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T14:54:55.545946+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T14:03:12+00:00",
+        "description": "Cybersecurity firm Cato Networks reveals HashJack, a new AI browser vulnerability using the '#' symbol to hide malicious commands. Microsoft and Perplexity fixed the flaw, but Google's Gemini remains at risk.",
+        "id": 4194939,
+        "language": "en-US",
+        "link": "https://hackread.com/hashjack-attack-url-control-ai-browser-behavior",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "HashJack Attack Uses URL \u2018#\u2019 to Control AI Browser Behavior",
+        "vote": 0
+    }
+]

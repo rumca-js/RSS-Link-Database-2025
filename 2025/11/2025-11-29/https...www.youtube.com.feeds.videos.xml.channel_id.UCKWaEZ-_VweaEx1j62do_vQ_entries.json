@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T14:18:03.509567+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T12:01:01+00:00",
+        "description": "Ready to become a certified Instana Observability v1.0.277 Administrator? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbbFk\n\nLearn more about Observability here \u2192 https://ibm.biz/BdbnnD\n\nWhen AI\u202fagents go rogue, observability reveals how they think and act \ud83e\udd16. Jordan\u202fByrd explains how decision tracing, behavioral monitoring, and outcome alignment create transparency and reliability in autonomous systems. Learn how observability builds trust in AI.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbnnR\n\n#rogueai #aiagents #observability #autonomoussystems #aigovernance",
+        "id": 4194632,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UjQBgwTcvng",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UjQBgwTcvng/hqdefault.jpg",
+        "title": "Rogue\u202fAI\u202fAgents: How AI Observability Builds Autonomous Trust",
+        "vote": 0
+    }
+]

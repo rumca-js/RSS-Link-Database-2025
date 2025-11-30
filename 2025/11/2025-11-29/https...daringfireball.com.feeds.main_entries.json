@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T23:30:50.040198+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T22:41:38+00:00",
+        "description": "<p><a href=\"https://daringfireball.net/linked/2024/12/05/festivitas\">Last year</a> developer Simon St\u00f8vring launched a fun new app for the Mac called Festivitas, which let you decorate your menu bar and Dock with animated holiday lights and falling snow. This year he\u2019s added an iOS version for iPhone and iPad that lets you create widgets to decorate your home screens with holidays lights and festive photo frames. Pure fun.</p>\n\n<p><strong>See also:</strong> Jason Snell on using Festivitas\u2019s Shortcuts support to <a href=\"https://sixcolors.com/post/2025/11/festivitas-adds-snow-shortcuts-iphone-widgets-to-its-holiday-package/\">create an automation that gives a 10 percent chance of snow every 20 minutes</a>. St\u00f8vring\u2019s own Shortcuts examples (available in the app\u2019s Settings window) include things like turning on the lights when music starts playing. With support for Shortcuts, users can create their own fun.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Festivitas\u2009\u2014\u2009Now for iOS, Thanks to Widg",
+        "id": 4197735,
+        "language": "",
+        "link": "https://festivitas.app",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Festivitas\u2009\u2014\u2009Now for iOS, Thanks to Widgets",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T16:07:48.812067+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T15:29:35+00:00",
+        "description": "This secret button gets rid of Amazon's garbage search results \ud83e\udd14\n\nTime Stamps:\n0:00 - Intro\n0:16 - Cleaning Up The Search Results\n0:45 - Premium Brands Filter\n1:19 - Top Brands Filter\n2:26 - A Couple Notes\n3:26 - Secret Sorting Options\n3:46 - Sort By Number of Reviews\n5:16 - Sort By Oldest Product\n5:39 - How To See Date First Available",
+        "id": 4195324,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=yJxOasvhx0o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yJxOasvhx0o/hqdefault.jpg",
+        "title": "This Secret Button Fixes Amazon's Biggest Problem",
+        "vote": 0
+    }
+]

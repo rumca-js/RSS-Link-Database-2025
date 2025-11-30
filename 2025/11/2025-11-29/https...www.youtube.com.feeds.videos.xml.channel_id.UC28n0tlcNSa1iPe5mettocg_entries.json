@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "voidzilla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T06:42:39.690055+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T06:00:21+00:00",
+        "description": "my recent foia adventure and some epstein stuff. \ncheck out the epstein database i'm partnering with, it's free: https://jmail.world/\n\nwriteup on the foia problems: https://brechner.org/2025/04/30/foia-requests-denials-surge-fy-2024/\nthe most recent foia annual report: https://www.justice.gov/oip/media/1398111/dl?inline\n\nsupport: https://www.patreon.com/coffeezilla\n\ndisclaimer (updated May 2025): voidzilla is an opinion\u2011driven channel that comments on the news of the day under the satirical and rhetorically hyperbolic banner \u201cCRIME\u202fIS\u202fLEGAL.\u201d\u202fthe phrase critiques what we see as a lax or uneven regulatory enforcement environment for fraud. unlike our affiliated channel Coffeezilla, which conducts detailed investigations and source\u2011document deep dives, and draws opinions from that, voidzilla offers rapid\u2011fire commentary and criticism on information already in the public domain. statements here reflect the host\u2019s views at the moment of recording and may become outdated as facts evolve. r",
+        "id": 4192779,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QnxlKClfTpU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 592,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC28n0tlcNSa1iPe5mettocg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QnxlKClfTpU/hqdefault.jpg",
+        "title": "this is not transparency",
+        "vote": 0
+    }
+]

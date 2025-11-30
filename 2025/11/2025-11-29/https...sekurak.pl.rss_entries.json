@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T09:10:47.739554+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T08:34:24+00:00",
+        "description": "<p>Dodatkowo lekarz z Wroc\u0142awia informuje o wycieku danych: &#8222;Dane Pa\u0144stwa &#8211; imi\u0119, nazwisko, p\u0142e\u0107, adres, PESEL, w niekt\u00f3rych przypadkach numer telefonu, a tak\u017ce dane medyczne z wizyt dermatologicznych, by\u0142y gromadzone w zewn\u0119trznym lekarskim programie gabinetowym Medfile, do kt\u00f3rego w wyniku cyberataku nast\u0105pi\u0142 nieuprawniony dost\u0119p. W wyniku ataku na dane niekt\u00f3rych...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/przejeto-konto-lekarza-w-aplikacji-medfile-atakujacy-wypisywal-recepty-na-srodki-narkotyczne/\">Przej\u0119to konto lekarza w aplikacji Medfile; atakuj\u0105cy wypisywa\u0142 recepty na \u015brodki narkotyczne</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 4193236,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/przejeto-konto-lekarza-w-aplikacji-medfile-atakujacy-wypisywal-recepty-na-srodki-narkotyczne",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Przej\u0119to konto lekarza w aplikacji Medfile; atakuj\u0105cy wypisywa\u0142 recepty na \u015brodki narkotyczne",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuokka77",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T12:11:59.801001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T12:06:15+00:00",
+        "description": "\"RoboST\" (2013) by 505/Checkpoint^Paradox.\nAtari Falcon art \"Mind in a Box\" by Mic/Dice, 1st at Silly Venture 2011 Atari Falcon gfx compo.\n\nFrench CA4003290 Atari STe with new Mean Well RPD-60A PSU (SidecarTridge.com variety). Playback using SND Player v1.51. Brainworx VST effects applied.\n\nSTe hardware has its issues, mine is not an exception. The infamous DAC whistle was removed using iZotope RX 6 spectral de-noiser. Crackling during DMA audio playback, while not 100% eliminated, got improved dramatically after applying Exxos STE DAC CRACKLES POP FIX (additional grounding for U500 and U501 via bodge wires).",
+        "id": 4193953,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=09CFPR9MMSE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 180,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/09CFPR9MMSE/hqdefault.jpg",
+        "title": "Atari music: 505 - RoboST (STe\ud83c\udfa7bx_)",
+        "vote": 0
+    }
+]

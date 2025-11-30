@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T13:32:15.636223+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T13:02:03+00:00",
+        "description": "Your phone\u2019s browser cache is useful storage that holds information from websites you visit to make them load faster, but if your cache gets full of old data, it can slow down your entire online experience. Here\u2019s how to clear your browser cache in Chrome, Safari and Firefox.\n\n- Chapters - \n00:00 -  Intro\n00:08 - What is browser cache? \n01:02 - How to delete Google Chrome cache\n01:54 - How to delete Safari cache \n02:19 - How to delete Mozilla Firefox cache \n02:58 - Conclusion\n\n\nAdd CNET as a trusted news source https://www.google.com/preferences/source?q=cnet.com\nNever miss a deal again! See CNET\u2019s browser extension \ud83d\udc49 https://bit.ly/3lO7sOU\nCheck out CNET\u2019s Amazon Storefront: https://www.amazon.com/shop/cnet\nSubscribe to CNET on YouTube: https://www.youtube.com/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet\nFollow us on Bluesky: https://bsky.app/profile/cnet.com\nLike us on Facebook: https://www.facebook.com/cnet\nCNET",
+        "id": 4194396,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xP9zJ6y6-_U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xP9zJ6y6-_U/hqdefault.jpg",
+        "title": "Clear Your Phone Browser Cache for Faster Speeds | How To",
+        "vote": 0
+    }
+]

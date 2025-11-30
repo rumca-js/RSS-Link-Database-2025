@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cleo Abram",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T19:19:28.329825+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T18:05:23+00:00",
+        "description": "In 1941 two researchers ran an experiment on some kids in Philadelphia. They hung ultraviolet \u201cirradiation chambers\u201d in some classrooms. The devices emitted ultraviolet light around the top of the room, above the heads of the children.\n\nThey were testing to see how effective UV light was at killing germs - then a measles outbreak swept US cities. Their results were shocking. \n\n#measles #UV-C #FarUV #Science #shorts #tech",
+        "id": 4196447,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Rov6W30zZhQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 771,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Rov6W30zZhQ/hqdefault.jpg",
+        "title": "This Experiment Saved Kids\u2019 Lives",
+        "vote": 0
+    }
+]

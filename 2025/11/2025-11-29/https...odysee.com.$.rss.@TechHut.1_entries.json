@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T04:09:08.231381+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T03:16:42+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/SE1lDFVCrr0\" width=\"480\" alt=\"thumbnail\" title=\"You can NOW Self-Host UniFi\" /></p>Checkout Akiflow here: https://akiflow.pro/TechHut and get your life organized with their powerful calendar, task, and automation tools!<br /><br />Setting Up UniFi Network Server on Raspberry Pi 5 - Self-Hosted Network Management! I tested UniFi's new Server OS on a Raspberry Pi 5, and it works great! No more needing expensive Dream Machines or Cloud Gateways to manage your UniFi switches, access points, and other devices. <br /><br />https://help.ui.com/hc/en-us/articles/34210126298775-Self-Hosting-UniFi<br /><br />In this video, I walk through the complete setup process - from installing UniFi OS Server on Ubuntu to adopting devices and creating wireless networks. This is perfect if you've scored cheap UniFi gear on Facebook Marketplace but don't want to shell out for their proprietary hardware<br /><br />\ud83c\udfc6 FOLOW TECHHUT<br />X (Twitter): https://bit.ly/twitte",
+        "id": 4192324,
+        "language": "en",
+        "link": "https://odysee.com/you-can-now-self-host-unifi:dcb8e7b01f6f284a4a1e1f5ac069931d20fafaaa",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/SE1lDFVCrr0",
+        "title": "You can NOW Self-Host UniFi",
+        "vote": 0
+    }
+]

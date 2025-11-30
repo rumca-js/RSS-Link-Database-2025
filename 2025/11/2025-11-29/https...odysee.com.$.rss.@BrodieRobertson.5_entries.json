@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T18:05:51.861422+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T16:30:16+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/MWjAxreIHU4\" width=\"480\" alt=\"thumbnail\" title=\"We Need To Talk About KDE Plasma's Future\" /></p>Recently KDE announced that after the 6.7 release with 6.8 they would be going Wayland only, this is much earlier than when we initially thought it was going to happen so lets talk about this change.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Kwin Split: https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/<br />KDE Wayland Future: https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/<br />Portal Permissions: https://develop.kde.org/docs/administration/portal-permissions/<br />Fedora Email: https://lists.fedoraproject.org/archives/list/devel@lists.fed",
+        "id": 4196094,
+        "language": "en",
+        "link": "https://odysee.com/we-need-to-talk-about-kde-plasma%27s:89aedf7bcac8690d43166d858060bce82dfa9060",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/MWjAxreIHU4",
+        "title": "We Need To Talk About KDE Plasma's Future",
+        "vote": 0
+    }
+]

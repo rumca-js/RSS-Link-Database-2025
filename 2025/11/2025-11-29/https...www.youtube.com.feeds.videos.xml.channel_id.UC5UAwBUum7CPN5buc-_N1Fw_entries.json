@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T11:58:56.323765+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T10:20:56+00:00",
+        "description": "Secure your passwords and logins with Proton Pass: https://proton.me/pass/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:28 Sponsor: Proton Pass\n01:38 KDE will drop X11 in 2027\n05:04 Collabora launches a new desktop office suite \n07:10 Arduino's takeover by Qualcomm yields worrying changes\n09:07 Chrome OS will transform into AluminiumOS\n11:27 Igalia details their work for the Steam Frame and Steam Machine\n13:51 Tuxedo gives up on Snapdragon laptops",
+        "id": 4193928,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TjnC0gi9Quk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TjnC0gi9Quk/hqdefault.jpg",
+        "title": "KDE drops X11 too, New Office Suite, Arduino turns to crap - Linux Weekly News",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T18:46:18.260362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T17:47:28+00:00",
+        "description": "Thanks to SHARGE for sponsoring this video! Check out the SHARGE ICEMAG 3 at https://bit.ly/4ouRIza and get 10% off using the code: LTT10\n\nOne of Vessi\u2019s best deals of the year is happening now! Don\u2019t wait \u2014 your perfect pair is just a click away at https://vessi.com Vessi say they're Waterproof, breathable, and built for your every move. Hurry and grab 25% off sitewide and select styles up to 55% off while it lasts.\n\nShop all LTTStore Black Friday deals and get free shipping on all orders over $100: https://lmg.gg/bfcm\n\nLinus may have overreacted when he unboxed the Airpods Pro 3s, but how much are we willing to let Apple get away with? After daily driving them for a couple of months, he's got some more to say about their walled-garden ecosystem and mixed bag of \"improvements\" over the last generation.\n\nhttps://www.lttlabs.com/blog/2025/10/07/why-are-the-airpods-pro-3-a-nightmare-to-test\n\nDiscuss on the forum: https://linustechtips.com/topic/1627638-airpods-pro-3-an-apple-critic%E2%8",
+        "id": 4196218,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vJIzIH_guPU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vJIzIH_guPU/hqdefault.jpg",
+        "title": "AirPods Pro 3 - I was Wrong (sort of)",
+        "vote": 0
+    }
+]

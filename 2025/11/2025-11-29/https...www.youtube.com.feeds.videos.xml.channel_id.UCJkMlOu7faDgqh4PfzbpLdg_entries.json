@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdwriter1",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-29T14:21:36.230907+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-29T14:00:55+00:00",
+        "description": "Go to https://www.squarespace.com/nerdwriter for 10% off your first purchase.\nSUPPORT THE SHOW ON PATREON: https://patreon.com/nerdwriter\n\nMY BOOK: https://amzn.to/3ymfQPV \n\nSOURCES:\n\nGiddens, Anthony. The Transformation of Intimacy: Sexuality, Love, and Eroticism in Modern Societies. Stanford University Press, 1992.\n\nTaylor, Charles. Sources of the Self: The Making of the Modern Identity. Harvard University Press, 1989.\n\nMacIntyre, Alasdair. After Virtue: A Study in Moral Theory. 3rd ed., University of Notre Dame Press, 2007.\n\nMUSIC (via Epidemic Sound)\n\nTokyo for an Evening  - Martin Landstro\u0308m\nOpen Fields - Johan Landqvist",
+        "id": 4194638,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=S7FCb6v45Io",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 496,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/S7FCb6v45Io/hqdefault.jpg",
+        "title": "Why Is Everyone Running In Rom-Coms?",
+        "vote": 0
+    }
+]
