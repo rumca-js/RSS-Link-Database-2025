@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T22:20:14.949216+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T21:09:16+00:00",
+        "description": "Thanks to Meter for sponsoring this episode! Go to http://meter.com/craftcomputing to book a demo today.\n\nAlso, thanks to Josh from SquareW for letting me tag along and help film the deployment. I'd like to note, it was his side of the server that fell off the rails, not mine ;-)\n\nIf you're interested in COLO or Hosted services, feel free to reach out to ZeroOne Technology Services at Sales@ZeroOne.tech\n\nIf you want to help support the channel, grab yourself a Pint Glass or insulated Coffee Tumbler at https://craftcomputing.store\n\nFollow me on Bluesky @CraftComputing.bsky.social\n\nSupport me on Patreon and get access to my exclusive Discord server. Chat with myself and the other hosts on Talking Heads all week long.\n\nhttps://www.patreon.com/CraftComputing\n\nMusic:\n\"Mining by Moonlight\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/",
+        "id": 4203689,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=u6boKrDsem8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u6boKrDsem8/hqdefault.jpg",
+        "title": "I helped deploy 900TB of Cloud Storage!!! - 45Drives XL60",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TEDx Talks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T18:20:11.357977+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T18:00:37+00:00",
+        "description": "In her talk, Cosmic caretaking, Karlie explores the deep connection between First Nations sky knowledge and modern astronomy, revealing how ancient wisdom can guide us in protecting our planet and the cosmos. \n\nKarlie Alinta Noon is a proud Kamilaroi and Wiradjuri scientist bridging the worlds of Indigenous knowledge and astrophysics. With a background in mathematics and physics, she is currently pursuing a PhD in astrophysics at ANU and is an advocate for education and cultural heritage. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "id": 4202319,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VzEmTWpepI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 915,
+        "source_url": "https://youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VzEmTWpepI4/hqdefault.jpg",
+        "title": "Billionaires are exploiting space\u2014here's how we do better | Karlie Noon | TEDxCanberra",
+        "vote": 0
+    }
+]

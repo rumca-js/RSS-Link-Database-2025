@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T17:57:06.722687+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T17:00:45+00:00",
+        "description": "\ud83d\udd25\u00a0Gor\u0105ce, pi\u0105tkowe popo\u0142udnie w Twojej firmie. Zbli\u017ca si\u0119 koniec kwarta\u0142u, wi\u0119c ca\u0142y m\u0142ody, dynamiczny zesp\u00f3\u0142 biega jak kot z p\u0119cherzem, \u017ceby na asapie podowozi\u0107 wszystkie taski przed dedlajnami. Telefony dzwoni\u0105, klawiatury prawie pal\u0105\u00a0si\u0119 pod palcami, ekspres do kawy ju\u017c\u00a0ledwo zipie i ka\u017cdy ma wra\u017cenie, \u017ce z niczym nie zd\u0105\u017cy. Czy mo\u017ce by\u0107\u00a0co\u015b gorszego? Oj, tak. Bo co dzieje si\u0119, kiedy krzywdz\u0105\u00a0nas Ci, kt\u00f3rzy mieli chroni\u0107\u00a0przed ca\u0142ym z\u0142em tego \u015bwiata?\n \n\u0179r\u00f3d\u0142a:\n\ud83e\udd77\u00a0Firms That Promised High-Tech Ransomware Solutions Almost Always Just Pay the Hackers\nhttps://features.propublica.org/ransomware/ransomware-attack-data-recovery-firms-paying-hackers/\n\n\ud83d\udc26\u00a0International Cyber Digest @ Twixxer\nhttps://x.com/IntCyberDigest/status/1985843650451132809\nhttps://x.com/IntCyberDigest/status/1991964889162932640\n\n\ud83e\udee5\u00a0When the Defenders Become the Attackers: Cybersecurity Experts Indicted for BlackCat Ransomware Operations\nhttps://breached.company/when-the-defenders-become-the-attackers-cybersecurity-exper",
+        "id": 4202272,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=RgQ785sHz80",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RgQ785sHz80/hqdefault.jpg",
+        "title": "Ciemna strona bran\u017cy Cybersecurity",
+        "vote": 0
+    }
+]

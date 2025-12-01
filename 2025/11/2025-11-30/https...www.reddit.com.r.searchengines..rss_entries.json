@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/pulneni-chushki",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T19:34:09.455151+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T18:53:04+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I believe that most search engines, including kagi, use Google&#39;s webcrawler, and then use their own algorithm to pick and display results. This seems to have two problems: (1) Google is heavily censored and (2) many results are ads or AI slop that are optimized to have high ranks.</p> <p>It seems like it would be possible to make a webcrawler and only do the legal minimum censorship, but I wonder if this would even accomplish anything with all of the AI slop. Is the age of being able to find information dying out forever?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pulneni-chushki\"> /u/pulneni-chushki </a> <br/> <span><a href=\"https://www.reddit.com/r/searchengines/comments/1paq55a/are_useful_search_engines_even_possible_anymore/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/searchengines/comments/1paq55a/are_useful_search_engines_even_possible_anymore/\">[comments]</a></span>",
+        "id": 4202831,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1paq55a/are_useful_search_engines_even_possible_anymore",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Are useful search engines even possible anymore?",
+        "vote": 0
+    }
+]

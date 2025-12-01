@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Evans",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T16:08:06.122883+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T16:01:03+00:00",
+        "description": "SUBSCRIBE TO @LamarrWilson \n\nI brought Lamarr back for Mystery Tech and spent way too much money on some of the wildest gadgets I've ever tested. From a portable bidet to an AI device that literally never stops listening to your conversations...this got weird fast. Oh, and there's shock therapy involved.\n\nSubscribe for more! https://www.youtube.com/austinevans\nCheck out our @thisis channel! https://www.youtube.com/thisis\nAs well as the @Denki channel! https://www.youtube.com/@Denki\nInstagram: https://instagram.com/austinnotduncan\nThreads: https://www.threads.net/@austinnotduncan\n\nChapter Titles:\n0:00 Lamarr's Special Day\n0:45 Bidet Buddy\n3:11 Cube 3.0\n6:47 Pavlok\n10:18 Axe Throwing\n11:47 Haribo Tech\n14:28 Friend\n17:55 The End",
+        "id": 4201617,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=oRzKvj4XpjY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 24,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oRzKvj4XpjY/hqdefault.jpg",
+        "title": "I Regret this Mystery Tech.",
+        "vote": 0
+    }
+]

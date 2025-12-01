@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T04:21:11.771856+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T03:30:11+00:00",
+        "description": "INSANE AI NEWS: Flux 2, Z-image, Claude Opus 4.5, Deepseek Math V2, Hunyuan OCR #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Hubspot. Download the free \u201c5 AI Tools to Make Your First Million\u201d: https://clickhubspot.com/44bca9\n\nSources in order of mention:\nhttps://hunyuan.tencent.com/vision/zh?tabIndex=0\nhttps://ekonwang.github.io/geo-vista/\nhttps://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use\nhttps://github.com/alibaba-damo-academy/RynnVLA-002\nhttps://bfl.ai/blog/flux-2\nhttps://github.com/Tongyi-MAI/Z-Image\nhttps://kr1sjfu.github.io/iMontage-web/\nhttps://github.com/liyiteng/AlohaMini\nhttps://huggingface.co/deepseek-ai/DeepSeek-Math-V2\nhttps://www.anthropic.com/news/claude-opus-4-5\nhttps://openai.com/index/chatgpt-shopping-research/\n\n0:00 AI news intro\n0:56 Hunyuan OCR\n2:30 GeoVista\n4:31 Fara-7B\n7:28 RynnVLA 002\n9:25 Flux2\n13:04 Z Image \n15:24 Free Hubspot guide\n16:13 iMontage\n19:18 Unitree plays basketball\n20:30 AlohaMini\n22:10 Deeps",
+        "id": 4198661,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7prw229V_vM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7prw229V_vM/hqdefault.jpg",
+        "title": "DeepSeek strikes again, new top image models, Claude Opus 4.5, open source robots: AI NEWS",
+        "vote": 0
+    }
+]

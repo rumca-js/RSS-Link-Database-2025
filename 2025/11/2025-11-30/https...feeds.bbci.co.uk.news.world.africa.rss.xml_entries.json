@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T01:34:47.107696+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T01:14:43+00:00",
+        "description": "Parents of kidnapped children know where the bandits hide out, but are too scared to inform the authorities.",
+        "id": 4198129,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c4g6we59qe4o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c8e/live/70f89ca0-cc95-11f0-9fb5-5f3a3703a365.jpg",
+        "title": "'Too scared to speak' - Nigerian villagers on living in the midst of kidnap gangs",
+        "vote": 0
+    }
+]

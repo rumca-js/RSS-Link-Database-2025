@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lex Fridman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T19:49:00.417219+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T19:30:21+00:00",
+        "description": "Michael Levin is a biologist at Tufts University working on novel ways to understand and control complex pattern formation in biological systems.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman.com/sponsors/ep486-sb\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\n\n*Transcript:*\nhttps://lexfridman.com/michael-levin-2-transcript\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nMichael Levin's X: https://x.com/drmichaellevin\nMichael Levin's Website: https://drmichaellevin.org\nMichael Levin's Papers: https://drmichaellevin.org/publications/\n- Biological Robots: https://arxiv.org/abs/2207.00880\n- Classical Sorting Algorithms: https://arxiv.org/abs/2401.05375\n- Aging as a Morphost",
+        "id": 4202976,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 547,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qp0rCU49lMs/hqdefault.jpg",
+        "title": "Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leigh Beadon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T20:30:33.603510+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T20:00:00+00:00",
+        "description": "This week, our first place winner on the insightful side is MrWilson with a comment about how fascism is happening live on TV: Trump\u2019s supporters, like Trump himself, if being honest (ha!) will reply, \u201cI don\u2019t care, I want this to happen.\u201d They\u2019ve never cared about the Constitution except as a weapon to be used [&#8230;]",
+        "id": 4203142,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/11/30/funniest-most-insightful-comments-of-the-week-at-techdirt-187",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Funniest/Most Insightful Comments Of The Week At Techdirt",
+        "vote": 0
+    }
+]

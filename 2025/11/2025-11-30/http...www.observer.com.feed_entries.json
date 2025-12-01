@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul Jebara",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T15:42:20.175632+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T15:30:00+00:00",
+        "description": "From Atacama to Patagonia, Chile makes extremes easy with dark-sky nights, glacier days and coastal dinners.",
+        "id": 4201491,
+        "language": "en",
+        "link": "https://observer.com/list/chile-travel-guide-atacama-patagonia-wine-valleys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://observer.com/wp-content/uploads/sites/2/2025/10/PORTILLO.jpeg?quality=80&w=970",
+        "title": "Why Chile Might Be South America\u2019s Most Overlooked Adventure Capital",
+        "vote": 0
+    }
+]

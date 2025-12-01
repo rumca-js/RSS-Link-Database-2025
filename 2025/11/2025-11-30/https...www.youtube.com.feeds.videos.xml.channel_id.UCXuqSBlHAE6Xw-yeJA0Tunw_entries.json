@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T18:28:33.379162+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T18:00:02+00:00",
+        "description": "Get a free 15-day trial of Odoo\u2019s all-in-one business solution and see how it can make your life easier! Check it out at https://www.odoo.com/ltt\n\nShop all LTTStore Black Friday deals and get free shipping on all orders over $100: https://lmg.gg/bfcm\n\nIt is finally here, the computer build you have (and possibly the whole world) been waiting for. The Linus Tech Tips and Linus Torvalds Collab PC build! Linus Torvalds talks through Linux development, parts selection, and even gives a glimpse into some cool projects he works on in his spare time. This project was made with a lot of hard work from our team and of course Linus Torvalds generous time. \n\nDiscuss on the forum: https://linustechtips.com/topic/1627666-building-the-perfect-linux-pc-with-linus-torvalds/\n\nCheck out the parts from the build: \nAMD Ryzen Threadripper 9960X: https://geni.us/dNscax\nGIGABYTE TRX50 AERO D Motherboard: https://geni.us/Oj7y3Ax\nSamsung SSD 9100 PRO 2TB SSD: https://geni.us/iaGudc9\nNoctua NH-U14S TR5-SP6 Coo",
+        "id": 4202379,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=mfv0V1SxbNA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mfv0V1SxbNA/hqdefault.jpg",
+        "title": "Building the PERFECT Linux PC with Linus Torvalds",
+        "vote": 0
+    }
+]

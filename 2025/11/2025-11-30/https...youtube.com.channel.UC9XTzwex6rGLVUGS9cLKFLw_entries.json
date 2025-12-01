@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Midwinter Minis",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T12:27:17.014752+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T12:09:48+00:00",
+        "description": "There's already up to 30% off at warmag.com, but use the code \"midwinter5\" for an extra 5% off anything. You're welcome. Ends Dec 1st 2025 #ad",
+        "id": 4200386,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/kG6kb8oLM-0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 668,
+        "source_url": "https://youtube.com/channel/UC9XTzwex6rGLVUGS9cLKFLw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kG6kb8oLM-0/hqdefault.jpg",
+        "title": "Treat yourself I guess #warmag",
+        "vote": 0
+    }
+]

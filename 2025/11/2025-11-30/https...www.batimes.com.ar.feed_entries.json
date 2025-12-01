@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T12:49:14.968055+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T12:37:53+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/11/30/trim/540/304/aerolineas-argentinas-plane-stock-2145214.jpg\" alt=\"Aerol\u00edneas Argentinas plane STOCK\" /></p>State airline, which currently operates 82 aircraft, will take delivery of two Boeing 737 Max 8 jets in 2026 and the rest between 2027 and 2029. <a href=\"https://www.batimes.com.ar/news/economy/aerolineas-argentinas-adds-18-boeing-and-airbus-aircraft-to-its-fleet.phtml\">Leer m\u00e1s</a>",
+        "id": 4200440,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/economy/aerolineas-argentinas-adds-18-boeing-and-airbus-aircraft-to-its-fleet.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/11/30/trim/540/304/aerolineas-argentinas-plane-stock-2145214.jpg",
+        "title": "Aerol\u00edneas Argentinas adds 18 Boeing and Airbus aircraft to its fleet",
+        "vote": 0
+    }
+]

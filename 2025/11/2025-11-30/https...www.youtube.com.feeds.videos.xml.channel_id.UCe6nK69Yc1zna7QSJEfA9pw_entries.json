@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T19:12:51.404866+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T17:57:46+00:00",
+        "description": "Nasze szkolenie z OSINT-u: https://nbzp.cz/osint-szkolenie -- zapisz si\u0119 z kodem \"TWITTER\" do 6 grudnia, a dostaniesz 100 zeta zni\u017cki :) \nJe\u015bli \u017caden z termin\u00f3w Ci nie pasuje, a masz firmowy bud\u017cet do wykorzystania w tym roku, to kup voucher na dowolny przysz\u0142y termin -- aby to zrobi\u0107, napisz na szkolenia@niebezpiecznik.pl z tematem \"voucher\".\n\nZacznij wspiera\u0107 ten kana\u0142, a dostaniesz te bonusy:\nhttps://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw/join",
+        "id": 4202669,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=q5pAJr6dYgY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/q5pAJr6dYgY/hqdefault.jpg",
+        "title": "PANIKA TROLI \ud83d\ude31 Twitter zacz\u0105\u0142 pokazywa\u0107 ich LOKALIZACJ\u0118. Jak to dzia\u0142a i czy mo\u017cna temu wierzy\u0107?",
+        "vote": 0
+    }
+]

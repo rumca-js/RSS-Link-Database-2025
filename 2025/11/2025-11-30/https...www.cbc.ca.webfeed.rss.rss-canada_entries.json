@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-30T23:47:40.232383+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-11-30T16:05:53+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/919e06b1-2aa7-4245-afc9-16698325f0e9,1764536858105/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29' alt='Canadian distance runner Moh Ahmed crosses the finish line to win the men\u2019s 5,000 metres at the Canadian track and field Olympic trials in Montreal, Quebec on June 27, 2024.' width='620' height='349' title='Saturday was the first race for 34-year-old Moh Ahmed since Sept. 14 when the St. Catharines, Ont., native exited early from the 10,000-metre final at the World Athletics Championships in Tokyo after aggravating a left calf strain.'/><p>In his long-awaited return to the Canadian cross-country championships, Olympic track medallist Moh Ahmed took control late in the open men\u2019s 10-kilometre race and won in 29 minutes 30.4 seconds at Fanshawe Golf Course on Saturday in London, Ont.</p>",
+        "id": 4204092,
+        "language": "en",
+        "link": "https://www.cbc.ca/sports/olympics/summer/athletics/moh-ahmed-victory-canadian-cross-country-championships-london-9.6998160?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/919e06b1-2aa7-4245-afc9-16698325f0e9,1764536858105/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3BResize%3D%28620%29",
+        "title": "Olympic runner Moh Ahmed wins his 1st Canadian cross-country title",
+        "vote": 0
+    }
+]
