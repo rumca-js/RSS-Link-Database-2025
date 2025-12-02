@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Epic Games",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-01T20:49:56.617087+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-01T20:36:16+00:00",
+        "description": "When the music kicks in \ud83c\udfb5, the madness begins. \ud83d\ude08 Your target \ud83c\udfaf is Slim Shady, the notorious alter ego of Eminem who\u2019s lyrical genius is only matched by his talent for chaos. Track him down in the twisted world \ud83c\udf00 he created and silence \ud83d\udd07 him once and for all.   \n\nGET FREE STARTER PACK TO PLAY THE MISSION NOW https://epic.gm/hitman3-starter",
+        "id": 4211950,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mx85JQvLL0s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 722,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5Qk8mWBwtMyEj7iQQYRk1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mx85JQvLL0s/hqdefault.jpg",
+        "title": "HITMAN World of Assassination | Eminem vs. Slim Shady Mission Briefing",
+        "vote": 0
+    }
+]

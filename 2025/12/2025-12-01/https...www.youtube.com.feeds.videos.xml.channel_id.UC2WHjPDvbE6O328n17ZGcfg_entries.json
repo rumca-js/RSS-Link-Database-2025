@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-01T19:37:25.776574+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-01T18:15:00+00:00",
+        "description": "Get 40% off for 3 months of Coursera Plus - https://imp.i384100.net/c/1459666/3419380/14726\n\nSo last year, I took on the challenge to learn Rust. My plan was to read through a bit of the Rust book (which I did), do a couple of challenges (which I did), and ultimately complete every single day of Advent of Code (which I didn't do). So I spent a good amount of time this year playing around with Rust, building a couple things, and just learning how it works. And there are a handful of things I\u2019ve pulled from Rust that I now implement, or are at least cognizant of when I\u2019m writing Java, or TypeScript.\n\n0:00 i tried learning rust\n1:35 Ownership & Control\n4:52 Borrowing & Shared State\n7:27 Types & Inference\n9:10 Error Handling\n10:34 Concurrency\n12:28 Enums\n14:38 everything should be written in rust\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com\n\nDon't know ",
+        "id": 4211363,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3lvofS5vktc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3lvofS5vktc/hqdefault.jpg",
+        "title": "Why Rust Changed the Way I Think About Programming",
+        "vote": 0
+    }
+]

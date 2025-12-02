@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tale Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-01T16:25:56.847280+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-01T16:00:11+00:00",
+        "description": "Get Nebula using our link for 40% off an annual subscription! https://go.nebula.tv/talefoundry\n\nOr click here to watch A Bit Obscure on Nebula: https://nebula.tv/abitfrank/a-bit-obscure?ref=talefoundry\n\n\u2014\n\nThey have to breathe fire somehow, right?\n\n\u25ac\u25ac\u25ac\u25ac Tale Foundry Team \u25ac\u25ac\u25ac\u25ac\n\u2022 Writer \u2014 Sophie Tang\n\u2022 Director, Voice actor \u2014 Benjamin Cook\n\u2022 Assistant Director \u2014 Sophia Bloom\n\u2022 Art Director, Asset Artist \u2014 Owen Norton ( https://www.behance.net/AbbieNorton)\n\u2022 Animator, Editor, Project Manager \u2014 Alexander Cuenin (https://linktr.ee/Cuenin)\n\u2022 Audio Engineer \u2014 Bazz Bartlett \u2014 (https://www.bartlettaudio.com.au/)\n\u2022 Promotion \u2014 Tommy Tenneber\n\u2022 Thumbnail Illustration \u2014 Korina Kovac\n\u2022 Thumbnail Lettering \u2014 Luis Avila\n\nAdditional Music by Epidemic Sound: http://epidemicsound.com",
+        "id": 4209556,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5mv_-50y2VI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 865,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCusb0SpT8elBJdbcEJS_l2A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5mv_-50y2VI/hqdefault.jpg",
+        "title": "To Dissect A Dragon",
+        "vote": 0
+    }
+]

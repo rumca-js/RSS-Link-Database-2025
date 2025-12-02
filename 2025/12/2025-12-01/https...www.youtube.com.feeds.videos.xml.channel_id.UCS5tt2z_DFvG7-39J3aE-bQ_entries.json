@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Life of Boris",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-01T18:56:48.532262+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-01T18:03:11+00:00",
+        "description": "yes\n\n\n\nmusic:\nHARDKOV - REAKTOR (feat. Life of Boris)\n(Spotify soon)\n\n\ud83d\udd25 More Boris cooking:  https://www.youtube.com/watch?v=UKfmRhfuI8g&list=PLbS0HkS8Xsorrdr3pPk4lP80tUAzfyxP1\n\n\u2764\ufe0f Send me a dollar on Patreon: https://patreon.com/lifeofboris\n\ud83d\udcd6 Buy my Cookbook: https://www.amazon.com/dp/B0DDHRC5Y4\n\ud83d\udc55 True Slav Merch Shop: https://www.borismerch.com/\n\ud83d\udcd6 Buy my storybook: https://www.amazon.com/dp/B0D9QTB6BS",
+        "id": 4211014,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8WNBL9pVaNU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 810,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS5tt2z_DFvG7-39J3aE-bQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8WNBL9pVaNU/hqdefault.jpg",
+        "title": "VODKA PENNE \u0421\u042e\u0420\u041f\u0420\u0418\u0417",
+        "vote": 0
+    }
+]

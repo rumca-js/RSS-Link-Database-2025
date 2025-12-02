@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-01T23:22:43.357705+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-01T22:26:49+00:00",
+        "description": "<p>\n\t<img alt=\"9af1530f-1aca-4fbc-8796-ff74a1a8b544-784x510.jpg\" src=\"https://isocpp.org/files/img/9af1530f-1aca-4fbc-8796-ff74a1a8b544-784x510.jpg\" style=\"width: 300px; margin: 10px; float: right; height: 195px;\" />When working with legacy or rigid codebases, performance bottlenecks can emerge from designs you can&rsquo;t easily change&mdash;like interfaces that force inefficient map access by index. This article explores how a simple <strong data-end=\"236\" data-start=\"212\"><code data-end=\"228\" data-is-only-node=\"\" data-start=\"214\">thread_local</code> cache</strong> can dramatically improve performance in such cases, reducing repeated lookups from quadratic to near-constant time.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2025/10/19/speeding-up-c-functions-with-a-thread_local-cache/\">Speeding up C++ functions with a thread_local cache</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIn large code bases, we are often stuck",
+        "id": 4212944,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/12/speeding-up-cpp-functions-with-a-thread-local-cache-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/9af1530f-1aca-4fbc-8796-ff74a1a8b544-784x510.jpg",
+        "title": "Speeding up C++ functions with a thread_local cache -- Daniel Lemire",
+        "vote": 0
+    }
+]

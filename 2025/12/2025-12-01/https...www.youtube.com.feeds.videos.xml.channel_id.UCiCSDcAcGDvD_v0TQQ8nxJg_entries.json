@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-01T19:36:55.215764+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-01T18:21:28+00:00",
+        "description": "New Movie Trailers 2025 in 4K ULTRA HD Quality\n00:00\u200b Anaconda\n02:22\u200b Ella McCay\n04:46 The SpongeBob Movie: Search for SquarePants\n07:12\u200b Troll 2\n08:20\u200b Wake Up Dead Man: A Knives Out Mystery\n10:10 Song Sung Blue\n12:40 The Housemaid\n14:17\u200b Dust Bunny\n16:11\u200b Avatar 3: Fire and Ash\n18:18 David\n19:13 Five Nights at Freddy\u2019s 2\n20:58\u200b Jujutsu Kaisen: Execution",
+        "id": 4211362,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xVG1h6IElWg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xVG1h6IElWg/hqdefault.jpg",
+        "title": "NEW MOVIE TRAILERS 2025 | December Releases | 4K ULTRA HD",
+        "vote": 0
+    }
+]
