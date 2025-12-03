@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T15:46:30.699143+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nIs Your C++ Code Leaking Memory? Discover the Power of Ownership-Aware Profiling - Alecto Irene Perez - CppCon 2025\n---\n\nWhen it comes to memory profiling, there are two questions that most people care about: \n \n -  Why is my program using so much memory? \n -  And, how do I make it use less memory?\n\nEven with tools like valgrind, massif, or heaptrack, these questions can be challenging to answer. This talk introduces a new ownership-aware method for memory profiling, which directly ties allocations to objects under the RAII model. \n \nOwnership-aware profiling allows for direct measurement of the size of all non-trivial objects allocated over the lifetime of a program, without manual instrumentation of the code. \n \nIn this talk, I explain the basics of memory profiling; I describe how to make memory profilers  object-aware  by tracking deallocations that occur during destructor calls; I present an open-source tool for ownership-aware profiling; and finally, I p",
+        "id": 4218628,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=U23WkMWIkkE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U23WkMWIkkE/hqdefault.jpg",
+        "title": "Is Your C++ Code Leaking Memory? Discover the Power of Ownership-Aware Profiling",
+        "vote": 0
+    }
+]

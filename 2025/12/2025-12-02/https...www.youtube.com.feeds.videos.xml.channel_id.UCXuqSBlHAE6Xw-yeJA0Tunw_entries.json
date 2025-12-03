@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T18:47:13.402991+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T18:04:03+00:00",
+        "description": "Try Rocket Money for free: https://RocketMoney.com/ltt (US Residents Only) #rocketmoney #personalfinance\n\nEnhance your setup with the XENEON EDGE at: https://corsair.com/xeneon-edge\n\nHave you ever asked a question online and accidentally started a flame war? SO HAVE WE! And today Elijah, Adam, Plouffe, and David all sit down together to discuss some of the most commonly asked questions, it sparks debate but you might be surprised on what we agree on.... And to add and extra level we sprinkle in some Linus questions that he has expressed his opinion on! Whether its about gaming headsets, RAM, Storage, or even if you should buy a pre-built computer!\n\nDiscuss on the forum: https://linustechtips.com/topic/1627840-you-asked-us-your-tech-questions-we-all-answered-differently/\n\nCheck out our Channel Partners:\nSecretlab - Get up to $249 off during their Black Friday/Cyber Monday sale (ends Dec. 5 2025): https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndb",
+        "id": 4220281,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KMXXcqpFZzo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KMXXcqpFZzo/hqdefault.jpg",
+        "title": "Do the Writers Agree With Linus's Hot Takes?",
+        "vote": 0
+    }
+]

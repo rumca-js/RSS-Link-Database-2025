@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T16:12:57.673730+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T15:25:00+00:00",
+        "description": "Valve\u2019s standalone Steam Machine isn't coming until 2026. I didn't want to wait, so I built a custom SFF rig that crushes 1440p gaming right now.\nIn this build, we are mixing the brand new Intel Core Ultra 5 245K with an AMD Radeon RX 7600 to create a fully SteamOS-ready console killer. It\u2019s small, it\u2019s powerful, and unlike the mobile chips in handhelds, this desktop hardware chews through Cyberpunk 2077, Elden Ring, and even Marvel Rivals. I\u2019ll walk you through the parts, the build process in the Jonsbo NV12 case, and benchmarks on the latest games.\n\nJONSBO V12 Case: https://amzn.to/3Y6Ts60\nASUS ROG STRIX B860-I: https://amzn.to/48emQgJ\nIntel Core Ultra: https://amzn.to/4oq2Dt5\nThermaltake Toughpower GX2 80+ Gold 600W: https://amzn.to/4ivqqq9\nRadeon RX 7600: https://amzn.to/4iDFhiE\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Black Friday Sale code for software\uff1aETA \nWindows 11 Pro Key($23):https://",
+        "id": 4218863,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ml1Ioz9W6Ns",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ml1Ioz9W6Ns/hqdefault.jpg",
+        "title": "We Built The Steam Machine Valve Won't Release!",
+        "vote": 0
+    }
+]

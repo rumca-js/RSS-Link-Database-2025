@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T04:37:16.302314+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T03:30:40+00:00",
+        "description": "Z-Image review & installation tutorial. Z-Image vs Flux 2 dev vs Qwen Image. #ai #aitools #aiart #imagegenerator\n\nThanks to our sponsor Abacus AI. Try it here: http://chatllm.abacus.ai/?token=aisearch\n\nhttps://tongyi-mai.github.io/Z-Image-blog/\nUse online: https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo\nComfyUI workflow: https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_z_image_turbo.json\nGGUFs for low vram: https://huggingface.co/jayn7/Z-Image-Turbo-GGUF\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\n\n\n0:00 Z Image intro\n1:23 Z Image Turbo examples\n3:18 Z Image Edit examples\n4:52 Z-Image vs Flux2 dev vs Qwen Image\n6:04 It knows so many celebrities \n6:43 Anime and disney characters\n8:35 Complex prompts with text\n9:50 Character model sheets\n10:50 Posters with text\n12:20 Expressions and gestures\n13:19 Wildlife photos\n14:09 Prompt adherence\n15:15 Anatomy tests\n16:33 Watercolor painting\n17:32 Crowded complex scenes\n18:23 Long text\n19:15 Manga page\n20:46 Chat",
+        "id": 4214489,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iNM5z8cCH8w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iNM5z8cCH8w/hqdefault.jpg",
+        "title": "The best free AI image generator is out!",
+        "vote": 0
+    }
+]

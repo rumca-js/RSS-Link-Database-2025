@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T11:36:53.847012+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T11:36:52+00:00",
+        "description": "Zwyczajne rozchodniki robi\u0105 coraz wi\u0119ksz\u0105 karier\u0119 w przestrzeni miejskiej. Trudno znale\u017a\u0107 dzi\u015b gmin\u0119, kt\u00f3ra nie \u201eu\u017cywa\u201d tych popularnych ro\u015blin do obsadzania \u015bcian, dach\u00f3w, torowisk lub nie wykorzystuje ich w inny spos\u00f3b np. do urz\u0105dzania skalniak\u00f3w, park\u00f3w itd.",
+        "id": 4216635,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/ekologia/art43439571-rosna-na-dachach-scianach-torowiskach-duza-kariera-malych-roslin",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rosn\u0105 na dachach, \u015bcianach, torowiskach. Du\u017ca kariera ma\u0142ych ro\u015blin",
+        "vote": 0
+    }
+]

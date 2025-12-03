@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T18:23:50.166710+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T18:00:32+00:00",
+        "description": "Doug hasn't liked one Disney remake yet. Could this be the one to change the tide? Let's take a look at Mufasa: The Lion King.\n\nWatch all the past commercials here - https://youtu.be/NV5Uer5Giv4\n\nWatch all DisneyCember here - https://www.youtube.com/playlist?list=PL0AQIMR-tpomecW19RN2LNrdoqd5wFu4R\n\nWatch the new NC - https://youtu.be/_9L7YJCa1mY\n\nMufasa: The Lion King is a 2024 American musical drama film produced by Walt Disney Pictures. The photorealistically animated film serves as both a prequel and sequel to The Lion King (2019), which itself is a remake of the 1994 animated film. Directed by Barry Jenkins from a screenplay written by Jeff Nathanson, the film's cast includes Seth Rogen, Billy Eichner, Donald Glover, Beyonc\u00e9 Knowles-Carter, and John Kani reprising their roles from the remake; new cast members include Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone, Mads Mikkelsen, Thandiwe Newton, Lennie James, Anika Noni Rose, and Blue Ivy Carter in her feature film debut. It fe",
+        "id": 4220159,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Kg-GWvICN0Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Kg-GWvICN0Y/hqdefault.jpg",
+        "title": "Mufasa: The Lion King - DisneyCember",
+        "vote": 0
+    }
+]

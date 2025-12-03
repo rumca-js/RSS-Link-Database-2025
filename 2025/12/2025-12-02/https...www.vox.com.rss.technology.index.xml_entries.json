@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vox Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T11:05:11.769457+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T06:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/12/LandingPage_Vox_LucyJones.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">For the past few years, American politics have been organized around a simple, unnerving feeling: <a href=\"https://www.vox.com/politics/465634/democrats-zohran-politics-affordable-affordability-inflation-economy-campaign\">Life is getting too expensive</a>, and no one seems to know what to do about it.</p>\n\n<p class=\"has-text-align-none\">Rent and home prices feel out of reach. Child care feels like it <a href=\"https://www.vox.com/politics/466205/zohran-mamdani-child-care-daycare-voters-politics-nyc-kids-parents\">costs as much as a second mortgage</a>. Groceries, utilities, and health care have all climbed faster than people\u2019s paychecks. Politicians have reached for familiar tool",
+        "id": 4216299,
+        "language": "",
+        "link": "https://www.vox.com/policy/470890/economic-growth-housing-energy-abundance-prices",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/LandingPage_Vox_LucyJones.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The Case for Growth",
+        "vote": 0
+    }
+]

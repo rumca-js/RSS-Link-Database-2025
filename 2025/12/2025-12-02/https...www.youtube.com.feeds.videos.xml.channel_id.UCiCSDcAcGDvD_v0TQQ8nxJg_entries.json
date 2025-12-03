@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T19:33:50.268474+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T18:27:30+00:00",
+        "description": "00:00 NEW MOVIE NEWS 2026 \n00:34 Rush Hour 4    \n01:42 Assassin's Creed Live-action series \n03:06 Wednesday Season 3\n04:23 The Exorcist: Scarlett Johansson in New Film in Horror Franchise\n05:43 Teenage Mutant Ninja Turtles Live-Action Reboot\n07:05 Euphoria Season 3\n08:27 Dexter Resurrection Season 2 \n09:50 Godzilla Announces New Anime\n11:02 Far Cry TV Series\n12:24 Avengers Secret Wars\n13:39 Alita Battle Angel 2",
+        "id": 4220872,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jgNn7n9rB5c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jgNn7n9rB5c/hqdefault.jpg",
+        "title": "NEW MOVIE NEWS 2026 | Godzilla Anime, Alita Battle Angel 2, Avengers Secret Wars, Assassin's Creed",
+        "vote": 0
+    }
+]

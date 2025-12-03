@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T18:38:36.664355+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T18:00:20+00:00",
+        "description": "Go to https://Complexly.store to support Complexly this holiday season!\n\nThe island of Surtsey off the coast of Iceland popped up basically in a week, and it's been a perfect natural experiment for ecologists. See, a new island means a sterile ecosystem that gets filled in in waves, and learning how organisms do that helps us model what early life may have looked like. Here's the story of this baby island and what researchers can learn from it. \n\nHosted by: Reid Reimers (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jp Lynch, J.V. Rosenbalm, Cye Stoner, Chris Curry, Bethany Matthews, David Johnston, Steve Gums, Kevin Knupp, Kevin Bealer, Matt Curls, Josep",
+        "id": 4220222,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Idp_TRnrLfQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Idp_TRnrLfQ/hqdefault.jpg",
+        "title": "This Island Might Help Us Understand The Origins of Life",
+        "vote": 0
+    }
+]

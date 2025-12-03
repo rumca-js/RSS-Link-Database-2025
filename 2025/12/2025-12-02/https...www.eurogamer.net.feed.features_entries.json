@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T15:01:21.456369+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T15:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/metroid-prime-4-characters-header-cropped.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>As <a href=\"https://www.eurogamer.net/games/metroid-prime-4\">Metroid Prime 4: Beyond</a> hits storefronts, I'm pretty sure you're going to see a whole lot of fevered debate online about the game's curious choice to place Samus, famously quiet Bounty Hunter, as the de facto head of a squad of Galactic Federation soldiers. Does it still feel like Metroid, famed for its sense of creepy, atmospherically rich isolation, if Samus has a buddy in her ear or - worse - alongside her physically? Or does the presence of friendlies ruin that Metroid magic?</p> <p><a href=\"https://www.eurogamer.net/metroid-prime-4-chatty-companions-silent-samus-the-problem\">Read more</a></p>",
+        "id": 4218148,
+        "language": "en",
+        "link": "https://www.eurogamer.net/metroid-prime-4-chatty-companions-silent-samus-the-problem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/metroid-prime-4-characters-header-cropped.png?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Metroid Prime 4: Beyond's chatty space marine companions aren't so bad - it's Samus who is this game's narrative problem",
+        "vote": 0
+    }
+]

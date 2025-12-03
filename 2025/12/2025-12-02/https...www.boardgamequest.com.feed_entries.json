@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tony Mastrangeli",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T14:38:03.213501+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T14:06:33+00:00",
+        "description": "<img width=\"640\" height=\"402\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/11/Magical-Athlete-1024x643.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Magical Athlete\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/11/Magical-Athlete-1024x643.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Magical-Athlete-300x189.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Magical-Athlete-150x94.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Magical-Athlete-768x483.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Magical-Athlete-640x402.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Magical-Athlete.jpg 1200w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Publisher CYMK Games has been making a name for itself recently with its unique lineu",
+        "id": 4218024,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/magical-athlete-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/11/Magical-Athlete-1024x643.jpg",
+        "title": "Magical Athlete Review",
+        "vote": 0
+    }
+]

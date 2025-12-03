@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T03:03:13.649145+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T03:03:11+00:00",
+        "description": "Obligacje przej\u0119\u0142y rynek TFI, a to w\u0142a\u015bnie ich wyniki zdecydowa\u0142y o tegorocznym rankingu \u201eRzeczpospolitej\u201d. Najlepszym towarzystwem okaza\u0142 si\u0119 Rockbridge TFI.",
+        "id": 4214160,
+        "language": "pl-PL",
+        "link": "https://pro.rp.pl/raporty-ekonomiczne/art43430351-obligacje-rzadza-w-tfi-a-ktore-towarzystwo-rzadzi-obligacjami",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Obligacje rz\u0105dz\u0105 w TFI, a kt\u00f3re towarzystwo rz\u0105dzi obligacjami?",
+        "vote": 0
+    }
+]

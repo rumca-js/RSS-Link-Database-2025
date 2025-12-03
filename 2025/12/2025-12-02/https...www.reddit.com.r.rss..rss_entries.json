@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/goat_rodeo_",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T15:45:40.409081+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T15:02:30+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>After spending too long in development I&#39;m happy to announce that <a href=\"https://jesterengine.com/pages/app\">Jester News</a> is finally available as a companion app to <a href=\"https://jesterengine.com\">Jester</a>.</p> <p>Jester is a free (with a paid tier) web-based RSS/Atom reader that sprinkles some AI features on top to help with topic discovery and content consumption, for example:</p> <ul> <li><p>Jester groups similar articles via similarity search into &quot;Stories&quot; to make finding articles on a specific topic/event more natural.</p></li> <li><p>You can leverage your followed feeds/folders of feeds to automatically generate podcasts or videos along with a list of sources.</p></li> </ul> <p>Of course, the website also offers a ton of the features you would expect from a modern news feed platform, such as subscriptions/filtering/actions/scrape tools/etc.</p> <p>The new mobile app makes heavy use of stories and generated digests as a m",
+        "id": 4218619,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1pcaoqw/jester_news_a_mobile_app_companion_for_your_rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jester News - A mobile app companion for your RSS Subscriptions",
+        "vote": 0
+    }
+]

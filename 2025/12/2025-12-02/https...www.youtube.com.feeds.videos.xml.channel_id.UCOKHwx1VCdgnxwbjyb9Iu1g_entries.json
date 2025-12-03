@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T22:39:40.531712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T21:30:23+00:00",
+        "description": "Let's texture that donut \ud83c\udf69\nNew parts releasing every other day \ud83d\udd1c\n\nIn this video we'll texture the table, plate, donut and icing using textures from Poliigon.\n\nDownload all textures: https://www.poliigon.com/donut\nDownload Poliigon addon: https://www.poliigon.com/blender\n\n\n=== Chapter Marks \u2702\ufe0f===\n0:20 Introduction\n0:20 Adding an image texture\n2:34 What are PBR Textures?\n4:24 Manually importing PBR textures\n15:57 Importing PBR textures with the Poliigon Addon\n18:13 Texturing the speckled plate\n21:37 Texturing the icing\n27:42 Texturing the donut\n\n\n===Follow me\ud83e\udef0===\n\nTwitter: https://twitter.com/andrewpprice\nInstagram: http://instagram.com/andrewpprice\nArtStation: http://artstation.com/artist/andrewprice\nLinkedIn: www.linkedin.com/in/andrew-price-17678911",
+        "id": 4222318,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h30ZJQrb4s8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h30ZJQrb4s8/hqdefault.jpg",
+        "title": "Blender Donut Tutorial - Part 5 (Texturing)",
+        "vote": 0
+    }
+]

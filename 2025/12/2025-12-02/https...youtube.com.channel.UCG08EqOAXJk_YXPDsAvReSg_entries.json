@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T17:11:50.122786+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T17:00:50+00:00",
+        "description": "In Unity 6, every new project has the new Input System enabled by default. It's more flexible and scalable than the older input manager. It supports a wide range of input devices like touch, gamepads, keyboard, and XR controllers. It also supports runtime control binding and local multiplayer. This video demonstrates some of the ways to set it up, based on your project\u2019s needs. \n\nLearn more in docs: https://on.unity.com/InputSystemDocs\n\nFind more free Unity learn resources: https://on.unity.com/Learn\n\nCheck out the full tutorial: https://on.unity.com/InputSystemTutorial\n\n#gamedev #unitytips #unity3d #unitylearn",
+        "id": 4219448,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/PTHYKWcZwSc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PTHYKWcZwSc/hqdefault.jpg",
+        "title": "Unity 6 tips: 3 ways to implement user input with the Input System #gamedev #gamedevelopment #unity",
+        "vote": 0
+    }
+]

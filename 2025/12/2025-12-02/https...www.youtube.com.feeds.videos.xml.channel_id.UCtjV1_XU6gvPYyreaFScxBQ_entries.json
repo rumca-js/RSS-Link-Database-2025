@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T08:52:44.789917+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T08:06:13+00:00",
+        "description": "How do you manage the memory for massive AI models?\n\nThe #ICPC Challenge Championship 2025 powered by #Huawei gathered more than 110 elite programmers and coaches from over 30 countries to tackle one of today's most pressing AI challenges!\n\nHeld at Huawei's Lianqiu Lake Campus in Shanghai, this year's event tested contestants' ability to solve real-world industrial problems under pressure. Alongside the championship, the Tech Salon and Challenge Roadshow brought participants and industry experts together for deep discussions on advanced computing and AI problem-solving approaches.\n\nWatch the video and discover how the ICPC Challenge Championship 2025 is training the next generation of problem-solvers! https://bit.ly/4rypBkv #TransformTalks #ThisIsHuawei",
+        "id": 4215601,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rSuEGakvvz8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rSuEGakvvz8/hqdefault.jpg",
+        "title": "ICPC Challenge Championship 2025: Training Tomorrow's Problem-solvers",
+        "vote": 0
+    }
+]

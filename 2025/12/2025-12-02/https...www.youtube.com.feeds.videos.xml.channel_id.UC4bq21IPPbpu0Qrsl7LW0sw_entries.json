@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-02T21:51:58.137113+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-02T21:41:09+00:00",
+        "description": "WhatsApp\u2019s \u201cfind contacts\u201d feature just exposed 3.5B users.\n\nResearchers bulk searched phone numbers and WhatsApp told them which ones were real.\n3.5 BILLION accounts confirmed.\nMillions had public photos, names, bios.\nNot a hack  just automated convenience.\nGreat for finding friends.\nGreat for scammers too.\n\n\ud83d\udc49Hear the full breakdown on The Slidebean Stand-Up; streaming now on Spotify, Apple Podcasts, and all major podcast platforms.",
+        "id": 4221929,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/TaCPQh_FxJM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TaCPQh_FxJM/hqdefault.jpg",
+        "title": "A WhatsApp design flaw exposed identity data for 3.5 billion users",
+        "vote": 0
+    }
+]
