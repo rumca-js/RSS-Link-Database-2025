@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T16:04:12.783008+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T15:49:20+00:00",
+        "description": "Thanks to Green Man Gaming for sponsoring this video. Check out the Masterful Remasters collection here: https://bit.ly/48nGIxS\n\nOne of the biggest games of the year, Assassin's Creed Shadows saw Ubisoft revamp the Anvil Engine for current generation consoles - so where does that leave Switch 2? What we're looking at here is a port that nips and tucks at the Series S experience, using DLSS to make up the difference in terms of image quality. It's impressive as a handheld experience thanks to VRR, but docked mode's frame-pacing judder really needs to be addressed.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Overview \n01:45 Series S settings \n03:55 Switch 2 visual features \n08:51 Switch 2 image quality and performance\n11:53 Portable vs docked play \n14:23 Analysis and conclusion",
+        "id": 4228358,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2U5h4_MqXaU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2U5h4_MqXaU/hqdefault.jpg",
+        "title": "Assassin's Creed Shadows Switch 2 Review: Impressive Handheld Play But Docked Mode Needs Work",
+        "vote": 0
+    }
+]

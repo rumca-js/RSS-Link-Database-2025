@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T18:57:47.226917+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T18:00:04+00:00",
+        "description": "Jensen Huang is the founder, president, and CEO of NVIDIA, the company whose 1999 invention of the GPU helped transform gaming, computer graphics, and accelerated computing. Under his leadership, NVIDIA has grown into a full-stack computing infrastructure company reshaping AI and data-center technology across industries.\nhttps://www.nvidia.com\nhttps://www.youtube.com/nvidia\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\nVisible. Live in the know. Join today at https://www.visible.com/rogan\n\nDon\u2019t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN\nGAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit https://gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit https://ccpg.org (CT), or visit https://www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligib",
+        "id": 4229994,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3hptKYix4X8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3hptKYix4X8/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2422 - Jensen Huang",
+        "vote": 0
+    }
+]

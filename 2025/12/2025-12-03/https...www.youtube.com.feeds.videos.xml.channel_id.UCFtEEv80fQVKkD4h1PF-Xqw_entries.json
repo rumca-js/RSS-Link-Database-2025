@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T15:30:07.441209+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T14:59:51+00:00",
+        "description": "From breaking barriers to designing breakthroughs, the disability community expands what\u2019s possible for people and technology.\n\nDiscover stories from the Disability community at Microsoft helping shape the future of our company at https://aka.ms/TheCodeOfUs/Disability.\n\nAudio Description: https://youtu.be/8Hu5MF8Pov8 \n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\n\nFollow us on social: \nLinkedIn:   / microsoft   \nTwitter:   / microsoft  \nFacebook:   / microsoft   \nInstagram:   / microsoft   \n \nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories\"\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka",
+        "id": 4227894,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oEeit3UrB2I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oEeit3UrB2I/hqdefault.jpg",
+        "title": "Microsoft employees try to guess each other's stories: disability community edition",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "minutephysics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T19:39:59.949855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T19:14:38+00:00",
+        "description": "The MinutePhysics t-shirt bundle is available now: https://store.dftba.com/products/physics-t-shirt-bundle\n\nHow do we truly know if something is orbiting something else? You may be familiar with the barycenter test, but you may not have heard of the better \"Trojan test\"!\n\nFurther reading:\n- https://science.nasa.gov/resource/what-is-a-lagrange-point/\n- https://www.sciencedirect.com/science/article/pii/S138764732200001X\n- https://map.gsfc.nasa.gov/ContentMedia/lagrange.pdf\n- https://iopscience.iop.org/article/10.3847/PSJ/ad55f3\n\nLink to Patreon Supporters: http://www.minutephysics.com/supporters/\n\nMinutePhysics provides an energetic and entertaining view of old and new problems in physics - all in a minute!\n\nCreated by Henry Reich\nProduced by Joshua Chawner\n\n00:00 Intro\n00:15 Barycenter Test Problems\n02:18 Trojan Points\n03:20 Trojan Stability\n04:00 The Trojan Test\n04:21 Trojan vs. Barycenter\n05:16 Trojan Test Usefulness\n05:45 Earth - Moon System\n06:03 DFTBA Physics Shirt Bundle!",
+        "id": 4230431,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_DYZF-piKKU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 857,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_DYZF-piKKU/hqdefault.jpg",
+        "title": "The TROJAN Test",
+        "vote": 0
+    }
+]

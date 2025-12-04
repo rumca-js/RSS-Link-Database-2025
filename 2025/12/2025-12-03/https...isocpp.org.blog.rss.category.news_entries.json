@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T23:18:25.650741+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T22:31:10+00:00",
+        "description": "<p>\n\t<img alt=\"c++meetup_1022.jpeg\" src=\"https://isocpp.org/files/img/c++meetup_1022.jpeg\" style=\"width: 400px; margin: 10px; float: right;\" />The Budapest C++ Meetup was a great reminder of how strong and curious our local community is. Each talk approached the language from a different angle &mdash; Jonathan M&uuml;ller from the perspective of performance, mine from design and type safety, and Marcell Juh&aacute;sz from security &mdash; yet all shared the same core message: understand what C++ gives you and use it wisely.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/10/22/trip-report-budapest-cpp\">Trip report: Budapest C++ - Breaking &amp; Building C++</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tMore than a hundred people registered, and the room quickly filled up with local developers eager to hear three technical talks. The atmosphere was lively and welcoming &mdash; it showed the strength of the C++ c",
+        "id": 4232052,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/12/trip-report-budapest-cpp-breaking-building-c-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/c++meetup_1022.jpeg",
+        "title": "Trip report: Budapest C++ - Breaking &amp; Building C++ -- Sandor Dargo",
+        "vote": 0
+    }
+]

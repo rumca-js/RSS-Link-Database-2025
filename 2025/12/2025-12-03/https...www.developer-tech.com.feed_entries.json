@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T12:29:27.368529+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T12:00:00+00:00",
+        "description": "<p>Anthropic&#8217;s coding tool has gained strong momentum, growing from a simple way to help teams write software faster into a product that brings in about $1 billion in run-rate revenue only months after its public launch. As the work around it expands, Anthropic is bringing Bun \u2013 the fast JavaScript runtime \u2013 into the company [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/anthropic-brings-bun-into-its-growing-ai-coding-platform/\">Anthropic brings Bun into its growing AI coding platform</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4226476,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/anthropic-brings-bun-into-its-growing-ai-coding-platform",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Anthropic brings Bun into its growing AI coding platform",
+        "vote": 0
+    }
+]

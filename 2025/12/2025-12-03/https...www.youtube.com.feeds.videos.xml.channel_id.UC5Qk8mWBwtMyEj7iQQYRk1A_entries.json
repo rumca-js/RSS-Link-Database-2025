@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Epic Games",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T16:21:00.065338+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T16:03:55+00:00",
+        "description": "Update 19 is out now! Introducing Smolensk, experience intense battles across our largest ever urban warfare map. \n\nGet it now on the Epic Games Store: https://epic.gm/hell-let-loose",
+        "id": 4228431,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=StT5dDn5y6c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 722,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5Qk8mWBwtMyEj7iQQYRk1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/StT5dDn5y6c/hqdefault.jpg",
+        "title": "Hell Let Loose | Update 19",
+        "vote": 0
+    }
+]

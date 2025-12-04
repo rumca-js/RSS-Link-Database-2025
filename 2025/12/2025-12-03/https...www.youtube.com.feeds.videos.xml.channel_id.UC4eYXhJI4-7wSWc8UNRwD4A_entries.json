@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T10:32:49.954369+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T10:00:20+00:00",
+        "description": "Ann Powers | December 3, 2025\nBrandi Carlile has a way of making any performance feel like a t\u00eate-\u00e0-t\u00eate, a deep emotional exchange between friends that just happens to take place in a crowd. Yet the challenge of bringing songs from her gorgeous new album Returning to Myself to the Tiny Desk still shook her.\n\n\"It's the kind of thing that really makes your blood run a little cold,\" Carlile says, laying down her acoustic guitar after the gentle \"A War with Time.\" She then turns to the Roland keyboard mounted on the desktop and begins \"A Woman Oversees,\" a song she and her accompanists had never before performed live.\n\nWith its arching gospel melody, the ballad gives Carlile the chance to show how she's fully grown into her voice \u2014 in every sense \u2014 in the 13 years since she last appeared at the Desk. Back then she was flanked by her bandmates-for-life Phil and Tim Hanseroth, frowning a little as she belted out heartfelt countryish rockers. Now Carlile is a bona fide superstar whose compo",
+        "id": 4225737,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=BoQctt3WEy8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BoQctt3WEy8/hqdefault.jpg",
+        "title": "Brandi Carlile: Tiny Desk Concert",
+        "vote": 0
+    }
+]

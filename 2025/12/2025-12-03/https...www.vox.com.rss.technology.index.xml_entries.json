@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Clark Estes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T11:09:52.010982+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T06:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"An illustration of a young man waiting in a dark subway station with neon green and blue sound waves reverberating all around him, slightly warping the scene.\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GlennHarvey_Podcasts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">The most embarrassing thing happened to me recently. It was twilight, and I was walking my dog around the quiet Brooklyn neighborhood where I\u2019ve been living for about a year. Then I heard a sound that I couldn\u2019t place at first. I stopped in my tracks and then realized: Crickets were chirping.&nbsp;</p>\n\n<p class=\"has-text-align-none\">It was my first time hearing crickets in my new neighborhood because it was one of the first times I\u2019d walked through it without AirPods jammed into my ears.</p>\n\n<p class=\"has-text-align-none\">Thi",
+        "id": 4225845,
+        "language": "",
+        "link": "https://www.vox.com/technology/470004/podcasts-tiktok-attention-brains-multitasking",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GlennHarvey_Podcasts.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "What podcasts do to our brains",
+        "vote": 0
+    }
+]

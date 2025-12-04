@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T17:19:14.009229+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T17:00:12+00:00",
+        "description": "I've tried to explain the Google tracking system to you all for so many years but this time, instead of theoretical talk, we will show an actual demonstration. I will prove to you that Google can track every click in some 3rd Party website that is not a Google site. This means the surveillance capability of Google is out of this world. Incredibly sophisticated. Let's show you with code.\n\n----------------------------------\nBraX3 Privacy Phone is on https://braxtech.net\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me\n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm here to educate. You are losing your Internet privacy and Internet security every day if you don't fight for it. Your data is collected with endless permanent data mining. Learn about a ",
+        "id": 4229155,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3rm4AZ24AbI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3rm4AZ24AbI/hqdefault.jpg",
+        "title": "Exposed: The Google Botnet \u2013 The Web Tracks You with a Single ID",
+        "vote": 0
+    }
+]

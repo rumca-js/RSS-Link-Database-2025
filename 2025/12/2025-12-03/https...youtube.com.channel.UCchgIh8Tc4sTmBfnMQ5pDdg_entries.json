@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rick Steves' Europe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T20:12:40.501919+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T19:23:11+00:00",
+        "description": "Get a 30-second glimpse of Rick Steves\u2019 newest episode \u2014 premiering fall 2025 across the US on public television, and streaming (free!) at https://www.ricksteves.com/watch-read-listen/video/tv-show\n\nOur royal tour of London starts with red-coat pageantry at Buckingham Palace. Riding red buses, black cabs, and the Tube, we pop into the Houses of Parliament at Westminster and visit Churchill\u2019s underground war rooms \u2014 a World War II time warp.\u202fAfter looking into the eyes of those who put the great in Britain at the Portrait Gallery, we cruise the River Thames to the mighty Tower of London.\n\nSubscribe for more travel previews and full episodes: https://www.youtube.com/user/RickSteves\n#ricksteveseurope #ricksteveslondon #london",
+        "id": 4230634,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1MTzUUdnZGI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 897,
+        "source_url": "https://youtube.com/channel/UCchgIh8Tc4sTmBfnMQ5pDdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1MTzUUdnZGI/hqdefault.jpg",
+        "title": "London: A Royal Tour Preview",
+        "vote": 0
+    }
+]

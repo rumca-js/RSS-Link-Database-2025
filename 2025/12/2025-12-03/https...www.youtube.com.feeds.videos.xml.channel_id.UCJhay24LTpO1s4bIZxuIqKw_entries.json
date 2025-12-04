@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T17:24:35.836849+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T16:00:45+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nProgramming Puzzles - Programming Challenge - Pete Goodliffe - ACCU 2025 Short Talks\n---\n\nJoin us for \"Programming Puzzles,\" a high-energy C++ programming quiz delivered as a lightning talk at ACCU 2025. In just five minutes, Pete Goodliffe challenges the audience with a rapid-fire series of programming concepts, turning this technical session into an interactive programming talk like no other.\n\nThis talk is part quiz, part code puzzle, and pure developer humor. Audience members are put on the spot to identify key software engineering and computer science terms \u2014 from recursion, pointers, and syntax, to binary trees, concurrency, and big O notation. Whether you're brushing up on coding terminology or testing your quick recall of data structures and debugging concepts, this talk delivers both laughs and learning.\n\nPerfect for developers, students, and anyone who enjoys a good programming challenge, this tech quiz is also a subtle remin",
+        "id": 4229177,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jq_dJPSi_3M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jq_dJPSi_3M/hqdefault.jpg",
+        "title": "Programming Puzzles - Programming Challenge - Pete Goodliffe - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

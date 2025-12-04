@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T11:40:47.893730+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T11:01:51+00:00",
+        "description": "Listen to our interview on discovering a new malware strain  \u2192 https://ibm.biz/BdbLxu\n\nOne of the most common tips for avoiding online scams is to only shop at reputable retailers. But what happens when those very retailers are turned into social engineering vectors? \n\nIn this week's episode of Security Intelligence, host Matt Kosinski and panelists Bryan Clark, Michelle Alvarez and Dave Bales talk about the streaming devices that promise to let you watch all your favorite shows for free\u2014so long as you don\u2019t mind turning your house into a botnet, that is. And to make matters worse, they\u2019re often sold through legitimate online marketplaces. \n\nWe also cover: \n- The Shai-Hulud worm is back and wreaking havoc on the software supply chain \n- Developers leaking secrets and PII to unsecured, publicly available dev tools \n- What the Gainsight data breach teaches us about cyberattack timelines \n- How to jailbreak an AI model with the power of poetry \n\n00:00 \u2013 Intro \n1:34 - Shai-Hulud returns \n",
+        "id": 4226185,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o3caaeeCPXg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o3caaeeCPXg/hqdefault.jpg",
+        "title": "Your house might be a botnet, your devs are leaking secrets and poems are breaking your AI guardrail",
+        "vote": 0
+    }
+]

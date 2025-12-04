@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T10:16:11.193829+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T10:03:00+00:00",
+        "description": "Sports cars have a tachometer, a gauge showing how close the motor is to melting down. When the revs enter the red zone, performance is enhanced&#8211;for a while. Do it too much or for too long, and you&#8217;ll burn out. In our work, there are two sorts of red zones. Athletes know that the last [&#8230;]",
+        "id": 4225536,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/12/the-red-zone-wasted",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The red zone, wasted",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cleo Abram",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T16:04:31.303937+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T15:15:06+00:00",
+        "description": "This is a tiny robot that delivers drugs exactly where they\u2019re needed in the body - and nowhere else. It could one day save your life.\n\nIt\u2019s a tiny bead made of gelatin and magnetic particles with the drug dosage inside. It can deliver a drug right to the location of a blood clot to dissolve it, or it could be used to bring drugs directly to a tumor\u2026\n\nFor more optimistic science and tech stories, subscribe!\n\nDOI: 10.1126/science.adx1708\n\n#science #tech #robot #microrobot #medicine #shorts",
+        "id": 4228360,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/f663rl4Y3dQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 771,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f663rl4Y3dQ/hqdefault.jpg",
+        "title": "This Microrobot Could Save Your Life",
+        "vote": 0
+    }
+]

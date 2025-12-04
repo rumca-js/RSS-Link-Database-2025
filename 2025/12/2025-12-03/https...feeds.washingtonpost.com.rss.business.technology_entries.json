@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eva Dou",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T10:09:13.266440+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T10:00:18+00:00",
+        "description": "\u201cThe truly progressive position on immigration\u201d is \u201cextreme skepticism,\u201d says Alex Karp, a longtime Democrat and the data-mining company\u2019s chief executive.",
+        "id": 4225490,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2025/12/03/palantir-immigration-ice",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How Palantir shifted course to play key role in ICE deportations",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cody'sLab",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T00:45:37.968570+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T00:24:40+00:00",
+        "description": "Cody finally doing a geology video?! \n\nGilbert's 1890 book: https://archive.org/details/lakebonneville00gilb/page/n461/mode/1up\n\nHelp me make videos by donating here: https://www.patreon.com/CodysLab\r\nSubReddit: https://www.reddit.com/r/codyslab/",
+        "id": 4223097,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bzBcs0jv9G4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 844,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu6mSoMNzHQiBIOCkHUa2Aw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bzBcs0jv9G4/hqdefault.jpg",
+        "title": "Are Lake Bonneville's Shorelines Level?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T20:30:09.340231+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T19:40:29+00:00",
+        "description": "At 10:30 AM on January 17, 1966, an enormous explosion shattered the silence over the small farming village Palomares in Spain. An enormous fireball erupted in the sky overhead, and pieces of flaming debris began raining down over the surrounding countryside. Two U.S. Air Force aircraft had collided during a routine aerial refuelling operation, killing all but four of the eleven men aboard. Within hours, the Spanish province of Almeria was crawling with U.S. military personnel. One of the two aircraft, a Boeing B-52 Stratofortress strategic bomber, had been carrying four hydrogen bombs with a yield of 1.1 million tons of TNT each. One of the bombs landed intact in a riverbed, while the conventional explosives aboard two others detonated on impact, contaminating large areas of Spanish countryside with toxic plutonium. The fourth bomb, however, was nowhere to be found. What followed was one of the largest peacetime naval operations in history as a fleet of U.S. Navy vessels scoured the ",
+        "id": 4230826,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XtxY0Zby0pw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XtxY0Zby0pw/hqdefault.jpg",
+        "title": "Accidentally Nuking a Country",
+        "vote": 0
+    }
+]

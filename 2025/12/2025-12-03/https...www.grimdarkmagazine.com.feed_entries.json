@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Larkin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T05:14:32.693287+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T04:30:00+00:00",
+        "description": "<p>In 2023, Hexworks launched a new game called\u00a0Lords of the Fallen. Technically a sequel to the 2015 game of the same name, this\u00a0Lords of the Fallen\u00a0also acted as a kind of reboot since the first one never hit its stride. Sadly, this second attempt also met mixed reviews \u2026 initially. With the 2025 update known [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/review-lords-of-the-fallen/\">REVIEW: Lords of the Fallen</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 4224179,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-lords-of-the-fallen",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/12/Lords-of-the-Fallen-Cover-Image-300x300.jpg",
+        "title": "REVIEW: Lords of the Fallen",
+        "vote": 0
+    }
+]

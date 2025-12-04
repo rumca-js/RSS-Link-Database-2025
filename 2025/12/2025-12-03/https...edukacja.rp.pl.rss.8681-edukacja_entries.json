@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T17:12:29.784532+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T17:12:28+00:00",
+        "description": "Szko\u0142a to nie tylko nauka teorii. Powinno by\u0107 w niej coraz wi\u0119cej dzia\u0142a\u0144 praktycznych, by pokaza\u0107 uczniom, \u017ce to, czego si\u0119 ucz\u0105, mo\u017ce przyda\u0107 si\u0119 w doros\u0142ym \u017cyciu.",
+        "id": 4229132,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/edukacja/art43448931-dzialaj-i-decyduj-czyli-jak-nauczyc-mlodych-ludzi-sprawczosci",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dzia\u0142aj i decyduj, czyli jak nauczy\u0107 m\u0142odych ludzi sprawczo\u015bci",
+        "vote": 0
+    }
+]

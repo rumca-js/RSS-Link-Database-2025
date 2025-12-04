@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Yaffe-Bellany and Kailyn Rhone",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T10:16:43.309157+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T10:02:23+00:00",
+        "description": "Bitcoin has plunged more than 30 percent and Ether is down around 40 percent in recent months, as gains from President Trump\u2019s pro-crypto policies evaporated.",
+        "id": 4225538,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/12/02/multimedia/2025-biz-standalone-promos-new-2025-12-02-bitcoin-price/2025-biz-standalone-promos-new-2025-12-02-bitcoin-price-mediumSquareAt3X-v11.png",
+        "title": "Bitcoin\u2019s Sky-High Prices Have Not Panned Out",
+        "vote": 0
+    }
+]

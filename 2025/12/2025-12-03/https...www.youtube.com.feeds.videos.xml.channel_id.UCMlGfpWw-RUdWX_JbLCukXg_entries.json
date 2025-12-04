@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T15:51:47.830836+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T15:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nThe Dangers of C++: How to Mitigate Them and Write Safe C++ - Assaf Tzur-El - CppCon 2025\n---\n\nC++ offers unmatched control over system resources, but this power comes with a price: undefined behavior, memory corruption, and hard-to-diagnose bugs. From raw pointer manipulation to unchecked type conversions, many of C++\u2019s legacy features still leave developers dangerously exposed \u2013 even in modern codebases. \n \nThis talk begins with a candid look at how C++\u2019s bug-prone constructs and permissive design can lead to subtle, hard-to-diagnose issues, especially in high-stakes domains like automotive, aerospace, and medical systems. We\u2019ll explore how undefined behavior and other low-level pitfalls compromise software quality, reliability, and maintainability. \n \nThe second part of the session focuses on mitigation strategies. We\u2019ll introduce MISRA C++, a widely adopted set of guidelines for writing safe and robust C++ code, and walk through several of its key rules wi",
+        "id": 4228269,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6eYCMcOYbYA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6eYCMcOYbYA/hqdefault.jpg",
+        "title": "The Dangers of C++: How to Mitigate Them and Write Safe C++ - Assaf Tzur-El",
+        "vote": 0
+    }
+]

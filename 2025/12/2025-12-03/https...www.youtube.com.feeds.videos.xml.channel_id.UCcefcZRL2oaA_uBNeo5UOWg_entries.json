@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T16:06:08.773875+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T15:01:50+00:00",
+        "description": "Spenser Skates has spent more than a decade building Amplitude from a YC startup into a public company, and in that time, he's had to reinvent himself just as much as the product.\n\nJoining the Lightcone pod, he talks through the shift from founder to large-company CEO, the skepticism his team initially had toward AI, and the moment they realized the next wave of analytics would require a full reset. He walks through the hard reorgs, the bottom-up experiments, and the mindset changes that let Amplitude move fast again\u2014and shares what it really takes for a big company to adapt when the ground under the industry moves.\n\n00:00 Intro\n03:40 Embracing AI at Amplitude\n11:00 Product roadmap, AI native priorities\n15:32 Org changes & hierarchy\n18:40 \u201cAI killing SaaS\u201d, changing the Amplitude roadmap\n23:30 The \u201cfeatures, not companies\u201d debate, advantages for incumbents\n32:14 Finding good mentors, hyper focus\n38:09 The difference between being a founder vs a big company executive\n41:52 Outro\n\nApply",
+        "id": 4228365,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=t8co94HS6tY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t8co94HS6tY/hqdefault.jpg",
+        "title": "What Founders Have To Unlearn To Become Great CEOs",
+        "vote": 0
+    }
+]

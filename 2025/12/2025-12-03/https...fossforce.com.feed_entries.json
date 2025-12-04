@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jack Wallen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T14:46:55.310837+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T09:04:39+00:00",
+        "description": "<p><em>Mission-Center offers a single interface for tracking resource usage and managing processes and services, making routine system checks easier from the desktop.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/12/mission-center-delivers-a-polished-system-monitor-for-linux-power-users/\">Mission-Center Delivers a Polished System Monitor for Linux Power Users</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4227616,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/12/mission-center-delivers-a-polished-system-monitor-for-linux-power-users",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mission-Center Delivers a Polished System Monitor for Linux Power Users",
+        "vote": 0
+    }
+]

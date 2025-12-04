@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T17:44:05.681009+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T16:30:28+00:00",
+        "description": "Recently it was discovered that Valve decided to fork the Waydroid project and give it the name Lepton as they did with Proton in the past forking from the WINE project\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nLepton Post: https://x.com/SadlyItsBradley/status/1995696024766300451\nWaydroid: https://waydro.id/\nAndroid Translation Layer: https://gitlab.com/android_translation_layer/android_translation_layer\nValveTestApp: https://steamdb.info/app/3043620/info/\nLepton: https://steamdb.info/app/3029110/\nLepton Dev: https://steamdb.info/app/3056000/info/\nWaydroid Post: https://x.com/waydroid/status/1995902635610669293\nFinal Brad Comment: https://x.com/SadlyItsBradley/status/1995867272930550160\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odys",
+        "id": 4229288,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_45nb75TZiw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_45nb75TZiw/hqdefault.jpg",
+        "title": "Everything We Know About Valve's Lepton Waydroid Fork",
+        "vote": 0
+    }
+]

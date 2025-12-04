@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T16:06:47.759671+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T15:06:16+00:00",
+        "description": "The free windows tool called Everything search is truly legendary.\n\nI've used a lot of programs for Windows over the years, but I think by far the most useful one is a search tool called Everything. It truly puts regular Windows search to shame, being able to instantly call up every single file on your entire computer instantly as you type. But not only can you search by file or folder name, there are a ton of other advanced search functionality and features. That's what this video is all about.\n\nTime Stamps:\n0:00 - Intro\n0:16 - A Simple Demonstration\n1:02 - Windows Search Being Slow\n1:53 - Where To Get It\n2:41 - Using Everything\n4:27 - Function Filters\n6:13 - UTF-8\n6:56 - Other Tips For Functions\n7:37 - Searching Any Property\n8:48 - Some Other Interesting Filters\n9:14 - Useful Features\n9:28 - Bookmarks\n10:06 - Saved Filters\n10:58 - Important Settings\n12:11 - Advanced Custom Columns\n12:46 - Finding More Info",
+        "id": 4228366,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=yLnb1lO7KXA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yLnb1lO7KXA/hqdefault.jpg",
+        "title": "The Best Free Windows App of All Time",
+        "vote": 0
+    }
+]

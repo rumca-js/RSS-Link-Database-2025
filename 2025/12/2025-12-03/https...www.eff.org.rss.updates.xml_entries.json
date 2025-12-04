@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christoph Schmon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T23:36:03.294967+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T23:19:03+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>After a <a class=\"theme markdown__link\" href=\"https://www.eff.org/deeplinks/2022/05/eu-commissions-new-proposal-would-undermine-encryption-and-scan-our-messages\" rel=\"noopener noreferrer\" target=\"_blank\">years-long battle</a>, the European Commission\u2019s \u201cChat Control\u201d plan, which would mandate mass scanning and other encryption-breaking measures, at last codifies agreement on a position within the Council of the EU, representing EU States. </span><a href=\"https://www.eff.org/deeplinks/2025/10/once-again-chat-control-flails-after-strong-public-pressure\"><span>The good news</span></a><span> is that the most controversial part, the forced requirement to scan encrypted messages, is out. The bad news is there\u2019s more to it than that.</span></p>\n<p><span>Chat Control has gone through several iterations since it was first introduced, with the EU",
+        "id": 4232272,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/12/after-years-controversy-eus-chat-control-nears-its-final-hurdle-what-know",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "After Years of Controversy, the EU\u2019s Chat Control Nears Its Final Hurdle: What to Know",
+        "vote": 0
+    }
+]

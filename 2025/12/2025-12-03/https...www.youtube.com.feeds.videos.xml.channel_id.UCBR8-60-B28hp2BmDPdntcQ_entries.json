@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "YouTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T02:05:46.494841+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T01:00:17+00:00",
+        "description": null,
+        "id": 4223435,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BxPAdMs6AlI",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 794,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BxPAdMs6AlI/hqdefault.jpg",
+        "title": "@hankgreen's top channel is actually heartwarming \u2013 find yours in your 2025 #YouTubeRecap #sponsored",
+        "vote": 0
+    }
+]

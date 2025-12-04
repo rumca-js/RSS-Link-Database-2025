@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T18:16:29.614194+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T16:30:28+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/_45nb75TZiw\" width=\"480\" alt=\"thumbnail\" title=\"Everything We Know About Valve's Lepton Waydroid Fork\" /></p>Recently it was discovered that Valve decided to fork the Waydroid project and give it the name Lepton as they did with Proton in the past forking from the WINE project<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Lepton Post: https://x.com/SadlyItsBradley/status/1995696024766300451<br />Waydroid: https://waydro.id/<br />Android Translation Layer: https://gitlab.com/android_translation_layer/android_translation_layer<br />ValveTestApp: https://steamdb.info/app/3043620/info/<br />Lepton: https://steamdb.info/app/3029110/<br />Lepton Dev: https://steamdb.info/app/3056000/info/<",
+        "id": 4229735,
+        "language": "en",
+        "link": "https://odysee.com/everything-we-know-about-valve%27s-lepton:57c2cc87111d9ae87e22fa64277434b3c02778c2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/_45nb75TZiw",
+        "title": "Everything We Know About Valve's Lepton Waydroid Fork",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Sloman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T15:57:27.711354+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T15:50:24+00:00",
+        "description": "By combining the language of groups with that of geometry and linear algebra, Marius Sophus Lie created one of math\u2019s most powerful tools.            <p>The post <a href=\"https://www.quantamagazine.org/what-are-lie-groups-20251203/\" target=\"_blank\">What Are Lie Groups?</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 4228326,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/what-are-lie-groups-20251203",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/12/True-Story-of-Lie-Groups-cr-Mark-Belan-Default.webp",
+        "title": "What Are Lie Groups?",
+        "vote": 0
+    }
+]

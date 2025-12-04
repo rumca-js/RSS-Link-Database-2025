@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Knight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-03T19:06:00.901067+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-03T19:00:00+00:00",
+        "description": "The Chinese video game giant Tencent is now building some of the world\u2019s best 3D AI models. This could have implications far outside game design.",
+        "id": 4230067,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/tecent-3d-models-video-game-design-artificial-intelligence",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/692f7438359d941921890935/master/pass/AI-Lab-Tencents-Hunyuan-Models-Business.jpg",
+        "title": "An AI Dark Horse Is Rewriting the Rules of Game Design",
+        "vote": 0
+    }
+]
