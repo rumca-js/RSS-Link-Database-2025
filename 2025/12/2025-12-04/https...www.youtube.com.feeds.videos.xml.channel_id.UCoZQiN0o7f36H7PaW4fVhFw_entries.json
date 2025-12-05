@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T14:51:19.572155+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T14:00:28+00:00",
+        "description": "In preparation of my Odin 3 review video, I tested over 110 games to get a state of the Snapdragon 8 Elite's performance with stock drives on a dedicated handheld.  Here are the results!\n\nBuy the Odin 3 here: https://tinyurl.com/RGC-Odin3\n\nOdin 3 review: https://youtu.be/AEmThOmbWEo\nOdin 3 impressions: https://youtu.be/dvXnCZQwJPQ\nAndroid handheld starter guide: https://youtu.be/I4mqgcDYZFo\nShaders guide video: https://youtu.be/srlJmZc3Ho4\nBFI and CRT Beam video: https://youtu.be/d2GS7wDa2XI\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nStickers and magnets: https://www.ebay.com/str/retrogamecorpscharitystore\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n01:10 retro systems\n05:22 PS1, N64, DC, Saturn, PSP\n07:53 GameCube and PS2\n11:19 Wii and Wii U\n14:01 PS3 emulation\n16:42 Secret Console\n21:44 PC gam",
+        "id": 4237162,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Bn6l3zZvdok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bn6l3zZvdok/hqdefault.jpg",
+        "title": "Odin 3 Emulation and Performance Testing",
+        "vote": 0
+    }
+]

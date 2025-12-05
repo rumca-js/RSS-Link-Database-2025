@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/TJSnider1984",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T12:07:25.310855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T11:43:41+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=c4iwiDd_ZX4\">https://www.youtube.com/watch?v=c4iwiDd_ZX4</a> - Starts off with the Cuzco Riscv cpu from Condor</p> <p>I&#39;ll add others as I skim through if they&#39;ve got Riscv content</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TJSnider1984\"> /u/TJSnider1984 </a> <br/> <span><a href=\"https://www.reddit.com/r/RISCV/comments/1pdxx1d/hotchips_2025_session_videos_are_up_on_youtube/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1pdxx1d/hotchips_2025_session_videos_are_up_on_youtube/\">[comments]</a></span>",
+        "id": 4235926,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1pdxx1d/hotchips_2025_session_videos_are_up_on_youtube",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hotchips 2025 Session videos are up on Youtube",
+        "vote": 0
+    }
+]

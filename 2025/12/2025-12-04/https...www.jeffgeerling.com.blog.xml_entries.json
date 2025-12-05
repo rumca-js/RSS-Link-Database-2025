@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T19:04:02.654362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T18:43:47+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">The RAM Shortage Comes for Us All</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Memory price inflation comes for us all, and if you're not affected yet, just wait.</p>\n\n<p>I was building a new PC last month using some parts I had bought earlier this year. The 64 Gigabyte T-Create DDR5 memory kit I used cost $209 then. Today? The <a href=\"https://www.microcenter.com/product/680461/teamgroup-t-create-expert-64gb-(2-x-32gb)-ddr5-6400-pc5-51200-cl34-dual-channel-desktop-memory-kit-ctced564g6400hc34bdc01-black\">same kit costs $650</a>!</p></div>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2025-12-04T12:43:47-06:00\" title=\"Thursday, December 4,",
+        "id": 4239687,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The RAM Shortage Comes for Us All",
+        "vote": 0
+    }
+]

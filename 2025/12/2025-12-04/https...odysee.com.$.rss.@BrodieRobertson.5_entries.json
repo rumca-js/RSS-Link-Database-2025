@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T17:25:35.274074+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T16:30:09+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/DfyfU2Sfhgo\" width=\"480\" alt=\"thumbnail\" title=\"Valve Has Been Secretly Funding The FEX Project\" /></p>After the discovering the fork of Waydroid called Lepton, I expected to see a FEX fork, well it turns out there's no need for a fork because Valve has literally been bankrolling the project from the start and has the founder on there payroll.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Fex Website: https://fex-emu.com/<br />Fex Repo: https://github.com/FEX-Emu/FEX<br />Fex Anniversary Post: https://fex-emu.com/FEXiversary/<br />Verge Article: https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais<br /><br />=========Video Platforms==========",
+        "id": 4238839,
+        "language": "en",
+        "link": "https://odysee.com/valve-has-been-secretly-funding-the-fex:1e01cd6dae291a836165a70a83b779294c0c0ea8",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/DfyfU2Sfhgo",
+        "title": "Valve Has Been Secretly Funding The FEX Project",
+        "vote": 0
+    }
+]

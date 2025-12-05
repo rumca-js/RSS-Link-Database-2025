@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T13:51:27.906093+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T13:18:22+00:00",
+        "description": "Sprawd\u017a telewizor Xiaomi S Pro Mini LED - https://www.mi.com/pl/\n\nPor\u00f3wnujemy te same sceny z polskiej wersji Wied\u017amina i Netflixowej wersji Wied\u017amina. Walka z Kikimor\u0105, potyczka ze Strzyg\u0105, bal w Cintrze, spotkanie z Ciri, konfrontacja z band\u0105 Renfri. Jak wypada nasza wersja Wied\u017amina? Kt\u00f3re sceny zosta\u0142y lepiej zrealizowane w naszej wersji serialu, a kt\u00f3re w Netflixowej? Zapraszam do zabawy!",
+        "id": 4236586,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=TmZ8b_hTdkc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TmZ8b_hTdkc/hqdefault.jpg",
+        "title": "Polski Wied\u017amin niszczy Wied\u017amina od Netflixa?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T22:53:39.730437+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T22:25:30+00:00",
+        "description": "The next big AI model is beating the giants by revealing everything.\n\nIn May 2024, the Allen Institute released OLMo 3, an open source model built to compete with the best.\n\nBut here\u2019s the shocker:\nThey didn\u2019t just release the model, they released all of it:\n\n\u2022 full training code\n\u2022 final weights\n\u2022 2 trillion training tokens\n\nThis strategy, called radical transparency, is a direct challenge to the secrecy of Google, OpenAI, Anthropic, and others.\n\nClosed models still dominate raw performance, but OLMo is betting on something else:\nThat thousands of developers building in public can out-innovate even the most powerful private labs.\n\nThe AI race isn\u2019t just about compute anymore.\n\n\ud83d\udc49Hear the full breakdown on The Slidebean Stand-Up; streaming now on Spotify, Apple Podcasts, and all major podcast platforms.",
+        "id": 4241699,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/z2y5KHAKShc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z2y5KHAKShc/hqdefault.jpg",
+        "title": "A new AI model is challenging OpenAI by giving away its secrets.",
+        "vote": 0
+    }
+]

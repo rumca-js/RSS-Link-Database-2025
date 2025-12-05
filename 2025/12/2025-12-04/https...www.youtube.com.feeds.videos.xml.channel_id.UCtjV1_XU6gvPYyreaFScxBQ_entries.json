@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T03:12:29.246943+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T03:05:29+00:00",
+        "description": "Is your data center ready for AI?\n\nThe biggest shift isn't just faster performance. It's a complete architectural reset.\n\nAt #HUAWEICONNECT EUROPE 2025, industry expert Philippe Nicolas and #Huawei's Yuan Yuan explain why the move to an #AllFlash data center is becoming inevitable for unifying data, boosting efficiency, and preparing for the AI era. \n\nIn this #TransformTalks interview, they explore how all-flash architecture strengthens resilience, accelerates data access, and creates a stable foundation for next-generation intelligence.\n\nWatch now! https://bit.ly/48Prthr #ThisIsHuawei #HuaweiStorage",
+        "id": 4233207,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BEDnTiUtyOo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BEDnTiUtyOo/hqdefault.jpg",
+        "title": "Why All-Flash Data Centers Are Now Unstoppable",
+        "vote": 0
+    }
+]

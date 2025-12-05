@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T12:31:02.679059+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T12:31:00+00:00",
+        "description": "Na styku wojew\u00f3dztwa lubuskiego, Brandenburgii i Saksonii le\u017cy jedno z najbardziej niezwyk\u0142ych miejsc w Europie. \u015awiatowy Geopark UNESCO Muskauer Faltenbogen / \u0141uk Mu\u017cakowa to krajobraz, w kt\u00f3rym przyroda i cz\u0142owiek wsp\u00f3lnie napisali barwn\u0105 opowie\u015b\u0107 o lodowcu, g\u00f3rnictwie, up\u0142ywaj\u0105cym czasie i odrodzeniu natury.",
+        "id": 4236041,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art43451981-geopark-luk-muzakowa-kraina-kolorow-ktora-zachwyca-naukowcow-i-turystow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Geopark \u0141uk Mu\u017cakowa - kraina kolor\u00f3w, kt\u00f3ra zachwyca naukowc\u00f3w i turyst\u00f3w",
+        "vote": 0
+    }
+]

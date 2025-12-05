@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T07:50:04.263780+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T07:24:50+00:00",
+        "description": "<p>Podatny jest komponent React Server Components (czyli cz\u0119\u015b\u0107 serwerowa frameworku frontendowego ;). Je\u015bli nie masz tego zainstalowanego &#8211; nie jeste\u015b podatny. Je\u015bli masz zainstalowane React Server Components (nawet jak Twoja appka z tego nie korzysta) &#8211; to ca\u0142y czas mo\u017cesz by\u0107 podatny: &#8220;Even if your app does not implement any...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/krytyczna-podatnosc-unauth-remote-code-execution-w-react-server-components-10-10-w-skali-cvss-cve-2025-55182/\">Krytyczna podatno\u015b\u0107 unauth remote code execution w React Server Components. 10/10 w skali CVSS. CVE-2025-55182</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 4234050,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/krytyczna-podatnosc-unauth-remote-code-execution-w-react-server-components-10-10-w-skali-cvss-cve-2025-55182",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Krytyczna podatno\u015b\u0107 unauth remote code execution w React Server Components. 10/10 w skali CVSS. CVE-2025-55182",
+        "vote": 0
+    }
+]

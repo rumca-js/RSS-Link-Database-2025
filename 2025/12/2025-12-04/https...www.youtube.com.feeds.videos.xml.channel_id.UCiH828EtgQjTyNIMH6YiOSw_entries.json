@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T18:39:46.304401+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T18:00:45+00:00",
+        "description": "It's one of the biggest hits of the year, and in this special review, Doug goes into spoilers about what worked and what didn't with Disney's Zootopia 2.\n\nWatch all DisneyCember here - https://www.youtube.com/playlist?list=PL0AQIMR-tpomecW19RN2LNrdoqd5wFu4R\n\nWatch the new NC - https://youtu.be/rbWhvw0CZ48\n\nZootopia 2 (titled Zootropolis 2 in some markets) is a 2025 American animated buddy cop comedy film produced by Walt Disney Animation Studios. The sequel to Zootopia (2016), it is directed by Jared Bush and Byron Howard, written by Bush, and produced by Yvett Merino. Ginnifer Goodwin, Jason Bateman, Shakira, Idris Elba, Alan Tudyk, Nate Torrence, Don Lake, Bonnie Hunt, and Jenny Slate reprise their roles from the first film, joined by newcomers Ke Huy Quan, Fortune Feimster, Andy Samberg, David Strathairn, Patrick Warburton, Quinta Brunson, and Danny Trejo. It follows Judy Hopps and Nick Wilde once again, who pursue reptile Gary De'Snake across Zootopia, as they try to clear their n",
+        "id": 4239565,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=buc47qp4t2I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/buc47qp4t2I/hqdefault.jpg",
+        "title": "Zootopia 2 - DisneyCember",
+        "vote": 0
+    }
+]

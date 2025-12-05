@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T19:27:57.711904+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T18:33:40+00:00",
+        "description": "Let's UV unwrap that coffee mug \ud83c\udf69\nNew parts releasing every other day \ud83d\udd1c\n\nIn this video you'll learn how to UV unwrap a coffee mug, create coffee foam, and more.\n\n===Links\ud83d\udd17===\n\nPoliigon: https://www.poliigon.com/donut5\nPoliigon addon: https://www.poliigon.com/blender\nJoin the Blender Guru Beginners Academy: https://academy.blenderguru.com/join\n\n=== Chapter Marks \u2702\ufe0f===\n0:00 Apply base texture\n2:54 Separating handle island\n5:35 UV unwrapping the rest of the mug\n9:12 Creating straight lines\n10:18 Installing the Mio3 UV extension\n12:25 Gridify feature\n13:38 Matching texel density\n18:10 Workflow dependent UVs\n20:09 Improving shader\n21:48 Tweaking a color texture\n25:02 Creating the coffee foam\n33:05 Learn more UV unwrapping\n\n===Follow me\ud83e\udef0===\n\nTwitter: https://twitter.com/andrewpprice\nInstagram: http://instagram.com/andrewpprice\nArtStation: http://artstation.com/artist/andrewprice\nLinkedIn: www.linkedin.com/in/andrew-price-17678911",
+        "id": 4240044,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yxAqN8TzFbo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yxAqN8TzFbo/hqdefault.jpg",
+        "title": "Blender Basic UV Unwrapping Tutorial (Donut Part 6)",
+        "vote": 0
+    }
+]

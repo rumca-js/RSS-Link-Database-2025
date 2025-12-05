@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T12:54:48.633560+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T11:34:24+00:00",
+        "description": "Vote counting in the presidential election is going into its fourth day with the two top candidates neck and neck.",
+        "id": 4236123,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/ckgm7pmkem1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f639/live/41490690-d102-11f0-a4c7-5dbeb8de769b.jpg",
+        "title": "Honduras election on knife-edge as count delayed by technical glitch",
+        "vote": 0
+    }
+]

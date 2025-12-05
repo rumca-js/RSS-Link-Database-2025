@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T15:15:52.154376+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T14:01:38+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/sbGetz7R_nY\" width=\"480\" alt=\"thumbnail\" title=\"'tac' - concatenate and print in reverse - Video Man Pages\" /></p>The 'tac' is used to concatenate files and print them in reverse.<br /><br />- Print the contents of a file in reverse (by line) to stdout:<br />  tac path/to/file<br /><br />- Concatenate specific files in reverse:<br />  tac file1 path/to/file2 ...<br /><br />- Display stdin in reversed order:<br />  printf \"one\\ntwo\\nthree\\n\" | tac<br /><br />- Use a specific separator rather than the new line:<br />  tac -s separator path/to/file1 path/to/file2 ...<br /><br />- Use a specific regex as a separator:<br />  tac -r -s 'regex' path/to/file1 path/to/file2 ...<br /><br />  EXAMPLE: tac -r -s 'x\\|[^x]' file1<br />  This matches either the character 'x' OR any character that is not 'x', effectively matching every character in the file.<br /><br />- Use a separator (new line by default) before each file:<br />  tac -b file1 file2 ...<br /",
+        "id": 4237546,
+        "language": "en",
+        "link": "https://odysee.com/%27tac%27-concatenate-and-print-in-reverse:3434b8a437d44ed0746f738aa56d2e013ef79905",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/sbGetz7R_nY",
+        "title": "'tac' - concatenate and print in reverse - Video Man Pages",
+        "vote": 0
+    }
+]

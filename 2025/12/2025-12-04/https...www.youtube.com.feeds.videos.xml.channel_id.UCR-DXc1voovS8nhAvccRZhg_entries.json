@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T19:02:25.673835+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T18:42:58+00:00",
+        "description": "Some of the articles and posts I referenced:\n\n  - TeamGroup 64GB DDR5 Memory Kit I bought for $209.99 is now $649.99: https://www.microcenter.com/product/680461/teamgroup-t-create-expert-64gb-(2-x-32gb)-ddr5-6400-pc5-51200-cl34-dual-channel-desktop-memory-kit-ctced564g6400hc34bdc01-black\n  - PC Part Picker Memory Pricing Trends: https://pcpartpicker.com/trends/price/memory/\n  - Samsung can't buy Samsung memory: https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html\n  - Micron stops selling Crucial memory and NVMes: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business\n  - Libre Computer's quote for LPDDR4 4GB RAM increasing beyond entire board BoM: https://x.com/librecomputer/status/1995592912063922578\n  - Lenovo Stockpiles RAM for Laptops: https://www.pcworld.com/article/2986266/lenovo-stockpiles-ram-to-hopefully-keep-laptop-prices-down.html\n  - Raspberry Pi memory-driven price ri",
+        "id": 4239675,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9rbz0akyLyQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9rbz0akyLyQ/hqdefault.jpg",
+        "title": "The RAM Shortage Comes for Us All",
+        "vote": 0
+    }
+]

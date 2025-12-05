@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computing Forever",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T13:21:47.254115+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T13:02:19+00:00",
+        "description": "Buy Deus v Machina eBook: https://www.amazon.com/dp/B0DNKMSD96 Paperback: https://www.amazon.com/Deus-Machina-Cody-Stockton-Mystery/dp/1399995782 Amazon UK: https://www.amazon.co.uk/Deus-Machina-Cody-Stockton-Mystery-ebook/dp/B0DNKMSD96 Audiobook version: https://play.google.com/store/audiobooks/details?id=AQAAAEDy2meahM&gl\n\nThe Checkmate Machine: https://www.amazon.com/dp/B0DTP9R6QL \nUK Edition: https://www.amazon.co.uk/dp/B0DWHFW3MF \n\nSource article: https://www.independent.co.uk/news/health/ai-chatbots-psychosis-delusion-chatgpt-experts-b2874373.html\n\nKEEP UP ON SOCIAL MEDIA:\nX:  https://x.com/davecullenshow\nSubscribeStar: https://www.subscribestar.com/dave-cullen\nMinds.com: https://www.minds.com/davecullen",
+        "id": 4236491,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FUEGhT5GZU0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 906,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT9D87j5W7PtE7NHOR5DUOQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FUEGhT5GZU0/hqdefault.jpg",
+        "title": "Chat Bots and AI Psychosis",
+        "vote": 0
+    }
+]

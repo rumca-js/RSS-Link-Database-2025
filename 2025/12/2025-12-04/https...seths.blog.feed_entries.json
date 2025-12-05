@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T10:55:26.855532+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T10:03:00+00:00",
+        "description": "Some choices seem obvious, while others demand care and insight. And some offerings are simple, while others have depth and multiple variables. As you&#8217;ve probably guessed, the choices that are simple and obvious tend to do best in the mass market. Where did you get your cup of coffee this morning? Did you visit a [&#8230;]",
+        "id": 4235264,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/12/simple-and-obvious-or-nuanced-and-complicated",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/seths.blog/wp-content/uploads/2025/12/Screenshot-2025-12-01-at-4.30.01-PM.jpg?resize=1024%2C639&ssl=1",
+        "title": "Simple and obvious\u2026 or nuanced and complicated?",
+        "vote": 0
+    }
+]

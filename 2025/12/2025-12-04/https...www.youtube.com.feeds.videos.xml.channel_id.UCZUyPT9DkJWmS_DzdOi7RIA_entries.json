@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T15:38:23.389699+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T15:01:04+00:00",
+        "description": "\u2b50\ufe0f Get the full course: https://www.codebreakthrough.com/data-structures-and-algorithms\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps: \n00:00 - Intro\n02:58 - Maps\n03:44 - Decision Making\n04:12 - Caching\n04:42 - Search Suggestions\n05:06 - Highest and Lowest Values\n06:11 - Classification\n06:55 - Dependency Resolution\n07:48 - Data Retrieval\n08:14 - Membership testing\n09:45 - Cryptography\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsletter\n\ud83d\udcf8 Instagram - https://www.instagram.com/CalebCurry\n\ud83d\udc26 Twitter - https://twitter.com/calebCurry\n\ud83d\udd17 LinkedIn - https://www.linkedin.com/in/calebcurry\n\u25b6\ufe0f Subscribe - http://calcur.tec",
+        "id": 4237639,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Vi4ksWxDAvM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vi4ksWxDAvM/hqdefault.jpg",
+        "title": "Applications of Data Structures and Algorithms (DSA in the Real World)",
+        "vote": 0
+    }
+]

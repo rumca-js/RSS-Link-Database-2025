@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Minecraft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T17:05:58.182001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T16:00:04+00:00",
+        "description": "It\u2019s time for the era of the spear!\nIn this Dev Diary, Gameplay Tech Lead Felix Jones, Senior Gameplay Engineer Marco Ballabio, and Game Art Director Jasper Boerstra share how the spear came to life, how it fits into the Minecraft weapon lineup, and how it all started with a simple wooden stick! You\u2019ll also learn about jabbing, stabbing, and lunging, AND enjoy a few puns \u2013 so grab your spear and discover how you can create more mayhem!\n\nMounts of Mayhem  will be released on December 9.",
+        "id": 4238463,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aZxc-av4eps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 761,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1sELGmy5jp5fQUugmuYlXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aZxc-av4eps/hqdefault.jpg",
+        "title": "ALL ABOUT THE SPEAR",
+        "vote": 0
+    }
+]

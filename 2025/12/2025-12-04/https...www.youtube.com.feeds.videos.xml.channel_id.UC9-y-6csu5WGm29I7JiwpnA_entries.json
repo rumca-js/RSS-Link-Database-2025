@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-04T19:14:06.179972+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-04T18:32:29+00:00",
+        "description": "As AI systems become more capable, rule-based safeguards, hard-coded restrictions, and simple alignment strategies start to break down. Buck Shlegeris talks about some tactics we might use as detailed in a recent paper. \n\nThe referenced paper: https://arxiv.org/abs/2504.10374 \n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 4239834,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JAcwtV_bFp4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JAcwtV_bFp4/hqdefault.jpg",
+        "title": "Constraining AI Agents - Computerphile",
+        "vote": 0
+    }
+]
