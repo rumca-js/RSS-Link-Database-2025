@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T16:52:19.806300+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T14:51:11+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nC++20 Ranges - The Stuff of Science Fiction - Stewart Becker - ACCU 2025 Short Talks\n---\n\nC++20 introduced ranges - a powerful feature that brought with it a lesser-known design pattern involving inline static const function objects. In this talk, \u201cThe Stuff of Science Fiction,\u201d we explore how this design pattern works, why it matters, and why it desperately needs a better name. If you're into modern C++ and want to understand C++ ranges, C++ design patterns, or the lambda alternative techniques enabled by range adapter objects, this video is for you.\n\nThe speaker walks through how static inline const objects (often called functors or anonymous function objects) can be used to implement range filters and custom call operators in clean, reusable ways. The video addresses naming challenges\u2014\u201cfunctor,\u201d \u201crange adapter object,\u201d \u201canonymous function object,\u201d and even \u201cnebloid\u201d\u2014and offers two alternative names that better capture the intent an",
+        "id": 4248048,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Key-bfvDHcE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Key-bfvDHcE/hqdefault.jpg",
+        "title": "C++20 Ranges - The Stuff of Science Fiction - Stewart Becker - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

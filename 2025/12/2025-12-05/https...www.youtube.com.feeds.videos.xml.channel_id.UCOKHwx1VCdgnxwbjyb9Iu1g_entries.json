@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T21:20:29.436250+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T20:15:04+00:00",
+        "description": "Let's add some sprinkles to that \ud83c\udf69\nFinal part releasing in two days later\n\nIn this video you'll learn how to use the new scatter on surfaces modifier in Blender 5.0\n\n===Links\ud83d\udd17===\nBlender Guru: https://www.blenderguru.com/tutorials/blender-donut-v5-tutorial\nPoliigon: http://www.poliigon.com High-quality Models, Textures, HDRIs\n\n=== Chapter Marks \u2702\ufe0f===\n0:00 Intro\n0:18 Understanding the 3D cursor\n0:51 Modelling the sprinkles\n5:21 Modelling sprinkle variants\n7:23 The new Scatter on Surface Modifier\n12:44 Controlling where it scatters\n18:19 Fixing intersections\n24:04 Randomized colors\n35:16 Wrap up \n\n===Follow me\ud83e\udef0===\n\nTwitter: https://X.com/andrewpprice\nInstagram: http://instagram.com/andrewpprice\nArtStation: http://artstation.com/artist/andrewprice\nLinkedIn: www.linkedin.com/in/andrew-price-17678911",
+        "id": 4250311,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_-QsGTL7pS0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_-QsGTL7pS0/hqdefault.jpg",
+        "title": "How to Scatter in Blender 5.0 (Donut Part 7)",
+        "vote": 0
+    }
+]

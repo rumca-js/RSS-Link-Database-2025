@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Pavlus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T14:41:21.093436+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T14:29:20+00:00",
+        "description": "Is language core to thought, or a separate process? For 15 years, the neuroscientist Ev Fedorenko has gathered evidence of a language network in the human brain \u2014 and has found some parallels to LLMs.            <p>The post <a href=\"https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/\" target=\"_blank\">The Polyglot Neuroscientist Resolving How the Brain Parses Language</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 4246837,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Ev-Fedorenko-cr-Ketherine-Taylor-Default.webp",
+        "title": "The Polyglot Neuroscientist Resolving How the Brain Parses Language",
+        "vote": 0
+    }
+]

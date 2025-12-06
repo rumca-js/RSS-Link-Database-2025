@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T15:47:52.997813+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBuilding Secure C++ Applications: A Practical End-to-End Approach - Chandranath Bhattacharyya & Bharat Kumar - CppCon 2025\n---\n\nIn this talk, we will explore actionable strategies for building more secure software throughout its entire lifecycle, drawing from practical experience in  Microsoft Edge  browser development.\n\nAttendees will gain concrete techniques and tools to proactively mitigate common C++ security vulnerabilities at each stage, from initial coding to final release.\n\nWe will delve into developer-focused practices like leveraging libc++ bounds checking, compiler warnings ( -Wunsafe-buffer-usage ), strong types, lifetime management (including weak_ptr best practices and the Chromium WeakPtr ), initialization safety, arithmetic and thread safety, and preventing ODR violations and undefined behavior, alongside the use of fuzzers and compile-time checks. The session will also cover critical post-development phases, including robust presubmit checks, ",
+        "id": 4247478,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GtYD-AIXBHk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GtYD-AIXBHk/hqdefault.jpg",
+        "title": "Building Secure C++ Applications: A Practical End-to-End Approach - CppCon 2025",
+        "vote": 0
+    }
+]

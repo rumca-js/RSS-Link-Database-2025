@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warren Cornwall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T20:02:37.709935+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T12:48:00+00:00",
+        "description": "Highly cited paper was used as evidence that the widely used herbicide Roundup is safe",
+        "id": 4249619,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/journal-retracts-weed-killer-study-backed-monsanto-citing-serious-ethical-concerns",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Journal retracts weed killer study backed by Monsanto, citing \u2018serious ethical concerns\u2019",
+        "vote": 0
+    }
+]

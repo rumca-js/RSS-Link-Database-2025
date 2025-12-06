@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T13:37:59.690007+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T12:31:02+00:00",
+        "description": "Hardeep Singh Tiwana has a message for you: launch windows don't stay open forever!\n\nCyber Week is your chance to join the community of Kubestronauts and Golden Kubestronauts who\u2019ve pushed their Kubernetes skills farther and validated them with credentials employers trust.\n\nSAVE 50% on every Kubestronaut/Golden Kubestronaut bundle, including upgrade paths for CKA and CKAD holders. If you're ready to level up your cloud native career trajectory, this is the week to move.\n\n\ud83d\ude80 5 Kubestronaut paths\n\ud83d\ude80 All half-price\n\ud83d\ude80 Ends December 9\n\nStart your ascent: https://hubs.la/Q03V4RL70 \n\n\u2733\ufe0f BONUS! Get a US$100 gift voucher to use for courses & certifications in 2026! \n\n#CloudNative #Kubernetes #Kubestronaut #CNCF #Linux #CyberMonday #CKA #CKAD",
+        "id": 4246361,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/XoA3u3Cy-Xk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XoA3u3Cy-Xk/hqdefault.jpg",
+        "title": "Hardeep Singh Tiwana has a message for you: launch windows don't stay open forever!",
+        "vote": 0
+    }
+]

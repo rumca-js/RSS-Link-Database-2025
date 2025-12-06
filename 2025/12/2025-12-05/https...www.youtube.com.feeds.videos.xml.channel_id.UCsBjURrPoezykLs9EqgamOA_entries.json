@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T22:07:15.140502+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T21:43:51+00:00",
+        "description": "Try Brilliant for free - https://brilliant.org/fireship and get 20% off a premium annual subscription\n\nAnthropic just bought Bun - the super fast JavaScript runtime that's  universally loved by developers. In today's video, we'll break down why they did it, how Bun got here, and what their marriage might look like.\n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\nhttps://bun.com/blog/bun-joins-anthropic\nhttps://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone\n\n\ud83d\udcda Chapters\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered",
+        "id": 4250578,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5JMiNsV7P3Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5JMiNsV7P3Y/hqdefault.jpg",
+        "title": "Anthropic just bought your favorite JS runtime...",
+        "vote": 0
+    }
+]

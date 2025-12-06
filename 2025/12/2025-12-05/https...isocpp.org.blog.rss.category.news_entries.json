@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T23:12:12.736648+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T22:34:37+00:00",
+        "description": "<p>\n\t<img alt=\"Me.jpg\" src=\"https://isocpp.org/files/img/Me.jpg\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />C++11 gave us&nbsp;<code>enum class</code>&nbsp;and while it&rsquo;s great to have scoped enums I don&rsquo;t find it great for error handling. Let&rsquo;s talk about why.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://mropert.github.io/2025/11/11/enum_class_error_codes/\">C++ Enum Class and Error Codes</a></h3>\n\t<p>\n\t\tby Mathieu Ropert</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tMost of my readers, I hope, have been able to use C++11 for a while now (if not hello, I&rsquo;m sorry the world has changed to become this weird during your 14 years sleep). With it came a small change that allowed for better scoping of names without resorting to weird quirks:&nbsp;<code>enum class</code>. The idea is simple: owing to C,&nbsp;<code>enum</code>&nbsp;values in C++ belong to the class or namespace they are declared in but if we add the&nbsp;<code>cla",
+        "id": 4250974,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/12/cpp-enum-class-and-error-codes-mathieu-ropert",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/Me.jpg",
+        "title": "C++ Enum Class and Error Codes --  Mathieu Ropert",
+        "vote": 0
+    }
+]

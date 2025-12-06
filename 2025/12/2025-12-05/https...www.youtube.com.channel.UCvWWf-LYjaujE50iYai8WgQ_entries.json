@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T01:36:57.706037+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T00:41:30+00:00",
+        "description": "Building a PC Before It\u2019s Too Late - Cooler Master QUBE 540\n\u25b7 MY STORE - shirts, pint glasses & hoodies: http://paulshardware.net\n\nGIVEAWAY ENTRY PAGE (US / Canada, Void Where Prohibited) - \nhttps://gleam.io/RbGCZ/pauls-hardware-cooler-master-qube-540-9800x3d-rtx-5080-pc-giveaway-for-extra-life-dec-2025 \nAwesome Hardware 2025 Extra Life Page - https://www.extra-life.org/teams/72765 \n\n\ud83d\ude4f Many thanks to Cooler Master for sponsoring this video and providing parts for the build! \n\ud83d\ude4f Many thanks to AMD for providing the 9800X3D CPU and NVIDIA for providing the GeForce RTX 5080 Founders Edition GPU! \n\n\u25ba PARTS LIST\nCPU - AMD Ryzen 7 9800X3D 8c/16t\n (Amazon) https://geni.us/1Vd87 (Newegg) https://tinyurl.com/mb4pfceh \nCPU COOLER - Cooler Master MasterLiquid 240 Atmos Stealth - https://tinyurl.com/4cb3kynn \nGPU - NVIDIA GeForce RTX 5080 Founders Edition - https://geni.us/pLivpD \nMOTHERBOARD - Gigabyte X870E Aorus Elite Wifi7 - https://geni.us/eE41fzn \nMEMORY - G.Skill Trident Z5 RGB 96GB (2x48GB",
+        "id": 4242587,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QbFWejZFb_s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QbFWejZFb_s/hqdefault.jpg",
+        "title": "Building a PC Before It\u2019s Too Late - Cooler Master QUBE 540",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T23:06:29.686596+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T21:43:39+00:00",
+        "description": "Xioami (yes, that Xiaomi) made a ridiculously good car for the price.\n\nGet yourself or someone a gift they\u2019ll actually use every day with Ridge. Get up to 47% off at https://geni.us/RidgeMKBHD\n\nAuto Focus video coming soon: http://youtube.com/AutoFocus\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n0:34 The Xiaomi SU7\n3:06 Interior Features\n6:34 It's Modular!\n8:03 Driving Impressions\n13:39 Are we cooked?",
+        "id": 4250908,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Mb6H7trzMfI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mb6H7trzMfI/hqdefault.jpg",
+        "title": "Driving Xiaomi's Electric Car: Are we Cooked?",
+        "vote": 0
+    }
+]

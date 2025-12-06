@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T18:50:04.989426+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T18:00:53+00:00",
+        "description": "Taken from JRE #2423 w/John Cena\nYouTube: https://youtu.be/sJ4Ho4ccuFg\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 4249062,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dj5PUo6FQJI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dj5PUo6FQJI/hqdefault.jpg",
+        "title": "John Cena on Being Initially Hated for His Persona and Turning Heel",
+        "vote": 0
+    }
+]

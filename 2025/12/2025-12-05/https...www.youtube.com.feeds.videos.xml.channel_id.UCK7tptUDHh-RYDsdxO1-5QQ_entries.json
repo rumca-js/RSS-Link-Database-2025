@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-05T16:08:07.089341+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-05T15:01:46+00:00",
+        "description": "Territory has emerged as the central stumbling block to a peace deal between Ukraine and Russia. The initial U.S.-led proposal calls for Kyiv to surrender the \"Fortress Belt,\" the fortified strip of land that forms the backbone of the country's defenses. Ukraine\u2019s leaders cannot accept this.\n\nChapters:\n0:00 The proposed peace plan\n0:27 Ukraine\u2019s \u201cFortress Belt,\u201d explained\n1:42 Why it\u2019s so important for Russia\n2:43 Russia gaining on Pokrovsk \n3:55 What\u2019s next?\n\nRussia-Ukraine \nWSJ\u2019s latest news coverage around the 2022-2025 Russia-Ukraine conflict.\n\n#Russia #Ukraine #WSJ",
+        "id": 4247615,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pls6Btwm6Qo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pls6Btwm6Qo/hqdefault.jpg",
+        "title": "Why Russia Won\u2019t Agree to Peace Without Ukraine\u2019s \u2018Fortress Belt\u2019 | WSJ",
+        "vote": 0
+    }
+]
