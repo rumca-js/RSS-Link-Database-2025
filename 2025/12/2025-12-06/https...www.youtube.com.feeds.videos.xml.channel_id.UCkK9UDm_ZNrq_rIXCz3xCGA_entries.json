@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T01:01:31.412908+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T00:37:45+00:00",
+        "description": "The cost of actually running wikipedia remains under 2% of their spending.\nRemainder of funds spent on \"Racial Equity\", \"Awards & Grants, \"Travel Expenses\".\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4251546,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-YQda8hq-do",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-YQda8hq-do/hqdefault.jpg",
+        "title": "Wikipedia Made $184 Million in 2025, Spent $3.4 Million on Hosting",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T14:33:34.516784+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T13:30:59+00:00",
+        "description": "Ramesh Kumar (\u0bb0\u0bae\u0bc7\u0bb7\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd) says Cyber Week is the biggest Kubestronaut deal of all time!\n\nSAVE 50% on every Kubestronaut and Golden Kubestronaut bundle \u2014 including CKA/CKAD upgrades.\n\nGo get it. Go get all of it!\n\nEnroll now: https://hubs.la/Q03V4RL70 \n\n\u2733\ufe0f BONUS! Get a US$100 gift voucher to use for courses & certifications in 2026! \n\n#CloudNative #Kubernetes #Kubestronaut #CNCF #Linux #CyberMonday #CKA #CKAD",
+        "id": 4254669,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xfdQMPviC0E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xfdQMPviC0E/hqdefault.jpg",
+        "title": "Ramesh Kumar says Cyber Week is the biggest Kubestronaut deal of all time!",
+        "vote": 0
+    }
+]

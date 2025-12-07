@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T19:07:59.026578+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T18:41:06+00:00",
+        "description": "Federal vs. State AI regulation: The White House moves toward legal preemption.\n\nThe administration has instructed the DOJ to challenge state level AI laws, arguing that AI\u2019s interstate nature requires federal oversight. Yet with no federal AI framework in place, this move effectively dismantles existing state safeguards without replacing them.\n\nThe result is a regulatory vacuum where companies may face uncertainty about compliance for months or years.It highlights a pivotal moment:\n\nThe U.S. is litigating AI policy faster than it is legislating it.\n\n\ud83d\udc49Hear the full breakdown on The Slidebean Stand-Up; streaming now on Spotify, Apple Podcasts, and all major podcast platforms.",
+        "id": 4256257,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/7d6Cf2L4kAI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7d6Cf2L4kAI/hqdefault.jpg",
+        "title": "The U.S. is suing states for regulating AI, even though it has no AI laws",
+        "vote": 0
+    }
+]

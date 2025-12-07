@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T11:27:05.827592+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T11:14:18+00:00",
+        "description": "Head to https://squarespace.com/thelinuxexperiment to save 10% off your first purchase of a website or domain using code thelinuxexperiment\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00  Intro\n00:30 Sponsor: SquareSpace\n01:46  Valve prepares their own Waydroid version\n05:02 Valve was behind FEX all along\n07:31 ZDNet thinks Linux desktop is at 11% \n10:52 Linux kernel 6.18 released\n13:03 Linux Kernel 6.19 will be packed with GPU improvements\n15:02 NVK + Nouveau improvin",
+        "id": 4253715,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=iKzJAgDopVI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iKzJAgDopVI/hqdefault.jpg",
+        "title": "Is Linux at 11%? Valve's Android translation layer - Linux Weekly News",
+        "vote": 0
+    }
+]

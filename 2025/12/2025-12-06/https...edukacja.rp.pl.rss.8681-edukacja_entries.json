@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T10:15:30.522129+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T10:15:29+00:00",
+        "description": "W internecie wcale nie jeste\u015bmy anonimowi. Je\u015bli dziecko jest ofiar\u0105 hejtu i cyberprzemocy, warto przedstawi\u0107 policji wydruki ze stron internetowych, SMS-y, wiadomo\u015bci na Messengerze, przerobione zdj\u0119cia czy te\u017c filmy \u2013 radzi mec. Joanna Szpiega-Bzdo\u0144. T\u0142umaczy, czego mo\u017cna oczekiwa\u0107 od szko\u0142y, a kiedy p\u00f3j\u015b\u0107 na policj\u0119.",
+        "id": 4253399,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/prawo-w-polsce/art43445801-twoje-dziecko-jest-ofiara-hejtu-i-cyberprzemocy-sprawdz-jakie-kroki-prawne-mozesz-podjac",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Twoje dziecko jest ofiar\u0105 hejtu i cyberprzemocy? Sprawd\u017a, jakie kroki prawne mo\u017cesz podj\u0105\u0107",
+        "vote": 0
+    }
+]

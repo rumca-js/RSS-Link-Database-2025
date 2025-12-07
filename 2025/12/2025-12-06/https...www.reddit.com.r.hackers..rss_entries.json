@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/grendizer13",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T22:14:13.926468+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T22:01:03+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hackers/comments/1pg1a63/facebook_web_browser_trying_to_snapshot_my_screen/\"> <img src=\"https://preview.redd.it/v6k84wp0pn5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eede027f7497932fc2e0831283049a0355440c8c\" alt=\"Facebook web browser trying to snapshot my screen?\" title=\"Facebook web browser trying to snapshot my screen?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Looks like the guys at meta left a debug mode opened. Is this what I think this is?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/grendizer13\"> /u/grendizer13 </a> <br/> <span><a href=\"https://i.redd.it/v6k84wp0pn5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hackers/comments/1pg1a63/facebook_web_browser_trying_to_snapshot_my_screen/\">[comments]</a></span> </td></tr></table>",
+        "id": 4257205,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1pg1a63/facebook_web_browser_trying_to_snapshot_my_screen",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/v6k84wp0pn5g1.jpeg?width=640&crop=smart&auto=webp&s=eede027f7497932fc2e0831283049a0355440c8c",
+        "title": "Facebook web browser trying to snapshot my screen?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T21:42:57.271097+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T21:19:50+00:00",
+        "description": "Toradex has unveiled the OSM and Lino Computer on Module families, incorporating NXP&#8217;s i.MX 93 and i.MX 91 processors. These ultra-compact modules target high-volume industrial automation and edge systems, offering a rugged, cost-effective solution for space-constrained environments. The new lineup includes the OSM iMX93, OSM iMX91, Lino iMX93, and Lino iMX91. These modules are powered [&#8230;]",
+        "id": 4256991,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/toradex-introduces-coin-sized-modules-powered-with-nxp-i-mx-93-and-i-mx-91-processors",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Toradex Introduces Coin-Sized Modules Powered with NXP i.MX 93 and i.MX 91 Processors",
+        "vote": 0
+    }
+]

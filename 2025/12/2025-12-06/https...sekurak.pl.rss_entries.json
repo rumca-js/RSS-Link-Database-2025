@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T08:38:14.702543+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T08:29:33+00:00",
+        "description": "<p>TLDR: Dost\u0119pne bez \u017cadnego logowania API aplikacji asystent[.]ai / Minerva. Listowanie u\u017cytkownik\u00f3w, szczeg\u00f3\u0142y u\u017cytkownik\u00f3w (w tym hashe hase\u0142), pliki wysy\u0142ane przez u\u017cytkownik\u00f3w, konwersacje z AI. Aby zobaczy\u0107 te dane, wystarczy\u0142a zwyk\u0142a przegl\u0105darka. Przyk\u0142ad wyniku zwracanego przez https://api.asystent[.]ai/users/ Ale po kolei. 23.11.2025 czytelnik zg\u0142osi\u0142 nam niepokoj\u0105c\u0105 seri\u0119 podatno\u015bci w rozwi\u0105zaniu asystent[.]ai...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/asystent-ai-publicznie-dostepne-api-uzytkownicy-hashowane-hasla-konwersacje-z-ai-pliki-mozliwe-bylo-pobranie-danych-zwykla-przegladarka/\">asystent.ai &#8211; publicznie dost\u0119pne API (u\u017cytkownicy / hashowane has\u0142a / konwersacje z AI / pliki / &#8230;). Mo\u017cliwe by\u0142o pobranie danych zwyk\u0142\u0105 przegl\u0105dark\u0105.</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 4253015,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/asystent-ai-publicznie-dostepne-api-uzytkownicy-hashowane-hasla-konwersacje-z-ai-pliki-mozliwe-bylo-pobranie-danych-zwykla-przegladarka",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "asystent.ai \u2013 publicznie dost\u0119pne API (u\u017cytkownicy / hashowane has\u0142a / konwersacje z AI / pliki / \u2026). Mo\u017cliwe by\u0142o pobranie danych zwyk\u0142\u0105 przegl\u0105dark\u0105.",
+        "vote": 0
+    }
+]

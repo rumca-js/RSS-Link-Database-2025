@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Georgina Gustin, Inside Climate News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T14:13:36.543308+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T12:30:35+00:00",
+        "description": "The port will revolutionize global trade, but it\u2019s sparking destructive rainforest routes.",
+        "id": 4254509,
+        "language": "en-US",
+        "link": "https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2182963624-500x500.jpg",
+        "title": "A massive, Chinese-backed port could push the Amazon Rainforest over the edge",
+        "vote": 0
+    }
+]

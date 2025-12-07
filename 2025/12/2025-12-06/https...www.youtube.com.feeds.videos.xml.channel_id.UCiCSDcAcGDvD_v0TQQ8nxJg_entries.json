@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T19:03:41.494313+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T18:05:34+00:00",
+        "description": "New Movie Trailers 2026 in 4K ULTRA HD Quality\n00:00 Scream 7\n02:22 Wildcat\n03:58 The Mandalorian And Grogu\n05:30 Die My Love\n06:29 Gladiator Underground\n08:12 Shelter\n10:42 Crime 101\n13:40 We Bury The Dead \n15:34 Good Luck, Have Fun, Don't Die\n17:28 Ready Or Not 2 Here I Come\n19:46 Project Hail Mary\n22:50 28 Years Later The Bone Temple\n25:50 Mortal Kombat 2\n27:25 Greenland 2 Migration\n28:39 Kraken\n30:41 Avatar 3 Fire And Ash\n32:46 Anaconda",
+        "id": 4256228,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=K7cvje-gkec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K7cvje-gkec/hqdefault.jpg",
+        "title": "NEW MOVIE TRAILERS 2026 (Action) 4K ULTRA HD",
+        "vote": 0
+    }
+]

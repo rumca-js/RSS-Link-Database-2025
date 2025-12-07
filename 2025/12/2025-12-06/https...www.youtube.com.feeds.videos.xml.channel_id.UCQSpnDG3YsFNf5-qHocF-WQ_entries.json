@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T15:40:19.530516+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T15:08:46+00:00",
+        "description": "Of course there's yet another phishing strategy you have to watch out for \ud83d\ude2b\nSponsored: Use code DH2300CM to get 15% off for NAS DH2300 from 12/8 to 12/28\nUGREEN NAS on Official Store (up to 15% off): https://nas.us.ugreen.com/Z2fB6g\nUGREEN NAS DH2300 (15% off): https://amzn.to/47oA8ph\nUGREEN NAS Series (up to 15% off): https://amzn.to/4o5NttN\n\nLinks Mentioned:\n* My Unicode Domain Warning Extension: https://chromewebstore.google.com/detail/khijgpndoffkmanglickjbnkbjimcdhn\n* My GitHub Repo: https://github.com/ThioJoe/Simple-Chrome-Extension-Utilities\n\nTimestamps:\n0:00 - Intro\n0:57 - How The Trick Works\n2:16 - Internationalized Domain Names\n3:56 - Very Good Thing\n5:28 - My Chrome Extension\n6:51 - Some Things to Point Out",
+        "id": 4255044,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=IKgEE7bUTes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IKgEE7bUTes/hqdefault.jpg",
+        "title": "I Just Made Google Chrome Better",
+        "vote": 0
+    }
+]

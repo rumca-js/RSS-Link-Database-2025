@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuokka77",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T09:26:55.015311+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T09:13:28+00:00",
+        "description": "\"Agent Hippel to the Rescue\" by !Cube.\nAtari Falcon art \"Roots Of Eternity\" by Critikill & Rue, 2nd at Silly Venture 2023 SE Atari Falcon gfx compo.\n\nFrench CA4003290 Atari STe with new Mean Well RPD-60A PSU (SidecarTridge.com variety). Playback using SND Player v1.51. Brainworx VST effects applied.\n\nSTe hardware has its issues and mine is not an exception. The infamous 2600 Hz left channel whine was removed using iZotope RX spectral de-noiser. DMA audio crackling, while not 100% eliminated, got improved dramatically after applying Exxos STE DAC CRACKLES POP FIX (additional grounding for U500 and U501 via bodge wires). STe also has very hot RCA outputs. Luckily RME Babyface Pro FS in professional +4 dBu recording reference level mode can take it without clipping.",
+        "id": 4253188,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Q8bib4p1cvU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 180,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q8bib4p1cvU/hqdefault.jpg",
+        "title": "Atari music: !Cube - Agent Hippel to the Rescue (STe\ud83c\udfa7bx_)",
+        "vote": 0
+    }
+]

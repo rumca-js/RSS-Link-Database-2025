@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Today I Found Out",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T00:36:47.994149+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T00:03:56+00:00",
+        "description": "During the Cold War, the U.S. government was hell-bent on one upping the commies in any way possible. In the process, they came up with a number of outlandish plans, such as that time they proposed literally nuking the moon, interestingly enough a project a young Carl Sagan worked on and broke some laws with. More on this later. While it\u2019s probably for the best that that project didn\u2019t ultimately get carried out, there is another that went into history's dustbin that would have been amazing if implemented- the U.S. Army's plan to build a massive military and research installation on the moon. This is the story of Project Horizon, along with a lot of other interesting related tidbits along the way, from what a nuclear explosion would look like on the moon and whether a nuke would actually be a terribly effective weapon in space, to the guns designed for astronauts, to the rather humorous first thing Neil Armstrong and Buzz Aldrin did on the surface of the moon, to the dick pic that exi",
+        "id": 4251476,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NyVmh_6Li54",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 862,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NyVmh_6Li54/hqdefault.jpg",
+        "title": "That Time the U S Tried to Build a Massive Military Base on the Moon (Special)",
+        "vote": 0
+    }
+]

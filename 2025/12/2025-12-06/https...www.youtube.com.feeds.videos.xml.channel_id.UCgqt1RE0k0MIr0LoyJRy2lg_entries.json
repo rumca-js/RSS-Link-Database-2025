@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rational Animations",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T14:38:25.353753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T14:23:51+00:00",
+        "description": "This video introduces two broad drivers of catastrophic AI risk (distinct from our usual focus on Rogue AIs): malicious use and accidents.\n\nIn particular, we look at how AI could undermine democracy, enable automated cyberattacks on critical infrastructure, lower barriers for biological and chemical misuse, concentrate power in a few governments or corporations, and cause large-scale accidents through bugs, design flaws, and weak safety culture.\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580SOURCES & READINGS\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\nAn Overview of Catastrophic AI Risks: https://arxiv.org/pdf/2306.12001.pdf\n\nFor more about AI risk from Dan Hendrycks: https://www.aisafetybook.com/\n\nIntroduction to ML Safety: https://course.mlsafety.org/about\n\nTree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust https://arxiv.org/abs/2305.20030\n\nSources about the spread of a deepfake audio during Slovakia's 2023 election:\n- https://www.wired.co.uk/article/slovakia-election-deepfakes\n- https://www.bloomberg.com/ne",
+        "id": 4254678,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DWBJjcO69mQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 879,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgqt1RE0k0MIr0LoyJRy2lg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DWBJjcO69mQ/hqdefault.jpg",
+        "title": "Can AI protect us from AI-powered bioterrorism and cyberwarfare?",
+        "vote": 0
+    }
+]

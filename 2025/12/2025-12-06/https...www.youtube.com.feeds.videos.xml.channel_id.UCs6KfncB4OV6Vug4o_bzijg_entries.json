@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T02:41:20.218851+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T01:37:45+00:00",
+        "description": "Age verification laws in 25 USA states now require government ID to access parts of the internet\u2014but they're already backfiring. Learn how these regulations harm real people, while failing to protect children. Plus: what you can do about it.\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Contact House Reps: https://www.house.gov/representatives\n\u2022 Contact Senators: https://www.senate.gov/senators/senators-contact.htm\n\u2022 Proton VPN Kickback Link: https://go.getproton.me/SH1Ip\n\u2022 Proton VPN Link: https://protonvpn.com/\n\u2022 Open Source VPN Chart: https://techlore.tech/vpn\n\u2022 EFF: https://www.eff.org/\n\u2022 NetChoice: https://netchoice.org/\n\u2022 FSC Map: https://action.freespeechcoalition.com/age-verification-resources/state-avs-laws/\n\u2022 Privacy World Breakdown: https://www.privacyworld.blog/2025/10/app-store-age-verification-laws-your-questions-answered/\n\u2022 Ondato Breakdown: https://ondato.com/blog/adult-content-age-verification-laws/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/cuLdd07P1II\nhttps://youtu.be/jP-kqEHirTM\nhttps://youtu.b",
+        "id": 4251978,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tS6VgM6X0rs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tS6VgM6X0rs/hqdefault.jpg",
+        "title": "25 States Now Require Your Government ID Online",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T14:48:38.838597+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T12:02:08+00:00",
+        "description": "Ready to become a certified watsonx Data Lakehouse Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbbHC\n\nLearn more about Low-Code vs. No-Code here \u2192 https://ibm.biz/BdbbHQ\n\nCan AI really build your data pipelines? \ud83e\udd16 Shreya Sisodia breaks down how AI Agents, low code, and SDKs reshape data integration and automation. \ud83d\ude80 See which approach fits your workflow best and uncover the future of smarter integration!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbbH3\n\n#aiagents #sdk #lowcode #nocode #dataintegration",
+        "id": 4254706,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zNfuxvMFKwo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zNfuxvMFKwo/hqdefault.jpg",
+        "title": "AI Agents vs. Low Code vs. No Code vs. SDK in Data Integration",
+        "vote": 0
+    }
+]

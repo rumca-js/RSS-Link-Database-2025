@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T19:03:17.670559+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T18:00:26+00:00",
+        "description": "Doug has never been huge into slasher films, but with how popular the Scream movies are, it makes sense to give them a fair shot.\n\nWatch all DisneyCember here - https://www.youtube.com/playlist?list=PL0AQIMR-tpomecW19RN2LNrdoqd5wFu4R\n\nWatch the new NC - https://youtu.be/rbWhvw0CZ48\n\nScream 2 is a 1997 American slasher film directed by Wes Craven and written by Kevin Williamson. It stars David Arquette, Neve Campbell, Courteney Cox, Sarah Michelle Gellar, Jamie Kennedy, Laurie Metcalf, Jerry O'Connell, Jada Pinkett and Liev Schreiber. A sequel to Scream (1996), it is the second installment in the Scream film series. Scream 2 follows the character of Sidney Prescott (Campbell), and the other survivors of the Woodsboro massacre, at the fictional Windsor College in Ohio where they are targeted by a copycat killer using the identity of Ghostface. Like its predecessor, Scream 2 combines the violence of the slasher genre with elements of comedy, satire and \"whodunit\" mystery while satirizing",
+        "id": 4256226,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OKtD3dtvcok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OKtD3dtvcok/hqdefault.jpg",
+        "title": "Scream 2 - DisneyCember",
+        "vote": 0
+    }
+]

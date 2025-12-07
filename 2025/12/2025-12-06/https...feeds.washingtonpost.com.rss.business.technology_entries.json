@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Danielle Abril",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T11:49:24.983488+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T11:00:00+00:00",
+        "description": "Guidance from the State Department restricts some tech workers from getting H1-B visas as the Trump administration cracks down on censorship.",
+        "id": 4253772,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/business/2025/12/06/trump-censorship-h1b-visas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump\u2019s latest Big Tech pressure play: Restrict content moderator visas",
+        "vote": 0
+    }
+]

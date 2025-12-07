@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-06T08:50:10.459173+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-06T08:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p><strong>TL;DR:\u00a0</strong>Get a lifetime license to\u00a0<a href=\"https://shop.pcworld.com/sales/pansophy-private-personal-ai-desktop-assistant?utm_source=pcworld.com&utm_content=PS-9336&utm_medium=Referral&utm_campaign=pansophy-private-personal-ai-desktop-assistant-base-plan-lifetime-subscription-2025-11-30&utm_term=SALE-328952\" target=\"_blank\" rel=\"noreferrer noopener\">Pansophy\u2019s fully private, on-device AI assistant</a>\u00a0for $79 and run ChatGPT-style tools locally with zero subscriptions, zero data sharing, and zero usage limits (MSRP $199).</p>\n\n\n\n<p>AI tools are getting more powerful, but also more expensive, more restricted, and more invasive. That\u2019s why this new\u00a0<a href=\"https://shop.pcworld.com/sales/pansophy-private-personal-ai-desktop-assistant?utm_source=pcworld.com&utm_content=PS-9336&utm_medium=Referral&utm_campaign=pansophy-private-personal-ai-desktop",
+        "id": 4253055,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/2996399/new-ai-tool-is-like-a-private-no-subscription-chatgpt-on-your-desktop.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdnp2.stackassets.com/d9558d8f053992e780336ab4371feed7ac91aaa2/store/aa23f1d9e1e81d2429227fd1f2f32a6d28464e1fe147c9e3596d4d9cef8b/sale_328952_primary_image.jpg",
+        "title": "New AI tool is like a private, no-subscription ChatGPT on your desktop",
+        "vote": 0
+    }
+]
