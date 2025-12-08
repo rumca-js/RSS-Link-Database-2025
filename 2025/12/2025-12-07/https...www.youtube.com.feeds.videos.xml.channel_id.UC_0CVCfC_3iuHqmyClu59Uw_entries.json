@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T16:25:52.640243+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T15:50:01+00:00",
+        "description": "Red Dead Redemption is finally on mobile and I had to push it a bit. \ud83d\ude05 In this video I test it on everything from a $25 Walmart Android phone (spoiler: it doesn\u2019t go well) all the way up to a Snapdragon flagship and an iPhone with Apple\u2019s latest chip.\nWe\u2019ll see how Red Dead Redemption runs on a 10th gen iPad with the A14, a RedMagic 11 Pro powered by Snapdragon 8 Gen 5, and an iPhone 14 Pro Max with the A19 Pro. I go over the graphics options, fidelity vs performance mode, resolution scaling, controller support, and why low-end Android devices just can\u2019t handle it right now.\nIf you\u2019ve got a Netflix account, you can play this version of Red Dead Redemption on your phone or tablet, and your saves even sync between iOS and Android. In my opinion it\u2019s still one of the best games ever made, and it actually feels great on mobile with a proper controller.\n\n8BitDo Ultimate Mobile Gaming Controller : https://amzn.to/4iOjXqM\niPad: https://amzn.to/4iIc8CR\nRed magic 11 pro: https://amzn.to/48JDmV",
+        "id": 4261444,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=SqB5e7mTvOY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SqB5e7mTvOY/hqdefault.jpg",
+        "title": "Red Dead Redemption on Mobile Is Amazing - iOS vs Android!",
+        "vote": 0
+    }
+]

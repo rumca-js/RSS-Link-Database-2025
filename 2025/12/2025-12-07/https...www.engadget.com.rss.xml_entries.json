@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jackson Chen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T18:12:32.086598+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T17:35:53+00:00",
+        "description": "<p>Just a day after receiving a roughly <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1\" class=\"no-affiliate-link\" href=\"https://www.engadget.com/big-tech/x-hit-with-140-million-fine-from-the-eu-161259324.html\">$140 million fine</a>, X has terminated the ad account of the European Commission. <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1\" class=\"no-affiliate-link\" href=\"https://x.com/nikitabier/status/1997450541275005041?s=20\">Nikita Bier</a>, X&#39;s head of product, accused the European Commission of using an exploit to artificially boost the reach of <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1\" class=\"no-affiliate-link\" href=\"https://x.com/EU_Commission/status/1996968219286904832?s=20\">its post announcing</a> the major fine.</p>\n<p>In the post, Bier said that the commission &quot;logged into [their] dormant ad account to take advantage of an exploit in our Ad Composer&quot; and posted &quot;a link that deceives users into thinki",
+        "id": 4262034,
+        "language": "en-US",
+        "link": "https://www.engadget.com/social-media/x-shuts-down-the-european-commissions-ad-account-the-day-after-major-fine-173553267.html?src=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 104,
+        "source_url": "https://www.engadget.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2Ff6d9dac0-d38c-11f0-9fcf-65770212f3e3&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=11b2c4c596f0877275572d1cd1a59c2f8d0e9d1d",
+        "title": "X shuts down the European Commission\u2019s ad account the day after major fine",
+        "vote": 0
+    }
+]

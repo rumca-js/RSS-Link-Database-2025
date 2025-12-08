@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Travis Pasch",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T15:41:07.024255+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T14:00:42+00:00",
+        "description": "<p><p><a href=\"https://spikeybits.com/wp-content/uploads/2024/05/warhammer-40k-combat-patrols-value-costs-hor-wal-2.png\"><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter wp-image-464276 size-full\" src=\"https://spikeybits.com/wp-content/uploads/2024/05/warhammer-40k-combat-patrols-value-costs-hor-wal-2.png\" alt=\"warhammer 40k combat patrols value costs hor wal 2\" width=\"1280\" height=\"720\"></a>Your New Year, new army guide to all the Warhammer 40k Combat Patrol box sets ranked by values, costs, and contents, broken</p>\n<a href=\"https://spikeybits.com/warhammer-40k-combat-patrol-guide/\">Read More</a>",
+        "id": 4261114,
+        "language": "en-US",
+        "link": "https://spikeybits.com/warhammer-40k-combat-patrol-guide",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 311,
+        "source_url": "https://spikeybits.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://spikeybits.com/wp-content/uploads/2024/05/warhammer-40k-combat-patrols-value-costs-hor-wal-2.png",
+        "title": "40k Combat Patrols Guide: Ranked By Contents & Values",
+        "vote": 0
+    }
+]

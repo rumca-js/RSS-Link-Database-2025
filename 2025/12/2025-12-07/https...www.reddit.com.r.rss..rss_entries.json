@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/macieklamberski",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T11:43:41.145527+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T11:23:45+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>For a few months now I&#39;ve been working on a fast and reliable feed parser for JavaScript. The project started because existing parsers either felt slow or merged everything into one universal structure, losing the original feed data along the way.</p> <p>So I built <strong>Feedsmith</strong>. It supports RSS, Atom, RDF, and JSON Feed, handles both popular and more exotic namespaces, and also does feed generation and OPML parsing/generation.</p> <p>You can check it out on <a href=\"https://github.com/macieklamberski/feedsmith\">GitHub</a> and <a href=\"https://npmjs.com/package/feedsmith\">NPM</a>.</p> <p>I also ran some benchmarks against other JS parsers and popular ones from Python, Ruby, Go, and PHP. Feedsmith tends to be among the fastest \u2014 results are in the repo as well.</p> <p>Would love to hear what you think and how I can improve it further!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/macieklamberski",
+        "id": 4259970,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1pgg4cv/fast_feed_parser_and_generator_for_javascript",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fast feed parser and generator for JavaScript",
+        "vote": 0
+    }
+]

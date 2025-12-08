@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T03:59:54.229964+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T03:25:45+00:00",
+        "description": "INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, Live Avatar, Gemini 3 Deep Think, Mistral 3 #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Flowith. Try FlowithOS for free. Comment below for your invite code! https://try.flowith.io/?utm_source=aisearch\n\nSources in order of mention:\nhttps://huggingface.co/microsoft/VibeVoice-Realtime-0.5B\nhttps://mcg-nju.github.io/steadydancer-web/\nhttps://kszpxxzmc.github.io/ViSAudio-project/\nhttps://app.pixverse.ai/\nhttps://runwayml.com/research/introducing-runway-gen-4.5\nKling O1 & 2.6 review: https://youtu.be/2IFMIkN2HaU\nhttps://github.com/Tencent-Hunyuan/HunyuanVideo-1.5\nHunyuan 1.5 tutorial https://youtu.be/6EQP8-D37bs\nhttps://huggingface.co/meituan-longcat/LongCat-Image\nhttps://github.com/AIDC-AI/Ovis-Image\nhttps://liveavatar.github.io/\nhttps://postercopilot.github.io/\nhttps://blog.google/products/gemini/gemini-3-deep-think/\nhttps://mistral.ai/news/mistral-3\nhttps://api-docs.deepseek.com/news/news251201\nhttps",
+        "id": 4258451,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=L4nus0PWsCw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L4nus0PWsCw/hqdefault.jpg",
+        "title": "New Deepseek, new top AI video & image models, Gemini 3 Deep Think, realtime TTS: AI NEWS",
+        "vote": 0
+    }
+]

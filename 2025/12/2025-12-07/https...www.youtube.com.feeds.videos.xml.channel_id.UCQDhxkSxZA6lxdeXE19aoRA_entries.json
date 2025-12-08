@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hugh Jeffreys",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T01:16:14.547128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T01:01:22+00:00",
+        "description": "Temped by the cheap LCD replacements on AliExpress I bought one to see if repairing a cheap broken MacBook Air is feasible.\n----------------------------------------iTest---------------------------------------\nEasily test hardware functionality and device specifications with iTest\nAndroid: https://play.google.com/store/apps/details?id=com.hughjeffreyssoftware.iTest\nIOS: https://apps.apple.com/us/app/itest/id6484069424\n--------------------------------------Socials-------------------------------------\nWebsite: https://www.hughjeffreys.com\nStore: https://www.hughjeffreys.com/store\nInstagram: http://instagram.com/hughjeffreys\nPatreon: https://www.patreon.com/hughjeffreys",
+        "id": 4257951,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zpvqnD_l4Sc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 145,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zpvqnD_l4Sc/hqdefault.jpg",
+        "title": "$200 M1 MacBook Air Screen Repaired The Hard Way - You Won\u2019t Find This In Apple's Repair Manual",
+        "vote": 0
+    }
+]

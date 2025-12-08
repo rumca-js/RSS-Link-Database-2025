@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T17:13:53.656270+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T17:00:01+00:00",
+        "description": "\ud83d\udc3b\u00a0Chc\u0119 dowiedzie\u0107\u00a0si\u0119\u00a0wi\u0119cej o rosyjskiej grupie APT pod kryptonimem Turla. Zwr\u00f3ci\u0142em si\u0119 wi\u0119c do mojego informatora w ESETcie, Tony\u2019ego Anscombe, aby odpowiedzia\u0142 na kilka moich pyta\u0144. \n \n\u0179r\u00f3d\u0142a:\n\ud83e\udd1d\u00a0Gamaredon X Turla collab\nhttps://www.welivesecurity.com/en/eset-research/gamaredon-x-turla-collab/\n\n\ud83d\udd75\ufe0f\u200d\u2640\ufe0f\u00a0ESET APT Activity Report Q2 2025\u2013Q3 2025\nhttps://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2025-q3-2025/\n\n\ud83d\udcc8\u00a0Cyberportret polskiego biznesu 2025\nhttps://in.eset.pl/cyberportret-polskiego-biznesu\n\n\ud83c\uddee\ud83c\uddf7\u00a0Iran-aligned BladedFeline spies on Iraqi and Kurdish officials, ESET Research discovers\nhttps://www.eset.com/us/about/newsroom/research/iran-aligned-bladedfeline-spies-on-iraqi-and-kurdish-officials-eset-research-discovers/\n \nRelevant xkcd: https://xkcd.com/1330/\n \n\u00a9 Wszystkie znaki handlowe nale\u017c\u0105 do ich prawowitych w\u0142a\u015bcicieli.\n\u2764\ufe0f Dzi\u0119kuj\u0119 za Wasz\u0105 uwag\u0119.\n \nZnajdziecie mnie r\u00f3wnie\u017c na:\nInstagramie @mateuszemsi https://www.instagram.com/mateuszemsi/ \nTwixxerze @Mat",
+        "id": 4261723,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=aPIzkmVWCUY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aPIzkmVWCUY/hqdefault.jpg",
+        "title": "Co tam u rosyjskich szpieg\u00f3w s\u0142ycha\u0107?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Inside Edition",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T14:08:07.669817+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T14:01:45+00:00",
+        "description": "Chess is a challenging game. Holding your breath for long periods underwater isn't easy either. Put the two together, and you've got one of the most difficult \u2013 and unusual \u2013 competitions out there. So-called \"Diving Chess\" was created in London in 2012, and has since spread to Germany, Poland, Austria and the Netherlands. An exhibition of the hybrid sport was held this week in Cape Town, South Africa, ahead of the Freestyle Chess Grand Slam Finals.",
+        "id": 4260633,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5nVEJTgqXlY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 719,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9k-yiEpRHMNVOnOi_aQK8w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5nVEJTgqXlY/hqdefault.jpg",
+        "title": "Underwater Chess Tournament Challenges The Brain And The Lungs",
+        "vote": 0
+    }
+]

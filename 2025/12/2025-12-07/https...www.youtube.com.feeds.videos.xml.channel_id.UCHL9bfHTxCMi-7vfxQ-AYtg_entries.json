@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Abroad in Japan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T14:45:36.980238+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T14:03:13+00:00",
+        "description": "We travel 400km across Shikoku to taste 6 mouthwatering dishes unique to the island.\n\ud83c\udf1fGrab the TABELOG app from here! https://tabelog-tourists.onelink.me/3eEh?af_xp=custom&pid=tabelog_tourists&c=inb_pr_inf_aij_shikoku\n\n\ud83c\udf1f\ud83c\udf1fOur Shikoku Restaurant List (in order of appearance):\ud83c\udf1f\ud83c\udf1f\n\ud83c\uddef\ud83c\uddf5 Shina Soba Wanwan Ken Hon Ten / Ramen / Tabelog 100\nhttps://tabelog.com/en/tokushima/A3603/A360303/36000071/?cid=inb_pr_inf_aij_shikoku\n\n\ud83c\uddef\ud83c\uddf5Yamagoe Udon / Udon / Tabelog 100\nhttps://tabelog.com/en/kagawa/A3702/A370202/37000080/?cid=inb_pr_inf_aij_shikoku\n\n\ud83c\uddef\ud83c\uddf5 Honetsukidori Ikkaku Dokigawa Ten / Chicken\nhttps://tabelog.com/en/kagawa/A3702/A370202/37000644/?cid=inb_pr_inf_aij_shikoku\n\n\ud83c\uddef\ud83c\uddf5 Myojin Maru Obiya Choten / Bonito\nhttps://tabelog.com/en/kochi/A3901/A390101/39005391/?cid=inb_pr_inf_aij_shikoku\n\n\ud83c\uddef\ud83c\uddf5 Sumirobata Komi Ya Matsuyama / Izakaya / Online Reservation\nhttps://tabelog.com/en/ehime/A3801/A380101/38016040/?cid=inb_pr_inf_aij_shikoku\n\n\ud83c\uddef\ud83c\uddf5Sushi Kawanaka / Sushi / Tabelog 100\nhttps://tabelog.com/en/ehime/A3801",
+        "id": 4260830,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6mm56crya-4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 903,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHL9bfHTxCMi-7vfxQ-AYtg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6mm56crya-4/hqdefault.jpg",
+        "title": "6 Must Try Foods on Japan\u2019s Most UNDERRATED Island",
+        "vote": 0
+    }
+]

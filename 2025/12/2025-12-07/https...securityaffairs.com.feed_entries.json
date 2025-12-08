@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pierluigi Paganini",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T15:43:45.800245+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T13:42:34+00:00",
+        "description": "Hundreds of Porsche cars in Russia became undrivable due to a malfunction in their factory-installed satellite security system, owners say. Hundreds of Porsche cars in Russia became undrivable after their factory-installed satellite security system malfunctioned, owners and dealers report. Drivers in several Russian cities reported sudden engine shutdowns and fuel-delivery blocks after Porsche cars lost [&#8230;]",
+        "id": 4261137,
+        "language": "en-US",
+        "link": "https://securityaffairs.com/185398/security/porsche-outage-in-russia-serves-as-a-reminder-of-the-risks-in-connected-vehicle-security.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 298,
+        "source_url": "https://securityaffairs.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/12/image-14.png?resize=522%2C770&ssl=1",
+        "title": "Porsche outage in Russia serves as a reminder of the risks in connected vehicle security",
+        "vote": 0
+    }
+]

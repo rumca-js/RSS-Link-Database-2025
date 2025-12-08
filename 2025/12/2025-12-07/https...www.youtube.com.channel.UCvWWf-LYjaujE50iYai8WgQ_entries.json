@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T08:30:20.296955+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T08:03:02+00:00",
+        "description": "Tech News Dec 7\n\u25b7 MY STORE - shirts, pint glasses & hoodies: http://paulshardware.net\n\u21e8 Sponsor: CORSAIR XENEON EDGE 14.5\" LCD Touchscreen | https://go.corsair.com/vP3deA\n\n\u25ba TIMESTAMPS\n0:00 Welcome to Paul\u2019s Tech News - December 7, 2025\n1:36 Memory Crisis - Micron Announces Exit from Crucial Consumer Business\n4:15 Motherboard sales down 50%, GPU Price Increases, Crazy RAM Trades\n6:07 AMD Ryzen 7 9850X3D Appears Legit, has 120W TDP per shipping manifests\nTECH BRIEFS\n7:26 AMD isn't increasing prices on CPUs, at least for now\n7:57 Nvidia CFO admits the $100 billion OpenAI megadeal \u2018still\u2019 isn\u2019t signed\n8:38 Epic CEO Furious That Steam Is Labeling Games With AI-Generated Assets\n9:24 Google's Agentic AI wipes user's entire HDD without permission\n\n\u25ba LINKS\nMemory Crisis - Micron Announces Exit from Crucial Consumer Business\nhttps://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/ \nhttps://investors.micron.com/news-releases/news-release-details/",
+        "id": 4259275,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KB7BXuZp9r0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KB7BXuZp9r0/hqdefault.jpg",
+        "title": "Losing our Memory",
+        "vote": 0
+    }
+]

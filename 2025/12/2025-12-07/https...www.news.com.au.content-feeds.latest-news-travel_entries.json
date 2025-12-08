@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T06:10:37.343706+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T06:10:36+00:00",
+        "description": "If this popular international adventure is on your bucket list, you\u2019re in luck. There is a new way to fly direct from Australia.",
+        "id": 4258792,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-advice/flights/qantas-nonstop-flights-take-off-from-perth-to-johannesburg-south-africa-and-auckland-new-zealand/news-story/9686acb2e0204d85d03578ca0bd071d0?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/2ca15f9fb5769a665884f1895fae5f9b?width=320",
+        "title": "Qantas launches new route to meet demand",
+        "vote": 0
+    }
+]

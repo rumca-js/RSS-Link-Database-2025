@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuokka77",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-07T12:11:20.551663+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-07T11:05:55+00:00",
+        "description": "\"Glow Bug\" (1995) by Basehead/Five Musicians. Borrows heavily from SuperNao's \"Sound Traveller\" 4ch Amiga mod. To the point that this could be considered a more evolved version in ScreamTracker format despite having a different title.\nAmiga art \"Stasis (WIP)\" by Jok/Dreamweb, 4th at Decrunch 2023 Amiga pixel gfx compo.\n\nScreamTracker 3.21 and GUS MAX 1.8 hardware mixed.",
+        "id": 4260059,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6w98SCOVqMw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 180,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6w98SCOVqMw/hqdefault.jpg",
+        "title": "ScreamTracker music: Basehead - Glow Bug (GUS MAX)",
+        "vote": 0
+    }
+]
