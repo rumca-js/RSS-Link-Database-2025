@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T16:30:09.734785+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T16:00:23+00:00",
+        "description": "Climate change isn't just reshaping our planet \u2014 it's also shaking the very foundations of the economy, says sustainability expert Edmond Rhys Jones. He explores the massive gap between what science tells us about the climate crisis and how the economy measures its impact, advocating for economists to borrow tools from science (like simulations and digital twins) to prepare for the turbulence ahead. (Recorded at TED@BCG on October 23, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: https://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe t",
+        "id": 4266535,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7onAN_t68t0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7onAN_t68t0/hqdefault.jpg",
+        "title": "How Climate Shocks Could Break the Economy | Edmond Rhys Jones | TED",
+        "vote": 0
+    }
+]

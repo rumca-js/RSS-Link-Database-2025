@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T12:50:19.957556+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T09:04:56+00:00",
+        "description": "<p><em>Instead of one long row of tiny tabs, Workspaces in Vivaldi let you keep related tabs together as projects, and sync those setups across your devices when you need them.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/12/how-vivaldi-workspaces-turn-tabs-into-organized-projects/\">How Vivaldi Workspaces Turn Tabs Into Organized Projects</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4264226,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/12/how-vivaldi-workspaces-turn-tabs-into-organized-projects",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How Vivaldi Workspaces Turn Tabs Into Organized Projects",
+        "vote": 0
+    }
+]

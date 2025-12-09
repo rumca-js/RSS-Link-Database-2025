@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T14:02:32.011484+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T12:45:19+00:00",
+        "description": "Tak, menad\u017cer w firmie dostarczaj\u0105cej narz\u0119dzia wywiadowcze sprzedawa\u0142 sekrety Rosjanom. Chcesz wiedzie\u0107 wi\u0119cej? Short to fragment filmu: \"Ciemna strona bran\u017cy Cybersecurity\" \ud83d\udc47\nhttps://zurl.co/Ff3yD\n#cyberbezpiecze\u0144stwo #cybersecurity",
+        "id": 4265784,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/ll2HrbhfkRM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ll2HrbhfkRM/hqdefault.jpg",
+        "title": "\ud83d\udcb0 Sekrety warte 30 milion\u00f3w dolar\u00f3w",
+        "vote": 0
+    }
+]

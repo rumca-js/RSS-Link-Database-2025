@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Corridor Crew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T17:52:02.826177+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T17:01:33+00:00",
+        "description": "Paul Thomas Anderson\u2019s Magnolia came out in 1999. That is, more than 25 years ago. Still, it has one of the most flawless VFX shots that still holds up to this day, when, at the end of the movie, it suddenly just starts raining frogs.\nTo bring it to an incredible level of realism, the VFX team mixed practical and CGI effects in collaboration with ILM.\n\nDo you agree that it still holds up to this day?",
+        "id": 4267855,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/oQNJI267GsM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 710,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oQNJI267GsM/hqdefault.jpg",
+        "title": "Don't you hate it when it just starts RAINING FROGS?",
+        "vote": 0
+    }
+]

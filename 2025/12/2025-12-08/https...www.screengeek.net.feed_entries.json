@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jacob Dressler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T18:44:11.683575+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T18:03:17+00:00",
+        "description": "<p>Netflix has been making cuts once again with several new shows canceled, including one original series that recently had its second season released. While fans enjoyed the series, it seems as though viewership numbers dropped by its second season, convincing Netflix to cancel the title after two seasons. Fans already suspected that the series was [...]</p>\n<p>The post <a href=\"https://www.screengeek.net/2025/12/08/netflix-cancels-original-series-after-two-seasons/\">Netflix Cancels Original Series After Two Seasons</a> appeared first on <a href=\"https://www.screengeek.net\">ScreenGeek</a>.</p>",
+        "id": 4268272,
+        "language": "en-US",
+        "link": "https://www.screengeek.net/2025/12/08/netflix-cancels-original-series-after-two-seasons",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 297,
+        "source_url": "https://www.screengeek.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Netflix Cancels Original Series After Two Seasons",
+        "vote": 0
+    }
+]

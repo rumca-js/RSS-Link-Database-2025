@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T16:48:29.179581+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T15:07:12+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack to Basics: How to Refactor C++ Code - Amir Kirsh\n---\n\nWriting C++ code is one thing, keeping it clean, readable and maintainable over time is another. In this talk, we'll review the basics of refactoring C++ code, focusing on strategies to improve code clarity, reduce duplication, and make your code easier to maintain. You'll learn how to identify code smells, recognize when refactoring is needed, and apply techniques to improve readability. We will also explore how to modernize your code by leveraging new C++ features when relevant, ensuring that your code not only adheres to best practices but is also aligned with the evolving standards of the language. Participants will gain practical knowledge on how to refactor C++ code to enhance clarity, reduce complexity, and improve long-term maintainability, a skill that becomes even more essential as AI starts generating parts of our codebase. This talk is part of the Back to Basics track and is designed for C+",
+        "id": 4266994,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jDpvZtdGpj8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jDpvZtdGpj8/hqdefault.jpg",
+        "title": "Back to Basics: How to Refactor C++ Code - Amir Kirsh",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Wolfgang's Channel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T17:17:14.877596+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T15:13:01+00:00",
+        "description": "Get 10% off your Hostinger VPS on top of the Black Friday discount pricing by using the code WOLFGANG! https://hostinger.com/wolfgang\n\nFollow me:\nMastodon https://tilde.zone/@notthebee\nGitHub https://github.com/notthebee\nTwitch https://twitch.com/notthebeee\n\nSupport the channel:\nPatreon https://patreon.com/WolfgangsChannel\nYouTube Members https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg/join\nKo-fi (one time donation) https://ko-fi.com/wolfgangschannel\n\nVideos are edited with Davinci Resolve Studio. I use Affinity Photo for thumbnails and Ableton Live for audio editing.\n\nVideo gear:\nCamera https://geni.us/IdnhpP (Amazon)\nMain lens https://geni.us/MF3Ej (Amazon)\nSecondary camera https://geni.us/aQ3l (Amazon)\nSecondary lens https://geni.us/jh0Oy7Y (Amazon)\nMicrophone https://geni.us/tgiSqL (Amazon)\nKey light https://geni.us/Gi1zE2 (Amazon)\nSoftbox https://geni.us/F86pM (Amazon)\nSecondary light https://geni.us/aciv (Amazon)\n\nOther stuff that I use:\nMonitor https://geni.us/Ybk1UL (",
+        "id": 4267252,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UtMGnpdqBKw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 912,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UtMGnpdqBKw/hqdefault.jpg",
+        "title": "How to Build a Home Server in 2026 (without going insane)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hank Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T22:37:23.407723+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T21:55:41+00:00",
+        "description": "Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link.\n\nYou might guess that I'm a little apprehensive about this one. Any amount of \"actually this might not be the most important thing to focus on\" can be interpreted these days as an unacceptable defense of AI or whatever, but I just felt like it was a good opportunity to talk about lifecycle and resources use analysis and how freaking tricky the are!!\n\nEdited by me and Aves: https://bsky.app/profile/avesmhl.com",
+        "id": 4270063,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=H_c6MWk7PQc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H_c6MWk7PQc/hqdefault.jpg",
+        "title": "I Know Why Lying about AI Water Use is So Easy",
+        "vote": 0
+    }
+]

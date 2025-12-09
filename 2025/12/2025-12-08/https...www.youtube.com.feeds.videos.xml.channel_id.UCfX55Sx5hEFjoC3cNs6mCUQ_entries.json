@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T16:59:53.700534+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T16:45:08+00:00",
+        "description": "@Christopher Tineo is here with a reminder: Cyber Week brings the biggest deals of the year. \n\nIf you're ready to grow your skills and open new career opportunities, now\u2019s the moment to jump in.\n\nCyber Week ends tomorrow! Enroll today: https://hubs.la/Q03V4RL70\n\n\u2733\ufe0f BONUS! Get a US$100 gift voucher to use for courses & certifications in 2026! \n\n#CyberWeek #CloudNative #SysAdmin #DevOps #Engineer #Kubernetes #Developers #CyberMonday #LFCS #CKA #FSOSD",
+        "id": 4267145,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/sDItj44LMZY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sDItj44LMZY/hqdefault.jpg",
+        "title": "Christopher Tineo is here with a reminder: Cyber Week brings the biggest deals of the year.",
+        "vote": 0
+    }
+]

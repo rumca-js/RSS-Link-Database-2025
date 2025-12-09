@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/TrickTomato9559",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T12:18:56.239287+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T01:55:49+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1ph04lb/yeah/\"> <img src=\"https://external-preview.redd.it/obAyUBig8vlkp8ciOYinRhE-RM6HgtGv9_cjtC_3DOQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09349636f6cf45ccbd82df587e4a86f001432dcc\" alt=\"yeah..\" title=\"yeah..\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TrickTomato9559\"> /u/TrickTomato9559 </a> <br/> <span><a href=\"https://jeffreyepstein.club/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1ph04lb/yeah/\">[comments]</a></span> </td></tr></table>",
+        "id": 4262333,
+        "language": "en",
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1ph04lb/yeah",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/obAyUBig8vlkp8ciOYinRhE-RM6HgtGv9_cjtC_3DOQ.jpeg?width=640&crop=smart&auto=webp&s=09349636f6cf45ccbd82df587e4a86f001432dcc",
+        "title": "yeah..",
+        "vote": 0
+    }
+]

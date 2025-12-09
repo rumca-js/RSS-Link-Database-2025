@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T16:08:01.222989+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T15:40:07+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">The DC-ROMA II is the fastest RISC-V laptop and is odd</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/dc-roma-ii-framework-external-display.jpeg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-db6c1937-e562-41a5-8793-a7b0a17d1d39\" data-insert-attach=\"{&quot;id&quot;:&quot;db6c1937-e562-41a5-8793-a7b0a17d1d39&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Framework 13 DC-ROMA II DeepComputing Laptop with external HDMI display\"></p>\n\n<p>Inside this <a href=\"https://frame.work/laptop13\">Framework 13</a> laptop is a special mainboard developed by DeepComputing in collaboration with Framewo",
+        "id": 4266478,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/dc-roma-ii-fastest-risc-v-laptop-and-odd",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/dc-roma-ii-framework-external-display.jpeg",
+        "title": "The DC-ROMA II is the fastest RISC-V laptop and is odd",
+        "vote": 0
+    }
+]

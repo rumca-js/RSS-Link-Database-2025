@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Choobeen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T21:41:29.312144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T20:42:15+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>An increasing number of threat actors have been attempting to exploit the critical vulnerability found recently in React, the popular open source library for creating application user interfaces.</p> <p>The vulnerability, dubbed React2Shell and officially tracked as CVE-2025-55182, can be exploited using specially crafted HTTP requests for unauthenticated remote code execution. The flaw impacts systems that use React version 19, specifically instances that leverage React Server Components (RSC).</p> <p>The existence of the vulnerability came to light on December 3, when patches were released by React maintainer Meta, which learned about the issue on November 29 from researcher Lachlan Davidson.</p> <p>In addition to React itself, CVE-2025-55182 impacts other frameworks that rely on it, including Next.js, Waku, React Router, and RedwoodSDK.</p> <p>More details are inside the link.</p> <p>December 8, 2025</p> <p>Prior report: <a href=\"https://www.securi",
+        "id": 4269575,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1phnp5f/exploitation_of_react2shell_surges",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Exploitation of React2Shell Surges",
+        "vote": 0
+    }
+]

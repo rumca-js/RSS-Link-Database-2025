@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T16:59:33.343266+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T15:49:33+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nNintendo didn't release Metroid Prime 4 Switch 1 review code to journalists, so how does it stack up against Switch 2? Rich does some digging. Meanwhile, the team lament the end of the iconic Crucial RAM, but there's better news about the return of some kind of 32-bit PhysX support for RTX 50-series GPUs. Oliver talks Sonic Racing Crossworlds on Switch 2, John's impressed by TimeSplitters Rewind - and just how bad have things got for HDR support in video games?\n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n0:00:00 Introduction \n0:00:55 News 1: Metroid Prime 4 tested on Switch 1! \n0:29:22 News 2: Micron kills Crucial RAM \n0:39:29 News 3: Nvidia partially brings back 32 bit PhysX for 50 series \n0:45:34 News 4: Sonic Rac",
+        "id": 4267142,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VG2xDC1ZjOc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VG2xDC1ZjOc/hqdefault.jpg",
+        "title": "DF Direct Weekly #243: Metroid Prime Switch 1 vs 2, The Witcher 4-6, Crucial RAM Dead, 32-bit PhysX!",
+        "vote": 0
+    }
+]

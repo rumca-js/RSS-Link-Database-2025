@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T16:59:53.246363+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T15:04:12+00:00",
+        "description": "Be the first to see my new documentary feature Oldest and Newest Places On Earth on Nebula December 12th! Sign up at http://www.nebula.tv/joescott and get 50% off your annual subscription.\n\nYou\u2019re not crazy. There really aren\u2019t as many bugs as there used to be. And it\u2019s kind-of a big problem. But is it an apocalypse? Let\u2019s take a look.\n\nWant to support the channel? Here's how:\n\nPatreon: http://www.patreon.com/answerswithjoe\nChannel Memberships: https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg/join\nT-Shirts & Merch: https://laughsmarter.com\n\nCheck out my 2nd channel, Joe Scott TMI:\nhttps://www.youtube.com/channel/UCqi721JsXlf0wq3Z_cNA_Ew\n\nAnd my podcast channel, Conversations With Joe:\nhttps://www.youtube.com/channel/UCJzc7TiJ2nnuyJkUpOZ8RKA\n\nYou can listen to my podcast, Conversations With Joe on Spotify, Apple Podcasts, Google Podcasts, or wherever you get your podcasts.\nSpotify \ud83d\udc49 https://spoti.fi/37iPGzF\nApple Podcasts \ud83d\udc49 https://apple.co/3j94kfq\nGoogle Podcasts \ud83d\udc49 https://bit",
+        "id": 4267144,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=lYWk7dh40VI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lYWk7dh40VI/hqdefault.jpg",
+        "title": "The Coming Bug Apocalypse",
+        "vote": 0
+    }
+]

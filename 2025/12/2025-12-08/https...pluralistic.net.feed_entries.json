@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T13:46:38.583747+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T13:01:31+00:00",
+        "description": "Today's links Elon Musk's Blue Tick scam: The EU bans giant teddybears. Hey look at this: Delights to delectate. Object permanence: Denver bomb squad vs 8\" toy robot; Iceland's atheist religion; Largest strike in human history; Ad-tech is a bubble; Battery rationality; Pasta carpet; \"With a Little Help\"; Crooked Timber on Pikett; Tiki-mug menorah; China vs Big Data-backstabbing. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Elon Musk's Blue Tick scam (permalink) In my book Enshittification, I develop the concept of \"giant teddybears,\" a scam that has been transposed from carnival midway games to digital platforms. The EU has just fined Elon Musk $140m for running a giant teddybear scam on Twitter: https://arstechnica.com/tech-policy/2025/12/elon-musks-x-first-to-be-fined-under-eus-digital-service-act/ Growing up, August 15",
+        "id": 4265589,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/12/08/giant-teddybears",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/08Dec2025.jpg?w=840&ssl=1",
+        "title": "Pluralistic: Elon Musk's Blue Tick scam (08 Dec 2025)",
+        "vote": 0
+    }
+]

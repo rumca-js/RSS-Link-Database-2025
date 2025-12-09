@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Miles Bryan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T12:25:59.614007+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A child in a pink hat holds two handmade anti-data center signs at a protest.\" data-caption=\"Residents of Saline, Michigan, rally against a $7 billion Stargate data center on December 1, 2025. | Jim West/UCG/Universal Images Group via Getty Images\" data-portal-copyright=\"Jim West/UCG/Universal Images Group via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2249621488.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tResidents of Saline, Michigan, rally against a $7 billion Stargate data center on December 1, 2025. | Jim West/UCG/Universal Images Group via Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">For more than a century, the Conshohocken steel mill in suburban Philadelphia employed thousands of people and anchored a booming industrial economy. But the original owner went bankrupt in the 1970s, after which the facility limped on with a successio",
+        "id": 4262541,
+        "language": "",
+        "link": "https://www.vox.com/technology/471138/ai-data-centers-electricity-prices-populist-backlash-explained",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2249621488.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "America\u2019s war on data centers is coming",
+        "vote": 0
+    }
+]

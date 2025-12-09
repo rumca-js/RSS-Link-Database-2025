@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T12:34:27.651690+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T12:34:27+00:00",
+        "description": "All eyes are on Queensland, as Qantas unveils a new route out of the sunshine state not used by the carrier in half a decade.",
+        "id": 4263005,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-advice/flights/qantas-unveils-new-international-route-from-an-aussie-airport-not-used-for-overseas-in-half-decade/news-story/419d445a767e3aa850c1ac13991750e8?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/daf52d3d211263eb771221fab342e4c1?width=320",
+        "title": "Qantas unveils new overseas Aus route",
+        "vote": 0
+    }
+]

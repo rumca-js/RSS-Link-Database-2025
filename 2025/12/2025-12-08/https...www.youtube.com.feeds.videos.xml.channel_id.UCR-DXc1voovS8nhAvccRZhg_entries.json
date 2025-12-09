@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T16:07:40.386686+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T15:00:52+00:00",
+        "description": "It's a Framework 13, but there's no ordinary CPU inside...\n\nResources I mentioned in this video:\n\n  - DeepComputing DC-ROMA II: https://store.deepcomputing.io/products/dc-roma-ai-pc-risc-v-mainboard-ii-for-framework-laptop-13\n  - All my benchmarking data: https://github.com/geerlingguy/sbc-reviews/issues/82\n  - Framework 13 with AMD Ryzen AI 5 340: https://frame.work/laptop13\n  - SemiTO-V RP2350 GPIO Expansion Module: https://github.com/semitov/rp2350-gpio-card\n  - SemiTO-V MCL Python to MicroPython tool: https://github.com/semitov/SemiTOV-MCL\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - This is not a Framework\n01:49 - Hardware\n04:02 - Strange architecture, seen before\n04:44 - RISC-V in a strange place right now\n05:28 - How is it as a laptop?\n07:18 ",
+        "id": 4266473,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=OkFfTK8S00c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OkFfTK8S00c/hqdefault.jpg",
+        "title": "This is not a Framework Laptop",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T23:36:59.285508+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T23:13:43+00:00",
+        "description": "<p>Juli Clover, writing at MacRumors (via a <a href=\"https://www.reuters.com/sustainability/boards-policy-regulation/eu-court-rules-dutch-courts-can-handle-anti-trust-case-against-apples-app-store-2025-12-02/\">report at Reuters</a>):</p>\n\n<blockquote>\n  <p>Apple could ultimately have to pay up to an estimated 637 million\neuros to address the damage suffered by 14 million iPhone and iPad\nusers in the Netherlands.</p>\n</blockquote>\n\n<p>That\u2019s about \u20ac45/user.</p>\n\n<blockquote>\n  <p>The lawsuit dates back to 2022, when two Dutch consumer\nfoundations (Right to Consumer Justice and App Store Claims)\naccused Apple of abusing its dominant market position and charging\ndevelopers excessive fees. The lawsuit was filed on behalf of\nDutch iPhone and iPad users, and it claimed that Apple\u2019s 30\npercent commission inflated prices for apps and in-app purchases.</p>\n</blockquote>\n\n<p>I\u2019m curious what these consumer foundations would consider a \u201cfair\u201d (and thus legal) commission rate.</p>\n\n<p>This all co",
+        "id": 4270495,
+        "language": "",
+        "link": "https://www.macrumors.com/2025/12/02/dutch-app-store-antitrust-case-proceeds",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EU Court Rules That Apple Must Face Dutch Antitrust Lawsuit Regarding App Store Commission Rates",
+        "vote": 0
+    }
+]

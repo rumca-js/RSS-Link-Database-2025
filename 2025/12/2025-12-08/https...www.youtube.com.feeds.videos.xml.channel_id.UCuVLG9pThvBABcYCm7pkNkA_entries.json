@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Climate Town",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T18:57:02.793236+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T17:51:24+00:00",
+        "description": "#sponsored With holiday food shopping ramping up, here\u2019s a cozy little reminder that the 'expiration dates' on your groceries are not actually indicators for when your food goes bad. They're legally required to be on food, and it's causing our nation's moms to throw out perfectly good food. The best way to determine if it's still good is a simple sniff test, but ultimately just focusing on eating all the food you have is the secret code to being more sustainable. Plus, it keeps a bunch of dangerous gases out of our atmosphere. For more easy tips on cutting down food waste this season, check out one of Climate Changemakers\u2019 hours of action: https://www.climatechangemakers.org/events-and-teams",
+        "id": 4268504,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/pc64L0fvGL4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 71,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pc64L0fvGL4/hqdefault.jpg",
+        "title": "Expiration Dates Are Fake",
+        "vote": 0
+    }
+]

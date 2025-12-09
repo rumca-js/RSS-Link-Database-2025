@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paulina Rowi\u0144ska",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T14:58:11.319860+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T14:48:38+00:00",
+        "description": "A newly proposed explanation for the slipperiness of ice has revived a centuries-long debate.            <p>The post <a href=\"https://www.quantamagazine.org/why-is-ice-slippery-a-new-hypothesis-slides-into-the-chat-20251208/\" target=\"_blank\">Why Is Ice Slippery? A New Hypothesis Slides Into the Chat.</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 4266320,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/why-is-ice-slippery-a-new-hypothesis-slides-into-the-chat-20251208",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/12/IcesSlipperiness-cr-MarcusLindstrom-Default.webp",
+        "title": "Why Is Ice Slippery? A New Hypothesis Slides Into the Chat.",
+        "vote": 0
+    }
+]

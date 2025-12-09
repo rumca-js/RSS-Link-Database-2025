@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ubisoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T17:24:35.127406+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T17:01:45+00:00",
+        "description": "\u2022 Face terrifying hellhounds that can stun you, or self-detonate to bring you down.\n\u2022 Defeat intimidating Ash-empowered RDA units, carrying RPGs or deadly flamethrowers.\n\u2022 Fight highly trained soldiers, equipped with Skel suits.",
+        "id": 4267301,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/wesrIkJMsUM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 763,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0KU8F9jJqSLS11LRXvFWmg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wesrIkJMsUM/hqdefault.jpg",
+        "title": "The RDA are back, and more lethal than ever \ud83d\udd25",
+        "vote": 0
+    }
+]

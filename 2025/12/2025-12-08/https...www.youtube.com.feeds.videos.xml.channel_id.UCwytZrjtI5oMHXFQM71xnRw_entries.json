@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T23:43:07.764962+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T23:15:03+00:00",
+        "description": "Jellied eels, chippy teas, whats next, beans on toast? British food is too far gone.\n\nprevious video: https://www.youtube.com/watch?v=ShfiZFfqaeU\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 4270552,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RD9c0ZWcYkw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RD9c0ZWcYkw/hqdefault.jpg",
+        "title": "British Food is an Absolute Nightmare",
+        "vote": 0
+    }
+]

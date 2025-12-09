@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T17:13:52.384119+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T16:28:28+00:00",
+        "description": "The man who designed the iPhone is now trying to kill it.\n\nLegendary Apple designer Jony Ive is collaborating with OpenAI\u2019s Sam Altman on a new AI native device aimed at reducing screen time and simplifying tasks.\n\nEarly reports describe a minimal, possibly screenless form factor, relying on conversational agents rather than traditional apps.\n\nIf successful, this project could redefine personal computing and challenge the dominance of smartphones for the first time in over a decade.\n\n\ud83d\udc49Hear the full breakdown on The Slidebean Stand-Up; streaming now on Spotify, Apple Podcasts, and all major podcast platforms.",
+        "id": 4267242,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/kEDYvNjZN2U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kEDYvNjZN2U/hqdefault.jpg",
+        "title": "The iPhone\u2019s designer wants to replace the iPhone",
+        "vote": 0
+    }
+]

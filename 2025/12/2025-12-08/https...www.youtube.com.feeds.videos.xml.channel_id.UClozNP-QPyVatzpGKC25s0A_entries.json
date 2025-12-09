@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T14:22:55.575177+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T13:57:48+00:00",
+        "description": "NEW COURSES: http://bradsartschool.com\nM5 Macbook Pro: https://amzn.to/3Mmm60A (affiliate link)\n\nOn my Blender video's I will occasionally get comments about how real 3d artists would never use a Mac. And I was curious? How does Blender run on a higher end M5 Macbook Pro? Where does it start to not run as well?\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradsartschool.com\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 4265898,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=X34dcVp6McE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X34dcVp6McE/hqdefault.jpg",
+        "title": "Can You Really Run Blender on a Mac?",
+        "vote": 0
+    }
+]

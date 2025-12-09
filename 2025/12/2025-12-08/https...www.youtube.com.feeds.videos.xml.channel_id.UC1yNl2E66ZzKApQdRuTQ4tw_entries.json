@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T17:12:48.892824+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T16:00:56+00:00",
+        "description": "Learn faster and retain more with Recall. Use my code \"Sabine25\" and go to https://www.getrecall.ai/?t=sabine for 25% off a Recall subscription that is valid until January 1, 2026.\n\nA group of scientists claim that the origin of life for complex organisms on Earth might have occurred not once, but twice. This challenges our current understanding of early evolution and the biological history of our planet. However, their findings have been rather controversial. Let's have a look at the evidence. \n\nPaper 1 here: https://www.nature.com/articles/s41467-025-59760-9\nPaper 2 here: https://www.nature.com/articles/s41598-025-04512-4\n\n\ud83d\udc55T-shirts, mugs, posters and more: \u279c https://sabines-store.dashery.com/\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 ",
+        "id": 4267236,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SSjiecPF3QE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SSjiecPF3QE/hqdefault.jpg",
+        "title": "New Fossils Suggest That Life On Earth Started Twice",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-08T12:14:57.450146+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-08T12:14:55+00:00",
+        "description": "Sp\u00f3\u0142ki energetyczne szykuj\u0105 si\u0119 na obni\u017cenie wa\u017cnej sk\u0142adowej taryfy za przesy\u0142 energii. Sp\u00f3\u0142ki roboczo szykuj\u0105 si\u0119 na obni\u017cenie tzw. wsp\u00f3\u0142czynnika WACC poni\u017cej 10 proc. Najbardziej mo\u017ce ucierpie\u0107 PGE. Enea, Tauron Energa podkre\u015blaj\u0105, \u017ce s\u0105 ch\u0119tne do rozm\u00f3w o zmianie wyliczenia taryf, ale pod warunkami.",
+        "id": 4262319,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/elektroenergetyka/art43469541-wkrotce-final-losow-dystrybucji-spolki-gotowe-do-rozmow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wkr\u00f3tce fina\u0142 los\u00f3w dystrybucji. Sp\u00f3\u0142ki gotowe do rozm\u00f3w",
+        "vote": 0
+    }
+]
