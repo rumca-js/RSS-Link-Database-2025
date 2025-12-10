@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T20:32:08.481031+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T19:19:40+00:00",
+        "description": "Thanks to AMD for keeping this series going and sponsoring this video! Check out their latest offerings at https://lmg.gg/f6PMg\n\nHead over to https://bit.ly/4pOt0Kt to win one of the THREE gaming desktops powered by AMD Ryzen 7 9800X3D!\n\nJames Scott's life was turned upside down last year after he was diagnosed. But he's received a clean bill of health AND a $5000 bill from AMD. His upgrade has a new Ryzen 9800X3D, a 9070 XT, so much Yu-Gi-Oh, and even some sick music gear. \n\nDiscuss on the forum: https://linustechtips.com/topic/1628296-he-upgraded-to-cancer-free-amd-5000-ultimate-tech-upgrade/\n\nCheck out the stuff from James's upgrade! \n\nAMD Ryzen 7 9800X3D CPU: https://geni.us/BB3iKKY\nKingston Fury 32GB DDR5 RAM: https://geni.us/3Ecgy\nMSI MAG B850 Tomahawk MAX WiFi Motherboard: https://geni.us/17OB3k\n ASUS Prime Radeon RX 9070 XT OC Edition: https://geni.us/0IAu\n Keychron K10 HE Wireless Hall Effect Keyboard: https://geni.us/axfVeo\nFocusrite Scarlett 2i2 Audio Interface: https://gen",
+        "id": 4278491,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zn47dYvqHlA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zn47dYvqHlA/hqdefault.jpg",
+        "title": "He Upgraded to Cancer-Free - AMD $5000 Ultimate Tech Upgrade",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T19:02:30.470119+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T18:41:04+00:00",
+        "description": "Try Rocket Money for free: http://www.RocketMoney.com/bellular #rocketmoney #personalfinance. Sponsored by Rocket Money. \n\n$80 games dominate the headlines. The data on what players actually buy tells a different story.\n\n00:00 - About Those Price Hikes...\n00:30 - The Fears Of Expensive Games\n03:32 - Project Twenty Dollars\n06:09 - \"Buying\" Video Games\n10:06 - The Paradox Of Value\n12:01 - How We Talk About Game Prices",
+        "id": 4277544,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XigPD8BCkho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XigPD8BCkho/hqdefault.jpg",
+        "title": "Game Prices Are Collapsing: Publishers Were Wrong",
+        "vote": 0
+    }
+]

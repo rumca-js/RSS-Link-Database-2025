@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T16:23:16.311894+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T15:02:08+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nAgentic Debugging Using Time Travel - Greg Law - ACCU York\n---\n\nEveryone knows that debugging is twice as hard as writing the code in the first place. With the new generation of time travelling debuggers it doesn't have to be that way! Time travel lets you see exactly what your program did: full memory + registers for every line that executed. There are open-source and commercial products available today for C++ that work with code at scale.\n\n---\n\nGreg Law\n\nGreg is the founder of Undo. He is a coder at heart, but likes to bridge the gap between the business and software worlds.\n\nGreg has 20 years\u2019 experience in the software industry and has held development and management roles at companies including the pioneering British computer firm Acorn, as well as fast-growing start ups, NexWave and Solarflare. Greg has overseen the company as it transitioned from his garden shed to a scaling, award-winning business.\n\nGreg holds a PhD from City",
+        "id": 4276282,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Hn7vihunjSk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hn7vihunjSk/hqdefault.jpg",
+        "title": "Agentic Debugging Using Time Travel - Greg Law - ACCU York",
+        "vote": 0
+    }
+]

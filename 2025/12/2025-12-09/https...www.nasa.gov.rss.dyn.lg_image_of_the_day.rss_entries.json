@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T19:43:02.011545+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T18:24:00+00:00",
+        "description": "A flash of lightning, and then\u2014something else. High above a storm, a crimson figure blinks in and out of existence. If you see it, you are a lucky witness of a sprite, one of the least-understood electrical phenomena in Earth\u2019s upper atmosphere.",
+        "id": 4278112,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/nasa-december-2025-3456x2234",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sprites Over Ch\u00e2teau de Beynac",
+        "vote": 0
+    }
+]

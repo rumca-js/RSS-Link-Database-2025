@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T23:16:35.601523+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T22:40:48+00:00",
+        "description": "A satellite just found enough lithium for 70 million electric cars by accident.\n\nFleet Space, an Australian company, pointed satellites at Quebec and used AI to reinterpret geology miners thought they already understood.\n\nThey didn\u2019t discover new land, they discovered we\u2019d been reading the maps wrong.\nThe AI found patterns showing 3\u00d7 more lithium under Quebec than previous estimates.\n\nAnd it took weeks, not years of digging.\n\nNow this tech is being aimed at other regions\u2026 meaning the next lithium boom might come from data, not drills.\n\nWe recently visited the Lithium Triangle, the most valuable land in the continent, go watch that episode on the youtube channel",
+        "id": 4279849,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/S90SxOOnbjs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/S90SxOOnbjs/hqdefault.jpg",
+        "title": "AI + satellites just found a massive hidden lithium reserve.",
+        "vote": 0
+    }
+]

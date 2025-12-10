@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T19:16:09.239947+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T18:00:55+00:00",
+        "description": "Go to Complexly.store to support Complexly this holiday season!\n\n\nGreen, black, herbal, with milk, in a bag, cold brewed... the ways to make tea are endless. And depending on whether you drink it for the caffeine, health boost, nostalgia, or whatever other reason, your tea might look totally different from someone else's. Yes, researchers have investigated the best tea for each of those scenarios.\n\nHosted by: Reid Reimers (he/him)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jp Lynch, J.V. Rosenbalm, Cye Stoner, Chris Curry, Bethany Matthews, David Johnston, Steve Gums, Kevin Knupp, Kevin Bealer, Matt Curls, Joseph Ruf, Alan Wong, Eric Jensen, Jaap Westera, Gar",
+        "id": 4277586,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jeTiNaEuiWA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jeTiNaEuiWA/hqdefault.jpg",
+        "title": "You\u2019re Steeping Your Tea Too Long",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Screen Junkies",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T19:13:29.176574+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T18:01:08+00:00",
+        "description": "The Honest Trailer for Stranger Things Season 5 is here, doled out in 3 parts to keep your Netflix subscription active for one more month!\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert and Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Video Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #trailer #strangerthings",
+        "id": 4277553,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=sDTjlkt79O4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 296,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sDTjlkt79O4/hqdefault.jpg",
+        "title": "Honest Trailers | Stranger Things S5 (Part 1)",
+        "vote": 0
+    }
+]

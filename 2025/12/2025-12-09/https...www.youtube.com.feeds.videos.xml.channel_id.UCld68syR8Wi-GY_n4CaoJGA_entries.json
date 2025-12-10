@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T17:47:53.105171+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T16:30:12+00:00",
+        "description": "Recently Cloudflare had another outage, that makes it 2 times in 2 weeks so there's clearly something doing very at Cloudflare and this time whilst it wasn't as bad it did cause a massive outage\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nCloudflare November: https://blog.cloudflare.com/18-november-2025-outage/\nCloudflare December: https://blog.cloudflare.com/5-december-2025-outage/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xyz/githu",
+        "id": 4277068,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HAhmUhLVuAc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HAhmUhLVuAc/hqdefault.jpg",
+        "title": "Cloudflare Has A Serious Stability Problem",
+        "vote": 0
+    }
+]

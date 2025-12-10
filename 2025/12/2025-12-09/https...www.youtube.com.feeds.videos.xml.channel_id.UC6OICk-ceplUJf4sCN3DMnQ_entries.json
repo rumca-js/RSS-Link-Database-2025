@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tyler Stalman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T15:28:05.393473+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T14:17:44+00:00",
+        "description": "Learn how to use AI to create natural looking transitions between video shots that should be impossible\n Use Artlist to create with all the latest AI models https://artlist.io/artlist-70446/?artlist_aid=Stalman_610&utm_source=affiliate_p&utm_medium=Stalman_610&utm_campaign=Stalman_610\nGet the Stalman LUTs & Lightroom presets http://stalman.com/shop\nThe Stalman Clamp for mobile filmmakers https://amzn.to/4obk4hq\n\nThreads http://threads.net/stalman \nInstagram http://instagram.com/stalman\nTwitter https://twitter.com/stalman\nPodcast http://youtube.com/stalmanpodcast",
+        "id": 4275676,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4N_rE8N8O_M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 883,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6OICk-ceplUJf4sCN3DMnQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4N_rE8N8O_M/hqdefault.jpg",
+        "title": "Transitions Between Real Video Shots Using AI",
+        "vote": 0
+    }
+]

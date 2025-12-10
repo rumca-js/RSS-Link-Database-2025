@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T09:05:23.320436+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T08:24:48+00:00",
+        "description": "Ad: Festive Season Savings: My E7 Pro Desk from FlexiSpot \u2013 Now \u00a3130 Off! https://bit.ly/48CA3yQ (UK) \ud83c\udf84\nUse code \"YTE730\" to get extra $30 off on E7 Pro and E7 in the US site.\nE7 Pro: https://bit.ly/4awMjU4 (US)\n\nI'm building a large quadruped that I can ride on!  This is not a Strandbeest - it has four independent legs which can move to different heights, and a sliding section so it can take steps.  There will be more development in the future including compliant feet, and the missing sliding section designed to keep my mass over the feet on the ground.\n\nYou can support me on Patreon, join my Discord, or buy my Merchandise:\n***************************\nDiscord: https://discord.com/invite/fc6MedG7eW\nPatreon: https://www.patreon.com/xrobots\nMerch Store: https://james-bruton.teemill.com/collection/all-products/\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nTwitter: https://twitter.com/xrobotsuk \nFacebook: https://ww",
+        "id": 4272938,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Oejc3sjeN1E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Oejc3sjeN1E/hqdefault.jpg",
+        "title": "I will ride on this robot",
+        "vote": 0
+    }
+]

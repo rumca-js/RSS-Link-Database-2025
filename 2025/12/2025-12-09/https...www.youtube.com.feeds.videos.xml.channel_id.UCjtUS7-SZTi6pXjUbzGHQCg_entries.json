@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Undecided with Matt Ferrell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T14:23:34.161470+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T13:17:00+00:00",
+        "description": "Why Coastal Cities Are Betting on Osmotic Power. Take your personal data back with Incogni! Use code UNDECIDED at the link below and get 60% off an annual plan:\u00a0http://incogni.com/undecided What if you could power cities just by mixing river water with seawater? Around 15,000 TWh of energy pours into the oceans each year as freshwater blends with saltwater at river mouths. That amounts to roughly half the energy the world consumes in electricity every year. And we may have finally found a way to tap it. It\u2019s called osmotic power, and it could provide clean energy around the clock. As freshwater becomes scarcer, more cities are turning to desalination plants to meet their water needs. Desalination is energy-intensive, but osmotic power could use the same salty wastewater from desalination to generate electricity instead of just dumping it back in the ocean. But how does this tech work? Could a combination of fresh and saltwater be the \u201csolution\u201d to the world\u2019s ever-increasing energy de",
+        "id": 4275095,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kko09WIC6yc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 453,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kko09WIC6yc/hqdefault.jpg",
+        "title": "Why Coastal Cities Are Betting on Osmotic Power",
+        "vote": 0
+    }
+]

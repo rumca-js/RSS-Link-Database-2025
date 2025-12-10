@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "UpIsNotJump",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T17:14:49.368330+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T16:30:34+00:00",
+        "description": "I still think it's a good game otherwise tho !",
+        "id": 4276889,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/4S0wla3YhzM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 374,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFLwN7vRu8M057qJF8TsBaA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4S0wla3YhzM/hqdefault.jpg",
+        "title": "The PROBLEM With Fallout 76",
+        "vote": 0
+    }
+]

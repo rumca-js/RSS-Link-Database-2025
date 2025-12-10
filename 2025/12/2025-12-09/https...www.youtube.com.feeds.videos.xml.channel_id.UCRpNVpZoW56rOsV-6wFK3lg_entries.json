@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "4 Ever Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T11:26:42.518467+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T11:00:23+00:00",
+        "description": "Step inside the world\u2019s most creative and breathtaking hotels places that look more like fantasy worlds than real destinations. From underwater rooms to cliffside sky pods and mirror-wrapped forest cabins, these masterpieces show just how far imagination can go.",
+        "id": 4273741,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6NAYkKw_gF0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 880,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRpNVpZoW56rOsV-6wFK3lg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6NAYkKw_gF0/hqdefault.jpg",
+        "title": "This Hotel is So Unique You Won't Believe it's Real - Part 2",
+        "vote": 0
+    }
+]

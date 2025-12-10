@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T23:49:52.636936+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T23:10:17+00:00",
+        "description": "full build - https://youtu.be/QbFWejZFb_s\nGIVEAWAY ENTRY PAGE (US / Canada, Void Where Prohibited) - \nhttps://gleam.io/RbGCZ/pauls-hardware-cooler-master-qube-540-9800x3d-rtx-5080-pc-giveaway-for-extra-life-dec-2025",
+        "id": 4280056,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/5I4aaOnCLTs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5I4aaOnCLTs/hqdefault.jpg",
+        "title": "Final PC Build of 2025",
+        "vote": 0
+    }
+]

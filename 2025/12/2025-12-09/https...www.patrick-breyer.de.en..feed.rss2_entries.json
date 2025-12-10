@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Breyer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T11:39:51.076726+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T10:37:27+00:00",
+        "description": "<p><strong>Of all people, it is center-right parties in Brussels that are supporting plans for the mass screening of private messages. The proposal cuts deep into civil liberties. The consequences for chats <span >\u2026</span></strong></p>",
+        "id": 4273807,
+        "language": "en-GB",
+        "link": "https://www.patrick-breyer.de/en/digital-house-arrest-how-the-eu-wants-to-disempower-families",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 249,
+        "source_url": "https://www.patrick-breyer.de/en/?feed=rss2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Digital House Arrest \u2013 How the EU Wants to Disempower Families",
+        "vote": 0
+    }
+]

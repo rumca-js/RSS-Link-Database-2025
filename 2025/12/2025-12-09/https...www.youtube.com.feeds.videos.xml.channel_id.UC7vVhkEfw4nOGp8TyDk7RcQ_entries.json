@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T17:30:01.043328+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T16:35:17+00:00",
+        "description": "Atlas moves like a contortionist, but it's not just showing off. One of our software engineers explains how this behavior helps Atlas check that everything is good to go before it gets to work.",
+        "id": 4276981,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/7MXQG-f9jtk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7MXQG-f9jtk/hqdefault.jpg",
+        "title": "Why does Atlas stand up like that?  #bostondynamics #atlas #robot",
+        "vote": 0
+    }
+]

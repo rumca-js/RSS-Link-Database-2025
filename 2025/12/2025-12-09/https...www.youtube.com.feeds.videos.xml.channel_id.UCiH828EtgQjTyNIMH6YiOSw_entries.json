@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-09T18:32:54.293795+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-09T18:00:11+00:00",
+        "description": "Doug revisits Thunderbolts and goes into spoilers about why he thinks the film didn't quite come together.\n\nWatch all DisneyCember here - https://www.youtube.com/playlist?list=PL0AQIMR-tpomecW19RN2LNrdoqd5wFu4R\n\nWatch the new NC - https://youtu.be/rbWhvw0CZ48\n\nThunderbolts*\u200a is a 2025 American superhero film based on Marvel Comics featuring the team Thunderbolts. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 36th film in the Marvel Cinematic Universe (MCU). The film was directed by Jake Schreier from a screenplay by Eric Pearson and Joanna Calo, and stars an ensemble cast featuring Florence Pugh, Sebastian Stan, Wyatt Russell, Olga Kurylenko, Lewis Pullman, Geraldine Viswanathan, Chris Bauer, Wendell Pierce, David Harbour, Hannah John-Kamen, and Julia Louis-Dreyfus. In the film, a group of antiheroes are caught in a deadly trap and forced to work together on a dangerous mission. \n\nTwitch - https://twitch.tv/channelawesome\nFacebook: https:",
+        "id": 4277521,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=A_zqzNOnMWw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A_zqzNOnMWw/hqdefault.jpg",
+        "title": "Thunderbolts - DisneyCember",
+        "vote": 0
+    }
+]
