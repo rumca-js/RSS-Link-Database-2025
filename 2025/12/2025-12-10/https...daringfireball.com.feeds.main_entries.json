@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T18:01:09.166388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T17:04:43+00:00",
+        "description": "<p>Michael Crowley and Hamed Aleaziz, reporting for The New York Times:</p>\n\n<blockquote>\n  <p>While mostly framed as a matter of clarity and formality in\npresentation, Mr. Rubio\u2019s directive to all diplomatic posts around\nthe world blamed \u201cradical\u201d diversity, equity, inclusion and\naccessibility programs for what he said was a misguided and\nineffective switch from the serif typeface Times New Roman to sans\nserif Calibri in official department paperwork.</p>\n\n<p>In an \u201cAction Request\u201d memo obtained by The New York Times, Mr.\nRubio said that switching back to the use of Times New Roman would\n\u201crestore decorum and professionalism to the department\u2019s written\nwork.\u201d Calibri is \u201cinformal\u201d when compared to serif typefaces like\nTimes New Roman, the order said, and \u201cclashes\u201d with the\ndepartment\u2019s official letterhead. [...]</p>\n\n<p>Then-Secretary of State Antony J. Blinken ordered the 2023\ntypeface shift on the recommendation of the State Department\u2019s\noffice of diversity and inclusion, which Mr. ",
+        "id": 4286836,
+        "language": "",
+        "link": "https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html?unlocked_article_code=1.7k8.NI-S.Il8KdkMKKnGV",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "U.S. State Department Changes Back to Times New Roman From Calibri",
+        "vote": 0
+    }
+]

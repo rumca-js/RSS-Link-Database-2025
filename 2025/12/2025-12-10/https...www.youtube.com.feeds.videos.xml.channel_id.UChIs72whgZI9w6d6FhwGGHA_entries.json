@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T15:28:15.127909+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T14:00:34+00:00",
+        "description": "Sponsor: Montech HS01 Pro on Amazon https://geni.us/UYLeZn and HS02 Pro https://geni.us/ABM9fEB\nAMD's FSR Redstone (FidelityFX Super Resolution) is a rebranded name to describe a newly-released set of features for FSR. The main takeaways are a future plan -- but no games yet -- for radiance caching, alongside some features available today, like ray regeneration and a new frame generation model. The new frame generation model gets most of our focus today, as they're moving to a machine-learned (ML) solution from what AMD calls an \"analytical\" solution previously. We also ran some quick latency tests with frame generation, just because we were already set up for that with our recent Lossless Scaling Frame Generation latency tests (below), and then ran a quick ray regeneration image quality comparison. We'd like to do some more comparisons with these in the future, but a combination of AMD's late timing getting everything out to reviewers for frame generation and the lack of implementati",
+        "id": 4285289,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ERswhgYRr0w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ERswhgYRr0w/hqdefault.jpg",
+        "title": "AMD FSR Redstone: Image Quality Frame Gen Comparison, Latency Benchmarks, & Ray Regeneration",
+        "vote": 0
+    }
+]

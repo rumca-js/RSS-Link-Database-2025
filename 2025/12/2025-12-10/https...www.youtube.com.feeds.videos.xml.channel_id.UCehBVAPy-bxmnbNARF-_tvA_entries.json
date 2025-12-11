@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T14:44:59.953353+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T14:01:15+00:00",
+        "description": "Starke County, Indiana voted 75% for Trump in 2024. But now they're opposing Trump's AI agenda, and the Planning Commission voted unanimously to recommend a 12 month pause on new hyperscale data centers.\n\nThe idea of banning AI data centers is becoming more and more popular.",
+        "id": 4284949,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xCQahn9S1CE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xCQahn9S1CE/hqdefault.jpg",
+        "title": "Trump is backing AI. This Trump-voting town wants to ban AI data centers anyways.",
+        "vote": 0
+    }
+]

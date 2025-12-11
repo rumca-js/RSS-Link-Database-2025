@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joshua Keating",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T20:44:37.395015+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T14:40:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Huang speaks at the lectern as Trump listens. \" data-caption=\"President Donald Trump listens as Nvidia CEO Jensen Huang speaks in the Cross Hall of the White House during an event on &quot;Investing in America&quot; on April 30, 2025, in Washington, DC. | Andrew Harnik/Getty Images\" data-portal-copyright=\"Andrew Harnik/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2212184615.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tPresident Donald Trump listens as Nvidia CEO Jensen Huang speaks in the Cross Hall of the White House during an event on \"Investing in America\" on April 30, 2025, in Washington, DC. | Andrew Harnik/Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">This week, President Donald Trump <a href=\"https://x.com/josh_wingrove/status/1998144745541923261?s=20&amp;ct=rw-null\">announced</a> that he would allow US chipmaker Nvidia to sell its ad",
+        "id": 4288139,
+        "language": "",
+        "link": "https://www.vox.com/politics/471884/nvidia-chips-china-trump-huang",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2212184615.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "The fierce debate behind Trump\u2019s move on selling AI chips to China",
+        "vote": 0
+    }
+]

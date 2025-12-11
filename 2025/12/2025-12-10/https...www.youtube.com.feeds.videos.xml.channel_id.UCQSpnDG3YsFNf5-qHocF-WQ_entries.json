@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T15:56:26.966917+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T15:45:01+00:00",
+        "description": "Do the different Nvidia driver versions actually make a difference? \ud83e\udd14\n\nWhen you go to download the latest Nvidia driver for your GPU, you sometimes see multiple types such as the Game-Ready drivers, Studio Drivers, or even Quadro drivers. But does it actually matter about which one you download, assuming the version number is the same? I wanted to find out, so I downloaded and extracted each of the installers to inspect the actual file differences to know for sure. So next time you won't have to wonder about which version to install for your graphics card.\n\nTime Stamps:\n0:00 - Intro\n0:19 - Release Branches\n1:37 - Comparing The Installers\n3:02 - Technical Differences\n4:05 - The Difference in Practice\n5:26 - What About Quadro Drivers?",
+        "id": 4285570,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6_sfBUyVWQ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6_sfBUyVWQ8/hqdefault.jpg",
+        "title": "Nvidia Driver Types: What's the ACTUAL Difference?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T16:16:23.720296+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T15:01:45+00:00",
+        "description": "After spending the better part of this year working on this Grogu replica project, Adam and animatronic engineer Matthew Winchell walk us through all the movements and controls for this custom puppet. But to turn those motions and expressions into a believable character, Adam brings in puppeteer Michael Schupbach for a consultation and guidance in bringing this character to life!\n\nWith thanks to our friend Michael Schupbach for helping us out with the puppeteering and performing! Follow him here: https://www.instagram.com/mrschupbach/\n\nAdam's collaborators on this project: \n3D artist Ralph Sutter: https://www.ralphsutter3d.com/ IG: @thebigboss1984\nAnimatronics engineer Matthew Winchell: https://www.matthewwinchell.com/ IG: @matt.winchell\nNicholas Winstead - cast, eyes, teeth IG: @nicholaswinstead\nRyan Pintar - painter \nChris Grossnickle - cast cleanup \nMatt Hobbs - Kyber Control Systems: https://www.facebook.com/groups/1341505756182087/\nStephane Beaulieu - kyber control\nChris Stroud -",
+        "id": 4285649,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pX74MJjqB4k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pX74MJjqB4k/hqdefault.jpg",
+        "title": "How Adam Savage's Animatronic Grogu Works!",
+        "vote": 0
+    }
+]

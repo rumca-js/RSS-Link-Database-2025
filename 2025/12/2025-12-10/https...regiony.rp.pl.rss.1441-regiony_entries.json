@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T17:04:13.826234+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T17:04:12+00:00",
+        "description": "Energooszcz\u0119dne, a nawet energetycznie samowystarczalne, bez marnowania wody \u2013 takie maj\u0105 by\u0107 wroc\u0142awskie osiedla komunalne, kt\u00f3re powstan\u0105 zgodnie z zasadami Wroc\u0142awskiego Standardu Zielonego Budynku. Podobne rozwi\u0105zania stosuj\u0105 te\u017c inne miasta.",
+        "id": 4286303,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/jakosc-zycia/art43483581-zielone-standardy-w-nowych-blokach-wyzszy-komfort-zycia-mieszkancow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zielone standardy w nowych blokach. Wy\u017cszy komfort \u017cycia mieszka\u0144c\u00f3w",
+        "vote": 0
+    }
+]

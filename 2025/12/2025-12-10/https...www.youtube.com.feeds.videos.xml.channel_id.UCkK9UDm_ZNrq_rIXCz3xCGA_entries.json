@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T16:14:34.447882+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T14:53:04+00:00",
+        "description": "On the flip side, only 10% have less trust in code from Trump voters.  Alternate Headlines: \"Would You Hire a Trans Squirrel Dev?\", or \"Lunduke YouTube Channel Ban Speedrun.\"\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4285648,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7_uthSBPJA4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7_uthSBPJA4/hqdefault.jpg",
+        "title": "74% Have Less Trust in Software from Leftist Activists",
+        "vote": 0
+    }
+]

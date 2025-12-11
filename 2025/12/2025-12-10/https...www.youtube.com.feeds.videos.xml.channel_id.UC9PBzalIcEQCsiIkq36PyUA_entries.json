@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T21:26:51.933863+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T20:50:45+00:00",
+        "description": "Thanks to CyberPowerPC for sponsoring this video. Check out the Christmas PC deals here: https://bit.ly/48ZL52t and go here for the Christmas Giveaway: https://bit.ly/4pZY4Hf\n\nDeveloper Rockstar finds further ways to improve the Red Dead Redemption console experience for Switch 2, PS5 and Xbox Series consoles in a brand new 2025 release. Via this separate native app for each system, we're getting much closer to PC's top settings - though even today, cutbacks are still necessary in grass LODs and shadows on PS5. Meanwhile the Switch 2 release offers arguably the most substantial improvement over what came before in the 2023 OG Switch version, with 60fps, DLSS and even mouse controls added to the equation. In turn Tom tests each version - with even a look at the iPhone version later in the review.\n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSub",
+        "id": 4288485,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=plT7tCbn0iA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/plT7tCbn0iA/hqdefault.jpg",
+        "title": "Red Dead Redemption Remaster Review - Switch 2/PS5/Xbox Series X|S/iPhone - So... What's New?",
+        "vote": 0
+    }
+]

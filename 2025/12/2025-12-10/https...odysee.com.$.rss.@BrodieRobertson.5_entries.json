@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T17:59:34.577876+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T16:30:16+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/N_X7clyPE5Q\" width=\"480\" alt=\"thumbnail\" title=\"You Control The Future Of Xorg On Linux!!\" /></p>There's a lot of talk of the death of Xorg, and whilst Wayland is the direction that thing are moving that doesn't mean that if you hate it then you can't change that course. That doesn't mean going and getting angry, it means actually going and getting involved in the future of projects you support.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br ",
+        "id": 4286815,
+        "language": "en",
+        "link": "https://odysee.com/you-control-the-future-of-xorg-on:c19fc5cfd999e25ee74895d3caeef579604800b2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/N_X7clyPE5Q",
+        "title": "You Control The Future Of Xorg On Linux!!",
+        "vote": 0
+    }
+]

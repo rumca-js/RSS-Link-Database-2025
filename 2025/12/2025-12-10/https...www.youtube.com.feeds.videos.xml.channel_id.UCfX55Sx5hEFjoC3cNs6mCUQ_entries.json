@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T17:00:04.938317+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T16:22:08+00:00",
+        "description": "Most organizations are racing into AI \u2014 but many don\u2019t realize they may be leaving tens of billions of dollars in unrealized value on the table. In this conversation, Frank Nagle, Chief Economist at The Linux Foundation, breaks down his new working paper and explains why open models could radically reshape the AI economy.\n\n We talk about performance gaps, switching costs, misconceptions about data exposure, and the emerging economics behind open vs closed AI models. Frank also shares practical guidance for CIOs and CTOs on where open models fit into production workflows today.\n Primary keywords: open models, AI economics, Linux Foundation\n Secondary keywords: AI cost, LLM selection, enterprise AI strategy\n Learn more: https://linuxfoundation.org\n Read more stories on https://www.tfir.io\n \n#openmodels #opensource #AIeconomy #LLM #LinuxFoundation #enterpriseAI #AIfuture #AIcostoptimization #genAI #cloudnative",
+        "id": 4286273,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-qGC0LGjZZE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-qGC0LGjZZE/hqdefault.jpg",
+        "title": "Open Models vs Closed Models: The $25B Question Explained by Frank Nagle, Linux Foundation",
+        "vote": 0
+    }
+]

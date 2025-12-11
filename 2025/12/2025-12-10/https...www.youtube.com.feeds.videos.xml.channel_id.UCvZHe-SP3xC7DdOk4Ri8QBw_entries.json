@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bethesda Softworks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T16:32:02.537701+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T15:58:23+00:00",
+        "description": "Join us for an insane amount of GIVEAWAYS as Hugo, Joshua, and Marty celebrate DOOM's 32nd Anniversary!\nFor more information on all things DOOM: The Dark Ages and id Software, follow these channels and join the Slayers Club.  \n\nBluesky: https://bsky.app/profile/doom.com\nTwitter: https://x.com/DOOM/\nInstagram: https://www.instagram.com/doom/ \nThreads: https://www.threads.net/@doom\nFacebook: https://www.facebook.com/DOOM\nWebsite: https://doom.bethesda.net/\nSlayers Club: https://slayersclub.bethesda.net/\n\nESRB RATING: Mature for Blood and Gore and Intense Violence",
+        "id": 4285812,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6dIlGAA-6jE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 724,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZHe-SP3xC7DdOk4Ri8QBw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6dIlGAA-6jE/hqdefault.jpg",
+        "title": "Slayers Club Live | DOOM 32nd Anniversary",
+        "vote": 0
+    }
+]

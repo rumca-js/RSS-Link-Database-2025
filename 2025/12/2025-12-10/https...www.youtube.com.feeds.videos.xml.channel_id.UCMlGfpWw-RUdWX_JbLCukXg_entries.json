@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T15:38:19.932517+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T15:07:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCan C++ Data Oriented Design Be ONE MILLION Times Faster? - Andrew Drakeford - CppCon 2025\n---\n\nData-oriented design (DOD) has gained traction for its practical approach to solving real-world problems. Refactoring data into an Entity-Component format sets the stage for cleaner, more efficient implementations, where lambdas process ranges and SIMD operations exploit the power of contiguous data layouts. DOD is widely recognised for addressing hardware-related performance challenges, but where do these challenges originate? The engineers behind our hardware platforms didn\u2019t design performance bottlenecks; they created performance opportunities. By engineering how our code interacts with hardware, we can unlock these opportunities and achieve substantial speed-ups. The key lies in understanding and exploiting the state of the system. From the instruction cache and registers to the L1 cache and memory access patterns, the processor's statefulness plays a crucial r",
+        "id": 4285498,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IO7jl1rjRvA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IO7jl1rjRvA/hqdefault.jpg",
+        "title": "Can C++ Data Oriented Design Be ONE MILLION Times Faster? - Andrew Drakeford",
+        "vote": 0
+    }
+]

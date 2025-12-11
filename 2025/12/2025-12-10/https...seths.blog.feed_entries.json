@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T10:55:04.835008+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T10:03:00+00:00",
+        "description": "As soon as we see that notice, the current model gets less good. It was fine yesterday, but simply being told that better is available seems to tarnish something that worked. Perhaps &#8220;compared to what&#8221; isn&#8217;t always the best question.",
+        "id": 4283122,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/12/upgrade-available",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Upgrade available",
+        "vote": 0
+    }
+]

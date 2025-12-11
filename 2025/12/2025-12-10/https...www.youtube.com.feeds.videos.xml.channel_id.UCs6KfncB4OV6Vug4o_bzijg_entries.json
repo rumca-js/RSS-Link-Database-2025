@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T20:07:14.622132+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T19:49:45+00:00",
+        "description": "Google's new Developer Registration Program is catastrophic for F-Droid and open source app distribution. In this interview, Marc Prud'hommeaux from the F-Droid Board of Directors explains what's happening, why it matters (even if you only use the Google Play Store or Apple's App Store), and what concrete actions you can take RIGHT NOW. We discuss why F-Droid calls this an \"extinction event,\" the implications for open source development, and what you can do to fight back.\n\nNote: This interview was recorded in early November 2025; you can find a recent update to the Android situation here: https://youtu.be/ZXULhqK-TtQ\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 https://keepandroidopen.org/\n\u2022 https://f-droid.org/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/ZXULhqK-TtQ\nhttps://youtu.be/hh5n3IqocPQ\nhttps://youtu.be/wRvqdLsnsKY\n\n\u23f1\ufe0f TIMESTAMPS\n0:00:00 INTRO\n00:01:45 PIVOTING TO OPEN SOURCE\n00:04:29 WHEN MARC JOINED THE BOARD\n00:05:27 APP STORE BREAKDOWN\n00:08:23 GOOGLE PLAY STORE VS. F-DROID\n00:10:39 MALWARE & APP STOR",
+        "id": 4287947,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ZnYSwX45ODA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZnYSwX45ODA/hqdefault.jpg",
+        "title": "The Fight for Android's Open Ecosystem (F-Droid Interview)",
+        "vote": 0
+    }
+]

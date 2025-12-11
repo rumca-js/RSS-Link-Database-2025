@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wales",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T19:24:04.595199+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T18:56:06+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/day-of-the-devs-2025.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The gaming world might be bracing for its annual festive dose of <a href=\"https://www.eurogamer.net/personas/geoff-keighley\">Geoff Keighley</a>, but ahead of the glitz and glamour of tomorrow's Game Awards, it's the turn of the indies.</p> <p><a href=\"https://www.eurogamer.net/day-of-the-devs-the-game-awards-edition-2025-everything-announced-in-the-big-indie-showcase\">Read more</a></p>",
+        "id": 4287503,
+        "language": "en",
+        "link": "https://www.eurogamer.net/day-of-the-devs-the-game-awards-edition-2025-everything-announced-in-the-big-indie-showcase",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/day-of-the-devs-2025.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Day of the Devs The Game Awards Edition 2025: everything announced in the big indie showcase",
+        "vote": 0
+    }
+]

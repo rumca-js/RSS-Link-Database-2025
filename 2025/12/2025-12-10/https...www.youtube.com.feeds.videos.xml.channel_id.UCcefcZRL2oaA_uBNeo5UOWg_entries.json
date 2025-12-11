@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T15:55:49.402055+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T15:00:19+00:00",
+        "description": "In just a few years, James Hawkins took PostHog from an idea hacked together right before YC's W20 deadline to a unicorn powering product analytics for thousands of teams.\n\nIn this episode of Founder Firesides, he sits down with YC's Brad Flora to talk about surviving six months of \"pivot hell,\" why open-source analytics was the breakthrough, and how PostHog grew from fighting for its first users to launching full product lines. James also shares what he's learned about momentum, staying close to customers, and using transparency and humor to build a company that stands out.\n\nLearn more about PostHog: https://posthog.com/\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 What is PostHog?\n2:04 The initial product\n3:25 Pivot hell, getting into YC\n7:20 Keeping hope alive after so many pivots \n13:00 The fundraising experience\n21:08 Having more fun with the work now\n26:19 PostHog\u2019s unique brand strategy and market",
+        "id": 4285568,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5WN8bfG06Hk/hqdefault.jpg",
+        "title": "How To Know When Your Pivot Is Actually Working",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T16:19:47.838565+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T16:08:44+00:00",
+        "description": "A mo\u017ce si\u0119 uda? Nie ma co si\u0119\u00a0tak \u0142atwo poddawa\u0107.",
+        "id": 4285661,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=RcPWo1Qo9Nk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RcPWo1Qo9Nk/hqdefault.jpg",
+        "title": "Pok\u00e9mon Crystal: Idziemy po oklep od Miltanka",
+        "vote": 0
+    }
+]

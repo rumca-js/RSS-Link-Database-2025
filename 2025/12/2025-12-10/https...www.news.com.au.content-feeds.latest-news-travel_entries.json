@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T05:47:54.004950+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T05:47:53+00:00",
+        "description": "Health authorities in one Aussie state have launched an urgent alert after a teenager tested positive to a deadly disease \u2013 the second in just weeks.",
+        "id": 4281704,
+        "language": "en-au",
+        "link": "https://www.news.com.au/lifestyle/health/health-problems/tasmania-issues-major-health-alert-after-teen-tests-positive-to-measles-measles/news-story/8af1b236ebd4b61657fad3c996f6046c?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/c46e7296d103d4854d1b0b458f52644e?width=320",
+        "title": "Urgent alert after deadly disease detected",
+        "vote": 0
+    }
+]

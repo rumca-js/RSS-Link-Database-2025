@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T16:52:59.458162+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T14:01:10+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/cTmvp0tnUmY\" width=\"480\" alt=\"thumbnail\" title=\"Two Simple Bash Scripts ('append' and 'prepend')\" /></p>Let's create a couple of simple Bash scripts, one for appending a line of text to a file, and one for prepending a line of text to a file.<br /><br />REFERENCED:<br />\u25ba https://gitlab.com/dwt1/miniutils<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube<br />\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/<br />\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2<br /><br />FREE AND OPEN SOURCE SOFTWARE THAT I LIKE:<br />\ud83c\udf10 Brave Browser - https://brave.com/<br />\ud83d\udcfd\ufe0f Open Broadcaster Softwa",
+        "id": 4286227,
+        "language": "en",
+        "link": "https://odysee.com/two-simple-bash-scripts-%28%27append%27-and:6d951183b11b0f3ed5854b1a3619b10255a4e7d9",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/cTmvp0tnUmY",
+        "title": "Two Simple Bash Scripts ('append' and 'prepend')",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brandon Bryson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T14:32:57.253021+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T14:16:34+00:00",
+        "description": "<img width=\"640\" height=\"895\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-732x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"EGO\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-732x1024.jpg 732w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-215x300.jpg 215w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-107x150.jpg 107w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-768x1074.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-1099x1536.jpg 1099w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-1465x2048.jpg 1465w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-640x895.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-1280x1789.jpg 1280w, https://www.boardgamequest.com/wp-content/uplo",
+        "id": 4284839,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/ego-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/11/Ego-732x1024.jpg",
+        "title": "EGO Review",
+        "vote": 0
+    }
+]

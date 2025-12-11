@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T04:07:01.643568+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T04:07:00+00:00",
+        "description": "Do\u0142k\u00f3w rentowno\u015bci funduszy d\u0142u\u017cnych na \u015bwiecie mo\u017cna spodziewa\u0107 si\u0119 w\u00a0II po\u0142owie roku.",
+        "id": 4281384,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/obligacje-skarbowe/art43478401-w-2026-r-na-rynkach-obligacji-moze-nie-byc-juz-tak-kolorowo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W 2026 r. na rynkach obligacji mo\u017ce nie by\u0107 ju\u017c tak kolorowo",
+        "vote": 0
+    }
+]

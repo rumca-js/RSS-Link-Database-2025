@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T11:13:12.668418+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T10:01:03+00:00",
+        "description": "Kara Frame | December 10, 2025\nIt's rare these days for an artist to ask for fewer microphones, but after warming up in our space, Billy Strings did just that. Surrounded by his band, the bluegrass virtuoso brings back the spirit of Tiny Desk's early days. We capture, in his own words, \"the way these instruments are meant to sound.\"\n\n\"We've been lucky to play a lot of cool venues,\" Strings says, pausing to reflect. \"But this one's different. It has that same soul to it because \u2014 I've seen so many amazing performances that happened right here and I kind of believe that love and spirit kind of soaks into this environment, so just standing here feels like a special thing.\"\n\nStrings found his roots in bluegrass from his dad. Since then, he's managed to expand the genre to new audiences, amassing a following of super fans \u2014 self-proclaimed \"billy goats\" \u2014 that sometimes schedule their lives around his tour. Once you meet Strings, it's not hard to understand why: He's a humble musician and ",
+        "id": 4283346,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WgqaxMOKfnI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WgqaxMOKfnI/hqdefault.jpg",
+        "title": "Billy Strings: Tiny Desk Concert",
+        "vote": 0
+    }
+]

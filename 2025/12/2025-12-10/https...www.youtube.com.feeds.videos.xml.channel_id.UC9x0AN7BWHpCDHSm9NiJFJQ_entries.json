@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T17:10:08.682290+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T16:46:21+00:00",
+        "description": "Get 67% OFF Hostinger\u2019s n8n self-hosting AND an extra 10% OFF with code NETWORKCHUCK: https://hostinger.com/ncn8n\n\nN8n just got stupid powerful. In this video, I show you how I wired Claude Code (and other AI terminal tools like Gemini CLI) into my n8n workflows. N8n can now spin up full-blown AI agents, use skills, and keep rich context across multiple steps\u2026. All from a single node.\n\n\ud83d\udd25\ud83e\udde0 Check out our N8N COURSE on NetworkChuck Academy!: https://ntck.co/n8n_academy \n\n\nRESOURCES / LINKS:\n\n\ud83d\udcc3 Guide / Walkthrough: https://github.com/theNetworkChuck/n8n-claude-code-guide\n\n\u26a1 My video on why Claude Code is so great: https://youtu.be/MsQACpcuTkU \n\n\nTIMESTAMPS:\n\n0:00 - Intro\n0:24 - Requirements\n2:50 - Super Simple Setup\n4:33 - Basic Execution\n7:55 - Sessions\n9:52 - External Interfaces\n12:54 - Architecture Shift\n\n\n\n**Sponsored by Hostinger\n\n\n\n\n\n\n\nSUPPORT NETWORKCHUCK\n---------------------------------------------------\n\ud83c\udf93\ud83c\udf93 Sign up for NetworkChuck Academy: https://ntck.co/NCAcademy \n\n\u2615\u2615 COFFEE a",
+        "id": 4286332,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=s96JeuuwLzc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s96JeuuwLzc/hqdefault.jpg",
+        "title": "I'll never use n8n the same......",
+        "vote": 0
+    }
+]

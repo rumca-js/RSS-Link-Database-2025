@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-10T16:08:38.032758+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-10T15:00:11+00:00",
+        "description": "Complex themes, rich atmosphere, immersive worlds...these are the things that can truly lock you into a game. Here are some great examples of games with killer atmosphere.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:17 Hellblade 2\n2:55 Planescape: Torment\n3:17 The Long dark\n4:29 Darkwood\n6:12 Stalker 2\n7:59 Bloodborne\n9:28 INSIDE\n11:22 What Remains of Edith Finch\n13:17 SOMA\n15:18 Silent Hill 2",
+        "id": 4285642,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3ExQZLmar6w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3ExQZLmar6w/hqdefault.jpg",
+        "title": "10 Atmospheric Games That Might CHANGE YOUR LIFE",
+        "vote": 0
+    }
+]
