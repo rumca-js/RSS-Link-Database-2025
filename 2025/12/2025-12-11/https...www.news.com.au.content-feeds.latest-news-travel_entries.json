@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T22:18:27.804740+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T22:18:27+00:00",
+        "description": "Just like Taylor Swift and Coldplay \u2013 mega pop star Lady Gaga has also had a massive impact on Australia\u2019s tourism. Here\u2019s how.",
+        "id": 4298147,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-advice/lady-gaga-has-massive-impact-on-australian-tourism/news-story/837c2b2cc3930b1786602200dccc096c?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/b5985ad7c148d5e295d7c545ba41e201?width=320",
+        "title": "Lady Gaga causes Aussie \u2018travel mayhem\u2019",
+        "vote": 0
+    }
+]

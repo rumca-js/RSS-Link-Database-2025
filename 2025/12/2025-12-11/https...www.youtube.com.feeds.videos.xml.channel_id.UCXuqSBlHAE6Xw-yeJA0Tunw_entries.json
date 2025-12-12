@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T18:49:30.127867+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T17:55:23+00:00",
+        "description": "Thanks to Micro Center for sponsoring this video! Check out Micro Center\u2019s Monthly Deals at https://micro.center/576d4a and head over to https://micro.center/eb3336 to visit Micro Center News!\n\nThanks to UGREEN for sponsoring this video! Check out their MagFlow Power Bank below!\n Up to 40% OFF on UGREEN's website:  https://official.ugreen.com/tp5AD6 | Up to 33% off on Best Buy: https://bit.ly/3LX3HHr | Up to 40% off on Amazon: https://amzn.to/4ofkFyg\n\nThanks to Falcon Northwest for sending us this system! Get your own at https://www.falconnorthwest.com \n\nThe AMD Ryzen Threadripper Pro 9995WX makes even Intel's best Xeon chips look like computers for babies. With 96 cores running at unfathomable speeds, who needs a GPU. Bye Nvidia, I'm just gonna render on my Ryzen chip. Oh yeah, we whipped out the chiller to get this thing to pull a casual 2000W\n\nDiscuss on the forum: https://linustechtips.com/topic/1628405-amd-wouldnt-send-me-this-i-got-one-anyway/\n\nCheck out our Channel Partners:\nSe",
+        "id": 4296465,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=44KP0vp2Wvg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/44KP0vp2Wvg/hqdefault.jpg",
+        "title": "The Fastest Computer I've Ever Had",
+        "vote": 0
+    }
+]

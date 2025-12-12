@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T14:18:25.515608+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T13:21:46+00:00",
+        "description": "Proton is good. But also too big. Support my independent work: https://www.patreon.com/thehatedone \nEcosystem is a trap. It lures you in with the promise of convenience, only to lock you inside a walled garden. Like Google and Apple. They start with a good product, but then force you to use the whole suite to get the full experience. This is dangerous.\n\nEcosystems are concentrating all of your data and your digital life in the hands of a single entity. An entity that grows so large and powerful that it will start making compromises against your rights only to find more ways to profit or protect their business. The larger the ecosystem, the bigger data harvester it becomes. It becomes a bigger target for hackers and the more products it offers the more data it has to give to the surveillance state.\n\nWe know that the big tech does this, because their only moral value is the shareholder value. [4]\nBut when a private company starts quacking like a duck in the steps of the big tech, it sho",
+        "id": 4293859,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_QdBAa6N3C8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_QdBAa6N3C8/hqdefault.jpg",
+        "title": "We need to talk... about the Proton ecosystem",
+        "vote": 0
+    }
+]

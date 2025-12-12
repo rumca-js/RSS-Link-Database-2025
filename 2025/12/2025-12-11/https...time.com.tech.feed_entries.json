@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "D.W. Pine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T13:25:51.516453+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T12:44:00+00:00",
+        "description": "To illustrate the choice, we commissioned two artists to visualize the complex technological revolution, writes creative director D.W. Pine.",
+        "id": 4293539,
+        "language": "en-UK",
+        "link": "https://time.com/7339703/ai-architects-person-of-the-year-2025",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/12/00123.jpg",
+        "title": "The Story Behind TIME\u2019s 2025 Person of the Year Covers",
+        "vote": 0
+    }
+]

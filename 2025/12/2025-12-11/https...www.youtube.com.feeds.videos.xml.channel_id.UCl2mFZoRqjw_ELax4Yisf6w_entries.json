@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T16:33:00.698258+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T16:23:06+00:00",
+        "description": "Article on molekule: https://consumerrights.wiki/index.php?title=Molekule_threatens_to_remotely_shut_down_their_app_if_purifiers_used_with_third_party_air_filters\nPrevious video: https://www.youtube.com/watch?v=LCu_n2Nddu0\nFULU Bounty: https://bounties.fulu.org/bounties/molekule-air-pro-air-mini\nMolekule bankruptcy: https://www.marketscreener.com/quote/stock/MOLEKULE-GROUP-INC-129658881/news/Molekule-Bankruptcy-Form-8-K-44975500/\nreddit thread on molekule issue: https://www.reddit.com/r/classactions/comments/1nisr85/molekule_air_purifier/",
+        "id": 4295102,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=eMnAuFnVF6s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eMnAuFnVF6s/hqdefault.jpg",
+        "title": "FULU's open letter to Molekule CEO regarding digital locks in air filters",
+        "vote": 0
+    }
+]

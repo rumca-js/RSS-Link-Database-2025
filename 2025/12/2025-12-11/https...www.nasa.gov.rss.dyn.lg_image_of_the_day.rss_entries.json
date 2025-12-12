@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T16:53:11.148886+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T16:00:00+00:00",
+        "description": "Webb\u2019s image of the enormous stellar jet in Sh2-284 provides evidence that protostellar jets scale with the mass of their parent stars\u2014the more massive the stellar engine driving the plasma, the larger the resulting jet.",
+        "id": 4295438,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/stellar-jet-in-sh2-284",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Stellar Jet",
+        "vote": 0
+    }
+]

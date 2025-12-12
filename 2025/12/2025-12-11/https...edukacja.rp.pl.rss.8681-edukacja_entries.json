@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T11:35:53.473005+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T11:35:52+00:00",
+        "description": "Czy dyrektor krakowskiego LO m\u00f3g\u0142 um\u00f3wi\u0107 ucznia do fryzjera? Co mu za to grozi? I jak powinien zosta\u0107 napisany szkolny statut, by nie godzi\u0142 w prawa ucznia? Na pytania te odpowiadaj\u0105 w podca\u015bcie \u201eSzko\u0142a na nowo\": Gabriela Olszowska - szefowa Kuratorium O\u015bwiaty w Krakowie, \u0141ukasz Korzeniowski - prawnik, specjalista prawa o\u015bwiatowego oraz pose\u0142 Marcin J\u00f3zefaciuk.",
+        "id": 4292406,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/szkoly-podstawowe-i-srednie/art43484291-podcast-szkola-na-nowo-czy-mozna-karac-ucznia-za-wyglad",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podcast \u201eSzko\u0142a na nowo\u201d: czy mo\u017cna kara\u0107 ucznia za wygl\u0105d?",
+        "vote": 0
+    }
+]

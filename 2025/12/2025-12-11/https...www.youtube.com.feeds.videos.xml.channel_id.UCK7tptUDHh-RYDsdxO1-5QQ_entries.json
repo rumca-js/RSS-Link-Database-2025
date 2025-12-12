@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T18:22:22.175218+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T17:01:39+00:00",
+        "description": "At WSJ CEO Council, Starbucks CEO Brian Niccol shared why he believes the coffee company is in the midst of a turnaround.\u2060\n\n#Starbucks #Coffee #WSJ",
+        "id": 4296230,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/tX1TU6w-BqU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tX1TU6w-BqU/hqdefault.jpg",
+        "title": "Starbucks CEO says the Company 'Lost Our Focus'",
+        "vote": 0
+    }
+]

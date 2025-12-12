@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Larry Cafiero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T19:06:34.914758+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T18:40:12+00:00",
+        "description": "<p><em>Our Larry Cafiero takes a look at Solus and its homegrown desktop Budgie, and discovers why it's one of the most popular scratch-built distros.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/12/solus-4-8-opportunity-an-independent-distro-struts-its-stuff/\">Solus 4.8 \u2018Opportunity\u2019: An Independent Distro Struts Its Stuff</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4296718,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/12/solus-4-8-opportunity-an-independent-distro-struts-its-stuff",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Solus 4.8 \u2018Opportunity\u2019: An Independent Distro Struts Its Stuff",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T22:14:53.862730+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T21:43:47+00:00",
+        "description": "Tired of boring old Christmas carols? Lucky for you, everyone's favorite president has personally rewritten the lyrics to bring focus to much more important matters: the accomplishments of his administration.\n\n@CigarPage guarantees the lowest prices and best service. Visit https://CigarPage.com/carols for your special offer!\n\n#christmas #babylonbee #comedy",
+        "id": 4298130,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cugYsKcM9KU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cugYsKcM9KU/hqdefault.jpg",
+        "title": "Trump's Christmas Carol Collection Is Here",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T15:49:12.684730+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nThe Declarative Programming SECRETS to More Readable C++ - Richard Powell - CppCon 2025\n---\n\nDeclarative programming is the technique of saying \u201cwhat you want\u201d instead of \u201chow to do\u201d. This talk walks through the lessons and learnings I encountered when developing wxUI, a C++ Declarative UI library built on top of wxWidgets. The talk will not focus on GUIs in C++, but instead breaks down techniques for how to use C++ techniques to give structure and clarity to programming, and show how you can find data structures and algorithms that are hidden in your code. We will explore using many techniques like utilizing std::apply , Fluent Builder Pattern, Template Method Pattern, and CRTP to create flexible libraries to convert imperative programming to declarative programming. \n \n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Creating_a_Declarative_UI_Library.pdf\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nRichard Powell\n \n",
+        "id": 4294842,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xu4pI72zlO4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xu4pI72zlO4/hqdefault.jpg",
+        "title": "The Declarative Programming SECRETS to More Readable C++ - Richard Powell",
+        "vote": 0
+    }
+]

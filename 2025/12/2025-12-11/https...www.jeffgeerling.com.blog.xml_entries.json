@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T22:10:42.867164+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T22:06:11+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Benchmarking NVENC video transcoding on the Pi</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/asus-proart-egpu-dock-4070-ti-raspberry-pi.jpg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-ff28ce10-d0c1-4874-ab88-40356a054d6c\" data-insert-attach=\"{&quot;id&quot;:&quot;ff28ce10-d0c1-4874-ab88-40356a054d6c&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"ASUS ProArt 4070 Ti in eGPU dock on Raspberry Pi CM5\"></p>\n\n<p>Now that <a href=\"https://www.jeffgeerling.com/blog/2025/nvidia-graphics-cards-work-on-pi-5-and-rockchip\">Nvidia GPUs run on the Raspberry Pi</a>, I've been putting all the one",
+        "id": 4298112,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/benchmarking-nvenc-video-transcoding-on-pi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/asus-proart-egpu-dock-4070-ti-raspberry-pi.jpg",
+        "title": "Benchmarking NVENC video transcoding on the Pi",
+        "vote": 0
+    }
+]

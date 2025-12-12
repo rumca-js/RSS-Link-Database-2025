@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T15:03:21.731411+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T14:05:09+00:00",
+        "description": "Can you believe its been 10 years since Force Awakens was inflicted on the world? We can. Join us as we reflect on a decade of Disney Star Wars, share our thoughts on Supergirl, the least anticipated superhero movie in years, and Kristen Stewart blaming her failing career on... you guessed it, men. \n\nJoin MauLer, Ryan Kinel, Despot of Antrim and Outcasts Creative for Open Bar 167. \n\nSubscribe to RK Outpost: https://www.youtube.com/@ryankinel-rkoutpost1\nSubscribe to Despot: https://www.youtube.com/@DespotofAntrim\nSubscribe to Outcasts Creative: https://www.youtube.com/@THEOUTCASTSCREATIVE",
+        "id": 4294323,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=J4CpU6CvzEk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J4CpU6CvzEk/hqdefault.jpg",
+        "title": "Open Bar #167 - Supergirl Whatever, 10 Years of Force Awakens, Kristen Stewart Meltdown",
+        "vote": 0
+    }
+]

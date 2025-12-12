@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aaron Jones",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T05:05:52.220119+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T04:45:16+00:00",
+        "description": "<p>Netflix has already provided a quality survival series for us to devour in Squid Game, but this time survival takes place in Japan, home of my own personal favourite survival horror \u2013 Battle Royale. Last Samurai standing is different to both, set in late 19th-century Japan, the story follows a samurai struggling to find his [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/review-last-samurai-standing/\">REVIEW: Last Samurai Standing</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 4290862,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-last-samurai-standing",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.grimdarkmagazine.com/wp-content/uploads/2025/12/Last-Samurai-Standing-Movie-Poster.jpg",
+        "title": "REVIEW: Last Samurai Standing",
+        "vote": 0
+    }
+]

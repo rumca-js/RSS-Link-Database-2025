@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T14:31:08.467799+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T14:11:36+00:00",
+        "description": "<p>Microsoft believes it has a fix for AI prompts being given, the response missing the mark, and the cycle repeating. This inefficiency is a drain on resources. The &#8220;trial-and-error loop can feel unpredictable and discouraging,&#8221; turning what should be a productivity booster into a time sink. Knowledge workers often spend more time managing the interaction [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/microsoft-promptions-fix-ai-prompts-failing-to-deliver/\">Microsoft \u2018Promptions\u2019 fix AI prompts failing to deliver</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 4294039,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/microsoft-promptions-fix-ai-prompts-failing-to-deliver",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/12/image-3.png",
+        "title": "Microsoft \u2018Promptions\u2019 fix AI prompts failing to deliver",
+        "vote": 0
+    }
+]

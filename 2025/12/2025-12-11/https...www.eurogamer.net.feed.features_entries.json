@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Orry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T16:13:33.755685+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T16:03:54+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/big-jeff.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>It's that special time of year when we all come together with friends and family. That's right, it's just two-ish weeks until Christmas. It's also time for another award show/game reveal event in the shape of The Game Awards. We've had teases (the statue, what does it mean?), we expect bad trainers (sneakers, I think they call them in the US), and for it to run about twice as long as anyone really wants. But, and this is a big but, we might also get some big games shown off or announced.</p> <p><a href=\"https://www.eurogamer.net/watch-the-game-awards-2025-with-us-live-how-to-watch-and-when-does-it-start\">Read more</a></p>",
+        "id": 4295012,
+        "language": "en",
+        "link": "https://www.eurogamer.net/watch-the-game-awards-2025-with-us-live-how-to-watch-and-when-does-it-start",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/big-jeff.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Watch The Game Awards 2025 with us, live - how to watch and when does it start?",
+        "vote": 0
+    }
+]

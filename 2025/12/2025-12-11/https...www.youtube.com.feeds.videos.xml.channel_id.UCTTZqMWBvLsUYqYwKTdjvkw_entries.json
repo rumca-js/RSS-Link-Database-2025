@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T12:36:13.628460+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T11:43:50+00:00",
+        "description": "Elon Musk najwyra\u017aniej mocno si\u0119 rozsierdzi\u0142. I zablokowa\u0142 Uni\u0119 Europejsk\u0105 na Twixxerze - a konkretnie konta reklamowe Komisji Europejskiej. Zrobi\u0142 to po serii w\u0142asnych wpis\u00f3w o tym, \u017ce UE powinna zosta\u0107 rozwi\u0105zana (i kt\u00f3re chwali\u0142 mi\u0119dzy innymi Miedwiediew).\n\nTwixxer t\u0142umaczy t\u0119 decyzj\u0119 z\u0142amaniem regulaminu przez KE, ale z racji konfliktu, kt\u00f3ry rozgrywa si\u0119 na naszych oczach trudno uwierzy\u0107, \u017ce tylko o to posz\u0142o. \n\nAle co w\u0142a\u015bciwie tak striggerowa\u0142o Elona? Standardowo: posz\u0142o o kas\u0119 \ud83e\udef0 \n\nX oberwa\u0142 w\u0142a\u015bnie kar\u0105 120 milion\u00f3w euro od Komisji. Za co? Za naruszenie Digital Services Act. Jednym z g\u0142\u00f3wnych powod\u00f3w by\u0142y s\u0142ynne \u201eniebieskie ptaszki\u201d, kt\u00f3re wygl\u0105da\u0142y jak potwierdzenie autentyczno\u015bci konta. W praktyce oznacza\u0142y jedynie, \u017ce kto\u015b m\u00f3g\u0142 op\u0142aci\u0107 subskrypcj\u0119 - bez realnej weryfikacji. Ka\u017cdy m\u00f3g\u0142 to kupi\u0107 i udawa\u0107 kogo\u015b innego, co z punktu widzenia oszustw i manipulacji jest po prostu ryzykowne.\n\nProblemem by\u0142y te\u017c reklamy na X: tak ma\u0142o czytelne, \u017ce badacze nie mogli sprawdzi\u0107, kto je",
+        "id": 4293151,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/10MG66AVe5k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/10MG66AVe5k/hqdefault.jpg",
+        "title": "\u2716\ufe0f Ukarany Twixxer i rozsierdzony Elon",
+        "vote": 0
+    }
+]

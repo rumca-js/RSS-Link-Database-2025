@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Epic Games",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T19:37:10.188526+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T19:18:53+00:00",
+        "description": "Prime luxury real estate has arrived in Los Santos. \n\nA Safehouse in the Hills \u2014 the monumental new GTA Online update \u2014 features luxurious mansion properties, an all-new action-packed adventure, exquisite vehicles to collect, the return of a familiar face, and much more. httsp://epic.gm/GTAV",
+        "id": 4296857,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-Z2blquQ5t8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 722,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5Qk8mWBwtMyEj7iQQYRk1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-Z2blquQ5t8/hqdefault.jpg",
+        "title": "GTA Online: A Safehouse in the Hills | Out Now",
+        "vote": 0
+    }
+]

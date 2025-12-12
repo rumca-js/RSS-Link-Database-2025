@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uwaga! Naukowy Be\u0142kot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T18:17:06.152424+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T17:39:56+00:00",
+        "description": "\ud83d\udcda Moja najnowsza ksi\u0105\u017cka z darmow\u0105 dostaw\u0105  \u25ba https://to.alt.pl\n#autopromocja \n\nWspominane badanie:\nM. Sherif - A study of some social factors in perception",
+        "id": 4296173,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/CReXp0_A0dw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 377,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7PqixGIdE-jjoHKMPYpGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CReXp0_A0dw/hqdefault.jpg",
+        "title": "Czy 75.000 ludzi mo\u017ce si\u0119 myli\u0107?",
+        "vote": 0
+    }
+]

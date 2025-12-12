@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/JoshLeaves",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T19:25:16.744416+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T19:14:57+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1pk673j/digitalfoundry_weve_played_the_first_ps3emulated/\"> <img src=\"https://external-preview.redd.it/tTc1XTFiuvnUJnvYGD6Lg9yRTTWrPCzN_SY5xXpTUqw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81369d0416a46a366be714695f9e7a8d4e6a3aa3\" alt=\"DigitalFoundry | We've Played The First PS3-Emulated Game For PS5\" title=\"DigitalFoundry | We've Played The First PS3-Emulated Game For PS5\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JoshLeaves\"> /u/JoshLeaves </a> <br/> <span><a href=\"https://www.digitalfoundry.net/news/2025/12/weve-played-the-first-ps3-emulated-game-for-ps5\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1pk673j/digitalfoundry_weve_played_the_first_ps3emulated/\">[comments]</a></span> </td></tr></table>",
+        "id": 4296818,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1pk673j/digitalfoundry_weve_played_the_first_ps3emulated",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/tTc1XTFiuvnUJnvYGD6Lg9yRTTWrPCzN_SY5xXpTUqw.jpeg?width=640&crop=smart&auto=webp&s=81369d0416a46a366be714695f9e7a8d4e6a3aa3",
+        "title": "DigitalFoundry | We've Played The First PS3-Emulated Game For PS5",
+        "vote": 0
+    }
+]

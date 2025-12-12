@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T21:15:22.086024+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T17:03:41+00:00",
+        "description": "Shane Legg, Chief AGI Scientist and co-founder of Google DeepMind, has been talking about artificial general intelligence, or AGI, for more than a decade. So what\u2019s changed? According to Shane, now is the time to take it seriously.\n\nIn this episode, Shane walks host Hannah Fry through his AGI framework, breaking down the levels from minimal AGI to full AGI, and his timelines for each. They discuss the economic and societal shifts AGI will bring, the potential impact on work, and the extraordinary possibilities for human flourishing.\n\nTimecodes\n00:00 Coming up\n00:41 Intro\n13:43 Defining artificial general intelligence\n26:20 Ethics of AGI\n40:10 Societal and economic transformation \n45:10 Future of work\n50:00 Potential for human flourishing\n\nFurther reading\n\nLevels of AGI paper: https://arxiv.org/abs/2311.02462 \nThe road to AGI (Google DeepMind Podcast, S2): https://youtu.be/Uy4OYU7PQYA \n\n___\n\nThanks to everyone who made this possible, including but not limited to: \nPresenter: Professor ",
+        "id": 4297598,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l3u_FAv33G0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l3u_FAv33G0/hqdefault.jpg",
+        "title": "The arrival of AGI | Shane Legg (co-founder of DeepMind)",
+        "vote": 0
+    }
+]

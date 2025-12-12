@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T16:12:05.672185+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T15:54:22+00:00",
+        "description": "Warner Bros is in the news for a potential Netflix acquisition. What does it mean for their games division? Let's talk.\n\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1",
+        "id": 4295007,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4fgEBqy0mZU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4fgEBqy0mZU/hqdefault.jpg",
+        "title": "What The HELL IS GOING ON With Warner Bros. Games?",
+        "vote": 0
+    }
+]

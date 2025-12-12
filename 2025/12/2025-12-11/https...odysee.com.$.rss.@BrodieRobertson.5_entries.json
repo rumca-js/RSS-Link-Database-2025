@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T20:21:15.809941+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T16:30:11+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/PmjBZDGJzDQ\" width=\"480\" alt=\"thumbnail\" title=\"The Scientifically Correct Arch Linux User\" /></p>What do Arch Linux users actually run, well I can't say for certain but I would say that looking at pkgstats the opt in telemetry for Arch Linux is going to give us a pretty good ball park set of figures<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />pkgstats: https://wiki.archlinux.org/title/Pkgstats<br />Debian Popcon: https://popcon.debian.org/<br />Arch Linux Telemetry: https://pkgstats.archlinux.de<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/g",
+        "id": 4297311,
+        "language": "en",
+        "link": "https://odysee.com/the-scientifically-correct-arch-linux:699d6208cd4c13346ea016972af3bff72f3b714d",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/PmjBZDGJzDQ",
+        "title": "The Scientifically Correct Arch Linux User",
+        "vote": 0
+    }
+]

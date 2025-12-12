@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T16:07:21.101972+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T15:23:47+00:00",
+        "description": "Use a secure, encrypted, and fast VPN with Proton VPN: https://protonvpn.com/TheLinuxEXP\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:38 Sponsor: ProtonVPN\n01:31 Install & First Run\n03:31 Cosmic Desktop: it's fine\n08:10 Design and app integration\n13:15 Desktop Tweaking\n16:49 Tiling\n20:59 X11 & Wayland\n22:45 Default Apps\n16:42 PopOS 24.04: Old, but up to date\n28:47 Parting Thoughts\n\n\n#linuxdesktop #cosmic #linuxdistro #popos",
+        "id": 4294971,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ob-Y77kuVwM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ob-Y77kuVwM/hqdefault.jpg",
+        "title": "Cosmic a great Linux desktop, but still limited",
+        "vote": 0
+    }
+]

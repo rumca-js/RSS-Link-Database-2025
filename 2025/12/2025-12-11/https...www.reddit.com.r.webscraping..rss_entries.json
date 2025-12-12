@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Past-Refrigerator803",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-11T02:41:01.918797+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-11T01:50:31+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>A Chrome DevTools Kotlin client is a *conroutine safe* Kotlin library that allows programmatic interaction with the Chrome browser through the Chrome DevTools Protocol (CDP). This enables Kotlin applications to control and inspect Chrome or Chromium, facilitating tasks such as web automation, testing, scraping, and debugging.</p> <blockquote> <p><strong>Note</strong>: This API retains full compatibility with the original chrome-devtools-java-client, but all methods are defined as suspend functions, making them non-blocking.</p> </blockquote> <p>I&#39;m glad to share this library, it\u2019s has been used in browser agents, browser automation and web scraping very well \ud83d\ude0e</p> <p><a href=\"https://github.com/galaxyeye/chrome-devtools-kotlin-client\">https://github.com/galaxyeye/chrome-devtools-kotlin-client</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Past-Refrigerator803\"> /u/Past-Refrigerator803 </a> <br/> <span><a",
+        "id": 4290305,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1pjl7lx/an_undetectable_coroutine_safe_chrome_devtools",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "An undetectable, coroutine safe Chrome DevTools Protocol in Kotlin.",
+        "vote": 0
+    }
+]
