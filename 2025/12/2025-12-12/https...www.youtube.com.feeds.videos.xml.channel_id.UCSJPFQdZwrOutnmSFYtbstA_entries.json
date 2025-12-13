@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T18:28:57.408961+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T17:01:36+00:00",
+        "description": "James Gunn's Superman by James Gunn wasn't the hit Warner Bros were probably hoping for, but now we're back for another try with Supergirl by... not James Gunn. And yet somehow, it feels like the most James Gunn movie ever made. Let's take a look, shall we?",
+        "id": 4305696,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=82uw8W_IQMo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/82uw8W_IQMo/hqdefault.jpg",
+        "title": "Supergirl - More Superhero Slop?",
+        "vote": 0
+    }
+]

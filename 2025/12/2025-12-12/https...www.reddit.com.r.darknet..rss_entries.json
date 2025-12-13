@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/jonbalzak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T21:48:24.649401+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T21:42:59+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I&#39;m new to this. I&#39;ve always wanted to find drugs on the dark web, but there&#39;s so much fake stuff that I&#39;ve never tried. Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jonbalzak\"> /u/jonbalzak </a> <br/> <span><a href=\"https://www.reddit.com/r/darknet/comments/1pl41uu/any_recommendations/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/darknet/comments/1pl41uu/any_recommendations/\">[comments]</a></span>",
+        "id": 4307261,
+        "language": "en",
+        "link": "https://www.reddit.com/r/darknet/comments/1pl41uu/any_recommendations",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 681,
+        "source_url": "https://www.reddit.com/r/darknet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Any recommendations?",
+        "vote": 0
+    }
+]

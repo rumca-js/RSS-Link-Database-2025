@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Man Carrying Thing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T21:51:09.775941+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T20:56:17+00:00",
+        "description": "Nebula: https://go.nebula.tv/mancarryingthing\nLetterboxd: https://letterboxd.com/ManCarrying/\nTwitter: https://twitter.com/ManCarrying\nMerch: https://mancarryingthing.com\nOur second channel: https://www.youtube.com/channel/UC8aGE10t6QrcdRMpgorwkAA\nPatreon: https://www.patreon.com/mancarryingthing\nTikTok: https://www.tiktok.com/@mancarryingthing\nReddit: https://www.reddit.com/r/ManCarryingThing/\nDiscord: https://discord.gg/dz6zskP53w\nInstagram: https://www.instagram.com/mancarryingthing/",
+        "id": 4307281,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yZ8QyYfcUTA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 639,
+        "source_url": "https://youtube.com/channel/UCPdaxSov0mgwh77JvjQO2jQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yZ8QyYfcUTA/hqdefault.jpg",
+        "title": "that 1 joke in every 3+ hour video essay",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T17:58:00.551300+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T17:01:16+00:00",
+        "description": "How to find cheap RAM - Dec 2025\nhttps://wccftech.com/asgard-launches-256-gb-ddr5-memory-kit-at-the-price-of-nvidia-rtx-5090/ \nhttps://videocardz.com/newz/gamer-scores-rtx-4070-ti-14900kf-and-64gb-pc-for-just-600 \nhttps://www.tomshardware.com/desktops/servers/developer-gambles-on-obviously-fake-usd8k-grace-hopper-system-scores-usd80-000-worth-of-hardware-on-reddit-for-one-tenth-of-the-cost-buyers-haul-includes-960gb-of-ddr5-ram-worth-more-than-what-he-paid-for-the-entire-rig",
+        "id": 4305441,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/w4aPFTd-72E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/w4aPFTd-72E/hqdefault.jpg",
+        "title": "How to find Cheap RAM",
+        "vote": 0
+    }
+]

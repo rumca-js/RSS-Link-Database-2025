@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joseph Howlett",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T15:53:49.350566+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T15:35:34+00:00",
+        "description": "Years ago, an audacious Fields medalist outlined a sweeping program that, he claimed, could be used to resolve a major problem in algebraic geometry. Other mathematicians had their doubts. Now he says he has a proof.            <p>The post <a href=\"https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/\" target=\"_blank\">String Theory Inspires a Brilliant, Baffling New Math Proof</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 4304343,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/12/QuantumPolynomials-crKristinaArmitage-Default.webp",
+        "title": "String Theory Inspires a Brilliant, Baffling New Math Proof",
+        "vote": 0
+    }
+]

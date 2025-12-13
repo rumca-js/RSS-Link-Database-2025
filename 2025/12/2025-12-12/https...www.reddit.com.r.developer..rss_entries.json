@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Hot-Lifeguard-4649",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T21:50:33.369516+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T21:07:33+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1pl37m4/prepend_tomcporg_to_any_url_to_instantly_turn_it/\"> <img src=\"https://external-preview.redd.it/YyB2iQahKVSLFsfmOUipEKFFSuV5-8umFLF_QkzDgCE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ec24feb9ff96b94c8d820400dd54c8eb5df856a\" alt=\"Prepend tomcp.org/ to any URL to instantly turn it into an MCP server\" title=\"Prepend tomcp.org/ to any URL to instantly turn it into an MCP server\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I built a simple tool that lets you prepend tomcp.org/ to any URL to instantly turn it into an MCP server.</p> <p>You can use it to chat directly with a page or add the config to Cursor/Claude to pipe documentation straight into your context.</p> <p>How this differs from web_fetch: </p> <p>- Signal-to-Noise: Standard fetch tools usually dump raw HTML (navbars, scripts, footer noise) into the context. This wastes tokens and distracts the model. toMCP runs the p",
+        "id": 4307278,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1pl37m4/prepend_tomcporg_to_any_url_to_instantly_turn_it",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/YyB2iQahKVSLFsfmOUipEKFFSuV5-8umFLF_QkzDgCE.png?width=640&crop=smart&auto=webp&s=7ec24feb9ff96b94c8d820400dd54c8eb5df856a",
+        "title": "Prepend tomcp.org/ to any URL to instantly turn it into an MCP server",
+        "vote": 0
+    }
+]

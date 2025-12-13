@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcus Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T08:46:44.975018+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T08:03:03+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/12/pearos-1.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"pearOS\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/12/pearos-1.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/12/pearos-1.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/12/pearos-1.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>pearOS NiceC0re 25.12 is now available for download based on Arch Linux and featuring a highly customized KDE Plasma desktop environment to mimic the macOS look and feel.</p>\n<p>The post <a href=\"https://9to5linux.com/pearos-is-back-now-based-on-arch-linux-and-featuring-the-kde-plasma-desktop\">pearOS Is Back, Now Based on Arch Linux and Featuring the KDE Plasma Desktop</a> appeared first on <a href=\"https://9to5l",
+        "id": 4301500,
+        "language": "en-US",
+        "link": "https://9to5linux.com/pearos-is-back-now-based-on-arch-linux-and-featuring-the-kde-plasma-desktop",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/12/pearos-1.webp",
+        "title": "pearOS Is Back, Now Based on Arch Linux and Featuring the KDE Plasma Desktop",
+        "vote": 0
+    }
+]

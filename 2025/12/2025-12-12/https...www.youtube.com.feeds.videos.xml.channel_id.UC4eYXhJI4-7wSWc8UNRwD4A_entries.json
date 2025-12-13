@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T18:05:30.665833+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T17:05:56+00:00",
+        "description": "Tom Huizenga | December 12, 2025\nFor classical guitarist Sean Shibe, conventions and limitations are made to be broken. As expected, he plays Spanish standard repertoire and intricate Baroque tunes on his nylon-strung guitar as well as anyone. Note the quiet, wistful intimacy Shibe offers in a cancion by Federico Mompou and a Bach sarabande. Shibe is so inside the music that his cheek often rests on the top of his instrument.\n\nThe Scottish guitarist loves to plug in, too. He knows how to shred, yet he can also make his electric guitar sound as light as a butterfly\u2019s wing \u2014 as in the ethereal closing number in this set, \u201cHigh on a Rocky Ledge,\u201d by the eccentric American street musician Moondog.\n\nShibe is fearless in the face of challenges, which explains why the bulk of his Tiny Desk set is devoted to the new, finger-twisting music written for him by English composer Thomas Ad\u00e8s. \u201cHe explodes the technical limits of the instrument,\u201d Shibe explains. \u201cHe explodes my hands as well. He alm",
+        "id": 4305572,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=yNJR6WihGgw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yNJR6WihGgw/hqdefault.jpg",
+        "title": "Sean Shibe: Tiny Desk Concert",
+        "vote": 0
+    }
+]

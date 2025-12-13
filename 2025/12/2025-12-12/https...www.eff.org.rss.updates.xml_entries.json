@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paige Collings",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T17:06:25.913625+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T16:48:47+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>The UK Parliament convened earlier this week to debate a </span><a href=\"https://petition.parliament.uk/petitions/730194\"><span>petition</span></a><span> signed by almost 2.9 million people calling for an end to the </span><a href=\"https://www.gov.uk/government/news/new-digital-id-scheme-to-be-rolled-out-across-uk\"><span>government\u2019s plans</span></a><span> to roll out a national digital ID. Ahead of that debate, EFF and 12 other civil society organizations </span><a href=\"https://bigbrotherwatch.org.uk/wp-content/uploads/2025/12/NGO-Joint-Digital-ID-Debate-Briefing.pdf\"><span>wrote to politicians in the country</span></a><span> urging MPs to reject the Labour government\u2019s newly announced digital ID proposal.</span></p>\n<p><span>The UK\u2019s Prime Minister Keir Starmer </span><a href=\"https://www.bbc.com/news/articles/clyl3lzzed2o\"><span>pit",
+        "id": 4304999,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/12/eff-and-12-organizations-urge-uk-politicians-drop-digital-id-scheme-ahead",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF and 12 Organizations Urge UK Politicians to Drop Digital ID Scheme Ahead of Parliamentary Petition Debate",
+        "vote": 0
+    }
+]

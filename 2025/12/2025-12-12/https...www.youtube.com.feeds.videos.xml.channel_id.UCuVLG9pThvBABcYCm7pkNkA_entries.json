@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Climate Town",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T18:02:17.062631+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T17:46:49+00:00",
+        "description": "Run don't walk to cash in some home energy efficiency tax credits before they get cut at the end of the year! Yep, despite bipartisan popularity for the 20 years since George W. Bush rolled out the Energy Policy Act to help Americans afford better energy, The Trump Administration has decided they've simply gotta go. If you\u2019ve been thinking about getting better insulation, some solar\u00a0panels, or maybe a heat pump \u2026 it\u2019s now or never. #ClimatePowerPartner",
+        "id": 4305518,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/wGxXI3DcvN0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 71,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wGxXI3DcvN0/hqdefault.jpg",
+        "title": "RUN DON'T WALK!",
+        "vote": 0
+    }
+]

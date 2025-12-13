@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T16:00:59.580242+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T14:58:46+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nJohn Linneman and Coury Carlson team-up to compare notes on Terminator 2D: No Fate and Neon Inferno - two retro-modern side-scrolling shooters than bring the mid-90s arcade game formula to the present day, with spectacular results. \n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe",
+        "id": 4304381,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1oX6AlGDdsc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1oX6AlGDdsc/hqdefault.jpg",
+        "title": "Terminator 2D: No Fate & Neon Inferno - Supreme Quality Retro-Modern Shooters Reviewed",
+        "vote": 0
+    }
+]

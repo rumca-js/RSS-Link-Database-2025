@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shayna Korol",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T13:15:04.974186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T07:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"An illustration of a man in a business suit uploading his brain to a computer. \" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-1572902706.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">If you\u2019re a human, there\u2019s a very good chance you\u2019ve been involved in <a href=\"https://grants.nih.gov/policy-and-compliance/policy-topics/human-subjects/research\">human subjects research</a>. </p>\n\n<p class=\"has-text-align-none\">Maybe you\u2019ve participated in a clinical trial, completed a survey about your health habits, or took part in a graduate student\u2019s experiment for $20 when you were in college. Or maybe you\u2019ve conducted research yourself as a student or professional.&nbsp;</p>\n\n<div class=\"wp-block-vox-media-highlight vox-media-highlight\">\n<h2 class=\"wp-block-heading\">Key takeaways<br></h2>\n\n\n\n<ul ",
+        "id": 4302957,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/472017/human-subjects-research-ai-irb-tamiko-eto",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-1572902706.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Will AI make research on humans\u2026 less human?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T17:35:28.571944+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T16:38:24+00:00",
+        "description": "Przepraszam wszystkie koniary.",
+        "id": 4305125,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=IvnH2Zg45rk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IvnH2Zg45rk/hqdefault.jpg",
+        "title": "G\u0142upi Pi\u0105tek: Zupe\u0142nie normalna gra o koniach",
+        "vote": 0
+    }
+]

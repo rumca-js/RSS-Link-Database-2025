@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T02:49:39.979843+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T02:20:18+00:00",
+        "description": "Thanks to MOVA V50 Ultra Complete for sponsoring this video, Checkout their Christmas Deals: Save $600! Best Value Under $1,000. Website: https://bit.ly/3XnZH58 - $600 off or Amazon: https://amzn.to/49egoXY\n\n\"Secure and automatic backups made easy. Secure, encrypted backups with zero\u2011knowledge simplicity. Select files or full systems, to any storage, on any operating system.\" - https://duplicati.com\n\nDocker Compose: https://docs.duplicati.com/detailed-descriptions/using-duplicati-from-docker\nDocs: https://docs.duplicati.com/getting-started/set-up-a-backup-in-the-ui\n\n\ud83c\udfc6 FOLLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE:",
+        "id": 4299847,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eD7ULX7AK6M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eD7ULX7AK6M/hqdefault.jpg",
+        "title": "EASY Open Source Backups - Fully Encrypted with Duplicati",
+        "vote": 0
+    }
+]

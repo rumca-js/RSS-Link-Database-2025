@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T20:45:26.069100+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T20:30:14+00:00",
+        "description": "I colorized, fully restored, and added immersive sound design to this rare footage capturing the streets of Chicago in the 1930s were a vivid blend of resilience and struggle. Crowded sidewalks bustled with street vendors, newsboys, and workers rushing between factories, department stores, and elevated train stations. Immigrant communities shaped entire neighborhoods, bringing a rich mix of languages, traditions, and storefronts that lined the busy avenues. Yet beneath the city\u2019s vibrant daily life, the economic hardship of the era was unmistakable: long breadlines, men searching desperately for work, and families doing everything they could to endure one of the most challenging periods in American urban history.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:(stabilisation,deno",
+        "id": 4306729,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=0M4pyNC5zow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0M4pyNC5zow/hqdefault.jpg",
+        "title": "Street Life in Chicago 1930s in color [60fps, Remastered] Sound Design",
+        "vote": 0
+    }
+]

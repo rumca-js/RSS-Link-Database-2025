@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T15:36:53.068342+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T15:01:57+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nDo Something: Mindfulness & Mental Health for Software Engineers - Patrick Martin - ACCU Short Talks\n---\n\nIn this ACCU 2025 lightning talk, \"Do Something,\" the speaker offers a humorous, heartfelt, and insightful reflection on mental health for software engineers. Addressing the importance of action and self-awareness, the talk blends engineering humor with powerful messages about mindfulness for engineers, burnout prevention for programmers, and the value of experiential awareness.\n\nThrough the lens of a fictional \u201cBrian damage\u201d diagnosis and a lighthearted exploration of rehabilitation, the speaker highlights how simple sensory practices \u2014 like forest bathing (shinrin yoku), breathing exercises, and mindful attention \u2014 can improve brain health and mental resilience. These ideas resonate strongly with anyone navigating the stress and cognitive load of software development.\n\nThe talk touches on actionable strategies for software devel",
+        "id": 4304030,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zl4HVtkO_II",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zl4HVtkO_II/hqdefault.jpg",
+        "title": "Do Something: Mindfulness & Mental Health for Software Engineers - Patrick Martin - ACCU Short Talks",
+        "vote": 0
+    }
+]

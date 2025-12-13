@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Disney",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T17:09:03.762764+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T17:00:01+00:00",
+        "description": "The Movie Surfers are here for another episode, with \u201cAvatar: Fire and Ash.\u201d Dive back into the far-off planet of Pandora for an exclusive, behind-the-scenes look at the third installment of James Cameron\u2019s phenomenally successful \u201cAvatar\u201d franchise. Michelle Khare (@MichelleKhare) chats up the stars of the movie, Bailey Bass (Tsireya), Jack Champion (Miles \u201cSpider\u201d Socorro), and Trinity Jo-Li Bliss (Tuk) about learning to free-dive, doing parkour, and stepping back into Na\u2019vi culture. Oona Chaplin (Varang) will then introduce Movie Surfers to the treacherous \u201cAsh People\u201d who will wreak havoc in the upcoming film. The Surfers also get a crash course in performance capture with Richard Baneham, the movie\u2019s Executive Producer and VFX Supervisor, and stunt performer, Alicia Vela-Bailey. The man behind it all, James Cameron, even stops by to give the Movie Surfers a peek behind the curtain!\n\nExperience \u201cAvatar: Fire and Ash\u201d only in theatres on December 19th, 2025. \n\nDisney\u2019s \u201cMovie Surfe",
+        "id": 4305006,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-iQg3nZn090",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 590,
+        "source_url": "https://www.youtube.com/channel/UC_5niPa-d35gg88HaS7RrIw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-iQg3nZn090/hqdefault.jpg",
+        "title": "Movie Surfers | Behind the Scenes of Avatar: Fire & Ash with @MichelleKhare",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T15:32:11.246490+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T15:10:22+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">CM0 - a new Raspberry Pi you can't buy</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm0.jpeg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-6e56f4f9-98fe-42ea-8923-73f9c82f4a65\" data-insert-attach=\"{&quot;id&quot;:&quot;6e56f4f9-98fe-42ea-8923-73f9c82f4a65&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Raspberry Pi CM0\"></p>\n\n<p>This little postage stamp is actually a full Raspberry Pi Zero 2, complete with eMMC storage and WiFi.</p>\n\n<p>But you can't get one. Well, not unless you buy the <a href=\"https://edatec.cn/docs/cm0nano/ds/\">CM0NANO development board from EDAtec",
+        "id": 4303991,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-cm0.jpeg",
+        "title": "CM0 - a new Raspberry Pi you can't buy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T02:55:30.858834+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T02:20:18+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/eD7ULX7AK6M\" width=\"480\" alt=\"thumbnail\" title=\"EASY Open Source Backups - Fully Encrypted with Duplicati\" /></p>Thanks to MOVA V50 Ultra Complete for sponsoring this video, Checkout their Christmas Deals: Save $600! Best Value Under $1,000. Website: https://bit.ly/3XnZH58 - $600 off or Amazon: https://amzn.to/49egoXY<br /><br />\"Secure and automatic backups made easy. Secure, encrypted backups with zero\u2011knowledge simplicity. Select files or full systems, to any storage, on any operating system.\" - https://duplicati.com<br /><br />Docker Compose: https://docs.duplicati.com/detailed-descriptions/using-duplicati-from-docker<br />Docs: https://docs.duplicati.com/getting-started/set-up-a-backup-in-the-ui<br /><br />\ud83c\udfc6 FOLLOW TECHHUT<br />X (Twitter): https://bit.ly/twitter-techhut<br />MASTODON: https://bit.ly/mastodon-techhut<br />BlueSky: https://bsky.app/profile/techhut.bsky.social<br />INSTAGRAM: https://bit.ly/personal-insta<br /><br />\ud83d\udc4f SUPPOR",
+        "id": 4299872,
+        "language": "en",
+        "link": "https://odysee.com/easy-open-source-backups-fully-encrypted:753ff20399c9060708cadce3d112d3287ad48f0d",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/eD7ULX7AK6M",
+        "title": "EASY Open Source Backups - Fully Encrypted with Duplicati",
+        "vote": 0
+    }
+]

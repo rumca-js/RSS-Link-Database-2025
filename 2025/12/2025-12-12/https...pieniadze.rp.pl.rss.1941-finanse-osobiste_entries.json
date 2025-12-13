@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T04:04:40.386041+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T04:04:39+00:00",
+        "description": "Ceny srebra ustanowi\u0142y kolejny rekord, przekraczaj\u0105c poziom 60 USD za uncj\u0119. Licz\u0105c od pocz\u0105tku roku okaza\u0142o si\u0119 ono du\u017co lepsz\u0105 inwestycj\u0105 ni\u017c z\u0142oto czy bitcoin. Rekord ustanowi\u0142y te\u017c niedawno notowania miedzi.",
+        "id": 4300257,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/kruszce/art43492401-srebro-z-kolejnym-rekordem-rowniez-miedz-blyszczy-na-rynku",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Srebro z kolejnym rekordem. R\u00f3wnie\u017c mied\u017a b\u0142yszczy na rynku",
+        "vote": 0
+    }
+]

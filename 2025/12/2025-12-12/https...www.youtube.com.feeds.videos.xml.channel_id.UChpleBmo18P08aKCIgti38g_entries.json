@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T21:14:12.632557+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T20:45:00+00:00",
+        "description": "Hostinger is still running their Cyber Week Sale. Check it out here: http://hostinger.com/mattn8n\n\nThe world of AI is trying to slow down for the holidays, but the announcements are still coming in HOT! \n\nThis week, we're diving deep into the massive waves coming from OpenAI, including the highly anticipated GPT-5.2 release (which we'll pick up right from the Rivian event!), and the huge leak of their new image model.\n\nPlus, we'll check out the video generation world with a hands-on look at Runway's Gen-4.5 (it's actually demo-able now!), and all the major model updates from the open-source side, including Mistral\u2019s Devstral 2 for coding and the new vision-language model from Zhipu AI.\n\nFinally, we hit the rapid-fire headlines: Meta\u2019s latest acquisition, why an AI Christmas ad failed, and what's next for AI agents thanks to the new Agentic AI Foundation.\n\n#AINews #ChatGPT #RunwayML #ArtificialIntelligence\n\nDiscover More:\n\ud83d\udee0\ufe0f Explore AI Tools & News: https://futuretools.io/\n\ud83d\udcf0 Weekly New",
+        "id": 4306847,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3-5czU5IxaU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3-5czU5IxaU/hqdefault.jpg",
+        "title": "GPT-5.2 Is HERE! (Plus Runway 4.5 and the Next Image AI Leaks)",
+        "vote": 0
+    }
+]

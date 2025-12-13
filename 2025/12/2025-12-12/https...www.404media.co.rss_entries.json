@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samantha Cole",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-12T17:51:07.365303+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-12T17:06:05+00:00",
+        "description": "This week, we discuss conversational AI, a behind the scenes of the zine, and more.",
+        "id": 4305273,
+        "language": "en",
+        "link": "https://www.404media.co/behind-the-blog-is-this-headline-clickbait",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/12/nl1212-1.png",
+        "title": "Behind the Blog: Is This Headline 'Clickbait'?",
+        "vote": 0
+    }
+]
