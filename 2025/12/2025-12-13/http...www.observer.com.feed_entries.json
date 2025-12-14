@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elisa Carollo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T13:11:10.577672+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T13:00:21+00:00",
+        "description": "In \"Relical Horn\" at Andrew Edlin Gallery, the artist transforms ceramics into cross-cultural archetypes.",
+        "id": 4310998,
+        "language": "en",
+        "link": "https://observer.com/2025/12/interview-artist-samuel-sarmiento-relical-horn-andrew-edlin-gallery-new-york",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "Samuel Sarmiento\u2019s Ceramics Channel Universal Memory in His U.S. Debut",
+        "vote": 0
+    }
+]

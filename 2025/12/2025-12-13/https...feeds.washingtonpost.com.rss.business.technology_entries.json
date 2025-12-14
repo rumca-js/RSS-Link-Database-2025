@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Taylor Telford",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T11:39:47.009131+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T11:00:00+00:00",
+        "description": "Fervor over employee posts about Charlie Kirk\u2019s death is leading companies to adjust policies and step up monitoring of workers\u2019 online conduct.",
+        "id": 4310498,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/business/2025/12/13/employer-crackdown-social-media",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How companies are cracking down on workers\u2019 social media activity",
+        "vote": 0
+    }
+]

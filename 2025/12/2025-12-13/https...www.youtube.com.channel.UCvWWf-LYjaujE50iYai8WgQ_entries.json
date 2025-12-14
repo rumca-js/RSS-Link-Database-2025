@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T20:03:12.164168+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T19:16:03+00:00",
+        "description": "Intel's Next Big Drop \n\"Big Battlemage\" Arc B770 GPU could debut at CES 2026\nhttps://www.techspot.com/news/110537-intel-confirms-big-battlemage-gpu-arc-b770-could.html \nhttps://www.intel.com/content/www/us/en/developer/articles/release-notes/vtune-profiler/current.html \nhttps://overclock3d.net/news/gpu-displays/arc-b770-intel-leak-hints-at-new-300w-gpu/",
+        "id": 4313304,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6L--mPNUt5I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6L--mPNUt5I/hqdefault.jpg",
+        "title": "Intel's Next Big Drop",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joshua Fluke",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T01:46:02.118405+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T01:17:53+00:00",
+        "description": "Are you even working\u2026 or are you just REALLY good at not getting caught?\n\nBusiness Insider says if you use ChatGPT or Claude at work and don\u2019t tell your boss, you\u2019re an \u201cAI Creeper.\u201d\nMeanwhile your boss says \u201cCan you have this done by Friday?\u201d and you say yes \u2014 because AI finished it in 10 minutes.\n\nAnd no, you\u2019re not telling them.\nBecause telling them means:\n\u2022 more work\n\u2022 fewer coworkers\n\u2022 or \u201cinteresting conversations about your role going forward\u201d\n\nWorkers aren\u2019t hiding AI because they\u2019re shady.\nThey\u2019re hiding it because corporations haven\u2019t decided whether AI is a tool, a threat, or an excuse to delete your job and post about \u201cresilience\u201d on LinkedIn.\n\nSurveys show most employees already use AI \u2014 they just don\u2019t say it out loud.\nNo policy. No protection. All risk.\nSo yeah\u2026 people are closing tabs, minimizing windows, and suddenly becoming \u201cExcel wizards.\u201d\n\nIf your productivity doubled overnight and nobody knows why\u2026\nIf your AI tab vanishes when footsteps approach\u2026\nIf you pretend i",
+        "id": 4308475,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5BYOUhG47wo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 169,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-91UA-Xy2Cvb98deRXuggA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5BYOUhG47wo/hqdefault.jpg",
+        "title": "THE RISE OF AI CREEPERS!",
+        "vote": 0
+    }
+]

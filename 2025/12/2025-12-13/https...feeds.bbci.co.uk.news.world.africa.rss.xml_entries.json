@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T15:29:23.167512+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T14:41:04+00:00",
+        "description": "Nigeria's biggest city is known for its vibrant arts scene, nightlife and creativity, but street art is relatively unknown.",
+        "id": 4311776,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c4ge4q8gypzo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c14d/live/f35fbbe0-d831-11f0-94e7-8f2327f3d498.jpg",
+        "title": "Street art festival sees Lagos turned into 'open-air gallery'",
+        "vote": 0
+    }
+]

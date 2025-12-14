@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T16:44:41.469737+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T14:00:19+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/B6Dbvs-q1zw\" width=\"480\" alt=\"thumbnail\" title=\"Setting Up Virt-Manager On Linux\" /></p>Virt-Manager (Virtual Machine Manager) is a popular graphical desktop application for managing virtual machines and containers on Linux, acting as a user-friendly frontend for the libvirt virtualization API.  It allows users to easily create, run, and manage VMs without complex command-line work. <br /><br />REFERENCED:<br />\u25ba https://virt-manager.org/<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube<br />\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/<br />\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@Dist",
+        "id": 4312234,
+        "language": "en",
+        "link": "https://odysee.com/setting-up-virt-manager-on-linux:7c1daabac76217cd0f0540a2d460c2ab092fffc2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/B6Dbvs-q1zw",
+        "title": "Setting Up Virt-Manager On Linux",
+        "vote": 0
+    }
+]

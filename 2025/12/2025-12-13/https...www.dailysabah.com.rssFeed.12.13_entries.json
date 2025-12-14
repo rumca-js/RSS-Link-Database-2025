@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T14:17:53.223633+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T14:17:52+00:00",
+        "description": "Syrian security forces and U.S. troops were wounded after shots were fired at a joint military delegation in Palmyra, central Syria on Saturday, state media said.\n\nSANA quoted a se...",
+        "id": 4311360,
+        "language": "en-US",
+        "link": "https://www.dailysabah.com/world/mid-east/us-syrian-soldiers-wounded-after-shots-fired-at-delegation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 81,
+        "source_url": "https://www.dailysabah.com/rssFeed/12/13",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://idsb.tmgrup.com.tr/ly/uploads/images/2025/12/13/416463.jpg",
+        "title": "US, Syrian soldiers wounded after shots fired at delegation",
+        "vote": 0
+    }
+]

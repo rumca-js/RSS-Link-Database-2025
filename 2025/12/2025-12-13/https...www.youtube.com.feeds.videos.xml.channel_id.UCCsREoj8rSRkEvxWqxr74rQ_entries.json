@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cybernews",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T21:53:59.220591+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T20:00:41+00:00",
+        "description": "A four hour compilation of nine original hacking documentaries, exploring the world of state-sponsored hacking, cybercrime and events that shaped the cyberspace to the point of no return.\n\n\ud83c\udfaf Subscribe to @cybernews for more hacking documentaries, tech innovation and the latest in cybersecurity: https://cnews.link/subscribe/\n\n\ud83d\udcac Stay connected with us on social media for the latest news, insights, and discussions around cybersecurity:\nhttps://www.facebook.com/cybernewscom\nhttps://www.instagram.com/official_cybernews/\nhttps://x.com/CyberNews\nhttps://lt.linkedin.com/company/cybernews\nhttps://www.threads.com/@official_cybernews\nhttps://www.reddit.com/r/CyberNews/\n\nTIMESTAMPS:\n00:13 The Most Destructive Hack Ever Used: NotPetya\n30:00 How Hackers Paralyzed an Entire Country\n46:13 How the NSA Hacked Huawei: Operation Shotgiant\n1:05:00 North Korea's Most Destructive Hack: Dark Seoul\n1:37:49 The Biggest Hacking Mystery of Our Time: The Shadow Brokers\n2:26:55 The Most Secret US Hacking Operation",
+        "id": 4313831,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=r9Q88EF60Vo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 433,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsREoj8rSRkEvxWqxr74rQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r9Q88EF60Vo/hqdefault.jpg",
+        "title": "HACKER DOCUMENTARY MEGA COMPILATION",
+        "vote": 0
+    }
+]

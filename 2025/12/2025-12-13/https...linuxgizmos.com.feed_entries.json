@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T18:43:19.210045+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T17:51:11+00:00",
+        "description": "FORECR has introduced the DSBOX-THRMAX, an industrial box PC based on NVIDIA&#8217;s Jetson Thor (T5000) module, targeting robotics, autonomous machines, and edge deployments that require high compute density, real-time processing, and multi-sensor support. The platform is based on the NVIDIA Jetson T5000 module, which is specified to deliver up to 2070 TFLOPS of AI performance [&#8230;]",
+        "id": 4312878,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/jetson-thor-industrial-pc-pairs-25gbe-networking-with-optional-gmsl2-camera-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jetson Thor industrial PC pairs 25GbE networking with optional GMSL2 camera support",
+        "vote": 0
+    }
+]

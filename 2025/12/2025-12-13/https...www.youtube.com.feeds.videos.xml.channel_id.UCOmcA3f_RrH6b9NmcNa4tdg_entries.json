@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T14:08:44.695771+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T13:00:17+00:00",
+        "description": "CNET's Andrew Lanxon puts the iPhone 17 Pro through the ultimate filmmaking test as he makes a short movie. Working side by side with a BlackMagic Pyxis 6K camera, Andrew compares the two to answer the question, \"Can an iPhone 17 Pro be another tool in a filmmaker's kit?\"\n\nYou can find the products featured in ths video linked below\nApple iPhone 17 Pro, US Version, 512GB https://zdcs.link/QVEWXN\nBlackmagic Design Pyxis 6K Full-Frame Cinema Box Camera https://zdcs.link/zEJpgG\nSmallRig Universal Quick Release Phone Cage Kit https://zdcs.link/9YMZWx\nCrucial X10 Pro 4TB Portable SSD https://zdcs.link/zJrGgk\nSmallRig 52mm Magnetic Variable ND Filter Kit https://zdcs.link/QPV68m\nDZOFilm Arles 35mm T1.4 FF/VV Prime Cine Lens  https://zdcs.link/911mj8\nDZOFILM X-Tract 18-28mm T8 2.1x Macro Probe Lens https://zdcs.link/aeKEbX\nSigma 105mm f/2.8 EX DG OS HSM Macro Lens https://zdcs.link/aXVmWp\n*CNET may get a commission on these offers\n\nRead more about the iPhone 17 Pro test on CNET.com\nCan My iP",
+        "id": 4311234,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8FhBC9VdkCA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8FhBC9VdkCA/hqdefault.jpg",
+        "title": "iPhone 17 Pro vs. BlackMagic Pyxis Camera | Prove It",
+        "vote": 0
+    }
+]

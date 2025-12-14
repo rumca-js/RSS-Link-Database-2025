@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Katherine Krueger",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T15:17:03.392753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T14:23:34+00:00",
+        "description": "<p>The Department of War has cracked the code on making the perfect press corps by welcoming in only its biggest cheerleaders.</p>\n<p>The post <a href=\"https://theintercept.com/2025/12/13/hegseth-new-pentagon-press-reporters/\">The Brand-New Pentagon Press Corps Is Gaga for Hegseth</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 4311632,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/12/13/hegseth-new-pentagon-press-reporters",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/12/9417769.jpg?fit=6124%2C4083",
+        "title": "The Brand-New Pentagon Press Corps Is Gaga for Hegseth",
+        "vote": 0
+    }
+]

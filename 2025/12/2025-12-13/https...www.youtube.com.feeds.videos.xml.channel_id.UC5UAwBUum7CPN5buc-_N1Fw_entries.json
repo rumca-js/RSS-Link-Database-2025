@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T11:15:45.917300+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T11:01:25+00:00",
+        "description": "Head to https://squarespace.com/thelinuxexperiment to save 10% off your first purchase of a website or domain using code thelinuxexperiment\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:33 Sponsor: SquareSpace\n01:50 France starts adopting Nextcloud on a big scale\n03:53 German state saves 15M\u20ac per year moving to LibreOffice\n06:04 Jolla launches new Linux smartphone\n08:16 Cosmic and PopOS 24.04 released\n11:26 KDE reaches 275K euros in funding this year\n12:54 Pr",
+        "id": 4310431,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6gusWDr1Qw0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6gusWDr1Qw0/hqdefault.jpg",
+        "title": "EU keeps moving to Open Source, New Linux smartphone, KDE fundraising -  Linux Weekly news",
+        "vote": 0
+    }
+]

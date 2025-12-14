@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T16:24:40.330650+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T15:01:57+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nCan You Use AWS To Deploy a Serverless Function in Under an Hour? - Paul Grenyer - ACCU York\n---\n\nEver wanted to build a serverless function, but felt there was too much boilerplate to write before it gets interesting? In this talk, we\u2019ll walk through creating an AWS Lambda from scratch, using TypeScript, and show just how clean, fast, and repeatable deployment can be when using Terraform for infrastructure and GitHub Actions for deployment.\n\nThis practical demonstration will cover:\n\n    - Writing and packaging a simple TypeScript Lambda\n    - Defining and provisioning AWS infrastructure with Terraform\n    - Automating deployment with GitHub Actions\n    - Things I\u2019ve learnt using Lambdas\n\nAnd all in the space of an hour.\n\nWhether you\u2019re new to AWS or just looking to try serverless, this talk will leave you knowing how to ship robust, serverless functions quickly and reliably, with everything under version control.\n\n---\n\nPaul Grenyer\n\n",
+        "id": 4312061,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yK1UpigHU8s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yK1UpigHU8s/hqdefault.jpg",
+        "title": "Can You Use AWS To Deploy a Serverless Function in Under an Hour? - Paul Grenyer",
+        "vote": 0
+    }
+]

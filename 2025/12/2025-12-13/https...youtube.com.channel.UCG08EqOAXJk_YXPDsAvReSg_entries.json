@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T01:10:22.333123+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T00:00:52+00:00",
+        "description": "This talk covers how Survival Kids uses key DOTS features\u2014Burst, Jobs, Systems, and Collections\u2014to optimize GameObject gameplay without fully adopting Entities. Learn how we used Systems for update order, Burst-compiled Jobs for multithreading, TransformAccessArrays for off-main-thread transform access, and Unity source to create Burst-safe camera functions. We\u2019ll also share profiler insights that helped us identify bottlenecks and unlock major performance improvements.\n\n#Unity #Unity2025 #GameDev",
+        "id": 4308403,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZkvK0mX-id4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZkvK0mX-id4/hqdefault.jpg",
+        "title": "Using DOTS to optimize GameObject gameplay: A case study from Survival Kids | Unite 2025",
+        "vote": 0
+    }
+]

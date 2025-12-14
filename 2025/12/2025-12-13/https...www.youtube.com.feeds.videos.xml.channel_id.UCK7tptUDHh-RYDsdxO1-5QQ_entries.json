@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T03:25:17.281829+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T03:00:52+00:00",
+        "description": "The Pentagon is testing portable 3D-printing labs in Hawaii that let U.S. soldiers design, print and assemble FPV drones in a matter of hours\u2014turning vulnerable supply lines into on-demand battlefield factories. The ability to produce these user-guided munitions quickly is seen as crucial in any Pacific conflict, where logistics could be easily disrupted.\n\nWSJ joined the U.S. military on Oahu to see how troops are preparing for a new era of war dominated by drones.\n\nChapters:\n0:00 On the ground in Oahu\n0:26 The lab\n1:41 Why printing drones is important \n2:07 Prepping for drone warfare \n3:30 Strategy and testing the drones \n5:05 What\u2019s next?\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Drones #Geopolitics #WSJ",
+        "id": 4308891,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ffeSN-kwGA8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ffeSN-kwGA8/hqdefault.jpg",
+        "title": "How the U.S. Army 3-D Prints Lethal Drones in Hours | WSJ",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TEDx Talks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T18:29:37.611574+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T18:01:06+00:00",
+        "description": "This is not your typical organ donation speech. In fact, you might not even know about the ethical controversy reducing the number of available organs for transplantation. Listen and learn as Dr. Harrison Lee challenges the medical community to rethink its current practices. \n\nHarrison Lee, PhD, is a visiting Assistant Professor in the Department of Philosophy and Religion at the University of Mississippi. He completed his PhD in 2024 at Baylor University. Lee\u2019s research focuses on normative and applied ethics with an emphasis on biomedical ethics. His talk will explore a new and controversial method of organ donation. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "id": 4312804,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wcQkvw9TiF8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 915,
+        "source_url": "https://youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wcQkvw9TiF8/hqdefault.jpg",
+        "title": "A new way to donate organs\u2014is it ethical? | Harrison Lee | TEDxUniversityofMississippi",
+        "vote": 0
+    }
+]

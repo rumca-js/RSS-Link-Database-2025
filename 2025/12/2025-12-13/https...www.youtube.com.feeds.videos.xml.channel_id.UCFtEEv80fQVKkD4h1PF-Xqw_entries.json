@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-13T06:00:25.115233+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-13T04:54:55+00:00",
+        "description": "In partnership with Microsoft India Development Center, CyberEYE created MahaCrimeOS AI, an AI-powered cybercrime investigation platform that guides Maharashtra police officers through step-by-step investigation pathways in natural language. With an 80% reduction in turnaround time, law enforcement officers can identify and stop threat actors more quickly than ever before with this investigation copilot. Read more about MahaCrimeOS AI: https://aka.ms/AAy4li4 \n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories",
+        "id": 4309331,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vPn8CckO-_E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vPn8CckO-_E/hqdefault.jpg",
+        "title": "MahaCrimeOS AI: accelerating cybercrime investigations with AI",
+        "vote": 0
+    }
+]
