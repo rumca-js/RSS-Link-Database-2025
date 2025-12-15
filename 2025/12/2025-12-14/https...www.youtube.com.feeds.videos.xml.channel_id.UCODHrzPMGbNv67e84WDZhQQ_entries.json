@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fern",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T17:22:43.760582+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T17:00:35+00:00",
+        "description": "Create your own website with Odoo for free: https://fern.deals/odoo/web (ad)\n\nSpecial thanks to Rick Noack for the valuable insights, to \u202a@valilevi for traveling to Afghanistan for us and the Afghan Crew and Secret Compass for their support (https://secretcompass.com/).\n\nWe travel to Afghanistan to investigate how a Taliban highway in the Wakhan Corridor could expand China's influence and change global trade.\n\n\nSources: https://docs.google.com/document/d/1PjXU15Iw0SuqU5amzK-tYEPE9w8dCoz29vp9WJheCMQ/edit?usp=sharing\n\n\nMusic list:\n\nEpidemicSound:\nRymdklang Soundtracks feat. Yinon Muallem - The Sands of Time\nSiddharth Parashar - Shri Ram Stuti\nSiddharth Parashar - Abhogi\n\nArtlist:\nSwirling Ship - Fixed - Short version b\nJakub Pietras - Desert Takes the Weak\nRoie Shpigler - Cairo.wav\nMichael Vignola - Calling for You\nVidemar - Desert Pulse\nAves - Better\nJeremy Chontow - Arrival\nJakub Pietras - The Case of the Missing Cat\nJeremy Chontow - Arrival\nNotize - Desert Prophet\nLinus Johnsson - Th",
+        "id": 4318471,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LAPcW7OAv98",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 703,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCODHrzPMGbNv67e84WDZhQQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LAPcW7OAv98/hqdefault.jpg",
+        "title": "How This Road Will Change the World",
+        "vote": 0
+    }
+]

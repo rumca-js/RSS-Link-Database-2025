@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T17:18:09.490642+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T16:20:51+00:00",
+        "description": "Assetto Corsa Rally kocham i rozumiem. Odda\u0107 te\u017c nie umiem, bo przegra\u0142em w t\u0119 ni\u0105 wi\u0119cej, ni\u017c 2 godziny. Ale i tak nie zamierza\u0142em: to fenomenalna gra rajdowa, kt\u00f3ra was mo\u017ce zniszczy\u0107, przemieli\u0107, ale po ka\u017cdej pora\u017cce wr\u00f3cicie u\u015bmiechni\u0119ci. Oto wra\u017cenia z wczesnego dost\u0119pu.\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 4318467,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=FDMnQ71fiBs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FDMnQ71fiBs/hqdefault.jpg",
+        "title": "Najtrudniejsza gra rajdowa 2025 roku, kt\u00f3rej NIKT si\u0119 nie spodziewa\u0142",
+        "vote": 0
+    }
+]

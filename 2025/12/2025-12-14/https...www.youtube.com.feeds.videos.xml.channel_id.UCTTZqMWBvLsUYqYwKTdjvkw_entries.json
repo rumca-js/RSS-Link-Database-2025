@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T18:03:07.528022+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T17:00:46+00:00",
+        "description": "\ud83c\uddf5\ud83c\uddf9\u00a0Gdzie\u015b\u00a0tak w po\u0142owie listopada by\u0142em na konferencji Web Summit w Lizbonie. Pojecha\u0142em tam na zaproszenie Unii Europejskiej, jako Cyfrowy Ambasador. Pozwoli\u0142o mi to zada\u0107 kilka pyta\u0144, na kt\u00f3re odpowiedziami chcia\u0142bym si\u0119\u00a0z Wami podzieli\u0107.\n \n\u0179r\u00f3d\u0142a:\n\u267b\ufe0f\u00a0AppMigrationKit\nhttps://developer.apple.com/documentation/appmigrationkit\n\n\ud83c\udf4f\u00a0Apple readies new framework to let iPhone users migrate app data to and from Android\nhttps://9to5mac.com/2025/10/22/appmigrationkit-framework-migration-betwen-android-and-ios/\n\n\u2665\ufe0f\u00a0Apple and Google team up to make iPhone and Android switching easier\nhttps://9to5mac.com/2025/12/08/apple-and-google-team-up-to-make-iphone-and-android-switching-easier/\n\n\ud83c\uddea\ud83c\uddfa\u00a0EU says easier iPhone-Android switching is proof the DMA is working\nhttps://9to5mac.com/2025/12/09/iphone-android-switching-ios-26/\n\n\ud83e\udd2f\u00a0Apple\u2019s App Store changes become EU benchmark as Google faces looming fines\nhttps://9to5mac.com/2025/12/10/apples-app-store-changes-become-eu-benchmark-as-google-faces-looming-fin",
+        "id": 4318817,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=TsmiF3lmDt0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TsmiF3lmDt0/hqdefault.jpg",
+        "title": "Co UE robi dobrze? - relacja z Lizbony",
+        "vote": 0
+    }
+]

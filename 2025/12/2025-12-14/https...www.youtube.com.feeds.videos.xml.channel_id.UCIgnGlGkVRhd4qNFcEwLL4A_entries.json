@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T03:50:53.328135+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T03:30:37+00:00",
+        "description": "INSANE AI NEWS: Wan Move, GPT-5.2, AutoGLM, TwinFlow, Qwen i2L & more \n#ai #ainews #aitools #aivideo\n\nThanks to our sponsor Lovart. Try Nano Banana Pro in Lovart for free: https://www.lovart.ai/?sourceId=900519\n\nSources in order of mention:\nhttps://huggingface.co/spaces/huawei-bayerlab/windowseat-reflection-removal-web\nhttps://yejy53.github.io/RealGen/\nhttps://github.com/ali-vilab/Wan-Move\nhttps://xiao9905.github.io/AutoGLM/blog.html\nhttps://lizhiqi49.github.io/MoCA/\nhttps://blog.google/technology/developers/gemini-2-5-text-to-speech/\nhttps://huggingface.co/DiffSynth-Studio/Qwen-Image-i2L\nhttps://github.com/ssj9596/One-to-All-Animation\nhttps://z.ai/blog/glm-4.6v\nhttps://snap-research.github.io/EgoEdit/\nhttps://zhenglin-cheng.com/twinflow/\nhttps://modelscope.cn/models/NewBieAi-lab/NewBie-image-Exp0.1\nhttps://ke-xing.github.io/StereoWorld/\nhttps://animotionlab.github.io/MoCapAnything/\nhttps://openai.com/index/introducing-gpt-5-2/\nhttps://lightx-ai.github.io/\nhttps://zhaochongan.github.i",
+        "id": 4315148,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fpAbYRNxYPM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fpAbYRNxYPM/hqdefault.jpg",
+        "title": "GPT 5.2, realtime video editor, AI stereo videos, mobile AI agents, full body control: AI NEWS",
+        "vote": 0
+    }
+]

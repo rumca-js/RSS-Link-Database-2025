@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T12:45:23.032639+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T12:01:40+00:00",
+        "description": "I want to seal the new bathroom exhaust fan in the attic. For this, I'm using Great Stuff Wide Spray. The white cone nozzle allows me to be precise in tight spots. I also like to seal the drywall seams, make them airtight, and reduce the odds of condensation. Many thanks to Great Stuff for sponsoring this tutorial.",
+        "id": 4316964,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/qdRzVUiNOGQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qdRzVUiNOGQ/hqdefault.jpg",
+        "title": "Bathroom Exhaust Fan Air Sealing Tips - #shorts #airsealing #greatstufffoam #sponsored",
+        "vote": 0
+    }
+]

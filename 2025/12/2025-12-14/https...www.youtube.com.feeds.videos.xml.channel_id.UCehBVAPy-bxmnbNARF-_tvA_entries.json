@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T18:02:40.787186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T17:34:16+00:00",
+        "description": "Senator Ruben Gallego has introduced a bill to ban surveillance pricing across the country.\n\nAs corporations use algorithms and data about your behavior to set prices at the highest point you're willing to pay, a ban like this is more important than ever.",
+        "id": 4318816,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/WpX5kp5Svtk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WpX5kp5Svtk/hqdefault.jpg",
+        "title": "Instacart is Using Algorithmic Pricing to Rip You Off. This Bill Could Stop Them.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hank Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T16:49:30.013023+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T16:14:54+00:00",
+        "description": "Now, I am completely willing to have this fight...but as I was thinking about what technologies have been most foundational, I came up with:\n\nLanguage - Agriculture - Cooking and Fire - Containers - Stone tools\n\nLanguage is the only one of these that does not have /direct/ connection to cordage and textiles. In terms of multipliers to human ability, being able to turn a fiber into twine (and then, from there, thread, rope, baskets, knots, binding, textiles, clothes, etc etc) had impacts on pretty much all human abilities (including stone tools being connected to hafts.) \n\nOf course there's no way to objectively measure this, but certainly when it comes to the space between how much the average person thinks of it as a foundational technology and how foundational it actually is...the fiber to cordage to textiles is certainly a top foundational technologies of humanity. \n\nThanks so much to Virginia for having a nice long chat with me! Her book is available in places where there are book",
+        "id": 4318380,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=e4dYGdjgsz8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e4dYGdjgsz8/hqdefault.jpg",
+        "title": "The Second Most Important Human Technology",
+        "vote": 0
+    }
+]

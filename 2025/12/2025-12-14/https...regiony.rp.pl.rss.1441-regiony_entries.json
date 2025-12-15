@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T11:18:10.403082+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T11:18:09+00:00",
+        "description": "Lawinowo ro\u015bnie ilo\u015b\u0107 odzie\u017cy i tekstyli\u00f3w oddawanych do Punkt\u00f3w Selektywnej Zbi\u00f3rki Odpad\u00f3w Komunalnych (PSZOK). Wi\u0119kszo\u015b\u0107 samorz\u0105d\u00f3w dobrze poradzi\u0142a sobie ze zmianami, ale potrzebne s\u0105 inwestycje w profesjonalny recykling.",
+        "id": 4316545,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/uslugi-komunalne/art43495911-czy-zasypia-nas-tekstylia-rynek-recyklingu-w-naszym-kraju-dopiero-raczkuje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Czy zasypi\u0105 nas tekstylia? \u201eRynek recyklingu w naszym kraju dopiero raczkuje\u201d",
+        "vote": 0
+    }
+]

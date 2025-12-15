@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ubisoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T15:10:32.548232+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T15:00:42+00:00",
+        "description": "Here the Ubisoft Massive team take a look at Avatar Frontiers of Pandora!",
+        "id": 4317677,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/A8S5M-skgDY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 763,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0KU8F9jJqSLS11LRXvFWmg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A8S5M-skgDY/hqdefault.jpg",
+        "title": "The Impact of Character Foley \ud83c\udfa7",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/4dolarmeme",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T14:21:08.328190+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T13:46:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>When I add <a href=\"https://data.sec.gov/rss?cik=0001874178&amp;count=40\">https://data.sec.gov/rss?cik=0001874178&amp;count=40</a> to FeedBro in Firefox, the articles aren&#39;t sortable by date. Whether I hit newest or oldest, they all show in the same order because it&#39;s actually sorting on when they are loaded into Feedbro, not the date the article was posted, and they are all loaded in at the same time. Why is that? Is there a fix?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/4dolarmeme\"> /u/4dolarmeme </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1pmefgc/new_to_rss_need_help/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1pmefgc/new_to_rss_need_help/\">[comments]</a></span>",
+        "id": 4317497,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1pmefgc/new_to_rss_need_help",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New to RSS, need help",
+        "vote": 0
+    }
+]

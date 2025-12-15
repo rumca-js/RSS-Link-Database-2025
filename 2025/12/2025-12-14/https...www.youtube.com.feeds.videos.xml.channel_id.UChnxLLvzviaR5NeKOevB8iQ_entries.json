@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T17:14:30.803336+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T16:38:57+00:00",
+        "description": "I will remove this comment when I hear back from them and have confirmed this is fixed, but at the moment of filming this video, there is a bug that creates a 20 millisecond delay through midi clock between the hex drums and the bassline. they are aware of this issue and claim they are working on a fix. I'll remove this comment when it is fixed. \n\nLet's take a look and listen to the Erica Synths Hexdrums. \n\nGet this gear and support the channel (affiliate):\nHexdrums\nPerfect Circuit: https://bit.ly/3YpEg4b\nThomann: https://bit.ly/3XTY4ws\nBassline\nPerfect Circuit: https://bit.ly/4pG2YJI\nThomann: https://bit.ly/3MJ3tUC \nOP-1f\nPerfect Circuit: https://bit.ly/3Ye6Vtb\nThomann: https://bit.ly/3KYVcLS\n\nSupport the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nhttps://rmr.media/findme\n\nConnect:\nBluesky: https://bit.ly/3ZGYhom\nWebsite: http://bit.ly/rmrmedia",
+        "id": 4318459,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=RE4H4j5GClU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RE4H4j5GClU/hqdefault.jpg",
+        "title": "Banging the Box: Erica Synth Hexdrums Walkthrough and Jam",
+        "vote": 0
+    }
+]

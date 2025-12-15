@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liliana Segura",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T11:55:37.216010+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T11:00:00+00:00",
+        "description": "<p>The bizarre oral argument in Hamm v. Smith shows how decades of case law rooted in science is now under siege at the high court.</p>\n<p>The post <a href=\"https://theintercept.com/2025/12/14/hamm-v-smith-supreme-court-death-penalty-disability/\">Alabama Begs Supreme Court to Make It Easier to Execute People With Intellectual Disabilities</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 4316663,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/12/14/hamm-v-smith-supreme-court-death-penalty-disability",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/12/GettyImages-2251379975-e1765473538833.jpg?w=440&h=440&crop=1",
+        "title": "Alabama Begs Supreme Court to Make It Easier to Execute People With Intellectual Disabilities",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T21:42:56.020546+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T21:14:21+00:00",
+        "description": "I colorized and restored this rare 1953 footage of Lodi, Ohio, and created a complete sound design, bringing new life to a parade review in front of the Idol Theater featuring the Lodi Tigers Marching Band and the Lodi Fire Department, followed by a walk through town and the local fair showcasing businesses such as Parker Furniture, Hower Bros., Lodi Shell, Western Auto, and BF Goodrich\u2014some with their employees visible\u2014capturing hundreds of faces of families, neighbors, and friends who lived in and around Lodi, Ohio.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nB&W Video Source: A/V Gee",
+        "id": 4319925,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=RunccxR8ogY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RunccxR8ogY/hqdefault.jpg",
+        "title": "Lodi, Ohio 1950s in color [60fps, Remastered] w/ sound",
+        "vote": 0
+    }
+]

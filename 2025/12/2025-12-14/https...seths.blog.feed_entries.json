@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T10:44:41.357690+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T10:03:00+00:00",
+        "description": "It&#8217;s an odd term, worth a look. We don&#8217;t notice that the tree we planted a few years ago thrives just a bit more each day. We don&#8217;t notice that the mail shows up when it&#8217;s supposed to, that our civilization persists in the face of chaos, and that the lights (usually) go on when [&#8230;]",
+        "id": 4316343,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/12/it-gets-better-it-gets-worse",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Taken for granted",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T17:22:46.720608+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T15:01:24+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nUB Forte - Hilarious Programming Humor - Chris Oldwood - ACCU 2025 Short Talks\n---\n\nGet ready for a rapid-fire set of hilarious programmer jokes, coding puns, and developer humor that only software engineers and tech-savvy viewers will truly appreciate. If you love tech comedy, programming puns, or just a good old nerd joke, you're in the right place.\n\nFrom C++ pair programming fails to dark mode sass from your AI assistant, this stand-up-style video blends coding jokes, software engineer comedy, and tech standup into one laugh-packed ride. Whether you\u2019re debugging your way through the day or trying to explain to your friends why Vim jokes are funny, we\u2019ve got something to make you smile.\n\nTopics include:  \n- Programming puns about Slack, full stack development, and boolean logic  \n- C++ quirks like `.first` and `.second` pair usage  \n- Dev jokes about prompt engineers, key rotation with ROT13, and LLMs failing to generate certs  \n- W",
+        "id": 4318472,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hBYWiQfG4Gs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hBYWiQfG4Gs/hqdefault.jpg",
+        "title": "UB Forte - Hilarious Programming Humor - Chris Oldwood - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T19:21:53.443878+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T19:00:15+00:00",
+        "description": "New Movie Trailers 2026 in 4K ULTRA HD Quality\n00:00 Supergirl \n01:56 Greenland 2: Migration\n03:10 Avatar 3: Fire and Ash\n05:15 Control Room\n05:51 The Mandalorian & Grogu\n07:24 Kraken\n09:26 Monarch: Legacy of Monsters Season 2\n10:10 Good Luck, Have Fun, Don't Die\n12:12 Project Hail Mary\n15:16 Fallout Season 2\n17:12 Cold Storage\n19:45 Altered\n21:45 We Bury the Dead\n23:42 Dexter Resurrection\n25:22 Anaconda\n27:42 Godzilla x Kong: Supernova\n28:23 Mortal Kombat 2\n30:48 28 Years Later 2: The Bone Temple\n32:59 The Bride!",
+        "id": 4319249,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xNl4q68Vgzo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xNl4q68Vgzo/hqdefault.jpg",
+        "title": "NEW MOVIE TRAILERS 2026 (Sci-Fi) 4K ULTRA HD",
+        "vote": 0
+    }
+]

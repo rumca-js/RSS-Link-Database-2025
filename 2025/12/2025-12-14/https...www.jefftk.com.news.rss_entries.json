@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T21:10:49.257880+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T08:00:00+00:00",
+        "description": "<p><span>\n\nMy house has radiators for heat.  There are three heating loops\n(\"zones\") but the house has more than three rooms and it's not very\nwell balanced.  Fixing this properly involves hiring a plumber, but it\nturns out we can make it much better with just a small fan!\n\n</span>\n\n<p>\n\n<a highlight href=\"https://www.jefftk.com/fanning-a-radiator-to-increase-output-big.jpg\"><img src=\"https://www.jefftk.com/fanning-a-radiator-to-increase-output.jpg\" width=\"550\" height=\"470\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:85.5vw;\" srcset=\"https://www.jefftk.com/fanning-a-radiator-to-increase-output.jpg 550w,https://www.jefftk.com/fanning-a-radiator-to-increase-output-2x.jpg 1100w\"><div style=\"height:min(85.5vw, 470px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nRadiators heat passively: they warm the nearby air, which rises and\nallows cooler air to flow in.  This new air then warms, and the cycle\nrepeats.  This works pretty well: no electricity, no noise, just\ns",
+        "id": 4319757,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/fanning-radiators",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/fanning-a-radiator-to-increase-output.jpg",
+        "title": "Fanning Radiators",
+        "vote": 0
+    }
+]

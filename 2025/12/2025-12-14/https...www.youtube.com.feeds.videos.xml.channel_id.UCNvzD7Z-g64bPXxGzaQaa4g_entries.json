@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T16:01:12.616605+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T15:16:08+00:00",
+        "description": "Video games where you're not actually the main character can often be more interesting than you'd expect.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1\n\n0:00 Intro\n0:31 Ghostbusters: The Video Game\n1:57 Maneater\n3:07 The Lord of the Rings: The Third Age\n4:27 Watch Dogs: Legion\n6:09 Kenshi\n6:45 Kingdom Come: Deliverance\n8:05 Stray\n8:51 White Knight Chronicles\n9:51 This War of Mine\n10:48 Borderlands 3\n12:04 Prey\n12:53 StarCraft\n13:40 Moon: Remix RPG Adventure\n14:29 Paper Mario: The Origami King\n15:29 Enter the Matrix\n16:20 Metal Gear Solid V: The Phantom Pain\n17:46 Call of Duty 4: Modern Warfare\n19:09 Final Fantasy XII\n20:15 The Elder Scrolls IV: Oblivion\n21:52 The Bureau: XCOM Declassified",
+        "id": 4318067,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qXxvNw3JwzU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qXxvNw3JwzU/hqdefault.jpg",
+        "title": "20 Games Where You Are NOT THE MAIN CHARACTER",
+        "vote": 0
+    }
+]

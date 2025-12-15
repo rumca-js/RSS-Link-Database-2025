@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/helium-glycerol27",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-14T02:56:26.122254+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-14T02:11:36+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>hey, long time user of yt-dlp but Im not command savvy so I was using a gui. I ran into the issue of &quot;http error...&quot; and found out about the required deno now. is there a way to continue using the gui? if not can anyone link me to a tutorial for using ytdlp thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/helium-glycerol27\"> /u/helium-glycerol27 </a> <br/> <span><a href=\"https://www.reddit.com/r/youtubedl/comments/1pm2jw7/ytdlp_gui/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/youtubedl/comments/1pm2jw7/ytdlp_gui/\">[comments]</a></span>",
+        "id": 4315013,
+        "language": "en",
+        "link": "https://www.reddit.com/r/youtubedl/comments/1pm2jw7/ytdlp_gui",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 791,
+        "source_url": "https://www.reddit.com/r/youtubedl/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "yt-dlp gui",
+        "vote": 0
+    }
+]
