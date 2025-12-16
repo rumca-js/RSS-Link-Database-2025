@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T15:19:17.098651+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T15:07:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nWhat's New for C++ in VS Code: CMake Improvements and GitHub Copilot Agents - Alexandra Kemper - CppCon 2025\n---\n\nJoin us for a deep dive into the latest advancements for C++ in Visual Studio Code, designed to help modern C++ developers tackle real-world challenges with a faster, smarter, and more customizable development environment. In this talk, we\u2019ll showcase updates to the C++ extension and the CMake Tools extension, including performance improvements and new CMake language services that are now available in-house to provide rich language support for CMake files. Additionally, discover how GitHub Copilot support for C++ developers has evolved in the last year, including the new agent mode that can help you with complex, multi-step coding tasks. Whether you are maintaining legacy code or building for the future with C++, Copilot can help you write, build, and refactor your C++ code to streamline your development experience \u2013 all within VS Code. \n\n---\n\nSlid",
+        "id": 4325207,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cJNp3IhUCIM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cJNp3IhUCIM/hqdefault.jpg",
+        "title": "What's New for C++ in VS Code: CMake Improvements and GitHub Copilot Agents - Alexandra Kemper",
+        "vote": 0
+    }
+]

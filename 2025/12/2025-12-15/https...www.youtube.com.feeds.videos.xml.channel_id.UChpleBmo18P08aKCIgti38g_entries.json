@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T15:55:31.045109+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T14:00:11+00:00",
+        "description": "The secret is out\u2026\n\nI\u2019ve officially switched to Comet as my new default browser.\n\nThese are just some of the ways I\u2019ve been using it:\n\ud83d\udcac Summarize thousands of product reviews into digestible pros and cons\n\ud83d\udcb0 Compare prices instantly across the web\n\u25b6\ufe0f Jump to exact moments inside YouTube videos\n\u3299\ufe0f Translate & summarize articles\n\u2709\ufe0f And draft email replies\n\nAnd it\u2019s free on macOS and Windows.\n\nTry Perplexity Comet browser today at https://www.perplexity.ai/comet\n\nBut fair warning: once you switch, normal browsers will start to feel a bit\u2026 prehistoric \ud83e\udd95\n\n#AI #Comet #Perplexity #AItools",
+        "id": 4325487,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6GDICfm3Av0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6GDICfm3Av0/hqdefault.jpg",
+        "title": "How I Personally Use AI Browsers",
+        "vote": 0
+    }
+]

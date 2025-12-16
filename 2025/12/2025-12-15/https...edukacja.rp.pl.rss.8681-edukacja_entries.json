@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T17:50:20.718660+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T17:50:19+00:00",
+        "description": "Strategia umi\u0119dzynarodowienia polskiego szkolnictwa wy\u017cszego i\u00a0nauki trafi do ministra nauki i\u00a0szkolnictwa wy\u017cszego. W\u00a0prace nad dokumentem zaanga\u017cowane jest \u015brodowisko akademickie i\u00a0naukowe, a\u00a0projekt koordynuje Narodowa Agencja Wymiany Akademickiej (NAWA).",
+        "id": 4326682,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/uczelnie-wyzsze/art43508331-polska-nauka-ma-strategie-umiedzynarodowienia",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Polska nauka ma strategi\u0119 umi\u0119dzynarodowienia",
+        "vote": 0
+    }
+]

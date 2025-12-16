@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T13:34:21.645519+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T10:30:00+00:00",
+        "description": "Polska stoi przed kumulacj\u0105 ryzyk: popyt na energi\u0119 ro\u015bnie, a wyeksploatowane bloki  w\u0119glowe w Polsce b\u0119d\u0105 stopniowo wy\u0142\u0105czane. Sprawia to, \u017ce powstaje luka mocy w krajowej produkcji energii. Energetyka wiatrowa staje si\u0119 krytycznym filarem bezpiecze\u0144stwa dostaw i narz\u0119dziem stabilizacji koszt\u00f3w energii.",
+        "id": 4324303,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/nowa-energia/art43496301-od-slaska-do-baltyku-jak-zbudowac-bezpieczny-i-konkurencyjny-miks-energetyczny",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Od \u015al\u0105ska do Ba\u0142tyku: jak zbudowa\u0107 bezpieczny i konkurencyjny miks energetyczny",
+        "vote": 0
+    }
+]

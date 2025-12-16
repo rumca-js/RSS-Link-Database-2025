@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T18:19:36.144023+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T18:00:41+00:00",
+        "description": "A huge thanks to KIOXIA for sponsoring this video and for giving us this once in a life time opportunity. You can learn more about KIOXIA at: https://www.KIOXIA.com\n\nWe flew to Japan to tour KIOXIA\u2019s Yokkaichi Plant; a facility the size of approximately 98 soccer fields that uses state of the art automation to build the flash memory that may just live in your pocket. See how they do it in this very exclusive look inside one of the world's largest flash memory manufacturing facilities.\n\nDiscuss on the forum: https://linustechtips.com/topic/1628627-a-petabyte-in-the-palm-of-my-hand-kioxia-factory-tour/\n\nCheck out our Channel Partners:\nSecretlab - Get up to $249 off during their Holiday sale: https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n\u25ba GET OUR MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba SPONSORS, AFFILIATES, AND ",
+        "id": 4326871,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ivLvsTnp9fI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ivLvsTnp9fI/hqdefault.jpg",
+        "title": "A Petabyte in the Palm of My Hand - Kioxia Factory Tour",
+        "vote": 0
+    }
+]

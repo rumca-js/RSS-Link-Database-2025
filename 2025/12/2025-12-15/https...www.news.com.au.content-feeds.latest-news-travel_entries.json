@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T00:31:29.930950+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T00:31:29+00:00",
+        "description": "Tourists and expats alike have spoken out about the Bondi mass shooting including one man who hid behind a car as one of the armed men aimed at him.",
+        "id": 4320604,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/tourist-hides-as-gunman-aims-at-him/news-story/8d41942e17e6b19bcf4b5949f7443cab?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/224ddf1ff5598bc7865e20213342e92e?width=320",
+        "title": "Tourist hides as gunman aims at him",
+        "vote": 0
+    }
+]

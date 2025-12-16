@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T15:44:23.403632+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T15:01:40+00:00",
+        "description": "This is my $100 Steam Machine\u2026 and it\u2019s way more interesting than it looks. The ASRock AMD BC-250 is a server-style mining board built around a cut-down PlayStation 5\u2013based APU (6C/12T Zen 2 + 24CU RDNA2) with 16GB of shared GDDR6 memory.\nIn this video, I show that SteamOS 3.9 boots, then I run Bazzite for that SteamOS-style console experience plus easier tweaking\u2014so we can overclock/undervolt the GPU, adjust the VRAM split, and squeeze more performance out of this crazy cheap \u201cblade.\u201d\nIf you pick one up, the best tutorials/files I\u2019ve found are from Old Lamer\u2014BIOS guides, overclocking, and setup walkthroughs. I\u2019ll link his channel and the downloads below.\n\nBuy An Asrock BC 250 on eBAY: https://ebay.us/UqUGek\n\nCheck Out the Old Lamer Youtube channel: https://www.youtube.com/@OldLamer\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Black Friday Sale code for software\uff1aETA \nWindows 11 Pro Key($23):https://",
+        "id": 4325380,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=q_CxcbS5HI8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/q_CxcbS5HI8/hqdefault.jpg",
+        "title": "Build A $100 Steam Machine Using a Playstation 5 Based APU!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T17:36:05.136323+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T16:30:07+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/IB_0rR0imno\" width=\"480\" alt=\"thumbnail\" title=\"I Was Right Again About My Linux Home Directory\" /></p>I've always said you should split your home and root directories into separate partitions even though it's going to cost you some storage space and once again that has saved me a lot of hassle dealing with my system.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter<br />\ud83c\udf10 Mastodon: https://brodi",
+        "id": 4326618,
+        "language": "en",
+        "link": "https://odysee.com/i-was-right-again-about-my-linux-home:2473ae3fa69c10d383fc8a30e1327be4cb5ae5ed",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/IB_0rR0imno",
+        "title": "I Was Right Again About My Linux Home Directory",
+        "vote": 0
+    }
+]

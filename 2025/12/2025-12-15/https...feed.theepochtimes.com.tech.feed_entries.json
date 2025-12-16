@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Troy Myers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T22:58:59.950571+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T22:13:35+00:00",
+        "description": "'We have a right to do this,' the Florida governor said at a roundtable discussion.",
+        "id": 4329124,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/desantis-vows-to-push-ahead-with-floridas-ai-bill-of-rights-despite-trumps-executive-order-5958513",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/08/12/id5900448-Florida-DeSantis-AP25224554468581-1080x720.jpg",
+        "title": "DeSantis Vows to Push Ahead With Florida\u2019s AI Bill of Rights Despite Trump\u2019s Executive Order",
+        "vote": 0
+    }
+]

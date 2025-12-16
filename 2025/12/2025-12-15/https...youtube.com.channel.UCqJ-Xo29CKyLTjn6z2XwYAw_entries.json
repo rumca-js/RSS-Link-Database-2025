@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Game Maker's Toolkit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T16:33:06.816247+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T15:58:44+00:00",
+        "description": "\ud83d\udd34 The full Boss Keys playlist - https://www.youtube.com/playlist?list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2 \ud83d\udd34\n\nTeam Cherry returns to the world of Hollow Knight with Silksong - a new game, with a new character, in a whole new world. In this episode of Boss Keys let's look at how the developers designed Pharloom and the Citadel, and how they thought about topics like progression, backtracking, and optional content. \n\n=== Before you watch === \n\nThis video contains spoilers for the entirety of Hollow Knight: Silksong\n\n=== Sources ===\n\n[1] Cut Content | Hollow Knight Wiki\nhttps://hollowknight.wiki/w/Cut_Content_(Silksong)\n\n[2] Silksong - The Skip Compendium | Cofy\nhttps://www.youtube.com/watch?v=6usUCoL2FSM\n\n[3] Hollow Knight: Silksong devs address difficulty concerns: \u201cYou have choices\u201d | Dexerto\nhttps://www.dexerto.com/gaming/hollow-knight-silksong-devs-address-difficulty-concerns-3252994/\n\n=== Chapters ===\n\n00:00:00 - Intro\n00:01:50 - Part 1: Scaling Pharloom\n00:14:39 - Part 2: Another Ro",
+        "id": 4325969,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l7xXW0EbK4g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 799,
+        "source_url": "https://youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l7xXW0EbK4g/hqdefault.jpg",
+        "title": "The World Design of Hollow Knight: Silksong",
+        "vote": 0
+    }
+]

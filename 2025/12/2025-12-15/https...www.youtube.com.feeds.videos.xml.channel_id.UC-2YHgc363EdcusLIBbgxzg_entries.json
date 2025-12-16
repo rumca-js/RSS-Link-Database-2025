@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T17:41:20.398695+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T16:48:26+00:00",
+        "description": "Be the first to see my new documentary feature Oldest and Newest Places On Earth on Nebula December 12th! Sign up at http://www.nebula.tv/joescott and get 50% off your annual subscription.\n\nThe South Pole has been permanently inhabited for 68 years, thanks to the Amundsen-Scott South Pole Station, which has been the home of groundbreaking science and a unique culture that can\u2019t be found anywhere else on Earth.\n\nWant to support the channel? Here's how:\n\nPatreon: http://www.patreon.com/answerswithjoe\nChannel Memberships: https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg/join\nT-Shirts & Merch: https://laughsmarter.com\n\nCheck out my 2nd channel, Joe Scott TMI:\nhttps://www.youtube.com/channel/UCqi721JsXlf0wq3Z_cNA_Ew\n\nAnd my podcast channel, Conversations With Joe:\nhttps://www.youtube.com/channel/UCJzc7TiJ2nnuyJkUpOZ8RKA\n\nYou can listen to my podcast, Conversations With Joe on Spotify, Apple Podcasts, Google Podcasts, or wherever you get your podcasts.\nSpotify \ud83d\udc49 https://spoti.fi/37i",
+        "id": 4326637,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KmSy91RxsmM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KmSy91RxsmM/hqdefault.jpg",
+        "title": "What It\u2019s Like To Live At The South Pole",
+        "vote": 0
+    }
+]

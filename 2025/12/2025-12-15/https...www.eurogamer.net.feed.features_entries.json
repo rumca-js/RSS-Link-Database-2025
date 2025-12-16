@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Robert Purchese",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T15:50:06.787395+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T15:28:42+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/exodus-headline-image.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Exodus looks a lot like <a href=\"https://www.eurogamer.net/games/mass-effect\">Mass Effect</a> - let's get that out of the way. Not only does Archetype's space-faring RPG have the same look and the same sensibilities, right down to getting a spaceship and gathering a crew in order to save the day, but it's made by some of same the people who dreamt Mass Effect up, including, notably, lead Mass Effect 1 & 2 writer Drew Karpyshyn.</p> <p><a href=\"https://www.eurogamer.net/sci-fi-rpg-exodus-looks-like-mass-effect-but-time-dilation-makes-big-difference\">Read more</a></p>",
+        "id": 4325446,
+        "language": "en",
+        "link": "https://www.eurogamer.net/sci-fi-rpg-exodus-looks-like-mass-effect-but-time-dilation-makes-big-difference",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/exodus-headline-image.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "\"The impact of time dilation is something very unique and fresh\" - sci-fi RPG Exodus looks like Mass Effect but there's a very important difference",
+        "vote": 0
+    }
+]

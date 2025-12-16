@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T09:21:30.865856+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T09:04:00+00:00",
+        "description": "<p><em>At Paris\u2019s Open Source Experience conference, six Acteurs du Libre awards mapped out a snapshot of Europe\u2019s free software ecosystem in 2025, from enterprise strategy to privacy\u2011first Android and public\u2011sector platforms.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/12/paris-based-open-source-experience-conference-hands-out-acteurs-du-libre-awards/\">Paris-Based &#8216;Open Source Experience&#8217; Conference Hands  Out &#8216;Acteurs du Libre&#8217; Awards</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4322763,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/12/paris-based-open-source-experience-conference-hands-out-acteurs-du-libre-awards",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Paris-Based \u2018Open Source Experience\u2019 Conference Hands  Out \u2018Acteurs du Libre\u2019 Awards",
+        "vote": 0
+    }
+]

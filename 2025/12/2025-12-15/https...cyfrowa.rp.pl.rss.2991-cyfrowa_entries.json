@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T20:18:32.703442+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T20:18:31+00:00",
+        "description": "Jared Kaplan, wsp\u00f3\u0142w\u0142a\u015bciciel ameryka\u0144skiego startupu Anthropic, kre\u015bli wizj\u0119 rozwoju sztucznej inteligencji. Ekspert przewiduje dwa mo\u017cliwe scenariusze. Wskazuje te\u017c na kurcz\u0105cy si\u0119 czas, w kt\u00f3rym nale\u017cy podj\u0105\u0107 kluczow\u0105 decyzj\u0119 w kontek\u015bcie autonomii system\u00f3w AI.",
+        "id": 4327786,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art43506151-ostateczne-ryzyko-rozwoju-ai-wspolzalozyciel-anthropic-wskazuje-wazna-date",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201eOstateczne ryzyko\u201d rozwoju AI. Wsp\u00f3\u0142za\u0142o\u017cyciel Anthropic wskazuje wa\u017cn\u0105 dat\u0119",
+        "vote": 0
+    }
+]

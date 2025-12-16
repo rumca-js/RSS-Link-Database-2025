@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Climate Town",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-15T17:26:29.494787+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-15T16:42:03+00:00",
+        "description": "America's loss is your gain for a limited time! The clock is ticking on some home efficiency tax credits, and here at Crazy Rollie's Crazy Liquidation Sale, we've got some extremely temporary deals for YOU! Discounts on clean and efficient home energy, but ONLY if you act before DECEMBER 31ST. I MUST BE OUTTA MY MIND! #climatepowerpartner",
+        "id": 4326512,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/4jYdMxhwlz4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 71,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4jYdMxhwlz4/hqdefault.jpg",
+        "title": "LIQUIDATION SALE! EVERYTHING MUST GO!",
+        "vote": 0
+    }
+]
