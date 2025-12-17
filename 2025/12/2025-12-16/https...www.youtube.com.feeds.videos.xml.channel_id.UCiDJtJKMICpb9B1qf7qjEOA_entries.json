@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T15:31:12.103216+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T15:00:55+00:00",
+        "description": "Adam welcomes to the cave 3D artist Ralph Sutter, the digital sculptor of Adam's animatronic Grogu puppet! It's Ralph's first time meeting the physical manifestation of his digital sculpt, and walks Adam through his process and the challenges of capturing the likeness of this beloved Star Wars character. \n\nAdam's collaborators on this project: \n3D artist Ralph Sutter: https://www.ralphsutter3d.com/ IG: @thebigboss1984 yt: @foxhound1984 \nAnimatronics engineer Matthew Winchell: https://www.matthewwinchell.com/ IG: @matt.winchell\nNicholas Winstead - cast, eyes, teeth IG: @nicholaswinstead\nRyan Pintar - painter \nChris Grossnickle - cast cleanup \nMatt Hobbs - Kyber Control Systems: https://www.facebook.com/groups/1341505756182087/\nStephane Beaulieu - kyber control\nChris Stroud - Kinesma IG: @bb8dad\nNeal Hutchison - Kinesma \nAdam's prep work on Grogu's animatronic eyes: https://youtu.be/MJYrhD4yabY\nAdam Savage's Animatronic Grogu Build Project: https://youtu.be/KGhqvLLQFzY\nAdam Savage Bring",
+        "id": 4334541,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Uo7ckFkL7BY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Uo7ckFkL7BY/hqdefault.jpg",
+        "title": "How Adam Savage's Grogu Puppet Was Sculpted!",
+        "vote": 0
+    }
+]

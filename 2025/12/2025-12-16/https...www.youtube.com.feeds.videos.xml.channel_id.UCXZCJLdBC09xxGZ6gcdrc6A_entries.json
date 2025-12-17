@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T19:32:57.197626+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T18:13:34+00:00",
+        "description": "We\u2019re releasing a new version of ChatGPT Images\u2060, powered by our new flagship image generation model. \n\nNow, whether you\u2019re creating something from scratch or editing a photo, you\u2019ll get the output you\u2019re picturing. It makes precise edits while keeping details intact, and generates images up to 4x faster. \n\nAlongside, we\u2019re introducing a new Images feature within ChatGPT, designed to make image generation delightful\u2014to spark inspiration and make creative exploration effortless.\n\nThe new Images model and feature are rolling out today in ChatGPT for all users, and in the API as GPT Image 1.5.",
+        "id": 4336890,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DPBtd57p5Mg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DPBtd57p5Mg/hqdefault.jpg",
+        "title": "ChatGPT Images",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave2D",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T20:00:49.043122+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T19:38:06+00:00",
+        "description": "Thoughts on the Samsung Galaxy Z TriFold\nIf you'd like to support the channel, consider a Dave2D membership by clicking the \u201cJoin\u201d button above!\n\nhttp://twitter.com/Dave2D\nhttp://www.instagram.com/Dave2D\nhttps://discord.gg/Dave2D",
+        "id": 4337145,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mEHZxZEN69U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 709,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVYamHliCI9rw1tHR1xbkfw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mEHZxZEN69U/hqdefault.jpg",
+        "title": "The Samsung TriFold is AWESOME!",
+        "vote": 0
+    }
+]

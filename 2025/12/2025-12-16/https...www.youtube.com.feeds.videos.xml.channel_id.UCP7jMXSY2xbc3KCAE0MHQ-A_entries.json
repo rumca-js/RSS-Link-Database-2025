@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T19:24:13.533764+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T17:04:30+00:00",
+        "description": "In our final episode of the season, Professor Hannah Fry sits down with Google DeepMind Co-founder and CEO Demis Hassabis for their annual check-in. Together, they look beyond the product launches to the scientific and technological questions that will define the next decade.\n\nDemis shares his vision for the path to AGI - from solving \"root node\" problems in fusion energy and material science to the rise of world models and simulations. They also explore what's beyond the frontier and the importance of balancing scientific rigor amid the competitive dynamics of AI advancement. \n\nThanks for joining us this year!\n\ud83d\udd14 Subscribe to stay updated on our return in 2026, and revisit our episode library to catch up on everything from driverless cars to drug discovery: https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj \n\nTimecodes\n01:42 2025 progress\n05:14 Jagged intelligence \n07:32 Mathematical version of AlphaGo?\n09:30 Science vs commercialization \n12:42 Scaling \n17:43 Gen",
+        "id": 4336820,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PqVbypvxDto",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PqVbypvxDto/hqdefault.jpg",
+        "title": "The future of intelligence | Demis Hassabis (Co-founder and CEO of DeepMind)",
+        "vote": 0
+    }
+]

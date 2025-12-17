@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T18:39:54.477095+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T18:00:23+00:00",
+        "description": "Watch the full video: https://youtu.be/pwWBcsxEoLk",
+        "id": 4336418,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/AUb-xpYoV8I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AUb-xpYoV8I/hqdefault.jpg",
+        "title": "Your Prompts Are Bad. Here\u2019s How to Fix Them.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marco Fioretti",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T17:09:13.532736+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T09:04:06+00:00",
+        "description": "<p><em>As Europe flirts with \u201creliable proprietary technologies\u201d and India rolls out open source healthcare AI, Amanda Brock is drawing a sharp line between genuine openness, marketing spin, and outright control.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/12/from-brussels-to-bengaluru-amanda-brock-on-ai-openness-and-digital-sovereignty/\">From Brussels to Bengaluru: Amanda Brock on AI Openness and Digital Sovereignty</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4335558,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/12/from-brussels-to-bengaluru-amanda-brock-on-ai-openness-and-digital-sovereignty",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "From Brussels to Bengaluru: Amanda Brock on AI Openness and Digital Sovereignty",
+        "vote": 0
+    }
+]

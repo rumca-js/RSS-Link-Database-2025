@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "fantano",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T21:31:17.091677+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T20:30:07+00:00",
+        "description": "Talking about Rolling Stone's very bad puff piece about Taylor Swift.\n\n===================================\n\nPatreon: https://www.patreon.com/theneedledrop\n\nFollow your melon:\nTwitter: https://twitter.com/theneedledrop\nInstagram: https://www.instagram.com/afantano\nTwitch: https://www.twitch.tv/theneedledrop\nTikTok: https://www.tiktok.com/@theneedletok\n\neditor : austen",
+        "id": 4337780,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YCqOGusfMOU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 649,
+        "source_url": "https://youtube.com/channel/UCnxQ8o9RpqxGF2oLHcCn9VQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YCqOGusfMOU/hqdefault.jpg",
+        "title": "Horrible Taylor Swift Propaganda",
+        "vote": 0
+    }
+]

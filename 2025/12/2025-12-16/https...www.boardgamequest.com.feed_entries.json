@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "George Botelho",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T14:56:21.850192+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T14:20:07+00:00",
+        "description": "<img width=\"640\" height=\"552\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-1024x883.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Star Wars Legion\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-1024x883.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-300x259.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-150x129.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-768x662.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-1536x1324.jpg 1536w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-640x552.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-1280x1103.jpg 1280w, https://www.",
+        "id": 4334325,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/star-wars-legion-2-0-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/12/Star-Wars-Legion-1024x883.jpg",
+        "title": "Star Wars Legion 2.0 Review",
+        "vote": 0
+    }
+]

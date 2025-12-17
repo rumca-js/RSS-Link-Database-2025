@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Romero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T18:30:24.530700+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T17:44:41+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p data-start=\"1564\" data-end=\"1824\">The final EFFector of 2025 is here! Just in time to keep you up-to-date on the latests happenings in the fight for privacy and free speech online.</p>\n<p data-start=\"1564\" data-end=\"1824\">In<span>\u00a0this\u00a0</span><a href=\"https://www.eff.org/effector/37/18\">latest issue</a>,\u00a0we're\u00a0sharing how to <a href=\"https://www.eff.org/deeplinks/2025/11/how-identify-automated-license-plate-readers-us-mexico-border\">spot sneaky ALPR cameras</a> at the U.S. border, covering a host of new <a href=\"https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws\">resources on age verification laws</a>, and explaining why AI companies need to <a href=\"https://www.eff.org/deeplinks/2025/12/ai-chatbot-companies-should-protect-your-conversations-bulk-surveillance\">protect chatbot logs</a> from bul",
+        "id": 4336378,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-effector-3718",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\ud83e\udeaa Age Verification Is Coming for the Internet | EFFector 37.18",
+        "vote": 0
+    }
+]

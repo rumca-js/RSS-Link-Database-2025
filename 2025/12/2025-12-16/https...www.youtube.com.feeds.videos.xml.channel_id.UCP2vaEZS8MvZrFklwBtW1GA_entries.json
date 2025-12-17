@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T12:19:12.216116+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T12:00:20+00:00",
+        "description": "Me gusta usar PEX A para las v\u00e1lvulas de ducha porque es flexible. Me gusta esta v\u00e1lvula de ducha porque tiene los accesorios para PEX A instalados de f\u00e1brica. As\u00ed que la instalaci\u00f3n de esta v\u00e1lvula de ducha es muy r\u00e1pida y f\u00e1cil.",
+        "id": 4332929,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BaBPeXX_j0Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BaBPeXX_j0Q/hqdefault.jpg",
+        "title": "Consejos para v\u00e1lvulas de ducha con PEX A - #shorts #plumbing #homerepairtutor",
+        "vote": 0
+    }
+]

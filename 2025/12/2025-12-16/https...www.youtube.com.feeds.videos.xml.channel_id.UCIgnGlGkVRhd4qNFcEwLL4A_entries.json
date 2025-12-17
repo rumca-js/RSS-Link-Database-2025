@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T03:50:19.171332+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T03:30:36+00:00",
+        "description": "GPT 5.2 review & full testing. GPT-5.2 vs Gemini 3 Pro. #ai #ainews #llm #aitools\n\nThanks to our sponsor Skywork. Try Skywork today for free and use code AISEARCH for 20% OFF: https://bit.ly/48pfffl\n\nGPT 5.2 main blog: https://openai.com/index/introducing-gpt-5-2/\n\n0:00 GPT-5.2 intro\n0:20 Beehive simulation\n2:39 Photoshop clone\n6:04 Image to 3D model\n7:00 Metallic spheres\n10:53 Windows and MS office clone\n14:49 Night sky viewer\n16:06 Skywork Super Agents\n17:45 Anime character labelling\n18:56 Finding Waldo\n21:00 Table to spreadsheet\n22:01 Flowchart image to html\n23:20 Camouflage test\n24:20 Medical scan analysis\n25:23 Geoguessing\n27:10 Specs and key points\n32:33 External leaderboards and benchmarks\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?ut",
+        "id": 4330473,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jnTSGk0gi5c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jnTSGk0gi5c/hqdefault.jpg",
+        "title": "OpenAI dropped a monster. GPT-5.2 review",
+        "vote": 0
+    }
+]

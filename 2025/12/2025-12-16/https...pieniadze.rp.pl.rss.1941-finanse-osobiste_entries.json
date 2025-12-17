@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T17:23:22.717895+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T17:23:21+00:00",
+        "description": "mBank rozwija narz\u0119dzia chroni\u0105ce klient\u00f3w przed oszustwami. W\u0142a\u015bnie wprowadzi\u0142 blokad\u0119 transakcji \u2013 innowacyjne rozwi\u0105zanie w aplikacji mobilnej, kt\u00f3re daje klientom natychmiastow\u0105 kontrol\u0119 nad swoimi finansami w sytuacjach kryzysowych.",
+        "id": 4335670,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/finanse-osobiste/art43515701-technologia-pomaga-gdy-licza-sie-sekundy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Technologia pomaga, gdy licz\u0105 si\u0119 sekundy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T18:37:42.085603+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T18:00:09+00:00",
+        "description": "A new adaptation of George Orwell's classic dystopian political satire of the Russian revolution, replacing totalitarianism and cult of personality with... Elon Musk and American corporationism? I don't think this is going to play out the way Andy Serkis imagined it.",
+        "id": 4336408,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8hyX3d9z7vs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8hyX3d9z7vs/hqdefault.jpg",
+        "title": "Animal Farm - This Was Probably A Bad Idea",
+        "vote": 0
+    }
+]

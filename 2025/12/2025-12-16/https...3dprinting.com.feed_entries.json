@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T10:45:21.977986+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T09:00:37+00:00",
+        "description": "<div style=\"display: flex;\"><div style=\"width: calc(100% - 75px);padding-right:16px;\"><h2><a href=\"https://3dprinting.com/news/justin-bieber-launches-3d-printed-sneakers-through-skylrk-brand-partnership-with-zellerfeld/\" style=\"color: #1a0dab;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-weight: normal;mso-line-height-rule: exactly;font-size:18px;text-decoration:none;margin-bottom:8px;\" target=\"_blank\">Justin Bieber Launches 3D Printed Sneakers Through Skylrk Brand Partnership with Zellerfeld</a></h2><span style=\"color:#777;font-size:14px;margin-top: auto;\">December 16</span></div><div style=\"max-width:75px;\"><img width=\"500\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8649798745-500x500.webp\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" alt=\"Justin Bieber Launches 3D Printed Sneakers Through Skylrk Brand Partnership with Zellerfeld\" style=\"max-width:75px;border-radius:10px;overflow: hidden",
+        "id": 4332393,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/justin-bieber-launches-3d-printed-sneakers-through-skylrk-brand-partnership-with-zellerfeld",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://3dprinting.com/wp-content/uploads/8649798745-500x500.webp",
+        "title": "Justin Bieber Launches 3D Printed Sneakers Through Skylrk Brand Partnership with Zellerfeld - 3DPrinting.com",
+        "vote": 0
+    }
+]

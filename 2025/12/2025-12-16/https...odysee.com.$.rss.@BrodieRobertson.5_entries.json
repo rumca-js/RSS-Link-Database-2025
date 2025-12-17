@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T18:27:13.836463+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T16:30:17+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/kwXn_GSd8cA\" width=\"480\" alt=\"thumbnail\" title=\"The Rust Linux Kernel Experiment Is Finally Over!!\" /></p>It's been a long 5 years to get here but the Rust For Linux Kernel experiment has ended but it ended in success and now Rust is here to stay long term<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Rust Android Binder: https://www.phoronix.com/news/Rust-Binder-For-Linux-6.18<br />LWN Post 1: https://lwn.net/Articles/1049831/<br />Wedson Steps Down: https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/<br />The Video: https://youtu.be/WiPp9YEBV0Q?t=1529<br />Alex Gaynor Steps Down: https://lore.kernel.org/rust-for-linux/CANiq72nSaYSGBqX0btuHg5OUvGA3NsKAFnEqTnGTp3LY",
+        "id": 4336355,
+        "language": "en",
+        "link": "https://odysee.com/the-rust-linux-kernel-experiment-is:4aeac4e46c78d34584d2a121d611440232471037",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/kwXn_GSd8cA",
+        "title": "The Rust Linux Kernel Experiment Is Finally Over!!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T22:09:19.959699+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T20:14:52+00:00",
+        "description": "In this conversation, Zack Jackowski, General Manager and Vice President, Atlas and Alberto Rodriguez, Director of Robot Behavior sit down to discuss the path to generalist humanoid robots working at scale and how we approach research & development to both push the boundaries of the industry and deliver valuable applications.\n\nLearn more about Atlas: https://bostondynamics.com/atlas/\n\n#Humanoids #Robotics #Robots #bostondynamics",
+        "id": 4338145,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SRZ9E48B6aM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SRZ9E48B6aM/hqdefault.jpg",
+        "title": "The Humanoid Mission in Manufacturing | Boston Dynamics Tech Talk",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T00:48:08.656494+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T00:46:05+00:00",
+        "description": "Toradex has announced the Luna SL1680, a SBC that introduces the company&#8217;s new &#8220;Pro Consumer&#8221; product tier. Positioned between consumer development boards and fully industrial hardware, the platform targets applications such as smart kiosks, light industrial systems, and advanced maker projects. The Luna SL1680 is built around the Synaptics SL1680 system-on-chip, which integrates a quad-core [&#8230;]",
+        "id": 4329670,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/toradex-luna-sl1680-sbc-features-synaptics-sl1680-soc-with-8-tops-npu-starts-at-105",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Toradex Luna SL1680 SBC Features Synaptics SL1680 SoC with 8 TOPS NPU, Starts at $105",
+        "vote": 0
+    }
+]

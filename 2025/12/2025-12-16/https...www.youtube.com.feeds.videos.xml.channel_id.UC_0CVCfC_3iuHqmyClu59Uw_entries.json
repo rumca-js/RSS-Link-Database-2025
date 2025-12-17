@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T15:23:33.789219+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T15:00:03+00:00",
+        "description": "he new Beelink SER9 Max is here, and it\u2019s packing a Ryzen 7 255H (Zen 4) with an RDNA 3 iGPU (12 CUs) \u2014 plus some seriously rare features for a mini PC like 10GbE, USB4 (40Gbps), DisplayPort 2.1, and HDMI up to 4K 240Hz.\nIn this review I\u2019ll show the ports, upgrade access (DDR5 + dual M.2 2280), BIOS power modes (Balanced vs Performance / 65W sustained), VRAM allocation, real-world benchmarks, and 1080p gaming performance (Fallout 4, Spider-Man 2, Forza Horizon 5, Street Fighter 6). We\u2019ll also check temps + total wall power so you know what this thing is like day-to-day.\n\nBuy It Here: https://amzn.to/4iZ4Omv\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Black Friday Sale code for software\uff1aETA \nWindows 11 Pro Key($23):https://biitt.ly/RUZiX \nWindows 11 Home Key($22):https://biitt.ly/SQKqi \nWindows 10 Pro OEM Key($19):https://biitt.ly/KpEmf \nWindows10 Home Key($17):https://biitt.ly/2tPi1 \nWindows 10 LTS",
+        "id": 4334503,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=1I5PDHuOC08",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1I5PDHuOC08/hqdefault.jpg",
+        "title": "SER9 MAX Hands On! Ryzen 7 H 255 Quiet, Cool, and Powerful",
+        "vote": 0
+    }
+]

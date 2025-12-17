@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T10:59:17.148472+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T10:59:16+00:00",
+        "description": "W bie\u017c\u0105cym roku akademickim 590 student\u00f3w otrzyma\u0142o stypendia na studia w ramach Programu Stypendi\u00f3w Pomostowych; w tym 367 os\u00f3b dosta\u0142o dofinansowanie na I rok studi\u00f3w. Uroczysta Inauguracja 24. edycji Programu odby\u0142a si\u0119 28 listopada w PZU Park w Warszawie.",
+        "id": 4332453,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/uczelnie-wyzsze/art43512741-relacja-z-inauguracji-24-edycji-programu-stypendiow-pomostowych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Relacja z Inauguracji 24. edycji Programu Stypendi\u00f3w Pomostowych",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T18:18:40.605999+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T17:41:27+00:00",
+        "description": "https://cppcon.org\n---\n\nCan Modern C++ SPEED UP Your Bundle Adjustment Pipeline? - Vishnu Sudheer Menon - CppCon 2025\n---\n\nBundle Adjustment (BA) plays a central role in 3D vision applications such as structure-from-motion and SLAM. Scaling BA to real-world datasets like BAL (Bundle Adjustment in the Large) often exposes common challenges: noisy observations, numerical instability, and rigid, hard-to-maintain pipelines. This talk demonstrates how modern C++23 features, together with Ceres Solver, can be used to build a robust, efficient, and extensible BA pipeline suitable for large-scale optimization problems. \n \nUsing quaternion-based pose parameterization and manifold support in Ceres, the implementation ensures stable and consistent rotation handling. Outlier rejection is performed through RANSAC filtering and reprojection error validation, while spatial smoothing eliminates local geometric inconsistencies. These preprocessing steps are expressed cleanly using std::ranges, views::",
+        "id": 4336262,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Bnl35DhfnUs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bnl35DhfnUs/hqdefault.jpg",
+        "title": "Can Modern C++ SPEED UP Your Bundle Adjustment Pipeline? - Vishnu Sudheer Menon",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T14:13:28.809743+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T14:01:15+00:00",
+        "description": "It's that time of year when many open source projects ask for your donations.    If you depend on free and open source software, please give a few bucks to those projects.\n\nREFERENCED:\nhttps://www.makeuseof.com/open-source-apps-so-good-happily-pay/\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2\n\nFREE AND OPEN SOURCE SOFTWARE THAT I LIKE:\n\ud83c\udf10 Brave Browser - https://brave.com/\n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com/\n\ud83c\udfac Kdenlive: https://kdenlive.org\n\ud83c\udfa8 GIMP: https://www.gimp.org/\n\ud83d\udcbb VirtualBox: https://www.virtualbox.org/\n\ud83d\uddd2\ufe0f Doom Emacs: https://github.com/hlissner/doom-ema",
+        "id": 4333850,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=f5_JlqPkmWc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f5_JlqPkmWc/hqdefault.jpg",
+        "title": "Open Source Apps So Good, I'd Pay For Them!",
+        "vote": 0
+    }
+]

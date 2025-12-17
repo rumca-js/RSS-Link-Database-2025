@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T12:39:26.135152+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T12:39:25+00:00",
+        "description": "Shocking new footage has captured the An-22 Antei aircraft \u2013 once the biggest in the world \u2013 disintegrating as it plunged from the sky.",
+        "id": 4333043,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/plane-mysteriously-crumbles-midair-kills-all-7-on-board/news-story/4c3efc3122a7f7b9f0475ada3582a8fc?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/5fdc9a2147fe9a77a02a40ba29e638a9?width=320",
+        "title": "7 dead as plane falls apart midair",
+        "vote": 0
+    }
+]

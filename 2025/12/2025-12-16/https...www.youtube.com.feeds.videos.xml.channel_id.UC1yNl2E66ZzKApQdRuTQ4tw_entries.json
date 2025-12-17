@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T16:29:23.516598+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T16:00:18+00:00",
+        "description": "Practice your problem solving skills with Brilliant! Start learning for free at https://brilliant.org/sabine/ and get 20% off a premium subscription, which includes daily unlimited access!\n\nWarp drives are science fiction technology that allow spaceships to travel faster than the speed of light. Physicists have tried to make sense of this by contracting the space in front and expanding the space behind the ship. In a new paper, a former NASA scientist outlines how we can engineer such warp drives. Really? Let\u2019s take a look.\n\nPaper: https://iopscience.iop.org/article/10.1088/1361-6382/ae237a\n\n\ud83d\udc55T-shirts, mugs, posters and more: \u279c https://sabines-store.dashery.com/\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open",
+        "id": 4335106,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BlfeDPMLQ8I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BlfeDPMLQ8I/hqdefault.jpg",
+        "title": "Can Warp Drives Be Engineered? This Former NASA Researcher Thinks So",
+        "vote": 0
+    }
+]

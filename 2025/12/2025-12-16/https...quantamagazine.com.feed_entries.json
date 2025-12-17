@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Michael Moyer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T15:01:30.766684+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T14:24:35+00:00",
+        "description": "Explore the year\u2019s most surprising computational revelations, including a new fundamental relationship between time and space, an undergraduate who overthrew a 40-year-old conjecture, and the unexpectedly effortless triggers that can turn AI evil.             <p>The post <a href=\"https://www.quantamagazine.org/the-year-in-computer-science-20251216/\" target=\"_blank\">The Year in Computer Science</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 4334404,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/the-year-in-computer-science-20251216",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Year-in-review-2025-Computer-Science-cr-Carlos-Arrojo-Default.webp",
+        "title": "The Year in Computer Science",
+        "vote": 0
+    }
+]

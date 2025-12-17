@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T10:19:22.504719+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T09:06:41+00:00",
+        "description": "Imagine running half a million ad auctions every second. At #HUAWEICONNECT EUROPE 2025, discover how Azerion's multi-cloud strategy and partnership with #HuaweiCloud power a global digital marketplace at hyperscale. Watch the full #TransformTalks with Azerion's Chief Strategy Officer Sebastiaan Moesman and the President of #Huawei Benelux & Ireland, Qian Kun: https://bit.ly/4aC2yj1 #ThisIsHuawei",
+        "id": 4332137,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pF-bJendULw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pF-bJendULw/hqdefault.jpg",
+        "title": "Powering Global Digital Experiences, One Auction at a Time",
+        "vote": 0
+    }
+]

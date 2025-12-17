@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jonquilyn Hill",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T13:30:11.234663+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T07:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Two big black letters \u2014 A and I \u2014 are illuminated against a black background with purple light.\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2232603624.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">When it comes to artificial intelligence, few fears loom larger than the idea of robots <a href=\"https://www.vox.com/today-explained-podcast/459234/ai-jobs-market-unemployment-artificial-intelligence\">coming to take our jobs</a>. But if you talk to the AI evangelists among us, that could be a good thing.</p>\n\n<p class=\"has-text-align-none\">Not in the Elon Musk <a href=\"https://www.youtube.com/watch?v=1vHx0YG_WQ8\">robots-will-babysit-your-kids</a> way, but in a way that helps us make better use of our resources and handles our busy-work. If the doom doesn\u2019t come to fruition \u2014 and that is ",
+        "id": 4333436,
+        "language": "",
+        "link": "https://www.vox.com/explain-it-to-me/472177/artificial-intelligence-world-without-work-explain-it-to-me",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2232603624.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "How AI could create \u201ca world without work\u201d",
+        "vote": 0
+    }
+]

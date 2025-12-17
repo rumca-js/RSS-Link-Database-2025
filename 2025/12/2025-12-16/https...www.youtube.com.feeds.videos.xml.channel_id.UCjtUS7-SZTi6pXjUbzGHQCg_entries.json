@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Undecided with Matt Ferrell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-16T14:25:04.678188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-16T13:16:50+00:00",
+        "description": "How Solar Changed in 2025 (And What's Next). Go to\u00a0https://surfshark.com/undecided or use code UNDECIDED at checkout to get 4 extra months of Surfshark VPN! I called 2024 the year of perovskite. But 2025? This was the year perovskites went from \"interesting lab tech\" to \"you can actually buy these.\" Oxford PV shipped the first commercial batch to a US solar farm. California startups landed major infrastructure deals. And Chinese manufacturers started licensing the technology for mass production. More importantly, researchers solved problems that have plagued perovskites for years. We got self-healing materials that repair damage from heat and moisture. Cooling systems that boost efficiency by over 12%. And manufacturing techniques that broke the 34% efficiency barrier, which shatters silicon's theoretical 30% limit. So let's recap what actually happened this past year, what it means for solar's future, and what breakthroughs to watch for in 2026.\n\nWatch The Ocean's Invisible 15,000 TW",
+        "id": 4333902,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FffKMMnisu4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 453,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FffKMMnisu4/hqdefault.jpg",
+        "title": "How Solar Changed in 2025 (And What's Next)",
+        "vote": 0
+    }
+]
