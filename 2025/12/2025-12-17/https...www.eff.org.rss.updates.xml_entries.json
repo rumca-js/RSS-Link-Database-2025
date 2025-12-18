@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thorin Klosowski",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T20:21:04.992962+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T18:46:18+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>Another year has come and gone, and with it, thousands of data breaches that affect millions of people. The question these days is less, </span><i><span>Is my information in a data breach this year?</span></i><span> and more </span><i><span>How many data breaches had my information in them this year?</span></i><span>\u00a0</span></p>\n<p><span>Some data breaches are more noteworthy than others. Where one might affect a small number of people and include little useful information, like a name or email address, others might include data ranging from a potential medical diagnosis to specific location information. To catalog and talk about these breaches we created the </span><a href=\"https://www.eff.org/deeplinks/2024/12/breachies-2024-worst-weirdest-most-impactful-data-breaches-year\"><span>Breachies</span></a><span>, a series of tongue-in-cheek",
+        "id": 4346042,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/12/breachies-2025-worst-weirdest-most-impactful-data-breaches-year",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Breachies 2025: The Worst, Weirdest, Most Impactful Data Breaches of the Year",
+        "vote": 0
+    }
+]

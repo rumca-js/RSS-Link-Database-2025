@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T11:24:07.872886+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T10:00:00+00:00",
+        "description": "<p>Roblox is often seen as a games platform, but its day-to-day reality looks closer to a production studio. Small teams release new experiences on a rolling basis and then monetise them at scale. That pace creates two persistent problems: time lost to repeatable production work, and friction when moving outputs between tools. Roblox\u2019s 2025 updates [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/roblox-brings-ai-into-the-studio-to-speed-up-game-creation/\">Roblox brings AI into the Studio to speed up game creation</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 4342014,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/roblox-brings-ai-into-the-studio-to-speed-up-game-creation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Roblox brings AI into the Studio to speed up game creation",
+        "vote": 0
+    }
+]

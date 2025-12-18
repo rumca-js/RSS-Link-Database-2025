@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T13:25:40.830450+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T12:30:10+00:00",
+        "description": "I'm installing Schluter's VARIO shower drain. I like this option because it has a threaded adapter that can be solvent-welded to the P-Trap. I chamfer the PVC pipe on both sides so that it will properly extend into the trap and VARIO. This allows me to cut the pipe to the correct length so that the VARIO will be installed correctly with the shower tray. Many thanks to Schluter for sponsoring this tutorial",
+        "id": 4342939,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/8fMgRUmoQS8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8fMgRUmoQS8/hqdefault.jpg",
+        "title": "Schluter VARIO Shower Drain Tips - #shorts #schlutersystems #sponsored",
+        "vote": 0
+    }
+]

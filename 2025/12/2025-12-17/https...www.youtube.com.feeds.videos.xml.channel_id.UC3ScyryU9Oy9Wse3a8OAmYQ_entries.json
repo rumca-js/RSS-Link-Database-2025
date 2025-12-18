@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "FRONTLINE PBS | Official",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T03:52:59.552799+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T03:01:19+00:00",
+        "description": "An immersive investigation into the impact of U.S. and Israeli strikes on Iran\u2019s nuclear program uses rare on-the-ground access in Iran and in-depth forensic analysis. \n\nThis journalism is made possible by viewers like you. Support your local PBS station here: https://www.pbs.org/donate\n\nOver the course of 12 days in June 2025, Israel bombed targets related to Iran\u2019s nuclear program and assassinated scientists, Iran launched retaliatory airstrikes on Israel, and the U.S. carried out airstrikes on key Iranian nuclear facilities. What was the impact of this unprecedented Israel-U.S. bombing campaign on Iran\u2019s nuclear program?\n\n\u201cStrike on Iran: The Nuclear Question\u201d offers some of the most in-depth accounts of the destruction from inside Iran since the war. Those accounts were gathered during a tightly controlled but expansive visit to the country that included visits to the sites where Iranian scientists were assassinated, conversations with witnesses and family members of those killed,",
+        "id": 4339971,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xxBYkhDDfDE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 109,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xxBYkhDDfDE/hqdefault.jpg",
+        "title": "Strike on Iran: The Nuclear Question (full documentary) | FRONTLINE",
+        "vote": 0
+    }
+]

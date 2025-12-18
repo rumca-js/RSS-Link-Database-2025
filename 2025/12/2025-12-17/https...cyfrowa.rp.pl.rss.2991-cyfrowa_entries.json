@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T16:03:36.902539+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T14:00:00+00:00",
+        "description": "Prace nad nowelizacj\u0105 ustawy o krajowym systemie cyberbezpiecze\u0144stwa s\u0105 na ostatniej prostej. Projekt trafi\u0142 do Sejmu. Mimo sze\u015bciu lat debat, przej\u015bcia \u015bcie\u017cki konsultacji, projekt ci\u0105gle budzi kontrowersje i g\u0142osy sprzeciwu cz\u0119\u015bci rynku.",
+        "id": 4344124,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/bezpieczenstwo/art43520961-ksc-jaki-bedzie-koszt-cyberbezpieczenstwa",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "KSC: jaki b\u0119dzie koszt cyberbezpiecze\u0144stwa?",
+        "vote": 0
+    }
+]

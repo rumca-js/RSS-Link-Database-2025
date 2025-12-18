@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mosak Marcin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T21:14:46.422206+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T18:46:41+00:00",
+        "description": "We\u017amy tablic\u0119 Mendelejewa, i przele\u0107my przez proces powstawania wszystkich atom\u00f3w po kolei. Od wielkiego wybuchu po supernowe. Dos\u0142ownie pochodzimy z gwiazd!\n\nA chod\u017acie na mojego patreona: https://www.patreon.com/MosakMarcin \n\nZobaczcie te\u017c astrofotografi\u0119 Micha\u0142a Zimnego: https://www.facebook.com/zimny.michal\n\nTimecode:\n0:00 - Intro\n0:57 - Grupa 1\n5:05 - Grupa 2\n7:05 - Grupa 3\n8:27 - Astrofotograf\n11:09 - Grupa 4\n12:16 - Mossakowski's\n\nLinki: \nhttps://patreon.com/MosakMarcin\nhttps://www.instagram.com/mosak.marcin\nhttps://www.facebook.com/mosakmarcin\nhttps://marcinmossakowski.pl",
+        "id": 4346768,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=2AQIdNnzWb8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 440,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGMXM2RS39k1UwyNVoyzHYw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2AQIdNnzWb8/hqdefault.jpg",
+        "title": "Sk\u0105d pochodzi KA\u017bDY atom w naszym ciele, po kolei",
+        "vote": 0
+    }
+]

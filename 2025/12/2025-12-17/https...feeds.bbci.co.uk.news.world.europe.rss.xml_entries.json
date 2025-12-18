@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T18:29:35.655445+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T17:50:37+00:00",
+        "description": "Prime Minister Pedro Sanchez says the shelters will be in public buildings across the country.",
+        "id": 4345359,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c5yj8ew1pnlo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c77e/live/a5347030-db71-11f0-9817-e5239190d76e.jpg",
+        "title": "Spain to open network of climate shelters",
+        "vote": 0
+    }
+]

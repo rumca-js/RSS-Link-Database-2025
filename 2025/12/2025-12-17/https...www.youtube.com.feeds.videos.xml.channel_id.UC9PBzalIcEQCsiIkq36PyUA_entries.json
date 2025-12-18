@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T15:23:22.820654+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T15:01:35+00:00",
+        "description": "Thanks to CyberPowerPC for sponsoring this video. Check out the Christmas PC deals here: https://bit.ly/48ZL52t and go here for the Christmas Giveaway: https://bit.ly/4pZY4Hf\n\nHere's a 14-odd minute video that basically says \"Hardware Unboxed got it right\". In this follow-up coverage, we take a look at the undoubted quality improvements of FSR Redstone ML frame generation over the legacy FSR 3.1 \"analytical\" version, before looking at the reason we don't recommend using it: the delivery of frames is so uneven, it can actually look less smooth than running with frame-gen off.\n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00:00 Introduction\n00:02:47 Image Quality improvements\n00:04:48 Frame-Time Issues and Unconsistent Frame Pacing\n00:13:30 Conclusion",
+        "id": 4343936,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=n7bud6P4ugw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n7bud6P4ugw/hqdefault.jpg",
+        "title": "AMD FSR Redstone Frame Generation Tested: Good Quality, Bad Frame Pacing",
+        "vote": 0
+    }
+]

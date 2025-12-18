@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Katherine Krueger",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T23:15:24.644208+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T22:40:02+00:00",
+        "description": "<p>\u201cAmerican Canto\u201d is a story about the battle for the souls of a country and a journalist. But it\u2019s certainly not about how things really work.</p>\n<p>The post <a href=\"https://theintercept.com/2025/12/17/olivia-nuzzi-american-canto-book-review/\">Olivia Nuzzi Is Completely Oblivious</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 4347751,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/12/17/olivia-nuzzi-american-canto-book-review",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/12/GettyImages-1370949475_79e693-e1766005999713.jpg?fit=3038%2C2280",
+        "title": "Olivia Nuzzi Is Completely Oblivious",
+        "vote": 0
+    }
+]

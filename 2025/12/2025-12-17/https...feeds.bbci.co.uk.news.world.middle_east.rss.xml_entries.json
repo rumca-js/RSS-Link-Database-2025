@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T21:18:10.786379+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T20:45:22+00:00",
+        "description": "Gaza's health ministry says one baby has died from hypothermia and 11 other people have died in building collapses over the past week.",
+        "id": 4346849,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cx2e6r10rdeo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6a/live/eb5bff10-db8a-11f0-9110-a57affc61996.jpg",
+        "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
+        "vote": 0
+    }
+]

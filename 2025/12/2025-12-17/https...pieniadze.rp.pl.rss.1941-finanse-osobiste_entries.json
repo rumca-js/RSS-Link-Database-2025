@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T04:25:07.098643+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T04:25:06+00:00",
+        "description": "Gie\u0142dowe sp\u00f3\u0142ki, kt\u00f3re regularnie dziel\u0105 si\u0119 wypracowanymi zyskami ze swoimi akcjonariuszami i dodatkowo zwi\u0119kszaj\u0105 z roku na rok dywidendy, stanowi\u0105 \u0142akomy k\u0105sek dla inwestor\u00f3w.",
+        "id": 4340142,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/portfel-inwestycyjny/art43516281-podwojne-korzysci-z-posiadania-akcji-spolek-dywidendowych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podw\u00f3jne korzy\u015bci z posiadania akcji sp\u00f3\u0142ek dywidendowych",
+        "vote": 0
+    }
+]

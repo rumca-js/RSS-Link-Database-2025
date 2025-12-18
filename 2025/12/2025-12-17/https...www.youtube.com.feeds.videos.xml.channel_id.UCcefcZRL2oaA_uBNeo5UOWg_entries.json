@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T15:25:46.156713+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T15:01:40+00:00",
+        "description": "ARC-AGI is redefining how to measure progress on the path to AGI - focusing on reasoning, generalization, and adaptability instead of memorization or scale. During this month's NeurIPS 2025 conference, YC's Diana Hu sat down with ARC Prize Foundation President Greg Kamradt to find out why most AI benchmarks fail, how ARC-AGI reveals the limits of today\u2019s models, and why measuring intelligence may be harder than building it.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\n\nChapters: \n00:11 \u2014 What ARC Prize is and why it exists\n00:38 \u2014 Fran\u00e7ois Chollet\u2019s definition of AGI\n01:48 \u2014 What ARC-AGI Actually Tests\n02:25 \u2014 When LLMs Failed the ARC Benchmark\n02:44 \u2014 The Reasoning Breakthrough\n03:38 \u2014 ARC-AGI Becomes the Standard\n04:20 \u2014 Vanity Metrics\n04:49 \u2014 False Positives in AI Progress\n06:06 \u2014 The Evolution of ARC-AGI\n07:05 \u2014 Inside ARC-AGI v3\n08:55 \u2014 Measuring Intelligence beyond just accuracy\n10:25 \u2014 What happens if a model solves ARC-AGI?",
+        "id": 4343948,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pBlIgs6w7Ss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pBlIgs6w7Ss/hqdefault.jpg",
+        "title": "How Intelligent Is AI, Really?",
+        "vote": 0
+    }
+]

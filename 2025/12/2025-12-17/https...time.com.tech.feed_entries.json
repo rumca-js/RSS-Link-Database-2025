@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew R. Chow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T20:05:38.125500+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T17:03:47+00:00",
+        "description": "Trump's attempt to restrict states' ability to regulate AI has drawn fierce backlash, even from supporters.",
+        "id": 4345781,
+        "language": "en-UK",
+        "link": "https://time.com/7341296/republican-backlash-trump-ai-executive-order",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2025/12/GettyImages-2251460315.jpg",
+        "title": "How Trump\u2019s Bid to Crush State AI Laws Splits His Own Party",
+        "vote": 0
+    }
+]

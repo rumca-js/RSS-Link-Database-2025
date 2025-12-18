@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T18:08:21.689975+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T15:17:04+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nMaximising Throughput and Minimising Latency in High-Performance C++ Code - Julius Zukauskas - ACCU 2025\n---\n\nLearn how to write high-performance C++ code by maximising throughput while minimising latency. In this talk, we explore how software performance is influenced not just by code, but by how data is structured and accessed \u2014 a critical but often overlooked aspect of system performance tuning.\n\nIf you're a developer interested in C++ performance, data oriented design, or cache optimization, this video dives into real-world techniques for improving memory layout and reducing CPU cache misses. You'll see why poor data modeling can hinder throughput and how choosing the right data access patterns can dramatically boost performance.\n\nWe'll walk through the common pitfalls in C++ code design that lead to slow, clunky systems and offer practical alternatives rooted in hardware-aware programming. From understanding the difference betwee",
+        "id": 4345063,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CvHKs9-eow4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CvHKs9-eow4/hqdefault.jpg",
+        "title": "Maximising Throughput & Minimising Latency in High-Performance C++ Code - Julius Zukauskas ACCU 2025",
+        "vote": 0
+    }
+]

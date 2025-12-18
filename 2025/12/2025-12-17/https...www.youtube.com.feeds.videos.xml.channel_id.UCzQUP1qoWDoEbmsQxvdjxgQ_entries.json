@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T20:47:37.016081+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T18:00:39+00:00",
+        "description": "Bret Weinstein, PhD, is an evolutionary biologist, author, and co-host of \u201cThe DarkHorse Podcast\u201d with his wife, biologist Heather Heying. They are the co-authors of \u201cA Hunter-Gatherer\u2019s Guide to the 21st Century: Evolution and the Challenges of Modern Life.\u201d\n\nhttps://www.bretweinstein.net\nhttps://www.youtube.com/@DarkHorsePod\nhttps://www.penguinrandomhouse.com/books/618153/a-hunter-gatherers-guide-to-the-21st-century-by-heather-heying-and-bret-weinstein/\n\nDownload the app or ask Perplexity anything at https://pplx.ai/rogan.\n\nGet a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan\n\nTry ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan",
+        "id": 4346320,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WX_te6X-0aQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WX_te6X-0aQ/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2427 - Bret Weinstein",
+        "vote": 0
+    }
+]

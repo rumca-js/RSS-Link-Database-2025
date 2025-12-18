@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T10:57:24.798073+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T10:57:23+00:00",
+        "description": "Ministerstwo Edukacji Narodowej zapewnia, \u017ce ma ju\u017c plan B wdra\u017cania reformy edukacji. Wszystko wskazuje na to, \u017ce zamiast nowelizacji prawa o\u015bwiatowego b\u0119d\u0105 rozporz\u0105dzenia.",
+        "id": 4341917,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/edukacja/art43516491-zamieszanie-wokol-reformy-edukacji-czy-bedzie-weto-prezydenta-men-ma-juz-plan-b",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zamieszanie wok\u00f3\u0142 reformy edukacji. Czy b\u0119dzie weto prezydenta? MEN ma ju\u017c plan B",
+        "vote": 0
+    }
+]

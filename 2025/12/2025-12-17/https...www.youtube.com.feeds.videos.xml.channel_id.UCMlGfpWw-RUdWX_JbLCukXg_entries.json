@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T16:42:00.216623+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T15:07:14+00:00",
+        "description": "https://cppcon.org\n---\n\nCan std::expected with Monadic Operations REALLY Boost Your C++ Code Performance? - Vitaly Fanaskov - CppCon 2025\n---\n\nMonadic operations offer a powerful way to build safer, more maintainable code while reducing boilerplate. However, many software engineers remain hesitant to adopt them. There are two main reasons for this: unfamiliar syntax and potential performance penalty. Whereas the first issue is more individual, the second one is general. Let\u2019s have a look at it together! In this talk, we'll explore the implementation details of std::expected, explore techniques for decomposing code, and demonstrate how to leverage copy elision to avoid unnecessary resource allocations. I'll compare the performance of a monadic interface with traditional approaches, including exceptions and return codes, using real-world production code samples to highlight common usage patterns. This talk will be useful for software engineers interested in adopting std::expected but ca",
+        "id": 4344653,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cjw26MLaCCc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cjw26MLaCCc/hqdefault.jpg",
+        "title": "Can std::expected with Monadic Operations REALLY Boost Your C++ Code Performance? - Vitaly Fanaskov",
+        "vote": 0
+    }
+]

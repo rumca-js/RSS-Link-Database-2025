@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T18:01:00.939863+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T16:37:02+00:00",
+        "description": "Rust programmers re-wrote a portion of the Linux kernel in Rust. That Rust code had a crashing vulnerability in an \"unsafe\" chunk of code... which Linux is littered with.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4345013,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gVhWtUCA1Kw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gVhWtUCA1Kw/hqdefault.jpg",
+        "title": "Memory Corruption Vulnerability in Linux \"Memory Safe\" Rust Code",
+        "vote": 0
+    }
+]

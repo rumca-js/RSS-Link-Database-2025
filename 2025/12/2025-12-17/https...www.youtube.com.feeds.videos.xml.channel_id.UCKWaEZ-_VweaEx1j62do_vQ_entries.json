@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T11:38:31.762811+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T11:00:25+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/BdbkBS\n\nAI browsers are neat\u2014but are they more trouble than they\u2019re worth?  \n\nIn this episode of Security Intelligence, Austin Zeizel, Evelyn Anderson and Ryan Anschutz discuss Gartner\u2019s recent advisory warning organizations to ban AI browsers from the workplace for the time being. Is there anything we can do to make them safe enough to use? \n\nAnd that leads to a broader conversation about the relationship between AI model providers and the cybersecurity community. In the wake of some high-profile attacks using AI models\u2014like the spy ring Anthropic busted\u2014cybersecurity pros are split on whether AI vendors are pulling their weight in threat intel circles. This one has it all: spam bombing, social engineering and malicious virtual machines. \n\nAll that and more on Security Intelligence.  \n\n00:00 \u2013 Introduction \n01:14 -- Gartner: No AI browsers at work \n13:38 -- Should AI vendors share threat intel? \n23:11 -- MITRE\u2019s top 25 most dangerous software fla",
+        "id": 4342219,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8jWAQiSqDVU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8jWAQiSqDVU/hqdefault.jpg",
+        "title": "AI browser bans and the top software flaws of 2025",
+        "vote": 0
+    }
+]

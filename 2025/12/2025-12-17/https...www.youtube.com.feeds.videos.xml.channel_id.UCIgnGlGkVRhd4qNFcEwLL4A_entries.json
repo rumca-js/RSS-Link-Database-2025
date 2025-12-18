@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-17T04:52:09.202937+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-17T03:43:14+00:00",
+        "description": "GPT-Image-1.5 review. GPT Image 1.5 vs Nano Banana Pro. OpenAI\u2019s top AI image generator. #ai #aitools #aiart #imagegenerator #nanobanana\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nhttps://openai.com/index/new-chatgpt-images-is-here/\n\n0:00 GPT Image 1.5 intro\n1:03 Disclaimer\n1:36 Pokemon knowledge\n3:18 Emotions test\n4:53 Doing homework\n6:17 Biology exercise\n7:00 Filter tests\n8:30 Clock and wine glass\n9:27 Rare species knowledge\n12:31 Coherent manga page\n13:14 Colorization and translation\n13:58 Interfaces and screenshots\n14:50 ChatLLM\n15:56 Celebrities\n16:54 Knowledge of people\n17:48 Anime and cartoon characters\n18:34 Spatial understanding\n19:24 Starcraft gameplay\n20:03 Diagram generation\n20:56 Python code understanding\n21:33 Location generation\n22:05 Sprite sheet\n22:50 Video game remaster\n23:45 Data table to chart\n25:22 Electric circuit\n25:47 Where\u2019s Waldo\n26:58 Specs and where to use GPT image 1.5\n28:39 Additional demos\n29",
+        "id": 4340208,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=75b_5Y_jipg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/75b_5Y_jipg/hqdefault.jpg",
+        "title": "Did OpenAI just kill Nano Banana Pro?",
+        "vote": 0
+    }
+]
