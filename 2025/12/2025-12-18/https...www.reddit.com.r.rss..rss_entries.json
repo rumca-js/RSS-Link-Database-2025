@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Character-Delay520",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T11:19:31.526758+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T10:35:53+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>After months of internal testing and bug fixing, NewsHive is now available on Android.</p> <p>NewsHive is a clean and clutter free news app.</p> <p>What can you do with NewsHive?</p> <blockquote> <blockquote> <p>Add and prioritize feeds for them to appear on top of the feed. Summarise any article in your feed and understand the context of the article in minutes. Feeds refresh everytime you open the app</p> </blockquote> </blockquote> <p>This is the first public version of the app. What&#39;s coming?</p> <blockquote> <blockquote> <p>OPML imports. Managing sources(No algorithms, just clean and clutter free feed).</p> </blockquote> </blockquote> <p>NewsHive is going to be the only feed you need. Please try and let me know what you think </p> <p>The app is live on Playstore: <a href=\"https://play.google.com/store/apps/details?id=com.dailynewshive.app\">https://play.google.com/store/apps/details?id=com.dailynewshive.app</a></p> </div><!-- SC_ON --> &#32; su",
+        "id": 4351233,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1ppnojv/prioritize_your_feeds_with_newshive",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prioritize your feeds with NewsHive",
+        "vote": 0
+    }
+]

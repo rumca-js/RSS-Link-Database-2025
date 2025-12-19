@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T14:15:30.201260+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T14:00:33+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/mac-studio-cluster-1-hero.jpg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-b35b096f-3243-433e-9e20-b20a3674a613\" data-insert-attach=\"{&quot;id&quot;:&quot;b35b096f-3243-433e-9e20-b20a3674a613&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Mac Studio Cluster\"></p>\n\n<p>Apple gave me access to this Mac Studio cluster to test RDMA over Thunderbolt, a <a href=\"https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt\">new feature in macO",
+        "id": 4352521,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/mac-studio-cluster-1-hero.jpg",
+        "title": "1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5",
+        "vote": 0
+    }
+]

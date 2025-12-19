@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T19:39:29.861834+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T18:00:00+00:00",
+        "description": "A documentary about 'A Goofy Movie' actually has a few good pointers for film makers and animators. DisneyCember continues with a look at Not Just a Goof.\n\nWatch all DisneyCember here - https://www.youtube.com/playlist?list=PL0AQIMR-tpomecW19RN2LNrdoqd5wFu4R\n\nWatch the new NC - https://youtu.be/iGMHcasHpUg\n\nNot Just a Goof is a 2024 American documentary film about the 1995 animated film A Goofy Movie, which garnered a cult following. The documentary is written, produced, shot, edited, and directed by Eric Kimelton and Christopher Ninness with animated sequences by the Colombia-based Venturia Animation Studios. It premiered at the DocLands Documentary Film Festival on May 4, 2024. It was released on Disney+ on April 7, 2025, exactly 30 years after A Goofy Movie was released.\n\nTwitch - https://twitch.tv/channelawesome\nFacebook: https://www.facebook.com/channelawesome\nTwitter: http://twitter.com/channelawesome\nInstagram: https://www.instagram.com/channelawesome/\nLike Doug on Facebook: ht",
+        "id": 4354236,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=drneHTAoue0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/drneHTAoue0/hqdefault.jpg",
+        "title": "Not Just a Goof - DisneyCember",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T22:53:16.034732+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T22:03:34+00:00",
+        "description": "I colorized, restored, and crafted the sound design for this rare 1950s footage of Oakland in color, featuring Henry J. Kaiser Motors, a classic car dealership. Watch as the KPIX\u2011TV host explores the lot of new and used cars, showcases iconic Kaiser\u2011Frazer models, and interacts with customers and staff. Some customers even share stories about life in 1950s Oakland, giving a personal and vivid glimpse into the era. This immersive clip captures the post-war American car culture, the bustling energy of a thriving local business, and the charm of 1950s Oakland streets. Experience history brought to life with high-quality colorization, restoration\n\nvideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714sound design added only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\u2714voice enhanced and restored\n\nPlease, be awar",
+        "id": 4356707,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AX-2KKjoL5o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AX-2KKjoL5o/hqdefault.jpg",
+        "title": "Oakland 1950s in Color | Visit to a Used Car Lot (60fps, Remastered) w/ Sound",
+        "vote": 0
+    }
+]

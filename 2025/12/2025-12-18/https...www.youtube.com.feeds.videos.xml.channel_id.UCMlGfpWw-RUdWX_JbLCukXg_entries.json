@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T19:10:19.094624+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T15:07:05+00:00",
+        "description": "https://cppcon.org\n---\n\nWhat\u2019s New in Visual Studio for C++ Developers in 2025 - Augustin Popa & David Li - CppCon 2025\n---\n\nAnother year of CppCon, another year of Visual Studio improvements to make your development life better. We\u2019ll show our advancements in conformance, performance, productivity and more, across real-world codebases. Find out how C++ Dynamic Debugging can give you the experience of debug builds with the speed of optimized builds, how you can leverage context-aware code suggestions to tune GitHub Copilot for your projects, and about a host of other features. We\u2019ll also walk through which C++23 features you can use today, such as std::generator\u2019s standard library support for coroutines. We\u2019ll demo some of these features live, so you can see how to make the most of them in your own codebases. \n \n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/What's_New_in_Visual_Studio_for_Cpp_Developers_in_2025.pdf\n\nWork at Hudson River Trading (HRT): https",
+        "id": 4353610,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=G0ptIEX0y5c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G0ptIEX0y5c/hqdefault.jpg",
+        "title": "What\u2019s New in Visual Studio for C++ Developers in 2025 - Augustin Popa & David Li - CppCon 2025",
+        "vote": 0
+    }
+]

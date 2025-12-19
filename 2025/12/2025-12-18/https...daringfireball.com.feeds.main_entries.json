@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T20:34:14.087301+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T19:44:36+00:00",
+        "description": "<p>Gift Card Database (GCDB) has a guide to spotting tampered gift cards:</p>\n\n<blockquote>\n  <p>Whilst it may seem unusual, you should tear open this version of\nApple gift card before you purchase it so that you can inspect the\nredemption code. Look for missing or scratched off characters (it\nmay be as subtle as changing an L to look like an I).</p>\n\n<p>If you\u2019re satisfied that the redemption code is legible and\nundamaged, you can purchase the gift card by scanning the barcode\non the other side. If staff question your decision to open it\nfirst, calmly explain why you were checking it and refer them to\nthe image above if it helps.</p>\n\n<p>The one major downside of this precaution is that it requires you\nto basically destroy the gift card packaging so if it\u2019s intended\nas a present you may just have to give them the smaller inner card\ninstead. Still, it\u2019s better to be safe than sorry.</p>\n</blockquote>\n\n<p>I\u2019m not bashful, but I\u2019d be very uncomfortable opening gift cards before I purcha",
+        "id": 4355600,
+        "language": "",
+        "link": "https://gcdb.com.au/article/gift-card-scams",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GCDB\u2019s Guide to Gift Card Tampering Scams",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T23:31:40.121598+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T22:47:01+00:00",
+        "description": "New scam: Sealed DDR5 kit sold as new hid DDR2 sticks and a fake weight plate\nhttps://videocardz.com/newz/new-scam-sealed-ddr5-kit-sold-as-new-hid-ddr2-sticks-and-a-fake-weight-plate \nhttps://www.adata.com/in/announcement/ \nThrowback to Newegg fake i7 920s, 2010 - \nhttps://www.zdnet.com/article/newegg-sold-counterfeit-intel-core-i7-cpus/ \nhttps://www.overclockers.com/forums/threads/reported-fake-intel-cpu-sold-at-newegg-first-build-ever-i7-920.636484/#post-6422351",
+        "id": 4356987,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/FkX1zQMANdI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FkX1zQMANdI/hqdefault.jpg",
+        "title": "Don't get RAM Scammed",
+        "vote": 0
+    }
+]

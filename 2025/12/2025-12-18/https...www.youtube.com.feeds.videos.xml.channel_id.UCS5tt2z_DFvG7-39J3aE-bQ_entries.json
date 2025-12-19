@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Life of Boris",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T23:16:44.296855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T22:47:59+00:00",
+        "description": "Video note from Boris to Boris.\nMusic by Boris & The Balalaikas.\nhttps://open.spotify.com/artist/4rD9iKpk9Ed3AruBdsEY9G?si=MvMLLWWOSxuRANitHb1HSQ\nNo subtitles, YouTube CC does very good job, switch those on.\n\n0:00 The Problem\n3:53 The Solution\n7:42 Summary",
+        "id": 4356816,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TbjEkCIZ_Rg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 810,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS5tt2z_DFvG7-39J3aE-bQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TbjEkCIZ_Rg/hqdefault.jpg",
+        "title": "Note to self. You NEED to hear this.",
+        "vote": 0
+    }
+]

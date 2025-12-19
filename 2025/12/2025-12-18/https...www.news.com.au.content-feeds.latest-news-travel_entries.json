@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T03:29:07.242898+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T03:29:06+00:00",
+        "description": "Photos have emerged of the passports reportedly used by the alleged Bondi terrorists during a month-long trip to a known terror hotspot.",
+        "id": 4348975,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/photos-emerge-of-passports-used-by-bondi-shooters-during-monthlong-philippines-trip/news-story/2cef64eb7512c0d8d80b33ab1e7949e6?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/52fc86602be28e42bbb768d323380cfb?width=320",
+        "title": "Photos emerge of passports used by Bondi shooters during month-long Philippines trip",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T19:39:40.008537+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T18:04:00+00:00",
+        "description": "Cho\u0107 sztuczna inteligencja w powszechnym u\u017cyciu znajduje si\u0119 dopiero od kilku lat, jej historia si\u0119ga po\u0142owy ubieg\u0142ego wieku.",
+        "id": 4354237,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/uczelnie-wyzsze/art43530881-sztuczna-inteligencja-informatyka-wiedza",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sztuczna inteligencja, informatyka, wiedza",
+        "vote": 0
+    }
+]

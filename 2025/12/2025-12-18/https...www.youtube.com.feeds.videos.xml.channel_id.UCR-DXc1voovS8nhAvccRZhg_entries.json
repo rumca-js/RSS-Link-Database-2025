@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T14:18:01.260776+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T14:01:47+00:00",
+        "description": "RDMA over Thunderbolt support landed in macOS 26.2.\n\nIs it good for HPC? For Exo and LLMs? Find out in this video.\n\nResources (some links are affiliate links):\n\n  - Mac Studio: https://www.apple.com/mac-studio/\n  - Exo 1.0: https://exolabs.net\n  - Apple MLX PR for Thunderbolt RDMA: https://github.com/ml-explore/mlx/pull/2808\n  - M5 Neural Accelerator speedup: https://machinelearning.apple.com/research/exploring-llms-mlx-m5\n  - DeskPi Rackmate TL1: https://amzn.to/4p5ek94\n  - Tupavco mini-rack PDU: https://amzn.to/4j0DpAq\n\nDisclaimer: The Mac Studios used in this cluster are on loan from Apple for testing. They are not sponsoring this video, nor had any say in the contents. DeskPi sent the Rackmate TL1 used in the video for my testing, but they also had no say in the video contents. I always add the \"sponsored\" flag on my videos if I did not purchase the equipment being shown.\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/",
+        "id": 4352544,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=x4_RsUxRjKU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x4_RsUxRjKU/hqdefault.jpg",
+        "title": "Apple didn't have to go this hard...",
+        "vote": 0
+    }
+]

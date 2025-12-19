@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T05:39:15.659655+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T05:14:35+00:00",
+        "description": "Youyeetoo has unveiled the K1, a compact x86 embedded platform based on Intel&#8217;s 12th-generation Alder Lake-N N100 processor. The system pairs an 82 &#215; 71 mm core board with an optional 134 &#215; 92 mm carrier board, targeting edge computing, industrial HMI, digital signage, and network appliance applications running Windows or Linux. The Youyeetoo K1 [&#8230;]",
+        "id": 4349507,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/intel-alder-lake-n-n100-powers-modular-x86-embedded-platform-with-optional-nfc-interface",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Intel Alder Lake-N N100 powers modular x86 embedded platform with optional NFC interface",
+        "vote": 0
+    }
+]

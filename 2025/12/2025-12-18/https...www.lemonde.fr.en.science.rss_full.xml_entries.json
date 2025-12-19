@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T23:15:38.806545+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T23:15:38+00:00",
+        "description": "Housed in a construction-site container and a venue loaned by the town hall in the 13th arrondissement of Paris, the museum shines a light on forgotten techniques and objects to highlight alternative energy sources.",
+        "id": 4356806,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/france/article/2025/12/18/at-the-retrofutur-museum-in-paris-looking-to-the-past-to-better-understand-the-future_6748646_7.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/12/10/60/0/1920/960/644/322/60/0/05e44e7_upload-1-womtwqnkypi7-20250710-trailer-museum-frame-at-0m6s.jpg",
+        "title": "At the R\u00e9trofutur Mus\u00e9um in Paris, looking to the past to better understand the future",
+        "vote": 0
+    }
+]

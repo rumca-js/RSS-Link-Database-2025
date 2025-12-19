@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T19:42:50.076915+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T16:02:36+00:00",
+        "description": "Here are some good PC games released throughout 2025.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1\n\n0:00 Intro\n0:47 Dying Light: The Beast\n2:03 Megabonk\n2:43 Kingdom Come: Deliverance 2\n3:31 Sonic Racing: Crossworlds\n4:35 Hell is Us\n5:26 Total Chaos\n6:32 Stellar Blade\n7:35 Ball X Pit\n8:18 Battlefield 6\n9:07 Absolum\n9:55 Ninja Gaiden: Ragebound\n10:36 Jurassic World Evolution 3\n11:30 Pipistrello and the Cursed Yoyo\n12:21 Mafia: The Old Country\n13:17 Dispatch\n14:12 Cultic: Chapter 2\n14:58 Dynasty Warriors: Origins\n16:17 Schedule 1\n16:55 Tainted Grail: The Fall of Avalon\n17:51 Kingdoms of the Dump\n19:10 Hades 2\n20:10 Wuchang: Fallen Feathers\n21:05 Split Fiction\n22:01 Promise Mascot Agency\n22:48 Cronos: The New Dawn\n23:50 Abiotic Factor\n24:38 Ender Magnolia: Bloom in the Mist\n25:32 Ninja Gaiden 4\n26:50 Silent Hill F\n27:56 AI Limit\n28:51 Digimon Story: Time Stranger\n30:18 Escape from Duckov\n31:14 The First Berserker: Khazan\n32:03 Shinobi: Art of Vengeance\n33:02 ",
+        "id": 4354285,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=D1sX2BsLZ4k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D1sX2BsLZ4k/hqdefault.jpg",
+        "title": "Top 50 Best PC Games of 2025",
+        "vote": 0
+    }
+]

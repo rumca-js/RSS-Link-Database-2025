@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warner Bros.",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T19:50:30.320754+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T16:15:05+00:00",
+        "description": "In Digger we trust.\n\nDIGGER. A comedy of catastrophic proportions. Only in theaters October 2026.",
+        "id": 4354415,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Rd21PhsDHww",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 693,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjmJDM5pRKbUlVIzDYYWb6g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Rd21PhsDHww/hqdefault.jpg",
+        "title": "DIGGER | Title Announcement",
+        "vote": 0
+    }
+]

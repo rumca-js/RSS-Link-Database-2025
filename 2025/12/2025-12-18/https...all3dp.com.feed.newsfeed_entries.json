@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T19:19:34.164265+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T13:01:38+00:00",
+        "description": "Discover five proven post-processing techniques to achieve a nearly flawless, injection-molding-like finish on your PETG prints",
+        "id": 4353858,
+        "language": "en",
+        "link": "https://all3dp.com/2/petg-smoothing",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 16,
+        "source_url": "https://all3dp.com/feed/newsfeed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PETG Smoothing: Expert Tips for a Mirror-Like Shine on Your 3D Prints",
+        "vote": 0
+    }
+]

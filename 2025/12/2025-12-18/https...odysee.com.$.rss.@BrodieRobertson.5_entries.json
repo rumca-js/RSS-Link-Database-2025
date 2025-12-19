@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-18T19:27:17.744749+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-18T16:30:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/3kZJrQNE3Lw\" width=\"480\" alt=\"thumbnail\" title=\"KDE And GNOME Finally Have A Real Competitor\" /></p>Recently the COSMIC desktop stable release finally came out, I've been watching this project from the very start and we're finally here today.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />System76 Building Desktop: https://www.omgubuntu.co.uk/2021/11/system76-is-building-its-own-desktop-environment<br />Carl Richell COSMIC Letter: https://blog.system76.com/post/pop-os-letter-from-our-founder<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br",
+        "id": 4354025,
+        "language": "en",
+        "link": "https://odysee.com/kde-and-gnome-finally-have-a-real:f220a1fdfaffc2e9a17419da448c0d34f3f4f8e0",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/3kZJrQNE3Lw",
+        "title": "KDE And GNOME Finally Have A Real Competitor",
+        "vote": 0
+    }
+]
