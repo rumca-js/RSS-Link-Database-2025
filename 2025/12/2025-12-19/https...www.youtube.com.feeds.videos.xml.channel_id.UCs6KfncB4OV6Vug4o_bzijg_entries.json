@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T02:46:50.361781+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T02:18:48+00:00",
+        "description": "This week's Surveillance Report covers the internet's free speech protections under attack as a US Senator moves to repeal Section 230. Plus: ransomware attacks escalate with React2Shell exploitation, India orders government access to encrypted messaging, AI \"superintelligence\" fear is being used to justify actual corporate manipulation happening right now, and Apple still refuses to comply with EU law.\n\n\ud83d\udd0e EasyOptOuts is the easy, affordable, and effective way to automatically remove your data from people search sites: https://easyoptouts.com\nThanks to the EasyOptOuts team for sponsoring Surveillance Report!\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://www.youtube.com/watch?v=RSqD8wWRjqw\nhttps://youtu.be/0gy73vUbkOw\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Sources: https://techlore.tech/the-law-that-protects-your-online-speech-is-under-attack/\n\n\ud83e\udde1 SUPPORT TECHLORE\nSupport our mission to defend digital rights for everyone:\nhttps://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join\n\u2022 All Our Support Methods: https://tec",
+        "id": 4358011,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=GLH-Uomg2j0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GLH-Uomg2j0/hqdefault.jpg",
+        "title": "The Law That Protects Your Online Speech Is Under Attack",
+        "vote": 0
+    }
+]

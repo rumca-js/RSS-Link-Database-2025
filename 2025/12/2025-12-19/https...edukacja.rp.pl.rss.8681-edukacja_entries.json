@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T12:57:32.864978+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T12:57:31+00:00",
+        "description": "Weto spowoduje pewne trudno\u015bci legislacyjne, ale nie zatrzyma reformy - powiedzia\u0142a w pi\u0105tek minister edukacji Barbara Nowacka, komentuj\u0105c decyzj\u0119 prezydenta Karola Nawrockiego o zawetowaniu nowelizacji Prawa o\u015bwiatowego.",
+        "id": 4360869,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/prawo-w-polsce/art43535781-men-reaguje-na-weto-prezydenta-bedziemy-wprowadzac-reforme-programowa-rozporzadzeniami",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MEN reaguje na weto prezydenta. \u201eB\u0119dziemy wprowadza\u0107 reform\u0119 programow\u0105 rozporz\u0105dzeniami\u201d",
+        "vote": 0
+    }
+]

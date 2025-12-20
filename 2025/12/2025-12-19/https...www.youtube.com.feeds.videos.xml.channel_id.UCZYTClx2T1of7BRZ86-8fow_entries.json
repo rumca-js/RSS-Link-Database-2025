@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T16:17:30.073913+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T16:01:34+00:00",
+        "description": "Support for this episode was contributed by the Translational Research Institute for Space Health at Baylor College of Medicine. TRISH is an applied health research catalyst that funds high-impact scientific studies and technologies to keep astronauts healthy during deep space exploration. TRISH is empowered by the NASA Human Research Program, and is a consortium led by Baylor College of Medicine with partners MIT and Caltech. To learn more go here: bcm.edu/spacehealth\n\nOne day, we might nap our way to Mars. Researchers believe suspended animation or hibernation is the best way to travel through space. Here's how they want to do it.\n\nHosted by: @NotesByNiba (she/her)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for ",
+        "id": 4362289,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ufPpQAEtgdM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ufPpQAEtgdM/hqdefault.jpg",
+        "title": "Could We Hibernate All the Way to Mars?",
+        "vote": 0
+    }
+]

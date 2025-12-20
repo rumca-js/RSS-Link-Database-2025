@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ColdFusion",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T13:11:57.740750+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T12:51:00+00:00",
+        "description": "When it comes to big tech, it well and truly seems like it's taking over everything. But what happens when it comes for Hollywood. In this episode we check it the insane chaos behind the Netflix/ Warner Brothers/ Paramount deal.\n\nWatch or listen to ColdFusion on Spotify: https://open.spotify.com/show/1YEwCKoRz8fEDqheXB6UJ1\n\nColdFusion Music: \nhttps://www.youtube.com/@coldfusionmusic\nhttp://burnwater.bandcamp.com   \n\nGet my book: \nhttp://bit.ly/NewThinkingbook \n\nColdFusion Socials: \nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nCreated by: Dagogo Altraide\nProducers: Tawsif Akkas, Dagogo Altraide",
+        "id": 4360885,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4JxUSGub_t0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 76,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4JxUSGub_t0/hqdefault.jpg",
+        "title": "Netflix Comes For Hollywood",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T23:23:19.330778+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T22:25:30+00:00",
+        "description": "Why Google is re entering the AI glasses market a decade later.\n\nGoogle\u2019s planned return to smart glasses comes after its first attempt, Google Glass, collapsed under privacy concerns and social resistance.\n\nMeanwhile, Meta has found traction by simplifying the product and prioritizing design familiarity.\n\nThe renewed competition highlights a key insight in consumer tech:\nbreakthrough technology fails if it ignores social norms.\n\nAs Google re enters the space, success will depend less on innovation and more on trust, design, and restraint.\n\n\ud83d\udc49 Visit our YouTube channel for more content.",
+        "id": 4365767,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/MFMP9vud8sY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MFMP9vud8sY/hqdefault.jpg",
+        "title": "Google is trying AI glasses again. This time, they can\u2019t afford to be weird.",
+        "vote": 0
+    }
+]

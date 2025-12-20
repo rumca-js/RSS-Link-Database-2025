@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samantha Cole",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T17:27:14.027328+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T16:10:49+00:00",
+        "description": "This week, we discuss history repeating itself, a phone wipe scandal, Meta's relationship with links and more.",
+        "id": 4363046,
+        "language": "en",
+        "link": "https://www.404media.co/behind-the-blog-resisting-demoralization",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/12/nl12.19-1.png",
+        "title": "Behind the Blog: Resisting Demoralization",
+        "vote": 0
+    }
+]

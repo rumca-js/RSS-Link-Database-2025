@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T06:41:57.406789+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T06:03:02+00:00",
+        "description": "How an argument between Einstein and Bohr changed quantum mechanics forever. \n\nSponsored by NordVPN - \ud83c\udf0f Get exclusive NordVPN deal here: https://NordVPN.com/veritasium It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\u270c\n\n\u2580\u2580\u2580\nThank you to Dr Adam Becker for his help with this video - check out his book here ve42.co/WhatReal \n\nAnd special thanks to Thierry Avignon, Benjamin Vest, and Lionel Jacubowiez of the Institut d'Optique Graduate School - Laboratoire d'Enseignement Exp\u00e9rimental (LEnsE)\n\n\u2580\u2580\u2580\n0:00 The Speed of Gravity\n3:08 Spooky Action at a Distance\n5:15 The Copenhagen Interpretation\n9:06 The EPR Paradox and Hidden Variables\n15:46 Einstein vs Bohr\n19:21 John Bell and Entanglement \n22:00 Bell\u2019s Theorem \n27:53 The Bell Inequality Test\n32:03 The Most Misunderstood Experiment in Physics\n35:00 The Locality Problem \n39:12 The Many-Worlds Interpretation\n\n\u2580\u2580\u2580\n\nReferences:\nAdam Becker (2018). What is Real?. Basic Civitas Books - ve42.co/WhatReal \nEinstein-Podolsky-Rosen paradox via Wik",
+        "id": 4358823,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NIk_0AW5hFU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NIk_0AW5hFU/hqdefault.jpg",
+        "title": "The Experiment That Breaks Relativity",
+        "vote": 0
+    }
+]

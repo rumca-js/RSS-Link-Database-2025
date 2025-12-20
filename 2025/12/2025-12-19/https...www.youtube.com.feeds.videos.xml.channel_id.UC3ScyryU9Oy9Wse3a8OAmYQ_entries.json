@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "FRONTLINE PBS | Official",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T22:39:27.393943+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T22:00:23+00:00",
+        "description": "Chuck Schumer was first elected to the U.S. Senate (D-N.Y.) in 1999 and has served as Senate majority leader since 2021. \n\nThe following interview was conducted by FRONTLINE\u2019s Jim Gilmore on Nov. 2, 2021. It has been edited for clarity and length.",
+        "id": 4365381,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LDXNbGBR294",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 109,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LDXNbGBR294/hqdefault.jpg",
+        "title": "Pelosi's Power: Chuck Schumer (interview) | FRONTLINE",
+        "vote": 0
+    }
+]

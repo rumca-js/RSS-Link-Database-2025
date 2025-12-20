@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T15:19:16.848243+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T15:07:05+00:00",
+        "description": "https://cppcon.org\n---\n\nEngineers Are Users Too: A Case Study in Design Thinking for Infrastructure - Grace Alwan - CppCon 2025\n---\n\nBringing together strong engineering skills with a foundation in UX Design can open unexpected doors\u2014especially in fields like infrastructure, where there are few engineers trained in design. As a software engineer on an infrastructure team at a fintech company, I work on low-level systems that power how engineers manage compute at scale. But it\u2019s my background in UX and human-computer interaction that\u2019s made me an invaluable asset. By applying design thinking to infrastructure \u2013 through prototyping, user interviews, and iteration \u2013 I transformed a complex internal workflow and quickly became a subject matter expert. \n \n This talk will walk you through that journey and give you the tools to be a design trailblazer in your own career. You'll leave with practical techniques for integrating empathy and user-centric thinking into deeply technical work\u2014and in",
+        "id": 4362005,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oe_Lke3zaBY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oe_Lke3zaBY/hqdefault.jpg",
+        "title": "Engineers Are Users Too: A Case Study in Design Thinking for Infrastructure - Grace Alwan",
+        "vote": 0
+    }
+]

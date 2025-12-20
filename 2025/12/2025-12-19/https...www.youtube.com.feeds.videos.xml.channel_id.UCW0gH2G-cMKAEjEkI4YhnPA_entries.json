@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerd of the Rings",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T16:50:42.099358+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T16:25:39+00:00",
+        "description": "Check out the Museum Collection Helm of Sauron: https://www.budk.com/Lord-of-the-Rings-Museum-Collection-Helm-of-Sauron-52793/52793.html\n\nProduct Description:\nA terrifying vision of power and darkness, the War Helm of Sauron\u2122 from The Lord of the Rings\u2122 Museum Collection is a meticulously crafted replica of the helm worn by the Dark Lord himself during the prologue of The Fellowship of the Ring\u2122. Cast in reinforced polyresin with a corroded, heat-discolored finish, the helm features a genuine leather-lined and padded interior. Every surface is hand-finished to match the original Weta Workshop prop, capturing the vine-like engravings, iron texture, and six menacing spikes that crowned Sauron in battle. Standing 30\" tall, this officially licensed collector\u2019s replica is mounted on a custom wood and polystone display stand. It includes a Sauron-scale One Ring\u2122 replica and a fabric war banner bearing the Eye of Sauron, along with a certificate of authenticity. Individually serial-numbered,",
+        "id": 4362807,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=oIBZdkwfkJo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 234,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW0gH2G-cMKAEjEkI4YhnPA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oIBZdkwfkJo/hqdefault.jpg",
+        "title": "Helm of Sauron Museum Collection Unboxing",
+        "vote": 0
+    }
+]

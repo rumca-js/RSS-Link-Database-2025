@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T17:09:08.254605+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T15:55:04+00:00",
+        "description": "\u25baExclusive $35-off Carver Mat at https://on.auraframes.com/BELLULAR. Promo Code BELLULAR Sponsored by Aura\n\nValve faced lawsuits, gambling scandals, payment processor ultimatums, and accusations of censorship. 42 million concurrent players later, they're about to reshape PC gaming. Here's how both of those things ended up true. \n\n00:00 - Never More Criticized, Never Better Positioned\n01:10 - Valve Under Fire\n05:56 - Payment Processors\n10:24 - Valve's Big Moves\n16:05 - 2026 Is Valve's Year\n\nSources:\nhttps://store.steampowered.com/charts/\n\nhttps://bellular.games/steams-billion-dollar-competition-lawsuit/\n\nhttps://bellular.games/valve-have-rewritten-the-rules-you-already-agreed-to/\n\nhttps://bellular.games/millions-of-people-nowknow-valve-still-profits-from-gambling/\n\nhttps://bellular.games/loading-screen-valve-just-deleted-three-billion-from-cs-players/\n\nhttps://bellular.games/loading-screen-valves-new-1500-regulation-dodging-cosmetics/\n\nhttps://bellular.games/loading-screen-steams-prote",
+        "id": 4362925,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oKza1nYezqA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oKza1nYezqA/hqdefault.jpg",
+        "title": "Valve Took Every Hit. They Won Anyway",
+        "vote": 0
+    }
+]

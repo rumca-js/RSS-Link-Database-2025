@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Dawe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T23:07:10.950272+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T22:44:17+00:00",
+        "description": "Valve put up a Release Candidate for testing Proton 10.0-4, what will become the main version of the Windows compatibility layer for Linux / SteamOS.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/749135851id28221gol.jpg\" alt />.</p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2025/12/valve-put-up-a-release-candidate-for-proton-10-0-4-with-lots-more-linux-steamos-gaming-fixes/\">GamingOnLinux</a>.</p>",
+        "id": 4365655,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2025/12/valve-put-up-a-release-candidate-for-proton-10-0-4-with-lots-more-linux-steamos-gaming-fixes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/articles/tagline_images/749135851id28221gol.jpg",
+        "title": "Valve put up a release candidate for Proton 10.0-4 with lots more Linux / SteamOS gaming fixes",
+        "vote": 0
+    }
+]

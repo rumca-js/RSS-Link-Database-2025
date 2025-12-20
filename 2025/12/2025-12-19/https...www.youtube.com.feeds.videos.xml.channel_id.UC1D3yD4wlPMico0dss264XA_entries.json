@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NileBlue",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T18:18:29.775446+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T17:40:39+00:00",
+        "description": "A while about we make 80% SuperBeer\u2122, which turned out pretty well. However after making it, we're now convinced that we can make it even stronger. Who knows, maybe we can make it 90% or higher.\n\n#shorts",
+        "id": 4363547,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/7VgiK2hZzI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 850,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1D3yD4wlPMico0dss264XA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7VgiK2hZzI4/hqdefault.jpg",
+        "title": "Making the world's strongest beer",
+        "vote": 0
+    }
+]

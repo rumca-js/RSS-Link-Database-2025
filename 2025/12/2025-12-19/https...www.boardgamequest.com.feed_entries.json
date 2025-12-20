@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrea Champagne",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T14:02:37.715993+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T13:52:49+00:00",
+        "description": "<img width=\"640\" height=\"638\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/12/Witcher-Path-of-Destiny-1024x1021.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Witcher: Path of Destiny\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/12/Witcher-Path-of-Destiny-1024x1021.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Witcher-Path-of-Destiny-300x300.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Witcher-Path-of-Destiny-150x150.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Witcher-Path-of-Destiny-768x766.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Witcher-Path-of-Destiny-1536x1532.jpg 1536w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Witcher-Path-of-Destiny-2048x2043.jpg 2048w, https://www.boardgamequest.com/wp-content/uplo",
+        "id": 4361278,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/witcher-path-of-destiny-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/12/Witcher-Path-of-Destiny-1024x1021.jpg",
+        "title": "Witcher: Path of Destiny Review",
+        "vote": 0
+    }
+]

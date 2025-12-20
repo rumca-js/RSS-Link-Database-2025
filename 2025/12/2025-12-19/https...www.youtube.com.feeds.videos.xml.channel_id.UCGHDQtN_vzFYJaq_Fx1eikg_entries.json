@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T22:08:21.630045+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T21:03:17+00:00",
+        "description": "This 1,600-year-old poem has never been replicated in English, because it would be virtually impossible.\n\n\n\"The Star Gauge (Chinese: \u7487\u74a3\u5716; pinyin: xu\u00e1n j\u012b t\u00fa), or translated as \"the armillary sphere chart\", is the posthumous title given to a 4th-century Chinese poem written by the Sixteen Kingdoms poet Su Hui for her husband. It consists of a 29 by 29 grid of characters, forming a reversible poem that can be read in different ways to form roughly 3,000 smaller rhyming poems. The outer border forms a single circular poem, thought to be both the first and the longest of its kind.\nThe Star Gauge consists of 841 characters in a grid. The original was described by contemporary sources as shuttle-woven on brocade. It was composed by Su Hui during a time when East Asian M\u0101dhyamaka was one of the predominant philosophical schools in the area.\nThe outer border is meant to be read in a circle. The grid is known as a palindrome poem, and can be read in different ways to generate over 3,000 shorte",
+        "id": 4365246,
+        "language": "rn",
+        "link": "https://www.youtube.com/watch?v=v6-XA7_iUXs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v6-XA7_iUXs/hqdefault.jpg",
+        "title": "This Ancient Chinese Poem is a Machine | Tales From the Bottle",
+        "vote": 0
+    }
+]

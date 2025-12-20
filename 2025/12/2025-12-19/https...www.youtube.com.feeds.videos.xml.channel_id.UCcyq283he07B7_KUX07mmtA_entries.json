@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-19T22:11:44.458364+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-19T21:25:01+00:00",
+        "description": "Electricity bills are rising in the US \u2014 and politicians are mostly blaming either renewable energy or data centers and AI. But do either of those really explain the problem? And is there any way to fix it?\n\nBusiness Insider producer Elizabeth McCauley sifts through the noise and talks to experts to find out the truth.\n\nCheck out this reading list to view the sources that informed this video: https://docs.google.com/document/d/1q0ljwmz588nIKTZVwhA9KnkX7BHR4-bmnoNtWOa1BCg/edit?usp=sharing\n\n00:00 - Intro\n01:04 - Do renewables increase electricity costs?\n02:15 - Delays holding back energy supply\n03:57 - New research on renewable energy & electricity prices\n05:23 - Are poles & wires driving up costs?\n06:37 - The aging power grid\n07:33 - What's behind surging electricity demand?\n08:28 - The role of extreme weather\n08:44 - Rising prices in Texas\n08:57 - Renewable energy in Texas\n09:43 - Balancing inconsistent renewables with other energy sources\n11:52 - The AI boom & data center energy dema",
+        "id": 4365269,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pk0Zm_xpk3c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pk0Zm_xpk3c/hqdefault.jpg",
+        "title": "You're Being Lied To About Rising Electricity Costs",
+        "vote": 0
+    }
+]
