@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T09:37:49.689702+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T09:37:48+00:00",
+        "description": "Polska ortografia szykuje si\u0119 na najwi\u0119ksze porz\u0105dki od dziesi\u0119cioleci. Od 1 stycznia przysz\u0142ego roku zaczn\u0105 obowi\u0105zywa\u0107 nowe zasady pisowni i interpunkcji, kt\u00f3re maj\u0105 upro\u015bci\u0107 regu\u0142y, ograniczy\u0107 liczb\u0119 wyj\u0105tk\u00f3w i dostosowa\u0107 norm\u0119 j\u0119zykow\u0105 do rzeczywistego sposobu, w jaki Polacy pos\u0142uguj\u0105 si\u0119 j\u0119zykiem na co dzie\u0144. Zmiany zosta\u0142y opracowane przez Rad\u0119 J\u0119zyka Polskiego i b\u0119d\u0105 mia\u0142y charakter powszechnie obowi\u0105zuj\u0105cy.",
+        "id": 4368013,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/prawo-dla-ciebie/art43540851-pisownia-na-nowo-co-zmieni-sie-w-polskiej-ortografii-od-przyszlego-roku",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pisownia na nowo. Co zmieni si\u0119 w polskiej ortografii od przysz\u0142ego roku?",
+        "vote": 0
+    }
+]

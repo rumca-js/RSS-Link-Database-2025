@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T16:56:39.664190+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T16:23:11+00:00",
+        "description": "Neuralink\u2019s next milestone: upgrading an active brain implant.\n\nNeuralink reports that its first human subject now relies on his brain computer interface for hours each day, using it continuously for gaming and learning.\n\nThe company is now considering an in place upgrade, not for repair, but for expanded functionality and finer control.\n\nThis marks a critical transition from experimental validation to product evolution.\n\nThe question is no longer whether brain computer interfaces work, but how quickly and safely they can improve once embedded in the human nervous system.\n\n\ud83d\udc49 Visit our YouTube channel for more content.",
+        "id": 4370129,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/n7p05ZDPy4U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n7p05ZDPy4U/hqdefault.jpg",
+        "title": "Neuralink wants to upgrade a brain chip while it\u2019s still in someone\u2019s head.",
+        "vote": 0
+    }
+]

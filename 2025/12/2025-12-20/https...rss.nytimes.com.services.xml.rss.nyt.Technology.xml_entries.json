@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Riley Mellen and Anatoly Kurmanaev",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T10:05:43.486714+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T10:00:36+00:00",
+        "description": "Military brinkmanship between President Trump and Nicol\u00e1s Maduro of Venezuela has led to an increase in electronic warfare in the region.",
+        "id": 4368114,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/12/20/world/americas/us-venezuela-caribbean-gps-flight-hazard.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/12/20/multimedia/20int-venezuela-gps-pcgq/20int-venezuela-gps-pcgq-mediumSquareAt3X.jpg",
+        "title": "U.S. and Venezuela Jam Caribbean GPS Signals to Thwart Attacks, Raising Flight Hazard",
+        "vote": 0
+    }
+]

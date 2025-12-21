@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T12:36:12.791828+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T12:00:39+00:00",
+        "description": "Ready to become a certified Architect - Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdb3S7\n\nLearn more about Shadow AI here \u2192 https://ibm.biz/Bdb3vx\n\nWhen AI starts acting instead of chatting, the real risks begin \u26a1. Bri Kopecki explains how Shadow AI and Agentic AI intersect with Zero Trust, AI security, AI governance, and safe AI automation. Discover the controls that keep fast\u2011moving autonomous systems stable and accountable.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbTRL\n\n#agenticai #aisecurity #zerotrust #automation",
+        "id": 4368810,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IaJ2jXmljmM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IaJ2jXmljmM/hqdefault.jpg",
+        "title": "Agentic AI Meets Shadow AI : Zero Trust Security for AI Automation",
+        "vote": 0
+    }
+]

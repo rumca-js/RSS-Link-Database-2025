@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Morgan Halberg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T15:24:59.236746+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T15:00:00+00:00",
+        "description": "From airport lounge access to carry-ons and tech upgrades, these fast-shipping picks save the season without looking rushed.",
+        "id": 4369601,
+        "language": "en",
+        "link": "https://observer.com/list/jet-set-last-minute-travel-gifts-that-are-still-thoughtful",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://observer.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-18-at-3.03.42-PM.png?w=970&quality=80",
+        "title": "Jet Set: Last-Minute Travel Gifts That Are Still Thoughtful",
+        "vote": 0
+    }
+]

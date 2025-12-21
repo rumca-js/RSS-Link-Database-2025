@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T00:43:56.021221+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T00:28:15+00:00",
+        "description": "phone company: https://www.phreeli.com/\nHow it works: https://www.phreeli.com/files/PhreeliDoubleBlindArmadilloWhitePaper.pdf\noriginal video: https://www.youtube.com/watch?v=mdZt7ox1DDs\nSummary of AT&T violation: https://docs.fcc.gov/public/attachments/FCC-24-40A2.pdf\nAT&T earnings: https://www.sec.gov/ix?doc=/Archives/edgar/data/732717/000073271724000009/t-20231231.htm\nFine issued: https://docs.fcc.gov/public/attachments/FCC-24-40A1.pdf\nBrendan Carr dissent: https://docs.fcc.gov/public/attachments/FCC-24-40A3.pdf\nAT&T may not even have to pay: https://www.dwt.com/blogs/broadband-advisor/2025/05/5th-circuit-invalidates-fcc-forfeiture-jarkesy\n\n\nrevup propaganda: https://www.facebook.com/people/RevUp-America/61577268421421/\nangry goose meme: https://www.youtube.com/post/UgkxgfYO-XhTLxoG_Jx4pnatEpSh4Fomm_Ge\nmaryland robocall hearing: https://youtu.be/KB838raflTw?t=2923",
+        "id": 4366191,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=e8SnNNq6MaI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e8SnNNq6MaI/hqdefault.jpg",
+        "title": "We started a phone company that doesn't collect personal data",
+        "vote": 0
+    }
+]

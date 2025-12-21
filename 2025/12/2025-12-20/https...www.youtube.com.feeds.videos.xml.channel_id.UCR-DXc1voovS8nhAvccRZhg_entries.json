@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T16:09:44.038527+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T15:00:24+00:00",
+        "description": "Shop Micro Center Holiday Deals: https://micro.center/e787eb\nCheck out Micro Center's Other Top Deals: https://micro.center/315b05\nShop Micro Center Bundles: https://micro.center/f7b037\nVisit Micro Center News: https://micro.center/9b77f2\n\nCan a Raspberry Pi match the performance of a modern desktop PC when it comes to GPU performance?\n\nOf course not, in a general sense. But there are specific use cases where you'd be surprised by how close the Pi comes, performance-wise. In some cases, the Pi is actually faster!\n\nResources I mentioned in this video:\n\n  - AI Benchmark results and methodology: https://github.com/geerlingguy/ai-benchmarks\n  - Multi-GPU benchmark results: https://github.com/geerlingguy/ai-benchmarks/issues/44\n  - Use AMD GPUs on Pi: https://www.jeffgeerling.com/blog/2025/using-amd-gpus-on-raspberry-pi-without-recompiling-linux\n  - Use Nvidia GPUs on Pi: https://www.jeffgeerling.com/blog/2025/nvidia-graphics-cards-work-on-pi-5-and-rockchip\n  - Use Intel GPUs on Pi: https:",
+        "id": 4369817,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8X2Y62JGDCo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8X2Y62JGDCo/hqdefault.jpg",
+        "title": "2 GPUs 1 Pi",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T18:55:01.556174+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T18:01:07+00:00",
+        "description": "It really is a David vs Goliath story this weekend as a little family animated movie with a lot of heart, tries to compete against the absolute juggernaut of Avatar Fire And Ash. And the strange thing is, it's actually a really decent movie.",
+        "id": 4370750,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tCQUUIFDlr8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tCQUUIFDlr8/hqdefault.jpg",
+        "title": "David - Can It Take On James Cameron's Goliath?",
+        "vote": 0
+    }
+]

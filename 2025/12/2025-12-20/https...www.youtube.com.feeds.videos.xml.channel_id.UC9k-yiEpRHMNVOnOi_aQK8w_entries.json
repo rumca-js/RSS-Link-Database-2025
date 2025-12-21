@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Inside Edition",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T14:43:36.655600+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T14:02:53+00:00",
+        "description": "Dr. Kehinde Idowu was in the right place at the right time to assist when John Nimmo crashed his car after a scary medical episode while driving in Atlanta, Georgia. Dr. Idowu was driving right behind John when his car veered into oncoming traffic and off the road. He noticed John had his hand over his chest and knew he was having a heart attack. The doctor did CPR until first responders arrived, which ultimately saved John's life. Inside Edition Digital's Andrea Swindall has more.",
+        "id": 4369358,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NI00c-bzrdI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 719,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9k-yiEpRHMNVOnOi_aQK8w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NI00c-bzrdI/hqdefault.jpg",
+        "title": "Atlanta Doctor Driving Behind Man Saves Him After Heart Attack",
+        "vote": 0
+    }
+]

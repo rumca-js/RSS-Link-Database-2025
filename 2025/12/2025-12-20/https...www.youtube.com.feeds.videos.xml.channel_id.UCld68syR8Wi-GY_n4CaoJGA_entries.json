@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T17:36:20.540287+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T16:30:04+00:00",
+        "description": "Linux phones are a weird device branch, unlike on the desktop or the server where Linux has a real foot hold, in the mobile space there's been many attempts but nothing really sticks\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nPinePhone: https://pine64.org/devices/pinephone/\nPostmarket OS: https://wiki.postmarketos.org/wiki/Devices\nUbuntu Touch: https://devices.ubuntu-touch.io/device/fp4/\nFurilabs: https://furilabs.com/\nJolla: https://jolla.com/\nSailfish OS: https://sailfishos.org/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/",
+        "id": 4370336,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AY5kRPexQz4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AY5kRPexQz4/hqdefault.jpg",
+        "title": "Is This A Serious Attempt At A Linux Phone?",
+        "vote": 0
+    }
+]

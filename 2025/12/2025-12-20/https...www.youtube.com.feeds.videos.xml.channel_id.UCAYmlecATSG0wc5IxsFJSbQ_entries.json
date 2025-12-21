@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T17:41:18.772830+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T17:01:06+00:00",
+        "description": "In the 1990's Amsterdam Airport began adding a picture of a fly to their urinals, which significantly reduced spillage and resulted in lower bathroom cleaning costs",
+        "id": 4370371,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ciEDgTXfNs4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ciEDgTXfNs4/hqdefault.jpg",
+        "title": "Men Need Something To Aim At #funfact",
+        "vote": 0
+    }
+]

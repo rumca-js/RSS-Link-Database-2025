@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T17:56:24.096564+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T16:58:24+00:00",
+        "description": "Hey\u2026just try Twingate\u2026.you'll never look at VPN the same: https://ntck.co/twingate-networkchuck\n\n  I built another AI supercomputer with 4 Mac Studios... but this time it actually works. Earlier this year, I clustered 5 Mac Studios and it was 91% SLOWER. Everyone said clustering was stupid. But Apple just dropped a software update that changes everything - RDMA over Thunderbolt 5. Latency dropped from 300 microseconds to 3 microseconds. Now we're running trillion-parameter models locally at speeds that actually make sense.\n\n  \ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy\n\n\n  RESOURCES / LINKS:\n\n  Docs/walkthrough: https://github.com/theNetworkChuck/mac-studio-cluster\n  Exo Labs: https://github.com/exo-explore/exo\n  MLX (Apple's ML Framework): https://github.com/ml-explore/mlx\n  My First Cluster Video (the failure): https://youtu.be/Ju0ndy2kwlw\n  RDMA Networking Explained: https://youtu.be/fb69FyW2KLk\n\n\n  TIMESTAMPS:\n\n  0:00 - The $50,000 AI Supercomputer\n  0:53 - What Ap",
+        "id": 4370430,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bFgTxr5yst0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bFgTxr5yst0/hqdefault.jpg",
+        "title": "I built an AI Supercomputer... again (2TB RAM)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Red Means Recording",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T17:02:57.858150+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T15:56:46+00:00",
+        "description": "All of the Expressive E SFX patches through the Hologram Chroma Console and Microcosm. This music is available for use on my itch.io page: https://jjbbllkk.itch.io/\n\nGet an Osmose: https://bit.ly/3PsV5Hq\nHologram pedals: https://www.hologramelectronics.com/\n\nSupport the channel on Patreon: http://bit.ly/rmrpatreon\nTake a lesson with me: https://rmr.media/education\n\nFind my music here: \nBandcamp: http://bit.ly/2Kq617o\n\nYouTube Music: https://bit.ly/3PZQ4ol\niTunes: https://apple.co/2pqh3SK\nAmazon Music: https://amzn.to/2O9q1fe\n\nConnect:\nTwitter: http://bit.ly/rmrtwitters\nWebsite: http://bit.ly/rmrmedia",
+        "id": 4370139,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=H3dFdsOR8xg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 275,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChnxLLvzviaR5NeKOevB8iQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H3dFdsOR8xg/hqdefault.jpg",
+        "title": "Osmose Musique Concr\u00e8te",
+        "vote": 0
+    }
+]

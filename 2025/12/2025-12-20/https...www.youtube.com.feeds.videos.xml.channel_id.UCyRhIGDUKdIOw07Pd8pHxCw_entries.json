@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shut Up & Sit Down",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T16:38:39.827235+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T16:01:50+00:00",
+        "description": "Get the Newsletter: https://bit.ly/SupportSUSD",
+        "id": 4370065,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/QXzGII3l9Qw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 304,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyRhIGDUKdIOw07Pd8pHxCw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QXzGII3l9Qw/hqdefault.jpg",
+        "title": "GOOD STUFF IS COMING",
+        "vote": 0
+    }
+]

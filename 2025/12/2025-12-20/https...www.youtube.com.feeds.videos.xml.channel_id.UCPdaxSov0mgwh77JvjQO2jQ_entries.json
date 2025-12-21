@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Man Carrying Thing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-20T21:04:13.987611+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-20T20:51:22+00:00",
+        "description": "Nebula: https://go.nebula.tv/mancarryingthing\nLetterboxd: https://letterboxd.com/ManCarrying/\nTwitter: https://twitter.com/ManCarrying\nMerch: https://mancarryingthing.com\nOur second channel: https://www.youtube.com/channel/UC8aGE10t6QrcdRMpgorwkAA\nPatreon: https://www.patreon.com/mancarryingthing\nTikTok: https://www.tiktok.com/@mancarryingthing\nReddit: https://www.reddit.com/r/ManCarryingThing/\nDiscord: https://discord.gg/dz6zskP53w\nInstagram: https://www.instagram.com/mancarryingthing/",
+        "id": 4371394,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eDjAAmc5nDc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 729,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPdaxSov0mgwh77JvjQO2jQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eDjAAmc5nDc/hqdefault.jpg",
+        "title": "how 0% of americans reacted to the Epstein files:",
+        "vote": 0
+    }
+]
