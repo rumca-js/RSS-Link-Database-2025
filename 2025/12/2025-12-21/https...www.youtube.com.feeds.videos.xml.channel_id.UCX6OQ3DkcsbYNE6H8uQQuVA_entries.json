@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MrBeast",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T17:55:32.357899+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T17:00:01+00:00",
+        "description": "NO PURCHASE NECESSARY TO ENTER OR WIN. Takes place from 12/21/25 at 12:00 p.m. ET to 2/1/26 at 11:59 p.m. ET. Open only to new subscribers to the MrBeast YouTube account during the Sweepstakes Period and whose YouTube is set to public and includes a valid email address.  See Official Rules at https://bit.ly/Beast-mas for additional eligibility restrictions and complete details. Odds of winning depend on the number of eligible entries received. Void where prohibited. Sponsor: MrBeastYouTube, LLC, 740 Greenville Blvd., Greenville, NC 27858, USA",
+        "id": 4376337,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/IJkB-oapuks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 218,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IJkB-oapuks/hqdefault.jpg",
+        "title": "Giving Away $1,000,000 in Gifts To My Subscribers",
+        "vote": 0
+    }
+]

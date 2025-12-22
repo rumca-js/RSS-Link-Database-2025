@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sunjeev Bery",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T21:17:38.507157+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T21:14:04+00:00",
+        "description": "<p>Users need to revolt against what will very likely be an even more widespread effort to censor voices critical of Israel.</p>\n<p>The post <a href=\"https://theintercept.com/2025/12/21/tiktok-ellison-oracle-israel-gaza/\">Anti-Palestinian Billionaires Will Now Control What TikTok Users See</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 4377370,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/12/21/tiktok-ellison-oracle-israel-gaza",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/12/GettyImages-2252686446_7070ac.jpg?fit=7798%2C5201",
+        "title": "Anti-Palestinian Billionaires Will Now Control What TikTok Users See",
+        "vote": 0
+    }
+]

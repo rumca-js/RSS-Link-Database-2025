@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Noah Hunter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T21:21:04.429593+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T20:16:28+00:00",
+        "description": null,
+        "id": 4377404,
+        "language": "en",
+        "link": "https://www.ign.com/articles/best-deals-for-december-21-2025",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 147,
+        "source_url": "https://feeds.feedburner.com/ign/all",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets-prd.ignimgs.com/2024/05/15/ac-red-blog-1715782894354.jpg",
+        "title": "The Best Deals Today: Assassin's Creed Shadows, Battlefield 6, God of War Ragnarok, and More",
+        "vote": 0
+    }
+]

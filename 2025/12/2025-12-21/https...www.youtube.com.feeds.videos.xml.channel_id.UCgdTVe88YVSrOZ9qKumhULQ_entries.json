@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hardware Haven",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T16:42:55.513890+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T15:58:06+00:00",
+        "description": "Go to https://www.piavpn.com/HardwareHaven to get 83% off from our sponsor Private Internet Access with 4 months free!\n\n\u25ba Want to support the channel and unlock some perks in the process? \nBecome a RAID member on Patreon or YouTube!\n\ud83d\udd13 Patreon: https://www.patreon.com/hardwarehaven\n\ud83d\udd13 YouTube: https://www.youtube.com/channel/UCgdTVe88YVSrOZ9qKumhULQ/join\n\n\u25ba Items I Covered\n (some of these includes affiliate links from which I may receive compensation):\n- SlimRun CAT6A Cables: https://amzn.to/3KV28d2\n- XPOWER Duster: https://amzn.to/48M5QyH\n- Fanttik B10 Pro Max: https://amzn.to/4jcpS9g\n- Kill-A-Watt: https://amzn.to/4j9FBG7\n- Logitech K400+: https://amzn.to/491ATFH\n- 99% Isopropyl Alcohol: https://amzn.to/4aYaScI\n- Coffee Filters: https://amzn.to/3MTmu6S\n- MX-4 Thermal Paste: https://amzn.to/4qnIXYu\n- Big Freaking Magnet: https://amzn.to/45a9qjP\n- Ventoy: https://www.ventoy.net/en/index.html\n- Micro Center USB Drives: https://amzn.to/4s7kuIs\n- Pinecil Soldering Iron: https://pine64.com/",
+        "id": 4376007,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dYJP5OPBn_8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 910,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgdTVe88YVSrOZ9qKumhULQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dYJP5OPBn_8/hqdefault.jpg",
+        "title": "My Favorite Tools for Working on Computers",
+        "vote": 0
+    }
+]

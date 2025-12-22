@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warhammer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T16:43:25.231591+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T16:00:56+00:00",
+        "description": "Dire Avengers weaponry is truly terrifying! Don't just take our word for it \u2013 watch the full Loremasters episode and dozens more like it with a Warhammer+ subscription. Find out more: warhammertv.com\n\nFollow for more Warhammer, more often:\n\n- Sign up for Warhammer+: https://www.warhammerplus.com/\n- Instagram: https://www.instagram.com/warhammerofficial/\n- Threads: https://www.threads.net/@warhammerofficial\n- Facebook: https://www.facebook.com/WarhammerOfficial/\n- Warhammer Community: https://www.warhammer-community.com/\n- Get Warhammer in your inbox: https://ow.ly/6SJq50T3NL1",
+        "id": 4376008,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/uNcUdEL9acY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 385,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwdh3MTrFq3sXlB4ct8B-Fg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uNcUdEL9acY/hqdefault.jpg",
+        "title": "Loremasters - Weapons of the Dire Avengers | Warhammer 40,000",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T17:42:02.475957+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T17:26:41+00:00",
+        "description": "Some 2025 games came out of nowhere and completely surprised us. From actually releasing to surprise massive successes, here are some games that shocked us.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro\n0:31 Arc Raiders\n2:25 Clair Obscur: Expedition 33\n4:29 Donkey Kong Bananza\n6:13 Silent Hill f\n8:15 Blue Prince\n10:09 Dispatch\n11:35 Kingdom Come: Deliverance 2\n13:22 Ninja Gaiden 4\n15:15 Escape from Duckov\n16:29 Schedule 1",
+        "id": 4376296,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=bCU1ritRjA4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bCU1ritRjA4/hqdefault.jpg",
+        "title": "10 BIGGEST Surprise Hits of 2025",
+        "vote": 0
+    }
+]

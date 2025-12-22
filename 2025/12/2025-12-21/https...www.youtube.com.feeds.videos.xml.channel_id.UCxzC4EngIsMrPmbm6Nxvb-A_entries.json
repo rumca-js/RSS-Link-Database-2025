@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T21:12:24.057699+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T20:18:13+00:00",
+        "description": "Last year I made a video on Lumen orbit's proposal to build data centers in space, now all the big players in spaceflight and AI are seriously looking at this. And while there's economic arguments that may be realized at some point in the future, there are other forces that may drive this.\n\nAndrew McCalip's helpful tool for playing with numbers\nhttps://andrewmccalip.com/space-datacenters\n\nGoogle's Suncatcher paper\nhttps://services.google.com/fh/files/misc/suncatcher_paper.pdf\n\nThe original Lumen (now Starcloud) paper.\nhttps://starcloudinc.github.io/wp.pdf\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley",
+        "id": 4377338,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DCto6UkBJoI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DCto6UkBJoI/hqdefault.jpg",
+        "title": "Why Everyone Is Talking About Data Centers In Space",
+        "vote": 0
+    }
+]

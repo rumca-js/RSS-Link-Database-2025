@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T18:43:55.007780+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T18:00:09+00:00",
+        "description": "Doug looks over one of the funniest bad TV movies to come from ABC and Disney, which is saying quite a bit. DisneyCember continues with Geppetto.\n\nWatch all DisneyCember here - https://www.youtube.com/playlist?list=PL0AQIMR-tpomecW19RN2LNrdoqd5wFu4R\n\nWatch the new NC - https://youtu.be/iGMHcasHpUg\n\nGeppetto is a 2000 American made-for-television musical film based on the popular 1883 Italian children's book The Adventures of Pinocchio by Carlo Collodi starring Drew Carey and Julia Louis-Dreyfus. The film features some elements of the 1940 animated film such as the character of Figaro, the song \"I've Got No Strings\", as well as Pleasure Island. It features original songs written by Stephen Schwartz. Schwartz had developed the songs as a reunion for stars Julie Andrews and Dick Van Dyke, but Andrews was undergoing throat surgery so the idea was dropped\n\nTwitch - https://twitch.tv/channelawesome\nFacebook: https://www.facebook.com/channelawesome\nTwitter: http://twitter.com/channelawesome\n",
+        "id": 4376676,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AljzfUkXNVk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AljzfUkXNVk/hqdefault.jpg",
+        "title": "Geppetto - DisneyCember",
+        "vote": 0
+    }
+]

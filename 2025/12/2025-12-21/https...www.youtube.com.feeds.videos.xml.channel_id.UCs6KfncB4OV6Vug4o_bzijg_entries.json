@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T04:54:45.646172+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T03:48:40+00:00",
+        "description": "The UK just proposed three extreme surveillance measures: mandatory 24/7 scanning software on every phone and tablet, age verification for all VPN users with website tracking, and labeling encryption developers as \"hostile actors.\" This comes after 500,000 people petitioned against age verification, and lawmakers responded by making things worse. Here's what's actually in the Children's Wellbeing and Schools Bill, why it matters globally, and what you can do.\n\n\ud83d\udd12 A portion of the video is sponsored by Proton. Switch from Big Tech surveillance to end-to-end encryption that puts you in the front seat: https://go.getproton.me/SH12O\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Reclaim The Net Coverage: https://reclaimthenet.org/uk-lawmakers-propose-mandatory-on-device-surveillance-and-vpn-age-verification\n\u2022 Tom's Guide Coverage: https://www.tomsguide.com/computing/vpns/comply-with-the-law-uk-government-takes-aim-at-vpns-during-online-safety-act-debate\n\u2022 The Bill Itself: https://bills.parliament.uk/publications",
+        "id": 4373018,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=uzmR4nt1rpE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uzmR4nt1rpE/hqdefault.jpg",
+        "title": "UK Proposes 24/7 Phone Surveillance & VPN Age Verification",
+        "vote": 0
+    }
+]

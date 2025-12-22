@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Avishay Artsy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T13:42:25.534590+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T08:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A picture shows David Sacks, a middle-aged white man wearing a tie and a suit, lifting his right arm forward and pointing to something outside the picture.\" data-caption=\"David Sacks speaks to press outside of the White House on March 7, 2025 in Washington, DC. | Kayla Bartkowski/Getty Images\" data-portal-copyright=\"Kayla Bartkowski/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2203839341.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tDavid Sacks speaks to press outside of the White House on March 7, 2025 in Washington, DC. | Kayla Bartkowski/Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">This summer, as President Donald Trump signed a new industry-friendly <a href=\"https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/\">\u201cGenius Act\u201d</a> for cryptocurrency, he <a href=\"https://w",
+        "id": 4374922,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/473058/what-david-sacks-wants-believes-ai-trump",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2203839341.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "What does Trump\u2019s AI czar want?",
+        "vote": 0
+    }
+]

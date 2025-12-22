@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T17:34:42.111636+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T17:00:23+00:00",
+        "description": "Explore the story of the titular antagonist of The Lost Chapter: Yuki\u2019s Revenge in our behind the scenes feature: https://epic.gm/yukis-revenge-bts",
+        "id": 4376276,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/EPscFBy1lWs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EPscFBy1lWs/hqdefault.jpg",
+        "title": "A tale of revenge over 20 years in the making.",
+        "vote": 0
+    }
+]

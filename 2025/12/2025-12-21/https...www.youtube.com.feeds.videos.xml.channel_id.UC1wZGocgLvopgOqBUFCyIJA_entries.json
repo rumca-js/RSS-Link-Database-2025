@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T17:34:07.960234+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T17:17:13+00:00",
+        "description": "This video is brought to you by PlayTracker, the app that tracks your cross-platform game library, achievements, stats, and more! Join the Second Wind guild today! \u2013 https://playtracker.net/guild/second-wind/\n\nThis week on Yahtzee Tries, Yahtzee checked out Skate Story, Angeline Era, Terminator 2D: No Fate, and Tingus Goose.\n\nStream 1: https://youtube.com/live/2iYprAZPFQA\nStream 2: https://youtube.com/live/YfBduw2iSfE\n\n\nSupport us on Patreon: https://www.patreon.com/SecondWindGroup\n\nSecond Wind Merch: \nhttps://store.dftba.com/collections/second-wind\nhttps://sharkrobot.com/collections/second-wind",
+        "id": 4376275,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bBA31eVVsBU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bBA31eVVsBU/hqdefault.jpg",
+        "title": "Skate Story, Angeline Era, Terminator 2D: No Fate, and Tingus Goose | Yahtzee Tries",
+        "vote": 0
+    }
+]

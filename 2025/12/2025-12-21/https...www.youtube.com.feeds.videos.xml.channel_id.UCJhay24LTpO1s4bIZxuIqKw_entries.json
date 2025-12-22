@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T15:43:46.430681+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T15:00:21+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nArithmetic in C++ Using Counting Pointers - Peter Hrenka - ACCU 2025 Short Talks\n---\n\nLearn how to implement arithmetic in C++ using counting pointers in this lightning talk by Peter Hrenka. This deep dive into C++ template metaprogramming demonstrates how to achieve compile-time arithmetic without using built-in integers, runtime execution, or `constexpr`. Instead, Peter explores a novel approach using pointer arithmetic in C++ \u2014 safely and entirely in type space.\n\nIf you're interested in type-level programming, pointer tricks, or pushing the limits of compile-time computation in C++, this talk is for you. Using recursive templates, the talk shows how to represent numbers as stacked pointers, implement addition, multiplication, and even exponentiation \u2014 all using C++ templates. This is not just metaprogramming; it\u2019s metaprogramming with style.\n\nWhether you're exploring alternatives to `constexpr`, looking to understand pointer manipu",
+        "id": 4375598,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CLoI_RnlAf4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CLoI_RnlAf4/hqdefault.jpg",
+        "title": "Arithmetic in C++ Using Counting Pointers - Peter Hrenka - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

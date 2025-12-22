@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T16:39:17.067756+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T16:00:26+00:00",
+        "description": "Go to https://ground.news/sabine to get 40% off the Vantage plan and see through sensationalized reporting. Stay fully informed on events around the world with Ground News.\n\nScientists have talked about nanobots for 40 years, and according to headlines they\u2019re almost ready for use in the medical field. But operating tiny machines in the human body comes with a wide variety of problems that modern physics and medicine struggle with. Let\u2019s take a look at how close we are to bringing the nanobots of sci-fi into reality and what those tiny \u201crobots\u201d actually look like.\n\n\ud83d\udc55T-shirts, mugs, posters and more: \u279c https://sabines-store.dashery.com/\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.spotify.com/show/0MkNfXlKn",
+        "id": 4375996,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MQ9aXoah5DA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MQ9aXoah5DA/hqdefault.jpg",
+        "title": "Nanobots: The Truth Behind the Headlines",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T18:49:17.187867+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T16:13:11+00:00",
+        "description": "*Try Abacus AI Deep Agent:* https://firstmovers.ai/DeepAgent \n\nBuild AI agents that write tweets, book reservations, create blog posts, and send Slack reports\u2014completely autonomously while you sleep. This isn't science fiction. It's happening today for $10/month.\n\nThe 2025 Breakthrough:\n\nThree AI advances just converged\u2014scaling laws, inference-time compute, and distillation\u2014creating autonomous agents that execute complex multi-step workflows without human intervention. Not chatbots. Not assistants. Digital workers.\n\nReal Use Cases You Can Deploy Today:\n\n\u2705 Twitter bot that analyzes your style, monitors trends, writes on-brand tweets, and auto-posts\n\u2705 Weekly Slack reports that pull data, analyze metrics, and deliver summaries on schedule\n\u2705 Content agent that monitors industry news, writes SEO articles, and publishes to your blog\n\u2705 Client onboarding system that handles emails, scheduling, and follow-ups automatically\n\u2705 Social media manager that posts daily content based on your brand voi",
+        "id": 4376695,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=azZtbrpl28s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/azZtbrpl28s/hqdefault.jpg",
+        "title": "This AI Does Your Job While You Sleep (Autonomous Agents Explained)",
+        "vote": 0
+    }
+]

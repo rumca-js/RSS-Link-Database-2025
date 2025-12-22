@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T17:27:12.590121+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T16:30:07+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/8PTlYeLBKvI\" width=\"480\" alt=\"thumbnail\" title=\"FOSS Is Always One Maintainer From Collapsing\" /></p>Recently the maintainer for LibXML2 just stepped down in what might seem like a case coming out of nowhere but it turns out this was a problem building up a long time.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />LibXML2 Commit: https://gitlab.gnome.org/GNOME/libxml2/-/commit/9c80a89af2fdf4f853892f84e46580f4902658ba<br />Other Issue: https://gitlab.gnome.org/GNOME/libxml2/-/issues/346<br />New Maintainer: https://gitlab.gnome.org/GNOME/libxml2/-/commit/0704f52ea4cd0cf82253bb2af3f70a09d428629d<br />Recent Problem: https://gitlab.gnome.org/GNOME/libxml2/-/issues/976<br /><br />========",
+        "id": 4376249,
+        "language": "en",
+        "link": "https://odysee.com/foss-is-always-one-maintainer-from:2282e78daa7f17eb694edcda4a061eacfa71be69",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/8PTlYeLBKvI",
+        "title": "FOSS Is Always One Maintainer From Collapsing",
+        "vote": 0
+    }
+]

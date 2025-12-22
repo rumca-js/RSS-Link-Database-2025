@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T04:29:30.295902+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T03:30:27+00:00",
+        "description": "INSANE AI NEWS: Wan2.6, Gemini 3 Flash, Trellis 2, MiMo V2, HY World, Seedance 1.5 Pro, FLUX2 Max #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Hubspot. Download the free guide \u201cFind Your Best-Fit AI Video Generator\u201d https://clickhubspot.com/545c77\n\nSources in order of mention:\nhttps://3d-models.hunyuan.tencent.com/world/\nhttps://huggingface.co/spaces/prs-eth/stereospace_web\nhttps://vchitect.github.io/LongVie2-project/\nhttps://z.ai/blog/realvideo\nhttps://huggingface.co/Qwen/Qwen-Image-Layered\nhttps://microsoft.github.io/TRELLIS.2/\nhttps://github.com/thu-ml/TurboDiffusion\nhttps://teal024.github.io/SCAIL/\nhttps://aleafy.github.io/vrgbx/\nhttps://lumalabs.ai/ray\nhttps://klingai.com/\nhttps://github.com/KlingTeam/SVG-T2I\nhttps://wan.video/\nhttps://seed.bytedance.com/en/seedance1_5_pro\nhttps://mimo.xiaomi.com/blog/mimo-v2-flash\nhttps://blog.google/products/gemini/gemini-3-flash/\nhttps://meigen-ai.github.io/LongCat-Video-Avatar/\nhttps://bfl.ai/models/flux-2-max\nGPT Image review: https:",
+        "id": 4372922,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JxrVtFER1Q8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JxrVtFER1Q8/hqdefault.jpg",
+        "title": "Insane 3D models, realtime AI video, new #1 open model, realtime AI worlds, Gemini 3 Flash: AI NEWS",
+        "vote": 0
+    }
+]

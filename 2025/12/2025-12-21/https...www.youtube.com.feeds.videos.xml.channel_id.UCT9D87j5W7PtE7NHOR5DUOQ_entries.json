@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computing Forever",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T15:40:49.249079+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T14:52:36+00:00",
+        "description": "KEEP UP ON SOCIAL MEDIA:\nX:  https://x.com/davecullenshow\nSubscribeStar: https://www.subscribestar.com/dave-cullen\nMinds.com: https://www.minds.com/davecullen",
+        "id": 4375586,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=luTT92RDQoc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 906,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT9D87j5W7PtE7NHOR5DUOQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/luTT92RDQoc/hqdefault.jpg",
+        "title": "The Great Turning Away",
+        "vote": 0
+    }
+]

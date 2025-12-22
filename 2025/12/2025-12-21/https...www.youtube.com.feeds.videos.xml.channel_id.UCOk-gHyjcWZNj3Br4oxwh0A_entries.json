@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T16:42:10.025598+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T16:01:04+00:00",
+        "description": "Build a UniFi observability stack with Unpoller, Prometheus, and Grafana to collect and visualize real network metrics over time.\n\nGet the code: https://github.com/timothystewart6/unpoller-unifi\nUnpoller: https://github.com/unpoller/unpoller\n\nFind a UniFi Gateway: https://store.ui.com/us/en/category/all-cloud-gateways?a_aid=TechnoTim (affiliate link)\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.live/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\nSubscribe on Twitch: https://www.twitch.tv/technotim\nBecome a YouTube member: https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join\nGear Recommendations: https://l.technotim.live/gear\nGet Help in Our Discord Community: https://l.technotim.live/discord\n2nd channel: https://www.youtube.com/@TechnoTimTinkers\n\n(Affiliate links may be included in this description. I may receive a small commission at no cost to you.)\n\n00:00 - Why Observability for UNiFi?\n01:00 - Architec",
+        "id": 4376005,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cVCPKTHEnI8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cVCPKTHEnI8/hqdefault.jpg",
+        "title": "UNiFi Observability Done Right (Unpoller + Grafana Walkthrough)",
+        "vote": 0
+    }
+]

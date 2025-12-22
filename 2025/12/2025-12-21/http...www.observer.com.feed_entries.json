@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Merin Curotto",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T15:07:23.473666+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T14:35:59+00:00",
+        "description": "The common thread? Uncompromising craftsmanship and enduring style.",
+        "id": 4375414,
+        "language": "en",
+        "link": "https://observer.com/list/a-collectors-edit-of-covetable-luxury-gifts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://observer.com/wp-content/uploads/sites/2/2025/12/Amy-Beager-Print-Image-Shadow-Final.jpg?quality=80&w=970",
+        "title": "A Collector\u2019s Edit of Covetable Luxury Gifts",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stephen Mayhew",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-21T16:04:57.344567+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-21T15:12:50+00:00",
+        "description": "<img width=\"1950\" height=\"834\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/12/21101158/1766066343796.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/12/21101158/1766066343796.jpg 1950w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/12/21101158/1766066343796-300x128.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/12/21101158/1766066343796-1024x438.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/12/21101158/1766066343796-150x64.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/12/21101158/1766066343796-768x328.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/12/21101158/1766066343796-1536x657.jpg 1536w\" sizes=\"(max-width: 1950px) 100vw, 1950px\" />\n\t\t<strong><a href=\"https://www.stasummit.com/\">2026 Identity & Payments ",
+        "id": 4375710,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202512/2026-identity-payments-summit",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/12/21101158/1766066343796.jpg",
+        "title": "2026 Identity & Payments Summit",
+        "vote": 0
+    }
+]
