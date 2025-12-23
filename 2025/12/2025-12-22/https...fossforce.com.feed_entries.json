@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T18:32:02.228782+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T17:47:09+00:00",
+        "description": "<p><em>elementary OS 8.1 is a point release that brings a default Secure Session, better tools for managing background apps and workspaces, and a more informative AppCenter experience.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/12/elementary-os-8-1-is-out-with-secure-session-and-we-have-screenshots/\">Elementary OS 8.1 Is Out With Secure Session &#8212; and We Have Screenshots</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4384191,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/12/elementary-os-8-1-is-out-with-secure-session-and-we-have-screenshots",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Elementary OS 8.1 Is Out With Secure Session \u2014 and We Have Screenshots",
+        "vote": 0
+    }
+]

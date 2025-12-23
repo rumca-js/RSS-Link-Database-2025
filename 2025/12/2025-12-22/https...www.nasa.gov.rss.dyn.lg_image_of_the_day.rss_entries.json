@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T17:23:15.324990+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T16:27:00+00:00",
+        "description": "These two galaxies are named NGC 4490 and NGC 4485, and they\u2019re located about 24 million light-years away in the constellation Canes Venatici (The Hunting Dogs). They are the closest known interacting dwarf-dwarf galaxy system where astronomers have observed the interactions between them, as well as been able to resolve the stars within.",
+        "id": 4383563,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/54960149350-2d46fe0a36-o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A Dance of Galaxies",
+        "vote": 0
+    }
+]

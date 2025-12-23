@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ivan Amato",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T16:14:28.144283+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T14:15:07+00:00",
+        "description": "Research into how a father\u2019s choices, including diet, exercise, stress and nicotine use, may transfer traits to his children epigenetically has become impossible to ignore.            <p>The post <a href=\"https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/\" target=\"_blank\">How Dad\u2019s Fitness May Be Packaged and Passed Down in Sperm RNA</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 4382984,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/12/Epigenetic-Sperm-cr-Weerasekera-Default.webp",
+        "title": "How Dad\u2019s Fitness May Be Packaged and Passed Down in Sperm RNA",
+        "vote": 0
+    }
+]

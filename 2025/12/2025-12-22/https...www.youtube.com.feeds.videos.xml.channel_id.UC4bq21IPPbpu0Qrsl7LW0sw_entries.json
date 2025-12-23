@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T23:29:29.700030+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T22:40:28+00:00",
+        "description": "Why AI reasoning is becoming a line item on your budget.\n\nOpenAI\u2019s latest model introduces pricing tied to internal reasoning time, offering different modes for speed versus deliberation.\n\nWhile the approach improves performance on complex tasks, it also forces teams to rethink cost management beyond simple token counts.\n\nAs organizations adopt routing strategies and track cost per task, a new reality emerges:\nAI intelligence is no longer flat priced, it\u2019s metered by how deeply the model thinks.\n\n\ud83d\udc49 Visit our YouTube channel for more content.",
+        "id": 4386193,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/3N0_9g3HOuA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3N0_9g3HOuA/hqdefault.jpg",
+        "title": "OpenAI just launched a model that charges more when it thinks harder.",
+        "vote": 0
+    }
+]

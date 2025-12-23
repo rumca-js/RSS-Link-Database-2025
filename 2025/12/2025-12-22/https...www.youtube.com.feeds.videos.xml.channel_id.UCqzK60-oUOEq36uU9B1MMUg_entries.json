@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T22:16:35.634981+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T20:26:51+00:00",
+        "description": "GET MY FREE GUIDE: \ud83d\udcd8 *The Content Creator\u2019s AI Blueprint: From 25 Hours to 5 Minutes*  https://FirstMovers.ai/blueprint/\n\n*The quantum revolution is happening NOW\u2014and most people have no idea how to prepare.* In this video, I'm giving you the complete roadmap to become quantum-ready in 6-12 months, without a PhD in physics.\n\nHere's the truth: quantum computing will impact EVERY industry in the next 3-5 years. IBM, Google, Microsoft, and Amazon are investing billions and desperately need people with quantum skills. The skills gap is massive, and that gap is YOUR opportunity.\n\n*What You'll Learn:*\n\n\u2705 The 3 Levels of Quantum Literacy (and which one you should aim for)\n\u2705 Complete step-by-step learning roadmap from beginner to quantum-ready\n\u2705 The ONLY foundational skills you actually need (Python, basic linear algebra, probability)\n\u2705 Best FREE resources: IBM Quantum Learning, Qiskit, PennyLane, and more\n\u2705 How to run quantum algorithms on REAL quantum hardware (for free)\n\u2705 Domain-specific a",
+        "id": 4385774,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=elTgp0iaMeI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/elTgp0iaMeI/hqdefault.jpg",
+        "title": "How to Actually Prepare for the Quantum Revolution: Your Complete Roadmap",
+        "vote": 0
+    }
+]

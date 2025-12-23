@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T19:11:32.241899+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T16:10:30+00:00",
+        "description": null,
+        "id": 4384356,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.simonwillison.net/static/2025/claude-chrome-cloudflare.jpg",
+        "title": "Using Claude in Chrome to navigate out the Cloudflare dashboard",
+        "vote": 0
+    }
+]

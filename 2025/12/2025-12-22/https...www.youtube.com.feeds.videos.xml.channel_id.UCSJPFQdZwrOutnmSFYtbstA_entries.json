@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T17:47:15.594819+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T17:00:16+00:00",
+        "description": "Remember Avatar? Didn't think so. But its back! With a third movie. Let's all join hands like those blue alien things, and see if James Cameron's scifi epic was worth the $400 Million price tag.",
+        "id": 4383716,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9HQghy9ZtY4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9HQghy9ZtY4/hqdefault.jpg",
+        "title": "Avatar 3 - Tired And Ass",
+        "vote": 0
+    }
+]

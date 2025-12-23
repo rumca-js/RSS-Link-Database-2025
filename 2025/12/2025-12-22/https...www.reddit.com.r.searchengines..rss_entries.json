@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Alarming-Finger9936",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T09:42:00.223715+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T09:23:50+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I searched for this exact French sentence on Google, Bing, Yahoo, Yandex, and DuckDuckGo: &quot;Au cours de notre d\u00eener de r\u00e9p\u00e9tition de mariage, il y a maintenant trois ans&quot;. To my great surprise, the only search engine that returned a result is Yahoo Search. </p> <p>However, it was my understanding that Yahoo Search relies on Bing results, but Bing returns nothing with this query. Why is there a difference between the two? It probably does not come from search results customization, as I tried from various browsers in incognito mode, from three different computers, and from various IPs located in different countries.</p> <p>Subsidiary question: when I search for the sentence &quot;Au cours de notre d\u00eener de r\u00e9p\u00e9tition de mariage&quot; (which is a shorter version of the previous sentence), now Bing and other search engines like Google return one result. So they all have the page indexed in their system, they just seem to be unable to process a l",
+        "id": 4380263,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1psvc1x/why_does_this_search_query_return_a_result_in",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why does this search query return a result in Yahoo search, but not in Bing?",
+        "vote": 0
+    }
+]

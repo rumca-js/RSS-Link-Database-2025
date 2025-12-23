@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T17:02:07.007273+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T16:28:05+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">NIST was 5 \u03bcs off UTC after last week's power cut</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>If you were 5 microseconds late today, blame it on NIST.</p>\n\n<p>Their facility in Boulder Colorado just had its power cut for multiple days. After a backup generator failed, their main ensemble clock lost track of UTC, or Universal Time Coordinated.</p>\n\n<p>But even if you used the <a href=\"https://tf.nist.gov/tf-cgi/servers.cgi\">NTP timing servers they run</a>, they were never off by more than 5 microseconds.</p>\n\n<p>5 \u03bcs might seem insignificant. But it <em>is</em> significant for scientists and universities who rely on NIST's more <a href=\"https://wsts.atis.org/wp-content/uploads/2023/03/04-Judah-Levine.The-NIST-Fiber-Based-Time-Service.pdf\">specialized timing signals</a>.</p>\n\n<p>But no, you don't need to panic. ",
+        "id": 4383272,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/nist-was-5-%CE%BCs-utc-after-last-weeks-power-cut",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NIST was 5 \u03bcs off UTC after last week's power cut",
+        "vote": 0
+    }
+]

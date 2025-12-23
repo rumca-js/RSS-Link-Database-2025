@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T16:41:50.747573+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T16:01:02+00:00",
+        "description": "Don't forget to visit our sponsor Sintra.ai at https://sintra.ai/sabine or use a promo code SABINE at checkout to enjoy an exclusive limited-time 72% discount on a yearly plan. \n\nEvery AI company is trying to build towards artificial general intelligence, or AGI. But how long will it actually take AI firms to build human-level intelligence? Let\u2019s take a look at AGI timelines from across the industry. What do Elon Musk, Sam Altman, Dario Amodei, and Demis Hassabis say? And what other data do we have to go by? I have a brief summary.\n\n\ud83d\udc55T-shirts, mugs, posters and more: \u279c https://sabines-store.dashery.com/\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.spotify.com/show/0MkNfXlKnMPEUMEeKQYmYC\n\ud83d\udd17 Join this channel",
+        "id": 4383186,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Z6q2iJZmvOM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z6q2iJZmvOM/hqdefault.jpg",
+        "title": "Is AGI Coming In 2026?",
+        "vote": 0
+    }
+]

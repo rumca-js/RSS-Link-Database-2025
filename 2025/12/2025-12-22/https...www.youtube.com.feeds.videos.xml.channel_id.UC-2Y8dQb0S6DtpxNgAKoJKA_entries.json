@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PlayStation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T16:42:45.152477+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T16:00:00+00:00",
+        "description": "https://www.playstation.com/en-us/games/patapon-1-2-replay/\n\nNew #PATAPON 1+2 REPLAY content is marching your way! Organize the ultimate army, take down relentless bosses, and put your Mighty powers to the test! How far will you go?\n\n#ps5 #ps5games #patapon",
+        "id": 4383198,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oMPLmCBhoVU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 576,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oMPLmCBhoVU/hqdefault.jpg",
+        "title": "Patapon 1+2 Replay - Free Update: Boss Rush Challenge | PS5 Games",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T18:09:26.251530+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T16:59:59+00:00",
+        "description": "Microsoft\u2019s AI for Good Lab teamed up with global partners to turn drone imagery and open-source tech into community maps for the Kakuma refugee camp. Residents helped collect and interpret the data, taking ownership of their own environment. This project paved the way for sustainable development, proving that AI can make a real difference through open collaboration.\u00a0\n\nSubscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories",
+        "id": 4383841,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OoknoQoB5dw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OoknoQoB5dw/hqdefault.jpg",
+        "title": "Transforming refugee camps with solar power and open-source mapping",
+        "vote": 0
+    }
+]

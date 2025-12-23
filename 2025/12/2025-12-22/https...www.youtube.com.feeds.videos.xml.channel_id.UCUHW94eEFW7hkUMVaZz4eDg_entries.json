@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "minutephysics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T18:53:37.131369+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T18:24:51+00:00",
+        "description": "Support MinutePhysics on Patreon! http://www.patreon.com/minutephysics\r\n\nThis video is about how the International Astronomical Union's definition for a planet is flawed, even if you take it at face value! The moon almost counts as a planet according to their definition, even though they don't want it to...\n\nREFERENCES\nMinutePhysics video about the moon's orbit: https://www.youtube.com/watch?v=KBcxuM-qXec\nIAU 2006 Resolutions: https://iauarchive.eso.org/news/pressreleases/detail/iau0603/\nPaper arguing moon satisfies IAU criteria: https://doi.org/10.4236/ijaa.2017.74024 \nhttps://doi.org/10.3847/PSJ/ad4edd \nBEST paper about planet definition history: https://doi.org/10.1016/j.icarus.2021.114768\nhttps://doi.org/10.1017/S1539299600013289\nIAU exoplanet working definition: https://doi.org/10.1017/S1539299600013289\n\nLink to Patreon Supporters: http://www.minutephysics.com/supporters/\r\n\r\nAnd facebook - http://facebook.com/minutephysics\r\n\nMinute Physics provides an energetic and entertaining v",
+        "id": 4384320,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xgFKxFX3IwY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 857,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xgFKxFX3IwY/hqdefault.jpg",
+        "title": "An Argument The Moon is a PLANET!",
+        "vote": 0
+    }
+]

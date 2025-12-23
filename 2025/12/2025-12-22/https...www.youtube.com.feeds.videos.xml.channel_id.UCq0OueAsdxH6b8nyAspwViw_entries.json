@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Universal Pictures",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T14:52:40.971064+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T14:00:04+00:00",
+        "description": "The Odyssey - In Theaters 07.17.26\n\nChristopher Nolan\u2019s next film, The Odyssey, is a mythic action epic shot across the world using brand new IMAX\u00ae film technology. The film brings Homer\u2019s foundational saga to IMAX\u00ae film screens for the first time and opens in theaters everywhere on July 17, 2026. \n\nThe Odyssey stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson and Lupita Nyong\u2019o, with Zendaya and Charlize Theron.\n\nThe Odyssey is produced by Emma Thomas and Christopher Nolan for their company, Syncopy. The executive producer is Thomas Hayslip. \n\nSocial Handles\nFacebook: https://www.facebook.com/odysseymovie\nInstagram: https://www.instagram.com/theodysseymovie\nX: https://x.com/odysseymovie\nTikTok: https://www.tiktok.com/@odysseymovie\nThreads: https://www.threads.net/@theodysseymovie\nOfficial Site: https://www.OdysseyMovie.com\n#TheOdysseyMovie",
+        "id": 4382222,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 598,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mzw2ttJD2qQ/hqdefault.jpg",
+        "title": "The Odyssey | Official Trailer",
+        "vote": 0
+    }
+]

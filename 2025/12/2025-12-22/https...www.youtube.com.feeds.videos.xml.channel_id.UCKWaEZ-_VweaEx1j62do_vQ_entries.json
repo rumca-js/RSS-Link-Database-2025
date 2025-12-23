@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T13:24:00.607030+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T12:01:56+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbTDQ\n\nLearn more about AI Trends Shaping the Next 10 Years here \u2192 https://ibm.biz/BdbTDT\n\nWhat will define AI in 2026? \ud83d\ude80 Martin Keen & Aaron Baughman explore groundbreaking trends like Agentic AI, cloud computing, automation, and quantum computing, plus innovations like Physical AI. Discover how these technologies will transform industries and drive the next wave of intelligence.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbTDk\n\n#agenticai #cloudcomputing #automation",
+        "id": 4381649,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zt0JA5rxdfM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zt0JA5rxdfM/hqdefault.jpg",
+        "title": "AI Trends 2026: Quantum, Agentic AI & Smarter Automation",
+        "vote": 0
+    }
+]

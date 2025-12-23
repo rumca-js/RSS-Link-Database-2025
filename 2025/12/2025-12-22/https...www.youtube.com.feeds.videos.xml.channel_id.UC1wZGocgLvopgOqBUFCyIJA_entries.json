@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T16:32:44.047565+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T16:00:25+00:00",
+        "description": "00:00:00 Intro\n00:00:17 What Developers Misunderstand About Dark Souls Level Design\n00:11:34 Designing an Underwater Temple That Doesn't Suck\n00:22:32 The Scarily Good Design of Alien Isolation\n00:34:46 The Worst Puzzle of All-Time\n00:45:42 Why League of Legends' Design Encourages Toxicity\n00:54:02 How to Asset Flip Irresponsibly\n01:02:14 Can a Badly Designed Game Still be Good\n01:10:18 Mario Kart's Balance Is Pure Depravity\n01:21:06 Was Dark Souls' Blighttown a Mistake\n01:34:11 Looter Shooter Devs Still Don't Understand Loot\n01:43:28 Are Health Bars Making Games Worse\n01:53:26 The Secret to Making Any Game Satisfying\n02:02:11 Games Are So Pretty It's Ruining My Job\n02:09:43 The Baffling Design Decisions of Dragons Dogma 2\n02:19:10 A Game Designer Ranks From Software's Healing Systems\n02:30:43 Why Balancing Multiplayer Games Is A NIGHTMARE (ft. Riot Mortdog)\n02:46:27 Disco Elysium is Lying to You\n02:58:19 Designing the Secrets of Animal Well (ft. Billy Basso)\n03:13:46 The One Simple M",
+        "id": 4383143,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9VNqL5xfVJg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9VNqL5xfVJg/hqdefault.jpg",
+        "title": "Every Design Delve 2024 - 2025 Edition",
+        "vote": 0
+    }
+]

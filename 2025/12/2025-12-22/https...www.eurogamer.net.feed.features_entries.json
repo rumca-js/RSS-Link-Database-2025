@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wales",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T15:42:14.865739+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T14:59:14+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/dev-pics-header-logo.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Before we tell you know what <em>we</em> think, and before we get to what <em>you</em> think, we thought we'd do something a little bit different this as part of our usual end-of-year celebrations. What, we wondered, do the people who actually <em>make</em> the games think? As so we've chatted with the developers behind some of our favourite 2025 releases to find out which new games have resonated most with them as the year has gone on.</p> <p><a href=\"https://www.eurogamer.net/is-it-okay-for-video-games-to-be-this-good-developers-tell-us-their-favourite-games-of-the-year\">Read more</a></p>",
+        "id": 4382585,
+        "language": "en",
+        "link": "https://www.eurogamer.net/is-it-okay-for-video-games-to-be-this-good-developers-tell-us-their-favourite-games-of-the-year",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/dev-pics-header-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "\"Is it okay for video games to be this good?\" - developers tell us their favourite games of the year",
+        "vote": 0
+    }
+]

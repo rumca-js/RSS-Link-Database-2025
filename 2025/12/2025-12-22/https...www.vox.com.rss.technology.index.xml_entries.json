@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bryan Walsh",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T12:30:40.989313+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-1911609056.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">2025 is just about in the books, and the reviews are in: It sucked.</p>\n\n<p class=\"has-text-align-none\">Over at the subreddit r/decadeology, you can check out a <a href=\"https://www.reddit.com/r/decadeology/comments/1pdpsei/2025_its_been_a_long_and_disappointing_year/\">long, long thread of redditors</a> submitting reasons why 2025 was, in the words of the first post, \u201ca long, disappointing year.\u201d War in Gaza, vibecessions, chaos in the White House, growing AI fears, scientists slashed, anti-vaccination on the rise \u2014 it\u2019s like someone took Billy Joel\u2019s \u201c<a href=\"https://www.youtube.com/watch?v=eFTLKWw542g\">We Didn\u2019t Start the Fire</a>\u201d and asked a large-language model to update the",
+        "id": 4381250,
+        "language": "",
+        "link": "https://www.vox.com/future-perfect/473113/good-news-crime-overdoses-suicides-traffic-deaths-ozone",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-1911609056.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "2025 felt like a disaster \u2014 but the numbers tell a very different story",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T17:04:55.874385+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T16:23:09+00:00",
+        "description": "...but most people would never know.\n\nThe two posts referenced in this video:\n\n  - Primary time scale failure: https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/o0dDDcr1a8I\n  - Update on Internet Time Services: https://groups.google.com/a/list.nist.gov/g/internet-time-service/c/OHOO_1OYjLY\n\nAlso check out the status of all NIST Internet Time Servers: https://tf.nist.gov/tf-cgi/servers.cgi\n\nThumbnail photos were adapted from Wikipedia Commons / US Government Public domain images:\n\n  - https://www.nist.gov/pml/time-and-frequency-division/time-and-frequency-metrology-and-distribution\n  - https://www.nist.gov/topics/physics/optical-frequency-combs\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - 5 microseconds\n00:39 - What happened?\n02:15 ",
+        "id": 4383292,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ZRB7pjRVVkI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZRB7pjRVVkI/hqdefault.jpg",
+        "title": "NIST's NTP clock was microseconds from disaster",
+        "vote": 0
+    }
+]

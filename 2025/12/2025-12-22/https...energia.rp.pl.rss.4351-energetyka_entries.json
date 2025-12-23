@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T13:39:49.978030+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T00:00:00+00:00",
+        "description": "PGE chce wyda\u0107 18 mld z\u0142 na modernizacj\u0119 ciep\u0142ownictwa do 2035 r. W\u00a0tym roku PGE Energia Ciep\u0142a, sp\u00f3\u0142ka z\u00a0Grupy PGE, odda\u0142a do u\u017cytku kolejne inwestycje w\u00a0ciep\u0142ownictwie i\u00a0rozpocz\u0119\u0142a prace nad kolejnymi.",
+        "id": 4381714,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art43548041-pge-rusza-z-modernizacja-cieplownictwa-i-rozmawia-z-samorzadami",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PGE rusza z modernizacj\u0105 ciep\u0142ownictwa i rozmawia z samorz\u0105dami",
+        "vote": 0
+    }
+]

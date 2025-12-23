@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T16:11:59.961930+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T15:07:10+00:00",
+        "description": "https://cppcon.org\n---\n\nBuilding a High-Performance Binary Serialization Format with In-Place Modification - Hamish Morrison - CppCon 2025\n---\n\nThere are a huge number of binary serialization formats out there: protobufs, Thrift, Avro, MessagePack, flatbuffers, BSON, CBOR, and many more. How do they differ? Which one should you use? How fast are they? Codegen vs non-codegen? Schema-based or schemaless? Zero-copy or not?\n\nWithin our systems we use many different serialization formats for encoding market data. These formats range from the simple, to more complex tagged formats with compression dictionaries. We recently needed an efficient schema-less data format with support for arrays and maps, and -- critically -- the ability to mutate the data quickly in-place, without re-encoding the whole buffer every time. Essentially, a compact, binary version of JSON, with in-place modification.\n\nThis talk walks through the design and implementation of this binary serialization format. We'll cov",
+        "id": 4382965,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pADE-7xfAH0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pADE-7xfAH0/hqdefault.jpg",
+        "title": "Building a High-Performance Binary Serialization Format with In-Place Modification - Hamish Morrison",
+        "vote": 0
+    }
+]

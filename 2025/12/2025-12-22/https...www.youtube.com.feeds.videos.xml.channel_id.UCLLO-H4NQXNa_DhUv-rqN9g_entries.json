@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T15:27:50.595445+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T13:23:37+00:00",
+        "description": "Guilty pleasure. Gilty ple\u017cer. S\u0105 takie gry, kt\u00f3re si\u0119 lubi, ale wstyd si\u0119 do tego przyznawa\u0107 nawet mamie. Seria Cruis'n to w\u0142a\u015bnie taki przypadek. Liczby i jako\u015b\u0107 m\u00f3wi\u0105 same za siebie, a ch\u0142op je ub\u00f3stwia. Pos\u0142uchajcie, dlaczego.\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Piotr Ryc\u0105bel",
+        "id": 4382537,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=qzm3S51Xzz8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qzm3S51Xzz8/hqdefault.jpg",
+        "title": "NAJGORSZA seria wy\u015bcig\u00f3w, kt\u00f3r\u0105 kocham",
+        "vote": 0
+    }
+]

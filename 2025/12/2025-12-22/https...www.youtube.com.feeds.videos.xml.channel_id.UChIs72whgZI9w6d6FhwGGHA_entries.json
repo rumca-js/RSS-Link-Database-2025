@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-22T18:45:20.239348+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-22T15:43:02+00:00",
+        "description": "SUPPORT THE AI DYSTOPIA REPORT SERIES: https://store.gamersnexus.net/ai-dystopia\nWe have corroborated rumors of a draw-down in NVIDIA consumer GPU supply into 2026, aligning with new and unfavorable terms for its subscription gaming service rolling-out to GeForce Now users. In this video, we break-down how the enterprise and data center \"AI\" companies are, we think, working together to keep GPUs out of the hands of consumers while raking-in tax breaks and government subsidies funded by those very consumers. We also talk about HBM wafer allocation and consumption as compared to consumer memory solutions.\n\nWatch our @GNCAInvestigates video about NVIDIA x Palantir: https://www.youtube.com/watch?v=5lYsO4k7OIY\nWatch our video about Micron, favored NVIDIA partner, screwing consumers in a similar way: https://www.youtube.com/watch?v=9A-eeJP0J7c\n\nLearn about the special backer tiers with bonus videos and digital content: https://store.gamersnexus.net/ai-dystopia\nOr grab our new \"RETRO I/O\" Co",
+        "id": 4384272,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cUrJVdF2me0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cUrJVdF2me0/hqdefault.jpg",
+        "title": "NVIDIA: WTF?",
+        "vote": 0
+    }
+]
