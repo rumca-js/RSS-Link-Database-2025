@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Littlemike0712",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T17:42:25.132873+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T17:11:35+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019m a red teamer working in a closed lab environment and trying to get more competent with Evilginx as part of understanding modern credential-theft tradecraft, but I\u2019ve hit a ceiling where the tooling works at a surface level without really \u201cclicking.\u201d I can stand up basic infrastructure and understand what the tool is meant to do, but a lot of the public material is outdated or skips the why, which makes it hard to reason about why some environments behave differently than others. I\u2019m not looking for step-by-step instructions or anything that crosses ethical or legal lines\u2014I\u2019m trying to move past script-kiddie usage and build the right mental model for how modern authentication protections and defenses interact with this class of tooling. If you\u2019ve gone through that learning curve, I\u2019d appreciate pointers to high-level resources, talks, or research that helped you understand the space without relying on copy-paste guides.</p> </div><!-- SC_ON --> &#",
+        "id": 4391980,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hacking/comments/1ptzbjc/evilginx",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "evilginx",
+        "vote": 0
+    }
+]

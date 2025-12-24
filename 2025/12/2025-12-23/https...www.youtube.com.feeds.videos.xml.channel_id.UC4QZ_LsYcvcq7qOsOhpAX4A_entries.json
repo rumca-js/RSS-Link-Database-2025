@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ColdFusion",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T16:23:29.830419+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T16:14:16+00:00",
+        "description": "Try Odoo for free: https://www.odoo.com/r/xV3j\nPorsche has recently come out and stated they've made a catastrophic 98% drop in operating profit. What's going on? In this episode, we find out.\n\nWatch or listen to ColdFusion on Spotify: https://open.spotify.com/show/1YEwCKoRz8fEDqheXB6UJ1\n\n\nMy Latest Album: \nhttps://open.spotify.com/album/39Bsd86u6F4hTaCPGW31db?uid=93de921cc5c8ff006675&uri=spotify:track:0Z9Ya7pEd7KIC0pLazmoc3\n\nColdFusion Socials: \n\nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nCreated by: Dagogo Altraide\nProducers: Tawsif Akkas, Dagogo Altraide",
+        "id": 4391386,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ghY78-yWr7o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 76,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ghY78-yWr7o/hqdefault.jpg",
+        "title": "Porsche Profits Fall 99% as CEO in Crisis Mode",
+        "vote": 0
+    }
+]

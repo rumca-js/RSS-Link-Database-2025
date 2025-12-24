@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/InfamousGlowstick",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T05:16:13.080388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T04:26:39+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/InfamousGlowstick\"> /u/InfamousGlowstick </a> <br/> <span><a href=\"http://www.etherboard.net\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1ptknlu/i_made_a_website_in_whicih_you_can_make_anonymous/\">[comments]</a></span>",
+        "id": 4387595,
+        "language": "en",
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1ptknlu/i_made_a_website_in_whicih_you_can_make_anonymous",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I made a website in whicih you can make anonymous posts without an account. Posts self-delete after an hour.",
+        "vote": 0
+    }
+]

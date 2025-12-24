@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T14:43:36.392146+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T14:15:01+00:00",
+        "description": "Here\u2019s the TLDR on AWS re:Invent 2025:\n\n\ud83d\udd25 AI Infrastructure Is Leveling Up: AWS is investing HUGE in NVIDIA-powered UltraServers and training frontier models.\n\ud83d\udd27 Everyone Wants a Custom AI Model: Companies want AI that actually understands their business, and big tech is responding to the demand. AWS dropped Nova Forge for building custom frontier models, new systems for fine-tuning, and serverless customization through SageMaker AI.\n\ud83e\udd16 AI Agents Are Going Enterprise: AgentCore now gives teams a full platform for deploying agents safely at scale, with built-in policy controls, quality evaluation, episodic memory, and Nova Act for UI automation.\n\nIf you want to know where AI is heading in 2026, this is it: bigger chips, smarter customization, and safer AI agents.\n\n#ainews #ai #aws #amazon",
+        "id": 4390671,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/5AuX0rru2OU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5AuX0rru2OU/hqdefault.jpg",
+        "title": "The Biggest AI Bombshells From AWS re:Invent",
+        "vote": 0
+    }
+]

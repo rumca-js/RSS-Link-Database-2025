@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T15:50:36.265754+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T15:07:05+00:00",
+        "description": "https://cppcon.org\n---\n\nDebugging C++ Coroutines in GDB - Zartaj Majeed - CppCon 2025\n---\n\nC++ coroutines are hard to debug. We provide crucial details that will help programmers understand how to access and manipulate coroutines inside GDB. A key aid is the -fdump-lang-coro option added to GCC 15.1 that is not yet documented. It dumps the intermediate representation of compiler-generated code of a transformed coroutine without which coroutines cannot be easily controlled inside GDB. \n \n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Debugging_Cpp_Coroutines_In_GDB.pdf\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nZartaj Majeed\n \nZartaj has extensive experience developing large distributed systems, operating systems and desktop applications. He wrote a distributed job scheduler in C++ at Bloomberg that runs millions of jobs in the datacenter every day. He worked on desktop publishing software in C++ at Adobe, and the HP-UX operating s",
+        "id": 4391142,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aH-Y9N7EPSc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aH-Y9N7EPSc/hqdefault.jpg",
+        "title": "Debugging C++ Coroutines in GDB - Zartaj Majeed - CppCon 2025",
+        "vote": 0
+    }
+]

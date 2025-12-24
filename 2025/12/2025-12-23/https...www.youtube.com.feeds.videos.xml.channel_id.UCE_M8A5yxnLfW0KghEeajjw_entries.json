@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Apple",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T17:49:12.675203+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T17:01:22+00:00",
+        "description": "Sneaky Sasquatch is having a holiday dance party. Join the sneaky shenanigans, and whatever you do, don't get caught. Only on Apple Arcade.\n\nLearn more about the game on Apple Arcade: https://apple.co/sasquatch\n\n\u201cStill Got It\u201d by Alex Frankel https://apple.co/still-got-it\n\n#Apple #AppleArcade #SneakySasquatch\n\nWelcome to the official Apple YouTube channel. Here you\u2019ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "id": 4392065,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=j4_ZXvpUWMs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 773,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/j4_ZXvpUWMs/hqdefault.jpg",
+        "title": "Apple Arcade | Sneaky Sasquatch Dance Party",
+        "vote": 0
+    }
+]

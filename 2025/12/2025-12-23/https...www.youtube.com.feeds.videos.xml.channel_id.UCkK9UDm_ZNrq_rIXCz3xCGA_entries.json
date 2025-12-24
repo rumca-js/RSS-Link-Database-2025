@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T18:45:07.239784+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T18:19:10+00:00",
+        "description": "In the Linux Foundation's 2025 annual report, AI is mentioned 150 times. Linux is only mentioned 40 times. Also: Linux Foundation boasts about scholarships to Trans & DEI orgs.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4392551,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8lAJv23tL4A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8lAJv23tL4A/hqdefault.jpg",
+        "title": "Linux Foundation Makes $300 Million in 2025, Spends 2.6% on Linux, Says \"AI is the Future\"",
+        "vote": 0
+    }
+]

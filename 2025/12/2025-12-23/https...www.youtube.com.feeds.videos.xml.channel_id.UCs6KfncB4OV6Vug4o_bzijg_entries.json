@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T18:10:35.509667+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T17:01:12+00:00",
+        "description": "We flew to Cyprus for the 2025 Ad Filtering Dev Summit where researchers and engineers from Brave, DuckDuckGo, AdGuard, Firefox, Ghostery, eyeo, and others revealed the future of ad blocking. In this video we summarize five critical talks that are shaping the future of the ad industry.\n\n\ud83e\uddd1\u200d\ud83d\udcbb AFDS 2025 CO-HOSTS AND SPONSORS\nhttps://www.youtube.com/@AdGuardEN \nhttps://www.youtube.com/@eyeo_gmbH\nhttps://www.youtube.com/@ghostery_adblocker \n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/MT90t7P1_qM\nhttps://youtu.be/F7-bW2y6lcI\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 AFDS 2025 Speaker Playlist: https://www.youtube.com/playlist?list=PL61EKVIQWizG0tIYqNDoenVaOWSiaAsyb\n\u2022 DuckDuckGo AutoConsent: https://github.com/duckduckgo/autoconsent\n\u2022 uBlock Origin Element Zapper: https://github.com/gorhill/uBlock/wiki/Element-zapper\n\u2022 AdGuard: https://adguard.com\n\u2022 Brave Browser: https://brave.com\n\u2022 Mullvad Browser: https://mullvad.net/en/browser\n\u2022 Tor Browser: https://www.torproject.org\n\n\ud83e\udde1 SUPPORT TECHLORE\nSupport our mission to def",
+        "id": 4392341,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dr7XSnbyv7w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dr7XSnbyv7w/hqdefault.jpg",
+        "title": "We Make Money From Ads, But Here's Why Ad Blocking Matters (AFDS 2025 Recap)",
+        "vote": 0
+    }
+]

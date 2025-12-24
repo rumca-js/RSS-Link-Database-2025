@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T13:44:10.311323+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T12:49:23+00:00",
+        "description": "Ka\u017cdy z Was mo\u017ce zosta\u0107 takim Mateuszem, czy raczej Anio\u0142em Str\u00f3\u017cem Waszego domu \ud83d\udc7cPorozmawiajcie z bliskimi i uczulcie ich na zagro\u017cenia.\nWeso\u0142ych i bezpiecznych \u015bwi\u0105t \u017cycz\u0105 Mateusz i zesp\u00f3\u0142 uczmnie.pl \ud83c\udf84 #shorts",
+        "id": 4390231,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/aCnj85tgUEg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aCnj85tgUEg/hqdefault.jpg",
+        "title": "\ud83c\udf84Porozmawiaj z bliskimi o bezpiecze\u0144stwie",
+        "vote": 0
+    }
+]

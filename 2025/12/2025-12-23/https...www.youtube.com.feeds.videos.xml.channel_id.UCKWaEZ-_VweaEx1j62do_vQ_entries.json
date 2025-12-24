@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T11:47:56.886592+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T11:01:31+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/BdbwUn\n\nLearn more about cybersecurity \u2192 https://ibm.biz/BdbwUb\n\nIn this special year-end episode of Security Intelligence, we reflect on 2025, a year of new attack methods (ClickFix), new vulnerabilities (vibecoding) and new worries on the horizon (shadow agents). \n\nFrom hijacked AI agents to massive supply chain breaches, 2025 forced security leaders to confront a sobering reality: trust might just be our biggest attack surface.  \n\nJoin hosts Matt Kosinski and Patrick Austin for a jam-packed look back at the biggest cybersecurity trends and cyberattacks of 2025, the lessons we can learn from them and what the road ahead looks like. Featuring: \n\n00:00 \u2013 Introduction\n4:10 \u2013 AI and data security with Michelle Alvarez and Jeff Crume \n22:42 \u2013 Biggest cyberattacks of 2025 with Dave Bales and Nick Bradley \n38:18 \u2013 Major lessons, innovations and failures of cybersecurity in 2025 with Suja Viswesan and Sridhar Muppidi \n  \nSubscribe for AI and security up",
+        "id": 4389399,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gwL3iivVkiA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gwL3iivVkiA/hqdefault.jpg",
+        "title": "Cybersecurity\u2019s Year in Review: ClickFix Attacks, Vibecoding Vulnerabilities & Shadow Agents",
+        "vote": 0
+    }
+]

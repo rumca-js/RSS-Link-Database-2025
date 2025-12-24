@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T15:45:21.492222+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T08:00:00+00:00",
+        "description": "<p><span>\n\nEvery time someone releases code publicly under some kind of \"look but\ndon't touch\" terms a similar argument plays out:\n\n</span>\n\n<p>\n\n</p>\n\n<blockquote>\n<p>A: This is cool, X is now open source!\n</p>\n<p>B: It's cool that we can read it, but we can't redistribute etc so\nit's not \"open source\".\n</p>\n<p>A: Come on, if it's not \"closed source\" it's \"open source\".\n</p>\n<p>B: That's not how the term \"open source\" has historically been\nused.  This is why we have terms like \"source available\".\n</p>\n<p>A: It's bizarre that \"open\" would be the opposite of \"closed\"\neverywhere except this one term.\n</p>\n</blockquote>\n\n\n\n<p>\n\nI'm generally with B: it's very useful that we have \"open source\" to\nmean a specific technical thing, and using it to mean something\nrelated gives a lot confusion about what is and is not allowed.  While\nA is right that this is a bit confusing, it's also not unique to open\nvs closed source.  Some other examples:\n\n</p>\n\n<p>\n\n</p>\n\n<ul>\n\n<li><p>If a country doesn't ",
+        "id": 4391047,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/open-source-is-a-normal-term",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Open Source is a Normal Term",
+        "vote": 0
+    }
+]

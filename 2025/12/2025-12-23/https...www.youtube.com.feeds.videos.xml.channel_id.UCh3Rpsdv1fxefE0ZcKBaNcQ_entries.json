@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "touropia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T16:46:06.090713+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T15:44:26+00:00",
+        "description": "Spread across the world, you\u2019ll find remote cities which were built at staggering heights. Living at high altitude comes with its difficulties, like the dizzying effects of altitude sickness. To reach these high-up cities you\u2019ll have to take on narrow, winding roads up steep mountain terrains.\n\nThe reward for your treacherous journey? A chance to discover ancient cities with vibrant cultures that have been passed throughout the generations in these remote locations. From carnivals at an altitude to man-made floating islands \u2013 these cities have more than just cathedrals and temples to explore. Pack your hiking shoes and get ready for an adventure in the highest cities in the world.",
+        "id": 4391551,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=viEAC3wl_AM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 942,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh3Rpsdv1fxefE0ZcKBaNcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/viEAC3wl_AM/hqdefault.jpg",
+        "title": "9 Highest-Elevation Cities in the World - Travel Video",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T13:16:44.140906+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T13:16:42+00:00",
+        "description": "Od stycznia do listopada LOT przewi\u00f3z\u0142 niemal 10,8 miliona pasa\u017cer\u00f3w, czyli wi\u0119cej ni\u017c w ca\u0142ym poprzednim roku.",
+        "id": 4389941,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/linie-lotnicze/art43555831-rekordowy-rok-lot-u-najwiecej-pasazerow-w-historii",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rekordowy rok LOT-u. Najwi\u0119cej pasa\u017cer\u00f3w w historii",
+        "vote": 0
+    }
+]

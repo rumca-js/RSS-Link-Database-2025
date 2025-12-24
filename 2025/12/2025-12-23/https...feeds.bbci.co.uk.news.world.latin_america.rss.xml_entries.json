@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T09:56:20.318026+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T08:58:46+00:00",
+        "description": "The Mexican Navy plane was transporting a child to the US on behalf of a charity which cares for burns victims.",
+        "id": 4388730,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c1lr1yvqge5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bed1/live/9d681660-dfe3-11f0-aae2-2191c0e48a3b.jpg",
+        "title": "Five dead after plane carrying child burns victim crashes in Texas",
+        "vote": 0
+    }
+]

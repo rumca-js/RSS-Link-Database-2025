@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T01:05:38.882862+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T00:51:58+00:00",
+        "description": "I miss annotations.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 4386648,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=v-sCZN3FbR0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v-sCZN3FbR0/hqdefault.jpg",
+        "title": "Every Mistake I Made in 2025",
+        "vote": 0
+    }
+]

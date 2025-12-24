@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T19:08:33.512497+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T16:30:02+00:00",
+        "description": "Recently Arch Linux pushed the 590 NVIDIA drivers and with these they dropped support for Maxwell and Pascal GPUs, the 900 and 10 series GPUs and Arch Linux didn't implement a migration strategy for this so good luck with that.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nArch Linux Commit: https://gitlab.archlinux.org/archlinux/packaging/packages/nvidia-utils/-/commit/cc7ae772aec0b147f75c0aa4e148f1d97f2c1848\nAnnouncement: https://lists.archlinux.org/archives/list/arch-announce@lists.archlinux.org/thread/AMPPOBL6ZQPEOQ722IE3O5BO3PPWCQNA/\nArch-Update: https://aur.archlinux.org/packages/arch-update\nNvidia Open: https://github.com/NVIDIA/open-gpu-kernel-modules\nCachyOS: https://cachyos.org/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee",
+        "id": 4392755,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2-obijeo_bU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2-obijeo_bU/hqdefault.jpg",
+        "title": "RIP Nvidia GPUs On Arch Linux",
+        "vote": 0
+    }
+]

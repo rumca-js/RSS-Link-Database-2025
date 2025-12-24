@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uwaga! Naukowy Be\u0142kot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-23T19:30:22.441859+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-23T18:26:07+00:00",
+        "description": "\ud83d\udcda Moja najnowsza ksi\u0105\u017cka \u25ba https://to.alt.pl\n\nWeso\u0142ych \u015awi\u0105t!",
+        "id": 4392920,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=_NdzgQeok8I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 377,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7PqixGIdE-jjoHKMPYpGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_NdzgQeok8I/hqdefault.jpg",
+        "title": "\u015amiertelna dawka makowca i inne \u015bwi\u0105teczne pytania",
+        "vote": 0
+    }
+]
