@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T22:46:42.179002+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T22:25:29+00:00",
+        "description": "It is not clear if Asfura's opponents will accept the result after saying the vote count was manipulated.",
+        "id": 4401096,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cyvgz1jn368o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/573d1250-e10d-11f0-aae2-2191c0e48a3b.jpg",
+        "title": "Trump-backed candidate Nasry Asfura wins Honduras presidential election",
+        "vote": 0
+    }
+]

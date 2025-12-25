@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paresh Dave",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T12:27:33.663181+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T12:00:00+00:00",
+        "description": "Apple, Michigan taxpayers, and one of Detroit\u2019s wealthiest families spent roughly $30 million training hundreds of people to build iPhone apps. Not everyone lands coding jobs right away.",
+        "id": 4397480,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/apple-app-making-course-michigan-state-university",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/69406bdd9f9b98727b285b83/master/pass/Apples-App-Making%20Course-Costing-20k-A-Student-Business-2225891099.jpg",
+        "title": "Apple\u2019s App Course Runs $20,000 a Student. Is It Really Worth It?",
+        "vote": 0
+    }
+]

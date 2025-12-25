@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T01:12:42.084718+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T00:45:28+00:00",
+        "description": "Thierry Breton, the former top tech regulator at the European Commission, says a \"witch hunt\" is taking place.",
+        "id": 4394834,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cp39kngz008o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/5259b830-e05c-11f0-bdd6-e11ea3d501a5.jpg",
+        "title": "US denies visas to ex-EU commissioner and others over social media rules",
+        "vote": 0
+    }
+]

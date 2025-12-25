@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T09:00:14.207235+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T03:55:36+00:00",
+        "description": null,
+        "id": 4396475,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/GdI4VEn5GUw",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GdI4VEn5GUw/hqdefault.jpg",
+        "title": "Stay connected this Christmas with #Huawei! \u2764\ufe0f\ud83c\udf84\u2603\ufe0f",
+        "vote": 0
+    }
+]

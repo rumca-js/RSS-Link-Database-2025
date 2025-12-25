@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T18:31:39.074919+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T17:30:24+00:00",
+        "description": "Powerful proxies with the lowest prices on the market (from $0.6) \u2013 Floppydata: https://bit.ly/floppydata_techhut Use promo code EXTRA50 to get +50% extra traffic with your purchase! 20% OFF with promo-code YTGL20 on the top multi-accounting browser \u2013 GoLogin: https://bit.ly/gologin_techhut\n\nZerobyte: Powerful backup automation for your remote storage. Encrypt, compress, and protect your data with ease. Zerobyte is a backup automation tool that helps you save your data across multiple storage backends. Built on top of Restic, it provides a modern web interface to schedule, manage, and monitor encrypted backups of your remote storage.\n\nZeroByte: https://github.com/nicotsx/zerobyte\nREST Server: https://netbird.io/knowledge-hub/zerobyte-rest-server\n\n\ud83c\udfc6 FOLLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this lin",
+        "id": 4399781,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vAQdYEhI04A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vAQdYEhI04A/hqdefault.jpg",
+        "title": "the BEST Home Server Backup App I've Used - ZeroByte",
+        "vote": 0
+    }
+]

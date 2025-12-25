@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T18:37:23.082572+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T16:30:22+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/WTatQTpRWPs\" width=\"480\" alt=\"thumbnail\" title=\"First Rust Linux Kernel CVE Is Not What You Think\" /></p>Recently the first CVE in the Linux kernel involved Rust code was marked, but what was this CVE, how did it happen it and was it that big of a deal.<br /><br />Check out the podcast: https://techovertea.xyz/youtube<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Greg KH Post: https://social.kernel.org/notice/B1JLrtkxEBazCPQHDM<br />CVE Post: https://lore.kernel.org/all/2025121614-CVE-2025-68260-558d@gregkh/<br />Phoronix Article: https://www.phoronix.com/news/Rust-To-Stay-Linux-Kernel<br />CVE Process: https://docs.kernel.org/process/cve.html<br />Greg Talk: https://www.youtube.com/",
+        "id": 4399812,
+        "language": "en",
+        "link": "https://odysee.com/first-rust-linux-kernel-cve-is-not-what:cb8744f472e1347fc8914f2b7946cf8a3feef268",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/WTatQTpRWPs",
+        "title": "First Rust Linux Kernel CVE Is Not What You Think",
+        "vote": 0
+    }
+]

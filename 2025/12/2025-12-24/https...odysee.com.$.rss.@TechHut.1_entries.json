@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T18:34:56.132520+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T17:30:24+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/vAQdYEhI04A\" width=\"480\" alt=\"thumbnail\" title=\"the BEST Home Server Backup App I've Used - ZeroByte\" /></p>Powerful proxies with the lowest prices on the market (from $0.6) \u2013 Floppydata: https://bit.ly/floppydata_techhut Use promo code EXTRA50 to get +50% extra traffic with your purchase! 20% OFF with promo-code YTGL20 on the top multi-accounting browser \u2013 GoLogin: https://bit.ly/gologin_techhut<br /><br />Zerobyte: Powerful backup automation for your remote storage. Encrypt, compress, and protect your data with ease. Zerobyte is a backup automation tool that helps you save your data across multiple storage backends. Built on top of Restic, it provides a modern web interface to schedule, manage, and monitor encrypted backups of your remote storage.<br /><br />ZeroByte: https://github.com/nicotsx/zerobyte<br />REST Server: https://netbird.io/knowledge-hub/zerobyte-rest-server<br /><br />\ud83c\udfc6 FOLLOW TECHHUT<br />X (Twitter): https://bit.ly/twitter-",
+        "id": 4399804,
+        "language": "en",
+        "link": "https://odysee.com/the-best-home-server-backup-app-i%27ve:b67da1c92068187120463fae023dbd2b91cd5f67",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/vAQdYEhI04A",
+        "title": "the BEST Home Server Backup App I've Used - ZeroByte",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T10:14:20.509907+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T10:14:19+00:00",
+        "description": "Brytyjski koncern BP sfinalizowa\u0142 porozumienie w sprawie sprzeda\u017cy 65 proc. udzia\u0142\u00f3w w sp\u00f3\u0142ce Castrol \u2013 \u015bwiatowym liderze produkcji olej\u00f3w silnikowych \u2013 na rzecz ameryka\u0144skiej firmy inwestycyjnej Stonepeak. Transakcja opiewa na blisko 6 mld dolar\u00f3w i stanowi filar programu dezinwestycji, kt\u00f3ry ma uzdrowi\u0107 finanse brytyjskiego giganta.",
+        "id": 4396798,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art43560161-bp-sprzedaje-wiekszosciowy-pakiet-udzialow-w-castrol",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "BP sprzedaje wi\u0119kszo\u015bciowy pakiet udzia\u0142\u00f3w w Castrol",
+        "vote": 0
+    }
+]

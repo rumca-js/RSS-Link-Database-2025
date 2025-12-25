@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jennifer Ouellette",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T17:34:43.597176+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T16:23:35+00:00",
+        "description": "\"You're Santa Claus 24 hours a day, seven days a week, 52 weeks a year.\" Acting out may shatter \"the magic.\"",
+        "id": 4399433,
+        "language": "en-US",
+        "link": "https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/santa_claus_secret_header-500x500.jpg",
+        "title": "Being Santa Claus is a year-round calling",
+        "vote": 0
+    }
+]

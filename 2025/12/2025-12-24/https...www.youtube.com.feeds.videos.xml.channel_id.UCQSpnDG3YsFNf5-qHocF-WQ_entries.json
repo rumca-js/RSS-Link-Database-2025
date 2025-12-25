@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T15:20:12.922038+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T14:45:01+00:00",
+        "description": "This is going to be a real problem...\n\nTime Stamps:\n0:00 - Intro\n0:29 - It's All Over The Place\n1:01 - They Actually Get Views\n1:28 - Does It Matter?\n1:56 - Some Good News\n3:13 - It's a Problem of Incentive\n4:02 - Why It MUST Be Stopped\n5:00 - I Have Zero Sympathy\n6:01 - What Can We Do?\n6:59 - The Future Is Going to SUCK\n7:54 - I'm Not Even Anti-AI",
+        "id": 4398565,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=1vd9GISRhPU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1vd9GISRhPU/hqdefault.jpg",
+        "title": "YouTube's AI slop problem is worse than you know",
+        "vote": 0
+    }
+]

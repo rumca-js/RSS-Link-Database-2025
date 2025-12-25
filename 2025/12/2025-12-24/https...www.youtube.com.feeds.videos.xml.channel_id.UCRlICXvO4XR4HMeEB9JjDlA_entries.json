@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T20:59:55.670634+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T20:00:37+00:00",
+        "description": "One of the most valuable resources to the British Empire was, surprisingly, salt. Back in the day, it was used for flavouring but also to preserve and cure meat, fish and veg. It was also used in the tanning, dyeing and metallurgy industries. A commodity this hot made it ripe for taxing, though this is hardly anything new. But the taxes levied in India were on a whole other level\u2026",
+        "id": 4400607,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/gcYYnitME1c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gcYYnitME1c/hqdefault.jpg",
+        "title": "Is Salt Really Worth Its Weight in Gold?",
+        "vote": 0
+    }
+]

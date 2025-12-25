@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T17:59:25.348419+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T17:15:23+00:00",
+        "description": "Apple\u2019s hardware is almost universally phenomenal, but the software is as frustrating as ever.\n\u26a1\ufe0f *Buy Anker Prime at Anker.com:* https://shop.anker.com/rNcyrf\n\ud83d\udd0b *Buy Anker Prime Power Bank (20K, 220W) on Amazon:* https://ankerfast.club/5k8pz0\n\u26a1\ufe0f *Buy Anker Prime Charging Base (150W, 3 Ports) on Amazon:* https://ankerfast.club/o1rrpo\n\n*Buy my NEW merch on Copland Supply* - https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nApple\u2019s 2025 lineup delivered exceptional hardware\u2014the M5 MacBook Pro and M4 MacBook Air are class-leading, while iPhone Air, iPhone 17, iPhone 17 Pro, and even the budget iPhone 16e all impressed\u2014but software tells a different story. macOS Tahoe shipped buggy and visually inconsistent, Liquid Glass divided users with questionable design choice",
+        "id": 4399512,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HNy8BtG9OKs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HNy8BtG9OKs/hqdefault.jpg",
+        "title": "Why Apple\u2019s Great Year Doesn\u2019t Feel Great",
+        "vote": 0
+    }
+]

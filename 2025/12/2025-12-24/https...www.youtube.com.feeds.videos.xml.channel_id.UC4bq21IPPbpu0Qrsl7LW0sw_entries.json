@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T17:46:08.183020+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T17:37:49+00:00",
+        "description": "U.S. sanctions didn\u2019t stop China\u2019s AI, they split it in two.\n\nU.S. sanctions were meant to slow China\u2019s AI progress.\nInstead, they forced it to fight on two fronts at once.\n\nOn one side, giants like ByteDance are going wide:\nembedding smaller, cheaper AI into video, search, and consumer platforms to drive scale and revenue fast.\n\nOn the other side, labs like DeepSeek are going deep:\nfacing chip shortages, they\u2019re forced to squeeze every ounce of performance out of limited hardware to chase frontier breakthroughs through algorithmic efficiency.\n\nThis isn\u2019t just strategy, it\u2019s a response to compute scarcity.\nChina is building two parallel AI ecosystems:\none for cutting edge research, and one for everyday use at massive scale.\n\n\ud83d\udc49 Visit our YouTube channel for more content.",
+        "id": 4399479,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/ojUCWqiXLiw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ojUCWqiXLiw/hqdefault.jpg",
+        "title": "Sanctions didn\u2019t slow China\u2019s AI. They changed how it wins",
+        "vote": 0
+    }
+]

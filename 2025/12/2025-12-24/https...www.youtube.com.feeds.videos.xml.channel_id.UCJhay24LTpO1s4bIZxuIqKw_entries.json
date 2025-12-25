@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T15:44:10.851378+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T15:01:45+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nTech Communities, People, Fear, and Hope - Gareth Lloyd - ACCU 2025 Short Talks\n---\n\nIn this powerful lightning talk from ACCU 2025, Gareth Lloyd explores the emotional landscape of tech communities\u2014delving into fear, unconscious bias, identity, and the transformative potential of empathy.\n\nTech communities thrive not just on shared programming knowledge but also on emotional intelligence, inclusivity, and mutual understanding. Gareth reflects on how our fear responses\u2014often triggered by unconscious bias or cognitive dissonance\u2014can challenge our interactions within diverse and inclusive programming cultures. Drawing from both personal experience and broader social context, he unpacks how \u201cfalse positives\u201d in our fear response, sometimes driven by the so-called lizard brain, affect our perception of others in community spaces.\n\nHe shares a vulnerable moment about marriage, naming conventions, and patriarchy to illustrate how deeply hel",
+        "id": 4398661,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mCGTFC7k7FI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mCGTFC7k7FI/hqdefault.jpg",
+        "title": "Tech Communities, People, Fear, and Hope - Gareth Lloyd - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

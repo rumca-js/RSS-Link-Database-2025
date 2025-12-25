@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nostalgia Nerd",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T17:55:05.102187+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T17:01:55+00:00",
+        "description": "Santa went online in 1986; yes, really. BT\u2019s Microlink service let anyone type \u201cSANTA\u201d at the prompt and send a direct message to the North Pole. Kids asked for BBC Micros; adults asked for\u2026 significantly less wholesome gifts. Within a week the system was flooded; more than a third of the 6,000 messages came from drunk or mischievous grown-ups. This is the forgotten story of the first time Santa was trolled online.\n\n#RetroTech #Christmas #80sTech #Microlink #TelecomGold #Santa #History #VintageComputing #Nostalgia #BBCMicro",
+        "id": 4399502,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/yK4Qnch7IR8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 819,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7qPftDWPw9XuExpSgfkmJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yK4Qnch7IR8/hqdefault.jpg",
+        "title": "When Santa's Online Grotto Went Lewd... #christmas #retrochristmas #retro",
+        "vote": 0
+    }
+]

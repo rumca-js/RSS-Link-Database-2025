@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T03:45:57.688194+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T03:30:22+00:00",
+        "description": "GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2\n\nThanks to our sponsor, LumaLabs. Try Ray3 Modify yourself https://lumalabs.ai/aisearch\n\nTry GLM 4.7 https://chat.z.ai/\nhttps://z.ai/blog/glm-4.7\n\n0:00 GLM 4.7 intro\n1:17 Android OS simulator\n3:56 Fruit ninja with hand tracking\n5:12 Sim city\n8:07 Video editor\n11:49 3D racing game\n12:50 Ray3 Modify\n14:43 Trello clone\n17:00 Figma UI builder\n19:25 Image to graph\n20:35 Spreadsheet to financial report\n21:31 Medical research\n23:55 Benchmarks and performance\n25:41 New thinking modes\n27:42 Specs and importance of open weights\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000",
+        "id": 4395371,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KaWQ2Ua9CW8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KaWQ2Ua9CW8/hqdefault.jpg",
+        "title": "We have a new #1 open source AI",
+        "vote": 0
+    }
+]

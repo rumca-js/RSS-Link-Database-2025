@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-24T02:29:07.331692+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-24T02:12:48+00:00",
+        "description": "Thanks to Meter for sponsoring today's episode. If you're interested in learning more about how Meter can help with your IT Infrastructure, go to https://meter.com/craftcomputing to book a demo today.\n\nGrab yourself a Pint Glass at https://craftcomputing.store\n\nLast month, I picked up an 8-Node Supermicro Microcloud on eBay for just $399. An older platform, sure, but at just $50 per node, it's one of the cheapest ways to add a TON of nodes or clusters to your homelab. And I'm starting to think there's a reason it was so cheap.\n\nBut first... What am I drinking???\n\nDrekker Brewing (Fargo, ND) Percentage of Survival IPA (7.0%)\n\n*Links to items below may be affiliate links for which I may be compensated*\n\nCheck out the Supermicro 5037MR-H8TRF on eBay: https://ebay.us/gA6OCD\nSliding Rails for Microcloud: https://ebay.us/vLWdHx\nIntel Xeon E5-2561v2 12-Core (10-Pack): https://ebay.us/e9ydi8\nSupermicro AOC-CTG-L1S 10Gb SFP+ Adapter: https://ebay.us/KzjwcY\n\nDownload my custom PCIe bracket adap",
+        "id": 4395160,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=E-_5mGOYE7o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E-_5mGOYE7o/hqdefault.jpg",
+        "title": "Installing Proxmox on my X79 Microcloud was beyond frustrating...",
+        "vote": 0
+    }
+]
