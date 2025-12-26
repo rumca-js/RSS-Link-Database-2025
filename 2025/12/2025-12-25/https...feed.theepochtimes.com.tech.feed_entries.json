@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Ozimek",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-25T20:21:30.204160+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-25T20:00:58+00:00",
+        "description": "Chip giant Nvidia will license Groq\u2019s AI technology and hire founder Jonathan Ross and key engineers in a deal short of a full acquisition.",
+        "id": 4405998,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/nvidia-strikes-tech-and-talent-deal-with-ai-startup-groq-to-run-ai-at-scale-5962907",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/12/08/id5955489-1.tagreuters.com2025binary_LYNXMPEL7906L-FILEDIMAGEKO-1080x720.jpg",
+        "title": "Nvidia Strikes Tech-and-Talent Deal With AI Startup Groq to Run AI at Scale",
+        "vote": 0
+    }
+]

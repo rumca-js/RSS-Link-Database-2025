@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-25T07:43:23.474026+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-25T05:55:09+00:00",
+        "description": "Sponsor: HYTE X50 on Amazon (Glass) https://geni.us/CEBL (Air) https://geni.us/4xVhNo\nIn hardware news this week, we're recapping the Intel accidental Battlemage B770 confirmation or leak, talking about DRAM prices continuing to rise for SK Hynix and Samsung memory, NVIDIA sort of bringing back 32-Bit PhysX support, and more.\n\nSources doc: https://www.one-tab.com/page/F3ZgDl5pSTiJ6KkFScL9zg\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nTIMESTAMPS\n\n00:00 - Recap for the Week\n01:31 - Quick GN Update: Major Videos Inbound\n06:28 - Intel Name-Drops Battlemage B770\n09:04 - SK Hynix Says Memory Supply Low to 2028\n11:08 - NVIDIA 32-Bit PhysX Returning\n13:31 - Huawei Ascend 950 GPU\n16:53 - GODLIKE Price for GODLIKE Board\n19:07 - Redstone Fake Frames via OptiScaler\n20:49 - Right-to-Repair for Military Equipment Thwarted\n24:37 - Samsung DRAM Skyrocket",
+        "id": 4402796,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Uwfg3pLscug",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Uwfg3pLscug/hqdefault.jpg",
+        "title": "HW News - Intel Battlemage B770 Leak, More Huawei GPUs Arrive, Memory Crisis Worsens",
+        "vote": 0
+    }
+]

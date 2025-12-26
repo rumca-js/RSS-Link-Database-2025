@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Technology Connections",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-25T16:58:10.464378+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-25T16:29:28+00:00",
+        "description": "mm mm moist\n\nlinks 'n' stuff\nThe HVAC sizing video\nhttps://youtu.be/DTsQjiPlksA\n\nMy original video on humidifiers\nhttps://youtu.be/oHeehYYgl28\n\nTechnology Connections on Bluesky:\nhttps://bsky.app/profile/techconnectify.bsky.social\n\nTechnology Connections on Mastodon:\nhttps://mas.to/@TechConnectify\n\nHave you ever noticed that I've never done that whole influencer thing? Unless you count this Christmas light tirade, that is. Anyway, that's all thanks to people like you! Viewer support through Patreon keeps this channel independent and possible. If you'd like to join the amazing folks who fund my work, check out the link below. Thank you!\nhttps://www.patreon.com/technologyconnections",
+        "id": 4405155,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tCVsyY5TRQI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 328,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tCVsyY5TRQI/hqdefault.jpg",
+        "title": "I made my whole-home humidifier slightly less terrifying",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-25T11:51:17.723466+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-25T11:51:15+00:00",
+        "description": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4baa8c7a-35ba-404d-a132-6dcef289e63c\" width=\"308\" /> W 2025 roku popyt na magazyny w Polsce ma dor\u00f3wna\u0107 rekordowym wynikom z lat 2021-22 - wynika z raportu globalnej firmy doradczej JLL. Eksperci przy tym nie spodziewaj\u0105 si\u0119 \"powrotu boomu deweloperskiego\".",
+        "id": 4403629,
+        "language": "pl-PL",
+        "link": "https://www.money.pl/gospodarka/powrot-do-rekordowych-lat-pandemii-biznes-w-polsce-potrzebuje-nowych-powierzchni-7236241845627872a.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 215,
+        "source_url": "https://www.money.pl/rss/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4baa8c7a-35ba-404d-a132-6dcef289e63c",
+        "title": "Powr\u00f3t do rekordowych lat pandemii. Biznes w Polsce potrzebuje nowych powierzchni",
+        "vote": 0
+    }
+]

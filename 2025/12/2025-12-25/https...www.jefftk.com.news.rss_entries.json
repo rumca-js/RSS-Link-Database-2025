@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-25T14:17:59.599548+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-25T08:00:00+00:00",
+        "description": "<p><span>\n\nThe world is divided into plain text and rich text, but I want\ncomfortable text:\n\n</span>\n\n<p>\n\n</p>\n\n<ul>\n<li>Yes: Lists, links, blockquotes, code blocks, inline code, bold,\nitalics, underlining, headings, simple tables.\n</li>\n<li>No: Colors, fonts, text sizing, text alignment, images, line\nspacing.\n</li>\n</ul>\n\n\n\n<p>\n\nLet's say I want to send someone a snippet from a <a href=\"https://www.lesswrong.com/posts/fMbk6tFH7KPJEwcdi/you-can-just-buy-far-uvc\">blog\npost</a>.  If I paste this into my email client the font family, font\nsize, blockquote styling, and link styling come along:\n\n</p>\n\n<p>\n\n<a href=\"https://www.jefftk.com/lw-pasted-with-formatting-big.png\"><img src=\"https://www.jefftk.com/lw-pasted-with-formatting.png\" width=\"550\" height=\"512\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:93.1vw;\" srcset=\"https://www.jefftk.com/lw-pasted-with-formatting.png 550w,https://www.jefftk.com/lw-pasted-with-formatting-2x.png 1100w\"><div style=\"height:min(93.1vw, 51",
+        "id": 4404324,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/clipboard-normalization",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/lw-pasted-with-formatting.png",
+        "title": "Clipboard Normalization",
+        "vote": 0
+    }
+]

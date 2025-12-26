@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-25T15:06:36.859855+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-25T13:58:07+00:00",
+        "description": "<p>Mieli\u015bmy ju\u017c w Polsce ataki na szpitale, banki, sieci handlowe i sektor publiczny. Tym razem pad\u0142o na bran\u017c\u0119, kt\u00f3ra dba o czysto\u015b\u0107 w naszych domach. Grupa ransomware o ironicznej nazwie &#8220;Safepay&#8221; dopisa\u0142a do swojej listy ofiar polsk\u0105 firm\u0119 POL-HUN. Czy jest to realne potwierdzenie ataku? Je\u015bli nazwa POL-HUN nic Wam...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/grupa-safepay-ransomware-atakuje-polskiego-producenta-chemii/\">Grupa Safepay ransomware atakuje polskiego producenta chemii?</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 4404552,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/grupa-safepay-ransomware-atakuje-polskiego-producenta-chemii",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Grupa Safepay ransomware atakuje polskiego producenta chemii?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-25T13:00:24.007813+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-25T13:00:22+00:00",
+        "description": "Mimo \u017ce wyjazdy wypoczynkowe ostatnio znowu zdro\u017ca\u0142y, nadal r\u00f3\u017cnica mi\u0119dzy cenami wcze\u015bnie kupionych wakacji, a ich cenami spodziewanymi za kilka miesi\u0119cy, jest atrakcyjna \u2013 pokazuje badanie Traveldaty",
+        "id": 4403941,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art43561011-ceny-wakacji-2026-ida-w-gore-ale-ciagle-sa-atrakcyjne-wobec-cen-last-minute",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ceny wakacji 2026 id\u0105 w g\u00f3r\u0119, ale ci\u0105gle s\u0105 atrakcyjne wobec cen last minute",
+        "vote": 0
+    }
+]

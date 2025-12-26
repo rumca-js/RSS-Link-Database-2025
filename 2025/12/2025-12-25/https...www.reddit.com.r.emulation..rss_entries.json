@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Fantastic_Kangaroo_5",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-25T10:21:03.204708+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-25T05:55:55+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1pv6m13/new_commit_to_duckstation_adds_option_to_show/\"> <img src=\"https://a.thumbs.redditmedia.com/tdgxx489APwD2ntgWUXKvK4pZPdXv1JAiwGmSCzUHk8.jpg\" alt=\"New commit to duckstation adds option to show graphics from older PS1 GPU.\" title=\"New commit to duckstation adds option to show graphics from older PS1 GPU.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fantastic_Kangaroo_5\"> /u/Fantastic_Kangaroo_5 </a> <br/> <span><a href=\"https://www.reddit.com/gallery/1pv6m13\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1pv6m13/new_commit_to_duckstation_adds_option_to_show/\">[comments]</a></span> </td></tr></table>",
+        "id": 4403263,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1pv6m13/new_commit_to_duckstation_adds_option_to_show",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://a.thumbs.redditmedia.com/tdgxx489APwD2ntgWUXKvK4pZPdXv1JAiwGmSCzUHk8.jpg",
+        "title": "New commit to duckstation adds option to show graphics from older PS1 GPU.",
+        "vote": 0
+    }
+]
