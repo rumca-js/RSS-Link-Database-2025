@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T12:40:08.031137+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T11:01:42+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/Bdbw6n\n\nWhat\u2019s the future of AI code generation? This week on Mixture of Experts, host Tim Hwang is joined by Chris Hay, Olivia Buzek and Gabe Goodhart to debrief the biggest AI use-case of 2025: AI-powered software engineering.  \n\nClaude Opus 4.5  solved a months-long optimization in under an hour but failed spectacularly at simple tasks. The barbell effect is real. Next, who's the architect\u2014you or the model? We discuss agent orchestration, context windows and why tool performance varies wildly. Then, model differentiation: are OpenAI and Anthropic fundamentally different, or does agent architecture matter more? Finally, can open-source compete with closed ecosystems? We explore vertical integration, inference costs and the future of open models. All that and more on this week's Mixture of Experts. \n\n00:00 \u2013 Introduction \n01:11 \u2013 The barbell problem: AI coding wins and fails \n03:46 \u2013 Claude Code cracks Apple Metal optimization \n07:52 \u2013 Who's the ",
+        "id": 4409517,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oRRDAZtJLmk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oRRDAZtJLmk/hqdefault.jpg",
+        "title": "AI Code Generation: Wins, Fails and the Future",
+        "vote": 0
+    }
+]

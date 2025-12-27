@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jazza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T10:20:20.054597+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T09:27:18+00:00",
+        "description": "\ud83c\udf8950% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!)\nSources:\nEnvironmental impacts:\nhttps://www.tiktok.com/@businessinsider/video/7524396199286197517\nhttps://science.feedback.org/how-much-electricity-do-data-centers-use-and-can-they-run-on-renewables/?gad_source=1&gad_campaignid=23026777674&gbraid=0AAAABBPpzoZscbJj5eCOWm2_UAHAGZP27&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xNgPsvjgPqxyFnruhuvIj2cTu5WNagfnHCqDcde01SONQ0KOJN-0coaAkwAEALw_wcB\nhttps://news.cornell.edu/stories/2025/11/roadmap-shows-environmental-impact-ai-data-center-boom\nhttps://www.abc.net.au/news/2025-05-20/data-centre-growth-energy-water-internet-future/105089876\nhttps://andthewest.stanford.edu/2025/thirsty-for-power-and-water-ai-crunching-data-centers-sprout-across-the-west/\n\nImpacts on Health and Wellbeing\nhttps://theconversation.com/teens-are-increasingly-turning-to-ai-companions-and-it-could-be-harming-them-261955\nhttps://www.psychologytoday.com/au/blog/urban-survival/202507/the-em",
+        "id": 4408783,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zhMp62XETj0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 160,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHu2KNu6TtJ0p4hpSW7Yv7Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zhMp62XETj0/hqdefault.jpg",
+        "title": "I was wrong about AI...",
+        "vote": 0
+    }
+]

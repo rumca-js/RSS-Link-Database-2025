@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T15:19:17.050185+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T15:00:03+00:00",
+        "description": "00:00:00 Intro\n00:00:18 The Difficulty Paradox\n00:06:32 The Rise and Fall of Video Game Titles\n00:13:47 The Importance of an Ending\n00:20:12 How to Predict The Game Awards\n00:27:55 The Rules of a Good Plot Twist\n00:34:54 An Explanation of \"Post-Punk\" Games\n00:42:25 The Lost Art of the Tutorial Level\n00:49:15 The Moral Dilemmas that Weren't\n00:55:37 Why Truly Original Games Are So Rare\n01:01:44 The Importance of a Good Monster Introduction\n01:08:10 The Language of Color in Games\n01:15:06 Oh, That Darn Yellow Paint\n01:22:16 Screw Nuance, Give Me A Memorable Villain\n01:28:53 Could Every Video Game Happen in the Same World?\n01:36:38 Framing, Agency, and AAA Female Protagonists\n01:44:13 A Postmortem on Starstruck Vagabond\n01:51:32 A Case of Soulslike Fatigue\n01:59:19 Card Game? I've Got a World to Save!\n02:06:07 Can an NPC Feel Like A Friend?\n02:13:45 Should A Game Never Be Boring?\n02:19:58 The Games I Like, But Don't Actually Play\n02:26:55 Resident Evil 4 is Stupid If You Think About It\n0",
+        "id": 4410434,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aUjZKkGQ4Bc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aUjZKkGQ4Bc/hqdefault.jpg",
+        "title": "Every Semi-Ramblomatic 2024 - 2025 Edition",
+        "vote": 0
+    }
+]

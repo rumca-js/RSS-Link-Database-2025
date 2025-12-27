@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T14:54:10.254459+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T14:27:45+00:00",
+        "description": "This year was, in a number, 2025. Here's what happened, except for the things we forgot. Enjoy and happy holidays everybody.\n\n--\n\nJOIN GOOD WORK'S PATREON FOR LIVE SHOWS AND MORE: https://www.patreon.com/cw/GoodWork\nFOLLOW GOOD WORK: https://www.instagram.com/goodworkmb/\nFOLLOW DAN: https://www.instagram.com/dhtoomey/",
+        "id": 4410222,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=K2QbmSDt2kc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K2QbmSDt2kc/hqdefault.jpg",
+        "title": "What the hell happened this year?",
+        "vote": 0
+    }
+]

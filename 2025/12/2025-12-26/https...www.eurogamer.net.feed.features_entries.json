@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marie Pritchard",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T12:21:55.511517+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T12:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/winter-burrow_PFDTmok.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>In a loud world where everyone is battling to be heard, it's easy to forget that the quiet and smaller moments of kindness hold the most power. A lot of the time, it's easy to think that keeping to yourself is the easiest way to deal with things, whether you're dealing with your own pain or trying to find the right way to navigate someone else's. It's never easy to know what to do, we're all trying our best - after all this is all our first time being human. But one truth remains:a little kindness goes a long way. Winter Burrow, the intrepid little mouse game, shows this more than anything else I've played in 2025.</p> <p><a href=\"https://www.eurogamer.net/in-2025-winter-burrow-showed-how-a-little-kindness-goes-a-long-way\">Read more</a></p>",
+        "id": 4409390,
+        "language": "en",
+        "link": "https://www.eurogamer.net/in-2025-winter-burrow-showed-how-a-little-kindness-goes-a-long-way",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/winter-burrow_PFDTmok.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "In 2025, Winter Burrow showed how a little kindness goes a long way",
+        "vote": 0
+    }
+]

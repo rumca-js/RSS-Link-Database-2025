@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T04:02:35.784705+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T03:34:27+00:00",
+        "description": "Realtime AI character swap. PersonaLive tutorial. Livestream as anyone in realtime. #ai #aivideo #aitools #aigirl\n\nThanks to our sponsor Lovart. Try it today: https://bit.ly/4a3SOO9\n\nPersonaLive: https://github.com/GVCLab/PersonaLive\nGit https://git-scm.com/install/\nConda https://www.anaconda.com/docs/getting-started/miniconda/main\nNode https://nodejs.org/en\n\n0:00 PersonaLive intro\n0:34 Demos\n4:03 How to install PersonaLive\n4:45 Git\n5:30 Installation continued\n6:30 Conda\n9:25 Installation continued\n11:33 Lovart \n13:14 Installation continued\n15:53 Node\n16:34 Installation continued\n18:29 Adding acceleration\n20:54 How to start PersonaLive\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precis",
+        "id": 4407582,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fzgwKJzAcVs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fzgwKJzAcVs/hqdefault.jpg",
+        "title": "How to become a hot girl in realtime. Free & open source",
+        "vote": 0
+    }
+]

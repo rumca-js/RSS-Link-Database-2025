@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T15:43:06.951804+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T15:00:41+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Dell's version of the DGX Spark fixes pain points</span>\n\n            <div class=\"clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Dell sent me two of their GB10 mini workstations to test:</p>\n\n<p><img src=\"https://www.jeffgeerling.com/sites/default/files/images/dell-pro-max-gb10-two.jpeg\" width=\"700\" height=\"394\" class=\"insert-image\" data-insert-type=\"image\" data-entity-type=\"file\" data-entity-uuid=\"insert-image-91c249ce-34c4-4690-9afb-7b2dbf8552e7\" data-insert-attach=\"{&quot;id&quot;:&quot;91c249ce-34c4-4690-9afb-7b2dbf8552e7&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}\" alt=\"Dell Pro Max with GB10\"></p>\n\n<p>In this blog post, I'll cover the base system, just one of the two nodes. Cluster testing is ongoing, and I'll cover things like AI model training and networ",
+        "id": 4410495,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/sites/default/files/images/dell-pro-max-gb10-two.jpeg",
+        "title": "Dell's version of the DGX Spark fixes pain points",
+        "vote": 0
+    }
+]

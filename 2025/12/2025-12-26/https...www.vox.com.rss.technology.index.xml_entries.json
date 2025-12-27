@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan-Weissmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T11:13:40.045046+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T06:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A sign reading \u201cNOW HIRING / APPLY TODAY\u201d in the foreground with palm trees and a Mobil gas station in the background.\" data-caption=\"This was one of the worst years for job seekers since the Great Recession. | Joe Raedle/Getty Images\" data-portal-copyright=\"Joe Raedle/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2239024059.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tThis was one of the worst years for job seekers since the Great Recession. | Joe Raedle/Getty Images\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">There is no better window into the soul of America\u2019s striving professional class than LinkedIn, a site that this year often seemed less like a networking platform than an extended group therapy session.&nbsp;</p>\n\n<p class=\"has-text-align-none\">To doomscroll through it was to encounter one post after another about the barren landscape for job hun",
+        "id": 4409042,
+        "language": "",
+        "link": "https://www.vox.com/money/473182/jobs-hiring-economy-us-market-linkedin",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2239024059.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "Why 2025 was hell for job hunters",
+        "vote": 0
+    }
+]

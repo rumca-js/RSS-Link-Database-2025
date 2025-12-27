@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T07:23:28.162577+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T07:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Tesla\u2019s viral videos show its Optimus humanoid robot serving drinks to guests \u2014 a glimpse of AI in the real world that a new AI innovation, called world models, is expected to make more reliable. (For one, humanoid robots will do a better job in navigating and serving people their custom drinks.)</p>\n\n\n\n<p>World models \u2014 which some refer to as video language models \u2014 are the new frontier in AI, following in the footsteps of the iconic ChatGPT and more recently, <a href=\"https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html\" data-type=\"link\" data-id=\"https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-",
+        "id": 4408198,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/4106563/after-llms-and-agents-the-next-ai-frontier-video-language-models.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "After LLMs and agents, the next AI frontier: video language models",
+        "vote": 0
+    }
+]

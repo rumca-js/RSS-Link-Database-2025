@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TrailerSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T20:57:50.469278+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T20:42:15+00:00",
+        "description": "00:00 NEW MOVIE NEWS 2026 \n00:46 Dexter Resurrection Season 2  \n02:14 Godzilla x Kong 3 Supernova\n03:51 Monarch Legacy of Monsters Prequel\n05:26 Spider Man 4 Brand New Day Trailer \n07:16 Avengers Doomsday\n08:37 Superman 2 Man of Tomorrow \n10:17 Spider-Man 4 Brand New Day",
+        "id": 4412350,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pAA5-sufNqc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 755,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiCSDcAcGDvD_v0TQQ8nxJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pAA5-sufNqc/hqdefault.jpg",
+        "title": "NEW MOVIE NEWS 2026 | Spider Man 4 Brand New Day Trailer, Man of Tomorrow, Avengers Doomsday",
+        "vote": 0
+    }
+]

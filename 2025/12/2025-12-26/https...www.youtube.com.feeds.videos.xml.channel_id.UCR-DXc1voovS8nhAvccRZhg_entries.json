@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T15:45:56.977582+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T15:00:28+00:00",
+        "description": "Let's see if Nvidia's GB10 \"AI Superchip\" is all it's hyped up to be...\n\nThanks to Dell for providing the two Dell Pro Max with GB10 units for testing and evaluation, along with accessories to get them clustered.\n\nResources I mentioned in this video:\n\n  - Dell Pro Max with GB10 Benchmark Results: https://github.com/geerlingguy/sbc-reviews/issues/92\n  - Dell Pro Max with GB10 AI Benchmarks: https://github.com/geerlingguy/ai-benchmarks/issues/34\n  - Dell Pro Max with GB10: https://www.dell.com/en-us/shop/desktop-computers/dell-pro-max-with-gb10/spd/dell-pro-max-fcm1253-micro/xcto_fcm1253_usx\n  - DGX Spark has no power LED: https://community.frame.work/t/dgx-spark-vs-strix-halo-initial-impressions/77055\n  - Mediatek on Grace CPU: https://www.mediatek.com/press-room/newly-launched-nvidia-dgx-spark-features-gb10-superchip-co-designed-by-mediatek\n  - DGX OS Release Cadence: https://docs.nvidia.com/dgx/dgx-spark/dgx-os.html#release-cadence\n  - Jetson Nano Ubuntu 18.04 only: https://forums.de",
+        "id": 4410511,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=FjRKvKC4ntw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FjRKvKC4ntw/hqdefault.jpg",
+        "title": "A tiny AI supercomputer for your desk",
+        "vote": 0
+    }
+]

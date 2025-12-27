@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T16:17:10.251323+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T16:05:44+00:00",
+        "description": "In 1924, the heads of the major lightbulb companies got together to make lightbulbs worse.\n\nTheir bulbs were lasting too long, so people weren't buying enough. At least, according to them.\n\nSo they cut bulb life from 2000 hours to 1000 hours \u2014 inventing planned obsolescence.\n\nNow a growing number of customers and experts are concerned that Apple is carrying on the tradition, and using their updates to make your phone obsolete.",
+        "id": 4410763,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Cm8xQIPFKfs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Cm8xQIPFKfs/hqdefault.jpg",
+        "title": "Are Apple Products Designed to Fail?",
+        "vote": 0
+    }
+]

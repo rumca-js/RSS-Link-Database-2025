@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-26T16:45:00.905916+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-26T16:00:35+00:00",
+        "description": "Why do zebras have stripes? This question has plagued scientists since  Darwin and Wallace were alive, and modern research has finally gotten us closer to the answer. Which is good, because the last time SciShow tried to answer it, we got it way wrong. Here's the real, updated science about how zebras got their stripes.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Jp Lynch, J.V. Rosenbalm, Cye Stoner, Chris Curry, Bethany Matthews, David Johnston, Steve Gums, Kevin Knupp, Kevin Bealer, Matt Curls, Joseph Ruf, Alan Wong, Eric Jensen, Jaap Westera, Garrett Galloway, Jeremy Mattern, Lyndsay Brown, Toyas Dhake, Jason A Saslow, ",
+        "id": 4410889,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LbVSYO-Y-kU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LbVSYO-Y-kU/hqdefault.jpg",
+        "title": "We Were Totally Wrong About Zebra Stripes",
+        "vote": 0
+    }
+]
