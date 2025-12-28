@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T22:57:11.518738+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T22:32:01+00:00",
+        "description": "<p>The whole thing is just weird looking, for one thing. As for sloppy details, the carton is labeled both \u201cWhole Milk\u201d and \u201cLowfat Milk\u201d, and the \u201cCow Fun Puzzle\u201d maze is just goofy.</p>\n\n<p><a href=\"https://x.com/appletv/status/2003927243245203539\">The Apple TV X account retweeted Cook</a>, and added a credit: \u201cWe thought you might like this festive artwork by Keith Thomson, made on MacBook Pro.\u201d</p>\n\n<p>They didn\u2019t tag the \u201cKeith Thomson\u201d who supposedly created this illustration for them, but if it\u2019s <a href=\"https://www.keiththomsonart.com/\">this Keith Thomson</a>, Apple must have somehow fallen for a scam, because <em>that</em> Keith Thomson\u2019s paintings are wonderful. It does seem to be <a href=\"https://x.com/flyosity/status/2004010434844938312\">that Keith Thomson\u2019s signature</a> on Apple\u2019s sloppy illustration. (I love a bunch of the paintings from that Keith Thomson, but <a href=\"https://www.keiththomsonart.com/?itemId=id1bethwvp1f2b3fsm5np1sg5i9p50\">this one in particular</a> f",
+        "id": 4418499,
+        "language": "",
+        "link": "https://x.com/tim_cook/status/2003873311504130173",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tim Cook Posts AI Slop in Christmas Message on Twitter/X, Ostensibly to Promote \u2018Pluribus\u2019",
+        "vote": 0
+    }
+]

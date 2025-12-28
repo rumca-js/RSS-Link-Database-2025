@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T10:20:53.378071+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T10:03:00+00:00",
+        "description": "The Method: Everyone who disagrees with you is right to do so&#8211;based on who they are and what they see Attention is priceless and trust is worth even more Marketing is the generous act of helping someone solve a problem Don&#8217;t find customers for your products, find products for your customers Permission is the privilege [&#8230;]",
+        "id": 4414962,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/12/building-blocks-of-marketing",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Building blocks of marketing",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T08:29:38.264973+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T08:29:37+00:00",
+        "description": "A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.\nThe vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the",
+        "id": 4414656,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+        "vote": 0
+    }
+]

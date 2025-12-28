@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T15:59:14.696064+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T08:00:00+00:00",
+        "description": "<p><span>\n\nAs part of the general discourse around cost of living, Julia and I\nwere talking about families sharing housing.  This turned into us each\nwriting a post (</span>\n\n<a href=\"https://www.jefftk.com/p/kids-and-space\">mine</a>, \n\n<a href=\"https://juliawise.net/you-dont-have-to-wait-for-a-high-income-to-have-kids/\">hers</a>),\nbut is it actually legal for a family to live with housemates?  In the\nplaces I've checked it seems like yes.\n\n\n\n<p>\n\nWhile zoning is complicated and I'm not a lawyer, it looks to me like\npeople commonly describe the situation as both more restrictive and\nmore clear cut than it really is.  For example, <a href=\"https://students.tufts.edu/residential-life-and-learning/resources-and-faqs/off-campus-engagement\">Tufts\nUniversity claims</a>:\n\n</p>\n\n<p>\n\n</p>\n\n<blockquote>\nThe cities of Medford, Somerville and Boston (in addition to other\ncities in the area) have local occupancy ordinances on\napartments/houses with non-related persons. Each city has its own\nordin",
+        "id": 4416535,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/shared-houses-illegal",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Shared Houses Illegal?",
+        "vote": 0
+    }
+]

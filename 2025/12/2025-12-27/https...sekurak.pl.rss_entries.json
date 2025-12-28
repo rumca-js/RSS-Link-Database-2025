@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T09:13:29.182632+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T08:49:57+00:00",
+        "description": "<p>Wydany przez KNF w maju 2024 dokument &#8220;Dobre praktyki w zakresie zapobiegania i reagowania na ataki typu ransomware&#8221; zawiera mi\u0119dzy innymi rekomendacj\u0119 2.2 brzmi\u0105c\u0105 &#8220;Ograniczenie mo\u017cliwo\u015bci u\u017cycia narz\u0119dzia PsExec \u2013 zaleca si\u0119 ograniczenie wykorzystania narz\u0119dzia PsExec poprzez wymaganie mechanizmu UAC, ograniczenie narz\u0119dzia tylko do wybranych kont administracyjnych, logowanie i weryfikacja...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/psexec-vs-knf-polemika-spelnialnosci-rekomendacji/\">PsExec vs KNF vs ransomware &#8211; polemika spe\u0142nialno\u015bci rekomendacji</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 4414763,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/psexec-vs-knf-polemika-spelnialnosci-rekomendacji",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PsExec vs KNF vs ransomware \u2013 polemika spe\u0142nialno\u015bci rekomendacji",
+        "vote": 0
+    }
+]

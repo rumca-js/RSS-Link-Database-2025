@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T17:26:10.672640+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T16:30:05+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Aim-akCtpzM\" width=\"480\" alt=\"thumbnail\" title=\"Prepping For The Next Cloudflare Outage\" /></p>To get ready for the next Cloudflare outage why not just start rolling your own Cloudflare era pages and here's a tool to do exactly that.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />December Outage: https://blog.cloudflare.com/5-december-2025-outage/<br />November Outage: https://blog.cloudflare.com/18-november-2025-outage/<br />Cloudflare's Future Plans: https://blog.cloudflare.com/fail-small-resilience-plan/<br />Clouflare Error Page: https://github.com/donlon/cloudflare-error-page<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Po",
+        "id": 4417008,
+        "language": "en",
+        "link": "https://odysee.com/prepping-for-the-next-cloudflare-outage:108dc2ffe7bce2650936fa72db00a81a37175092",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/Aim-akCtpzM",
+        "title": "Prepping For The Next Cloudflare Outage",
+        "vote": 0
+    }
+]

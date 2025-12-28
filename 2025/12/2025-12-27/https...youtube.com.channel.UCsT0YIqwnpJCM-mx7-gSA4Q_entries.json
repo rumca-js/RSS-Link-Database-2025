@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TEDx Talks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T15:39:16.331566+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T15:01:54+00:00",
+        "description": "This TEDx talk by Marlise Horvath Schneider discusses how innovation policy aims to redevelop Rust Belt regions, specifically through the US CHIPS and Science Act. Using Upstate New York as a case study, Marlise delves into the nuance and complexity that comes with implementing innovation in deindustrialized places. Her research in the region exposes disconnects between policymakers and Upstate New Yorkers in what future they imagine and how semiconductors can be mobilized to deliver. Her talk offers some ways to mend these gaps and make innovation policy work for everyone.\n\nCitations:\nPlease check out Utica Coffee\nGlobe created by  Brian Buntz with data from 2023 EU Industrial R&D Investment Scoreboard. \nPhotos: Albany Nanotech Lab (Photo by IBM Research for Forbes), Micron sign (Photo by Glenn Coin for Syracuse.com), Cree/Wolfspeed (Photo from cree.com for Big Frog 104).\n\nAll other photos by me or from her personal collection. Marlise Horvath Schneider is a PhD candidate at the Scie",
+        "id": 4416413,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zYiaW1qVQN8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 915,
+        "source_url": "https://youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zYiaW1qVQN8/hqdefault.jpg",
+        "title": "Why innovation alone won't save small towns | Marlise Horvath Schneider | TEDxNuremberg",
+        "vote": 0
+    }
+]

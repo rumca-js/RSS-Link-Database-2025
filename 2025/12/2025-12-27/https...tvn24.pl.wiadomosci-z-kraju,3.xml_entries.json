@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T11:38:28.324315+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T11:30:41+00:00",
+        "description": "<img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-2964182-ateny-grecja-konstantinos-dimitros-shutterstock-2566477875-ph8819532/alternates/LANDSCAPE_1280\" alt=\"Ciemne chmury nad bran\u017c\u0105. \"Miliony Europejczyk\u00f3w chc\u0105 kupowa\u0107\"\" />\n    Bran\u017ca motoryzacyjna w Unii Europejskiej mierzy si\u0119 z coraz wi\u0119ksz\u0105 konkurencj\u0105 ze strony kraj\u00f3w azjatyckich, w szczeg\u00f3lno\u015bci Chin, wyzwaniem s\u0105 te\u017c c\u0142a nak\u0142adane przez administracj\u0119 Donalda Trumpa. Bruksela, w obliczu narastaj\u0105cych problem\u00f3w, w grudniu wycofa\u0142a si\u0119 z planu ca\u0142kowitego zakazania sprzeda\u017cy aut spalinowych, kt\u00f3ry mia\u0142 obowi\u0105zywa\u0107 od 2035 roku.",
+        "id": 4415318,
+        "language": "pl-PL",
+        "link": "https://tvn24.pl/biznes/ze-swiata/ciemne-chmury-nad-branza-miliony-europejczykow-chca-kupowac-st8819422?source=rss",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 319,
+        "source_url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://tvn24.pl/najnowsze/cdn-zdjecie-2964182-ateny-grecja-konstantinos-dimitros-shutterstock-2566477875-ph8819532/alternates/LANDSCAPE_1280",
+        "title": "Ciemne chmury nad bran\u017c\u0105. \"Miliony Europejczyk\u00f3w chc\u0105 kupowa\u0107\"",
+        "vote": 0
+    }
+]

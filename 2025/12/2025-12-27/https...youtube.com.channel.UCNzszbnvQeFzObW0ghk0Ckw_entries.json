@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T23:29:19.881687+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T23:13:10+00:00",
+        "description": "Dave adds virtual networking to the Ubibone project, enabling a 1980s PDP-11/44 to connect to the Internet for the first time in 40 years!",
+        "id": 4418573,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5TX37gGYK7g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5TX37gGYK7g/hqdefault.jpg",
+        "title": "1980s Internet: An Ancient PDP-11 Goes Live on the Web",
+        "vote": 0
+    }
+]

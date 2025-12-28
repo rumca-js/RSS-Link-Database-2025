@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T15:27:11.283337+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T15:01:00+00:00",
+        "description": "Build a DIY \u201cSteam Machine\u201d gaming console using a $100 ASRock BC250 mining blade (a cut-down PS5-style APU). Small footprint, solid 1080p performance, and fully open-source Linux/SteamOS-ready. In this video I 3D-print a console-style case, install the BC250 + flex PSU, set up Bazzite / SteamOS 3.9, and show real-world gaming performance, temps, and power draw.\n\nBuy An Asrock BC 250 on eBAY: https://ebay.us/UqUGek\nFlex PSU: https://amzn.to/48UW7pQ\n3D Printer i use: https://amzn.to/3YMusBu\nCheck Out NexGen-3D-Printing Here: https://www.printables.com/model/1499974-nexgen3d-diy-steam-machine-powered-by-bazzite\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Black Friday Sale code for software\uff1aETA \nWindows 11 Pro Key($23):https://biitt.ly/RUZiX \nWindows 11 Home Key($22):https://biitt.ly/SQKqi \nWindows 10 Pro OEM Key($19):https://biitt.ly/KpEmf \nWindows10 Home Key($17):https://biitt.ly/2tPi1 \nWindows 10 L",
+        "id": 4416369,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=StqSCfX9luQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/StqSCfX9luQ/hqdefault.jpg",
+        "title": "Low Cost DIY Open Source Gaming Console!",
+        "vote": 0
+    }
+]

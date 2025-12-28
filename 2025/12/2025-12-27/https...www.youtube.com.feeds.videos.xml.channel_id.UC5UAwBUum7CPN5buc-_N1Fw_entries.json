@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T11:00:14.894546+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T10:15:51+00:00",
+        "description": "Try out Proton Mail, the secure email that protects your privacy: https://proton.me/mail/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:51 Sponsor: Proton Mail\n01:40 Brand new X11 server in the works\n04:36 New packaging solution for portable apps\n08:10 Steam Deck LCD is discontinued\n10:11 Linux Foundation publishes annual report\n12:58 elementary OS 8.1 released\n15:57 Older AMD GPUs get 30% performance boost\n17:41 CachyOS looks at the server now\n20",
+        "id": 4415186,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jlz6xAk85hY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jlz6xAk85hY/hqdefault.jpg",
+        "title": "New X11 server, New portable package manager, no more Steam Deck LCD - Linux Weekly News",
+        "vote": 0
+    }
+]

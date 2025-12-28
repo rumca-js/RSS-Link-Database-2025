@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T18:29:53.028274+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T18:11:17+00:00",
+        "description": "Kubernetes 1.35 is here, and it's packed with production-ready features that change the game for enterprise workloads. In this episode of KubeStruck, Drew Hagen, Kubernetes 1.35 Release Lead, walks us through the biggest updates\u2014from in-place pod resource updates graduating to general availability to native workload identity and smarter AI-optimized scheduling. Whether you're running AI training jobs, edge deployments, or mission-critical applications, this release brings the resilience, security, and scalability you've been waiting for. Drew also breaks down the Ingress NGINX controller retirement and what teams should do next.\nIf you're managing Kubernetes in production, this is a must-watch conversation about where the platform is heading.\nRead the full story at www.tfir.io\n#Kubernetes #CloudNative #K8s #ContainerOrchestration #DevOps #AI #MachineLearning #EdgeComputing #Security #PlatformEngineering",
+        "id": 4417321,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HIVcyPCfG1k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HIVcyPCfG1k/hqdefault.jpg",
+        "title": "Kubernetes 1.35: In-Place Pod Updates, Native Workload Identity & AI Scheduling | Drew Hagen",
+        "vote": 0
+    }
+]

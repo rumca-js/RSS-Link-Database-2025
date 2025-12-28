@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Science Time",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-27T20:09:24.030893+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-27T20:00:26+00:00",
+        "description": "Brian Cox and alien life is the focus of this 2026 special, where Brian Cox takes you from the biggest mysteries of the cosmos to the strange questions much closer to home. Brian Cox explores alien life with a clear, grounded look at what we actually know, what we can realistically expect, and why the universe might feel so silent. He begins with the Fermi Paradox and the unsettling tension at its core: if intelligent civilizations should be common, why don\u2019t we see any evidence of them anywhere in the Milky Way?\n\nFrom there, Brian Cox connects the dots to the Great Filter hypothesis, the idea that something wipes out most civilizations before they ever become visible across the galaxy. That leads to a sobering possibility that alien life might be rare, and that we could even be the only technological civilization in the Milky Way. It\u2019s a fascinating, slightly eerie thought that reframes our place in the universe.\n\nThen the focus shifts from faraway stars to alien life in our own back",
+        "id": 4417703,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cwrKZ1X9xrA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 820,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxoz4YfS4M3H3C57FD4jW4Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cwrKZ1X9xrA/hqdefault.jpg",
+        "title": "Brian Cox Talks About Alien Life - A 2026 Special",
+        "vote": 0
+    }
+]
