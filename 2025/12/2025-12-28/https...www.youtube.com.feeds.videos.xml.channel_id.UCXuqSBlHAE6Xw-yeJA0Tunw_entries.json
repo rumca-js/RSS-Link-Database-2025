@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T19:05:11.205697+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T17:59:18+00:00",
+        "description": "Thanks for Seasonic for sponsoring this video! Make sure your builds are powered reliably with a Seasonic PSU. Check out the model used in this video, the FOCUS GX-750 80+ Gold, at https://lmg.gg/gx750build \n\nGet 20% off the brand new Prismagic Screwdrivers when you purchase through YouTube shopping: https://lmg.gg/signupprismagic \n\nWoah woah woah, a classic LTT PC build guide to cap off big 2025? I must be dreaming. BUT I'M NOT! WOOOO!! Tune in and watch Linus build a gaming PC with a $2,000 budget while explaining the rationale behind our part choices. If only RAM wasn't so expensive...\n\nDiscuss on the forum: https://linustechtips.com/topic/1629381-2000-gaming-pc-classic-ltt-build-guide-2026/\n\nBuy a Seasonic FOCUS GX-750 80+ Gold PSU: https://lmg.gg/gx750build\nBuy an AMD Ryzen 7 7800X3D CPU: https://geni.us/Slu5uH\nBuy a Gigabyte B850 Gaming X WiFi6E Motherboard: https://geni.us/bsZgqjM\nBuy G.Skil Flare X5 2x16GB 6000MTs CL30 DDR5 RAM: https://geni.us/wrGFD\nBuy a Gigabyte Aorus Gen4 ",
+        "id": 4423069,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KyoXLbfpZfg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KyoXLbfpZfg/hqdefault.jpg",
+        "title": "$2000 Gaming PC - Classic LTT Build Guide (2026)",
+        "vote": 0
+    }
+]

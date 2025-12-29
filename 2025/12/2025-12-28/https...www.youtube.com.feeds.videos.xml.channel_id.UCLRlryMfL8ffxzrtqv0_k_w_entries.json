@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "KinoCheck.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T14:54:34.847009+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T14:04:16+00:00",
+        "description": "This time on KinoCheck News we give you an overview of the biggest movie news of 2025! | App \u27a4 https://KinoCheck.com/App | Best Movie News Show | All News https://KinoCheck.com/news\n\n00:00 Jurassic World 5 - director\n01:20 The Lord of the Rings: The Hunt for Gollum - Release Date\n03:05 KPop Demon Hunters 2 - Official Announcement\n04:42 Godzilla x Kong: Supernova - Space Godzilla\n05:40 Frozen 3 - Story Details\n06:48 The Legend of Zelda - First Images\n07:59 Harry Potter Series - First Images\n09:14 I Am Legend 2 - Details\n10:31 Transformers - New Movie by Michael Bay\n11:18 Deadpool & X-Men-Movie\n13:23 Horizon Zero Dawn - Production & Release\n14:35 Grown Ups 3 in the works\n15:31 Top Gun 3\n16:28 Sonic Universe Event Film\n17:48 Alita Battle Angel 2\n18:26 Highlander - Cast\n19:17 The Simpsons-Film 2\n20:30 The Mummy 4 with Brendan Fraser and Rachel Weisz\n21:28 Sunrise on the Reaping - Katniss and Peter return\n22:12 New Men in Black movie with Will Smith\n23:06 Jumanji 3\n23:53 Tomb Raider live a",
+        "id": 4421725,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=b3rEv1f9chQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 173,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLRlryMfL8ffxzrtqv0_k_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b3rEv1f9chQ/hqdefault.jpg",
+        "title": "Horizon Zero Dawn, Jurassic World 5, I Am Legend 2, K-Pop Demon Hunters 2... KinoCheck News",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T14:09:04.996580+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T14:00:40+00:00",
+        "description": "Just when it looked like the year was finally winding down, AI decided to drop one last round of chaos.\n\nIn this final roundup of the year, I\u2019m breaking down the biggest late-stage AI stories; including the NVIDIA/Groq $20B situation, major model updates, hardware moves, and a few headlines that got wildly misunderstood along the way.\n\nNo hype, no panic\u2026 just what actually happened, why it matters, and how it sets the stage for what\u2019s coming next!\n\nThanks for nerding out with me all year. Let\u2019s wrap this thing up!\n\nDiscover More:\n\ud83d\udee0\ufe0f Explore AI Tools & News: https://futuretools.io/\n\ud83d\udcf0 Weekly Newsletter: https://futuretools.io/newsletter\n\ud83c\udf99\ufe0f The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n\u274c Twiter/X: https://x.com/mreflow\n\ud83d\uddbc\ufe0f Instagram: https://instagram.com/mr.eflow\n\ud83e\uddf5 Threads: https://www.threads.net/@mr.eflow\n\ud83d\udfe6 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n\ud83d\udc4d Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nhttps://groq.com/new",
+        "id": 4421516,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NCzpFv9Byus",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NCzpFv9Byus/hqdefault.jpg",
+        "title": "The Nvidia Groq Acquisition Explained",
+        "vote": 0
+    }
+]

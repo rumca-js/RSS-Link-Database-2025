@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T12:18:50.262536+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T12:01:42+00:00",
+        "description": "I'm repairing a copper pinhole leak using two SharkBite fittings. Unfortunately, the leak was under a joist. So I cut the copper pipe a few inches to the left and right. The SharkBite 3/4 inch coupling and ball valve made this an easy fix, especially in such a tight space. Many thanks to SharkBite for sponsoring this tutorial",
+        "id": 4421013,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/sd2fs1T5GGw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sd2fs1T5GGw/hqdefault.jpg",
+        "title": "SharkBite Copper Pipe Repair Tips - #shorts #plumbing #sharkbiteplumbing #sponsored",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T16:19:26.034617+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T14:57:20+00:00",
+        "description": "Support Content at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/",
+        "id": 4422236,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=XmBXKsE2G1s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XmBXKsE2G1s/hqdefault.jpg",
+        "title": "Dell RTO Policy Failing - Company Culture is DEAD for Big Tech",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T09:08:22.625894+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T08:55:06+00:00",
+        "description": "<p>Do wykorzystania podatno\u015bci wystarczy udost\u0119pnienie us\u0142ug MongoDB do Internetu (luka nie wymaga uwierzytelnienia). Atakuj\u0105cy wysy\u0142a skompresowane/z\u0142o\u015bliwe wiadomo\u015bci &#8211; a przy dekompresji nast\u0119puje czytanie fragment\u00f3w pami\u0119ci z serwera i wys\u0142anie ich w odpowiedzi. Opublikowany zosta\u0142 exploit / trwaj\u0105 pr\u00f3by masowego wykorzystania podatno\u015bci. Dost\u0119pne s\u0105 \u0142atki od linii 4.x a\u017c do najnowszej...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/mongobleed-krytyczna-podatnosc-umozliwiajaca-zdalne-czytanie-pamieci-z-serwera-hasla-klucze-api-klucze-prywatne-inne-sekrety-cve-2025-14847/\">MongoBleed &#8211; krytyczna podatno\u015b\u0107 umo\u017cliwiaj\u0105ca zdalne czytanie pami\u0119ci z serwera (has\u0142a, klucze API, klucze prywatne, inne sekrety). CVE-2025-14847</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 4420285,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/mongobleed-krytyczna-podatnosc-umozliwiajaca-zdalne-czytanie-pamieci-z-serwera-hasla-klucze-api-klucze-prywatne-inne-sekrety-cve-2025-14847",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MongoBleed \u2013 krytyczna podatno\u015b\u0107 umo\u017cliwiaj\u0105ca zdalne czytanie pami\u0119ci z serwera (has\u0142a, klucze API, klucze prywatne, inne sekrety). CVE-2025-14847",
+        "vote": 0
+    }
+]

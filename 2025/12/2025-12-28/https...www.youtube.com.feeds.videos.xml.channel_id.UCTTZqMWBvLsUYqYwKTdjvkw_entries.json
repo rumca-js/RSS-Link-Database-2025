@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T17:25:13.747656+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T17:05:37+00:00",
+        "description": "\ud83e\udee1\u00a0Mamy kolejn\u0105\u00a0gwiazd\u0119 rocka, czyli podatno\u015b\u0107 ocenion\u0105\u00a0na 10/10 w skali CVSS. React2Shell, bo o nim mowa, z pocz\u0105tkiem grudnia postawi\u0142 w mgnieniu oka na nogi ca\u0142\u0105\u00a0bran\u017c\u0119 cyberbezpiecze\u0144stwa.\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udda5\ufe0f\u00a0React2Shell (CVE-2025-55182)\nhttps://react2shell.com/\n\n\ud83d\udea8\u00a0Critical Security Vulnerability in React Server Components\nhttps://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components\n\n\ud83d\udcd1\u00a0CVE-2025-55182: React2Shell Analysis, Proof-of-Concept Chaos, and In-the-Wild Exploitation\nhttps://www.trendmicro.com/en_us/research/25/l/CVE-2025-55182-analysis-poc-itw.html\n\n\ud83d\udcd1\u00a0React2Shell and related RSC vulnerabilities threat brief: early exploitation activity and threat actor techniques\nhttps://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/\n\n\ud83c\udde8\ud83c\uddf3\u00a0China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)\nhttps://aws.amazon.com/blogs/security/china-nexus-cyber-threat-groups-rapidly-exploit-react2shell-vulnerabil",
+        "id": 4422578,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=d_xXXMuLdgM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d_xXXMuLdgM/hqdefault.jpg",
+        "title": "Chcieli dobrze, wysz\u0142o jak zwykle",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T05:56:12.323093+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T04:16:27+00:00",
+        "description": null,
+        "id": 4419757,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.simonwillison.net/static/2025/substack-error.jpg",
+        "title": "Substack Network error = security content they don't allow to be sent",
+        "vote": 0
+    }
+]

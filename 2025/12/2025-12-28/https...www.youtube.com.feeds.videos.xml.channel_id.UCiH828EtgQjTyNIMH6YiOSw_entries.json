@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel Awesome",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T18:44:04.037852+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T18:00:13+00:00",
+        "description": "Doug watches every episode of the early 2000s hit series. Is he proud of what he saw? DisneyCember continues with The Proud Family.\n\nWatch all DisneyCember here - https://www.youtube.com/playlist?list=PL0AQIMR-tpomecW19RN2LNrdoqd5wFu4R\n\nWatch the new NC - https://youtu.be/QwaqimDaVws\n\nThe Proud Family is an American animated sitcom created by Bruce W. Smith that aired on Disney Channel for two seasons from September 15, 2001, to August 19, 2005. The series centers on the life of the titular family, including the show\u2019s main protagonist, Penny Proud, a 14-year-old African American teenage girl who navigates her adolescence while dealing with her friends and family. Episodes deal with Penny discovering her boundaries and struggling with family relationships and peer pressure. Penny Proud has strong relationships with her entrepreneurial father Oscar Proud and her veterinarian mother Trudy Proud, as well as her friends Dijonay Jones, LaCienega Boulevardez, Zoey Howzer, and Sticky Webb. \n",
+        "id": 4423012,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GonxBCmu4Ms",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 697,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiH828EtgQjTyNIMH6YiOSw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GonxBCmu4Ms/hqdefault.jpg",
+        "title": "The Proud Family - DisneyCember",
+        "vote": 0
+    }
+]

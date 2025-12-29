@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T03:46:27.239579+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T03:27:40+00:00",
+        "description": "HUGE AI NEWS: Qwen Image Edit 2511, GLM 4.7, MiniMax M2.1, NitroGen & more #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nSources in order of mention:\nhttps://nitrogen.minedojo.org/\nhttps://francis-rings.github.io/FlashPortrait/\nhttps://generative-refocusing.github.io/\nhttps://huggingface.co/Qwen/Qwen-Image-Edit-2511\nhttps://emjay73.github.io/InfCam/\nhttps://kevin-thu.github.io/StoryMem/\nhttps://zhw-zhang.github.io/ReCo-page/\nhttps://www.minimax.io/news/minimax-m21\nGLM 4.7 review: https://youtu.be/KaWQ2Ua9CW8\nhttps://zhaojingjing713.github.io/Spatia/\nhttps://maddog241.github.io/mvinverse-page/\nhttps://dreamontage.github.io/DreaMontage/\nhttps://3dregen.jdihlmann.com/\nhttps://nvlabs.github.io/CARI4D/\nhttps://snowflakewang.github.io/AniX/\n\n0:00 AI news intro\n1:12 NitroGen\n3:01 FlashPortrait\n6:38 Generative Refocusing\n9:05 Qwen Image Edit 2511\n12:52 Inf-Cam\n15:51 Unitree teleoperation\n17:05 ChatLLM\n18",
+        "id": 4419413,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1IZMwC3oDfc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1IZMwC3oDfc/hqdefault.jpg",
+        "title": "New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS",
+        "vote": 0
+    }
+]

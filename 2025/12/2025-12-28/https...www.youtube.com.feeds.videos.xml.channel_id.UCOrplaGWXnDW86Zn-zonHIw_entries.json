@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mario Budowlaniec",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T08:58:25.066521+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T08:00:02+00:00",
+        "description": "Zapchana toaleta i nic nie pomaga? W tym filmie pokazuj\u0119 walk\u0119 z awari\u0105 kanalizacji \u2013 od pr\u00f3b przepychania spr\u0119\u017cyn\u0105, a\u017c po ca\u0142kowit\u0105 wymian\u0119 starej instalacji \u017celiwnej na plastik. Zobacz, co kryje si\u0119 w \u015brodku 40-letniej rury i jak samodzielnie przeprowadzi\u0107 remont odp\u0142ywu krok po kroku.\n\u2022 Diagnostyka i pr\u00f3by udro\u017cnienia: U\u017cycie kamery inspekcyjnej, spr\u0119\u017cyny kanalizacyjnej (11 mm) oraz myjki ci\u015bnieniowej.\n\u2022 Przekr\u00f3j starej rury \u017celiwnej i twardych osad\u00f3w chemicznych, kt\u00f3rych nie usunie \u017cadna spr\u0119\u017cyna.\n\u2022 Wymiana instalacji: Demonta\u017c \u017celiwa i monta\u017c rur pomara\u0144czowych (PVC), kt\u00f3re s\u0105 bardziej odporne na nacisk gruntu ni\u017c zwyk\u0142e rury szare.\n\u2022 Monta\u017c kinety: Instalacja podstawy studni rewizyjnej, kt\u00f3ra zapewni \u0142atwy dost\u0119p do rur w przysz\u0142o\u015bci.\n\u2022 Praktyczne porady hydrauliczne: Jak wyliczy\u0107 idealny spadek rur, dlaczego stosowa\u0107 dwa kolana 45\u00b0 zamiast jednego 90\u00b0 oraz jak obsypa\u0107 i zabetonowa\u0107 rury.\n\n\ud83d\udc49 Ubra\u0142a mnie firma https://www.youtube.com/@UCBeF6NxBr5HWoAm5KenSUgA  \n\u2022 spodnie https://",
+        "id": 4420282,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=yb9wg5Teghs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 209,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOrplaGWXnDW86Zn-zonHIw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yb9wg5Teghs/hqdefault.jpg",
+        "title": "Przepycha\u0107 czy wymienia\u0107? 40 - letnia rura \u017celiwna",
+        "vote": 0
+    }
+]

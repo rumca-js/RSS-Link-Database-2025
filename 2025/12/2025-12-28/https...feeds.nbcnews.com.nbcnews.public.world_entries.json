@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Freddie Clayton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T13:49:36.765686+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T12:40:02+00:00",
+        "description": "President Donald Trump and his Ukrainian counterpart Volodymyr Zelenskyy return to the negotiating room on Sunday with a familiar, fraught task: trying to chart a path toward ending Russia\u2019s war against Ukraine.",
+        "id": 4421417,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/ukraine/trump-zelenskyy-meeting-florida-kyiv-hopes-rcna251195",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250818-donald-trump-volodymyr-zelenskyy-se-432p-995bd6.jpg",
+        "title": "As Trump and Zelenskyy meet in Florida, Kyiv hopes this time will be different",
+        "vote": 0
+    }
+]

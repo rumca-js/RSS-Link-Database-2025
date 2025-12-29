@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Autumn Spredemann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T00:54:04.190106+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T00:00:06+00:00",
+        "description": "Experts say market conditions bear a striking resemblance to the \u2018dot com\u2019 era before the crash in 2000, but with a few differences.",
+        "id": 4418929,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/article/how-the-ai-bubble-is-being-masked-within-big-tech-5959966",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/12/24/id5962632-lead-new-1080x720.gif",
+        "title": "How the AI Bubble Is Being Masked Within Big Tech",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/solar-student",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T09:34:25.142556+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T09:30:42+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Does anyone know of an Android RSS reader app which has a similar interface to the old Palabre app? Namely, the use of tabs for categories, which made browsing so much more pleasant and smoother. </p> <p>Aggregator News does it, but development seems to be halted and there&#39;s a few limiting factors for me in the UI.</p> <p>Furthermore, what app do you find is actually fast at syncing 100s of feeds? I am not interested in continually syncing, only when I load the app - for me, the fastest is Capy Reader, others I have tried are quite slow.</p> <p>My ideal reader would have:<br/> - Tabbed interface (swipe to change category)<br/> - Fast syncing 100s of feeds<br/> - Shows thumbnails of images in list<br/> - Shows favicons of websites<br/> - Reading view<br/> - Click on article title to open in browser<br/> - Swipe gestures<br/> - Ability to change to custom font<br/> - OPML import </p> <p>Thanks for your suggestions!</p> </div><!-- SC_ON --> &#32; sub",
+        "id": 4420392,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1pxnbxh/looking_for_an_android_rss_reader_with_tabs_and",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Looking for an Android RSS reader with tabs and more",
+        "vote": 0
+    }
+]

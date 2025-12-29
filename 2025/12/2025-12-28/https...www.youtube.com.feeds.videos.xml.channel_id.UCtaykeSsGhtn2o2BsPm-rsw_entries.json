@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Make Something",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T13:52:01.117293+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T11:15:01+00:00",
+        "description": "My extremely unusual shop has a real purpose. Brought to us by Squarespace. For 10% off your first purchase, go to: http://squarespace.com/makesomething\n\nPatreon members get Fusion 360 files, early and ad-free videos, my custom finish, behind the scenes videos, as well as access to our private Discord: https://www.patreon.com/picciuto\n\nThis workshop breaks every rule, carpeted floors, hidden tools, no exposed ductwork. And it\u2019s all intentional! This isn\u2019t a space designed for maximum efficiency, it\u2019s designed for comfort, creativity, and wanting to be here. In this video, I walk through my shop, talk about why I made these choices, when efficiency actually matters, and how the environment you work in quietly shapes the way you think and create.\n\n\u2605 TOOLS / SUPPLIES (affiliate links) \u2605\nVacuum: https://www.youtube.com/watch?v=Nod36fAVvNs\nDust Collectors (similar): https://amzn.to/42eCZhw\nCyclone: https://amzn.to/4je20lD\nDisc Sander: https://amzn.to/3E2lMvv\nRyobi Belt Sander: https://amzn",
+        "id": 4421441,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GyhQcFsYXO0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 930,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtaykeSsGhtn2o2BsPm-rsw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GyhQcFsYXO0/hqdefault.jpg",
+        "title": "My Shop Breaks Every Rule (and why it works)",
+        "vote": 0
+    }
+]

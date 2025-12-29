@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/AbdelYG",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T12:11:35.367439+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T09:06:40+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1pxmynl/zelda_botw_has_been_ported_to_vr_using_the/\"> <img src=\"https://external-preview.redd.it/U5g4L7hsxVfwMFrBA1M-hvxmS7GYZo8GDUzlg7GZVzI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c783f06d1334223a675c1b03c328049ef5f79506\" alt=\"Zelda BOTW has been ported to VR using the emulated WII U version with CEMU. This opens up a lot of possibilities. I've never seen anyone being able to turn an emulated game into a VR game without a native port or decompilation. this is still running on the emulator with complete VR headset support.\" title=\"Zelda BOTW has been ported to VR using the emulated WII U version with CEMU. This opens up a lot of possibilities. I've never seen anyone being able to turn an emulated game into a VR game without a native port or decompilation. this is still running on the emulator with complete VR headset support.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/",
+        "id": 4420995,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1pxmynl/zelda_botw_has_been_ported_to_vr_using_the",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/U5g4L7hsxVfwMFrBA1M-hvxmS7GYZo8GDUzlg7GZVzI.jpeg?width=320&crop=smart&auto=webp&s=c783f06d1334223a675c1b03c328049ef5f79506",
+        "title": "Zelda BOTW has been ported to VR using the emulated WII U version with CEMU. This opens up a lot of possibilities. I've never seen anyone being able to turn an emulated game into a VR game without a native port or decompilation. this is still running on the emulator with complete VR headset support.",
+        "vote": 0
+    }
+]

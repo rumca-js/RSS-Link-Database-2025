@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-28T19:41:13.664622+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-28T19:39:53+00:00",
+        "description": "<p>Major update to Rogue Amoeba\u2019s essential audio utility for the Mac. I\u2019ve written about <a href=\"https://daringfireball.net/linked/2020/08/09/soundsource-5\">versions 5</a> <a href=\"https://daringfireball.net/linked/2019/04/04/soundsource-4\">and 4</a> previously, and everything I wrote then remains true. SoundSource remains the system-wide audio menu item that ought to be built into MacOS, giving you instant volume control to every output and input device connected to your Mac, and per-application controls for controlling audio input and output. It gives you easy intuitive control over every audio <em>device</em> (input and output), and easy intuitive control over every <em>app</em> from which you play audio. That one seemingly-simple app does both those things is quite the remarkable design achievement. And aside from that usability, SoundSource remains an exemplar of UI design stylistically\u2009\u2014\u2009it remains distinctive and branded, while looking and feeling in every way like a standard",
+        "id": 4423282,
+        "language": "",
+        "link": "https://weblog.rogueamoeba.com/2025/12/04/soundsource-6-is-here",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SoundSource 6",
+        "vote": 0
+    }
+]
