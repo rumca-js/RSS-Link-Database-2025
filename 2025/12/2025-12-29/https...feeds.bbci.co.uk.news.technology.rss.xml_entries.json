@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T10:50:47.146460+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T10:22:44+00:00",
+        "description": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May.",
+        "id": 4426741,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c1lrlm9ydgno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f5/live/f6b281d0-e491-11f0-a06d-4903df3f724c.png",
+        "title": "James Bond game 007 First Light delayed to May 2026",
+        "vote": 0
+    }
+]

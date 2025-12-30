@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T23:51:48.466319+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T23:37:51+00:00",
+        "description": "The MS-CF19 is a 3.5-inch single-board computer designed for fanless embedded systems using Intel Core Ultra Series 1 (Meteor Lake-U) and Series 2 (Arrow Lake-U) processors. It supports DDR5 memory, up to four independent displays, dual Ethernet, and multiple M.2 expansion options in a compact form factor. Processor options include Core Ultra 5 and Core [&#8230;]",
+        "id": 4431769,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/fanless-ms-cf19-3-5-inch-sbc-uses-intel-meteor-lake-u-and-arrow-lake-u",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fanless MS-CF19 3.5-inch SBC Uses Intel Meteor Lake-U and Arrow Lake-U",
+        "vote": 0
+    }
+]

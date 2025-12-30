@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T20:34:19.784468+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T17:31:59+00:00",
+        "description": "NVIDIA just made a $20 BILLION move to stay on top of the AI market\n\nWhile most of us were distracted by the holidays, NVIDIA quietly struck a massive deal with Groq, the startup behind ultra-fast LPUs (Language Processing Units). These chips are designed specifically for text generation, allowing AI models to run up to 10x faster and using 10x less energy than standard GPUs.\n\nBut the twist is that this is NOT technically an acquisition. To sidestep regulatory scrutiny, NVIDIA is calling it a \u201cnon-exclusive licensing agreement\u201d while essentially hiring Groq\u2019s top talent, including founder Jonathan Ross, who built Google\u2019s TPUs that are in intense competition with these new LPUs. \n\nIt's a whole new level of the growing AI web of companies, which I've covered before. \n\nThe whole story is in my latest YouTube video.\n\n#NVIDIA #AI #Groq #AInews",
+        "id": 4430673,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6RAbKg-yUg8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6RAbKg-yUg8/hqdefault.jpg",
+        "title": "Nvidia's $20B Loophole Explained",
+        "vote": 0
+    }
+]

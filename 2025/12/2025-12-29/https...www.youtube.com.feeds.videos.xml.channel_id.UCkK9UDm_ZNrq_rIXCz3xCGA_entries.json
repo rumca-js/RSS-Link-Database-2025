@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T20:15:12.532906+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T19:03:55+00:00",
+        "description": "After receiving an Al generated email, the programming legend (known for his work on Go, Plan 9, UNIX, & UTF-8) says, \"F**k you people. Raping the planet.\"\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4430520,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0mBQlvS8AJQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0mBQlvS8AJQ/hqdefault.jpg",
+        "title": "Rob Pike to AI: \"Just f**k you.  F**k you all.\"",
+        "vote": 0
+    }
+]

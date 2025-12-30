@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T16:33:51.780382+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T16:15:13+00:00",
+        "description": "Game of the Year. 50 developers. $10 million. Clair Obscur: Expedition 33 just proved what a small team can do. But they weren't the only ones who tried. Ex-AAA devs have been striking out on their own for years. Some had legendary pedigrees. Some had hundreds of millions in funding. Some had both. \n\nMost of them failed. This is what 2025 taught us about what it actually takes to win.\n\n0:00 - An Industry in Flux\n0:43 - 2025 Was All About Clair Obscur: Expedition 33!\n3:43 - Telling A Story\n6:02 - Simply Being \"ex-AAA\" Isn't Enough\n7:39 - Unrealised Dreams\n9:21 - Tools Of The Trade\n12:20 - Raise Up The Developers\n\nSources:\nhttps://www.nytimes.com/2025/12/11/arts/clair-obscur-expedition-33-sandfall.html#selection-861.0-864.0\n\nttps://www.nytimes.com/2025/12/11/arts/clair-obscur-expedition-33-sandfall.html#selection-861.0-864.0\n\nhttps://www.expedition33.com/post/thank-you-from-sandfall-interactive\n\nhttps://bellular.games/expedition-33-success-isnt-simple/\n\nhttps://www.ign.com/articles/upda",
+        "id": 4428936,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=y6kMGr3IXqg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y6kMGr3IXqg/hqdefault.jpg",
+        "title": "Expedition 33 Destroyed Every AAA Excuse",
+        "vote": 0
+    }
+]

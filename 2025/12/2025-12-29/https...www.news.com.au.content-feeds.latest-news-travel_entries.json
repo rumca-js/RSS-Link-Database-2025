@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T05:55:30.764381+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T05:55:30+00:00",
+        "description": "The Sydney Opera House will trial a change to the building\u2019s exterior to make it more \u201caccessible for all\u201d, but not everyone is a fan.",
+        "id": 4425534,
+        "language": "en-au",
+        "link": "https://www.news.com.au/national/nsw-act/news/handrails-to-be-trialled-outside-sydney-opera-house/news-story/913a54f1aeef65f5030aaac97099b6f6?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/17b042b9f93304eb80f503412625795d?width=320",
+        "title": "Major change to Sydney icon",
+        "vote": 0
+    }
+]

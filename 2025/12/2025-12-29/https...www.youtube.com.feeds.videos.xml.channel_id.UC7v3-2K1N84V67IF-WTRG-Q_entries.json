@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy Jahns",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T15:12:38.619001+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T14:01:34+00:00",
+        "description": "As always, for every force in the world, there is an opposite. With the Top 10 BEST movies listed, here is my list of the TOP 10 WORST MOVIES of 2025!\n\n#Top10 #Top10Worst2025 #Top10WorstMovies2025",
+        "id": 4428409,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qivPQwra3UA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 164,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qivPQwra3UA/hqdefault.jpg",
+        "title": "Top 10 WORST Movies 2025",
+        "vote": 0
+    }
+]

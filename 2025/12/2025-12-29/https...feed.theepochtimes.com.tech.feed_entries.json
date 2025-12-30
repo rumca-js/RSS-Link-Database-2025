@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Naveen Athrappully",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T15:00:36.040352+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T14:47:54+00:00",
+        "description": "The role, based in San Francisco, requires the person to build capability evaluations, establish threat models, and build mitigations.",
+        "id": 4428310,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/openai-looking-to-hire-head-of-preparedness-to-tackle-ai-dangers-5963728",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/09/09/id5912477-GettyImages-2218344194-1080x720.jpg",
+        "title": "OpenAI Looking to Hire \u2018Head of Preparedness\u2019 to Tackle AI Dangers",
+        "vote": 0
+    }
+]

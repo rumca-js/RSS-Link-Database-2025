@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T17:23:46.030605+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T16:30:18+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/ZYC6_CJMu34\" width=\"480\" alt=\"thumbnail\" title=\"The One Thing I Hate About Linux Flatpaks\" /></p>The one thing that I really hate about Linux flatpaks is the way that they're named, but why are they like this, what else uses this system and how do you deal with it.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter<br />\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon<br />\ud83d\udda5\ufe0f GitHub: https://brodie",
+        "id": 4429451,
+        "language": "en",
+        "link": "https://odysee.com/the-one-thing-i-hate-about-linux:f3f99f1369c0352c1bddd20a64ed9f9399b40ea8",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/ZYC6_CJMu34",
+        "title": "The One Thing I Hate About Linux Flatpaks",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T20:11:15.330271+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T18:41:51+00:00",
+        "description": "In this video, I break down what Vibe Coding is for beginners, how it works, and how you can build real applications using AI with tools like Base44.\n\ud83d\udc49 Start building your app with Base44:  https://base44.kevinstratvert.com\n\ud83d\udca1 Use the code Kevin10 to get extra credits when signing up!\n\nVibe Coding is changing how people build apps \u2014 and you don\u2019t need to be a traditional programmer to get started. If you\u2019ve ever wanted to create software, dashboards, or internal tools without writing thousands of lines of code, this video is for you.\n\nIn this video, you\u2019ll learn:\n- What Vibe Coding actually means\n- How AI translates your ideas into working app logic\n- Why Vibe Coding is different from traditional coding and no-code tools\n- How beginners can build apps using Base44\n- Real examples of AI handling workflows, logic, and UI updates\n\nThis walkthrough is perfect for beginners, non-developers, entrepreneurs, business owners, and anyone curious about how AI is changing software development.\n\nHo",
+        "id": 4430507,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fM_nF84BvOs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fM_nF84BvOs/hqdefault.jpg",
+        "title": "What Is Vibe Coding? The New Way People Are Building Apps With AI",
+        "vote": 0
+    }
+]

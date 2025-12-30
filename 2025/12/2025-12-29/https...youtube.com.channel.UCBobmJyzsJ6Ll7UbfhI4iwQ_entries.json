@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T15:15:30.687262+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T14:45:11+00:00",
+        "description": "Watch this video to find out how MetaHumans can now be fully authored directly within Unreal Engine, unlocking a more streamlined and efficient creative process.\n\nAs of UE 5.6, MetaHuman Creator is embedded in Unreal Engine and offers the ability to create a near infinite range of plausible body shapes, just as you can for faces, while a new Unreal Engine Outfit asset makes it possible to generate complete outfits for MetaHumans that will automatically resize to fit them.\n\nMetaHuman\u2019s database of real-world scan data for faces as well as bodies has been significantly expanded, enabling you to create a more varied range of higher-fidelity characters. In addition, MetaHuman Animator now enables you to capture actors\u2019 performances in real time on most webcams and many smartphones, as well as from audio. \n\nThe expanded ecosystem also includes new plugins for DCCs and integration with the Fab marketplace.\n\n#MetaHuman, #DigitalHumans, #UnrealEngine, #MetaHumanCreator, #MetaHumanAnimator, #F",
+        "id": 4428421,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=doax4FU1-t0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/doax4FU1-t0/hqdefault.jpg",
+        "title": "A Look at MetaHuman in Unreal Engine",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T10:03:19.207885+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T10:03:00+00:00",
+        "description": "On poison and high voltage wires, the label clearly informs us that this can kill us, right away. For obvious reasons, these are important labels, and generally quite effective. On cigarettes, it&#8217;s clear that if you smoke long enough, you&#8217;re going to die, and probably not pleasantly. The warning labels haven&#8217;t been nearly as effective [&#8230;]",
+        "id": 4426459,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/12/warning-labels",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/seths.blog/wp-content/uploads/2025/12/sharp-edges-1024x683.png?resize=1024%2C683&ssl=1",
+        "title": "Warning labels",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3DPrinting.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T14:14:46.813771+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T12:50:47+00:00",
+        "description": "<div style=\"display: flex;\"><div style=\"width: calc(100% - 75px);padding-right:16px;\"><h2><a href=\"https://3dprinting.com/news/tu-e-partners-with-motion-imager-on-volumetric-3d-printing-for-complex-manufacturing/\" style=\"color: #1a0dab;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-weight: normal;mso-line-height-rule: exactly;font-size:18px;text-decoration:none;margin-bottom:8px;\" target=\"_blank\">TU/e Partners with Motion Imager on Volumetric 3D Printing for Complex Manufacturing</a></h2><span style=\"color:#777;font-size:14px;margin-top: auto;\">December 29</span></div><div style=\"max-width:75px;\"><img width=\"500\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/86387984-500x500.jpg\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" alt=\"TU/e Partners with Motion Imager on Volumetric 3D Printing for Complex Manufacturing\" style=\"max-width:75px;border-radius:10px;overflow: hidden;\" decoding=\"async\" fetc",
+        "id": 4427951,
+        "language": "en-US",
+        "link": "https://3dprinting.com/news/tu-e-partners-with-motion-imager-on-volumetric-3d-printing-for-complex-manufacturing",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://3dprinting.com/wp-content/uploads/86387984-500x500.jpg",
+        "title": "TU/e Partners with Motion Imager on Volumetric 3D Printing for Complex Manufacturing - 3DPrinting.com",
+        "vote": 0
+    }
+]

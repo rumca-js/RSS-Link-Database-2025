@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T17:54:46.125921+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T17:00:49+00:00",
+        "description": "I thought I knew how much engineering went into a smart speaker\u2014Amazon proved me wrong.\nCheck out the new Echo Studio at Amazon - https://snazzy.fm/na\nCheck out the new Echo Dot Max at Amazon - https://snazzy.fm/da\n\n*Get my new merch at Copland Supply:* https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nAmazon's Echo Dot Max and Echo Studio smart speakers are engineered at Amazon Audio Labs in Bellevue, where acoustic engineers, thermal specialists, and industrial designers battle over every cubic millimeter of internal volume. Custom AZ-3 and AZ-3 Pro silicon enables edge AI processing for wake word detection and noise reduction, while OmniSense technology uses Wi-Fi radar, ultrasonic sensors, and accelerometers for presence detection and smart home automation. ",
+        "id": 4429564,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=U9gjnasLHxk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U9gjnasLHxk/hqdefault.jpg",
+        "title": "I Toured Amazon's Secret Speaker Lab",
+        "vote": 0
+    }
+]

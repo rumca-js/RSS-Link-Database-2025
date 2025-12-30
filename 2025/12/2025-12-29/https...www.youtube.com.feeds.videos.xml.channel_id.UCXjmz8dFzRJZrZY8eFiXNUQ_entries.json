@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T18:57:09.226211+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T18:00:06+00:00",
+        "description": "Nostalgia for the 90s is at an all-time high. Fashion trends are looping backward, TV shows are being rebooted and remade nonstop, and pop culture as a whole seems desperate to relive a bygone era. But there\u2019s one place where the 90s don\u2019t seem to be coming back: the movies.\n\nIn the 1990s, studios were willing to take real risks. Films with wildly different tones and budgets, from Forrest Gump to Pulp Fiction to Billy Madison, all had a legitimate shot at finding their audience in theaters. Mid-budget dramas, studio comedies, and genre films weren\u2019t just allowed to exist...they were the backbone of Hollywood.\n\nToday, those middle-ground movies have nearly vanished. Studio comedies are rare, adult dramas struggle to get greenlit, and genre films are routinely sacrificed in favor of the next superhero sequel, franchise extension, or hot IP reboot. The cinematic landscape has become narrower, safer, and far more predictable.\n\nSo will Hollywood ever learn from the past and course-correct?",
+        "id": 4430077,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5AwDHUmpWf4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5AwDHUmpWf4/hqdefault.jpg",
+        "title": "What Made 90s Movies Feel Different?",
+        "vote": 0
+    }
+]

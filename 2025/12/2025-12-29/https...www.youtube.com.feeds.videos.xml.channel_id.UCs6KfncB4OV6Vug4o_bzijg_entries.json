@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T17:11:54.482345+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T17:00:28+00:00",
+        "description": "Brave's ad blocker (Brave Shields) works differently than other Chromium-based blockers. In this video, Henry interviews Anton Lazarev from Brave to understand how they bypass extension limitations by completely sidestepping Manifest V3 restrictions. We also got clarity on Brave Shields vs uBlock Origin, their approach to privacy, and more!\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/dr7XSnbyv7w\nhttps://youtu.be/2fvngjQUrRU\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Brave Browser: https://brave.com\n\u2022 Brave Search: https://search.brave.com\n\u2022 Adblock Rust (Brave's engine): https://github.com/brave/adblock-rust\n\n\ud83e\udde1 SUPPORT TECHLORE\nSupport our mission to defend digital rights for everyone:\nhttps://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join\n\u2022 All Our Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Homepage & Newsletter: https://techlore.tech\n\u2022 Go Incognito Course: https://techlore.tech/go-incognito-course/\n\u2022 Privacy Tools: https://privacytools.techlore.tech/\n\u2022 VPN Comparison Chart: ",
+        "id": 4429332,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KKJXGM48p00",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KKJXGM48p00/hqdefault.jpg",
+        "title": "What Makes Brave's Ad Blocker Different (Staff Engineer Interview)",
+        "vote": 0
+    }
+]

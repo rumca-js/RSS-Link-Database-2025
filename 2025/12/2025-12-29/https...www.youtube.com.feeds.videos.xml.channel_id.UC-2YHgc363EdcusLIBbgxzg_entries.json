@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T17:22:28.372429+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T16:19:48+00:00",
+        "description": "Go to https://ground.news/joescott to get 40% off unlimited access to the news tool I actually trust. It helps you cut through the noise and understand how stories are being reported across the spectrum.\nToday we\u2019ve got the last Lightning Round video of 2025, where I talk about what\u2019s on my science wish list for 2026, whether Raiders of the Lost Ark makes sense, the innovations made possible by AlphaFold, and even touch on reincarnation. Enjoy!\n\nWant to support the channel? Here's how:\n\nPatreon: http://www.patreon.com/answerswithjoe\nChannel Memberships: https://www.youtube.com/channel/UC-2YHgc363EdcusLIBbgxzg/join\nT-Shirts & Merch: https://laughsmarter.com\n\nCheck out my 2nd channel, Joe Scott TMI:\nhttps://www.youtube.com/channel/UCqi721JsXlf0wq3Z_cNA_Ew\n\nAnd my podcast channel, Conversations With Joe:\nhttps://www.youtube.com/channel/UCJzc7TiJ2nnuyJkUpOZ8RKA\n\nYou can listen to my podcast, Conversations With Joe on Spotify, Apple Podcasts, Google Podcasts, or wherever you get your podca",
+        "id": 4429442,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=b0-HCUZgLlc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b0-HCUZgLlc/hqdefault.jpg",
+        "title": "Science I\u2019m Looking Forward To In 2026 | Lightning Round",
+        "vote": 0
+    }
+]

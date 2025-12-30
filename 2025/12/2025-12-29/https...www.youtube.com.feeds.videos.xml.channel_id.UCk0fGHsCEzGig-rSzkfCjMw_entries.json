@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Engineering Mindset",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T19:02:41.536025+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T18:30:47+00:00",
+        "description": "Learn how to extract useful energy from dead batteries,.\nCheck out PCBWAY\u27a1\ufe0f https://www.pcbway.com/ for PCB's, 3D printing and CNC at expectational value and design PCB's with Altium \u27a1\ufe0f http://altium.com/yt/engineeringmindset\nIn this video, we explain how a simple Joule Thief circuit boosts low voltage using inductors, transistors, and Faraday\u2019s law. Learn how it works, why it works, and how to build one yourself with a DIY kit or custom PCB. Learn how transistors, inductors, toroid transformers, LED and resistors work.\n\n\ud83d\udee0\ufe0f Build the kit yourself \ud83d\udee0\ufe0f\nWant to build the kit at home, click here:\ud83d\udc49 https://tinyurl.com/Joule-Thief-Kit\nWant to order just the PCB, click here:\ud83d\udc49 https://tinyurl.com/Get-PCB-only\n\n\ud83c\udf81 Design, review, and manage PCBs in one connected environment with Altium Designer.\nGet a 30-day free trial here \u27a1\ufe0f http://altium.com/yt/engineeringmindset\n\n\u26a1\ud83d\udee0\ufe0f TOOLS YOU NEED \ud83d\udee0\ufe0f\u26a1\n*******************************\nGet this electronics book \u27a1\ufe0f https://amzn.to/41cCJPk\nProfessional Multimete",
+        "id": 4430083,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Sh9aZ2uemk0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 961,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sh9aZ2uemk0/hqdefault.jpg",
+        "title": "Dead Battery Still Works? Here's How",
+        "vote": 0
+    }
+]

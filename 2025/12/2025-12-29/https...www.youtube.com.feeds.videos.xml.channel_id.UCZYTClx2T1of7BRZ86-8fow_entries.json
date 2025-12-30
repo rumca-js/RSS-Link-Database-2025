@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T19:02:29.336325+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T18:00:45+00:00",
+        "description": "When you think of animals of Antarctica, there's nothing more classic than a penguin. But new research suggests that these lovable waddling water birds didn't get their start on the icy continent. Turns out, they're from Australia?\n\nHosted by: Savannah Geary (they/them)\n\n---------- \nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Cye Stoner, Jp Lynch, Bethany Matthews, Chris Curry, J.V. Rosenbalm, Alan Wong, Toyas Dhake, Reed Spilmann, Garrett Galloway, Friso, Lyndsay Brown, Jeremy Mattern, Jaap Westera, Matt Curls, Eric Jensen, Chris Mackey, Adam Brainard, Piya Shedden, Steve Gums, Alex Hackman, Kevin Knupp, Chris Peters, Kevin Bealer, Joseph Ruf, Jason A Sas",
+        "id": 4430081,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=epuEQw5tMm8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/epuEQw5tMm8/hqdefault.jpg",
+        "title": "All Penguins Are From Australia",
+        "vote": 0
+    }
+]

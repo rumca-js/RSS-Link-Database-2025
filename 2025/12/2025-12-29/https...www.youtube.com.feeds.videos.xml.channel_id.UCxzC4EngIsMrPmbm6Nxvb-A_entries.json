@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T21:34:03.742535+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T21:00:47+00:00",
+        "description": "Take your personal data back with Incogni! Use code MANLEY at the link\nbelow and get 60% off an annual plan: https://incogni.com/manley\n\nWhen spacecraft are moving around close to each other it's called 'Proximity Operations', the same laws of physics apply, but we move the reference frame to the target spacecraft which means we see what looks like unexpected motion with spacecraft following ellipses and other paths not seen on earth. But these simple motions can be modelled by equations and easily broken down into simple harmonic motion.\n\nIf you want to play around with my little simulator it's here:\nhttps://illectro.github.io/prox_ops.html\nIt implements the Clohessy-Wiltshire equations for circular orbits: https://en.wikipedia.org/wiki/Clohessy%E2%80%93Wiltshire_equations\n\nSome of these visualizations were made using Universe Sandbox:\nhttps://store.steampowered.com/app/230290/Universe_Sandbox/\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server",
+        "id": 4431017,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HcJMT1rW8Lg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HcJMT1rW8Lg/hqdefault.jpg",
+        "title": "How Real Satellites Dogfight - Proximity Operations In Space Explained",
+        "vote": 0
+    }
+]

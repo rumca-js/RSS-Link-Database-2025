@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-29T19:00:39.945814+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-29T16:29:47+00:00",
+        "description": "\u261f\u261f Awesome T-Shirts! Sponsors! Books! \u261f\u261f\n\nHudson River Trading engineers use modern C++ to build performance-critical systems for real-time trading. Learn more about open software engineering roles at HRT: http://www.hudsonrivertrading.com/cppweekly\n\nEpisode details: https://github.com/lefticus/cpp_weekly/issues/462\n\nT-SHIRTS AVAILABLE!\n\n\u25ba The best C++ T-Shirts anywhere! https://jason-turner-shop.fourthwall.com/\n\n\nWANT MORE JASON?\n\n\u25ba My Training Classes: http://emptycrate.com/training.html\n\u25ba Follow me on twitter: https://twitter.com/lefticus\n\n\nSUPPORT THE CHANNEL\n\n\u25ba Patreon: https://www.patreon.com/lefticus \n\u25ba Github Sponsors: https://github.com/sponsors/lefticus\n\u25ba Paypal Donation: https://www.paypal.com/donate/?hosted_button_id=PQ4A2V6ZZFQEU\n\n\nGET INVOLVED\n\n\u25ba Video Idea List: https://github.com/lefticus/cpp_weekly/issues\n\n\nJASON'S BOOKS\n\n\u25ba C++23 Best Practices\n  Amazon Paperback: https://amzn.to/47MEAhj\n  Leanpub Ebook: https://leanpub.com/cpp23_best_practices/\n\n\u25ba C++ Best Practices\n",
+        "id": 4430080,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ki9omnMeYS8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ki9omnMeYS8/hqdefault.jpg",
+        "title": "C++ Weekly - Ep 513 - How Many Ways Can You End a Program?",
+        "vote": 0
+    }
+]
