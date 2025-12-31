@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T10:36:15.569239+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T10:03:00+00:00",
+        "description": "Perhaps this has happened to you: You&#8217;re at the reference desk of the library, with the answer to any question available&#8211;and you can&#8217;t think of anything to ask. And there&#8217;s the vegetable blindness that occurs at a really good farmer&#8217;s market. After a few stalls, it&#8217;s hard to imagine what to cook. Shortly after high-speed [&#8230;]",
+        "id": 4434299,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/12/library-fatigue",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Library fatigue",
+        "vote": 0
+    }
+]

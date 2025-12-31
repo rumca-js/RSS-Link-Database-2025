@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T18:29:30.052920+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T17:18:45+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />Coroutines are powerful but require some boilerplate code. Quasar Chunawala explains what you need to implement to get coroutines working.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/33/190/chunawala/\">Coroutines &ndash; A Deep Dive</a></h3>\n\t<p>\n\t\tby Quasar Chunawala</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThe following code is the simplest implementation of a coroutine:</p>\n\t<pre>\n  #include &lt;coroutine&gt;&#10;  void coro_func(){&#10;    co_return;&#10;  }&#10;  int main(){&#10;    coro_func();&#10;  }</pre>\n\t<p>\n\t\tOur first coroutine will just return nothing. It will not do anything else. Sadly, the preceding code is too simple for a functional coroutine and it will not compile. When compiling with gcc 15.2, we get the error shown in Figure 1.</p>\n\t<table style=\"width:945px;\">\n\t\t<tbody>\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t\t<p",
+        "id": 4437583,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2025/12/coroutines-a-deep-dive-quasar-chunawala",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/logo.png",
+        "title": "Coroutines \u2013 A Deep Dive -- Quasar Chunawala",
+        "vote": 0
+    }
+]

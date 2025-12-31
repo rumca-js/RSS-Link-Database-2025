@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T11:42:36.726486+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T11:24:49+00:00",
+        "description": "Every innovation #Huawei builds carries a responsibility. And #TECHcares is our commitment to care through technology.\n\n\ud835\udde7alent Development: empowering people with digital skills.\n\ud835\uddd8nvironment Protection: protecting nature with technology.\n\ud835\uddd6onnecting the Unconnected: bringing connectivity to those once left out.\n\ud835\udddbigh-reliability Networks: safeguarding communities in critical moments.\n\u00a0\nBecause technology should care. For people. For communities. For nature. For the future we share. #BetterTogether",
+        "id": 4434696,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UGcimr2YBcI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UGcimr2YBcI/hqdefault.jpg",
+        "title": "TECH Cares: Innovation with Responsibility at Heart",
+        "vote": 0
+    }
+]

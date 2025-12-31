@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T14:43:18.656144+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T14:00:16+00:00",
+        "description": "The 'cut' command is used to cut sections from lines of text.\n\n- Print the third character (-c) on each line:\n  cut -c 3 /path/to/file\n  command | cut -c 3\n\n- Print characters 5-10 of each line of a file:\n  cut -c 5-10 path/to/file\n\n- Split each line using a delimiter into fields, and print fields (-f) 2 and 5:\n  cut -f 2,5 path/to/file\n  NOTE The default delimiter is the TAB.\n\n- Split each line using a specified delimiter (-d) and print field 4 and all fields after:\n  cut -d \":\" -f 4- /etc/passwd\n  NOTE The /etc/passwd file uses colons to separate fields of information.\n\n- Split each line using a specified delimiter (-d) and print field 4 and all fields previous:\n  cut -d \":\" -f -4 /etc/passwd\n\n- Do not print lines that do not contain the delimiter (-s):\n  cut -d \" \" -f -4 -s .bashrc\n\nREFERENCED:\n\u25ba https://gitlab.com/dwt1/vidman\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW\n\ud83d\udecd\ufe0f Amaz",
+        "id": 4435919,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9hoTL0GP2uQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9hoTL0GP2uQ/hqdefault.jpg",
+        "title": "'cut' - cut sections from lines of text - Video Man Pages",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcus Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T20:32:39.841271+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T20:00:17+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2025/12/wg221.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"GNU Wget 2.2.1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/12/wg221.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/12/wg221.webp?resize=445%2C250&amp;ssl=1 445w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/12/wg221.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p>GNU Wget 2.2.1 open-source program for retrieving content from web servers is now available for download with various improvements and fixes. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/gnu-wget-2-2-1-released-with-new-options-improvements-and-bug-fixes\">GNU Wget 2.2.1 Released with New Options, Improvements, and Bug Fixes</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do ",
+        "id": 4438449,
+        "language": "en-US",
+        "link": "https://9to5linux.com/gnu-wget-2-2-1-released-with-new-options-improvements-and-bug-fixes",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2025/12/wg221.webp",
+        "title": "GNU Wget 2.2.1 Released with New Options, Improvements, and Bug Fixes",
+        "vote": 0
+    }
+]

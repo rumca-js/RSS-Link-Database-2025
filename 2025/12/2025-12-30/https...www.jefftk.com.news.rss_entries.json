@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T20:05:52.344081+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T08:00:00+00:00",
+        "description": "<p><span>\n\nWhen you sell stock [1] you pay capital gains tax, but there's no tax\nif you donate the stock directly.  Under a bunch of assumptions,\nsomeone donating $10k could likely increase their donations by ~$1k by\ndonating stock.  This applies to all 501(c) organizations, such as\nregular 501(c)3 non-profits, but also 501(c)4s such as advocacy\ngroups.\n\n</span>\n\n<p>\n\nIn the US, when something becomes more valuable and you sell it you\nneed to pay tax proportional to the gains. [2] This gets complicated\nbased on how much other income you have (which determines your tax\nbracket for marginal income), how long you've held it (which\ndetermines whether this is long-term vs short-term capital gains), and\nwhere you live (many states and some municipalities add additional\ntax).  Some example cases:\n\n</p>\n\n<p>\n\n</p>\n\n<ul>\n\n<li><p>A single person in Boston with other income of $100k who had\n$10k in long-term capital gains would pay $2,000 (20%).  This is 15%\nin federal tax and 5% in MA tax.\n\n</p",
+        "id": 4438223,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/dont-sell-stock-to-donate",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Don't Sell Stock to Donate",
+        "vote": 0
+    }
+]

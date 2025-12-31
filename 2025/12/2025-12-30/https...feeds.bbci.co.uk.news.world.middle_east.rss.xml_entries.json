@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T22:32:45.077574+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T22:21:52+00:00",
+        "description": "The move was criticised by foreign ministers from from 10 countries including the UK, who said the new rules were \"restrictive\" and \"unacceptable\".",
+        "id": 4439206,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c1evp7weyv2o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b80e/live/db212540-e5b1-11f0-96a5-ebf854dd55cb.jpg",
+        "title": "Israel to bar 37 aid groups from working in Gaza",
+        "vote": 0
+    }
+]

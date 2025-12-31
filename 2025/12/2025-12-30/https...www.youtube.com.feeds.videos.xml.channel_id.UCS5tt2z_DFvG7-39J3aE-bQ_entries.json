@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Life of Boris",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T18:40:23.047162+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T18:00:04+00:00",
+        "description": "Cooking channel: @LifeofBorisCooking \nBoris says goodbye to 2025.\nStay cheeki breeki!\nMusic:\nHARDKOV - GAMMA RAGE\nhttps://open.spotify.com/track/6FYEYSTAFFfZHv32yCJStn?si=3c36bc882187402b\n\n0:00 intro\n1:38 inspirational speech\n4:16 new year resolution\n4:42 2025 achievements\n7:57 new focus\n9:45 conclusion\n\n\u2764\ufe0f Send me a dollar on Patreon: https://patreon.com/lifeofboris\n\ud83d\udcd6 Buy my Cookbook: https://www.amazon.com/dp/B0DDHRC5Y4\n\ud83d\udcd6 Buy my storybook: https://www.amazon.com/dp/B0D9QTB6BS\n\n#inspirational",
+        "id": 4437632,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1HJWHWGEY2w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 810,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS5tt2z_DFvG7-39J3aE-bQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1HJWHWGEY2w/hqdefault.jpg",
+        "title": "Goodbye to 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T17:53:22.051028+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T17:00:38+00:00",
+        "description": "You've probably been using Peter Lowe's blocklist without even knowing it\u2014it's integrated into AdGuard, NextDNS, uBlock Origin, and many other privacy tools. Henry talked with Peter at AFDS 2025 to learn what transformed him from someone who just hated ads into a \"closet privacy evangelist.\"\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/dr7XSnbyv7w\nhttps://youtu.be/2fvngjQUrRU\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Peter Lowe's Ad/Tracker Server List: https://pgl.yoyo.org/adservers/\n\u2022 EasyList: https://easylist.to/\n\u2022 uBlock Origin: https://ublockorigin.com/\n\n\ud83e\udde1 SUPPORT TECHLORE\nSupport our mission to defend digital rights for everyone:\nhttps://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join\n\u2022 All Our Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Homepage & Newsletter: https://techlore.tech\n\u2022 Go Incognito Course: https://techlore.tech/go-incognito-course/\n\u2022 Privacy Tools: https://privacytools.techlore.tech/\n\u2022 VPN Comparison Chart: https://vpn.techlore.tech/\n\n\u23f1\ufe0f TIMESTAMPS\n00:00 IN",
+        "id": 4437303,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=MREkh8oMCPs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MREkh8oMCPs/hqdefault.jpg",
+        "title": "How One Person's List Blocks Ads for Millions (Peter Lowe Interview)",
+        "vote": 0
+    }
+]

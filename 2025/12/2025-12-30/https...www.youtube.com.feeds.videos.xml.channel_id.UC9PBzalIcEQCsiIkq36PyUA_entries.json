@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T18:02:11.999447+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T17:08:29+00:00",
+        "description": "Go to https://expressvpn.com/FOUNDRY and find out how you can get four extra months thanks to our sponsor, ExpressVPN!\n\nPatch 1.03 has arrived from Persona 3 Reload for Switch 2 and it's a big, big improvement overall. A 60fps performance mode has now been added to the docked mode with only small dips from the target. Meanwhile, our key gripe - poor, inconsistent frame-pacing in both docked and handheld modes - has been addressed. The very poor input lag, though? Alas, there's no change there.\n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n\n00:00 Overview \n01:46 Issue 1: Poor Frame Pacing\n02:49 Issue 2: Image Quality\n05:43 Issue 3: No Performance Mode \n08:59 Issue 4: Excessive Input Lag \n11:19 Concluding thoughts",
+        "id": 4437377,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RbakVeQAajE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RbakVeQAajE/hqdefault.jpg",
+        "title": "Persona 3 Reload Switch 2's 60FPS Upgrade Tested + Frame Pacing Fixed!",
+        "vote": 0
+    }
+]

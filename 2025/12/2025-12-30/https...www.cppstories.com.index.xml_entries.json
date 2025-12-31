@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T21:37:42.150485+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T00:00:00+00:00",
+        "description": "<p>This article collects small, self-contained, and practical examples for working with <code>std::chrono</code> calendar types.</p>\n<p>The previous blog post - see <a href=\"https://www.cppstories.com/2025/chrono-calendar-types/\">Exploring C++20 std::chrono - Calendar Types - C++ Stories</a> - focused on the building blocks: calendar types, operators, and arithmetic rules. In this post, we&rsquo;ll focus on practical examples like:</p>\n<ul>\n<li>What\u2019s the last business day of the month?</li>\n<li>When is the third Friday in June?</li>\n<li>How many days since the start of the year?</li>\n<li>What happens when I add a month to January 31?</li>\n<li>And a few more</li>\n</ul>\n<p>Let&rsquo;s start.</p>\n<h2 id=\"1-which-day-of-the-year-is-that\">\n1. Which day of the year is that? \n  \n<a class=\"hash-link\" href=\"#1-which-day-of-the-year-is-that\" aria-hidden=\"true\">\n<svg class=\"fill-current o-60 hover-accent-color-light\" height=\"24\" viewBox=\"0 0 24 24\" width=\"22\" xmlns=\"http://www.w3.org/2000/svg\" ",
+        "id": 4438873,
+        "language": "en-us",
+        "link": "https://www.cppstories.com/2025/chrono-calendar-examples",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 47,
+        "source_url": "https://www.cppstories.com/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "7 Practical std::chrono Calendar Examples (C++20)",
+        "vote": 0
+    }
+]

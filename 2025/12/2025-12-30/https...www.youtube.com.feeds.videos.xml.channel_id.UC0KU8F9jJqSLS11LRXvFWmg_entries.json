@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ubisoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T17:21:42.561583+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T17:01:25+00:00",
+        "description": "Stars on the streets. Power under your hands. \u2728\nTake the lead on the Summit Contest leaderboard and claim the Mercedes-AMG ONE Motorsport Star Pattern, your first thrill of 2026 \ud83d\udd25",
+        "id": 4437012,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Ylh-FJcNQk8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 763,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0KU8F9jJqSLS11LRXvFWmg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ylh-FJcNQk8/hqdefault.jpg",
+        "title": "Midnight Millionaire's week",
+        "vote": 0
+    }
+]

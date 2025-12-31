@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-30T08:29:55.097927+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-30T00:53:34+00:00",
+        "description": "The former far-right leader receives second treatment in three days for chronic hiccups.",
+        "id": 4433770,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c4g4g0y4m1do",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d2/live/58142560-e513-11f0-a8dc-93c15fe68710.jpg",
+        "title": "Brazil's Bolsonaro undergoes second medical procedure for hiccups",
+        "vote": 0
+    }
+]
