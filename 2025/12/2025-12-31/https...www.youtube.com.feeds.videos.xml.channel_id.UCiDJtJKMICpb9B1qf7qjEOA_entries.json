@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Savage\u2019s Tested",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T16:06:46.914198+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T15:00:01+00:00",
+        "description": "To wrap up 2025, Adam shares his favorite music he listened to while building, podcasts, YouTube channels, movies, books, and shows he watched this year. Plus, some bonus product recommendations that didn't make his previous Favorite Things video!\n\nMusic\nRadiohead - OK Computer: https://amzn.to/4snPe8j\nThe Killers: https://amzn.to/4slq8XG\nDavid Bowie: https://amzn.to/49rathT\nTalking Heads: https://amzn.to/49wtgs8\nThe Girls soundtrack: https://amzn.to/3N1UJJq\nPodcasts\nSong Exploder: https://songexploder.net/\nGoing Rogue: https://www.patreon.com/GoingRoguePodcast\nCriminal: https://thisiscriminal.com/\nOlogies: https://www.alieward.com/ologies\nIf Books Could Kill: https://www.ifbookspod.com/\nYou're Wrong About: https://yourewrongabout.com/\nYouTube Channels\nCinema Tyler: https://www.youtube.com/channel/UC7GV-3hrA9kDKrren0QMKMg\nCinemaStix: https://www.youtube.com/@UCzjbia0NqUsSL1_-loJihMg \nWorks by Design: https://www.youtube.com/@UC0G7e3uCtTyKQy2vZbRaKxg \nInheritance Machining: https://www",
+        "id": 4444015,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=--Jr-Jwt3mQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 715,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/--Jr-Jwt3mQ/hqdefault.jpg",
+        "title": "Adam Savage's Favorite YouTubers of 2025!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Drew Gooden",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T20:24:05.238583+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T19:49:42+00:00",
+        "description": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Checking and Savings: https://sofi.com/Drew\n\n00:00 - streaming rant\n03:50 - stranger things 5\n12:02 - christmas slop\n18:39 - plur1bus\n\nmerch:\r\nhttps://www.drewgoodenshop.com/\r\n\r\nfollow me:\r\ninstagram - https://www.instagram.com/drewisgooden",
+        "id": 4445817,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=GPK_Ej5FR54",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 97,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GPK_Ej5FR54/hqdefault.jpg",
+        "title": "Watching whatever my TV tells me to because I don't care anymore",
+        "vote": 0
+    }
+]

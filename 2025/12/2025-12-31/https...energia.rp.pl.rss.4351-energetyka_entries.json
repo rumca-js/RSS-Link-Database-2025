@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T13:05:55.376673+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T13:05:54+00:00",
+        "description": "Najwi\u0119kszy od 2020 r. spadek cen ropy w ko\u0144cz\u0105cym si\u0119 roku 2025 ma swoje konkretne przyczyny. To narastaj\u0105ce obawy \u015bwiata o nadpoda\u017c ropy w czasach naznaczonych wojnami, wy\u017cszymi c\u0142ami, rosn\u0105cym wydobyciem OPEC+ oraz sankcjami wobec Rosji, Iranu i Wenezueli.",
+        "id": 4442850,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ropa/art43580491-pandemia-wrocila-na-rynek-ropy-surowiec-najtanszy-od-5-lat-i-jeszcze-potanieje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pandemia wr\u00f3ci\u0142a na rynek ropy. Surowiec najta\u0144szy od 5 lat i jeszcze potanieje",
+        "vote": 0
+    }
+]

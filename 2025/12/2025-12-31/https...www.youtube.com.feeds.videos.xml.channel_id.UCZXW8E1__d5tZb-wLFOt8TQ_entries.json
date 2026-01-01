@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bog",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T14:08:38.028805+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T12:51:21+00:00",
+        "description": "\ud83e\uddea Bog's YouTuber Academy:\nhttps://thaomaoh.com/community\n\n\ud83d\udfea Wallpaper:\nhttps://store.thaomaoh.com/b/reverie\n\nTINGS I USE:\n\ud83c\udf93 Platform for learning to code - https://www.boot.dev/?promo=BOGXD\n\ud83d\uddb1\ufe0f - My Mouse - https://amzn.to/4fZZQCT\n\u2328\ufe0f - My Keyboard - https://amzn.to/41qe9gc\n\ud83d\udda5\ufe0f - My Insane Monitor - https://amzn.to/4h3dPJk\n\ud83d\udd12 - VPN I'm using rn - https://go.getproton.me/SH1W4\n\ud83c\udf99\ufe0f - My Microphone - https://amzn.to/3VW1UnU\n\nSome of the links above are affiliate links that I get a kickback from.",
+        "id": 4443207,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iJBdf95FMDA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 923,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZXW8E1__d5tZb-wLFOt8TQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iJBdf95FMDA/hqdefault.jpg",
+        "title": "Exploring other coupon extensions",
+        "vote": 0
+    }
+]

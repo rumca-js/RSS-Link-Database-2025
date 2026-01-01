@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T16:55:32.246047+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T16:30:17+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/NKPMDddHbSQ\" width=\"480\" alt=\"thumbnail\" title=\"Phoenix: A New Linux X11 Server For 2026!?!\" /></p>There has been quite a bit of movement in the X11 space and one such movement is the creation of a new X11 server going by the name Phoenix and written in the Zig language. It's not trying to just be Xorg, it wants to be a modern server and learn from Wayland<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Phoenix Server: git.dec05eba.com/phoenix/about/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<b",
+        "id": 4444439,
+        "language": "en",
+        "link": "https://odysee.com/phoenix-a-new-linux-x11-server-for-2026!:231512ebb6c4e504bf92f96d6835713539ff7f1a",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/NKPMDddHbSQ",
+        "title": "Phoenix: A New Linux X11 Server For 2026!?!",
+        "vote": 0
+    }
+]

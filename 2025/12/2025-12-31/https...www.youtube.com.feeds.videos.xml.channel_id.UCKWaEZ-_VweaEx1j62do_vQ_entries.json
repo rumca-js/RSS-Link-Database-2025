@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T14:13:29.872541+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T12:01:58+00:00",
+        "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbhrU\n\nLearn more about Virtual Private Network (VPN) here \u2192 https://ibm.biz/Bdbhrt\n\nThink your VPN keeps you safe online? \ud83e\udd14 Jeff Crume uncovers how VPNs, cybersecurity, and data protection actually work\u2014and where your privacy may still be at risk. Learn what really happens behind encryption and how to stay secure in today\u2019s connected world.\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/Bdbhr5\n\n#vpn #dataprivacy #dataprotection",
+        "id": 4443253,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zMahtD8TIwc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zMahtD8TIwc/hqdefault.jpg",
+        "title": "Do VPNs Really Protect Privacy? Data & Cybersecurity Insights",
+        "vote": 0
+    }
+]

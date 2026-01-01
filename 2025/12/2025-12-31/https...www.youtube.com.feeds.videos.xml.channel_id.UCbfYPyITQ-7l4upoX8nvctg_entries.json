@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T11:45:20.681631+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T11:22:02+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nUsing DeepSeek on Lambda:\nhttps://lambda.ai/inference-models/deepseek-r1\n\n\ud83d\udcdd The paper \"A Stream Function Solver for Liquid Simulations\" is available here:\nhttps://pub.ista.ac.at/group_wojtan/projects/2015_Ando_ASFSfLS/download/vecpotential.pdf\n\n\n\ud83d\udcdd My paper on simulations that look almost like reality is available for free here:\nhttps://rdcu.be/cWPfD \n\nOr this is the orig. Nature Physics link with clickable citations:\nhttps://www.nature.com/articles/s41567-022-01788-5\n\n\ud83d\ude4f We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nBenji Rabhan, B Shang, Christian Ahlin, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Steef, Taras Bobrovytsky, Tybie Fitzhugh, Ueli Gallizzi\nIf you wish to appear here or pick up other perks, click here: https://www.patreon.com/TwoMinutePapers\n\nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design:",
+        "id": 4442401,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wp8d24NkOjI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wp8d24NkOjI/hqdefault.jpg",
+        "title": "The Bug That Ruined Game Physics For Decades",
+        "vote": 0
+    }
+]

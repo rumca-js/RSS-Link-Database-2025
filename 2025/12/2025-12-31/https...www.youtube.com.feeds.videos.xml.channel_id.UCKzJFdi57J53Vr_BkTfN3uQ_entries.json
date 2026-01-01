@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Primer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T16:33:21.491351+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T16:03:16+00:00",
+        "description": "Patreon: https://www.patreon.com/primerlearning\n80,000 Hours: 80000hours.org/primer\n\nhttps://www.desmos.com/calculator/a5pfjtr4tr\n\nOther connections:\nDiscord: https://discord.gg/NbruaNW\nTwitch: https://www.twitch.tv/justin_helps\nStore: https://store.dftba.com/collections/primer \nReddit: https://www.reddit.com/r/primerlearning/\nBsky: https://bsky.app/profile/justinhelps.bsky.social\nTwitter: https://twitter.com/primerlearning\n\nLinks to other resources:\nhttps://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/\nhttps://www.youtube.com/c/robertmilesai\nhttps://www.youtube.com/@Siliconversations\nhttps://www.youtube.com/@Go-Meta\nhttps://www.youtube.com/@DwarkeshPatel \nhttps://www.youtube.com/@Alex.kantrowitz\nNicky Case: https://aisafety.dance/\nhttps://futureoflife.org/\nhttps://futureoflife.org/project/digital-media-accelerator/\nhttps://safe.ai/\nhttps://bluedot.org/courses\nhttps://www.aisafetybook.com/\nhttp://aisafety.com\nhttp://aisafety.info\n\n\nMusic b",
+        "id": 4444231,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Qg5QXY_qZuI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 839,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qg5QXY_qZuI/hqdefault.jpg",
+        "title": "Taking AI Doom Seriously For 62 Minutes",
+        "vote": 0
+    }
+]

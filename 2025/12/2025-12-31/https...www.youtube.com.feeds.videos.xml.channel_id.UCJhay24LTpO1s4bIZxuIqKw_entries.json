@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T17:08:07.446522+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T15:00:01+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\n(Re-)Learn C++ by Example - Frances Buontempo  - ACCU 2025 Short Talks\n---\n\n(Re-)Learn C++ by Example is a lightning talk by Frances Buontempo at ACCU 2025, encouraging educators and students alike to rediscover the joy of learning C++ through engaging, hands-on examples. Whether you're teaching C++, learning C++ fundamentals, or just looking for a C++ programming book with practical content, this session highlights how small games and fun C++ projects can help make abstract concepts stick.\n\nFrances shares her experience preparing a poster presentation for a hybrid conference with both in-person and Gather Town attendees. Along the way, she discusses how beginner C++ projects \u2014 even something as simple as a higher/lower card game \u2014 can be powerful teaching tools. These games provide an approachable way to explore C++ enums and variants while reinforcing the fundamentals of the language.\n\nDrawing from her technical book Learn C++ by Ex",
+        "id": 4444480,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-iMqnEj0vX0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-iMqnEj0vX0/hqdefault.jpg",
+        "title": "(Re-)Learn C++ by Example - Frances Buontempo  - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

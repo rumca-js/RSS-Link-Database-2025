@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T22:23:06.891209+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T20:54:56+00:00",
+        "description": "Where the hell did this garbage RAM come from?\n96GB Corsair Ram kit - https://www.amazon.com/dp/B0DT4L3CPH?th=1 \nPrice history -  https://pcpartpicker.com/product/RbTZxr/corsair-vengeance-rgb-96-gb-2-x-48-gb-ddr5-6000-cl30-memory-cmh96gx5m2b6000c30 \nPUSKILL RAM - https://www.amazon.com/dp/B0G4BGHWBH/ \nPUSKILL Newegg Store - https://www.newegg.com/Seller-Store/PUSKILL-Storage-Store",
+        "id": 4446345,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/up8gMb3D8E8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/up8gMb3D8E8/hqdefault.jpg",
+        "title": "Where the hell did this garbage RAM come from?",
+        "vote": 0
+    }
+]

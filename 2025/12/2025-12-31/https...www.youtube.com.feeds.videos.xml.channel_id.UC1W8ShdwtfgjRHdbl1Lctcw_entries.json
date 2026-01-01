@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T21:44:54.780341+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T20:49:54+00:00",
+        "description": "I colorized, fully restored, and crafted the sound design for this rare archival footage of Belgrade in 1945, capturing views across the Sava River toward Zemun and the Zemun Bridge, placards displayed throughout the city, the steeple of the Serbian Orthodox Cathedral (Saborna Crkva), and scenes of everyday urban life with people entering and leaving, vehicles, horse-drawn carts, trolley cars, and pedestrians crossing the bridge, as well as Belgrade\u2019s main streets and Terazije Square featuring the Albanija Building and the Balkan Hotel, alongside images of the Russian grave at Kne\u017eev Spomenik Square, the National Opera Theatre in Belgrade, and close details such as inscriptions on gravestones and the red star crowning the monument.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound only for the ambiance\n\u2714restoration:",
+        "id": 4446186,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=i_3cgE7pHjw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i_3cgE7pHjw/hqdefault.jpg",
+        "title": "Belgrade 1945 in Color, After World War II [60fps, Remastered] Sound Design",
+        "vote": 0
+    }
+]

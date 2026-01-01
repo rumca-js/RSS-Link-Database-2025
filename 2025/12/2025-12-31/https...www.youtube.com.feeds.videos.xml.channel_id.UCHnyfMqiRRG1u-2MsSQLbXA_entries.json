@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T16:17:27.178953+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T15:37:33+00:00",
+        "description": "The insane machines that make the most advanced computer chips. Sponsored by Brilliant - To learn for free for a full 30 days, go to https://brilliant.org/veritasium and get started. Plus, our viewers get 20% off an annual Premium subscription for unlimited daily access to all Brilliant courses. \n\n\u2580\u2580\u2580\n0:00 The Machine That Saved Moore\u2019s Law\n3:12 How are microchips made?\n9:11 What is extreme ultraviolet lithography?\n15:04 Nuclear Fusion To The Rescue \n21:59 How ASML Conquered The Chip World\n35:35 Who are ASML\u2019s biggest customers?\n37:40 The Most Important Tech Company In The World\n41:25 Inside ASML \n\n\u2580\u2580\u2580\nA big thank you to Marc Assinck, Jos Benschop, Jan van Schoot, and Jayson Stewart and the rest of the team at ASML.\n\nWe are also incredibly grateful to Vivek Bakshi, Andy Hawryluk, Marc Hijink, Asianometry & Claude Montcalm for their time and expertise. \n\nIf you want to learn more about ASML and how they developed EUV, check out Marc Hijnk's book \u201cFocus: The ASML way\u201d  - https://focus-d",
+        "id": 4444054,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=MiUHjLxm3V0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MiUHjLxm3V0/hqdefault.jpg",
+        "title": "Why It Was Almost Impossible To Make Transistors Less Than 10 nm",
+        "vote": 0
+    }
+]

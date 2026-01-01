@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T15:40:32.157173+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T14:39:49+00:00",
+        "description": "Does this tradeoff feel worth it?",
+        "id": 4443937,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/E1eA3sx9Cp8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E1eA3sx9Cp8/hqdefault.jpg",
+        "title": "What Meta and OpenAI Don't Want You to Know",
+        "vote": 0
+    }
+]

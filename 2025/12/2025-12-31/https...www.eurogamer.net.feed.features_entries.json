@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Tapsell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-12-31T10:30:07.964036+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-12-31T10:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/eg-top-50.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>It's been another strange, difficult, and yet somehow also brilliant year for video games in 2025. Triple-A releases have been sparse again, compared to the boom times of old, with a great big <a href=\"https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357\">GTA 6</a>-shaped hole left in the final few months of the year. And yet once again, every gap left by the established order has been filled twice over with something brilliantly new.</p> <p><a href=\"https://www.eurogamer.net/the-50-best-games-of-2025-ranked\">Read more</a></p>",
+        "id": 4442003,
+        "language": "en",
+        "link": "https://www.eurogamer.net/the-50-best-games-of-2025-ranked",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/eg-top-50.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "The 50 best games of 2025, ranked",
+        "vote": 0
+    }
+]
