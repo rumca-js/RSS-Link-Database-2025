@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T11:31:39.873467+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T10:45:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>It\u2019s the calm before the storm.</p>\n\n\n\n<p>Today, on New Year\u2019s Day, we have a brief moment to pause and prepare \u2014 and set ourselves up for success.</p>\n\n\n\n<p>From a tech perspective, that means taking the time to clean up and optimize your smartphone setup. That way, when the inevitable craziness hits, you\u2019ll be ready to tackle whatever comes your way with smart, sensible systems and all the best apps already in place and ready to serve you.</p>\n\n\n\n<p>We\u2019ve already thought through the top <a href=\"https://www.computerworld.com/article/1711923/android-tips-2025.html\">Android tips</a> and <a href=\"https://www.computerworld.com/article/3618854/google-android-app-tricks-2025.html\">Google Android app",
+        "id": 4449265,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/3618955/android-apps-202.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "47 awesome Android app discoveries from 2025",
+        "vote": 0
+    }
+]

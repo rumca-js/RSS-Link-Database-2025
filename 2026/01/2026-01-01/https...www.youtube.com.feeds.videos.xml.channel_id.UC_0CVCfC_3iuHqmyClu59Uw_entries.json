@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T15:26:41.614406+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T15:06:00+00:00",
+        "description": "Turn your phone (or handheld/mini PC) into a laptop-style setup with the all-new NexDock! This looks like a full-fledged laptop, but it doesn\u2019t have its own CPU\u2014instead, you plug in your device and the NexDock becomes a portable workstation with a 14\u201d display, backlit keyboard, and trackpad.\nIt\u2019s an awesome match for phones with built-in desktop mode (like Samsung DeX), and it also works great with devices like the Steam Deck, ROG Ally, Legion Go, mini PCs, and even single-board computers\u2014giving you a bigger screen + real keyboard/trackpad anywhere.\n\nLearn More Here:https://nexdock.com\n\nWorks with (examples)\n* Samsung Galaxy phones with desktop mode (DeX) \u2014 S25 Ultra / Z Flip / Note and more\n* Steam Deck / ROG Ally / Legion Go\n* Mini PCs + single-board computers (device/adapter dependent)\n\nIn this video\n* Setup + how it connects\n* Desktop mode experience (phone + handhelds)\n* Real-world use cases (work, travel, gaming, quick edits)\n* What\u2019s great / what to know before buying\nMy recomm",
+        "id": 4450458,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=-Aeue99j9Sk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-Aeue99j9Sk/hqdefault.jpg",
+        "title": "The All New Nexdock Turns Your Phone Into A Laptop!",
+        "vote": 0
+    }
+]

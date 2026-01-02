@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T15:10:52.370358+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T14:01:04+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/cK1JMK7Ckq0\" width=\"480\" alt=\"thumbnail\" title=\"'awk' - a programming language for working on files - Video Man Pages\" /></p>The 'awk command' is really an entire programming language used for working with files and text.<br /><br />- Print a file (similar to 'cat'):<br />  awk '{print}' path/to/file<br />    OR<br />  awk '{print $0}' path/to/file<br /><br />- Print the 2nd field of each line:<br />  awk '{print $2}' path/to/file<br /><br />- Print the last field of each line:<br />  awk '{print $NF}' path/to/file<br /><br />- Search for lines containing 'string' and print the second field of those lines:<br />  awk '/string/ {print $2}' path/to/file<br /><br />- Use a different field separator (instead of space) and print 1st and 7th fields with a TAB in between:<br />  awk -F \":\" '{print $1 \"\\t\" $7}' /etc/passwd<br /><br />- Find a specific string in any column:<br />  ps -ef | awk '{ if($NF == \"/usr/bin/pipewire\") print $0};'<br />  NOTE We",
+        "id": 4450386,
+        "language": "en",
+        "link": "https://odysee.com/%27awk%27-a-programming-language-for-working:f6300fc411be24bec4d5ff36cbfa47e6af98adbf",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/cK1JMK7Ckq0",
+        "title": "'awk' - a programming language for working on files - Video Man Pages",
+        "vote": 0
+    }
+]

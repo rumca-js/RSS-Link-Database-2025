@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T15:20:46.123348+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T14:01:04+00:00",
+        "description": "The 'awk command' is really an entire programming language used for working with files and text.\n\n- Print a file (similar to 'cat'):\n  awk '{print}' path/to/file\n    OR\n  awk '{print $0}' path/to/file\n\n- Print the 2nd field of each line:\n  awk '{print $2}' path/to/file\n\n- Print the last field of each line:\n  awk '{print $NF}' path/to/file\n\n- Search for lines containing 'string' and print the second field of those lines:\n  awk '/string/ {print $2}' path/to/file\n\n- Use a different field separator (instead of space) and print 1st and 7th fields with a TAB in between:\n  awk -F \":\" '{print $1 \"\\t\" $7}' /etc/passwd\n\n- Find a specific string in any column:\n  ps -ef | awk '{ if($NF == \"/usr/bin/pipewire\") print $0};'\n  NOTE We search if the last field is '/usr/bin/pipewire' and print the line.\n\n- Search 1st field if it starts with 'b' or 'c', then prints the line:\n  awk '$1 ~ /^[b,c]/ {print $0}' .bashrc\n  NOTE The '~' character is the regex match operator.\n\n- Use the 'substr' function to pri",
+        "id": 4450442,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cK1JMK7Ckq0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cK1JMK7Ckq0/hqdefault.jpg",
+        "title": "'awk' - a programming language for working on files - Video Man Pages",
+        "vote": 0
+    }
+]

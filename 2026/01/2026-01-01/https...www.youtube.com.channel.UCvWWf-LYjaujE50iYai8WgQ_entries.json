@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T21:46:34.818315+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T21:16:50+00:00",
+        "description": "What PC Building in 2026 is Like\n\u25b7 MY STORE - shirts, pint glasses & hoodies: http://paulshardware.net\nIt's our first PC build of 2026! This is a portable PC build for video editing, although it would make a very nice gaming PC as well, with a 9950X CPU, RTX 5080 GPU, a 64GB DDR5 memory kit and a white theme (with some black accents) in the Mechanic Master C28 case. It didn't go as smoothly as planned and we had to work around some compatibility problems given the small form factor (SFF) micro ATX case, but we're looking forward to bringing this along next week for our CES 2026 coverage. Enjoy, and Happy New Year everyone! \n\n\u25ba PARTS LIST\nCPU - AMD Ryzen 9 9950X - https://geni.us/VAu0Z  \nMotherboard - ASUS ROG Strix B850-G - https://geni.us/jNluI2n \nGPU - RTX 5080 Founders Edition - https://geni.us/pLivpD \nRAM - G.Skill Trident Z5 64GB (2x32GB) DDR5-6400 White - https://geni.us/Qqeair \nCASE - Mechanic Master C28 Micro ATX Case (Polar White) - https://tinyurl.com/2eh5wvyc \nPSU (option 1",
+        "id": 4452400,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aSp34Q9k7PA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aSp34Q9k7PA/hqdefault.jpg",
+        "title": "What PC Building in 2026 is Like",
+        "vote": 0
+    }
+]

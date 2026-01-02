@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T18:35:04.921192+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T16:30:14+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/XXOP9NfXj7s\" width=\"480\" alt=\"thumbnail\" title=\"Linus Torvalds Is Not Happy With SFC vs Vizio Lawsuit\" /></p>There has been a lawsuit between the Software Freedom Conservancy and Vizio for quite a few years now and following a partial ruling Linus Torvalds was not very happy with the direction that things seem to be going.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />The Register 2021: https://www.theregister.com/2021/10/20/vizio_gpl_lawsuit/<br />SFC Complaint: https://sfconservancy.org/copyleft-compliance/vizio.html<br />The Register 2025: https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/<br />Tentative Ruling: https://sfconservancy.org/static/docs/2025-12-04-sl",
+        "id": 4451535,
+        "language": "en",
+        "link": "https://odysee.com/linus-torvalds-is-not-happy-with-sfc-vs:682d9fd2aa6e8d9c30f12e8bbe7c9c0199f5d007",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/XXOP9NfXj7s",
+        "title": "Linus Torvalds Is Not Happy With SFC vs Vizio Lawsuit",
+        "vote": 0
+    }
+]

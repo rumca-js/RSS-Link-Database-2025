@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T17:44:39.201261+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T17:10:35+00:00",
+        "description": "Getting fit, getting crafty, getting out there. Today\u2019s #GoogleDoodle is all about New Year, New Me energy. However you choose to reimagine your year, we\u2019re here for the journey. Happy 2026!",
+        "id": 4451222,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ah7-tJleyUk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ah7-tJleyUk/hqdefault.jpg",
+        "title": "New Year, New Beginnings. Have you set your resolutions yet?",
+        "vote": 0
+    }
+]

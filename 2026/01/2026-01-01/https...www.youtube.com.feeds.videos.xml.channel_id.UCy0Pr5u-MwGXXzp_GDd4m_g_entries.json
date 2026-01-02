@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julie Nolke",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T18:42:56.492122+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T17:53:12+00:00",
+        "description": "We're sexy, sober, and full of water. Who wouldn't want to be us?\n\nThank you to the wonderful and hilarious Gwynne Phillips and Briana Templeton for writing, producing, and starring in this hilarious sketch. Gwynne and Briana are an AMAZING comedy duo, check out their work below!\n\nTempleton Philharmonic: https://www.instagram.com/templetonphil/\nGwynne Phillips: https://www.instagram.com/gwynne.phillips/\nBriana Templeton: https://www.instagram.com/brianatempleton/\n\nSign up to my Patreon for behind the scenes bloopers and early access to videos here: https://www.patreon.com/julienolke\n\nActors: Gwynne Phillips, Briana Templeton\nWriter: Gwynne Phillips, Briana Templeton\nCamera: Sam Larson\nEditor: Alec McKay",
+        "id": 4451573,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=97DBlIPSMkI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 170,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/97DBlIPSMkI/hqdefault.jpg",
+        "title": "New Year, New Me",
+        "vote": 0
+    }
+]

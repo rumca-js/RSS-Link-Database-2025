@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T15:24:23.946466+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T15:01:20+00:00",
+        "description": "When you open a bag of Haribo Goldbears in the U.S., you'll notice there are more red bears than there are of any other color. Here's why.\u2060\n\u2060\nHaribo built a global candy empire by focusing on gummies, using local factories and regional flavors to grow from a family business into one of the largest gummy candy manufacturers in the world.\u2060\n\n#Haribo #Candy #WSJ",
+        "id": 4450451,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/kUcmO8xPZA8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kUcmO8xPZA8/hqdefault.jpg",
+        "title": "Why Haribo Goldbears Come With More Red Bears in the U.S.",
+        "vote": 0
+    }
+]

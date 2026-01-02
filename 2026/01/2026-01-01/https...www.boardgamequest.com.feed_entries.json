@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zach Langsley Norman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T14:58:18.137127+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T13:52:27+00:00",
+        "description": "<img width=\"640\" height=\"425\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-Resolutions-1024x680.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"New Years Resolutions\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-Resolutions-1024x680.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-Resolutions-300x199.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-Resolutions-150x100.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-Resolutions-768x510.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-Resolutions-640x425.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-Resolutions-1280x850.jpg 1280w, https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-R",
+        "id": 4450295,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/bgq-staff-presents-board-gaming-resolutions-2026",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/12/New-Years-Resolutions-1024x680.jpg",
+        "title": "BGQ Staff Presents: Board Gaming Resolutions 2026",
+        "vote": 0
+    }
+]

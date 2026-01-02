@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T20:30:38.364000+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T20:25:43+00:00",
+        "description": "<img src=\"https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-3492000-tonga-ph7285686/alternates/LANDSCAPE_1280\" alt=\"Zachodni kolonializm upada po raz drugi. Wkracza chi\u0144ski\" />\n    Mamy do czynienia z drugim rozpadem zachodniego systemu kolonialnego, ale - co r\u00f3wnie wa\u017cne - sam kolonializm w og\u00f3le nie znika. Ten, kto ma si\u0142\u0119, wci\u0105\u017c wykorzystuje niezmiennie s\u0142absze kraje - podkre\u015bla filozof, profesor Damian Leszczy\u0144ski z Uniwersytetu Wroc\u0142awskiego. Jak wskazuje, teraz na \u015bwiatow\u0105 aren\u0119 wesz\u0142y Chiny, a ca\u0142kowita zmiana powojennego uk\u0142adu si\u0142 jest bardzo widoczna w Azji, na Pacyfiku i w Afryce.",
+        "id": 4452061,
+        "language": "pl-PL",
+        "link": "https://tvn24.pl/swiat/chiny-usa-i-kolonializm-w-xxi-wieku-prof-damian-leszczynski-trwa-drugi-rozpad-zachodniego-systemu-kolonialnego-st8826640?source=rss",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 319,
+        "source_url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-3492000-tonga-ph7285686/alternates/LANDSCAPE_1280",
+        "title": "Zachodni kolonializm upada po raz drugi. Wkracza chi\u0144ski",
+        "vote": 0
+    }
+]

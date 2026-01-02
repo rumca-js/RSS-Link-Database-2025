@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Varun Mayya",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T13:38:35.998311+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T12:50:55+00:00",
+        "description": "Welcome to the third session of the 16-Kata series, where we move from theory to execution and focus on implementing the Lightning Way using AI.\n\nThis session breaks down why writing is a form of thinking, why most execution failures are context failures rather than skill failures, and why both AI systems and human teams behave like literal genies when instructions are vague. We examine how clarity, examples, references, and precise specifications reduce coordination costs, improve decision-making, and align teams at scale.\n\nWe then show how to apply this practically using AI for research, planning, hiring, incentive design, reporting, and creative direction, combining AI with human verification to avoid hallucinations. If you lead teams or manage complexity, this session presents a concrete framework for using AI to scale clarity, delegation, and execution\n\n00:00 - Intro\n01:10 - Session Overview\n03:03 - The Genie Thought Experiment \n05:55 - AI as a Literal Genie\n10:40 - Practical Wri",
+        "id": 4449788,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yJFsZLgUa40",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 882,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQoiOrh7jzKmE8NBofhTnQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yJFsZLgUa40/hqdefault.jpg",
+        "title": "How I Use AI (1 Hour Masterclass)",
+        "vote": 0
+    }
+]

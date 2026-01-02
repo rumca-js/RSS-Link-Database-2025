@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T16:56:31.828843+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T16:30:14+00:00",
+        "description": "There has been a lawsuit between the Software Freedom Conservancy and Vizio for quite a few years now and following a partial ruling Linus Torvalds was not very happy with the direction that things seem to be going.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nThe Register 2021: https://www.theregister.com/2021/10/20/vizio_gpl_lawsuit/\nSFC Complaint: https://sfconservancy.org/copyleft-compliance/vizio.html\nThe Register 2025: https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/\nTentative Ruling: https://sfconservancy.org/static/docs/2025-12-04-sleal-tentative-rulings.pdf\nFOSS Force Article: https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/\nSFC Ruling: https://sfconservancy.org/news/2025/dec/24/vizio-msa",
+        "id": 4450908,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=XXOP9NfXj7s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XXOP9NfXj7s/hqdefault.jpg",
+        "title": "Linus Torvalds Is Not Happy With SFC vs Vizio Lawsuit",
+        "vote": 0
+    }
+]

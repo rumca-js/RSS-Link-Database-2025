@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T08:16:47.833450+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T08:01:32+00:00",
+        "description": "Today's links The Post-American Internet: My speech from Hamburg's Chaos Communications Congress. Hey look at this: Delights to delectate. Object permanence: Error code 451; Public email address Mansplaining Lolita; NSA backdoor in Juniper Networks; Don't bug out; Nurses whose shitty boss is a shitty app. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The Post-American Internet (permalink) On December 28th, I delivered a speech entitled \"A post-American, enshittification-resistant internet\" for 39C3, the 39th Chaos Communications Congress in Hamburg, Germany. This is the transcript of that speech. https://archive.org/download/doctorow-39c3/39c3-1421-eng-A_post-American_enshittification-resistant_internet.mp4 Many of you know that I'm an activist with the Electronic Frontier Foundation &#8211; EFF. I'm about to start my 25th",
+        "id": 4448477,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2026/01/01/39c3",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/craphound.com/images/01Jan2026.jpg?w=840&ssl=1",
+        "title": "Pluralistic: The Post-American Internet (01 Jan 2026)",
+        "vote": 0
+    }
+]

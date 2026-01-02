@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Donlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T09:04:25.082197+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T09:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/blue-prince-goty-header.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>My great aunt lived to be 102, and when she was dying she revealed that she had been married not five times but six. We have no idea who the sixth husband was or where he fit into the Aunt Mickey timeline. I have to assume we'll never know.</p> <p><a href=\"https://www.eurogamer.net/blue-prince-our-game-of-the-year-is-so-much-more-than-just-a-brilliant-puzzler\">Read more</a></p>",
+        "id": 4448624,
+        "language": "en",
+        "link": "https://www.eurogamer.net/blue-prince-our-game-of-the-year-is-so-much-more-than-just-a-brilliant-puzzler",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/blue-prince-goty-header.png?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Blue Prince, our game of the year, is so much more than just a brilliant puzzler",
+        "vote": 0
+    }
+]

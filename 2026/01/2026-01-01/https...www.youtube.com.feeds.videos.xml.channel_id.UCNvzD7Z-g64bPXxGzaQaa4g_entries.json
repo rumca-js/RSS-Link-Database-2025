@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T17:43:01.698487+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T16:43:43+00:00",
+        "description": "2025 had plenty of Ws, but a handful of things did get worse.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:38 Number 10\n2:10 Number 9\n3:32 Number 8\n5:21 Number 7\n8:07 Number 6\n10:03 Number 5\n11:22 Number 4\n13:03 Number 3\n14:42 Number 2\n16:08 Number 1",
+        "id": 4451199,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Saf0mGyF7Vw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Saf0mGyF7Vw/hqdefault.jpg",
+        "title": "10 Things That Got WORSE Last Year",
+        "vote": 0
+    }
+]

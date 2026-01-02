@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T15:13:23.346537+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T14:55:31+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nIn the last DF Direct video of the year, Rich, Oliver and Alex join forces to discusses their experiences of the best gaming hardware of 2025. Handhelds dominate, and while Switch 2's mega sales cannot be denied, Rich makes the case for the crazy GPD Win 5, while Oliver opts for the SteamOS-based Lenovo Legion Go S. Beyond portables, it's all about the Ryzen 9 9950X3D, RTX 5090, the Blackwell and RDNA 4 launches in general and - finally - green shoots of hope in what looks to be a grim 2026.\n\nVisit the new Digital Foundry website: https://www.digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n0:00:00 Introduction \n0:00:53 GPD Win 5 \n0:11:07 Asus ROG Xbox Ally X \n0:15:40 Lenovo Legion Go S \n0:18:44 MSI Claw 8 AI + \n0:19:45 Nintendo Switch 2 \n0:28:59 AMD Ryzen 9 9950X3D \n0:38",
+        "id": 4450409,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kDtgP4KltrU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kDtgP4KltrU/hqdefault.jpg",
+        "title": "Digital Foundry's Best Gaming Hardware 2025: Switch 2, GPD Win 5, RTX 5090, Ryzen 9950X3D + More!",
+        "vote": 0
+    }
+]

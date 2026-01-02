@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-01T16:30:15.374183+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-01T15:29:59+00:00",
+        "description": "It's a new year, and that means its time to kick things off with a bang! Join me, MauLer, Nerdrotic and Disparu as we welcome in 2026, talk about the big movies and shows coming up in the year ahead... oh yeah, and we should probably cover that Stranger Things finale, shouldn't we.\n\nSubscribe to Nerdrotic: https://www.youtube.com/@nerdrotic\nSubscribe to Disparu: https://www.youtube.com/@disparutoo",
+        "id": 4450816,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fncNmFZuDcs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fncNmFZuDcs/hqdefault.jpg",
+        "title": "Open Bar #169 - New Year Special!",
+        "vote": 0
+    }
+]
