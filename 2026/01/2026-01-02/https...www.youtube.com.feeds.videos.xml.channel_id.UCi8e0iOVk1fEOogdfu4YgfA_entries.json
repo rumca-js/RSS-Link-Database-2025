@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rotten Tomatoes Trailers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T22:40:01.273510+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T21:14:05+00:00",
+        "description": "Check out an Official Movie Clip for Avatar: Fire and Ash directed by James Cameron!\n\nBuy tickets on Fandango and learn more on Rotten Tomatoes.\n\nNow Playing\n\n#shorts",
+        "id": 4460175,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/DyUd8Wd83GU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 285,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8e0iOVk1fEOogdfu4YgfA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DyUd8Wd83GU/hqdefault.jpg",
+        "title": "NEW MOVIE CLIP for Avatar: Fire and Ash (2025) - FLAMETHROWER",
+        "vote": 0
+    }
+]

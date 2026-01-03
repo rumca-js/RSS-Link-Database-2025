@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T10:51:14.453164+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T10:03:00+00:00",
+        "description": "An essential feature of every bottle is the neck. No neck, no bottle. There are bottlenecks in every process, every project and every method. Something is limited. We can pretend that&#8217;s not the case and avoid the discussion. Or we can see it as an opportunity. Successful organizations are good at embracing and working with [&#8230;]",
+        "id": 4455507,
+        "language": "en-US",
+        "link": "https://seths.blog/2026/01/bottlenecks-2",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bottlenecks",
+        "vote": 0
+    }
+]

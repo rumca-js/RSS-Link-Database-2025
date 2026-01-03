@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T17:34:19.591570+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T17:34:18+00:00",
+        "description": "Nowe \u017cycie dla starszych elektrowni w\u0119glowych ma by\u0107 polsk\u0105 odpowiedzi\u0105 na wnioski p\u0142yn\u0105ce z blackoutu w Hiszpanii. Polskie Sieci Elektroenergetyczne chc\u0105 wykorzysta\u0107 te elektrownie do stabilizacji pracy systemu energetycznego. Maj\u0105 one pe\u0142ni\u0107 rol\u0119 kompensator\u00f3w, w kt\u00f3rych jednak w\u0119giel jako paliwo nie b\u0119dzie ju\u017c potrzebny.",
+        "id": 4458254,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/elektroenergetyka/art43587471-nowe-zycie-dla-elektrowni-weglowych-polska-wyciagnie-wnioski-z-blackoutu-w-hiszpanii",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowe \u017cycie dla elektrowni w\u0119glowych. Polska wyci\u0105gnie wnioski z blackoutu w Hiszpanii?",
+        "vote": 0
+    }
+]

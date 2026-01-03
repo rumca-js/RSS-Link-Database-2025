@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alexander Smith",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T12:13:29.073711+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T11:41:38+00:00",
+        "description": "Details are beginning to emerge about the fire that eruopted at the Constellation Bar in the Swiss ski resort of Crans-Montana on New Year's Day.",
+        "id": 4456028,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/europe/swiss-ski-resort-fire-crans-montana-constellation-bar-new-year-rcna251883",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260102-swiss-fire-5-rs-1090a9.jpg",
+        "title": "What we know about the Swiss ski resort fire",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameClips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T21:54:02.174675+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T21:00:06+00:00",
+        "description": "DIABLO Full Movie Cinematic (2026) 4K ULTRA HD Action Fantasy\n\nNew Clips 2026!\n\nSubscribe To Gameclips To Catch Up All The Best Clips.",
+        "id": 4459938,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2YOoG5dgJjQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 895,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj4lFy4F5PqXD7d41mCKVYw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2YOoG5dgJjQ/hqdefault.jpg",
+        "title": "DIABLO Full Movie (2026) 4K ULTRA HD Action Fantasy",
+        "vote": 0
+    }
+]

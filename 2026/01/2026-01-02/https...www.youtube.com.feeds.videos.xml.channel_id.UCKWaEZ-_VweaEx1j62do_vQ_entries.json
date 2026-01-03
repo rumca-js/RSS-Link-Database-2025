@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T13:27:25.117129+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T11:00:30+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/BdbkGM\n\nWhat defined AI in 2025 and what\u2019s coming in 2026? In this special year-end episode of Mixture of Experts, host Tim Hwang sits down with veteran panelists to review the biggest AI moments of 2025 and make bold predictions for the year ahead. \n\nKaoutar El Maghraoui unpacks the AI hardware supply crisis and NVIDIA's chip dominance. Gabe Goodhart defends open source's breakout year with models like Kimi K2 Thinking. Chris Hay argues 2025 delivered on \"super agents\" through ChatGPT Deep Research and Claude Code. Finally, Aaron Baughman and Abraham Daniels predict the future of multimodal AI\u2014from vision models to autonomous digital workers. Join our experts as they separate AI hype from reality and forecast what 2026 holds. \n\n00:00 \u2013 Introduction \n00:45 \u2013 Chris: Super agents, reasoning models and 2025 reflections \n12:26 \u2013 Gabe: Open source's breakthrough year and what's next \n22:17 \u2013 Kaoutar: AI hardware in 2025 and predictions for 2026 \n29:18 ",
+        "id": 4456496,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ARXS-uk19h8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ARXS-uk19h8/hqdefault.jpg",
+        "title": "AI year in review: Trends shaping 2026",
+        "vote": 0
+    }
+]

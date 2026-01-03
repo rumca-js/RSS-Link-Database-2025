@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T18:17:05.011070+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T17:22:21+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />std::chrono::high_resolution_clock sounds like the obvious choice when you care about precision, but its name hides some important caveats. In this article, we&rsquo;ll demystify what &ldquo;high resolution&rdquo; really means in &lt;chrono&gt;, why this clock is often just an alias, and when&mdash;if ever&mdash;it&rsquo;s actually the right tool to use.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/12/10/clocks-part-4-high_resolution_clock\">Time in C++: std::chrono::high_resolution_clock - Myths and Realities</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIf there&rsquo;s one clock in&nbsp;<code>&lt;chrono&gt;</code>&nbsp;that causes the most confusion, it&rsquo;s&nbsp;<code>std::chrono::high_resolution_clock</code>. The name sounds too tempting &m",
+        "id": 4458514,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/01/time-in-cpp-stdchronohigh-resolution-clock-myths-and-realities-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "Time in C++: std::chrono::high_resolution_clock:  Myths and Realities -- Sandor Dargo",
+        "vote": 0
+    }
+]

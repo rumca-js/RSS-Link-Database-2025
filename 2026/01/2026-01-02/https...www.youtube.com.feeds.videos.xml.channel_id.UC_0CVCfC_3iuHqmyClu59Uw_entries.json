@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T15:54:13.083299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T15:00:22+00:00",
+        "description": "This might be the smallest Steam Machine-style PC I\u2019ve ever built \u2014 and it\u2019s running official SteamOS with RDNA3 graphics and an 8-core / 16-thread Ryzen CPU. In this 10-minute build + test, I\u2019m showing the size comparison, the specs, SteamOS settings, and real gameplay at 1080p (and even 1440p in lighter/older titles). Powered by an and risen 7840U and backed by 32GB of Ram this Micro Mini Steam Machine Game!\n\nThis is the 3D model I modified: https://makerworld.com/en/models/1994310-valve-steam-machine-1-1-scale-model#profileId-2146544\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Black Friday Sale code for software\uff1aETA \nWindows 11 Pro Key($23):https://biitt.ly/RUZiX \nWindows 11 Home Key($22):https://biitt.ly/SQKqi \nWindows 10 Pro OEM Key($19):https://biitt.ly/KpEmf \nWindows10 Home Key($17):https://biitt.ly/2tPi1 \nWindows 10 LTSC 2021 Key($15): https://biitt.ly/W564e \nOffice 2019 pro key($63):https:",
+        "id": 4457558,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=DB4hGRPxs0U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DB4hGRPxs0U/hqdefault.jpg",
+        "title": "I Built The Worlds Smallest Steam Machine!",
+        "vote": 0
+    }
+]

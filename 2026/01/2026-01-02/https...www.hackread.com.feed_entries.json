@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T18:42:45.512393+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T18:37:30+00:00",
+        "description": "Tokyo FM is investigating claims of a massive data breach involving 3 million records. Learn what information was allegedly taken and how you can stay safe.",
+        "id": 4458759,
+        "language": "en-US",
+        "link": "https://hackread.com/tokyo-fm-data-breach-hacker-3-million-records-stolen",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tokyo FM Data Breach: Hacker Claims Over 3 Million Records Stolen",
+        "vote": 0
+    }
+]

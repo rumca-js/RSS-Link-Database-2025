@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Atomic Shrimp",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T18:00:10.235255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T17:00:52+00:00",
+        "description": "My new doorbell doesn't look like a doorbell, so took the opportunity to experiment with etching, to make a little sign.\n\nJoin the Atomic Shrimp official Discord server for FREE early access to videos! - https://discord.gg/atomicshrimp  \nAtomic Shrimp subreddit: https://www.reddit.com/r/AtomicShrimp/\n\nTimestamps:\n0:00 The requirement\n1:36 Design\n2:07 First attempt\n4:58 First result\n5:48 Why go wrong?\n6:52 Troubleshooting\n7:30 Second attempt\n9:31 Second result\n10:28 Affixing",
+        "id": 4458454,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TAigTP1NVss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 704,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5Uxu2LyaoAoMMGp6oTJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TAigTP1NVss/hqdefault.jpg",
+        "title": "Etching Aluminium to Make a Small Sign",
+        "vote": 0
+    }
+]

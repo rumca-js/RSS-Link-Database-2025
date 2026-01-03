@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T16:22:50.365777+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T16:01:03+00:00",
+        "description": "What does it feel like to see Earth from outer space and imagine humanity's next steps? Astronaut Chris Hadfield, who has flown two Space Shuttle missions and served as commander of the International Space Station, explores the recent leaps in space exploration. From the thrills and risks of commercial space travel to collaborating as a species to shape the future, Hadfield reflects on what inspires innovation and our dreams of visiting the stars. (This conversation, hosted by TED's Whitney Pennington Rodgers, was part of an exclusive TED Membership event. TED Membership is the best way to support and engage with the big ideas you love from TED. To learn more, visit ted.com/membership.) (Recorded at TED Membership on October 28, 2025)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nX: https://www.twitter.com/TEDTalks\nIns",
+        "id": 4457686,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_ozdlc2ouYc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_ozdlc2ouYc/hqdefault.jpg",
+        "title": "This Revolutionary Moment in Space Exploration | Chris Hadfield | TED",
+        "vote": 0
+    }
+]

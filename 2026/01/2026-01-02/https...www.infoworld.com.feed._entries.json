@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T10:04:37.321394+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T09:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p><a href=\"https://www.infoworld.com/article/2338115/what-is-generative-ai-artificial-intelligence-that-creates.html\" data-type=\"link\" data-id=\"https://www.infoworld.com/article/2338115/what-is-generative-ai-artificial-intelligence-that-creates.html\">Artificial intelligence</a> and its <a href=\"https://www.infoworld.com/article/4058076/vibe-coding-and-the-future-of-software-development.html\">promise to revolutionize programming</a>\u2014and possibly overthrow human sovereignty\u2014is a central story of the post-Covid world. But for <a href=\"https://www.infoworld.com/article/4051691/what-makes-javascript-great.html\">JavaScript</a> developers, it is only one of the forces contending for center stage.</p>\n\n\n\n",
+        "id": 4455273,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4109248/back-to-the-future-the-most-popular-javascript-stories-and-themes-of-2025.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Back to the future: The most popular JavaScript stories and themes of 2025",
+        "vote": 0
+    }
+]

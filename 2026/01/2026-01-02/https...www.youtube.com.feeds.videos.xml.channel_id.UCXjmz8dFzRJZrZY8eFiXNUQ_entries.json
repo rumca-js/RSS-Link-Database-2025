@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T18:15:17.783869+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T18:00:36+00:00",
+        "description": "Star Wars, Blade Runner, and The Lord of the Rings are some of the most iconic films ever made. Movies that continue to look and feel timeless decades after their release. Even in the modern era of CGI blockbusters, these films hold up visually and emotionally in a way many newer releases struggle to match.\n\nSo why is that? Why do classic films relying on practical effects, miniature set pieces, and real-world craftsmanship age better than many CGI-heavy movies today?  Will we ever return to worlds built by hand instead of with a computer?\n\n#miniatureset #miniature #lordoftherings #harrypotter #nerdstalgic",
+        "id": 4458509,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TJXO84LvK-Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TJXO84LvK-Q/hqdefault.jpg",
+        "title": "Why Miniatures Look Better than CGI",
+        "vote": 0
+    }
+]

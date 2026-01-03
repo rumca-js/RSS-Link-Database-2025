@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T16:12:35.690899+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T15:00:50+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nCard Magic and True Randomness - Ed Brims - ACCU 2025 Short Talks\n---\n\nHow random is random, really? In this lightning talk from ACCU 2025, Ed Brims explores the unpredictable world of randomness\u2014by combining live card magic with computer science insights. Randomness, true randomness, and pseudo random number generation all come into question in this engaging and educational demonstration.\n\nUsing a deck of playing cards, audience participation, and a few clever predictions, Ed shows how difficult it is to generate genuinely random data. Most computers rely on pseudo random number generators, but even humans, when asked to shuffle cards or make \u201crandom\u201d decisions, tend to follow predictable patterns. The talk illustrates how techniques like the riffle shuffle aim to introduce entropy, yet still fall short of true randomness.\n\nEd walks us through a live experiment involving shuffling algorithms, face-up cards, and an impressive predicti",
+        "id": 4457629,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=POMZxVoGA9g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/POMZxVoGA9g/hqdefault.jpg",
+        "title": "Card Magic and True Randomness - Ed Brims - ACCU 2025 Short Talks",
+        "vote": 0
+    }
+]

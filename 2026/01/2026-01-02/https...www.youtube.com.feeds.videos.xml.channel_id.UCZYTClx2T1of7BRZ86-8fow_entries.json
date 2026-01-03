@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T17:14:50.432748+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T16:00:38+00:00",
+        "description": "Send a Cake is a great way to show your loved ones just how much they mean to you! Get 10% off your order by clicking the link and using the code SCISHOW: https://sendacake.com/scishowbirthdays1\n\nLook at a map of the Yucatan Peninsula and you\u2019ll immediately notice it\u2019s lacking a feature that\u2019s pretty common nearly everywhere else on Earth: major /rivers/. So where does all the water go? Turns out it\u2019s hiding beneath our feet. \n \nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Cye Stoner, Jp Lynch, Bethany Matthews, Chris Curry, J.V. Rosenbalm, Alan Wong, Toyas Dhake, Reed Spilmann, Garrett Galloway, Friso, Lynds",
+        "id": 4458095,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=MzKEsZLCwlk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MzKEsZLCwlk/hqdefault.jpg",
+        "title": "Why Doesn\u2019t the Yucat\u00e1n Have Rivers?",
+        "vote": 0
+    }
+]

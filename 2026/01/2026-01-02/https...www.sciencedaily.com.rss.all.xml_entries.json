@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T16:21:52.871125+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T10:21:08+00:00",
+        "description": "Attention depends on the brain\u2019s ability to filter out distractions, but new research suggests this works best when background brain activity is quieter. Scientists found that lowering certain versions of the Homer1 gene improved focus in mice by calming neural noise. The effect was strongest during a critical developmental window. This approach could inspire new treatments for ADHD that work by reducing mental clutter instead of increasing stimulation.",
+        "id": 4457679,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/12/251225035342.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A \"herculean\" genetic study just found a new way to treat ADHD",
+        "vote": 0
+    }
+]

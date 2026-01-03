@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Becky Ferreira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T21:05:54.972023+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T19:00:09+00:00",
+        "description": "After years of debate, scientists found a telltale sign that an ancient ape walked on two legs, making it the oldest known human relative.",
+        "id": 4459727,
+        "language": "en",
+        "link": "https://www.404media.co/scientists-identify-the-remains-of-the-earliest-human-ancestor",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2026/01/image2.jpg",
+        "title": "Scientists Identify Remains of the Earliest Human Ancestor",
+        "vote": 0
+    }
+]

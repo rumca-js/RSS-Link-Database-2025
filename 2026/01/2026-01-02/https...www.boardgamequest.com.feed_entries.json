@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Charlie",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T14:24:55.150135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T14:11:42+00:00",
+        "description": "<img width=\"640\" height=\"848\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/12/Escape-from-Projekt-Riese.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Escape from Projekt Riese\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/12/Escape-from-Projekt-Riese.jpg 680w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Escape-from-Projekt-Riese-226x300.jpg 226w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Escape-from-Projekt-Riese-113x150.jpg 113w, https://www.boardgamequest.com/wp-content/uploads/2025/12/Escape-from-Projekt-Riese-640x848.jpg 640w\" sizes=\"(max-width: 640px) 100vw, 640px\" />My first experience with Nazi zombies was in a Call of Duty video game, but that broad concept is actually a well-established niche of the horror genre, dating all the way back to World War II. That won\u2019t be a surprise t",
+        "id": 4456874,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/escape-from-projekt-riese-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.boardgamequest.com/wp-content/uploads/2025/12/Escape-from-Projekt-Riese.jpg",
+        "title": "Escape from Projekt Riese Review",
+        "vote": 0
+    }
+]

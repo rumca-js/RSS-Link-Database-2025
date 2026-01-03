@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-02T16:38:22.800252+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-02T15:39:00+00:00",
+        "description": "This NASA/ESA Hubble Space Telescope image features the galaxy NGC 4388, a member of the Virgo galaxy cluster.",
+        "id": 4457857,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/hubble-ngc4388-potw2550a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hubble Glimpses Galactic Gas Making a Getaway",
+        "vote": 0
+    }
+]
